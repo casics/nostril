@@ -69,14 +69,13 @@ else:
     sys.path.append('../common')
 
 from utils import msg, full_path
-from nonsense_detector import *
-from training_set import *
+from nostril import *
 
 
 # Objective function
 # .............................................................................
 
-ngram_freq = dataset_from_pickle('ngram_values.pklz')
+ngram_freq = dataset_from_pickle('ngram_data.pklz')
 
 def find_parameters(vars):
     var_min_score       = vars[0]
@@ -84,25 +83,25 @@ def find_parameters(vars):
     var_rep_penalty_exp = vars[2]
     var_len_threshold   = vars[3]
 
-    is_nonsense = generate_nonsense_detector(min_score=var_min_score,
-                                             score_len_threshold=var_len_threshold,
-                                             score_len_penalty_exp=var_len_penalty_exp,
-                                             score_rep_penalty_exp=var_rep_penalty_exp)
+    tester = generate_nonsense_detector(min_score=var_min_score,
+                                        score_len_threshold=var_len_threshold,
+                                        score_len_penalty_exp=var_len_penalty_exp,
+                                        score_rep_penalty_exp=var_rep_penalty_exp)
 
-    false_pos1, _, _, _, _ = test_strings('/usr/share/dict/web2', is_nonsense,
+    false_pos1, _, _, _, _ = test_strings('/usr/share/dict/web2', tester,
                                           trace_scores=False)
 
     false_pos2, _, _, _, _ = test_strings('tests/unlabeled-cases/loyola-u-ids-cleaned.txt',
-                                          is_nonsense, trace_scores=False)
+                                          tester, trace_scores=False)
 
     false_pos3, false_neg1, _, _, _ = test_labeled('tests/labeled-cases/real-not-real.csv',
-                                                   is_nonsense, trace_scores=False)
+                                                   tester, trace_scores=False)
     # test_labeled returns a list of items, not counts, so turn them into counts
     false_pos3 = len(false_pos3)
     false_neg1 = len(false_neg1)
 
     false_neg2, _, _, _, _ = test_strings('tests/unlabeled-cases/random-by-hand.txt',
-                                          is_nonsense, sense='invalid', trace_scores=False)
+                                          tester, sense='invalid', trace_scores=False)
 
     return [false_pos1, false_pos2, false_pos3, false_neg1, false_neg2]
 
@@ -149,9 +148,9 @@ problem.types[:] = [Real(7.0, 10.0),    # min_score
 
 msg('Running NSGAII')
 start = time()
-with ProcessPoolEvaluator(7) as evaluator:
+with ProcessPoolEvaluator(6) as evaluator:
     algorithm = NSGAII(problem, evaluator=evaluator)
-    algorithm.run(25000)
+    algorithm.run(50000)
 msg('Done after {}s'.format(time() - start))
 
 with open('optimize-results.txt', "w") as f:
