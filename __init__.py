@@ -22,10 +22,10 @@ Modules
     (Internally, `is_nonsense()` is created using
     `generate_nonsense_detector()` with default paramater values.)
 
-`training_set.py`: Functions to create a training set of real program
-    identifiers or pseudo-real program identifiers, as well as to create a
-    set of random text strings.  This was used to generate n-gram statistics
-    used by default by `generate_detector()`.  It can be used to retrain the
+`training.py`: Functions to create a training set of real program identifiers
+    or pseudo-real program identifiers, as well as to create a set of random
+    text strings.  This was used to generate n-gram statistics used by
+    default by `generate_nonsense_detector()`.  It can be used to retrain the
     system.
 
 `ng.py`: Definition of a named tuple for storing n-gram statistics.
