@@ -6,19 +6,19 @@ This Python 3 module is designed to detect whether a given medium-length string 
 Usage
 -----
 
-The basic usage is very simple.  _Nostril_ is a Python module provides a single function, `is_nonsense()`, that takes a text string as an argument and returns a Boolean value as a result.  Here is an example:
+The basic usage is very simple.  _Nostril_ is a Python module that (among other things) provides a function named `is_nonsense()`.  This function takes a text string as an argument and returns a Boolean value as a result.  Here is an example:
 
-    import nostril
+    from nostril import is_nonsense
     result = is_nonsense('yoursinglestringhere')
 
-The value of `result` will be a Boolean, with the value `True` if the input string is probably meaningless and `False` if it is probably not.
+The value of `result` will be a Boolean, with the value `True` if the input string is probably meaningless and `False` if it is probably not.  (Note: the first time you import the module `nostril`, it will take extra time because Nostril loads a large data file during the import step.  If you only execute the short two-line example above, it will seem that Nostril takes far too long to evaluate a string.  This is misleading: one it's loaded, multiple calls to `is_nonsense()` are very fast.)
 
 It is possible to tune some of the parameters used by the classifier.  The parameters are part of the mathematical function used internally by Nostril to compute a score for a given input string.  To get a pointer to a new classifier function (a closure) with different values of the tunable parameters, call `generate_nonsense_detector` like so:
 
-    import nostril
+    from nostril import generate_nonsense_detector
     is_nonsense = generate_nonsense_detector(...)
 
-where `...` are parameters described in the help string.  The new function `is_nonsense()` obtained by calling the generator this way can be used exactly as the default version of `is_nonsense()`:
+where `...` are parameters that are explained in the help string.  The new function `is_nonsense()` obtained by calling the generator this way can be used exactly as the default version of `is_nonsense()`:
 
     result = is_nonsense('yoursinglestringhere')
 
@@ -47,7 +47,7 @@ Training and testing
 
 The final performance of the nonsense detector is dependent on many things: the characteristics of the training set, the length of the n-grams used, the parameters in `string_score()`, and the threshold set in the function `generate_nonsense_detector()`.
 
-The comments in the file `training_set.py` provide information about how the system is trained.  Basically, the process begins by generating a lot of strings that are representative of program identifiers, then computing n-gram frequency scores (IDF &ndash; inverse document frequency scores) and storing them in a Python dictionary.  Then comes a period of adjusting the parameters in the function `string_score()` and the thresholds in `generate_nonsense_detector()`.  This can be done manually by scoring a lot of both real and nonsense strings with the detector function created by `generate_nonsense_detector()`, then guessing at likely values for the thresholds and parameters, then re-scoring the example strings again, and iterating this process until the detector function created by `generate_nonsense_detector()` produces good results on real and random strings.  A better method for finding optimal parameter values is to use a multiobjectve optimization algorithm.  Nostril's parameter values were initially derived manually and then fine-tuned using the NSGA-II (Non-dominated Sorting Genetic Algorithm) routine in [Platypus](https://github.com/Project-Platypus/Platypus).
+The comments in the file `training.py` provide information about how the system is trained.  Basically, the process begins by generating a lot of strings that are representative of program identifiers, then computing n-gram frequency scores (IDF &ndash; inverse document frequency scores) and storing them in a Python dictionary.  Then comes a period of adjusting the parameters in the function `string_score()` and the thresholds in `generate_nonsense_detector()`.  This can be done manually by scoring a lot of both real and nonsense strings with the detector function created by `generate_nonsense_detector()`, then guessing at likely values for the thresholds and parameters, then re-scoring the example strings again, and iterating this process until the detector function created by `generate_nonsense_detector()` produces good results on real and random strings.  A better method for finding optimal parameter values is to use a multiobjectve optimization algorithm.  Nostril's parameter values were initially derived manually and then fine-tuned using the NSGA-II (Non-dominated Sorting Genetic Algorithm) routine in [Platypus](https://github.com/Project-Platypus/Platypus).
 
 One of the characteristics of the training set is how the synthetic identifier strings are generated.  The training set creation function, `training_set()`, takes a parameter for the maximum number of words to concatenate.  I experimented with 2-5, and found that a low number of 2 produced the best results (at least when combined with 4-grams).  The current hypothesis for why a low (rather than high) number is better is that concatenating real words at random produces character sequences that are (surprise!) random at the juncture points.  Since all the strings are scored for n-grams, this increases n-gram IDF scores for some n-grams that are likely to be random strings in real identifiers.  Now, this is not _completely_ undesirable: after all, programmers often combine acronyms, shorthand, and unusual words when creating identifiers, and parts of those identifiers often really do look like random character sequences.  So, there is a balancing act here, in which we try to have some realistic randomness (but not too much) in the training set.  The value of 2 for the parameter `max_concat_words` in `training_set()` seems to produce the best results.
 
