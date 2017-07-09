@@ -15,58 +15,92 @@ nonsense, False otherwise (if it likely to be meaningful).
 Usage
 -----
 
-Basic usage is very simple.  It relies on having trained the classifier on
-lists of text strings, but a saved copy of the training results are stored in
-this directory, and without any arguments, the system here will read the
-stored training results to create the classifier.  To get a pointer to a
-classifier function (a closure), call `generate_nonsense_detector` like so:
+The basic usage is very simple.  Nostril is a Python module that (among
+other things) provides a function named is_nonsense().  This function takes
+a text string as an argument and returns a Boolean value as a result.  Here
+is an example:
 
-    is_nonsense = generate_nonsense_detector()
+    from nostril import is_nonsense
+    result = is_nonsense('yoursinglestringhere')
 
-Then call the function with a single argument:
+The value of result will be a Boolean, with the value True if the input
+string is probably meaningless and False if it is probably not.  (Note: the
+first time you import the module nostril, it will take extra time because
+Nostril loads a large data file during the import step.  If you only execute
+the short two-line example above, it will seem that Nostril takes far too
+long to evaluate a string.  This is misleading: one it's loaded, multiple
+calls to is_nonsense() are very fast.)
+
+It is possible to tune some of the parameters used by the classifier.  The
+parameters are part of the mathematical function used internally by Nostril
+to compute a score for a given input string.  To get a pointer to a new
+classifier function (a closure) with different values of the tunable
+parameters, call generate_nonsense_detector like so:
+
+    from nostril import generate_nonsense_detector
+    is_nonsense = generate_nonsense_detector(...)
+
+where "..." are parameters that are explained in the help string.  The new
+function is_nonsense() obtained by calling the generator this way can be used
+exactly as the default version of is_nonsense():
 
     result = is_nonsense('yoursinglestringhere')
 
-The value of `result` will be a Boolean, with the value True if the input
-string is probably meaningless and False if it is probably not.
+Internally, Nostril uses a table of precomputed n-gram weights that were
+derived by training the system on data sets of labeled test cases.  A saved
+copy of the trained values are stored in this directory, so that it is not
+necessary to retrain the system to adjust the tunable parameters.  However,
+it is also possible to retrain the system and recompute the n-gram weights.
+This process is somewhat more involved, and discussed below.
 
 Known limitations
 -----------------
 
-The algorithm does not perform well on very short text, and by default
-imposes a lower length limit of 6 characters -- strings have to be longer
-than 6 characters or else it will raise an exception.
+Nostril is not fool-proof; it _will_ generate some false positive and false
+negatives.  This is an unavoidable consequence of the problem domain: without
+special knowledge, even a human cannot recognize a real text string in all
+cases.  Nostril's default trained system puts emphasis on reducing false
+positives (i.e., reducing how often it mistakenly labels something as
+nonsense) rather than false negatives, so it will sometimes report that
+something is not nonsense when it really is.  With its default parameter
+values, on dictionary words (specifically, 218,752 words from
+`/usr/share/dict/web2`), the default version of `is_nonsense()` achieves
+greater than 99.99% accuracy.  In tests on real identifiers extracted from
+actual software source code, it achieves 99.94% to 99.96% accuracy; on truly
+random strings, it achieves 86% accuracy.  Inspecting the errors shows that
+most false positives really are quite ambiguous, to the point where most
+false positives are random-looking, and many false negatives could be
+plausible identifiers.
 
-This module is not fool-proof; it will generate some false positive and false
-negatives.  The default trained system puts emphasis on avoiding false
-positives as much as possible, so it will often report that something is not
-nonsense when it really is.  On dictionary words, it achieves greater than
-99.99% accuracy.  On real identifiers drawn from a sample of API names from
-the Mac OS X 10.12 developers' frameworks, it again achieves greater than
-99.99% accuracy, with only 3 feailures out of 25,941 identifiers tested.  In
-a sample of identifiers extracted from code in Github, it achieves 99.88%
-accuracy.  On truly random strings, however, it achives 84.96% accuracy, in
-part because (as mentioned above) the system is tuned to avoid false positives.
+A vexing result is that this system does more poorly on "random" strings
+typed by a human.  In a data set of 1000 strings "typed at random" by the
+author, it achieves only 67% accuracy.  I hypothesize this is because those
+strings may be less random than they seem: if someone is asked to type junk
+at random on a QWERTY keyboard, they are likely to use a lot of characters
+from the home row (a-s-d-f-g-h-j-k-l), and those actually turn out to be
+rather common in English words.  In other words, what we think of a strings
+"typed at random" on a keyboard are actually not that random, and probably
+have statistical properties similar to those of real words.  These cases are
+hard for Nostril, but thankfully, in real-world situations, they are rare.
+This view is supported by the fact that Nostril's performance is much better
+on statistically random text strings generated by software.
 
-A vexing result is that this system does surprisingly poorly on supposedly
-"random" strings typed by a human.  In a test of 1000 hand-written "random"
-strings, it produces only 66.80% correct results.  I hypothesize this is
-because those strings may be less random than they seem: if someone is asked
-to type junk at random on a QWERTY keyboard, they are likely to use a lot of
-characters from the home row (a-s-d-f-g-h-j-k-l), and those actually turn out
-to be rather common in English words.
+Finally, the algorithm does not perform well on very short text, and by
+default, Nostril imposes a lower length limit of 6 characters &ndash; strings
+have to be longer than 6 characters or else it will raise an exception.
 
 Operating principles
 --------------------
 
-The method currently implemented is to generate TF-IDF scores for letter
-n-grams, sum the values of the scores for a given string being tested, and
-compare the value of the sum against a predetermined threshold.  If the sum
-exceeds a predetermined cut-off, the string is rated as being nonsense.  To
-make an analogy to how TF-IDF is used in document classification, nonsense
-strings are those that use unusual n-grams and thus score highly, while
-real/meaningful strings are those that use more common n-grams and thus score
-lower.
+The method currently used uses letter n-grams scored by a custom TF-IDF (term
+frequency - inverse document frequency) scheme.  The nonsense detector
+uses precomputed n-gram weights stored in a large array, and when testing a
+string, it combines the values of the scores for the string using a custom
+mathematical formula.  If the formula value exceeds a fixed threshold, the
+string is rated as being nonsense.  To make an analogy to how TF-IDF is used
+in document classification, nonsense strings are those that use unusual
+n-grams and thus score highly, while real/meaningful strings are those that
+use more common n-grams and thus score lower.
 
 There are some minor innovations here in the way that the TF-IDF scores are
 calculated.  First, empty n-grams in the n-gram frequency table (meaning,
@@ -78,8 +112,8 @@ contain embedded repeats of the same pattern: i.e., things like
 random characters) yet probably does not represent a meaningful identifier.
 (Strings like this would otherwise not score highly because they match
 common n-grams.)  Finally, there is a length-dependent factor applied to
-strings longer than about 33 characters, such that a string's score is
-raised slowly the longer the string is past 33 characters.  This helps
+strings longer than about 28 characters, such that a string's score is
+raised slowly the longer the string is past 28 characters.  This helps
 detect very long strings that happen to use common n-grams *without*
 repeats: while long identifiers are not that unusual in programming
 contexts, the longer they are the more likely they are nonsense rather than
@@ -93,9 +127,9 @@ from 2-3 (but not the real identifiers, which are left as-is).  The current
 stored results were produced after experimenting with 2-grams, 3-grams,
 4-grams and 5-grams, and and different thresholds.  The best performance
 achieved was reached with 4-grams, and that is the value stored in the
-`ngram_data.pklz` pickle file in this directory.  The pickle file stores the
-values computed by the function `ngram_values()`; each entry is a named tuple
-of type `NGramData` and contains frequencies and IDF scores for each
+ngram_data.pklz pickle file in this directory.  The pickle file stores the
+values computed by the function ngram_values(); each entry is a named tuple
+of type NGramData and contains frequencies and IDF scores for each
 n-gram.  (This can be done because IDF values can be precomputed based on a
 training set, and do not reply on a particular string being tested during
 classification -- the IDF values depend only on the frequency characteristics
@@ -112,37 +146,28 @@ strings are simply all lower case anyway.
 Training and testing
 --------------------
 
-The comments in the file `training_set.py` provide information about how the
+The final performance of the nonsense detector is dependent on many things:
+the characteristics of the training set, the length of the n-grams used, the
+parameters in `string_score()`, and the threshold set in the function
+`generate_nonsense_detector()`.
+
+The comments in the file `training.py` provide information about how the
 system is trained.  Basically, the process begins by generating a lot of
 strings that are representative of program identifiers, then computing n-gram
-frequency scores (specifically IDF, inverse document frequency scores) and
-storing them in a dictionary.  Then comes a period of adjusting the
-parameters in the function `generate_score_function()` and the threshold in
-`generate_nonsense_detector()`.  This is done by scoring a lot of both real
-and nonsense strings with the detector function created by
+frequency scores (IDF &ndash; inverse document frequency scores) and storing
+them in a Python dictionary.  Then comes a period of adjusting the parameters
+in the function `string_score()` and the thresholds in
+`generate_nonsense_detector()`.  This can be done manually by scoring a lot
+of both real and nonsense strings with the detector function created by
 `generate_nonsense_detector()`, then guessing at likely values for the
 thresholds and parameters, then re-scoring the example strings again, and
-iterating this until the detector function created by
+iterating this process until the detector function created by
 `generate_nonsense_detector()` produces good results on real and random
-strings.
-
-Originally, I arrived at parameter values using this by manual
-trial-and-error testing, which basically amounted to performing parameter
-optimization by hand.  I did this because, at the time, I was still trying to
-get everything to work and was unsure what needed to be done at all.  Once
-the system settled and I was able to reduce complexity and strip out needless
-features, I already had a sense for how to iterate between test runs, as well
-as set parameter values then watch the effects and make more guesses.  This
-actually produced a system that worked quite well, but clearly, the
-possibility of better performance could not be ruled out without doing proper
-optimization.  So I followed up this exploration and hand-tuning with an
-optimization step to find the best values for the parameters in
-`generate_score_function()`, and the threshold set in the function
-`generate_nonsense_detector()`.  The optimization script is in the file
-`optimize.py`; it uses the Nelder-Mead simplex algorithm as implemented in
-the Python `scipy.optimize` module.  The resulting best values are now used
-as the default values for the parameters in `generate_score_function()` and
-`generate_nonsense_detector()`.
+strings.  A better method for finding optimal parameter values is to use a
+multiobjectve optimization algorithm.  Nostril's parameter values were
+initially derived manually and then fine-tuned using the NSGA-II
+(Non-dominated Sorting Genetic Algorithm) routine in
+Platypus (https://github.com/Project-Platypus/Platypus).
 
 One of the characteristics of the training set is how the synthetic
 identifier strings are generated.  The training set creation function,
@@ -162,14 +187,22 @@ in the training set.  The value of 2 for the parameter `max_concat_words`
 in `training_set()` seems to produce the best results.
 
 For the record, here is what I ultimately did to produce the final values in
-`ngram_data.pklz`:
+`ngram_data.pklz`.  With the training set generation function,
+`training_set()`, I experimented with setting `max_words` to 2-5, and
+ultimately had best results with a value of 2.
 
     words = english_word_list()
-    ids = identifier_list()
+    ids = identifiers_from_file('random-identifiers-from-github.txt')
     ts = training_set(words, ids, 3000000, 2)
-    freq = ngram_values(ts, 4)
 
-    dataset_to_pickle('ngram_data.pklz', freq)
+The creation of the n-gram frequency table is as follows (here using
+4-grams):
+
+    freq = ngram_frequencies(ts, 4)
+
+You can save the values of things like this:
+
+    dataset_to_pickle('ngram_frequencies.pklz', freq)
     dataset_to_pickle('training/training_set.pklz', ts)
 
 Potential improvements -- future work
