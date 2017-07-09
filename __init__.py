@@ -62,6 +62,10 @@ __email__   = 'mhucka@caltech.edu'
 __license__ = 'GPL'
 
 from .nonsense_detector import (
-    generate_nonsense_detector, string_score, test_strings, test_labeled,
-    is_nonsense, NGramValue, dataset_from_pickle
+    is_nonsense, generate_nonsense_detector, test_strings, test_labeled,
+    dataset_from_pickle
+)
+
+from ngrams import (
+    NGramData, ngrams, all_possible_ngrams
 )
