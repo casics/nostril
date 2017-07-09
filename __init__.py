@@ -28,6 +28,9 @@ Modules
     used by default by `generate_detector()`.  It can be used to retrain the
     system.
 
+`ng.py`: Definition of a named tuple for storing n-gram statistics, plus
+    some miscellaneous n-gram utilities.
+
 `optimize.py`: Script to perform parameter optimization.
 
 Usage
@@ -37,7 +40,7 @@ The basic usage is very simple.  Nostril provides a single function,
 `is_nonsense()`, that takes a text string as an argument and returns a
 Boolean value as a result.  Here is an example:
 
-    import nostril
+    from nostril import is_nonsense
     result = is_nonsense('yoursinglestringhere')
 
 Please see the documentation in nonsense_detector.py for more information.
@@ -61,11 +64,11 @@ __author__  = 'Michael Hucka <mhucka@caltech.edu>'
 __email__   = 'mhucka@caltech.edu'
 __license__ = 'GPL'
 
+from .ng import (
+    NGramData, ngrams, all_possible_ngrams
+)
+
 from .nonsense_detector import (
     is_nonsense, generate_nonsense_detector, test_strings, test_labeled,
     dataset_from_pickle
-)
-
-from ngrams import (
-    NGramData, ngrams, all_possible_ngrams
 )
