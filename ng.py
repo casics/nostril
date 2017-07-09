@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''N-gram data structures and utilities for Nostril.
+'''N-gram named tuple for Nostril.
 
 N-gram statistics in Nostril are stored as a Python defaultdict, whose keys
 are the n-gram strings themselves and whose values are lightweight tuples.
@@ -49,25 +49,3 @@ not reply on a particular string being tested during classification.  The IDF
 values depend only on the frequency characteristics of a particular training
 corpus.
 '''
-
-
-# General n-gram functions.
-# .............................................................................
-
-def ngrams(string, n):
-    '''Return all n-grams of length 'n' for the given 'string'.'''
-    return [string[i : i + n] for i in range(len(string) - n + 1)]
-
-
-def all_possible_ngrams(n):
-    '''Recursively create all possible n-grams using lower case letters.'''
-    all_letters = string.ascii_lowercase
-    if n == 0:
-        return []
-    elif n == 1:
-        return [letter for letter in all_letters]
-    new_ngrams = []
-    for letter in all_letters:
-        for ngram in all_possible_ngrams(n - 1):
-            new_ngrams.append(letter + ngram)
-    return new_ngrams

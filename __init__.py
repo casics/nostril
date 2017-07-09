@@ -28,8 +28,7 @@ Modules
     used by default by `generate_detector()`.  It can be used to retrain the
     system.
 
-`ng.py`: Definition of a named tuple for storing n-gram statistics, plus
-    some miscellaneous n-gram utilities.
+`ng.py`: Definition of a named tuple for storing n-gram statistics.
 
 `optimize.py`: Script to perform parameter optimization.
 
@@ -65,10 +64,10 @@ __email__   = 'mhucka@caltech.edu'
 __license__ = 'GPL'
 
 from .ng import (
-    NGramData, ngrams, all_possible_ngrams
+    NGramData
 )
 
 from .nonsense_detector import (
     is_nonsense, generate_nonsense_detector, test_strings, test_labeled,
-    dataset_from_pickle
+    ngrams, dataset_from_pickle
 )

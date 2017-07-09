@@ -230,7 +230,28 @@ else:
     sys.path.append('../common')
 
 from utils import msg, full_path
-from ngrams import *
+
+
+# General n-gram functions.
+# .............................................................................
+
+def ngrams(string, n):
+    '''Return all n-grams of length 'n' for the given 'string'.'''
+    return [string[i : i + n] for i in range(len(string) - n + 1)]
+
+
+def all_possible_ngrams(n):
+    '''Recursively create all possible n-grams using lower case letters.'''
+    all_letters = string.ascii_lowercase
+    if n == 0:
+        return []
+    elif n == 1:
+        return [letter for letter in all_letters]
+    new_ngrams = []
+    for letter in all_letters:
+        for ngram in all_possible_ngrams(n - 1):
+            new_ngrams.append(letter + ngram)
+    return new_ngrams
 
 
 # Functions to calculate scores for our modified TF-IDF.
@@ -484,6 +505,11 @@ def dataset_from_pickle(file):
     pickle is assumed to contain only one data structure.
     '''
     import gzip, pickle
+    try:
+        from . import ng
+        sys.modules['ngrams'] = ng
+    except:
+        pass
     with gzip.open(file, 'rb') as pickle_file:
         return pickle.load(pickle_file)
 
