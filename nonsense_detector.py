@@ -93,9 +93,9 @@ from 2-3 (but not the real identifiers, which are left as-is).  The current
 stored results were produced after experimenting with 2-grams, 3-grams,
 4-grams and 5-grams, and and different thresholds.  The best performance
 achieved was reached with 4-grams, and that is the value stored in the
-ngram_values pickle file in this directory.  The pickle file stores the
+`ngram_data.pklz` pickle file in this directory.  The pickle file stores the
 values computed by the function `ngram_values()`; each entry is a named tuple
-of type `NGramValues` and contains frequencies and IDF scores for each
+of type `NGramData` and contains frequencies and IDF scores for each
 n-gram.  (This can be done because IDF values can be precomputed based on a
 training set, and do not reply on a particular string being tested during
 classification -- the IDF values depend only on the frequency characteristics
@@ -162,14 +162,14 @@ in the training set.  The value of 2 for the parameter `max_concat_words`
 in `training_set()` seems to produce the best results.
 
 For the record, here is what I ultimately did to produce the final values in
-`ngram_values.pklz`:
+`ngram_data.pklz`:
 
     words = english_word_list()
     ids = identifier_list()
     ts = training_set(words, ids, 3000000, 2)
     freq = ngram_values(ts, 4)
 
-    dataset_to_pickle('ngram_values.pklz', freq)
+    dataset_to_pickle('ngram_data.pklz', freq)
     dataset_to_pickle('training/training_set.pklz', ts)
 
 Potential improvements -- future work
@@ -230,55 +230,7 @@ else:
     sys.path.append('../common')
 
 from utils import msg, full_path
-
-
-# Global data structures.
-# .............................................................................
-
-NGramValue = namedtuple('NGramValue', 'string_frequency, total_frequency, idf')
-'''
-In analogy to typical applications of IDF, a "document" in our case is a
-text string, and the "corpus" of documents is the set of all strings used
-for training.  With this in mind, the fields of NGramValue are as follows:
-
-  string_frequency = number of strings in the corpus that contain this n-gram
-  total_frequency = total # of occurrences of the n-gram across all strings
-  idf = IDF value for this n-gram
-
-The difference between string_frequency and total_frequency results from
-the fact that a given string may have more than one occurrence of a
-particular n-gram.  Thus, string_frequency is the number of strings in the
-corpus that contain the n-gram, regardless of whether the strings have more
-than one instance of the n-gram, whereas total_frequency counts all n-gram
-occurrences everywhere.
-
-Note that IDF values can be precomputed based on a training set, and do
-not reply on a particular string being tested during classification.  The IDF
-values depend only on the frequency characteristics of a particular training
-corpus.
-'''
-
-
-# General n-gram functions.
-# .............................................................................
-
-def ngrams(string, n):
-    '''Return all n-grams of length 'n' for the given 'string'.'''
-    return [string[i : i + n] for i in range(len(string) - n + 1)]
-
-
-def all_possible_ngrams(n):
-    '''Recursively create all possible n-grams using lower case letters.'''
-    all_letters = string.ascii_lowercase
-    if n == 0:
-        return []
-    elif n == 1:
-        return [letter for letter in all_letters]
-    new_ngrams = []
-    for letter in all_letters:
-        for ngram in all_possible_ngrams(n - 1):
-            new_ngrams.append(letter + ngram)
-    return new_ngrams
+from ngrams import *
 
 
 # Functions to calculate scores for our modified TF-IDF.
@@ -320,8 +272,8 @@ def ngram_values(string_list, n, readjust_zero_scores=True):
     statistics across the corpus.  Returns the results as a dictionary
     containing all possible n-grams, where the dictionary keys are the
     n-grams as strings (e.g., 'aa', 'ab', 'ac', ...) and the dictionary
-    values dictionary are the named tuple NGramValue.  The numeric values
-    inside the NGramValue reflect the frequency statistics for that n-gram
+    values dictionary are the named tuple NGramData.  The numeric values
+    inside the NGramData reflect the frequency statistics for that n-gram
     across the whole corpus.
 
     The optional argument 'readjust_zero_scores' governs what happens to the
@@ -338,7 +290,7 @@ def ngram_values(string_list, n, readjust_zero_scores=True):
     is more efficient to store the desired value.  This is the reason the
     default is readjust_zero_scores = True.  Note that it is still possible
     to determine that a given n-gram does not appear in the corpus simply by
-    looking at the string_frequency field of the NGramValue tuple for that
+    looking at the string_frequency field of the NGramData tuple for that
     n-gram, so we do not really lose any information by doing this.)
     '''
     counts = defaultdict(int)
@@ -352,18 +304,18 @@ def ngram_values(string_list, n, readjust_zero_scores=True):
             counts[ngram] += 1
     # Set initial values for all n-grams.
     all_ngrams = defaultdict.fromkeys(all_possible_ngrams(n),
-                                      NGramValue(string_frequency=0,
-                                                 total_frequency=0,
-                                                 idf=0))
+                                      NGramData(string_frequency=0,
+                                                total_frequency=0,
+                                                idf=0))
     # Set n-gram values based on occurrences in the corpus.
     max_frequency = max([count for ngram, count in counts.items()])
     for ngram, string_list in occurrences.items():
         string_freq = len(string_list)
         total_freq = counts[ngram]
         score = ngram_idf_value(num_strings, string_freq, total_freq, max_frequency)
-        all_ngrams[ngram] = NGramValue(string_frequency=string_freq,
-                                       total_frequency=total_freq,
-                                       idf=score)
+        all_ngrams[ngram] = NGramData(string_frequency=string_freq,
+                                      total_frequency=total_freq,
+                                      idf=score)
     # Now that we've seen all n-grams actually present in the corpus, go back
     # and set those that have 0 values to a very high value (=> rare n-gram).
     if readjust_zero_scores:
@@ -371,9 +323,9 @@ def ngram_values(string_list, n, readjust_zero_scores=True):
         for ngram, value in all_ngrams.items():
             if value.idf == 0:
                 # Can't set a value in an existing tuple; must regenerate tuple
-                all_ngrams[ngram] = NGramValue(string_frequency=0,
-                                               total_frequency=0,
-                                               idf=max_idf)
+                all_ngrams[ngram] = NGramData(string_frequency=0,
+                                              total_frequency=0,
+                                              idf=max_idf)
     return all_ngrams
 
 
@@ -388,7 +340,7 @@ def tfidf_score_function(ngram_freq, len_threshold=25, len_penalty_exp=1.365,
 
         S = a string to be scored (not given here, but to the function created)
 
-        ngram_freq = table of NGramValue named tuples
+        ngram_freq = table of NGramData named tuples
         ngram_length = the "n" in n-grams
         max_freq = max frequency of any n-gram
         num_ngrams = number of (any) n-grams of length n in S
@@ -462,7 +414,7 @@ List of characters to delete from input strings before computing scores.
 
 def generate_nonsense_detector(ngram_freq=None,
                                min_length=6, min_score=8.47, trace=False,
-                               pickle_file='ngram_values.pklz',
+                               pickle_file='ngram_data.pklz',
                                score_len_threshold=25,
                                score_len_penalty_exp=0.9233,
                                score_rep_penalty_exp=0.9674):
@@ -517,13 +469,13 @@ def generate_nonsense_detector(ngram_freq=None,
 # Because of how Python pickles work, this code needs to stay here, rather
 # than being put in a separate file/module.  If it's put in a separate file,
 # you will get the obscure error
-#    AttributeError: Can't get attribute 'NGramValue' on <module '__main__'>
+#    AttributeError: Can't get attribute 'NGramData' on <module '__main__'>
 # when you try to read the pickle file.  The reason the error occurs is that
 # a Python pickle does not store information about the data structure
-# definition; it stores only its name.  That name is '__main__.NGramValue',
+# definition; it stores only its name.  That name is '__main__.NGramData',
 # where '__main__' is the value of the module __name__ attribute.  If the
 # pickle is read from another file, that will not be the value of __name__;
-# the value of __name__ will be whatever that module's name is.  NGramValue
+# the value of __name__ will be whatever that module's name is.  NGramData
 # will not be defined in that module, and consequently, the pickle load will
 # fail.
 
