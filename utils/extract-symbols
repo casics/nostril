@@ -1,0 +1,101 @@
+#!/bin/bash
+# =============================================================================
+# @file    extract-symbols-from-js
+# @brief   Extract unique symbols from files given as arguments.
+# @author  Michael Hucka
+# -----------------------------------------------------------------------------
+# Copyright (C) 2015 by the California Institute of Technology.
+# This software is part of CASICS, the Comprehensive and Automated Software
+# Inventory Creation System.  For more information, visit http://casics.org.
+# -----------------------------------------------------------------------------
+#
+# SUMMARY
+# 
+# This removes all non-alphanumeric characters from the files given as input,
+# and splits runs of alphanumeric characters at punctuation and space
+# characters.  The result is a a list of words and symbols free of any other
+# characters (including underscores).  It discards any symbols that begin
+# with digits.  It does NOT filter out nonsense/garbage strings, as that
+# requires a higher level of sophistication.
+#
+# This takes an optional argument on the command line to indicate the minimum
+# length of the symbols left in the output.  The default is 4
+#
+# =============================================================================
+
+TR=/usr/bin/tr
+AWK=/opt/local/bin/gawk
+GREP=/opt/local/bin/grep
+CAT=/bin/cat
+SORT=/opt/local/bin/gsort
+
+# Initialize some other vars.
+
+program=${0##*/}
+min_length=4
+
+# Next, define some basic functions.
+
+print_usage() {
+cat <<EOF >&2
+Usage:
+    $program [-l NUMBER] FILES...
+
+Extract only the alphanumeric symbols from the given FILES... and return them
+on the standard output.
+
+Options:
+    -h, --help          Print this help message and exit.
+    -l, --min-length    Minimum length of the symbols to keep (default = 4).
+
+EOF
+    print_version
+}
+
+extract() {
+    # I know you think the next line is a useless use of cat, but it's not.
+    # If you try to avoid it and add the file argument to 'tr' with a '<'
+    # redirection (i.e., tr < $@ or tr < $*), you will get the error
+    # "ambiguous redirect".  After wasting time trying to find a solution, I
+    # decide the use of cat was acceptable to save me wasting more time.
+    min_length=$1
+    files=${@:2}
+    $CAT $files |\
+    $TR '[:punct:]' '\n' |\
+    $TR '[:space:]' '\n' |\
+    $AWK 'NF' |\
+    $GREP -v -E '^[0-9].*$' |\
+    $AWK "NF>=${min_length}" FS= |\
+    $SORT -u
+}
+
+parse_args() {
+    files="$*"
+    while [ $# -gt 0 ]; do
+        case $1 in
+            -l | --min-length )
+                shift
+                min_length=$1
+                shift
+                files=$*
+                ;;
+            -h | --help )
+                print_usage
+                exit 0
+                ;;
+        esac
+        shift
+    done
+    echo $min_length $files
+}
+
+#
+# Main entry point.
+#
+
+args=$(parse_args "$@")
+extract $args
+
+# ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+# End of script.
+# ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~

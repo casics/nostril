@@ -1,0 +1,3 @@
+#!/bin/sh
+
+egrep '^AV|^Audio|^Bluetooth|^CF|^CG|^CL|^CM|^HK|^HM|^IC|^IO|^MT|^NS|^NX|^PFN|^SCN|^Tk|^UI|^get|^set|^xml' $1 | grep -v '[0-9]'

@@ -1,0 +1,18 @@
+# This is a list created from looking at classification failures.  These are
+# here because they don't appear in the other corpuses, but do appear in test
+# cases like /usr/share/dict/web2.  This is not a good approach to solving
+# the problem.  It would be better to find corpuses that include the words.
+puzzle
+muzzle
+nuzzle
+popjoy
+jimjam
+# A sample of Roman numerals.  Probably could use a longer
+# list here but this seems to do enough of the job.
+MCMXX
+VIII
+XXXIX
+MCMLIV
+MCMXC
+XXXXX
+XVIII
