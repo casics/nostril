@@ -7,15 +7,12 @@ from   time import time
 
 thisdir = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.join(thisdir, '..'))
+sys.path.append(os.path.join(thisdir, '../..'))
 sys.path.append(os.path.join(thisdir, '../../common'))
 
-from nonsense_detector import *
+from nostril import *
 
-start = time()
 assert is_nonsense('lakdfqtajaklj')
-print('time for first test: {:.6f}s'.format(time() - start))
-
-start = time()
 assert is_nonsense('AaBbCcDdEeFGgHhIiJjKkLlMmNnOoPpQqRrSsTtU')
 assert is_nonsense('AcoGQMJyIapivScpnfuXUDMtgTtvAACYdAyABnSLpoABhzZWAAVvAYAAAnqUAFTPo')
 assert is_nonsense('BCDEFGHIJKLMNOPQRSTUVWXYZ')
@@ -26,9 +23,6 @@ assert is_nonsense('aoaoesuouooeueooeuoaeuoeou')
 assert is_nonsense('iuewrofahgalkfgaufpiupqrjf')
 assert is_nonsense('ieeoienkjadfakj')
 assert is_nonsense('lalalaalkjuogaajfajlfal')
-elapsed = time() - start
-print('time for 10 tests: {:.6f}s => {:.6f}s per test'.format(
-      elapsed, elapsed/10.0))
 
 print('')
 print('Testing all words in /usr/share/dict/web2 -- expect 21 failures:')
