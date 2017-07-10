@@ -1,5 +1,22 @@
 #!/usr/bin/env python3
 '''Naive Bayes variations tested for Nostril.
+
+The code in this file implements three variations on Naive Bayes combined
+with an maximum a posteriori (MAP) decision rule:
+
+* "MNB": A straightforward multinomial Naive Bayes algorithm using n-grams
+  and term frequencies (TF) as described in the book _Introduction to
+  Information Retrieval_ by Manning et al. (2009, Cambridge University
+  Press).
+
+* "BNB": A Bernoulli Naive Bayes method, as described in the same book by
+  Manning et al. method above.
+
+* "GMNB": A generalized multinomial Naive Bayes algorithm using n-grams and
+  term frequencies, based on some of the extensions in the paper "Combining
+  Modifications to Multinomial Naive Bayes for Text Classification" by
+  A. Puurula (AIRS conference 2012).
+
 '''
 
 from collections import defaultdict, Counter, namedtuple
@@ -40,6 +57,11 @@ NGramFactor = namedtuple('NGramFactor', 'real_term, nonsense_term')
 # .............................................................................
 
 def mnb_training_set(min_length=4):
+    '''Training set generation function for multinomial Naive Bayes.  This is
+different from the training set for the TF-IDF scheme of nonsense_detector.py
+in that it does not use concatenated words.  Instead, it is just unique words
+and actual program identifiers from real source code.
+    '''
     raw = set()
     raw.update(_words_from_nltk())
     raw.update(_words_from_file('wordfrequency-unique-from-100k.txt'))
@@ -79,9 +101,23 @@ def relative_frequency(count_x, total_count, total_ngrams, smoothing=1):
 
 
 def mnb_ngram_weights(real_strings, nonsense_strings, n, smoothing=1):
-    # This actually stores the logarithm of the probabilities, because that's
-    # the quantity used when applying the Bayes formula and it's more efficient
-    # to precompute the log than to have to compute it over and over again.
+    # This is almost exactly the algorithm given in Figure 13.2 of the book
+    # "Introduction to information retrieval" by Manning, C. D., Raghavan,
+    # P., & Schütze, H. (2009, Online edition ed., Cambridge University
+    # Press).  The differences are:
+    #
+    # 1) This ignores the probability of the priors, P(c).  In our training
+    #    process, we have almost exactly balanced sets of real and nonsense
+    #    strings, which means the value of (count of docs in class)/(count
+    #    of docs in training set) is equal for both classes, and thus does not
+    #    change the results of the maximum a posteriori analysis later.
+    #
+    # 2) The normal approach to Naive Bayes (and what Manning et al. do)
+    #    would be to store the score for an n-gram rather than the logarithm
+    #    of the score.  This code actually stores the logarithm of the
+    #    probabilities, because that's the quantity used when applying the
+    #    Bayes formula and it's more efficient to precompute the log than to
+    #    have to compute it over and over again in mnb_score_function()
 
     occurrences_real     = defaultdict(int)
     occurrences_nonsense = defaultdict(int)
