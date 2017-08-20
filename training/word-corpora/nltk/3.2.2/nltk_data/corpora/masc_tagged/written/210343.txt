@@ -1,0 +1,8 @@
+Message-ID_NNP :_: <_NN 5550308.1075857279636.JavaMail.evans@thyme_NN >_NN Date_NN :_: Tue_NNP ,_, 6_CD Jun_NNP 2000_CD 04:43:00_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: jwahl@cinergy.com_NN To_TO :_: benjamin.rogers@enron.com_NN Subject_NNP :_: Confidential_NNP Agreement_NNP Cc_NNP :_: mcyrus@cinergy.com_NN Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Bcc_NNP :_: mcyrus@cinergy.com_NN This_DT follows_VBZ up_RB on_IN your_PRP$ voice_NN mail_NN message_NN regarding_VBG the_DT status_NN of_IN the_DT Confidentiality_NNP Agreement_NNP in_IN light_NN of_IN renewed_VBN discussions_NNS between_IN the_DT two_CD companies_NNS ._. 
+Attached_NNP is_VBZ the_DT latest_JJS draft_NN of_IN the_DT Confidentiality_NNP Agreement_NNP which_WDT was_VBD transmitted_VBN to_TO you_PRP on_IN May_NNP 13_CD ._. 
+Please_VB call_NN me_PRP with_IN any_DT comments_NNS or_CC questions_NNS ._. 
+
+<_NN <_NN Confidential_NNP AGrement_NNP with_IN Enron_NNP which_WDT was_VBD sent_VBN to_TO Ben_NNP Rogers_NNP on_IN 51200_CD -_: this_DT version_NN is_VBZ a_DT clean_JJ version_NN accepting_VBG all_DT blacklined_JJ changes_NNS from_IN 59437v3.DOC_NNP 
+>_NN >_NN 
+-_: Confidential_NNP AGrement_NNP with_IN Enron_NNP which_WDT was_VBD sent_VBN to_TO Ben_NNP Rogers_NNP on_IN 51200_CD -_: this_DT version_NN is_VBZ a_DT clean_JJ version_NN accepting_VBG all_DT blacklined_JJ changes_NNS from_IN 59437v3.DOC_NNP 
+

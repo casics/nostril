@@ -1,0 +1,12 @@
+docno_NN =_SYM "_'' lists-_NN 003_CD -_: 2133315_CD "_'' received_VBD =_SYM "_'' Tue_NNP May_NNP 18_CD 09:14:52_NN 1993_CD EST_NNP "_'' sent_VBD =_SYM "_'' Tue_NNP ,_, 18_CD May_NNP 1993_CD 09:12:46_NN -_: 0700_CD (_( PDT_NNP )_) "_'' name_NN =_SYM "_'' Laurence_NNP Lundblade_NNP "_'' email_NN =_SYM "_'' lgl@nwnet.net_NN "_'' subject_JJ =_SYM "_'' Re_NNP :_: CHARSET_NNP considerations_NNS "_'' id_NN =_SYM "_'' Pine.3.07.9305180944.C193-a100000@norman.nwnet.net_NN "_'' inreplyto_NN =_SYM "_'' MS-C.737676350.662824084.mrc@Tomobiki-Cho.CAC.Washington.EDU_NN "_'' To_TO :_: Mark_NNP Crispin_NNP <_NN mrc@Tomobiki-Cho.CAC.Washington.EDU_NN >_NN Cc_NNP :_: ietf-charsets@INNOSOFT.COM_NN ,_, scs@adam.mit.edu_NN ,_, TROTH@ricevm1.rice.edu_NN ,_, Yes_UH ,_, I_PRP think_VBP that_DT 's_VBZ exactly_RB right_JJ ._. 
+We_PRP can_MD probably_RB adjust_VB the_DT comment_NN in_IN the_DT ._. pinerc_NN for_IN now_RB ._. 
+In_IN the_DT long_JJ term_NN the_DT ._. pinerc_NN needs_VBZ a_DT lot_NN of_IN good_JJ error_NN checking_NN ._. 
+It_PRP just_RB has_VBZ n't_RB been_VBN done_VBN because_IN limited_JJ resources_NNS ._. 
+LL_NNP 
+On_IN Mon_NNP ,_, 17_CD May_NNP 1993_CD ,_, Mark_NNP Crispin_NNP wrote_VBD :_: >_NN Hi_NNP Laurence_NNP -_: 
+>_NN Perhaps_RB all_DT that_WDT is_VBZ needed_VBN is_VBZ a_DT list_NN in_IN the_DT system_NN ._. pinerc_NN file_NN of_IN all_DT >_NN the_DT valid_JJ charsets_NNS ,_, and_CC not_RB let_VB the_DT user_NN set_VBD her_PRP$ charset_NN to_TO one_CD that_WDT is_VBZ not_RB i_NNP n_NN >_NN the_DT list_NN ._. 
+So_RB ,_, perhaps_RB Pine_NNP could_MD have_VB US-ASCII_NNP ,_, ISO-_NNP 2022_CD -_: JP_NNP ,_, and_CC the_DT various_JJ >_NN ISO-_NNP 8859_CD -_: x_SYM sets_NNS wired_VBN in_IN as_IN an_DT initial_JJ list_NN ,_, and_CC the_DT system_NN file_NN specify_VB >_NN additional_JJ valid_JJ sets_NNS ?_. 
+>_NN The_DT concern_NN is_VBZ to_TO avoid_VB letting_VBG users_NNS do_VBP things_NNS like_IN set_VBN it_PRP to_TO things_NNS >_NN such_JJ as_IN `_`` `_`` Latin-_NNP 1_CD '_POS '_POS or_CC `_`` `_`` ASCII_NNP '_'' '_POS or_CC similar_JJ bogons_NNS ..._... 
+>_NN What_WP do_VBP you_PRP think_VBP ?_. 
+>_NN --_: Mark_NNP 
+--_: 

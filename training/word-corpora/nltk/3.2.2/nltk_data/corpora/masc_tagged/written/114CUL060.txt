@@ -1,0 +1,44 @@
+June_NNP 10_CD ,_, 1997_CD 
+
+Name_NN Address_NNP City_NNP ,_, ST_NNP Zip_NNP 
+
+Dear_RB Mrs._NN Name_NN ,_, 
+
+Confidence_NN ._. 
+An_DT understanding_NN that_IN ,_, above_IN anything_NN else_RB ,_, success_NN requires_VBZ genuine_JJ effort_NN ,_, a_DT willingness_NN to_TO set_VB challenging_VBG goals_NNS ._. 
+Caring_NNP about_IN others_NNS ._. 
+
+These_DT are_VBP the_DT attributes_NNS we_PRP want_VBP all_DT children_NNS to_TO have_VB ._. 
+You_PRP help_VBP Jameson_NNP campers_NNS reach_VBP for_IN them_PRP ._. 
+If_IN these_DT special_JJ children_NNS are_VBP to_TO become_VB the_DT adults_NNS we_PRP all_DT need_VBP them_PRP to_TO be_VB ,_, we_PRP have_VBP to_TO lead_VB them_PRP in_IN the_DT right_JJ direction_NN right_RB now_RB ._. 
+
+Jameson_NNP points_VBZ the_DT way_NN for_IN children_NNS who_WP need_NN that_IN extra_JJ hand_NN and_CC I_PRP hope_VBP you_PRP 'll_MD continue_VB your_PRP$ support_NN this_DT year_NN ._. 
+You_PRP 're_VBP last_JJ gift_NN of_IN $50.00_NN helped_VBD make_VB it_PRP possible_JJ for_IN us_PRP to_TO provide_VB guidance_NN ,_, encouragement_NN and_CC fun_NN to_TO nearly_RB 400_CD Indianapolis_NNP area_NN children_NNS ._. 
+And_CC not_RB just_RB during_IN the_DT summer_NN ,_, but_CC throughout_IN the_DT year_NN ._. 
+
+What_WP has_VBZ your_PRP$ support_NN of_IN our_PRP$ campers_NNS meant_VBN to_TO them_PRP and_CC what_WP have_VBP they_PRP been_VBN able_JJ to_TO accomplish_VB because_IN you_PRP care_VBP ?_. 
+
+The_DT best_JJS indicator_NN I_PRP can_MD give_VB you_PRP of_IN the_DT positive_JJ effect_NN our_PRP$ year-round_JJ contact_NN has_VBZ is_VBZ the_DT growth_NN in_IN and_CC deeds_NNS of_IN the_DT Youth_NNP Leadership_NNP teens_NNS ._. 
+In_IN just_RB the_DT past_JJ few_JJ years_NNS this_DT program_NN has_VBZ grown_VBN from_IN a_DT few_JJ kids_NNS and_CC a_DT few_JJ extra_JJ activities_NNS to_TO a_DT team_NN of_IN almost_RB 60_CD young_JJ adults_NNS taking_VBG on_IN real_JJ projects_NNS ._. 
+YL_NNP teens_NNS will_MD make_VB J.C._NN juniors_NNS happen_VBP again_RB this_DT year_NN for_IN 7_CD and_CC 8_CD year_NN old_JJ campers_NNS ._. 
+A_DT five_CD day_NN camp_NN ,_, J.C._NN juniors_NNS introduces_VBZ at-risk_JJ children_NNS to_TO Jameson_NNP two_CD years_NNS earlier_RBR than_IN we_PRP could_MD previously_RB reach_VB them_PRP ._. 
+That_DT means_VBZ we_PRP now_RB have_VBP the_DT opportunity_NN to_TO be_VB a_DT stable_JJ ,_, positive_JJ and_CC important_JJ part_NN of_IN each_DT child_NN 's_POS life_NN for_IN an_DT entire_JJ decade_NN ._. 
+
+The_DT teens_NNS have_VBP also_RB decided_VBN to_TO raise_VB money_NN to_TO provide_VB camperships_NNS for_IN other_JJ campers_NNS because_IN they_PRP know_VBP what_WP Jameson_NNP has_VBZ meant_VBN to_TO them_PRP ._. 
+And_CC their_PRP$ activities_NNS are_VBP n't_RB isolated_VBN to_TO Jameson_NNP ._. 
+The_DT teens_NNS have_VBP undertaken_VBN a_DT volunteer_NN project_NN to_TO regularly_RB visit_VB with_IN sick_JJ children_NNS at_IN a_DT local_JJ hospital_NN ._. 
+
+Please_VB consider_VB renewing_VBG your_PRP$ gift_NN today_NN ._. 
+The_DT kids_NNS need_VBP your_PRP$ leadership_NN now_RB more_RBR than_IN ever_RB ._. 
+If_IN you_PRP can_MD increase_VB your_PRP$ last_JJ donation_NN ,_, we_PRP would_MD appreciate_VB that_DT show_NN of_IN support_NN for_IN the_DT campers_NNS and_CC their_PRP$ efforts_NNS to_TO overcome_VB obstacles_NNS and_CC create_VB successful_JJ lives_NNS ._. 
+
+Thank_VB you_PRP again_RB for_IN helping_VBG point_NN the_DT way_NN ._. 
+
+Sincerely_NNP ,_, 
+
+Julie_NNP Marsh_NNP ,_, Executive_NNP Director_NNP 
+
+P.S._NN 
+You_PRP make_VBP it_PRP possible_JJ for_IN us_PRP to_TO help_VB special_JJ kids_NNS with_IN learning_VBG disabilities_NNS ,_, behavior_NN problems_NNS and_CC economic_JJ disadvantages_NNS to_TO gain_VB the_DT confidence_NN required_VBN to_TO put_VB genuine_JJ effort_NN into_IN achieving_VBG real_JJ goals_NNS ._. 
+I_PRP hope_VBP you_PRP 'll_MD continue_VB -_: -_: and_CC if_IN possible_JJ increase_NN -_: your_PRP$ support_NN for_IN these_DT great_JJ kids_NNS ._. 
+

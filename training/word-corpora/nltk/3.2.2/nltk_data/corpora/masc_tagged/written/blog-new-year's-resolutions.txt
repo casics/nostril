@@ -1,0 +1,56 @@
+Self-control_NNP ,_, Self-efficacy_NNP ,_, and_CC New_NNP Year_NNP 's_POS Resolutions_NNP Unresolved_NNP I_PRP 'm_VBP not_RB one_CD to_TO make_VB New_NNP Year_NNP 's_POS resolutions_NNS ._. 
+
+I_PRP mean_VBP ,_, sure_JJ ,_, I_PRP could_MD take_VB my_PRP$ pick_NN of_IN popular_JJ New_NNP Year_NNP 's_POS resolutions_NNS ;_: I_PRP could_MD decide_VB ,_, on_IN the_DT first_JJ day_NN of_IN the_DT new_JJ year_NN ,_, that_IN this_DT year_NN ,_, I_PRP 'll_MD start_VB exercising_VBG more_JJR and_CC eating_VBG better_JJR ,_, or_CC that_IN I_PRP 'll_MD spend_VB more_JJR time_NN with_IN my_PRP$ family_NN and_CC friends_NNS ,_, or_CC that_IN I_PRP 'll_MD learn_VB a_DT new_JJ skill_NN ._. 
+And_CC if_IN I_PRP chose_VBD to_TO make_VB resolutions_NNS ,_, I_PRP 'd_MD be_VB far_RB from_IN alone--a_JJ 2008_CD survey_NN on_IN Dorthy_NNP ._. com_NN found_VBD that_IN 66_CD %_NN of_IN the_DT 2000_CD +_NN adults_NNS polled_VBN had_VBD made_VBN resolutions_NNS at_IN some_DT point_NN (_( though_IN only_RB 17_CD %_NN managed_VBN to_TO keep_VB them_PRP )_) ._. 
+
+Making_VBG resolutions_NNS :_: It_PRP 's_VBZ about_IN self-control_NN 
+The_DT question_NN Anirban_NNP Mukhopadhyay_NNP of_IN the_DT Hong_NNP Kong_NNP University_NNP and_CC Gita_NNP Venkatarmani_NNP Johar_NNP of_IN the_DT Graduate_NNP School_NNP of_IN Business_NNP at_IN Columbia_NNP University_NNP asked_VBD is_VBZ this_DT :_: What_WP determines_VBZ how_WRB many_JJ goals_NNS a_DT person_NN will_MD set_VB ,_, and_CC how_WRB successful_JJ a_DT person_NN will_MD be_VB at_IN achieving_VBG those_DT goals_NNS ?_. 
+They_PRP performed_VBD a_DT few_JJ studies_NNS in_IN 2005_CD to_TO look_VB at_IN the_DT relationship_NN between_IN self-control_NN ,_, goal_NN setting_NN ,_, and_CC goal_NN achievement_NN ._. 
+They_PRP suggested_VBD that_IN what_WP you_PRP believe_VBP about_IN self-control_NN affects_VBZ the_DT goals_NNS you_PRP set_VBD and_CC achieve_VB [_NN PDF_NNP ]_NN ._. 
+
+In_IN the_DT paper_NN ,_, "_'' self-control_NN "_'' is_VBZ used_VBN to_TO mean_VB a_DT sense_NN of_IN willpower_NN ._. 
+Mukhopadhyay_NNP &_CC Venkatarmani_NNP discuss_VBP various_JJ lay_VB theories_NNS of_IN self-control_NN ,_, noting_VBG that_IN the_DT amount_NN of_IN self-control_NN a_DT person_NN has_VBZ can_MD be_VB seen_VBN as_IN either_DT an_DT inherently_RB limited_JJ or_CC unlimited_JJ resource_NN ,_, and_CC that_IN this_DT resource_NN can_MD be_VB seen_VBN either_CC as_IN malleable_JJ or_CC as_IN fixed_VBN (_( the_DT amount_NN of_IN self-control_NN a_DT person_NN has_VBZ can_MD change_VB over_IN time_NN ,_, or_CC not_RB )_) ._. 
+An_DT important_JJ premise_NN to_TO note_VB here_RB is_VBZ the_DT idea_NN that_IN the_DT probability_NN of_IN choosing_VBG a_DT goal_NN or_CC making_VBG a_DT resolution_NN increases_NNS if_IN a_DT person_NN thinks_VBZ that_DT goal_NN can_MD be_VB attained_VBN ._. 
+So_RB if_IN you_PRP think_VBP you_PRP 'll_MD be_VB able_JJ to_TO achieve_VB a_DT goal_NN ,_, you_PRP 're_VBP more_RBR likely_JJ to_TO set_VB it_PRP ._. 
+Combine_NNP this_DT with_IN theories_NNS of_IN self-control_NN ,_, and_CC in_IN general_JJ ,_, if_IN you_PRP believe_VBP you_PRP have_VBP unlimited_JJ stores_NNS of_IN self-control_NN ,_, you_PRP 'll_MD set_VB a_DT larger_JJR number_NN of_IN goals_NNS ._. 
+If_IN you_PRP believe_VBP self-control_NN is_VBZ malleable_JJ but_CC limited_JJ ,_, you_PRP 'll_MD set_VB fewer_JJR goals_NNS ._. 
+
+Mukhopadhyay_NNP &_CC Venkatarmani_NNP also_RB discuss_VBP self-efficacy_JJ :_: belief_NN in_IN one_CD 's_POS capabilities_NNS ,_, the_DT perceived_JJ ability_NN to_TO carry_VB out_RP a_DT desired_JJ action_NN ._. 
+They_PRP propose_VBP that_IN people_NNS with_IN high_JJ self-efficacy--people_JJ who_WP believe_VBP that_DT failure_NN is_VBZ the_DT result_NN of_IN insufficient_JJ effort_NN ,_, and_CC thus_RB exhibit_VB increased_VBD commitment_NN and_CC persistence--will_JJ achieve_VB more_JJR of_IN their_PRP$ goals_NNS than_IN people_NNS with_IN low_JJ self-efficacy_JJ ,_, who_WP tend_VBP to_TO view_VB failure_NN as_IN the_DT result_NN of_IN deficient_NN ability_NN ,_, and_CC thus_RB may_MD simply_RB give_VB up_RP ._. 
+
+The_DT studies_NNS 
+In_IN the_DT first_JJ study_NN ,_, 85_CD participants_NNS (_( all_DT college_NN students_NNS )_) each_DT read_NN one_CD of_IN four_CD passages_NNS presenting_VBG lay_VB theories_NNS of_IN self-control_NN ._. 
+Each_DT passage_NN contained_VBD two_CD paragraphs_NNS ;_: the_DT first_JJ discussed_VBN self-control_NN either_CC as_IN limited_JJ or_CC as_IN unlimited_JJ ,_, and_CC the_DT second_RB discussed_VBN self-control_NN as_IN either_DT malleable_JJ or_CC fixed_VBN ._. 
+The_DT participants_NNS then_RB answered_VBN questions_NNS about_IN their_PRP$ belief_NN in_IN each_DT of_IN two_CD theories_NNS presented_VBN ,_, followed_VBN by_IN a_DT second_JJ questionnaire_NN to_TO assess_VB motivation_NN ,_, in_IN which_WDT they_PRP listed_VBD all_DT their_PRP$ current_JJ goals_NNS ._. 
+
+The_DT study_NN was_VBD testing_VBG whether_IN a_DT belief_NN in_IN unlimited_JJ ,_, malleable_JJ self-control_NN would_MD result_VB in_IN most_JJS resolutions_NNS ,_, and_CC indeed_RB ,_, this_DT is_VBZ what_WP was_VBD found_VBN ._. 
+The_DT experimenters_NNS had_VBD some_DT concerns_NNS about_IN participants_NNS '_POS natural_JJ beliefs_NNS in_IN relation_NN to_TO the_DT passages_NNS they_PRP read_VBP ,_, however_RB ,_, so_RB in_IN study_NN two_CD ,_, the_DT order_NN of_IN the_DT two_CD measures_NNS (_( lay_VB theories_NNS and_CC motivation_NN /_NN goal_NN listing_NN )_) was_VBD varied_VBN ._. 
+Data_NNS from_IN 130_CD new_JJ participants_NNS revealed_VBD that_IN ,_, as_IN hypothesized_VBN ,_, if_IN the_DT motivation_NN &_CC goals_NNS questionnaire_NN were_VBD assessed_VBN first_JJ ,_, then_RB among_IN the_DT people_NNS who_WP believed_VBD self-control_NN is_VBZ malleable_JJ ,_, those_DT who_WP also_RB believed_VBN self-control_NN to_TO be_VB unlimited_JJ (_( vs._NN 
+limited_JJ )_) set_VBN more_JJR goals_NNS ._. 
+When_WRB lay_VB theories_NNS were_VBD assessed_VBN first_JJ ,_, this_DT result_NN reversed_VBD ._. 
+The_DT people_NNS who_WP believed_VBD that_DT self-control_NN is_VBZ fixed_VBN were_VBD unaffected_JJ by_IN order_NN ._. 
+
+The_DT third_JJ study_NN moved_VBD on_IN to_TO examine_VB goal_NN achievement_NN ,_, adding_VBG a_DT measure_NN to_TO look_VB at_IN self-efficacy_JJ ._. 
+The_DT study_NN had_VBD two_CD sessions_NNS ,_, in_IN November_NNP then_RB February_NNP ._. 
+In_IN the_DT first_JJ session_NN ,_, the_DT 159_CD participants_NNS read_VBP passages_NNS about_IN lay_VB theories_NNS (_( much_JJ like_IN in_IN study_NN one_CD ,_, but_CC with_IN longer_JJR passages_NNS to_TO strengthen_VB the_DT manipulation_NN )_) ,_, listed_VBD the_DT resolutions_NNS they_PRP were_VBD planning_VBG on_IN making_VBG at_IN New_NNP Years_NNPS ,_, rated_VBN how_WRB disappointed_VBN they_PRP would_MD be_VB if_IN they_PRP failed_VBD to_TO keep_VB their_PRP$ resolutions_NNS ,_, and_CC filled_VBD out_IN individual_JJ difference_NN measures_NNS (_( which_WDT included_VBD a_DT self-efficacy_JJ scale_NN )_) ._. 
+Only_RB 86_CD participants_NNS successfully_RB returned_VBD for_IN the_DT second_JJ session_NN ,_, during_IN which_WDT they_PRP indicated_VBD how_WRB much_RB success_NN they_PRP had_VBD had_VBN at_IN keeping_VBG their_PRP$ resolutions_NNS ._. 
+
+What_WP does_VBZ this_DT mean_NN for_IN your_PRP$ resolutions_NNS ?_. 
+The_DT resolutions_NNS made_VBN by_IN participants_NNS across_IN all_DT conditions_NNS were_VBD qualitatively_RB similar_JJ (_( take_VB a_DT look_NN at_IN any_DT list_NN of_IN popular_JJ New_NNP Year_NNP 's_POS resolutions_NNS ,_, and_CC you_PRP 'll_MD see_VB the_DT majority_NN of_IN the_DT goals_NNS )_) ._. 
+As_IN shown_VBN in_IN the_DT first_JJ two_CD studies_NNS ,_, more_JJR goals_NNS were_VBD set_VBN by_IN people_NNS who_WP believe_VBP self-control_NN is_VBZ unlimited_JJ and_CC malleable_JJ than_IN by_IN any_DT other_JJ people--that_JJ is_VBZ ,_, if_IN you_PRP expect_VBP more_JJR success_NN ,_, you_PRP may_MD increase_VB the_DT difficulty_NN and_CC number_NN of_IN tasks_NNS that_IN you_PRP set_VBD for_IN yourself_PRP ._. 
+Self-efficacy_NNP did_VBD not_RB have_VB a_DT significant_JJ effect_NN on_IN goal-setting_JJ ._. 
+
+As_RB far_RB as_IN success_NN goes_VBZ ,_, only_RB the_DT interaction_NN between_IN lay_VB theory_NN and_CC self-efficacy_JJ was_VBD significant_JJ ._. 
+If_IN participants_NNS believed_VBN in_IN limited_JJ self-control_NN and_CC were_VBD low_JJ in_IN self-efficacy_JJ ,_, they_PRP tended_VBD to_TO give_VB up_RP more_RBR often_RB ,_, failing_VBG to_TO achieve_VB their_PRP$ goals_NNS ._. 
+But_CC if_IN participants_NNS believed_VBN in_IN unlimited_JJ self-control_NN ,_, self-efficacy_JJ had_VBD no_DT effect_NN ;_: participants_NNS achieved_VBN just_RB as_IN many_JJ goals_NNS regardless_RB ,_, and_CC people_NNS who_WP set_VBD more_JJR resolutions_NNS were_VBD marginally_RB more_RBR likely_JJ to_TO succeed_VB ._. 
+
+Mukhopadhyay_NNP &_CC Venkatarmani_NNP realize_VBP that_IN their_PRP$ research_NN does_VBZ not_RB directly_RB look_VB at_IN the_DT relationship_NN between_IN lay_VB theories_NNS of_IN self-control_NN and_CC beliefs_NNS about_IN one_CD 's_POS own_JJ amount_NN of_IN self-control_NN and_CC self-efficacy_JJ ,_, and_CC propose_VB this_DT as_IN an_DT area_NN for_IN future_JJ study_NN ._. 
+But_CC in_IN general_JJ ,_, lay_VB theories_NNS about_IN self-control_NN can_MD determine_VB how_WRB much_JJ success_NN you_PRP 'll_MD expect_VB (_( and_CC thus_RB ,_, how_WRB many_JJ goals_NNS you_PRP 'll_MD set_VB )_) ,_, and_CC self-efficacy_JJ beliefs_NNS can_MD determine_VB how_WRB much_JJ success_NN you_PRP 'll_MD actually_RB have_VB ._. 
+
+References_NNP 
+
+Mukhopadhyay_NNP ,_, A._NN &_CC Johar_NNP ,_, G.V._NN (_( 2005_CD )_) ._. 
+Where_WRB There_EX Is_VBZ a_DT Will_NNP ,_, Is_VBZ There_EX a_DT Way_NN ?_. 
+Effects_NNPS of_IN Lay_NNP Theories_NNP of_IN Self-_NNP Control_NNP on_IN Setting_VBG and_CC Keeping_VBG Resolutions_NNP ._. 
+Journal_NNP of_IN Consumer_NNP Research_NNP ,_, 31_CD ,_, 779_CD -_: 786_CD [_NN PDF_NNP ]_NN 
+

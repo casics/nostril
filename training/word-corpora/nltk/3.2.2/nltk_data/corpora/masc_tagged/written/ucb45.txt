@@ -1,0 +1,10 @@
+From_IN :_: "_'' Backgammon_NNP Room_NNP "_'' <_NN bridgely@seagate.com_NN >_NN To_TO :_: <_NN xxx_NN @_IN xxx_NN ._. xxx_NN >_NN Subject_NNP :_: 100_CD $_$ bonus_NN ._. Free_NNP ._. Date_NN :_: Mon_NNP ,_, 24_CD Sep_NNP 2007_CD 21:18:48_NN +_NN 0000_CD OnlineBackgammonRoom_NNP is_VBZ giving_VBG away_RB Free_NNP Money_NNP ._. 
+
+Not_RB only_RB are_VBP we_PRP the_DT best_JJS place_NN to_TO play_VB Backgammon_NNP ,_, we_PRP are_VBP also_RB giving_VBG you_PRP $100_NN FRE_NN ._. E._NN 
+
+All_DT you_PRP need_VBP to_TO do_VB is_VBZ make_VB a_DT minimum_JJ $100_NN First_CD Time_NNP Depos_NNP 1_CD t_NN between_IN and_CC BGroom_NNP will_MD credit_VB your_PRP$ account_NN with_IN a_DT Free_NNP ~_NN $_$ 100_CD ~_NN bonus_NN ._. 
+
+When_WRB making_VBG your_PRP$ depos_NNS 1_CD t_NN please_VB enter_VB the_DT code_NN "_'' FIRST_NN $_$ 100_CD "_'' ._. 
+
+http://www.webbackgammon.org/_NN 
+

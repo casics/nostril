@@ -1,0 +1,10 @@
+docno_NN =_SYM "_'' lists-_NN 003_CD -_: 2121270_CD "_'' received_VBD =_SYM "_'' Fri_NNP May_NNP 14_CD 20:51:36_NN 1993_CD EST_NNP "_'' sent_VBD =_SYM "_'' Fri_NNP ,_, 14_CD May_NNP 1993_CD 20:47:02_NN -_: 0700_CD (_( PDT_NNP )_) "_'' name_NN =_SYM "_'' Mark_NNP Crispin_NNP "_'' email_NN =_SYM "_'' mrc@Ikkoku-Kan.Panda.COM_NN "_'' subject_JJ =_SYM "_'' Re_NNP :_: CHARSET_NNP considerations_NNS "_'' id_NN =_SYM "_'' MS-C.737437622.2035015474.mrc@Ikkoku-Kan.Panda.COM_NN "_'' inreplyto_NN =_SYM "_'' 9305142129.AA22544@adam.MIT.EDU_NN "_'' To_TO :_: ietf-charsets@INNOSOFT.COM_NN ,_, scs@adam.mit.edu_NN Cc_NNP :_: TROTH@ricevm1.rice.edu_NN ,_, pine-info@cac.washington.edu_NN ,_, Steve_NNP -_: 
+
+Thanks_NNS for_IN your_PRP$ comments_NNS ._. 
+You_PRP need_MD n't_RB convince_VB me_PRP ;_: I_PRP 've_VBP been_VBN involved_VBN with_IN the_DT MIME_NNP charset_NN issue_NN for_IN a_DT long_JJ time_NN (_( you_PRP 'll_MD note_VB that_IN I_PRP am_VBP one_CD of_IN the_DT authors_NNS of_IN the_DT ISO-_NNP 2022_CD -_: JP_NNP spec_NN )_) ._. 
+In_IN defense_NN of_IN the_DT other_JJ Pine_NNP team_NN members_NNS ,_, the_DT sin_NN is_VBZ one_CD of_IN omission_NN rather_RB than_IN of_IN comission_NN ;_: they_PRP wanted_VBD to_TO do_VB something_NN about_IN character_NN sets_NNS and_CC did_VBD n't_RB want_VB to_TO wire_VB in_IN a_DT table_NN of_IN legal_JJ values_NNS (_( since_IN it_PRP might_MD change_VB )_) ._. 
+I_PRP 've_VBP suggested_VBN that_IN as_IN a_DT first_JJ pass_NN the_DT charset_NN should_MD only_RB be_VB settable_JJ in_IN the_DT system_NN config_NN file_NN ,_, and_CC that_IN the_DT charset_NN always_RB be_VB coerced_JJ to_TO US-ASCII_NNP unless_IN the_DT text_NN contains_VBZ 8_CD -_: bit_NN characters_NNS and_CC /_NN or_CC has_VBZ `_`` `_`` funny_JJ '_'' '_POS control_NN characters_NNS such_JJ as_IN ESC_NNP or_CC SI_NNP /_NN SO_NNP ._. 
+More_JJR work_NN would_MD definitely_RB be_VB needed_VBN in_IN this_DT area_NN ,_, but_CC you_PRP 'll_MD appreciate_VB that_IN there_EX are_VBP other_JJ ,_, higher_JJR priorities_NNS just_RB now_RB ..._... 
+
+--_: Mark_NNP 
+--_: 

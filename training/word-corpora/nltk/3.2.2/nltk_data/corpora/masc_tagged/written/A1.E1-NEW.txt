@@ -1,0 +1,17 @@
+Inauguration_NNP of_IN free_JJ zone_NN in_IN Dubai_NNP for_IN e-commerce_JJ 
+
+Dubai_NNP 10_CD -_: 28_CD (_( FP_NNP )_) -_: 
+Dubai_NNP 's_POS Crown_NNP Prince_NNP Sheikh_NNP Mohamed_NNP Bin_NNP Rashid_NNP Al_NNP Maktoum_NNP inaugurated_VBN a_DT free_JJ zone_NN for_IN e-commerce_JJ today_NN ,_, called_VBD Dubai_NNP Internet_NNP City_NNP ._. 
+
+The_DT preliminary_JJ stages_NNS of_IN the_DT project_NN ,_, the_DT only_RB one_CD of_IN its_PRP$ kind_NN according_VBG to_TO its_PRP$ designers_NNS ,_, are_VBP estimated_VBN at_IN $200_NN million_CD ._. 
+
+Sheikh_NNP Mohamed_NNP ,_, who_WP is_VBZ also_RB the_DT Defense_NNP Minister_NNP of_IN the_DT United_NNP Arab_NNP Emirates_NNPS ,_, announced_VBD at_IN the_DT inauguration_NN ceremony_NN that_IN "_'' we_PRP want_VBP to_TO make_VB Dubai_NNP a_DT new_JJ trading_NN center_NN ._. "_'' 
+
+The_DT minister_NN ,_, who_WP has_VBZ his_PRP$ own_JJ website_NN ,_, also_RB said_VBD :_: "_'' I_PRP want_VBP Dubai_NNP to_TO be_VB the_DT best_JJS place_NN in_IN the_DT world_NN for_IN state-of-the-art_JJ technology_NN companies_NNS ._. "_'' 
+
+He_PRP said_VBD companies_NNS engaged_VBN in_IN e-commerce_JJ would_MD be_VB able_JJ to_TO set_VB up_IN offices_NNS ,_, employ_VB staff_NN and_CC own_JJ equipment_NN in_IN the_DT open_JJ zone_NN ,_, including_VBG fully-owned_JJ foreign_JJ companies_NNS ._. 
+
+The_DT e-commerce_JJ free_JJ zone_NN is_VBZ situated_VBN in_IN north_RB Dubai_NNP ,_, near_IN the_DT industrial_JJ free_JJ zone_NN in_IN Jebel_NNP Ali_NNP ,_, the_DT top_JJ regional_JJ and_CC tenth_NN international_JJ leading_VBG area_NN in_IN container_NN transit_NN ._. 
+
+The_DT inauguration_NN of_IN Dubai_NNP Internet_NNP City_NNP coincides_VBZ with_IN the_DT opening_NN of_IN an_DT annual_JJ IT_PRP show_VBP in_IN Dubai_NNP ,_, the_DT Gulf_NNP Information_NNP Technology_NNP Exhibition_NNP (_( Gitex_NNP )_) ,_, the_DT biggest_JJS in_IN the_DT Middle_NNP East_NNP ._. 
+

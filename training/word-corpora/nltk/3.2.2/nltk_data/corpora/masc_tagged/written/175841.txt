@@ -1,0 +1,217 @@
+Date_NN :_: Wed_NNP ,_, 28_CD Feb_NNP 2001_CD 06:49:00_NN -_: 0800_CD (_( PST_NNP )_) From_IN :_: steven.kean@enron.com_NN To_TO :_: bernadette.hawkins@enron.com_NN Subject_NNP :_: Ken_NNP Lay_NNP 's_POS email_NN to_TO Sen._NN Brulte_NNP Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM ANSI_NNP __NN X_NNP 3.4_CD -_: 1968_CD Content-_NNP Transfer-_NNP Encoding_NNP :_: quoted-printable_JJ X-From_NNP :_: Steven_NNP J_NNP Kean_NNP X-To_NNP :_: Bernadette_NNP Hawkins_NNP X-cc_NNP :_: X-bcc_NNP :_: X-Folder_NNP :_: \_NN Steven_NNP __NN Kean_NNP __NN June_NNP 2001_CD __NN 1_CD \_NN Notes_NNP Folders_NNP \_NN All_DT documents_NNS X-Origin_NNP :_: KEAN-S_NNP X-FileName_NNP :_: skean_NN ._. nsf_NN -----_SYM Forwarded_NNP by_IN Steven_NNP J_NNP Kean_NNP /_NN NA_NNP /_NN Enron_NNP on_IN 02/28/2001_CD 02:48_NN PM_NNP -----_SYM 
+Jeff_NNP Dasovich_NNP Sent_NNP by_IN :_: Jeff_NNP Dasovich_NNP 02/16/2001_CD 08:49_NN AM_NNP To_TO :_: Sandra_NNP McCubbin_NNP /_NN NA_NNP /_NN Enron_NNP @_IN Enron_NNP ,_, Susan_NNP J_NNP Mara_NNP /_NN NA_NNP /_NN Enron_NNP @_IN ENRON_NNP ,_, MDay@GMSSR.com_NN ,_, Hedy_NNP Govenar_NNP <_NN @_IN mail_NN ._. acom_NN 2_CD ._. com_NN >_NN @_IN ENRON_NNP ,_, Scott_NNP Govenar_NNP <_NN sgovenar@govadv.com_NN >_NN ,_, Paul_NNP Kaufman_NNP /_NN PDX_NNP /_NN ECT_NNP @_IN ECT_NNP ,_, James_NNP D_NNP Steffes_NNP /_NN NA_NNP /_NN Enron_NNP @_IN Enron_NNP ,_, Harry_NNP Kingerski_NNP /_NN NA_NNP /_NN Enron_NNP @_IN Enron_NNP ,_, Richard_NNP Shapiro_NNP /_NN NA_NNP /_NN Enron_NNP @_IN Enron_NNP ,_, skean@enron.com_NN ,_, mpalmer@enron.com_NN ,_, Karen_NNP Denne_NNP /_NN Corp_NNP /_NN Enron_NNP @_IN ENRON_NNP ,_, BTC_NNP <_NN BCragg@GMSSR.com_NN >_NN cc_NN :_: Subject_NNP :_: Ken_NNP Lay_NNP 's_POS email_NN to_TO Sen._NN Brulte_NNP 
+
+Greetings_NNP All_DT :_: 
+
+First_LS ,_, I_PRP am_VBP apologizing_VBG in_IN advance_NN for_IN any_DT typos_NNS in_IN this_DT email_NN ._. 
+Schedule_NNP i_NNP s_VBZ very_RB tight_JJ ,_, but_CC I_PRP wanted_VBD to_TO make_VB sure_JJ that_DT everyone_NN had_VBD it_PRP first_JJ thing_NN this_DT morning_NN ,_, with_IN some_DT back-up_NN info_NN that_IN I_PRP 've_VBP included_VBN below_IN ._. 
+
+Attached_NNP is_VBZ the_DT email_NN that_WDT was_VBD sent_VBN to_TO Ken_NNP Lay_NNP 's_POS office_NN yesterday_NN evening_NN f_SYM or_CC delivery_NN to_TO Sen._NN Brulte_NNP ._. 
+It_PRP 's_VBZ of_IN course_NN confidential_JJ ._. 
+Few_JJ points_NNS :_: 
+
+I_PRP do_VBP n't_RB have_VB Bev_NNP 's_POS email_NN ,_, so_RB if_IN you_PRP could_MD please_VB forward_RB to_TO her_PRP$ ,_, that_WDT would_MD be_VB appreciated_VBN ._. 
+As_IN we_PRP discussed_VBD (_( Jim_NNP ,_, Mike_NNP ,_, Bev_NNP ,_, Scott_NNP ,_, Hedy_NNP )_) on_IN our_PRP$ lengthy_JJ call_NN on_IN Wednesday_NNP ,_, I_PRP 'm_VBP assuming_VBG that_IN the_DT plan_NN is_VBZ still_RB to_TO "_'' wallpaper_NN "_'' Sacramento_NNP wi_NN th_NN our_PRP$ proposed_JJ legislation_NN ._. 
+This_DT email_NN does_VBZ not_RB contain_VB the_DT legislation_NN ._. 
+Mike_NNP sent_VBD the_DT "_'' final_JJ "_'' version_NN s_VBZ of_IN our_PRP$ legislation_NN out_IN yesterday_NN ,_, except_IN for_IN the_DT siting_VBG piece_NN ,_, which_WDT I_PRP believe_VBP Brian_NNP Cragg_NNP of_IN Mike_NNP 's_POS office_NN is_VBZ finalizing_VBG today_NN ._. 
+You_PRP 'll_MD note_VB that_IN we_PRP promise_VBP Senator_NNP Brulte_NNP in_IN the_DT email_NN that_IN we_PRP 'll_MD deliver_VB to_TO his_PRP$ office_NN today_NN the_DT proposed_JJ legislation_NN ._. 
+Again_RB ,_, based_VBN on_IN our_PRP$ call_NN on_IN Wednesday_NNP ,_, I_PRP 'm_VBP assuming_VBG that_IN we_PRP would_MD simultaneously_RB release_VB the_DT proposed_JJ legislation_NN to_TO the_DT rest_NN of_IN the_DT world_NN at_IN the_DT same_JJ time_NN ._. 
+When_WRB we_PRP spoke_VBD on_IN Wednesday_NNP ,_, we_PRP decided_VBD that_IN the_DT Sacramento_NNP team_NN would_MD determine_VB to_TO whom_WP we_PRP would_MD circulate_VB the_DT proposed_JJ legislation_NN at_IN the_DT same_JJ time_NN that_IN we_PRP deliver_VBP the_DT Senator_NNP Brulte_NNP ._. 
+I_PRP 'm_VBP assuming_VBG that_IN you_PRP folks_NNS will_MD handle_VB that_DT end_NN of_IN things_NNS ._. 
+Please_VB let_VB us_PRP know_VB at_IN your_PRP$ convenience_NN to_TO whom_WP you_PRP 've_VBP decided_VBN to_TO circulate_VB ._. 
+This_DT email_NN does_VBZ ,_, however_RB ,_, include_VBP a_DT "_'' summary_NN "_'' of_IN our_PRP$ proposed_JJ legislation_NN ._. 
+But_CC I_PRP 'm_VBP not_RB certain_JJ that_IN the_DT summary_NN included_VBN in_IN this_DT email_NN is_VBZ the_DT appropriate_JJ language_NN to_TO distribute_VB "_'' to_TO the_DT world_NN ,_, "_'' or_CC if_IN we_PRP 'll_MD need_VB instead_RB to_TO tailor_NN some_DT new_JJ language_NN ._. 
+I_PRP think_VBP we_PRP all_DT agreed_VBD that_IN we_PRP need_VBP a_DT "_'' one_CD pager_NN "_'' to_TO accompany_VB the_DT legislative_JJ package_NN so_IN that_IN we_PRP can_MD communicate_VB the_DT package_NN effectively_RB ._. 
+We_PRP also_RB discussed_VBD the_DT need_NN to_TO quickly_RB develop_VB a_DT coalition_NN to_TO support_VB our_PRP$ proposals_NNS ._. 
+We_PRP did_VBD n't_RB finalize_NN that_DT plan_NN ._. 
+Perhaps_RB the_DT Sacramento_NNP team_NN coul_NN d_SYM propose_VB a_DT plan_NN to_TO do_VB that_DT ._. 
+Perhaps_RB we_PRP could_MD start_VB with_IN our_PRP$ friends_NNS in_IN the_DT Direct_NNP Access_NNP coalition_NN ?_. 
+We_PRP also_RB talked_VBD about_IN the_DT need_NN at_IN this_DT point_NN to_TO engage_VB in_IN PR_NNP and_CC to_TO get_VB the_DT PR_NNP machinery_NN activated_VBN ,_, also_RB with_IN the_DT goal_NN of_IN effectively_RB communicating_VBG our_PRP$ legislative_JJ package_NN /_NN message_NN ._. 
+We_PRP 're_VBP in_IN a_DT meeting_NN with_IN folks_NNS today_NN where_WRB we_PRP can_MD discuss_VB getting_VBG that_DT side_NN of_IN things_NNS going_VBG and_CC Karen_NNP Denne_NNP has_VBZ contacted_VBN Marathon_NNP and_CC they_PRP 're_VBP pondering_VBG some_DT things_NNS that_IN we_PRP can_MD do_VB in_IN the_DT near_JJ term_NN ._. 
+You_PRP 'll_MD note_VB that_IN there_EX 's_VBZ a_DT considerable_JJ amount_NN of_IN information_NN about_IN the_DT DWR_NNP credit_NN issue_NN ._. 
+As_IN I_PRP recollect_NN ,_, we_PRP discussed_VBD the_DT issue_NN in_IN depth_NN on_IN the_DT call_NN ._. 
+You_PRP note_VBP that_WDT attached_VBD to_TO the_DT email_NN is_VBZ a_DT "_'' legislative_JJ fix_NN "_'' to_TO AB_NNP 1_CD X_NNP that_DT cou_NN ld_NN solve_VB the_DT credit_NN issue_NN and_CC an_DT attached_JJ set_NN of_IN "_'' taking_VBG points_NNS "_'' related_VBN to_TO a_DT second_JJ alternative_NN to_TO solving_VBG the_DT credit_NN issue_NN :_: a_DT PUC_NNP order_NN clarifying_VBG tha_NN t_NN DWR_NNP will_MD get_VB its_PRP$ money_NN for_IN power_NN purchase_NN costs_NNS ._. 
+Note_VB also_RB that_IN Steve_NNP Kean_NNP reminded_VBD me_PRP that_IN we_PRP 've_VBP got_VBN to_TO continue_VB to_TO push_VB to_TO get_VB the_DT utilities_NNS out_IN of_IN the_DT merchant_NN function_NN ._. 
+Accordingly_RB ,_, I_PRP 've_VBP put_VBN a_DT brief_JJ paragraph_NN on_IN that_DT issue_NN in_IN the_DT note_NN to_TO Brulte_NNP in_IN the_DT last_JJ section_NN (_( legislative_JJ solution_NN )_) under_IN the_DT topic_NN "_'' create_VB a_DT real_JJ competitive_JJ retail_JJ market_NN in_IN California_NNP ._. "_'' 
+To_TO the_DT best_JJS of_IN my_PRP$ knowledge_NN ,_, we_PRP do_VBP n't_RB have_VB legislative_JJ language_NN on_IN that_DT piece_NN yet_RB ,_, and_CC it_PRP seems_VBZ that_IN we_PRP 'll_MD need_VB to_TO discuss_VB it_PRP in_IN considerably_RB more_JJR depth_NN before_IN doing_VBG so_RB ._. 
+
+If_IN you_PRP have_VBP any_DT questions_NNS about_IN any_DT of_IN the_DT materials_NNS in_IN the_DT email_NN ,_, please_VB do_VBP n't_RB hesitate_VB to_TO contact_VB me_PRP or_CC Jim_NNP or_CC Sandi_NNP to_TO discuss_VB ._. 
+I_PRP can_MD be_VB best_RBS reached_VBN to_TO day_NN by_IN pager_NN at_IN 888.916_CD .7184_CD ._. 
+
+Thanks_NNS to_TO all_DT for_IN helping_VBG pull_NN this_DT together_RB ._. 
+
+Best_JJS ,_, Jeff_NNP 
+-----_SYM Forwarded_NNP by_IN Jeff_NNP Dasovich_NNP /_NN NA_NNP /_NN Enron_NNP on_IN 02/16/2001_CD 08:27_NN AM_NNP -----_SYM 
+Jeff_NNP Dasovich_NNP Sent_NNP by_IN :_: Jeff_NNP Dasovich_NNP 02/15/2001_CD 06:11_NN PM_NNP To_TO :_: jdasovic@enron.com_NN ,_, skean@enron.com_NN ,_, Richard_NNP Shapiro_NNP /_NN NA_NNP /_NN Enron_NNP @_IN En_NNP ron_NN ,_, James_NNP D_NNP Steffes_NNP /_NN NA_NNP /_NN Enron_NNP @_IN Enron_NNP cc_NN :_: Subject_NNP :_: 
+Steve_NNP :_: Here_RB 's_VBZ a_DT substantially_RB more_RBR cleaned-version_JJ ,_, with_IN attachments_NNS ._. 
+There_EX 's_VBZ a_DT hard_JJ copy_NN on_IN your_PRP$ chair_NN ._. 
+
+Best_JJS ,_, Jeff_NNP -----_SYM Forwarded_NNP by_IN Jeff_NNP Dasovich_NNP /_NN NA_NNP /_NN Enron_NNP on_IN 02/15/2001_CD 05:57_NN PM_NNP -----_SYM 
+Jeff_NNP Dasovich_NNP Sent_NNP by_IN :_: Jeff_NNP Dasovich_NNP 02/15/2001_CD 05:56_NN PM_NNP To_TO :_: jdasovic@enron.com_NN cc_NN :_: Subject_NNP :_: 
+Jim_NNP :_: It_PRP was_VBD a_DT pleasure_NN speaking_VBG with_IN you_PRP yesterday_NN ._. 
+Based_VBN on_IN our_PRP$ conversation_NN ,_, this_DT email_NN includes_VBZ the_DT following_VBG :_: 
+
+An_DT Enron_NNP contact_NN to_TO discuss_VB developing_VBG small-scale_JJ generation_NN on_IN Tribal_NNP lan_NN ds_NNS ._. 
+
+Our_PRP$ views_NNS on_IN the_DT impediments_NNS to_TO distributed_VBN generation_NN and_CC suggestions_NNS on_IN h_NN ow_NN to_TO remove_VB those_DT impediments_NNS ._. 
+
+A_DT description_NN of_IN the_DT credit_NN issues_NNS that_WDT continue_VBP to_TO impede_VB DWR_NNP ,_, s_VBZ ability_NN to_TO sign_VB contracts_NNS with_IN power_NN suppliers_NNS ,_, and_CC options_NNS to_TO resolve_VB them_PRP ._. 
+Two_CD possible_JJ options_NNS for_IN addressing_VBG the_DT credit_NN issue_NN are_VBP 1_CD )_) a_DT California_NNP PUC_NNP order_NN clarifying_VBG that_IN DWR_NNP will_MD recover_VB its_PRP$ power_NN purchase_NN costs_NNS through_IN rates_NNS ,_, and_CC 2_CD )_) an_DT amendment_NN to_TO AB_NNP 1_CD X_NNP designed_VBD to_TO accomplish_VB the_DT same_JJ goal_NN ._. 
+I_PRP have_VBP attached_VBN talking_VBG points_NNS regarding_VBG the_DT California_NNP PUC_NNP order_NN and_CC propose_VB d_SYM amendments_NNS to_TO AB_NNP 1_CD X._NN 
+We_PRP believe_VBP that_IN an_DT amendment_NN to_TO AB_NNP 1_CD X_NNP is_VBZ the_DT preferable_JJ option_NN ._. 
+
+Our_PRP$ assessment_NN of_IN the_DT supply_NN /_NN demand_NN picture_NN in_IN California_NNP ._. 
+
+Our_PRP$ suggestions_NNS for_IN a_DT legislative_JJ package_NN designed_VBN to_TO solve_VB both_DT the_DT near-_NN and_CC long-term_JJ electricity_NN crisis_NN in_IN California_NNP ._. 
+We_PRP will_MD deliver_VB to_TO your_PRP$ office_NN tomorrow_NN detailed_JJ legislative_JJ language_NN ._. 
+In_IN those_DT materials_NNS we_PRP will_MD also_RB identify_VB existing_VBG bills_NNS that_IN we_PRP believe_VBP can_MD easily_RB accommodate_VB our_PRP$ proposed_JJ language_NN ._. 
+
+I_PRP hope_VBP that_IN the_DT information_NN is_VBZ useful_JJ ._. 
+Please_VB do_VBP not_RB hesitate_VB to_TO contact_VB m_NN e_SYM if_IN you_PRP would_MD like_VB to_TO discuss_VB these_DT materials_NNS further_RBR ,_, or_CC if_IN there_EX is_VBZ anythi_NN ng_NN else_RB that_IN I_PRP can_MD do_VB to_TO assist_VB you_PRP ._. 
+
+Regards_NNP ,_, Ken_NNP 
+Contact_NNP Information_NNP to_TO Discuss_NNP Interest_NNP Expressed_NNP by_IN Native_NNP American_NNP Tribes_NNP in_IN Installing_NNP Small-scale_NNP Generation_NNP on_IN Tribal_NNP Lands_NNP 
+David_NNP Parquet_NNP ,_, Vice-_NNP President_NNP Enron_NNP North_NNP America_NNP 101_CD California_NNP Street_NNP ,_, Suite_NNP 1950_CD San_NNP Francisco_NNP ,_, CA_NNP 94111_CD Phone_NNP :_: 415.782_CD .7820_CD Fax_NNP :_: 415.782_CD .7851_CD 
+2_CD ._. Key_NNP Barriers_NNP to_TO Distributed_VBN Generation_NNP 
+Excessive_NNP and_CC Unnecessary_NNP Utility_NNP Stand-by_NNP Charges_NNS 
+Solution_NN :_: The_DT executive_NN orders_NNS issued_VBN by_IN the_DT Governor_NNP on_IN February_NNP 14th_JJ took_VBD a_DT step_NN in_IN the_DT right_JJ direction_NN ._. 
+Utility_NNP stand-by_JJ charges_NNS have_VBP always_RB been_VBN designed_VBN by_IN the_DT utilities_NNS to_TO protect_VB their_PRP$ monopoly_NN position_NN ,_, extract_VB monopoly_NN prices_NNS from_IN customers_NNS ,_, or_CC both_DT ._. 
+But_CC there_EX is_VBZ no_DT reason_NN to_TO limit_VB t_NN he_PRP elimination_NN of_IN these_DT charges_NNS to_TO generation_NN facilities_NNS that_WDT are_VBP less_JJR than_IN 1_CD MW_NNP ._. 
+These_DT limits_NNS will_MD only_RB lengthen_VB unnecessarily_RB the_DT time_NN it_PRP takes_VBZ for_IN California_NNP to_TO close_VB the_DT significant_JJ gap_NN between_IN supply_NN and_CC demand_NN and_CC reduc_NN e_SYM the_DT risk_NN of_IN black_JJ outs_NNS this_DT summer_NN ._. 
+We_PRP would_MD propose_VB lifting_VBG the_DT cap_NN by_IN offering_VBG amendments_NNS to_TO SB_NNP 27_CD X_NNP ,_, which_WDT is_VBZ designed_VBN to_TO facilitate_VB development_NN o_NN f_SYM distributed_VBN generation_NN ._. 
+Excessive_NNP delays_NNS and_CC costs_NNS related_VBN to_TO interconnecting_VBG facilities_NNS with_IN investor-owned_JJ and_CC municipal_JJ utilities_NNS 
+
+Solution_NN :_: The_DT Governor_NNP ,_, s_VBZ executive_NN order_NN regarding_VBG interconnection_NN is_VBZ a_DT step_NN in_IN the_DT right_JJ direction_NN *_NN D-D-_NNP 26_CD -_: 01_CD requires_VBZ utilities_NNS to_TO complete_VB interconnection_NN studies_NNS within_IN 7_CD days_NNS ._. 
+California_NNP should_MD ensure_VB that_IN this_DT requirement_NN applies_VBZ to_TO all_DT generation_NN facilities_NNS ,_, including_VBG distributed_VBN generation_NN ._. 
+In_IN addition_NN ,_, the_DT financial_JJ conflicts_NNS the_DT utilities_NNS face_VBP when_WRB interconnecting_VBG generation_NN facilities_NNS are_VBP simply_RB too_RB powerful_JJ to_TO overcome_VB through_IN executive_NN orders_NNS or_CC other_JJ regulations_NNS ._. 
+To_TO the_DT greatest_JJS extent_NN possible_JJ ,_, California_NNP should_MD shift_VB control_NN over_IN interconnection_NN away_RB from_IN th_NN e_SYM utility_NN and_CC place_NN that_DT control_NN with_IN the_DT California_NNP ISO_NNP ._. 
+This_DT could_MD be_VB accomplished_VBN through_IN amendments_NNS to_TO SB_NNP 27_CD X._NN 
+
+Permitting_NNP and_CC Air_NNP Quality_NNP Issues_NNPS Developers_NNS of_IN distributed_VBN (_( i.e._NN ,_, "_'' on-site_JJ "_'' )_) generation_NN that_WDT is_VBZ 50_CD MWs_NNP or_CC greater_JJR must_MD receive_VB certification_NN from_IN the_DT California_NNP Energy_NNP Commission_NNP an_DT d_SYM therefore_RB face_NN all_DT of_IN the_DT impediments_NNS to_TO development_NN that_IN large-scale_JJ generation_NN faces_NNS ._. 
+
+Solution_NN :_: California_NNP should_MD ensure_VB that_IN the_DT executive_NN orders_NNS (_( D-_NNP 22_CD -_: 01_CD thru_NN D-_NNP 26_CD -_: 01_CD )_) issued_VBN by_IN the_DT Governor_NNP to_TO expedite_VB plant_NN siting_VBG and_CC maximize_VB plant_NN output_NN apply_VB equally_RB to_TO smaller_JJR scale_NN ,_, "_'' distributed_VBN generation_NN "_'' facil_NN ities_NNS ._. 
+In_IN addition_NN ,_, distributed_VBN generation_NN that_WDT is_VBZ less_JJR than_IN 50_CD MWs_NNP continues_VBZ to_TO face_VB local_JJ opposition_NN ._. 
+The_DT State_NNP should_MD ensure_VB that_IN local_JJ ,_, parochial_JJ interests_NNS can_MD not_RB block_VB otherwise_RB beneficial_JJ distributed_VBN generation_NN projects_NNS ._. 
+These_DT objectives_NNS could_MD be_VB accomplished_VBN through_IN amendments_NNS to_TO SB_NNP 27_CD X._NN 
+
+3_CD ._. Credit_NNP Concerns_NNS Regarding_VBG Authority_NNP Granted_NNP to_TO DWR_NNP in_IN AB_NNP 1_CD X_NNP to_TO Purchase_NNP Electricity_NNP on_IN Behalf_NNP of_IN the_DT Utilities_NNP 
+Enron_NNP responded_VBD to_TO the_DT RFP_NNP issued_VBN by_IN DWR_NNP to_TO enter_VB into_IN power_NN contracts_NNS with_IN suppliers_NNS ._. 
+Enron_NNP is_VBZ in_IN active_JJ discussions_NNS with_IN DWR_NNP to_TO establish_VB contract_NN terms_NNS with_IN th_NN e_SYM goal_NN of_IN entering_VBG into_IN a_DT power_NN purchase_NN agreement_NN as_RB soon_RB as_IN possible_JJ ._. 
+However_RB ,_, ambiguities_NNS contained_VBD in_IN AB_NNP 1_CD X_NNP have_VBP created_VBN significant_JJ credit_NN risk_NN concerns_NNS that_WDT need_VBP to_TO be_VB resolved_VBN in_IN order_NN to_TO finalize_NN contract_NN terms_NNS ._. 
+We_PRP understand_VBP that_IN the_DT lion_NN ,_, s_VBZ share_NN of_IN counterparties_NNS share_VBP Enron_NNP ,_, s_VBZ c_SYM redit_NN risk_NN concerns_NNS ._. 
+Enron_NNP has_VBZ proposed_VBN several_JJ options_NNS for_IN resolving_VBG the_DT credit_NN risk_NN issues_NNS and_CC is_VBZ working_VBG with_IN DWR_NNP to_TO arrive_VB at_IN a_DT solution_NN that_WDT is_VBZ mutually_RB agreeable_JJ to_TO both_DT sides_NNS and_CC that_DT might_MD serve_VB as_IN a_DT template_NN for_IN power_NN purchase_NN agreements_NNS going_VBG forward_RB ._. 
+
+Summary_NNP of_IN the_DT Source_NN of_IN the_DT Credit_NNP Risk_NNP Issue_NN 
+Ambiguous_NNP Ratemaking_NNP Authority_NNP The_DT language_NN in_IN AB_NNP 1_CD X_NNP is_VBZ ambiguous_JJ as_IN to_TO whether_IN DWR_NNP has_VBZ any_DT authority_NN to_TO charge_VB California_NNP ratepayers_NNS for_IN the_DT costs_NNS of_IN purchasing_VBG power_NN ._. 
+From_IN our_PRP$ analysis_NN of_IN the_DT bill_NN ,_, the_DT language_NN in_IN AB_NNP 1_CD X_NNP appears_VBZ to_TO leave_VB intact_JJ the_DT California_NNP PUC_NNP ,_, s_VBZ exclusive_JJ jurisdiction_NN over_IN ratemaking_VBG in_IN California_NNP ._. 
+As_IN such_JJ ,_, suppliers_NNS have_VBP no_DT assurance_NN that_IN the_DT PUC_NNP will_MD agree_VB to_TO include_VB in_IN rat_NN es_NNS adequate_JJ charges_NNS to_TO cover_VB DWR_NNP ,_, s_VBZ costs_NNS of_IN power_NN purchases_NNS ._. 
+
+Ambiguous_NNP Regulatory_NNP Authority_NNP Regarding_VBG Contract_NN "_'' Prudence_NNP "_'' The_DT language_NN in_IN AB_NNP 1_CD X_NNP leaves_VBZ open_VB the_DT possibility_NN that_IN the_DT California_NNP Public_NNP Utilities_NNP Commission_NNP could_MD determine_VB that_IN power_NN purchases_NNS made_VBN by_IN DWR_NNP are_VBP "_'' imprudent_NN ._. "_'' 
+On_IN the_DT basis_NN of_IN such_JJ a_DT finding_NN ,_, the_DT CPUC_NNP could_MD then_RB ref_NN use_NN to_TO allow_VB DWR_NNP to_TO collect_VB from_IN ratepayers_NNS the_DT costs_NNS associated_VBN with_IN its_PRP$ power_NN purchases_NNS ._. 
+Consequently_RB ,_, suppliers_NNS have_VBP no_DT assurance_NN that_IN the_DT PUC_NNP will_MD agr_NN ee_NN to_TO include_VB in_IN rates_VBZ the_DT charges_NNS to_TO cover_VB the_DT costs_NNS of_IN power_NN contracts_NNS that_IN DWR_NNP has_VBZ entered_VBN into_IN with_IN suppliers_NNS ._. 
+Ambiguous_NNP Language_NNP Regarding_VBG the_DT Ratemaking_NNP Mechanism_NNP that_WDT Will_MD Be_VB Used_VBN to_TO Recover_NNP DWR_NNP ,_, s_VBZ Costs_NNS of_IN Power_NNP Purchases_NNP In_IN addition_NN to_TO the_DT ambiguity_NN regarding_VBG ratemaking_VBG and_CC regulatory_JJ authority_NN noted_VBD above_IN ,_, the_DT language_NN in_IN the_DT bill_NN is_VBZ equally_RB ambiguous_JJ with_IN respect_NN to_TO the_DT specific_JJ ratemaking_VBG "_'' mechanics_NNS "_'' that_IN AB_NNP 1_CD X_NNP directs_VBZ the_DT PUC_NNP to_TO empl_NN oy_NN to_TO permit_VB DWR_NNP to_TO recover_VB its_PRP$ power_NN purchase_NN costs_NNS ._. 
+Based_VBN on_IN our_PRP$ analysis_NN ,_, it_PRP i_NNP s_VBZ extremely_RB difficult_JJ to_TO determine_VB how_WRB the_DT PUC_NNP would_MD design_VB the_DT rates_NNS to_TO ensu_NN re_NN DWR_NNP recovers_VBZ its_PRP$ power_NN purchase_NN costs_NNS ._. 
+Moreover_RB ,_, as_RB currently_RB drafted_VBN ,_, it_PRP is_VBZ difficult_JJ to_TO determine_VB whether_IN AB_NNP 1_CD X_NNP would_MD even_RB permit_VB the_DT PUC_NNP to_TO include_VB in_IN rates_NNS all_DT of_IN the_DT charges_NNS necessary_JJ to_TO fully_RB recover_VB DWR_NNP ,_, s_VBZ power_NN purchase_NN costs_NNS ._. 
+Again_RB ,_, this_DT ambiguity_NN raises_VBZ significant_JJ credit_NN risk_NN concerns_NNS since_IN suppliers_NNS have_VBP little_JJ assurance_NN that_IN DWR_NNP will_MD have_VB the_DT ability_NN to_TO recover_VB from_IN ratepayers_NNS the_DT costs_NNS of_IN purchasing_VBG power_NN ._. 
+
+Options_NNS to_TO Resolve_NNP Concerns_NNS Regarding_VBG Credit_NNP Risk_NNP 
+We_PRP have_VBP been_VBN working_VBG diligently_RB with_IN DWR_NNP officials_NNS to_TO resolve_VB the_DT credit_NN ri_NN sk_NN issues_NNS ._. 
+We_PRP have_VBP identified_VBN three_CD options_NNS :_: 
+
+Amend_NNP AB_NNP 1_CD X_NNP The_DT amendments_NNS ,_, which_WDT are_VBP attached_VBN to_TO this_DT email_NN ,_, would_MD clarify_VB that_IN a_DT )_) the_DT PUC_NNP would_MD accept_VB as_IN "_'' prudent_JJ and_CC reasonable_JJ "_'' all_DT purchase_NN costs_NNS incur_VBP red_JJ by_IN DWR_NNP ,_, and_CC b_SYM )_) the_DT PUC_NNP is_VBZ obligated_VBN to_TO include_VB in_IN rates_VBZ the_DT charges_NNS necessary_JJ to_TO ensure_VB that_IN DWR_NNP fully_RB recovers_VBZ its_PRP$ costs_NNS of_IN power_NN purchases_NNS ._. 
+This_DT is_VBZ the_DT preferred_JJ option_NN ,_, though_IN we_PRP understand_VBP that_IN the_DT there_EX may_MD be_VB some_DT political_JJ challenges_NNS standing_VBG in_IN the_DT way_NN of_IN amending_VBG AB_NNP 1_CD X._NN (_( See_VB attached_VBN file_VB entitled_VBN ,_, "_'' AmendAB1X.doc_NNP "_'' ._. )_) 
+
+Clarify_NNP the_DT Ambiguities_NNP in_IN AB_NNP 1_CD X_NNP through_IN an_DT Order_NNP Issued_NNP by_IN the_DT PUC_NNP ,_, and_CC through_IN Contract_NNP Language_NNP This_DT is_VBZ the_DT option_NN that_IN we_PRP are_VBP currently_RB working_VBG with_IN DWR_NNP officials_NNS to_TO implement_VB ._. 
+However_RB ,_, it_PRP is_VBZ more_RBR complicated_JJ and_CC could_MD take_VB significantly_RB mo_NN re_NN time_NN to_TO implement_VB than_IN the_DT "_'' legislative_JJ "_'' fix_VB ._. 
+We_PRP have_VBP attached_VBN electronic_JJ copies_NNS of_IN the_DT talking_VBG points_NNS related_VBN to_TO the_DT order_NN that_IN the_DT California_NNP PUC_NNP would_MD need_VB to_TO issue_VB under_IN this_DT option_NN ._. 
+(_( See_VB attached_VBN file_VB entitled_VBN ,_, "_'' cpuctalkingpoints_NNS ._. doc_NN ._. "_'' )_) 
+
+Make_VB Use_NN of_IN Other_NNP Instruments_NNP Designed_NNP to_TO Address_NNP Credit_NNP Risk_NNP As_IN indicated_VBD in_IN our_PRP$ letter_NN responding_VBG to_TO DWR_NNP 's_POS RFP_NNP ,_, we_PRP are_VBP willing_JJ to_TO ac_NN cept_NN other_JJ forms_NNS of_IN credit_NN from_IN DWR_NNP ._. 
+Those_DT options_NNS include_VBP a_DT letter_NN of_IN credit_NN ,_, cash_NN prepayment_NN ,_, or_CC an_DT acceptable_JJ form_NN of_IN collateral_NN ._. 
+DWR_NNP officials_NNS have_VBP indicated_VBN to_TO us_PRP that_IN DWR_NNP prefers_VBZ to_TO pursue_VB the_DT second_JJ options_NNS ._. 
+That_DT is_VBZ ,_, DWR_NNP prefers_VBZ to_TO clarify_VB the_DT ambiguities_NNS in_IN AB_NNP 1_CD X_NNP through_IN a_DT PUC_NNP order_NN and_CC through_IN contract_NN amendments_NNS ._. 
+
+4_CD ._. California_NNP 's_POS Supply-demand_NNP Picture_NNP Heading_VBG into_IN Summer_NNPS 2001_CD 
+Both_DT the_DT California_NNP Energy_NNP Commission_NNP and_CC Cambridge_NNP Energy_NNP Research_NNP Associates_NNPS (_( CERA_NNP )_) ,_, a_DT private_JJ sector_NN energy_NN think_VBP tank_NN ,_, have_VBP issued_VBN reports_NNS showing_VBG that_IN California_NNP faces_VBZ a_DT severe_JJ supply-demand_JJ imbalance_NN ._. 
+They_PRP diffe_NN r_LS only_RB on_IN how_WRB much_JJ and_CC how_WRB soon_RB additional_JJ supply_NN will_MD be_VB made_VBN available_JJ ._. 
+Al_NNP l_NN credible_JJ sources_NNS agree_VBP that_DT supply_NN will_MD be_VB very_RB tight_JJ throughout_IN the_DT Summer_NNPS of_IN 2001_CD and_CC that_IN unless_IN a_DT solution_NN is_VBZ found_VBN immediately_RB ,_, blackouts_NNS are_VBP likely_JJ ._. 
+
+CEC_NNP and_CC CERA_NNP both_DT forecast_NN that_IN California_NNP will_MD be_VB short_JJ of_IN supply_NN this_DT summer_NN by_IN approximately_RB 5,000_CD MW_NNP ._. 
+These_DT numbers_NNS are_VBP in_IN line_NN with_IN our_PRP$ estimates_NNS ._. 
+California_NNP 's_POS supply_NN base_NN currently_RB has_VBZ a_DT 6_CD %_NN capacity_NN margin_NN ,_, well_RB below_IN the_DT average_JJ 15_CD -_: 20_CD %_NN ,_, which_WDT is_VBZ recommended_VBN for_IN reliable_JJ system_NN operatio_NN n_NN in_IN the_DT West_NNP ._. 
+Since_IN the_DT West_NNP relies_VBZ more_RBR heavily_RB upon_IN hydroelectric_JJ power_NN than_IN other_JJ regions_NNS ,_, reserves_NNS are_VBP particularly_RB important_JJ ,_, owing_VBG to_TO the_DT unpredictability_NN of_IN the_DT weather_NN and_CC the_DT dry_JJ year_NN the_DT West_NNP has_VBZ experienced_VBN t_NN o_NN date_NN ._. 
+In_IN the_DT event_NN of_IN a_DT low_JJ rain_NN and_CC snow_NN period_NN ,_, the_DT system_NN must_MD possess_VB t_NN he_PRP flexibility_NN to_TO respond_VB to_TO the_DT reduced_JJ availability_NN of_IN power_NN supply_NN ._. 
+California_NNP 's_POS very_RB low_JJ reserve_NN margin_NN makes_VBZ it_PRP especially_RB susceptible_JJ to_TO this_DT requirement_NN ._. 
+
+Other_JJ reasons_NNS for_IN reduced_VBN supply_NN for_IN the_DT Summer_NNPS of_IN 2001_CD include_VBP the_DT early_JJ draw-down_JJ of_IN reservoirs_NNS in_IN the_DT continual_JJ effort_NN to_TO manage_VB California_NNP 's_POS seve_NN re_NN supply-demand_JJ gap_NN ;_: emissions_NNS restrictions_NNS on_IN existing_VBG plants_NNS ;_: and_CC a_DT reduced_JJ number_NN of_IN customers_NNS who_WP can_MD be_VB curtailed_VBN under_IN their_PRP$ contracts_NNS with_IN the_DT utilities_NNS ._. 
+Cambridge_NNP Energy_NNP Research_NNP Associates_NNPS asserts_VBZ that_IN at_IN the_DT curren_NN t_NN pace_NN of_IN siting_VBG ,_, permitting_VBG and_CC construction_NN ,_, adequate_JJ supplies_NNS will_MD not_RB be_VB added_VBN to_TO correct_VB the_DT market_NN imbalance_NN until_IN 2003_CD at_IN the_DT earliest_JJS ._. 
+
+CERA_NNP predicts_VBZ that_IN California_NNP is_VBZ likely_JJ to_TO face_VB approximately_RB 20_CD hours_NNS of_IN rolling_VBG black_JJ outs_NNS this_DT summer_NN ._. 
+The_DT CEC_NNP paints_NNS a_DT considerably_RB more_RBR optimistic_JJ scenario_NN ,_, betting_VBG that_IN California_NNP will_MD bring_VB an_DT additional_JJ 5,000_CD MWs_NNP on_IN line_NN to_TO meet_VB peaking_VBG summer_NN demand_NN ._. 
+It_PRP is_VBZ our_PRP$ view_NN that_IN California_NNP should_MD view_VB the_DT CEC_NNP 's_POS "_'' rosy_JJ scenario_NN "_'' with_IN considerable_JJ skepticism_NN ._. 
+
+5_CD ._. Suggested_NNP Package_NNP of_IN Legislative_NNP Proposals_NNS Designed_NNP to_TO Solve_NNP California_NNP 's_POS Electricity_NNP Crisis_NNP 
+This_DT email_NN offers_VBZ an_DT overview_NN of_IN our_PRP$ proposed_VBN legislative_JJ solution_NN ._. 
+We_PRP wil_NN l_NN deliver_VB to_TO your_PRP$ office_NN tomorrow_NN specific_JJ legislative_JJ language_NN and_CC existing_VBG bills_NNS that_IN we_PRP believe_VBP can_MD accommodate_VB our_PRP$ proposals_NNS ._. 
+
+As_IN we_PRP have_VBP suggested_VBN throughout_IN the_DT crisis_NN ,_, any_DT solution_NN to_TO California_NNP 's_POS crisis_NN must_MD focus_VB on_IN four_CD issues_NNS :_: 
+
+Increase_VB supply_NN Decrease_NNP demand_NN Establish_VB a_DT truly_RB competitive_JJ retail_JJ electricity_NN market_NN Return_NN California_NNP 's_POS Investor-owned_NNP utilities_NNS to_TO solvency_NN 
+
+Increase_VB supply--_JJ Legislative_NNP vehicle_NN :_: SB28X_NNP (_( Sher_NNP )_) To_TO site_NN and_CC construct_VB a_DT power_NN plant_NN in_IN Texas_NNP takes_VBZ approximately_RB 2_CD years_NNS ._. 
+Enron_NNP and_CC others_NNS have_VBP completed_VBN the_DT entire_JJ process_NN in_IN other_JJ states_NNS in_IN less_JJR than_IN a_DT year_NN ._. 
+In_IN California_NNP ,_, it_PRP takes_VBZ about_IN six_CD years_NNS ,_, or_CC longer_RBR ._. 
+
+The_DT Governor_NNP 's_POS executive_NN orders_NNS and_CC Senator_NNP Sher_NNP 's_POS siting_VBG reform_NN legi_NN slation_NN are_VBP steps_NNS in_IN the_DT right_JJ direction_NN ._. 
+Our_PRP$ suggested_JJ amendments_NNS can_MD improve_VB tho_NN se_FW efforts_NNS by_IN further_JJ addressing_VBG the_DT difficulties_NNS that_WDT project_NN developers_NNS face_VBP in_IN securing_VBG air_NN emission_NN reduction_NN credits_NNS to_TO meet_VB the_DT air_NN permit_NN requirements_NNS included_VBN in_IN the_DT CEC_NNP 's_POS certification_NN requirements_NNS ._. 
+Enron_NNP 's_POS proposal_NN seeks_VBZ to_TO streamline_VB the_DT process_NN for_IN 1_CD )_) obtaining_VBG credits_NNS and_CC 2_CD )_) transfering_VBG credits_NNS between_IN air_NN districts_NNS ._. 
+In_IN addition_NN ,_, it_PRP creates_VBZ an_DT innovative_JJ emissions_NNS reduction_NN bank_NN to_TO allow_VB project_NN sponsors_NNS to_TO fund_VB emissions_NNS in_IN advance_NN of_IN obtaining_VBG certification_NN ,_, and_CC permits_VBZ the_DT affected_VBN a_DT ir_NN districts_NNS to_TO use_VB those_DT funds_NNS to_TO finance_VB projects_NNS that_WDT will_MD produce_VB the_DT required_JJ reductions_NNS in_IN pollution_NN emissions_NNS ._. 
+
+Decrease_NNP demand_NN *_NN Legislative_NNP Vehicle_NNP :_: AB_NNP 31_CD X_NNP (_( Wright_NNP )_) Because_IN of_IN the_DT delay_NN in_IN getting_VBG a_DT solution_NN in_IN place_NN in_IN California_NNP ,_, closing_VBG the_DT supply-demand_JJ gap_NN through_IN energy_NN conservation_NN and_CC efficiency_NN offers_VBZ the_DT best_JJS chance_NN of_IN avoiding_VBG blackouts_NNS this_DT summer_NN ._. 
+This_DT can_MD be_VB accomplished_VBN mo_NN st_NN effectively_RB and_CC quickly_RB in_IN two_CD ways_NNS :_: 
+
+Buy-down_NNP demand_NN California_NNP is_VBZ tapping_VBG into_IN an_DT enormous_JJ amount_NN of_IN money_NN from_IN the_DT General_NNP Fun_NNP d_SYM to_TO finance_VB DWR_NNP 's_POS power_NN purchases_NNS ._. 
+California_NNP could_MD likely_RB reduce_VB demand_NN more_RBR economically_RB by_IN running_VBG an_DT auction_NN to_TO determine_VB the_DT payments_NNS businesses_NNS wou_NN ld_NN be_VB willing_JJ to_TO receive_VB to_TO reduce_VB their_PRP$ demand_NN for_IN a_DT sustained_JJ period_NN (_( e.g._NN ,_, through_IN the_DT summer_NN months_NNS )_) ._. 
+DWR_NNP could_MD easily_RB run_VB an_DT on-line_JJ auction_NN to_TO determine_VB the_DT price_NN it_PRP could_MD pay_VB for_IN these_DT demand_NN reductions_NNS ._. 
+To_TO participate_VB ,_, businesses_NNS would_MD be_VB required_VBN to_TO have_VB the_DT metering_VBG equipment_NN necessary_JJ to_TO monitor_VB and_CC verify_VB that_IN they_PRP are_VBP actually_RB achieving_VBG the_DT reductions_NNS ._. 
+Enron_NNP has_VBZ developed_VBN an_DT on-line_JJ auction_NN software_NN package_NN ,_, "_'' D_NNP eal_NN Bench_NNP ,_, "_'' that_IN it_PRP would_MD be_VB willing_JJ to_TO contribute_VB to_TO the_DT effort_NN ._. 
+
+Use_NNP Price_NNP Signals_NNP to_TO Incent_NNP Voluntary_NNP Curtailment_NNP To_TO be_VB successful_JJ ,_, customers_NNS need_VBP access_NN to_TO the_DT following_VBG key_JJ elements_NNS :_: 
+
+An_DT internet_NN based_VBD hour-ahead_JJ price_NN posting_VBG system_NN to_TO track_VB the_DT market_NN price_NN for_IN hour-ahead_JJ power_NN in_IN real_JJ time_NN ._. 
+Real-time_NNP metering_VBG systems_NNS for_IN baseline_NN demand_NN and_CC voluntarily_RB curtailment_NN verification_NN ._. 
+Settlement_NNP process_NN that_WDT allows_VBZ for_IN market_NN clearing_NN prices_NNS of_IN energy_NN to_TO be_VB paid_VBN for_IN load_NN reduction_NN (_( "_'' Negawatts_NNP "_'' )_) ._. 
+
+The_DT potential_JJ benefits_NNS of_IN an_DT effective_JJ demand_NN response_NN program_NN would_MD includ_NN e_SYM :_: 
+
+"_'' creation_NN "_'' of_IN additional_JJ summer_NN peaking_VBG capacity_NN in_IN California_NNP ,_, parti_NN cularly_RB in_IN the_DT short_JJ term_NN ,_, without_IN requiring_VBG construction_NN of_IN additional_JJ generation_NN resources_NNS ._. 
+reduction_NN of_IN peak_NN or_CC super-peak_JJ load_NN on_IN the_DT over-stressed_JJ California_NNP electric_JJ system_NN ,_, thus_RB potentially_RB reducing_VBG the_DT overall_JJ cost_NN of_IN electricity_NN in_IN the_DT state_NN ._. 
+fostering_VBG of_IN demand_NN elasticity_NN without_IN subjecting_VBG customers_NNS to_TO the_DT full_JJ ris_NNS k_NN of_IN hourly_JJ market_NN price_NN volatility_NN by_IN passing_VBG market_NN price_NN signals_NNS to_TO customers_NNS and_CC allowing_VBG them_PRP to_TO voluntarily_RB shed_VB load_NN and_CC be_VB compensated_VBN for_IN responding_VBG ._. 
+
+We_PRP estimate_VBP that_IN we_PRP could_MD generate_VB a_DT summer_NN 2001_CD on-peak_JJ demand_NN response_NN in_IN excess_NN of_IN 400_CD MW_NNP during_IN certain_JJ high_JJ cost_NN hours_NNS ,_, and_CC a_DT demand_NN response_NN for_IN summer_NN 2002_CD on-peak_JJ hours_NNS that_WDT could_MD exceed_VB 1000_CD MW_NNP ._. 
+We_PRP further_JJ estimate_NN that_IN the_DT market_NN response_NN to_TO this_DT program_NN from_IN all_DT ESPs_NNPS could_MD be_VB 2_CD to_TO 3_CD time_NN s_VBZ that_DT amount_NN ._. 
+We_PRP recommend_VBP that_IN the_DT State_NNP of_IN California_NNP provide_VB rebates_NNS directly_RB to_TO customers_NNS to_TO fund_VB the_DT installation_NN of_IN advanced_VBD metering_VBG and_CC control_NN systems_NNS that_WDT would_MD support_VB load_NN curtailment_NN implementation_NN ._. 
+
+Establish_VB a_DT truly_RB competitive_JJ retail_JJ electricity_NN market_NN *_NN Legislative_NNP vehi_NN cle_NN :_: SB_NNP 27_CD X_NNP 
+The_DT only_JJ customers_NNS who_WP were_VBD protected_VBN from_IN price_NN volatility_NN in_IN San_NNP Diego_NNP we_PRP re_NN customers_NNS who_WP chose_VBD Direct_NNP Access_NNP and_CC signed_VBD fixed_VBN price_NN deals_NNS with_IN energy_NN service_NN providers_NNS ._. 
+Ironically_RB ,_, AB_NNP 1_CD X_NNP takes_VBZ that_IN important_JJ option_NN away_RB from_IN customers_NNS and_CC businesses_NNS ._. 
+It_PRP is_VBZ critical_JJ that_IN AB_NNP 1_CD X_NNP be_VB amended_VBN to_TO remove_VB th_NN e_SYM prohibition_NN against_IN Direct_NNP Access_NNP ._. 
+
+Enron_NNP 's_POS legislative_JJ proposal_NN would_MD give_VB customers_NNS freedom_NN to_TO enter_VB into_IN a_DT direct_JJ access_NN transaction_NN ,_, while_IN simultaneously_RB addressing_VBG the_DT Department_NNP o_NN f_SYM Water_NNP Resources_NNPS '_POS concerns_NNS about_IN stranded_VBN power_NN costs_NNS that_WDT might_MD result_VB from_IN customer_NN migration_NN ._. 
+
+In_IN addition_NN ,_, California_NNP will_MD only_RB achieve_VB a_DT competitive_JJ retail_JJ market_NN when_WRB the_DT utility_NN is_VBZ removed_VBN completely_RB from_IN the_DT procurement_NN function_NN ._. 
+Procureme_NNP nt_RB is_VBZ not_RB a_DT utility_NN core_NN competency_NN ,_, as_IN evidenced_VBN by_IN the_DT dire_JJ financial_JJ condition_NN in_IN which_WDT the_DT utilities_NNS now_RB find_VBP themselves_PRP ._. 
+California_NNP should_MD therefore_RB begin_VB immediately_RB to_TO phase_VB the_DT utility_NN out_IN of_IN the_DT procurement_NN function_NN entirely_RB ,_, with_IN the_DT goal_NN of_IN having_VBG all_DT customers_NNS served_VBN by_IN a_DT non-utility_JJ provider_NN within_IN 36_CD months_NNS ._. 
+To_TO execute_VB the_DT transition_NN ,_, California_NNP should_MD hold_VB a_DT series_NN of_IN competitive_JJ solicitations_NNS over_IN the_DT 36_CD -_: month_NN period_NN in_IN which_WDT competing_VBG service_NN providers_NNS would_MD bid_VB for_IN the_DT right_NN to_TO serve_VB segments_NNS of_IN utility_NN load_NN ._. 
+
+Return_NN California_NNP 's_POS Investor-owned_NNP utilities_NNS to_TO solvency_NN *_NN Legislative_NNP vehicle_NN :_: AB_NNP 18_CD X_NNP 
+Utility_NNP bankruptcy_NN will_MD not_RB increase_VB supply_NN and_CC it_PRP will_MD not_RB decrease_VB demand_NN ._. 
+In_IN short_JJ ,_, bankruptcy_NN does_VBZ nothing_NN to_TO solve_VB California_NNP 's_POS supply-demand_JJ imbalance_NN ._. 
+In_IN addition_NN ,_, bankruptcy_NN increases_VBZ the_DT likelihood_NN that_IN consumers_NNS and_CC businesses_NNS will_MD bear_VB the_DT significant_JJ financial_JJ risks_NNS of_IN having_VBG California_NNP State_NNP government_NN assume_VBP the_DT role_NN of_IN "_'' electricity_NN buyer_NN "_'' for_IN an_DT extended_JJ period_NN of_IN time_NN ._. 
+Finally_RB ,_, bankruptcy_NN will_MD undermine_VB both_DT investor_NN confidence_NN in_IN California_NNP 's_POS energy_NN markets_NNS and_CC the_DT private_JJ sector_NN 's_POS willingness_NN to_TO participate_VB in_IN that_DT market_NN ._. 
+
+California_NNP can_MD return_VB the_DT utilities_NNS to_TO financial_JJ solvency_NN by_IN implementing_VBG a_DT series_NN of_IN staged_VBD rate_NN increases_NNS ._. 
+California_NNP should_MD design_VB those_DT rate_NN increases_NNS with_IN the_DT dual_JJ goal_NN of_IN returning_VBG the_DT utilities_NNS to_TO solvency_NN without_IN "_'' shocking_JJ "_'' the_DT economy_NN or_CC household_NN budgets_NNS For_IN example_NN ,_, California_NNP could_MD amortize_VB the_DT recovery_NN of_IN the_DT utilities_NNS ,_, past_JJ debt_NN over_IN a_DT 5_CD -_: 10_CD year_NN period_NN ._. 
+In_IN addition_NN ,_, the_DT magnitude_NN of_IN the_DT rate_NN increase_NN can_MD be_VB reduced_VBN in_IN two_CD ways_NNS :_: First_CD ,_, the_DT utilities_NNS could_MD absorb_VB some_DT portion_NN of_IN their_PRP$ existing_VBG debt_NN in_IN recognition_NN of_IN the_DT risk_NN they_PRP accepted_VBD when_WRB they_PRP agreed_VBD to_TO the_DT structure_NN of_IN AB_NNP 1890_CD ._. 
+Second_JJ ,_, California_NNP can_MD "_'' net_JJ "_'' the_DT revenues_NNS the_DT utilities_NNS have_VBP r_LS eceived_JJ from_IN selling_VBG electricity_NN into_IN the_DT Power_NNP Exchange_NNP against_IN the_DT debts_NNS they_PRP hav_NN e_SYM accrued_VBN due_JJ to_TO the_DT retail_JJ price_NN cap_NN ._. 
+

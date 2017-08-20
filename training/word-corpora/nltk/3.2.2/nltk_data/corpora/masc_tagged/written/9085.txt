@@ -1,0 +1,14 @@
+Message-ID_NNP :_: <_NN 1697917.1075852651136.JavaMail.evans@thyme_NN >_NN Date_NN :_: Tue_NNP ,_, 17_CD Jul_NNP 2001_CD 16:09:15_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: bg8862@aol.com_NN To_TO :_: jeff.skilling@enron.com_NN Subject_NNP :_: Tom_NNP DeLay_NNP CA_NNP Aug_NNP Dinner_NNP &_CC Golf_NNP event_NN Cc_NNP :_: joannie.williamson@enron.com_NN Mime-Version_NNP :_: 1.0_CD Content-Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-Transfer-Encoding_NNP :_: 7_CD bit_NN Bcc_NNP :_: joannie.williamson@enron.com_NN Jeff_NNP ,_, I_PRP spoke_VBD to_TO Joannie_NNP this_DT afternoon_NN and_CC asked_VBD for_IN your_PRP$ e-mail_JJ to_TO send_VB this_DT invitation_NN ._. 
+Here_RB is_VBZ the_DT initial_JJ information_NN on_IN the_DT event_NN ._. 
+We_PRP are_VBP expecting_VBG additional_JJ members_NNS of_IN Congress_NNP to_TO attend_VB both_DT events_NNS ._. 
+If_IN you_PRP have_VBP any_DT questions_NNS or_CC comment_VB ,_, please_VB let_VB me_PRP know_VB ._. 
+I_PRP have_VBP attached_VBN a_DT word_NN doc_NN ._. as_RB well_RB :_: 
+
+Tom_NNP DeLay_NNP /_NN ARMPAC_NNP Guest_NNP Speaker_NNP -_: David_NNP Horowitz_NNP Four_CD Seasons_NNPS Aviara_NNP -_: Dinner_NNP &_CC Golf_NNP Tournament_NNP 
+The_DT event_NN will_MD take_VB place_NN :_: Wednesday_NNP ,_, August_NNP 15_CD Four_CD Seasons_NNPS Aviara_NNP (_( Northern_NNP San_NNP Diego_NNP ,_, CA_NNP )_) Golf_NNP Lunch_NNP will_MD start_VB at_IN 11_CD am_VBP 
+Tee_UH times_NNS at_IN 12:15_NN pm_NN 
+An_DT informal_JJ reception_NN afterwards_RB Limited_NNP to_TO 40_CD people_NNS Cost_NN is_VBZ $5k_NN per_IN person_NN Dinner_NNP Reception_NNP 6_CD to_TO 6:45_NN pm_NN Dinner_NNP 7_CD to_TO 8:30_NN pm_NN Speakers_NNS Tom_NNP DeLay_NNP and_CC David_NNP Horowitz_NNP $1,500_NN per_IN person_NN ,_, $2,500_NN per_IN couple_NN There_EX are_VBP four_CD levels_NNS of_IN sponsorship_NN :_: $100K_NN ,_, $50k_NN ,_, $25k_NN and_CC $15k_NN ._. 
+Contribution_NNP levels_NNS will_MD also_RB transfer_VB from_IN the_DT dinner_NN and_CC /_NN or_CC Golf_NNP Tournament_NNP to_TO the_DT ARMPAC_NNP "_'' contributor_NN sponsorship_NN program_NN ._. 
+"_'' 
+Bill_NNP Gowan_NNP Election_NNP Day_NNP Consulting_NNP ,_, LLC_NNP 1947_CD Camino_NNP Vida_NNP Roble_NNP ,_, suite_NN 104_CD Carlsbad_NNP ,_, CA_NNP 92009_CD 760_CD 929.1203_CD electiondayconsulting_VBG ._. com_NN 
+-_: Aug_NNP 15_CD Golf_NNP dinner.doc_NN 

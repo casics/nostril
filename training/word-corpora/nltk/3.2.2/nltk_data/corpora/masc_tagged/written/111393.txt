@@ -1,0 +1,19 @@
+Date_NN :_: Tue_NNP ,_, 2_CD Nov_NNP 2010_CD 02:26:26_NN +_NN 0100_CD (_( CET_NNP )_) Subject_NNP :_: We_PRP offer_VBP up_IN to_TO $5,000,000.00_NN loan_NN ,_, reply_VB for_IN details_NNS From_IN :_: "_'' Maria_NNP Fletcher_NNP "_'' <_NN relosegui@seyprel.com_NN >_NN To_TO :_: undisclosed-recipients_JJ :_: ;_: Hello_UH sir_NN ,_, 
+
+Are_VBP you_PRP looking_VBG for_IN a_DT loan_NN ?_. 
+
+We_PRP offer_VBP loans_NNS to_TO individuals_NNS ,_, small_JJ business_NN firms_NNS and_CC all_DT kinds_NNS of_IN business_NN financing_NN in_IN any_DT part_NN of_IN the_DT world_NN with_IN ease_NN and_CC greater_JJR flexibility_NN ._. 
+
+Available_NNP loan_NN amounts_VBZ ranges_NNS from_IN US_NNP $_$ 100,000.00_CD to_TO US_NNP $_$ 5,000,000.00_CD with_IN repayment_NN duration_NN of_IN 1_CD to_TO 10_CD years_NNS ._. 
+Our_PRP$ loan_NN interest_NN rate_NN is_VBZ as_RB low_JJ as_IN 3_CD %_NN per_IN annum_NN depending_VBG on_IN the_DT loan_NN ,_, amount_NN and_CC repayment_NN period_NN ._. 
+
+There_EX 's_VBZ always_RB a_DT loan_NN to_TO suit_VB your_PRP$ need_VBP no_DT matter_NN your_PRP$ financial_JJ circumstances_NNS ._. 
+
+For_IN further_JJ details_NNS and_CC loan_NN applications_NNS ,_, Kindly_NNP send_VB your_PRP$ telephone_NN number_NN by_IN email_NN directly_RB to_TO :_: 
+Mrs._NN Helena_NNP B._NN Tilbury_NNP 
+Manager_NNP ,_, Financial_NNP Services_NNPS 
+Bay_NNP Finance_NNP ,_, United_NNP Kingdom_NNP 
+Email_NNP :_: bfinanceuk@gmail.com_NN 
+
+Yours_NNP sincerely_RB ,_, 
+Maria_NNP Fletcher_NNP Bay_NNP Finance_NNP ,_, UK_NNP ._. 

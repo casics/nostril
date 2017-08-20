@@ -1,0 +1,16 @@
+Message-ID_NNP :_: <_NN 25447472.1075856582182.JavaMail.evans@thyme_NN >_NN Date_NN :_: Wed_NNP ,_, 14_CD Jun_NNP 2000_CD 09:16:00_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: steven.leppard@enron.com_NN To_TO :_: dale.surbey@enron.com_NN Subject_NNP :_: Security_NNP question_NN Cc_NNP :_: grant.masson@enron.com_NN ,_, vince.kaminski@enron.com_NN Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Bcc_NNP :_: grant.masson@enron.com_NN ,_, vince.kaminski@enron.com_NN Dear_RB guys_NNS 
+
+Having_VBG been_VBN out_IN of_IN the_DT office_NN for_IN a_DT couple_NN of_IN days_NNS ,_, I_PRP 've_VBP found_VBN myself_PRP the_DT victim_NN of_IN theft_NN (_( again_RB )_) ._. 
+This_DT time_NN my_PRP$ desk_NN drawer_NN key_NN has_VBZ been_VBN stolen_VBN from_IN its_PRP$ "_'' hiding_VBG place_NN "_'' under_IN my_PRP$ telephone_NN ._. 
+I_PRP *_NN always_RB *_NN lock_NN my_PRP$ drawers_NNS and_CC keep_VB the_DT key_NN in_IN the_DT same_JJ place_NN ,_, but_CC on_IN arriving_VBG in_IN the_DT office_NN today_NN I_PRP found_VBD the_DT drawers_NNS unlocked_VBD ,_, and_CC the_DT key_JJ missing_VBG ._. 
+Although_IN there_EX 's_VBZ nothing_NN sensitive_JJ on_IN or_CC around_IN my_PRP$ desk_NN ,_, I_PRP 'm_VBP concerned_VBN about_IN the_DT security_NN implications_NNS of_IN someone_NN sniffing_VBG around_IN the_DT office_NN in_IN this_DT manner_NN ._. 
+I_PRP also_RB found_VBD the_DT papers_NNS on_IN my_PRP$ desk_NN extensively_RB reshuffled_VBD last_JJ week_NN ._. 
+
+Last_JJ year_NN ,_, in_IN our_PRP$ old_JJ office_NN ,_, I_PRP had_VBD my_PRP$ only_RB two_CD real_JJ options_NNS books_NNS stolen_VBN from_IN among_IN the_DT many_JJ and_CC varied_VBD books_NNS on_IN my_PRP$ desk_NN ._. 
+That_DT could_MD n't_RB have_VB been_VBN a_DT random_JJ theft_NN ,_, and_CC I_PRP fear_VBP this_DT is_VBZ n't_RB either_RB ._. 
+I_PRP ca_MD n't_RB understand_VB who_WP 'd_MD be_VB so_RB interested_JJ in_IN a_DT Research_NNP guy_NN 's_POS belongings_NNS !_. 
+
+Can_MD we_PRP ask_VB security_NN to_TO check_VB their_PRP$ surveillance_NN footage_NN for_IN any_DT suspicious_JJ activity_NN around_IN my_PRP$ desk_NN ?_. 
+
+Cheers_NNP ,_, Steve_NNP 
+

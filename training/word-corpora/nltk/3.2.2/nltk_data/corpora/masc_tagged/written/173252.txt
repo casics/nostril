@@ -1,0 +1,44 @@
+Date_NN :_: Wed_NNP ,_, 8_CD Sep_NNP 1999_CD 08:50:00_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: steven.kean@enron.com_NN To_TO :_: kelly.kimberly@enron.com_NN Subject_NNP :_: Re_NNP :_: India_NNP And_CC The_DT WTO_NNP Services_NNPS Negotiation_NNP Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN X-From_NNP :_: Steven_NNP J_NNP Kean_NNP X-To_NNP :_: Kelly_NNP Kimberly_NNP X-cc_NNP :_: X-bcc_NNP :_: X-Folder_NNP :_: \_NN Steven_NNP __NN Kean_NNP __NN Dec_NNP 2000_CD __NN 1_CD \_NN Notes_NNP Folders_NNP \_NN All_DT documents_NNS X-Origin_NNP :_: KEAN-S_NNP X-FileName_NNP :_: skean_NN ._. nsf_NN fyi_NN ----------------------_SYM Forwarded_NNP by_IN Steven_NNP J_NNP Kean_NNP /_NN HOU_NNP /_NN EES_NNP on_IN 09/08/99_CD 03:49_NN PM_NNP ---------------------------_SYM 
+Joe_NNP Hillings_NNP @_IN ENRON_NNP 09/08/99_CD 02:52_NN PM_NNP To_TO :_: Joe_NNP Hillings_NNP /_NN Corp_NNP /_NN Enron_NNP @_IN Enron_NNP cc_NN :_: Sanjay_NNP Bhatnagar_NNP /_NN ENRON_DEVELOPMENT_NNP @_IN ENRON_DEVELOPMENT_NNP ,_, Terence_NNP H_NNP Thorn_NNP /_NN ENRON_DEVELOPMENT_NNP @_IN ENRON_DEVELOPMENT_NNP ,_, Ashok_NNP Mehta_NNP /_NN ENRON_DEVELOPMENT_NNP @_IN ENRON_DEVELOPMENT_NNP ,_, John_NNP Ambler_NNP /_NN ENRON_DEVELOPMENT_NNP @_IN ENRON_DEVELOPMENT_NNP ,_, Steven_NNP J_NNP Kean_NNP /_NN HOU_NNP /_NN EES_NNP @_IN EES_NNP ,_, Jeffrey_NNP Sherrick_NNP /_NN Corp_NNP /_NN Enron_NNP @_IN Enron_NNP Subject_NNP :_: Re_NNP :_: India_NNP And_CC The_DT WTO_NNP Services_NNPS Negotiation_NNP 
+Sanjay_NNP :_: Some_DT information_NN of_IN possible_JJ interest_NN to_TO you_PRP ._. 
+I_PRP attended_VBD a_DT meeting_VBG this_DT afternoon_NN of_IN the_DT Coalition_NNP of_IN Service_NNP Industries_NNPS ,_, one_CD of_IN the_DT lead_NN groups_NNS promoting_VBG a_DT wide_JJ range_NN of_IN services_NNS including_VBG energy_NN services_NNS in_IN the_DT upcoming_JJ WTO_NNP GATTS_NNP 2000_CD negotiations_NNS ._. 
+CSI_NNP President_NNP Bob_NNP Vastine_NNP was_VBD in_IN Delhi_NNP last_JJ week_NN and_CC met_VBD with_IN CII_NNP to_TO discuss_VB the_DT upcoming_JJ WTO_NNP ._. 
+CII_NNP apparently_RB has_VBZ a_DT committee_NN looking_VBG into_IN the_DT WTO_NNP ._. 
+Bob_NNP says_VBZ that_IN he_PRP told_VBD them_PRP that_IN energy_NN services_NNS was_VBD among_IN the_DT CSI_NNP recommendations_NNS and_CC he_PRP recalls_VBZ that_IN CII_NNP said_VBD that_IN they_PRP too_RB have_VBP an_DT interest_NN ._. 
+
+Since_IN returning_VBG from_IN the_DT meeting_NN I_PRP spoke_VBD with_IN Kiran_NNP Pastricha_NNP and_CC told_VBD her_PRP$ the_DT above_JJ ._. 
+She_PRP actually_RB arranged_VBD the_DT meeting_NN in_IN Delhi_NNP ._. 
+She_PRP asked_VBD that_IN I_PRP send_VBP her_PRP$ the_DT packet_NN of_IN materials_NNS we_PRP distributed_VBD last_JJ week_NN in_IN Brussels_NNP and_CC London_NNP ._. 
+One_CD of_IN her_PRP$ associates_NNS is_VBZ leaving_VBG for_IN India_NNP tomorrow_NN and_CC will_MD take_VB one_CD of_IN these_DT items_NNS to_TO Delhi_NNP ._. 
+
+Joe_NNP 
+Joe_NNP Hillings_NNP 09/08/99_CD 11:57_NN AM_NNP To_TO :_: Sanjay_NNP Bhatnagar_NNP /_NN ENRON_DEVELOPMENT_NNP @_IN ENRON_DEVELOPMENT_NNP cc_NN :_: Terence_NNP H_NNP Thorn_NNP /_NN ENRON_DEVELOPMENT_NNP @_IN ENRON_DEVELOPMENT_NNP ,_, Ashok_NNP Mehta_NNP /_NN ENRON_DEVELOPMENT_NNP @_IN ENRON_DEVELOPMENT_NNP ,_, John_NNP Ambler_NNP /_NN ENRON_DEVELOPMENT_NNP @_IN ENRON_DEVELOPMENT_NNP ,_, Steven_NNP J_NNP Kean_NNP /_NN HOU_NNP /_NN EES_NNP @_IN EES_NNP ,_, Jeffrey_NNP Sherrick_NNP /_NN Corp_NNP /_NN Enron_NNP @_IN Enron_NNP (_( bcc_NN :_: Joe_NNP Hillings_NNP /_NN Corp_NNP /_NN Enron_NNP )_) Subject_NNP :_: India_NNP And_CC The_DT WTO_NNP Services_NNPS Negotiation_NNP 
+Sanjay_NNP :_: First_CD some_DT information_NN and_CC then_RB a_DT request_NN for_IN your_PRP$ advice_NN and_CC involvment_NN ._. 
+
+A_DT group_NN of_IN US_NNP companies_NNS and_CC associations_NNS formed_VBD the_DT US_NNP WTO_NNP Energy_NNP Services_NNPS Coalition_NNP in_IN late_JJ May_NNP and_CC has_VBZ asked_VBN the_DT US_NNP Government_NNP to_TO include_VB "_'' energy_NN services_NNS "_'' on_IN their_PRP$ proposed_JJ agenda_NN when_WRB the_DT first_JJ meeting_NN of_IN the_DT WTO_NNP GATTS_NNP 2000_CD ministerial_JJ convenes_VBZ late_JJ this_DT year_NN in_IN Seattle_NNP ._. 
+Ken_NNP Lay_NNP will_MD be_VB among_IN the_DT CEO_NNP speakers_NNS ._. 
+These_DT negotiations_NNS are_VBP expected_VBN to_TO last_VB three_CD years_NNS and_CC cover_VB a_DT range_NN of_IN subjects_NNS including_VBG agriculture_NN ,_, textiles_NNS ,_, e-commerce_JJ ,_, investment_NN ,_, etc._NN 
+
+This_DT morning_NN I_PRP visited_VBD with_IN Sudaker_NNP Rao_NNP at_IN the_DT Indian_NNP Embassy_NNP to_TO tell_VB him_PRP about_IN our_PRP$ coalition_NN and_CC to_TO seek_VB his_PRP$ advice_NN on_IN possible_JJ interest_NN of_IN the_DT GOI_NNP ._. 
+After_IN all_DT ,_, India_NNP is_VBZ a_DT leader_NN in_IN data_NNS processing_NN matters_NNS and_CC has_VBZ other_JJ companies_NNS including_VBG ONGC_NNP that_WDT must_MD be_VB interested_JJ in_IN exporting_VBG energy_NN services_NNS ._. 
+In_IN fact_NN probably_RB Enron_NNP and_CC other_JJ US_NNP companies_NNS may_MD be_VB engaging_VBG them_PRP in_IN India_NNP and_CC possibly_RB abroad_RB ._. 
+
+Sudaker_NNP told_VBD me_PRP that_IN the_DT GOI_NNP has_VBZ gone_VBN through_IN various_JJ phases_NNS of_IN opposing_VBG the_DT services_NNS round_VBP to_TO saying_VBG only_RB agriculture_NN to_TO now_RB who_WP knows_VBZ what_WP ._. 
+He_PRP agrees_VBZ with_IN the_DT strategy_NN of_IN our_PRP$ US_NNP WTO_NNP Energy_NNP Services_NNPS Coalition_NNP to_TO work_VB with_IN companies_NNS and_CC associations_NNS in_IN asking_VBG them_PRP to_TO contact_VB their_PRP$ government_NN to_TO ask_VB that_IN energy_NN services_NNS be_VB on_IN their_PRP$ list_NN of_IN agenda_NN items_NNS ._. 
+It_PRP would_MD seem_VB to_TO me_PRP that_IN India_NNP has_VBZ such_JJ an_DT interest_NN ._. 
+Sudaker_NNP and_CC I_PRP agree_VBP that_IN you_PRP are_VBP a_DT key_JJ person_NN to_TO advise_VB us_PRP and_CC possibly_RB to_TO suggest_VB to_TO CII_NNP or_CC others_NNS that_IN they_PRP make_VBP such_PDT a_DT pitch_NN to_TO the_DT GOI_NNP Minister_NNP of_IN Commerce_NNP ._. 
+
+I_PRP will_MD ask_VB Lora_NNP to_TO send_VB you_PRP the_DT packet_NN of_IN materials_NNS Chris_NNP Long_NNP and_CC I_PRP distributed_VBD in_IN Brussels_NNP and_CC London_NNP last_JJ week_NN ._. 
+I_PRP gave_VBD these_DT materials_NNS to_TO Sudaker_NNP today_NN ._. 
+
+Everyone_NN tells_VBZ us_PRP that_IN we_PRP need_VBP some_DT developing_VBG countries_NNS with_IN an_DT interest_NN in_IN this_DT issue_NN ._. 
+They_PRP may_MD not_RB know_VB what_WP we_PRP are_VBP doing_VBG and_CC that_IN they_PRP are_VBP likely_JJ to_TO have_VB an_DT opportunity_NN if_IN energy_NN services_NNS are_VBP ultimately_RB negotiated_VBN ._. 
+
+Please_VB review_NN and_CC advise_VB us_PRP how_WRB we_PRP should_MD proceed_VB ._. 
+We_PRP do_VBP need_VBP to_TO get_VB something_NN done_VBN in_IN October_NNP ._. 
+Joe_NNP 
+PS_NNP Terry_NNP Thorn_NNP is_VBZ moderating_VBG a_DT panel_NN on_IN energy_NN services_NNS at_IN the_DT upcoming_JJ World_NNP Services_NNPS Congress_NNP in_IN Atlanta_NNP ._. 
+The_DT Congress_NNP will_MD cover_VB many_JJ services_NNS issues_NNS ._. 
+I_PRP have_VBP noted_VBN in_IN their_PRP$ materials_NNS that_IN Mr._NN Alliwalia_NNP is_VBZ among_IN the_DT speakers_NNS but_CC not_RB on_IN energy_NN services_NNS ._. 
+They_PRP expect_VBP people_NNS from_IN all_DT over_IN the_DT world_NN to_TO participate_VB ._. 
+

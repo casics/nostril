@@ -1,0 +1,18 @@
+docno_NN =_SYM "_'' lists-_NN 046_CD -_: 11485666_CD "_'' name_NN =_SYM "_'' Raman_NNP T._NN V._NN "_'' email_NN =_SYM "_'' raman@mv.us.adobe.com_NN "_'' sent_VBD =_SYM "_'' Mon_NNP ,_, 18_CD Mar_NNP 1996_CD 09:23:53_NN -_: 0800_CD "_'' subject_JJ =_SYM "_'' A_DT short_JJ comment_NN :_: "_'' To_TO :_: w3c-math-erb@w3.org_NN Cc_NNP :_: raman@mv.us.adobe.com_NN I_PRP 'll_MD mail_VB this_DT out_IN while_IN it_PRP 's_VBZ fresh_JJ in_IN my_PRP$ head_NN :_: 
+The_DT document_NN http://www.w3.org/pub/WWW/MarkUp/Math/Group/Wolfram/general.html_NN contains_VBZ the_DT following_VBG statement_NN which_WDT I_PRP completely_RB disagree_VBP with_IN (_( at_IN least_JJS as_IN stated_VBN here_RB )_) ._. 
+
+Rendering_NNP into_IN other_JJ media_NNS (_( such_JJ as_IN speech_NN )_) is_VBZ expected_VBN to_TO communicate_VB ,_, essentially_RB ,_, a_DT "_'' mental_JJ picture_NN "_'' of_IN the_DT 2-dimensional_JJ form_NN of_IN an_DT expression_NN ._. 
+(_( Rationale_NNP :_: since_IN almost_RB all_DT mathematics_NN is_VBZ conventionally_RB expressed_VBN in_IN 2_CD -_: dimensional_NN graphical_JJ form_NN ,_, most_JJS notations_NNS in_IN that_DT medium_NN have_VBP no_DT standard_JJ version_NN in_IN other_JJ media_NNS ._. )_) 
+
+Reason_NNP I_PRP disagree_VBP :_: 
+Renderings_NNP in_IN speech_NN need_VBP to_TO convey_VB more_JJR than_IN a_DT "_'' 2_CD D_NNP picture_NN "_'' of_IN the_DT expression_NN ._. 
+Check_VB out_IN (_( listen_VB to_TO )_) some_DT of_IN the_DT demos_NNS on_IN my_PRP$ AsTeR_NNP WWW_NNP site--_JJ they_PRP make_VBP the_DT point_NN about_IN spoken_VBN renderings_NNS being_VBG *_NN independent_JJ *_NN of_IN the_DT visual_JJ 2_CD D_NNP layout_NN far_RB better_JJR than_IN I_PRP am_VBP capable_JJ of_IN in_IN a_DT plain-text_JJ email_NN message_NN ._. 
+
+Given_VBN that_IN the_DT contentious_JJ statement_NN appears_VBZ in_IN our_PRP$ "_'' rationale_NN "_'' document_NN ,_, I_PRP thought_VBD it_PRP sufficiently_RB importatn_NN to_TO have_VB clarified_VBN ._. 
+
+--_: Raman_NNP 
+Thanks_NNS ,_, --_: Raman_NNP 
+--_: Best_JJS Regards_NNP ,_, --_: raman_NN 
+Adobe_NNP Systems_NNPS Tel_NNP :_: 1_CD (_( 415_CD )_) 962_CD 3945_CD (_( B-_NNP 1_CD 115_CD )_) Advanced_NNP Technology_NNP Group_NNP Fax_NNP :_: 1_CD (_( 415_CD )_) 962_CD 6063_CD 1585_CD Charleston_NNP Road_NNP Email_NNP :_: raman@adobe.com_NN Mountain_NNP View_NNP ,_, CA_NNP 94039_CD -_: 7900_CD raman@cs.cornell.edu_NN http://www-atg/People/Raman.html_NN (_( Internal_NNP To_TO Adobe_NNP )_) http://www.cs.cornell.edu/Info/People/raman/raman.html_NN (_( Cornell_NNP )_) 
+Disclaimer_NNP :_: The_DT opinions_NNS expressed_VBD are_VBP my_PRP$ own_JJ and_CC in_IN no_DT way_NN should_MD be_VB taken_VBN as_IN representative_NN of_IN my_PRP$ employer_NN ,_, Adobe_NNP Systems_NNPS Inc._NN 
+

@@ -1,0 +1,20 @@
+Message-ID_NNP :_: <_NN 30170440.1075856614663.JavaMail.evans@thyme_NN >_NN Date_NN :_: Sun_NNP ,_, 10_CD Dec_NNP 2000_CD 03:03:00_NN -_: 0800_CD (_( PST_NNP )_) From_IN :_: vkaminski@aol.com_NN To_TO :_: vkamins@enron.com_NN Subject_NNP :_: Fwd_NNP :_: Successful_JJ purchase_NN of_IN NBER_NNP Paper_NNP Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Return-_NNP Path_NNP :_: <_NN Gregory_NNP __NN Gordon@ssrn.com_NN >_NN Received_NNP :_: from_IN rly-xd03.mx.aol.com_NN (_( rly-xd03.mail.aol.com_NN [_NN 172.20_CD .105_CD .168_CD ]_NN )_) by_IN air-xd05.mail.aol.com_NN (_( v_NN 77.14_CD )_) with_IN ESMTP_NNP ;_: Sun_NNP ,_, 10_CD Dec_NNP 2000_CD 10:57:06_NN -_: 0500_CD Received_NNP :_: from_IN zeus.ssrn.com_NN (_( zeus.ssrn.com_NN [_NN 38.202_CD .236_CD .235_CD ]_NN )_) by_IN rly-xd03.mx.aol.com_NN (_( v_NN 77.27_CD )_) with_IN ESMTP_NNP ;_: Sun_NNP ,_, 10_CD Dec_NNP 2000_CD 10:56:51_NN -_: 0500_CD Received_NNP :_: from_IN ssrn_NN ._. com_NN (_( [_NN 38.202_CD .236_CD .235_CD ]_NN )_) by_IN zeus_JJ ._. ssrn_NN ._. com_NN (_( Post_NNP ._. Office_NNP MTA_NNP v_NN 3.5_CD .3_CD release_NN 223_CD ID_NNP #_# 0-61092U100L2S100V35_NN )_) with_IN SMTP_NNP id_NN com_NN ;_: Sun_NNP ,_, 10_CD Dec_NNP 2000_CD 10:56:50_NN -_: 0500_CD Subject_NNP :_: Successful_JJ purchase_NN of_IN NBER_NNP Paper_NNP Date_NN :_: Sun_NNP ,_, 10_CD Dec_NNP 2000_CD 10:56:49_NN -_: 0500_CD From_IN :_: Gregory_Gordon@ssrn.com_NN (_( Gregory_NNP __NN Gordon_NNP )_) To_TO :_: <_NN vkaminski@aol.com_NN >_NN CC_NNP :_: Message-ID_NNP :_: <_NN 20001210155650048.AAA365@zeus.ssrn.com_NN @_IN ssrn_NN ._. com_NN >_NN 
+Dear_RB Wincenty_NNP Kaminski_NNP :_: 
+
+Thank_VB you_PRP for_IN your_PRP$ purchase_NN at_IN Social_NNP Science_NNP Research_NNP Network_NNP ._. 
+Your_PRP$ credit_NN card_NN has_VBZ been_VBN charged_VBN $_$ 5.00_CD ._. 
+This_DT charge_NN will_MD appear_VB on_IN your_PRP$ statement_NN as_IN Social_NNP Science_NNP Electronic_NNP Publishing_NNP ,_, our_PRP$ parent_NN company_NN ._. 
+The_DT confirmation_NN number_NN for_IN this_DT transaction_NN is_VBZ NBER_NNP __NN 103397_CD and_CC a_DT summary_NN of_IN your_PRP$ order_NN is_VBZ below_IN ._. 
+
+If_IN you_PRP have_VBP any_DT questions_NNS about_IN this_DT charge_NN please_VB email_NN Mailto_NNP :_: NBERSupport@ssrn.com_NN for_IN assistance_NN ._. 
+
+If_IN you_PRP have_VBP any_DT comments_NNS or_CC suggestions_NNS about_IN how_WRB SSRN_NNP can_MD improve_VB this_DT service_NN ,_, please_VB let_VB me_PRP know_VB at_IN Mailto_NNP :_: Gregory_Gordon@ssrn.com_NN ._. 
+
+Thank_VB you_PRP ,_, 
+
+Gregory_NNP Gordon_NNP 
+
+President_NNP 
+
+ORDER_NNP INFORMATION_NNP ================================_SYM Diagnosing_NNP Market_NNP Power_NNP in_IN California_NNP 's_POS Restructured_NNP Wholesale_JJ Electricity_NNP Market_NNP NBER_NNP Collection_NNP Borenstein_NNP /_NN Bushnell_NNP /_NN Wolak_NNP 
+BILLING_NNP INFORMATION_NNP ================================_SYM Wincenty_NNP Kaminski_NNP 1400_CD Smith_NNP Houston_NNP ,_, TX_NNP 77002_CD USA_NNP 713_CD 853_CD 3848_CD 

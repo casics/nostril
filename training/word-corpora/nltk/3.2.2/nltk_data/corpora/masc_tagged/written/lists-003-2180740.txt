@@ -1,0 +1,7 @@
+docno_NN =_SYM "_'' lists-_NN 003_CD -_: 2180740_CD "_'' received_VBD =_SYM "_'' Mon_NNP Jun_NNP 21_CD 11:37:15_NN 1993_CD EST_NNP "_'' sent_VBD =_SYM "_'' Mon_NNP ,_, 21_CD Jun_NNP 1993_CD 14:36:41_NN -_: 0400_CD "_'' name_NN =_SYM "_'' Chris_NNP Weider_NNP "_'' email_NN =_SYM "_'' clw@merit.edu_NN "_'' subject_JJ =_SYM "_'' Re_NNP :_: IETF_NNP BOF_NNP "_'' id_NN =_SYM "_'' 9306211836.AA18241@merit.edu_NN "_'' inreplyto_NN =_SYM "_'' IETF_NNP BOF_NNP "_'' To_TO :_: WG-CHAR@rare.nl_NN ,_, ietf-charsets@INNOSOFT.COM_NN Borka_NNP ,_, Hi_NNP !_. 
+
+I_PRP 'd_MD like_VB to_TO request_VB that_IN the_DT scheduling_NN for_IN the_DT Character_NN Set_NNP BOF_NNP be_VB done_VBN so_IN that_IN it_PRP does_VBZ not_RB conflict_NN with_IN any_DT of_IN the_DT other_JJ information_NN service_NN working_VBG groups_NNS (_( IIIR_NNP ,_, IDS_NNP ,_, OSI-DS_NNP ,_, URI_NNP ,_, for_IN example_NN )_) as_IN I_PRP and_CC I_PRP suspect_VBP most_JJS of_IN the_DT information_NN service_NN people_NNS feel_VBP we_PRP *_NN need_VBP *_NN to_TO attend_VB this_DT BOF_NNP ._. 
+The_DT interest_NN will_MD be_VB quite_RB high_JJ ,_, I_PRP think_VBP ._. 
+Thanks_NNS for_IN getting_VBG this_DT together_RB ._. 
+
+Chris_NNP Weider_NNP Merit_NNP Network_NNP ,_, Inc._NN Chair_NNP ,_, IIIR_NNP Co-chair_NNP ,_, IDS_NNP 

@@ -1,0 +1,19 @@
+June_NNP 6_CD ,_, 2000_CD 
+Name_NN Address_NNP City_NNP ,_, ST_NNP Zip_NNP 
+Dear_RB Name_NN :_: 
+Pat_NNP LaCrosse_NNP asked_VBD me_PRP to_TO send_VB this_DT information_NN inviting_VBG you_PRP to_TO join_VB the_DT Georgia_NNP O_NNP '_POS Keeffe_NNP Circle_NNP of_IN the_DT Indianapolis_NNP Museum_NNP of_IN Art_NNP 's_POS Second_NNP Century_NNP Society_NNP (_( SCS_NNP )_) ._. 
+The_DT SCS_NNP brochure_NN I_PRP am_VBP enclosing_VBG will_MD give_VB you_PRP the_DT historic_JJ significance_NN of_IN SCS_NNP ,_, as_RB well_RB as_IN listing_NN activities_NNS and_CC specific_JJ benefits_NNS awarded_VBD to_TO donors_NNS at_IN the_DT Georgia_NNP O_NNP '_POS Keeffe_NNP level_NN ._. 
+Your_PRP$ Georgia_NNP O_NNP '_POS Keeffe_NNP membership_NN ,_, please_VB note_NN ,_, includes_VBZ free_JJ admission_NN to_TO all_DT art-related_JJ activities_NNS of_IN the_DT IMA_NNP 's_POS Young_NNP Friends_NNPS of_IN Art_NNP group_NN ._. 
+Additionally_RB ,_, I_PRP am_VBP sending_VBG traditional_JJ background_NN materials_NNS on_IN the_DT Museum_NNP and_CC the_DT two_CD latest_JJS issues_NNS of_IN our_PRP$ Previews_NNP Magazine_NNP detailing_VBG upcoming_JJ events_NNS ,_, exhibitions_NNS ,_, and_CC educational_JJ programs_NNS ._. 
+These_DT are_VBP particularly_RB exciting_JJ times_NNS at_IN the_DT Indianapolis_NNP Museum_NNP of_IN Art_NNP :_: Progress_NNP continues_VBZ on_IN the_DT J.K._NN Lilly_NNP estate-_NN Oldfields_NNP ,_, our_PRP$ Ravine_NNP Garden_NNP has_VBZ been_VBN restored_VBN to_TO its_PRP$ original_JJ splendor_NN ,_, and_CC there_EX is_VBZ national_JJ attention_NN showered_JJ on_IN our_PRP$ current_JJ exhibition_NN of_IN Japanese_NNP Painting_NNP ._. 
+(_( please_VB see_VB The_DT New_NNP York_NNP Times_NNP article_NN I_PRP have_VBP included_VBN ._. )_) 
+With_IN thousands_NNS of_IN trees_NNS and_CC flowers_NNS in_IN bloom_NN ,_, we_PRP are_VBP having_VBG a_DT beautiful_JJ Spring_NNP !_. 
+Our_PRP$ extraordinary_JJ permanent_JJ collection_NN ,_, facility_NN ,_, and_CC grounds_NNS ,_, we_PRP understand_VBP full_JJ well_RB ,_, would_MD not_RB be_VB possible_JJ without_IN the_DT philanthropic_JJ support_NN of_IN civic-minded_JJ men_NNS and_CC women_NNS ._. 
+In_IN joining_VBG SCS_NNP ,_, you_PRP join_VBP the_DT ranks_NNS of_IN those_DT who_WP believe_VBP that_IN bringing_VBG art_NN and_CC art_NN education_NN to_TO the_DT city_NN makes_VBZ life_NN better_JJR ,_, richer_JJR ,_, and_CC more_RBR rewarding_VBG for_IN the_DT entire_JJ community_NN ._. 
+A_DT Second_NNP Century_NNP Society_NNP response_NN card_NN and_CC return_NN envelope_NN are_VBP enclosed_VBN ._. 
+Should_MD you_PRP have_VB questions_NNS or_CC if_IN I_PRP can_MD be_VB of_IN assistance_NN in_IN any_DT way_NN ,_, please_VB call_NN me_PRP :_: 317.923_CD .1331_CD ,_, ext._NN 248_CD ._. 
+Sincerely_NNP ,_, 
+ARLETTA_NNP B._NN NEWTON_NNP Donor_NNP Relations_NNPS Coordinator_NNP 
+Enclosures_NNP 
+/_NN P ._NN S._NN Both_DT our_PRP$ Barefoot_NNP in_IN the_DT Grass_NNP family_NN picnic_NN (_( July_NNP 23_CD ,_, 2000_CD )_) and_CC the_DT annual_JJ SCS_NNP Founders_NNP Day_NNP celebration_NN (_( October_NNP 11_CD ,_, 2000_CD )_) are_VBP free_JJ for_IN Georgia_NNP O_NNP '_POS Keeffe_NNP members_NNS ._. 
+Mark_NNP your_PRP$ calendars_NNS !_. 

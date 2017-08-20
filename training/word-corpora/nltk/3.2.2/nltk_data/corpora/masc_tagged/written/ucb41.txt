@@ -1,0 +1,16 @@
+Date_NN :_: Mon_NNP ,_, 24_CD Sep_NNP 2007_CD 13:48:52_NN -_: 0400_CD From_IN :_: "_'' Citizens_NNPS Bank_NNP Money_NNP Manager_NNP GPS_NNP Online_NNP Support_NN "_'' <_NN moneymanagerfraud@citizens.com_NN >_NN To_TO :_: xxx@xxx.xxx_NN Subject_NNP :_: Notice_NNP Of_IN Business_NNP Change_NNP Citizens_NNPS Bank_NNP Money_NNP Manager_NNP GPS_NNP Online_NNP Money_NN Manager_NNP -_: GPS_NNP :_: Online_NNP Form_NNP 
+Caution_NN :_: We_PRP continue_VBP to_TO be_VB informed_VBN that_IN customers_NNS and_CC non-customers_JJ are_VBP receiving_VBG fraudulent_JJ phishing_VBG emails_NNS requesting_VBG confidential_JJ information_NN and_CC credentials_NNS ._. 
+As_IN a_DT reminder_NN ,_, the_DT bank_NN will_MD NOT_RB send_VB customers_NNS unsecured_JJ email_NN or_CC other_JJ correspondence_NN requesting_VBG that_IN they_PRP confirm_VBP or_CC provide_VB Customer_NN IDís_NNP User_NNP IDís_NNP ,_, card_NN numbers_NNS ,_, social_JJ security_NN number_NN or_CC PINs_NNP and_CC passwords_NNS ._. 
+As_IN always_RB ,_, if_IN you_PRP receive_VBP any_DT unsolicited_JJ e-mails_JJ ,_, phone_NN calls_NNS ,_, faxes_NNS or_CC other_JJ suspicious_JJ attempts_NNS to_TO gain_VB personal_JJ or_CC confidential_JJ information_NN ,_, please_VB e-mail_JJ us_PRP at_IN fraudprevention@cfgcustomers.com_NN or_CC call_NN Cash_NNP Management_NNP Client_NNP Services_NNPS at_IN 1_CD -_: 877_CD -_: 550_CD -_: 5933_CD ,_, Monday_NNP to_TO Friday_NNP ,_, 7_CD a.m._NN to_TO 6_CD p.m._NN ET_NNP ._. 
+For_IN Additional_JJ information_NN please_VB see_VB the_DT events_NNS page_NN ._. 
+
+Follow_VB this_DT link_NN to_TO confirm_VB your_PRP$ challenge_NN questions_NNS :_: 
+Citizens_NNPS Bank_NNP Money_NNP Manager_NNP GPS_NNP Online_NNP Services_NNPS 
+
+Sincerely_NNP ,_, Citizens_NNPS Bank_NNP Fraud_NNP Department_NNP 
+
+©_NN 2007_CD Citizens_NNPS Bank_NNP Online_NNP ,_, Inc._NN 
+All_DT Rights_NNP Reserved_VBN 
+Money_NNP Manager_NNP GPS_NNP and_CC the_DT Logo_NNP are_VBP registered_VBN marks_NNS of_IN Citizens_NNPS Financial_NNP Group_NNP ,_, Inc._NN ©_NN 2007_CD Citizens_NNPS Financial_NNP Group_NNP ,_, Inc._NN 
+All_DT rights_NNS reserved_VBN ._. 
+

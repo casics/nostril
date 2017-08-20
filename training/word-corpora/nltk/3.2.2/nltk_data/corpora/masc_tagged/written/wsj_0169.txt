@@ -1,0 +1,11 @@
+Ratners_NNP Group_NNP PLC_NNP ,_, a_DT fast_RB -_- growing_VBG ,_, acquisition_NN -_- minded_JJ London_JJ -_- based_JJ jeweler_NN ,_, raised_VBD its_PRP$ price_NN for_IN Seattle_JJ -_- based_JJ specialty_NN jeweler_NN Weisfield_NNP 's_POS Inc._NN to_TO $57.50_NN a_DT share_NN ,_, or_CC $62.1_NN million_CD ,_, from_IN $50_NN a_DT share_NN ,_, or_CC $55_NN million_CD ,_, after_IN another_DT concern_NN said_VBD it_PRP would_MD be_VB prepared_VBN to_TO outbid_VB Ratners_NNP 's_POS initial_JJ offer_NN ._. 
+The_DT other_JJ concern_NN was_VBD n't_RB identified_VBN ._. 
+
+Ratners_NNP 's_POS chairman_NN ,_, Gerald_NNP Ratner_NNP ,_, said_VBD the_DT deal_NN remains_NNS of_IN "_'' substantial_JJ benefit_NN to_TO Ratners_NNP ._. "_'' 
+In_IN London_NNP at_IN mid_JJ -_- afternoon_NN yesterday_NN ,_, Ratners_NNP 's_POS shares_NNS were_VBD up_RB 2_CD pence_NN (_( 1.26_CD cents_NNS )_) ,_, at_IN 260_CD pence_NN (_( $_$ 1.64_CD )_) ._. 
+
+The_DT sweetened_VBN offer_NN has_VBZ acceptances_NNS from_IN more_JJR than_IN 50_CD %_NN of_IN Weisfield_NNP 's_POS shareholders_NNS ,_, and_CC it_PRP is_VBZ scheduled_VBN for_IN completion_NN by_IN Dec_NNP ._. 10_CD ._. 
+
+The_DT acquisition_NN of_IN 87_CD -_- store_NN Weisfield_NNP 's_POS raises_VBZ Ratners_NNP 's_POS U.S._NNP presence_NN to_TO 450_CD stores_NNS ._. 
+About_IN 30_CD %_NN of_IN Ratners_NNP 's_POS profit_NN already_RB is_VBZ derived_VBN from_IN the_DT U.S._NNP 
+

@@ -1,0 +1,9 @@
+From_IN :_: "_'' Paula_NNP Partin_NNP "_'' <_NN partinpa@champaignschools.org_NN >_NN Subject_NNP :_: System_NNP Administrator_NNP (_( Mailbox_NNP Upgrade_NNP )_) Date_NN :_: March_NNP 19_CD ,_, 2012_CD 2:20:42_NN AM_NNP EDT_NNP To_TO :_: undisclosed-recipients_JJ :_: ;_: Your_PRP$ Webmail_NNP Quota_NNP has_VBZ exceeded_VBN the_DT Set_NNP Quota_NNP /_NN Limit_NNP Which_WDT Is_VBZ 20_CD GB_NNP ._. 
+You_PRP are_VBP currently_RB running_VBG on_IN 23_CD GB_NNP due_JJ to_TO hidden_VBN files_NNS and_CC folder_NN on_IN your_PRP$ mailbox_NN ._. 
+Please_VB click_NN the_DT link_NN below_IN to_TO validate_NN your_PRP$ mailbox_NN and_CC Increase_VB your_PRP$ Quota_NNP ._. 
+
+Click_NNP here_RB 
+
+Failure_NN to_TO validate_NN your_PRP$ mailbox_NN Quota_NNP may_MD result_VB in_IN lost_VBN of_IN Important_NNP Information_NNP in_IN your_PRP$ mailbox_NN or_CC may_MD cause_VB limited_JJ access_NN to_TO your_PRP$ mailbox_NN ._. 
+
+Thanks_NNS Paula_NNP Partin_NNP For_IN System_NNP Administrator_NNP 

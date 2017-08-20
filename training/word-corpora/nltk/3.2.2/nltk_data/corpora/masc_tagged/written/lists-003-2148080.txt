@@ -1,0 +1,25 @@
+docno_NN =_SYM "_'' lists-_NN 003_CD -_: 2148080_CD "_'' received_VBD =_SYM "_'' Wed_NNP May_NNP 19_CD 04:11:33_NN 1993_CD EST_NNP "_'' sent_VBD =_SYM "_'' Wed_NNP ,_, 19_CD May_NNP 1993_CD 13:07:45_NN +_NN 0200_CD "_'' name_NN =_SYM "_'' Harald_NNP Tveit_NNP Alvestrand_NNP "_'' email_NN =_SYM "_'' harald.t.alvestrand@delab.sintef.no_NN "_'' subject_JJ =_SYM "_'' Re_NNP :_: CHARSET_NNP considerations_NNS "_'' id_NN =_SYM "_'' "_'' 10241_CD *_NN /_NN I_PRP =_SYM t_NN /_NN G_NNP =_SYM harald_NN /_NN S_NNP =_SYM alvestrand_NN /_NN OU_NNP =_SYM delab_NN /_NN O_NNP =_SYM sintef_NN /_NN PRMD_NNP =_SYM uninett_NN /_NN ADMD_NNP =_SYM /_NN C_NNP =_SYM no/"@MHS_NN "_'' inreplyto_NN =_SYM "_'' 01GYBXHRZVEA8Y5JAE@INNOSOFT.COM_NN "_'' To_TO :_: Rick_NNP Troth_NNP <_NN TROTH@ricevm1.rice.edu_NN >_NN Cc_NNP :_: scs_NNS <_NN scs@adam.mit.edu_NN >_NN ,_, pine-info_JJ <_NN pine-info@cac.washington.edu_NN >_NN ,_, DMD_NNP =_SYM /_NN C_NNP =_SYM no/"@MHS_NN >_NN Rick_NNP Troth_NNP writes_VBZ :_: 
+>_NN Plain_NNP text_NN is_VBZ defined_VBN differently_RB from_IN system_NN to_TO system_NN ._. 
+>_NN On_IN UNIX_NNP ,_, plain_JJ text_NN is_VBZ ASCII_NNP (_( now_RB ISO-_NNP 8859_CD -_: 1_CD )_) with_IN lines_NNS delimited_JJ by_IN >_NN NL_NNP (_( actually_RB LF_NNP )_) ._. 
+On_IN NT_NNP ,_, plain_JJ text_NN is_VBZ 16_CD bits_NNS wide_JJ (_( so_IN I_PRP hear_VBP )_) ._. 
+>_NN That_DT ai_VBP n't_RB ASCII_NNP ,_, though_IN we_PRP could_MD be_VB the_DT high-order_JJ 8_CD bits_NNS for_IN much_JJ >_NN of_IN plain_JJ text_NN processing_NN ,_, and_CC that_DT 's_VBZ fine_NN by_IN me_PRP ._. 
+(_( memory_NN is_VBZ cheap_JJ )_) 
+>_NN On_IN VM_NNP /_NN CMS_NNP ,_, plain_JJ text_NN is_VBZ EBCDIC_NNP (_( now_RB CodePage_NNP 1047_CD )_) and_CC records_NNS are_VBP >_NN handled_VBN by_IN the_DT filesystem_NN out-of-band_JJ of_IN the_DT data_NNS ,_, so_RB NL_NNP (_( and_CC LF_NNP and_CC CR_NNP )_) >_NN are_VBP n't_RB sacred_JJ characters_NNS ._. 
+Now_RB ..._... "_'' mail_NN is_VBZ plain-text_JJ ,_, not_RB ASCII_NNP "_'' ._. 
+
+Please_VB ,_, gentlemen_NNS ._. ..._... ._. read_VB the_DT RFC_NNP ._. 
+As_RB long_RB as_IN you_PRP send_VBP mail_NN over_IN the_DT Internet_NN ,_, claiming_VBG MIME_NNP compatibility_NN ,_, the_DT bits_NNS on_IN the_DT wire_NN have_VBP to_TO conform_VB to_TO the_DT MIME_NNP convention_NN ,_, *_NN NOT_NNP *_NN to_TO the_DT local_JJ convention_NN ,_, whatever_WDT that_WDT is_VBZ ._. 
+
+The_DT omission_NN of_IN a_DT character_NN set_VBD label_NN from_IN text_NN /_NN plain_JJ MEANS_NNP THAT_WDT THE_DT CHARACTER_NNP SET_NNP IS_VBZ US_NNP ASCII_NNP ._. 
+
+A_DT message_NN that_WDT contains_VBZ characters_NNS with_IN the_DT high_JJ bit_NN set_VBD CAN_NNP NOT_NNP BE_VB US-ASCII_NNP ,_, and_CC therefore_RB ,_, a_DT text_NN /_NN plain_JJ message_NN without_IN a_DT charset_NN =_SYM label_NN in_IN it_PRP that_WDT has_VBZ such_JJ characters_NNS IS_VBZ NOT_NNP LEGAL_NNP MIME_NNP ._. 
+So_RB ,_, when_WRB SMTP_NNP strips_VBZ the_DT 8th_JJ bit_NN ,_, it_PRP gets_VBZ what_WP it_PRP deserves_VBZ ._. 
+
+This_DT was_JJ *_NN *_NN *_NN *_NN *_NN *_NN NOT_NNP *_NN *_NN *_NN *_NN *_NN *_NN *_NN an_DT oversight_NN ._. 
+This_DT was_VBD deliberate_JJ design_NN ,_, designed_VBN to_TO promote_VB interoperability_NN ._. 
+The_DT proliferation_NN of_IN mail_NN in_IN strange_JJ character_NN sets_NNS without_IN labels_NNS is_VBZ *_NN exactly_RB *_NN one_CD of_IN the_DT things_NNS that_IN the_DT MIME_NNP effort_NN was_VBD meant_VBN to_TO *_NN remove_VB *_NN ._. 
+
+End_NN of_IN flame_NN .............._. if_IN you_PRP want_VBP a_DT couple_NN of_IN tons_NNS more_JJR ,_, read_VBP the_DT archives_NNS of_IN the_DT SMTP_NNP and_CC RFC-_NNP 822_CD groups_NNS ._. 
+The_DT last_JJ flareup_NN is_VBZ hidden_VBN under_IN "_'' unknown-_NN 7_CD bit_NN "_'' and_CC "_'' unknown-_NN 8_CD bit_NN "_'' discussions_NNS ._. 
+
+Harald_NNP Tveit_NNP Alvestrand_NNP 

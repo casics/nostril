@@ -1,0 +1,27 @@
+docno_NN =_SYM "_'' lists-_NN 046_CD -_: 12162937_CD "_'' name_NN =_SYM "_'' Dave_NNP Raggett_NNP "_'' email_NN =_SYM "_'' dsr@w3.org_NN "_'' sent_VBD =_SYM "_'' Thu_NNP ,_, 06_CD Jun_NNP 1996_CD 11:10:10_NN -_: 0400_CD "_'' id_NN =_SYM "_'' 199606061510.AA181383810@w3.org_NN "_'' subject_JJ =_SYM "_'' Re_NNP :_: Comments_NNS on_IN parsing_VBG steps_NNS :_: "_'' To_TO :_: w3c-math-erb@w3.org_NN <_NN 199606060206.AA06946@drizzle.wri.com_NN >_NN Neil_NNP ,_, 
+
+>_NN >_NN I_PRP can_MD see_VB value_NN in_IN allowing_VBG prefix_NN and_CC postfix_NN operators_NNS to_TO act_VB as_IN >_NN >_NN operator_NN embellishments_NNS ,_, for_IN instance_NN to_TO add_VB accents_NNS to_TO operators_NNS or_CC >_NN >_NN to_TO change_VB their_PRP$ relative_JJ size_NN ,_, or_CC position_NN ._. 
+
+..._... >_NN Since_IN the_DT details_NNS of_IN why_WRB a_DT prefix_NN embellishing_VBG operator_NN sometimes_RB "_'' works_VBZ "_'' >_NN right_NN and_CC sometimes_RB does_VBZ n't_RB are_VBP probably_RB beyond_IN most_JJS authors_NNS ,_, I_PRP think_VBP we_PRP >_NN should_MD avoid_VB them_PRP ._. 
+Or_CC if_IN we_PRP must_MD have_VB them_PRP ,_, tell_VB people_NNS to_TO always_RB uses_VBZ >_NN braces_NNS to_TO properly_RB group_VB it_PRP ._. 
+
+I_PRP am_VBP unconvinced_JJ by_IN your_PRP$ examples_NNS ._. 
+
+>_NN When_WRB the_DT parser_NN encounters_VBZ something_NN like_IN a_DT +_NN __NN 2_CD b_SYM ,_, >_NN it_PRP knows_VBZ by_IN the_DT time_NN of_IN reading_VBG the_NNP '_POS +_NN '_'' that_IN it_PRP must_MD have_VB a_DT right_JJ operand_NN ._. 
+
+Fine_NNP ,_, but_CC that_WDT also_RB applies_VBZ to_TO :_: a_DT &_CC big_JJ +_NN b_SYM with_IN the_DT information_NN that_IN &_CC big_JJ can_MD act_VB as_IN a_DT prefix_NN embellishment_NN operator_NN this_DT yields_NNS :_: {_( a_DT {_( &_CC big_JJ +_NN }_) b_SYM }_) 
+Otherwise_RB this_DT would_MD parse_NN as_IN :_: {_( a_DT ._. {_( &_CC big_JJ {_( +_NN b_SYM }_) }_) }_) where_WRB `_`` ._. '_'' is_VBZ an_DT inferred_JJ infix_NN operator_NN ,_, presumably_RB denoting_VBG multiplication_NN ._. 
+
+>_NN However_RB ,_, consider_VBP the_DT following_VBG :_: >_NN &_CC bold_JJ +_NN 2_CD >_NN with_IN '_POS &_CC bold_JJ '_POS being_VBG a_DT high-precedence_JJ prefix_NN operator_NN ._. 
+When_WRB the_DT parser_NN sees_VBZ >_NN the_NNP '_POS +_NN '_'' ,_, it_PRP sees_VBZ that_IN it_PRP must_MD be_VB a_DT prefix_NN operator_NN ,_, and_CC so_RB will_MD shift_VB the_DT >_NN `_`` 2_CD '_'' on_IN ._. 
+So_RB ,_, this_DT expression_NN would_MD result_VB in_IN :_: >_NN {_( &_CC bold_JJ {_( +_NN 2_CD }_) }_) 
+
+If_IN each_DT operator_NN has_VBZ a_DT property_NN indicating_VBG that_IN it_PRP can_MD act_VB as_IN an_DT embellishment_NN on_IN other_JJ operators_NNS ,_, then_RB we_PRP can_MD use_VB this_DT fact_NN to_TO make_VB the_DT above_JJ parse_NN as_IN {_( &_CC bold_JJ +_NN }_) 2_CD in_IN preference_NN to_TO the_DT interpretation_NN of_IN &_CC bold_JJ as_IN a_DT normal_JJ prefix_NN operator_NN ._. 
+In_IN essence_NN we_PRP sort_NN the_DT operator_NN precedence_NN reduction_NN rules_NNS into_IN a_DT sequence_NN that_WDT resolves_NNS potential_JJ ambiguities_NNS between_IN different_JJ operator_NN roles_NNS defined_VBN by_IN the_DT dictionary_JJ for_IN each_DT symbol_NN ._. 
+
+You_PRP have_VBP already_RB asserted_VBN that_IN people_NNS are_VBP comfortable_JJ with_IN dictionary_JJ definitions_NNS for_IN the_DT roles_NNS of_IN symbols_NNS as_IN prefix_NN ,_, infix_NN or_CC postfix_NN operators_NNS (_( including_VBG their_PRP$ precedences_NNS )_) ._. 
+Extending_NNP the_DT dictionary_JJ to_TO define_VB whether_IN each_DT symbol_NN can_MD act_VB as_IN prefix_NN ,_, infix_NN or_CC postfix_NN embellishment_NN operators_NNS seems_VBZ a_DT straightforward_JJ addition_NN ._. 
+
+Can_MD you_PRP give_VB me_PRP examples_NNS that_WDT would_MD be_VB hard_JJ to_TO explain_VB to_TO a_DT user_NN ?_. 
+
+--_: Dave_NNP Raggett_NNP <_NN dsr@w3.org_NN >_NN tel_NN :_: +_NN 1_CD (_( 617_CD )_) 258_CD 5741_CD fax_NN :_: +_NN 1_CD (_( 617_CD )_) 258_CD 5999_CD World_NNP Wide_NNP Web_NNP Consortium_NNP ,_, 545_CD Technology_NNP Square_NNP ,_, Cambridge_NNP ,_, MA_NNP 02139_CD url_NN =_SYM http://www.w3.org/People/Raggett_NN 

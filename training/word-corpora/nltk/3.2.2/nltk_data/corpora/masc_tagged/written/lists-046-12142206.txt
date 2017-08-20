@@ -1,0 +1,15 @@
+docno_NN =_SYM "_'' lists-_NN 046_CD -_: 12142206_CD "_'' name_NN =_SYM "_'' Nico_NNP Poppelier_NNP "_'' email_NN =_SYM "_'' nico@valacar.elsevier.nl_NN "_'' sent_VBD =_SYM "_'' Wed_NNP ,_, 5_CD Jun_NNP 1996_CD 09:41:42_NN +_NN 0200_CD (_( MET_NNP DST_NNP )_) "_'' id_NN =_SYM "_'' 199606050741.JAA03224@thorin.elsevier.nl_NN "_'' *_NN X-Mailer_NNP :_: ELM_NNP [_NN version_NN 2.4_CD PL_NNP 25_CD ]_NN subject_JJ =_SYM "_'' more_JJR comments_NNS on_IN HTML-Math_NNP proposal_NN "_'' To_TO :_: w3c-math-erb@w3.org_NN I_PRP 've_VBP read_VBN the_DT proposal_NN from_IN Wolfram_NNP Research_NNP again_RB ._. 
+Some_DT more_JJR comments_NNS :_: 
+I_PRP agree_VBP with_IN Ron_NNP Whitney_NNP ,_, and_CC should_MD have_VB said_VBN so_RB before_RB ,_, that_IN the_DT effort_NN that_WDT has_VBZ gone_VBN into_IN this_DT proposal_NN is_VBZ substantial_JJ ,_, and_CC this_DT is_VBZ really_RB concrete_JJ stuff_NN we_PRP can_MD "_'' chew_VB on_IN "_'' ._. 
+I_PRP also_RB had_VBD the_DT feeling_NN for_IN some_DT time_NN ,_, and_CC the_DT same_JJ feeling_NN exists_VBZ in_IN the_DT SGML_NNP community_NN ,_, that_IN the_DT developments_NNS of_IN HTML-Math_NNP and_CC of_IN HTML_NNP in_IN general_NN were_VBD suffering_VBG from_IN a_DT NIH_NNP syndrome_NN ._. 
+I_PRP also_RB see_VBP that_IN extensible_JJ languages_NNS are_VBP hard_JJ to_TO realize_VB within_IN the_DT possibilities_NNS of_IN the_DT SGML_NNP language_NN ._. 
+I_PRP certainly_RB support_VBP the_DT use_NN of_IN ISO_NNP TR_NNP 9573_CD entity_NN names_NNS for_IN mathematical_JJ and_CC technical_JJ symbols_NNS ,_, as_IN I_PRP have_VBP written_VBN earlier_RBR ._. 
+
+While_IN reading_VBG the_DT discussion_NN between_IN Bruce_NNP Smith_NNP and_CC Ron_NNP Whitney_NNP ,_, I_PRP have_VBP come_VBN to_TO the_DT conclusion_NN that_IN the_DT plug-in_JJ solution_NN will_MD not_RB work_VB ,_, because_IN we_PRP need_VBP the_DT possibility_NN of_IN anchor_NN 's_POS within_IN math_NN ,_, and_CC math_NN in_IN text_NN in_IN math_NN ._. 
+I_PRP 'd_MD like_VB to_TO see_VB what_WP you_PRP all_DT think_VBP about_IN this_DT ,_, since_IN this_DT is_VBZ what_WP Dave_NNP proposed_VBD e.g._NN at_IN the_DT DLI_NNP Math_NNP meeting_NN in_IN Illinois_NNP ._. 
+
+Regards_NNP ,_, Nico_NNP 
+------------------------------------------------------------------------_- Dr._NN Nico_NNP A.F.M._NN Poppelier_NNP Elsevier_NNP Science_NNP ,_, APD_NNP ,_, ITD_NNP Email_NNP :_: n.poppelier@elsevier.nl_NN ._. Molenwerf_NNP 1_CD ,_, 1014_CD AG_NNP Amsterdam_NNP Phone_NNP :_: +_NN 31_CD -_: 20_CD -_: 4853482_CD ._. The_DT Netherlands_NNP Fax_NNP :_: +_NN 31_CD -_: 20_CD -_: 4853706_CD ._. 
+------------------------------------------------------------------------_- The_DT truth_NN ,_, the_DT whole_JJ truth_NN ,_, and_CC nothing_NN but_CC the_DT truth_NN ._. 
+And_CC maybe_RB some_DT compromises_NNS ._. 
+

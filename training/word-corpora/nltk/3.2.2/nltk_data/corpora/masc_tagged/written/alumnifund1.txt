@@ -1,0 +1,57 @@
+NEW_NNP 
+YORK_NNP UNIVERSITY_NNP 
+
+GRADUATE_NNP SCHOOL_NNP OF_IN ARTS_NNP AND_CC SCIENCE_NNP 
+
+OFFICE_NNP OF_IN THE_DT DEAN_NNP 
+
+
+
+
+
+
+
+Fall_NN 2000_CD 
+
+
+
+
+
+Ms._NN FirstName_NNP LastName_NNP 
+NumberStreetName_NNP 
+Statename_NNP ,_, StateZipCode_NNP 
+
+Dear_RB Ms._NN LastName_NNP 
+
+
+Over_IN the_DT past_JJ year_NN ,_, the_DT Graduate_NNP School_NNP of_IN Arts_NNP and_CC Science_NNP has_VBZ seen_VBN record_NN level_NN contributions_NNS from_IN its_PRP$ alumni_NNS and_CC alumnae_NN to_TO the_DT School_NNP ’_NN s_VBZ Annual_NNP Fund_NNP ._. 
+This_DT response_NN is_VBZ a_DT marvelous_JJ endorsement_NN of_IN the_DT work_NN of_IN our_PRP$ students_NNS ,_, faculty_NN ,_, and_CC staff_NN ._. 
+
+
+As_IN you_PRP read_VBP the_DT enclosed_VBN Dean_NNP 's_POS Report_NNP and_CC Request_NNP ,_, I_PRP hope_VBP you_PRP will_MD consider_VB how_WRB your_PRP$ support_NN of_IN the_DT Graduate_NNP School_NNP ’_NN s_VBZ Annual_NNP Fund_NNP shapes_VBZ the_DT lives_NNS of_IN its_PRP$ faculty_NN and_CC students_NNS as_IN it_PRP makes_VBZ an_DT impact_NN on_IN the_DT depth_NN and_CC breadth_NN of_IN their_PRP$ NYU_NNP experience_NN ._. 
+Contributions_NNP to_TO the_DT Annual_NNP Fund_NNP help_VB us_PRP to_TO prepare_VB our_PRP$ master_NN ’_NN s_VBZ students_NNS with_IN a_DT thorough_JJ knowledge_NN of_IN their_PRP$ discipline_NN ,_, as_RB well_RB as_IN the_DT needed_JJ skills_NNS for_IN success_NN in_IN the_DT workplace_NN ._. 
+They_PRP enable_VBP us_PRP to_TO provide_VB students_NNS with_IN access_NN to_TO state-of-the-art_JJ technology_NN and_CC opportunities_NNS to_TO attend_VB professional_JJ colloquia_NN ,_, seminars_NNS ,_, and_CC conferences_NNS on_IN and_CC off_IN campus_NN ._. 
+
+
+Your_PRP$ support_NN of_IN the_DT Graduate_NNP School_NNP ’_NN s_VBZ Annual_NNP Fund_NNP is_VBZ critical_JJ to_TO maintaining_VBG the_DT core_NN values_NNS of_IN GSAS_NNP :_: rigorous_JJ inquiry_NN ,_, the_DT lifelong_JJ discovery_NN of_IN ideas_NNS ,_, and_CC our_PRP$ commitment_NN to_TO the_DT ethics_NNS of_IN scholarship_NN ._. 
+We_PRP also_RB hope_VBP you_PRP have_VBP been_VBN able_JJ to_TO follow_VB the_DT public_JJ education_NN campaign_NN for_IN our_PRP$ master_NN ’_NN s_VBZ programs_NNS in_IN The_DT New_NNP York_NNP Times_NNP and_CC elsewhere_RB ,_, a_DT sign_NN of_IN our_PRP$ belief_NN in_IN them_PRP ._. 
+Your_PRP$ gift_NN reinforces_VBZ our_PRP$ emphasis_NN on_IN these_DT ideals_NNS that_WDT have_VBP distinguished_VBN the_DT Graduate_NNP School_NNP of_IN Arts_NNP and_CC Science_NNP as_IN a_DT preeminent_NN center_NN for_IN advanced_VBD learning_VBG since_IN 1886_CD ._. 
+
+
+I_PRP am_VBP grateful_JJ for_IN your_PRP$ continued_JJ partnership_NN in_IN our_PRP$ pursuit_NN of_IN these_DT shared_JJ values_NNS ._. 
+With_IN best_JJS wishes_NNS ,_, 
+
+
+
+
+Catharine_NNP R._NN Stimpson_NNP 
+Dean_NNP 
+
+
+
+
+
+
+
+GRADUATE_NNP SCHOOL_NNP OF_IN ARTS_NNP AND_CC SCIENCE_NNP 
+

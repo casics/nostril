@@ -1,0 +1,1192 @@
+default namespace = "http://www.tei-c.org/ns/1.0"
+namespace a = "http://relaxng.org/ns/compatibility/annotations/1.0"
+namespace rng = "http://relaxng.org/ns/structure/1.0"
+namespace s = "http://www.ascc.net/xml/schematron"
+namespace teix = "http://www.tei-c.org/ns/Examples"
+namespace xlink = "http://www.w3.org/1999/xlink"
+namespace xsi = "http://www.w3.org/2001/XMLSchema-instance"
+
+# Schema generated from ODD source 2008-10-15T13:04:27Z. 
+# TEI Edition: 1.1.0. Last updated on 4th July 2008.
+#
+
+#
+macro.paraContent =
+  (text | model.gLike | model.phrase | model.inter | model.global)*
+macro.phraseSeq = (text | model.gLike | model.phrase | model.global)*
+macro.phraseSeq.limited = (text | model.limitedPhrase | model.global)*
+macro.xtext = (text | model.gLike)*
+att.ascribed.attributes = att.ascribed.attribute.who, empty
+att.ascribed.attribute.who =
+  
+  ## indicates the person, or group of
+  ##	people, to whom the element content is ascribed.
+  attribute who {
+    list { xsd:anyURI+ }
+  }?
+att.datable.w3c.attributes = att.datable.w3c.attribute.when, empty
+att.datable.w3c.attribute.when =
+  
+  ## supplies the value of the date or time in a standard form,
+  ##       e.g. yyyy-mm-dd.
+  attribute when {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+  }?
+att.datable.attributes = empty
+att.declarable.attributes = att.declarable.attribute.default, empty
+att.declarable.attribute.default =
+  
+  ## indicates whether or not this element is selected by default when
+  ## its parent is selected.
+  [ a:defaultValue = "false" ]
+  attribute default {
+    
+    ## This element is selected if its parent is selected
+    "true"
+    | 
+      ## This element can only be selected explicitly, unless it is the
+      ## only one of its kind, in which case it is selected if its parent is selected.
+      "false"
+  }?
+att.declaring.attributes = att.declaring.attribute.decls, empty
+att.declaring.attribute.decls =
+  
+  ## identifies one or more declarable elements within the
+  ## header, which are understood to apply to the element bearing this
+  ## attribute and its content.
+  attribute decls {
+    list { xsd:anyURI+ }
+  }?
+att.duration.w3c.attributes = att.duration.w3c.attribute.dur, empty
+att.duration.w3c.attribute.dur =
+  
+  ## (duration) indicates the length of this element in time.
+  attribute dur { xsd:duration }?
+att.global.attributes =
+  att.global.attribute.xmlid,
+  att.global.attribute.n,
+  att.global.attribute.xmllang,
+  att.global.attribute.xmlbase,
+  empty
+att.global.attribute.xmlid =
+  
+  ## (identifier) provides a unique identifier for the element bearing the
+  ##       attribute.
+  attribute xml:id { xsd:ID }?
+att.global.attribute.n =
+  
+  ## (number) gives a number (or other label) for an element, which is
+  ##       not necessarily unique within the document.
+  attribute n {
+    list {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+    }
+  }?
+att.global.attribute.xmllang =
+  
+  ## (language) indicates the language of the element content using a
+  ##       tag generated according to BCP 47
+  attribute xml:lang { xsd:language }?
+att.global.attribute.xmlbase =
+  
+  ## provides a base URI reference with which applications can
+  ##       resolve relative URI references into absolute URI
+  ##       references.
+  attribute xml:base { xsd:anyURI }?
+att.naming.attributes = empty
+att.segLike.attributes =
+  att.segLike.attribute.type,
+  att.segLike.attribute.function,
+  att.segLike.attribute.part,
+  empty
+att.segLike.attribute.type =
+  
+  ## characterizes the type of segment.
+  attribute type { xsd:Name }?
+att.segLike.attribute.function =
+  
+  ## characterizes the function of the segment.
+  attribute function { xsd:Name }?
+att.segLike.attribute.part =
+  
+  ## specifies whether or not the segment is fragmented by some other
+  ## structural element, for example a clause which is divided between two
+  ## or more sentences.
+  [ a:defaultValue = "N" ]
+  attribute part {
+    
+    ## (yes) the segment is incomplete in some respect
+    "Y"
+    | 
+      ## (no) either the segment is complete, or no claim is made as to
+      ## its completeness
+      "N"
+    | 
+      ## (initial) the initial part of an incomplete segment
+      "I"
+    | 
+      ## (medial) a medial part of an incomplete segment
+      "M"
+    | 
+      ## (final) the final part of an incomplete segment
+      "F"
+  }?
+att.typed.attributes =
+  att.typed.attribute.type, att.typed.attribute.subtype, empty
+att.typed.attribute.type =
+  
+  ## characterizes the element in some sense, using any convenient
+  ##  classification scheme or typology.
+  attribute type { xsd:Name }?
+att.typed.attribute.subtype =
+  
+  ## provides a sub-categorization of the element, if needed
+  attribute subtype { xsd:Name }?
+model.nameLike.agent = name
+model.segLike = s | w | c | mw
+model.hiLike = notAllowed
+model.emphLike = title
+model.highlighted = model.hiLike | model.emphLike
+model.dateLike = date
+model.pPart.edit = notAllowed
+model.ptrLike = notAllowed
+model.lPart = notAllowed
+model.gLike = notAllowed
+model.biblLike = bibl
+model.listLike = notAllowed
+model.pLike = p
+model.divPart = model.pLike
+model.placeStateLike = notAllowed
+model.publicationStmtPart =
+  address | date | distributor | idno | availability
+model.glossLike = notAllowed
+model.qLike = notAllowed
+model.respLike = respStmt
+model.divTopPart = notAllowed
+model.divTop = model.divTopPart
+model.divBottom = notAllowed
+model.imprintPart = distributor
+model.catDescPart = notAllowed
+model.addressLike = email | address
+model.nameLike = model.nameLike.agent | model.placeStateLike
+model.global = notAllowed
+model.biblPart =
+  model.respLike | model.imprintPart | edition | extent | idno
+model.addrPart = model.nameLike | addrLine
+model.pPart.data = model.dateLike | model.addressLike | model.nameLike
+model.inter = model.biblLike | model.listLike | model.qLike
+model.common = model.divPart | model.inter
+model.phrase =
+  model.segLike
+  | model.highlighted
+  | model.pPart.edit
+  | model.ptrLike
+  | model.lPart
+  | model.pPart.data
+model.limitedPhrase = model.emphLike | model.ptrLike | model.pPart.data
+model.divLike = notAllowed
+model.divGenLike = notAllowed
+model.div1Like = notAllowed
+model.resourceLike = notAllowed
+p =
+  
+  ## (paragraph) marks paragraphs in prose.
+  element p {
+    macro.paraContent,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+name =
+  
+  ## (name, proper noun) contains a proper noun or noun phrase.
+  element name {
+    macro.phraseSeq,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    att.typed.attribute.type,
+    att.typed.attribute.subtype,
+    empty
+  }
+email =
+  
+  ## (electronic mail address) contains an e-mail address identifying a location to which
+  ## e-mail messages can be delivered.
+  element email {
+    macro.phraseSeq,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+address =
+  
+  ## contains a postal  address, for example of a
+  ## publisher, an organization, or an individual.
+  element address {
+    (model.global*, (model.addrPart, model.global*)+),
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+addrLine =
+  
+  ## (address line) contains one line of a postal address.
+  element addrLine {
+    macro.phraseSeq,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+date =
+  
+  ## contains a date in any format.
+  element date {
+    (text | model.gLike | model.phrase | model.global)*,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    att.datable.w3c.attribute.when,
+    att.typed.attribute.type,
+    att.typed.attribute.subtype,
+    
+    ## indicates the system or calendar to which the date
+    ##       represented by the content of this element belongs.
+    ## Suggested values include: 1] Gregorian; 2] Julian; 3] Islamic; 4] Hebrew; 5] Revolutionary; 6] Iranian; 7] Coptic; 8] Chinese
+    attribute calendar {
+      
+      ## Gregorian calendar
+      "Gregorian"
+      | 
+        ## Julian calendar
+        "Julian"
+      | 
+        ## Islamic or Muslim (hijri) lunar calendar
+        "Islamic"
+      | 
+        ## Hebrew or Jewish lunisolar calendar
+        "Hebrew"
+      | 
+        ## French Revolutionary calendar
+        "Revolutionary"
+      | 
+        ## Iranian or Persian (Jalaali) solar calendar
+        "Iranian"
+      | 
+        ## Coptic or Alexandrian calendar
+        "Coptic"
+      | 
+        ## Chinese lunisolar calendar
+        "Chinese"
+      | xsd:Name
+    }?,
+    empty
+  }
+respStmt =
+  
+  ## (statement of responsibility) supplies a statement of responsibility for the intellectual content of a text, edition, recording, or
+  ##   series, where the specialized elements for authors, editors, etc. do
+  ##   not suffice or do not apply.
+  element respStmt {
+    ((resp+, model.nameLike.agent+) | (model.nameLike.agent+, resp+)),
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+resp =
+  
+  ## (responsibility) contains a phrase describing the nature of a person's
+  ##   intellectual responsibility.
+  element resp {
+    macro.phraseSeq.limited,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+title =
+  
+  ## contains the full title of a work of any kind.
+  element title {
+    macro.paraContent,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    
+    ## indicates the bibliographic level for a title, that is,
+    ##	whether it identifies  an article, book, journal,
+    ## series, or unpublished material.
+    attribute level {
+      
+      ## (analytic) analytic title (article, poem, or other item published as
+      ##           part of a larger item)
+      "a"
+      | 
+        ## (monographic) monographic title (book, collection, or other item published
+        ##           as a distinct item, including single volumes of multi-volume
+        ##           works)
+        "m"
+      | 
+        ## (journal) journal title
+        "j"
+      | 
+        ## (series) series title
+        "s"
+      | 
+        ## (unpublished) title of unpublished material (including theses and
+        ##           dissertations unless published by a commercial press)
+        "u"
+    }?,
+    
+    ## classifies the title according to some convenient typology.
+    ## Sample values include: 1] main; 2] sub (subordinate); 3] alt (alternate); 4] short; 5] desc (descriptive)
+    attribute type { xsd:Name }?,
+    empty
+  }
+bibl =
+  
+  ## (bibliographic citation) contains a loosely-structured bibliographic citation of which
+  ## the sub-components may or may not be explicitly tagged.
+  element bibl {
+    (text
+     | model.gLike
+     | model.highlighted
+     | model.pPart.data
+     | model.pPart.edit
+     | model.segLike
+     | model.ptrLike
+     | model.biblPart
+     | model.global)*,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    att.declarable.attribute.default,
+    att.typed.attribute.type,
+    att.typed.attribute.subtype,
+    empty
+  }
+teiCorpus =
+  
+  ## contains the whole of a TEI encoded corpus, comprising a
+  ## single corpus header and one or more TEI elements, each containing
+  ## a single text header and a text.
+  element teiCorpus {
+    (teiHeader, (TEI | teiCorpus)+),
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    
+    ## The version of the TEI scheme
+    [ a:defaultValue = "5.0" ] attribute version { xsd:decimal }?,
+    empty
+  }
+model.headerPart = encodingDesc | profileDesc
+teiHeader =
+  
+  ## (TEI Header) supplies the descriptive and declarative information making
+  ##	up an electronic title page prefixed to every TEI-conformant
+  ##	text.
+  element teiHeader {
+    (fileDesc, model.headerPart*, revisionDesc?),
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    
+    ## specifies the kind of document to which the header is
+    ##       attached, for example whether it is a corpus or individual text.
+    ## Sample values include: 1] text; 2] corpus
+    [ a:defaultValue = "text" ] attribute type { xsd:Name }?,
+    empty
+  }
+fileDesc =
+  
+  ## (file description) contains a full bibliographic description of an electronic
+  ## file.
+  element fileDesc {
+    ((titleStmt, editionStmt?, extent?, publicationStmt), sourceDesc+),
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+titleStmt =
+  
+  ## (title statement) groups information about the title of a work and those
+  ## responsible for its intellectual content.
+  element titleStmt {
+    (title+, respStmt*),
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+editionStmt =
+  
+  ## (edition statement) groups information relating to one edition of a text.
+  element editionStmt {
+    (model.pLike+ | (edition, respStmt*)),
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+edition =
+  
+  ## (edition) describes the particularities of one edition of a text.
+  element edition {
+    macro.phraseSeq,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+extent =
+  
+  ## describes the approximate size of a text as stored on
+  ## some carrier medium, whether digital or non-digital, specified in any convenient units.
+  element extent {
+    macro.phraseSeq,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+publicationStmt =
+  
+  ## (publication statement) groups information concerning the publication or distribution
+  ## of an electronic or other text.
+  element publicationStmt {
+    (model.pLike+ | model.publicationStmtPart+),
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+distributor =
+  
+  ## supplies the name of a person or other agency responsible for the
+  ## distribution of a text.
+  element distributor {
+    macro.phraseSeq,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+idno =
+  
+  ## (identifying number) supplies any standard or non-standard number used to identify a
+  ## bibliographic item.
+  element idno {
+    text,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    
+    ## categorizes the number, for example as an ISBN or other
+    ##          standard series.
+    attribute type { xsd:Name }?,
+    empty
+  }
+availability =
+  
+  ## supplies information about the availability of a text, for
+  ##   example any restrictions on its use or distribution, its copyright
+  ##   status, etc.
+  element availability {
+    model.pLike+,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    att.declarable.attribute.default,
+    
+    ## supplies a code identifying the current availability of the
+    ## text.
+    [ a:defaultValue = "unknown" ]
+    attribute status {
+      
+      ## the text is freely available.
+      "free"
+      | 
+        ## the status of the text is unknown.
+        "unknown"
+      | 
+        ## the text is not freely available.
+        "restricted"
+    }?,
+    empty
+  }
+model.sourceDescPart = notAllowed
+sourceDesc =
+  
+  ## (source description) supplies a description of the source text(s) from
+  ## which an electronic text was derived or generated.
+  element sourceDesc {
+    (model.pLike+
+     | (model.biblLike | model.sourceDescPart | model.listLike)+),
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    att.declarable.attribute.default,
+    empty
+  }
+model.encodingPart = projectDesc | classDecl
+encodingDesc =
+  
+  ## (encoding description) documents the relationship between an electronic text and the
+  ## source or sources from which it was derived.
+  element encodingDesc {
+    (model.encodingPart | model.pLike)+,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+projectDesc =
+  
+  ## (project description) describes in detail the aim or purpose for which an electronic
+  ## file was encoded, together with any other relevant information
+  ## concerning the process by which it was assembled or collected.
+  element projectDesc {
+    model.pLike+,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    att.declarable.attribute.default,
+    empty
+  }
+\namespace =
+  
+  ## supplies the formal name of the namespace to which the elements
+  ## documented by its children belong.
+  element namespace {
+    empty,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    
+    ## the full formal name of the namespace concerned.
+    attribute name { xsd:anyURI },
+    empty
+  }
+classDecl =
+  
+  ## (classification declarations) contains one or more taxonomies defining any classificatory
+  ## codes used elsewhere in the text.
+  element classDecl {
+    taxonomy+,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+taxonomy =
+  
+  ## defines a typology used to classify texts either implicitly, by
+  ## means of a bibliographic citation, or explicitly by a structured
+  ## taxonomy.
+  element taxonomy {
+    (model.glossLike* | category+ | (model.biblLike, category*)),
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+category =
+  
+  ## contains an individual descriptive category, possibly nested
+  ## within a superordinate category, within a user-defined taxonomy.
+  element category {
+    ((catDesc | model.glossLike*), category*),
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+catDesc =
+  
+  ## (category description) describes some category within a taxonomy
+  ## or text typology, either in the form of a brief prose description
+  ## or in terms of the situational parameters used by the TEI
+  ## formal textDesc.
+  element catDesc {
+    (text | model.limitedPhrase | model.catDescPart)*,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+model.profileDescPart = notAllowed
+profileDesc =
+  
+  ## (text-profile description) provides a detailed description of non-bibliographic aspects of a
+  ## text, specifically the languages and sublanguages used, the situation in
+  ## which it was produced, the participants and their setting.
+  element profileDesc {
+    (creation?, model.profileDescPart*),
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+creation =
+  
+  ## contains information about the creation of a text.
+  element creation {
+    macro.phraseSeq.limited,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+language =
+  
+  ## characterizes a single language or sublanguage used within a
+  ##   text.
+  element language {
+    macro.phraseSeq.limited,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    
+    ## (identifier) Supplies a language code constructed as defined in BCP 47 which is used to identify the language documented
+    ##       by this element, and which is referenced by the global xml:lang attribute.
+    attribute ident { xsd:language },
+    
+    ## specifies the approximate percentage (by volume) of the
+    ##       text which uses this language.
+    attribute usage {
+      xsd:nonNegativeInteger { maxInclusive = "100" }
+    }?,
+    empty
+  }
+revisionDesc =
+  
+  ## (revision description) summarizes the revision history for a file.
+  element revisionDesc {
+    change+,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    empty
+  }
+change =
+  
+  ## summarizes a particular change or correction made
+  ## to a particular version of an electronic text which is
+  ## shared between several researchers.
+  element change {
+    (text | model.limitedPhrase | model.inter | model.global)*,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    att.ascribed.attribute.who,
+    
+    ## supplies the date of the change in standard form, i.e. YYYY-MM-DD.
+    attribute when {
+      xsd:date
+      | xsd:gYear
+      | xsd:gMonth
+      | xsd:gDay
+      | xsd:gYearMonth
+      | xsd:gMonthDay
+      | xsd:time
+      | xsd:dateTime
+    }?,
+    empty
+  }
+TEI =
+  
+  ## (TEI document) contains a single TEI-conformant document,
+  ## comprising a TEI header and a text, either in isolation or as part of a
+  ## teiCorpus element.
+  element TEI {
+    (teiHeader,
+     ((model.resourceLike+, \text?) | \text))
+    >> s:ns [ prefix = "tei" uri = "http://www.tei-c.org/ns/1.0" ]
+    >> s:ns [
+         prefix = "rng"
+         uri = "http://relaxng.org/ns/structure/1.0"
+       ],
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    
+    ## The version of the TEI scheme
+    [ a:defaultValue = "5.0" ] attribute version { xsd:decimal }?,
+    empty
+  }
+\text =
+  
+  ## contains a single text of any kind, whether unitary or
+  ## composite, for example a poem or drama, a collection of essays, a novel,
+  ## a dictionary, or a corpus sample.
+  element text {
+    body,
+    
+    ##
+    attribute decls {
+      
+      ## Press: Reportage
+      "A"
+      | 
+        ## Press: Editorial
+        "B"
+      | 
+        ## Press: Reviews
+        "C"
+      | 
+        ## Religion
+        "D"
+      | 
+        ## Skill and hobbies
+        "E"
+      | 
+        ## Popular lore
+        "F"
+      | 
+        ## Belles-lettres
+        "G"
+      | 
+        ## Miscellaneous: government & house organs
+        "H"
+      | 
+        ## Learned
+        "J"
+      | 
+        ## Fiction: general
+        "K"
+      | 
+        ## Fiction: mystery
+        "L"
+      | 
+        ## Fiction: science
+        "M"
+      | 
+        ## Fiction: adventure
+        "N"
+      | 
+        ## Fiction: romance
+        "P"
+      | 
+        ## Humor
+        "R"
+    }?,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    att.typed.attribute.type,
+    att.typed.attribute.subtype,
+    empty
+  }
+body =
+  
+  ## (text body) contains the whole body of a single unitary text, excluding any front or back matter.
+  element body {
+    (model.global*,
+     (model.divTop, (model.global | model.divTop)*)?,
+     (model.divGenLike, (model.global | model.divGenLike)*)?,
+     ((model.divLike, (model.global | model.divGenLike)*)+
+      | (model.div1Like, (model.global | model.divGenLike)*)+
+      | ((model.common, model.global*)+,
+         ((model.divLike, (model.global | model.divGenLike)*)+
+          | (model.div1Like, (model.global | model.divGenLike)*)+)?)),
+     (model.divBottom, model.global*)*),
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    att.declaring.attribute.decls,
+    empty
+  }
+s =
+  
+  ## (s-unit) contains a sentence-like division of a text.
+  element s {
+    macro.phraseSeq,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    att.segLike.attribute.type,
+    att.segLike.attribute.function,
+    att.segLike.attribute.part,
+    empty
+  }
+w =
+  
+  ## (word) 
+  element w {
+    (text
+     | model.gLike
+     | model.segLike
+     | model.global
+     | model.lPart
+     | model.hiLike
+     | model.pPart.edit)*,
+    
+    ## contextual code indicating location of this lexical item
+    attribute subtype { text }?,
+    
+    ## original POS code  associated with this
+    ##   lexical item
+    attribute type {
+      
+      ## negation marker
+      "NEG"
+      | 
+        ## nil marker
+        "NIL"
+      | 
+        ## pre-qualifier quite, rather 
+        "ABL"
+      | 
+        ## pre-quantifier half, all 
+        "ABN"
+      | 
+        ## pre-quantifier both 
+        "ABX"
+      | 
+        ## post-determiner many, several, next 
+        "AP"
+      | 
+        ## post-determiner with possessive marker other's 
+        "APg"
+      | 
+        ## article a, the, no 
+        "AT"
+      | 
+        ## be 
+        "BE"
+      | 
+        ## were 
+        "BED"
+      | 
+        ## was 
+        "BEDZ"
+      | 
+        ## being 
+        "BEG"
+      | 
+        ## am 
+        "BEM"
+      | 
+        ## been 
+        "BEN"
+      | 
+        ## are, art 
+        "BER"
+      | 
+        ## is 
+        "BEZ"
+      | 
+        ## coordinating conjunction and, or 
+        "CC"
+      | 
+        ## cardinal numeral one, two, 2,
+        ## etc. 
+        "CD"
+      | 
+        ## cardinal numeral with possessive marker1960's
+        "CDg"
+      | 
+        ## subordinating conjunction if, although 
+        "CS"
+      | 
+        ## do 
+        "DO"
+      | 
+        ## did 
+        "DOD"
+      | 
+        ## does 
+        "DOZ"
+      | 
+        ## singular determiner this, that 
+        "DT"
+      | 
+        ## singular determiner with possessive marker
+        ## another's 
+        "DTg"
+      | 
+        ## singular or plural determiner/quantifier
+        ## some, any
+        "DTI"
+      | 
+        ## plural determinerthese, those  
+        "DTS"
+      | 
+        ## determiner/double conjunctioneither  
+        "DTX"
+      | 
+        ## existential there
+        "EX"
+      | 
+        ## have 
+        "HV"
+      | 
+        ## had (past tense) 
+        "HVD"
+      | 
+        ## having 
+        "HVG"
+      | 
+        ## had (past participle) 
+        "HVN"
+      | 
+        ## has 
+        "HVZ"
+      | 
+        ## preposition 
+        "IN"
+      | 
+        ## adjective 
+        "JJ"
+      | 
+        ## adjective with possessive marker
+        "JJg"
+      | 
+        ## comparative adjective 
+        "JJR"
+      | 
+        ## semantically superlative adjective  chief, top 
+        "JJS"
+      | 
+        ## morphologically superlative adjective biggest 
+        "JJT"
+      | 
+        ## modal auxiliary can, should, will 
+        "MD"
+      | 
+        ## singular or mass noun 
+        "NN"
+      | 
+        ## possessive singular noun 
+        "NNg"
+      | 
+        ## plural noun 
+        "NNS"
+      | 
+        ## possessive plural noun 
+        "NNSg"
+      | 
+        ## proper noun or part of name phrase 
+        "NP"
+      | 
+        ## possessive proper noun 
+        "NPg"
+      | 
+        ## plural proper noun 
+        "NPS"
+      | 
+        ## possessive plural proper noun 
+        "NPSg"
+      | 
+        ## adverbial noun home, today, west 
+        "NR"
+      | 
+        ## adverbial noun with possessive marker e.g. yesterday's
+        "NRg"
+      | 
+        ## plural adverbial noun  
+        "NRS"
+      | 
+        ## ordinal numeralfirst, 2nd  
+        "OD"
+      | 
+        ## nominal pronoun everybody, nothing
+        "PN"
+      | 
+        ## possessive nominal pronoun
+        "PNg"
+      | 
+        ## possessive personal pronoun my, our
+        "PPg"
+      | 
+        ## second (nominal) possessive
+        ## pronoun mine, ours
+        "PPgg"
+      | 
+        ## singular reflexive/intensive personal
+        ## pronoun myself
+        "PPL"
+      | 
+        ## plural reflexive/intensive personal
+        ## pronoun ourselves
+        "PPLS"
+      | 
+        ## objective personal pronoun me, him, it, them 
+        "PPO"
+      | 
+        ## 3rd. singular nominative pronoun he, she, it, one
+        "PPS"
+      | 
+        ## other nominative personal pronoun I, we, they, you
+        "PPSS"
+      | 
+        ## qualifier very, fairly 
+        "QL"
+      | 
+        ## post-qualifier enough, indeed 
+        "QLP"
+      | 
+        ## adverb 
+        "RB"
+      | 
+        ## adverb with possessive marker else's
+        "RBg"
+      | 
+        ## comparative adverb 
+        "RBR"
+      | 
+        ## superlative adverb 
+        "RBT"
+      | 
+        ## nominal adverb here then, indoors
+        "RN"
+      | 
+        ## adverb/particle about, off, up
+        "RP"
+      | 
+        ## infinitive marker to
+        "TO"
+      | 
+        ## interjection, exclamation 
+        "UH"
+      | 
+        ## verb, base form 
+        "VB"
+      | 
+        ## verb, past tense 
+        "VBD"
+      | 
+        ## verb, present participle/gerund 
+        "VBG"
+      | 
+        ## verb, past participle 
+        "VBN"
+      | 
+        ## verb, 3rd. singular present 
+        "VBZ"
+      | 
+        ## wh- determiner what, which 
+        "WDT"
+      | 
+        ## possessive wh- pronoun whose 
+        "WPg"
+      | 
+        ## objective wh- pronoun whom, which, that 
+        "WPO"
+      | 
+        ## nominative wh- pronoun who, which, that 
+        "WPS"
+      | 
+        ## wh- qualifier how 
+        "WQL"
+      | 
+        ## wh- adverb how, where, when
+        "WRB"
+    }?,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    att.segLike.attribute.function,
+    att.segLike.attribute.part,
+    empty
+  }
+c =
+  
+  ## (character) represents a character.
+  element c {
+    macro.xtext,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    att.segLike.attribute.type,
+    att.segLike.attribute.function,
+    att.segLike.attribute.part,
+    empty
+  }
+mw =
+  
+  ##
+  element mw {
+    text,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.xmlbase,
+    
+    ## sequence of POS codes associated with this
+    ## lexical item
+    attribute pos { text }?,
+    
+    ## contextual code indicating location of this lexical item
+    attribute subtype {
+      
+      ## foreign word (hyphenated before regular
+      ## tag)
+      "FW"
+      | 
+        ## word occurring in headline (hyphenated after regular tag)
+        "HL"
+      | 
+        ## cited word (hyphenated after regular tag) 
+        "NC"
+      | 
+        ## word occurring in title (hyphenated after regular tag)
+        "TL"
+    }?,
+    empty
+  }
+start = TEI | teiCorpus

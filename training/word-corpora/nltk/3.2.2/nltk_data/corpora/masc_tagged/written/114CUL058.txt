@@ -1,0 +1,41 @@
+July_NNP 11_CD ,_, 1997_CD 
+
+Name_NN Address_NNP City_NNP ,_, State_NNP Zip_NNP 
+
+Dear_RB Mr._NN /_NN Mrs._NN Name_NN :_: 
+
+We_PRP need_VBP your_PRP$ help_NN in_IN continuing_VBG the_DT work_NN of_IN Jameson_NNP Camp_NNP ._. 
+
+Jameson_NNP is_VBZ a_DT not-for-profit_JJ agency_NN established_VBN in_IN 1928_CD to_TO serve_VB the_DT youth_NN of_IN central_JJ Indiana_NNP who_WP have_VBP special_JJ needs_NNS ._. 
+The_DT camp_NN offers_VBZ summer_NN residential_JJ programs_NNS for_IN children_NNS from_IN ages_NNS 7_CD -_: 17_CD ,_, and_CC continues_VBZ contact_NN with_IN the_DT campers_NNS and_CC their_PRP$ families_NNS with_IN special_JJ overnight_JJ and_CC weekend_NN follow-up_JJ events_NNS during_IN the_DT school_NN year_NN ._. 
+
+All_DT children_NNS who_WP attend_VBP the_DT camp_NN are_VBP referred_VBN by_IN social_JJ workers_NNS ,_, doctors_NNS ,_, teachers_NNS ,_, counselors_NNS ,_, and_CC other_JJ professionals_NNS ._. 
+Many_JJ of_IN the_DT children_NNS have_VBP learning_VBG disabilities_NNS ,_, behavioral_JJ problems_NNS ,_, or_CC come_VB from_IN economically_RB distressed_JJ families_NNS ._. 
+The_DT goal_NN of_IN our_PRP$ organized_VBN camping_VBG experience_NN is_VBZ to_TO improve_VB the_DT total_JJ health_NN of_IN the_DT children_NNS socially_RB ,_, emotionally_RB ,_, and_CC physically_RB ._. 
+
+This_DT year_NN Jameson_NNP Camp_NNP is_VBZ planning_VBG an_DT Inaugural_NNP fund-raising_JJ event_NN :_: The_DT Jameson_NNP Grill_NNP !_. 
+This_DT event_NN is_VBZ designed_VBN to_TO be_VB fun_NN for_IN campers_NNS ,_, their_PRP$ families_NNS ,_, friends_NNS of_IN the_DT camp_NN ,_, neighbors_NNS ,_, staff_NN ,_, and_CC anyone_NN interested_JJ in_IN finding_VBG out_IN more_JJR about_IN Jameson_NNP ._. 
+In_IN short_JJ ,_, Fun_NNP for_IN Everyone_NN !_. 
+
+The_DT family-friendly_JJ event_NN ,_, September_NNP 20_CD ,_, 1997_CD ,_, will_MD include_VB a_DT hog_NN roast_NN ,_, activities_NNS for_IN kids_NNS and_CC adults_NNS ,_, prizes_NNS for_IN activities_NNS ,_, and_CC a_DT small_JJ raffle_NN ._. 
+Lucky_JJ attendees_NNS can_MD go_VB home_NN with_IN a_DT great_JJ prize_NN ._. 
+This_DT is_VBZ where_WRB we_PRP need_VBP your_PRP$ help_NN ._. 
+
+Can_MD you_PRP help_VB support_VB this_DT wonderful_JJ event_NN by_IN furnishing_VBG any_DT type_NN of_IN products_NNS or_CC services_NNS that_WDT can_MD be_VB used_VBN as_IN prizes_NNS for_IN our_PRP$ activities_NNS or_CC as_IN a_DT raffle_NN prize_NN ?_. 
+Your_PRP$ contribution_NN will_MD help_VB with_IN funding_NN so_RB Jameson_NNP Camp_NNP can_MD continue_VB providing_VBG the_DT year-round_JJ camping_VBG experience_NN that_WDT gives_VBZ kids_NNS a_DT chance_NN to_TO create_VB dreams_NNS ._. 
+
+Enclosed_NNP is_VBZ a_DT form_NN you_PRP can_MD complete_VB and_CC return_NN to_TO us_PRP in_IN the_DT postage-paid_JJ envelope_NN ._. 
+Or_CC ,_, you_PRP can_MD fax_NN us_PRP at_IN 241_CD -_: 2760_CD ,_, or_CC e-mail_JJ ,_, icfundrzr_NN @_IN aol_NN ._. com_NN ._. 
+Your_PRP$ quick_JJ response_NN will_MD help_VB us_PRP begin_VB organizing_VBG our_PRP$ prizes_NNS ._. 
+After_IN we_PRP receive_VBP your_PRP$ commitment_NN ,_, we_PRP will_MD contact_VB you_PRP about_IN picking_VBG up_RP your_PRP$ contribution_NN ._. 
+If_IN you_PRP have_VBP any_DT questions_NNS ,_, please_VB call_NN me_PRP at_IN 241_CD -_: 2661_CD ._. 
+
+We_PRP appreciate_VBP your_PRP$ support_NN of_IN our_PRP$ first_JJ event_NN of_IN this_DT type_NN ._. 
+
+Sincerely_NNP ,_, 
+
+Pat_NNP Bray_NNP Director_NNP of_IN Development_NNP 
+
+Help_VB Blaze_NNP The_DT Trail_NNP -_: -_: 1997_CD Jameson_NNP Camp_NNP 
+Thank_VB you_PRP for_IN your_PRP$ last_JJ Annual_NNP Fund_NNP Gift_NNP !_. 
+

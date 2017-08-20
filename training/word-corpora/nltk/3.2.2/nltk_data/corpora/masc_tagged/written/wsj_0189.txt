@@ -1,0 +1,22 @@
+Ralston_NNP Purina_NNP Co._NN reported_VBD a_DT 47_CD %_NN decline_NN in_IN fourth-quarter_JJ earnings_NNS ,_, reflecting_VBG restructuring_NN costs_NNS as_RB well_RB as_IN a_DT more_RBR difficult_JJ pet_NN food_NN market_NN ._. 
+
+The_DT St._NN Louis_NNP company_NN earned_VBD $45.2_NN million_CD ,_, or_CC 65_CD cents_NNS a_DT share_NN ,_, compared_VBN with_IN $84.9_NN million_CD ,_, or_CC $1.24_NN a_DT share_NN ,_, a_DT year_NN earlier_RBR ._. 
+Sales_NNS in_IN the_DT latest_JJS period_NN were_VBD $1.76_NN billion_CD ,_, a_DT 13_CD %_NN increase_NN from_IN last_JJ year_NN 's_POS $1.55_NN billion_CD ._. 
+
+For_IN the_DT year_NN ended_VBN Sept_NNP ._. 30_CD ,_, Ralston_NNP earned_VBD $422.5_NN million_CD ,_, or_CC $6.44_NN a_DT share_NN ,_, up_RB 8.9_CD %_NN from_IN $387.8_NN million_CD ,_, or_CC $5.63_NN a_DT share_NN ._. 
+This_DT year_NN 's_POS results_NNS included_VBD a_DT gain_NN of_IN $70.2_NN million_CD on_IN the_DT disposal_NN of_IN seafood_NN operations_NNS ._. 
+Sales_NNS for_IN the_DT full_JJ year_NN were_VBD $6.6_NN billion_CD ,_, up_RB 13_CD %_NN from_IN $5.8_NN billion_CD ._. 
+
+Ralston_NNP said_VBD its_PRP$ restructuring_NN costs_NNS include_VBP the_DT phase-out_NN of_IN a_DT battery_NN facility_NN in_IN Greenville_NNP ,_, N.C._NN ,_, the_DT recent_JJ closing_NN of_IN a_DT Hostess_NNP cake_NN bakery_NN in_IN Cincinnati_NNP and_CC a_DT reduction_NN in_IN staff_NN throughout_IN the_DT company_NN ._. 
+The_DT battery_NN plant_NN ,_, which_WDT makes_VBZ rechargeable_JJ nickel_NN cadmium_NN and_CC carbon_NN zinc_NN products_NNS ,_, will_MD be_VB closed_VBN over_IN the_DT next_JJ year_NN or_CC so_RB ,_, a_DT spokesman_NN said_VBD ._. 
+
+Ralston_NNP attributed_VBD its_PRP$ fourth-quarter_JJ slump_NN partly_RB to_TO higher_JJR costs_NNS of_IN ingredients_NNS in_IN the_DT pet_NN food_NN business_NN as_RB well_RB as_IN competitive_JJ pressures_NNS ,_, which_WDT required_VBD higher_JJR advertising_NN spending_NN ._. 
+For_IN the_DT year_NN ,_, pet_NN food_NN volume_NN was_VBD flat_JJ ,_, the_DT company_NN said_VBD ._. 
+
+Its_PRP$ cereal_NN division_NN realized_VBD higher_JJR operating_NN profit_NN on_IN volume_NN increases_NNS ,_, but_CC also_RB spent_VBD more_RBR on_IN promotion_NN ._. 
+The_DT Continental_NNP Baking_NNP business_NN benefited_VBD from_IN higher_JJR margins_NNS on_IN bread_NN and_CC on_IN increased_VBN cake_NN sales_NNS ,_, it_PRP added_VBD ._. 
+
+Ralston_NNP said_VBD its_PRP$ Eveready_NNP battery_NN unit_NN was_VBD hurt_VBN by_IN continuing_VBG economic_JJ problems_NNS in_IN South_NNP America_NNP ._. 
+
+Ralston_NNP shares_NNS closed_VBD yesterday_NN at_IN $80.50_NN ,_, off_IN $1_NN ,_, in_IN New_NNP York_NNP Stock_NNP Exchange_NNP composite_JJ trading_NN ._. 
+

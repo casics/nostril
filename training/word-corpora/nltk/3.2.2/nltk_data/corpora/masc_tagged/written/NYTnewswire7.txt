@@ -1,0 +1,88 @@
+NYT20020731.0049_NN 2002-07-31_NN 11:11_NN Q2420_NN &_CC Cx1_NN f_SYM ;_: tab-z_JJ r_LS f_SYM BC-CHEFS-SAVINGFISH-NNS_NNP 07_CD -_- 31_CD 1259_CD BC-CHEFS-SAVINGFISH-NNS_NNP RESPONSIBLE_NNP SEAFOOD_NNP SALES_NNS ARE_VBP THE_DT CATCH_NNP OF_IN THE_DT DAY_NNP ATTENTION_NNP EDITORS_NNP :_: This_DT article_NN from_IN the_DT NEWHOUSE_NNP NEWS_NNP SERVICE_NNP report_NN of_IN TUESDAY_NNP ,_, JULY_NNP 30_CD ,_, 2002_CD ,_, is_VBZ available_JJ as_RB a_DT "_'' separate_JJ buy_NN ._. "_'' 
+For_IN information_NN about_IN purchasing_VBG the_DT article_NN ,_, contact_NN DEBRA_NNP WEYDERT_NNP of_IN The_DT New_NNP York_NNP Times_NNP Syndicate_NNP at_IN 732_CD -_- 390_CD -_- 4480_CD ;_: fax_NN ,_, 732_CD -_- 390_CD -_- 4697_CD ;_: e-mail_JJ ,_, weyded_JJ (_( at_IN )_) nytimes_NNS ._. com_NN Optional_NNP trim_VB at_IN 950_CD words_NNS By_IN MICHELLE_NNP COLE_NNP c.2002_NN Newhouse_NNP News_NNP Service_NNP (_( UNDATED_NNP )_) Chefs_NNP and_CC seafood_NN retailers_NNS are_VBP wading_VBG into_IN one_CD of_IN the_DT hottest_JJS natural_JJ resource_NN issues_NNS of_IN the_DT day_NN :_: fisheries_NNS management_NN ._. 
+
+It_PRP 's_VBZ no_DT longer_RB unusual_JJ for_IN chefs_NNS to_TO refuse_VB to_TO serve_VB a_DT species_NNS they_PRP think_VBP to_TO be_VB at_IN risk_NN of_IN extinction_NN or_CC for_IN a_DT retailer_NN to_TO promote_VB seafoods_NNS that_WDT are_VBP abundant_JJ and_CC part_NN of_IN a_DT healthy_JJ marine_JJ ecosystem_NN ._. 
+
+Most_JJS say_VBP they_PRP 're_VBP driven_VBN by_IN the_DT desire_NN to_TO do_VB right_NN by_IN the_DT environment_NN ._. 
+Some_DT also_RB say_VBP they_PRP must_MD listen_VB to_TO their_PRP$ customers_NNS '_POS concerns_NNS or_CC risk_VB a_DT consumer_NN backlash_NN ._. 
+
+The_DT nationwide_JJ boycott_NN of_IN Chilean_JJ seabass_NNS is_VBZ a_DT potent_JJ example_NN of_IN the_DT new_JJ activism_NN ._. 
+
+"_'' I_PRP have_VBP made_VBN it_PRP a_DT policy_NN of_IN mine_NN never_RB to_TO serve_VB Chilean_JJ seabass_NNS ,_, "_'' said_VBD Billy_NNP Hahn_NNP ,_, executive_NN chef_NN at_IN Jake_NNP 's_POS Famous_NNP Crawfish_NNP ,_, a_DT Portland_NNP ,_, Ore_NNP ._. ,_, landmark_NN since_IN 1892_CD ._. 
+"_'' I_PRP refuse_VBP to_TO sell_VB it_PRP ._. "_'' 
+
+Chilean_JJ seabass_NNS ,_, also_RB known_VBN as_IN Patagonian_NNP toothfish_NN ,_, came_VBD into_IN vogue_NN in_IN the_DT 1990s_NN in_IN U.S._NNP restaurants_NNS and_CC fish_NN markets_NNS ._. 
+With_IN rising_VBG demand_NN for_IN the_DT firm_NN ,_, oil_NN -_- rich_JJ fish_NN came_VBD pirate_NN fishing_NN fleets_NNS eager_JJ to_TO cash_VB in_IN on_IN its_PRP$ popularity_NN -_- -_- even_RB if_IN it_PRP meant_VBD skirting_VBG catch_NN limits_NNS and_CC environmental_JJ regulations_NNS ._. 
+
+Contrary_JJ to_TO what_WP some_DT restaurants_NNS and_CC retailers_NNS tell_VBP their_PRP$ customers_NNS ,_, the_DT U.S._NNP government_NN does_VBZ not_RB consider_VB the_DT Chilean_JJ seabass_NNS to_TO be_VB endangered_VBN ._. 
+But_CC in_IN some_DT areas_NNS ,_, the_DT seabass_NNS are_VBP being_VBG overfished_JJ ._. 
+
+That_DT is_VBZ potentially_RB a_DT problem_NN because_IN Chilean_JJ seabass_NNS are_VBP a_DT long_JJ -_- lived_JJ species_NNS -_- -_- living_VBG as_RB long_RB as_IN 50_CD years_NNS -_- -_- and_CC reproduce_VB slowly_RB ,_, said_VBD Susan_NNP Buchanan_NNP ,_, a_DT spokeswoman_NN for_IN the_DT federal_JJ government_NN 's_POS National_NNP Marine_NNP Fisheries_NNPS Service_NNP ._. 
+
+The_DT NMFS_NNP estimates_VBZ that_IN in_IN 2000_CD ,_, more_JJR than_IN 16,000_CD tons_NNS of_IN Chilean_JJ seabass_NNS were_VBD legally_RB caught_VBN from_IN an_DT internationally_RB regulated_VBN harvest_NN area_NN in_IN the_DT Antarctic_NNP Ocean_NNP ._. 
+But_CC more_JJR than_IN 32,000_CD tons_NNS may_MD have_VB been_VBN taken_VBN illegally_RB from_IN those_DT same_JJ waters_NNS ,_, the_DT fisheries_NNS service_NN said_VBD ._. 
+
+Impatient_NNP with_IN regulators_NNS ,_, the_DT National_NNP Environmental_NNP Trust_NNP began_VBD a_DT boycott_NN campaign_NN in_IN February_NNP called_VBD "_'' Take_VB a_DT Pass_NNP on_IN Chilean_JJ Seabass_NNP ._. "_'' 
+The_DT Washington_NNP -_- based_JJ conservation_NN group_NN says_VBZ more_JJR than_IN 530_CD restaurants_NNS have_VBP signed_VBN on_IN ._. 
+
+A_DT number_NN of_IN restaurants_NNS not_RB officially_RB part_VB of_IN the_DT National_NNP Environmental_NNP Trust_NNP boycott_NN also_RB have_VBP stopped_VBN serving_VBG Chilean_JJ seabass_NNS ._. 
+And_CC it_PRP 's_VBZ not_RB just_RB the_DT white_JJ tablecloth_NN crowd_NN ._. 
+
+Red_NNP Lobster_NNP ,_, with_IN 660_CD restaurants_NNS in_IN the_DT United_NNP States_NNPS and_CC Canada_NNP ,_, dropped_VBD Chilean_JJ seabass_NNS from_IN the_DT menu_NN in_IN the_DT past_JJ year_NN because_IN of_IN "_'' sustainability_NN "_'' concerns_NNS ,_, said_VBD Wendy_NNP Spirduso_NNP ,_, communications_NNS director_NN for_IN the_DT Orlando_NNP ,_, Fla_NNP ._. -_- based_JJ chain_NN ._. 
+
+Some_DT retailers_NNS also_RB have_VBP pulled_VBN Chilean_JJ seabass_NNS ._. 
+
+"_'' We_PRP 've_VBP discontinued_VBN selling_VBG swordfish_NN ,_, Chilean_JJ seabass_NNS ,_, orange_NN roughy_NN and_CC marlin_NN ,_, "_'' said_VBD Mark_NNP Cockcroft_NNP ,_, national_JJ seafood_NN buyer_NN for_IN Wild_NNP Oats_NNP Markets_NNP ,_, a_DT chain_NN of_IN 103_CD stores_NNS ._. 
+"_'' We_PRP are_VBP also_RB taking_VBG a_DT real_JJ hard_JJ look_NN currently_RB at_IN almost_RB all_DT species_NNS of_IN shark_NN ,_, though_IN we_PRP have_VBP n't_RB made_VBN a_DT formal_JJ statement_NN about_IN that_DT ._. "_'' 
+
+Whole_JJ Foods_NNP Markets_NNP ,_, with_IN 133_CD stores_NNS nationwide_JJ ,_, also_RB does_VBZ not_RB sell_VB Chilean_JJ seabass_NNS ._. 
+
+All_DT of_IN this_DT comes_VBZ at_IN a_DT time_NN when_WRB Americans_NNPS are_VBP consuming_NN more_JJR seafood_NN :_: 15_CD to_TO 16_CD pounds_NNS per_IN person_NN each_DT year_NN ,_, compared_VBN with_IN 10.3_CD pounds_NNS per_IN person_NN in_IN 1960_CD and_CC 12.5_CD pounds_NNS in_IN 1980_CD ,_, according_VBG to_TO the_DT National_NNP Fisheries_NNPS Institute_NNP ,_, an_DT industry_NN association_NN ._. 
+
+At_IN the_DT same_JJ time_NN ,_, about_IN half_PDT the_DT world_NN 's_POS fisheries_NNS are_VBP being_VBG fished_JJ to_TO capacity_NN ._. 
+
+The_DT Food_NNP and_CC Agriculture_NNP Organization_NNP of_IN the_DT United_NNP Nations_NNPS reports_NNS that_IN 47_CD percent_NN to_TO 50_CD percent_NN of_IN stocks_NNS are_VBP "_'' fully_RB exploited_VBN ,_, "_'' meaning_VBG that_WDT catches_VBZ have_VBP either_CC reached_VBN or_CC are_VBP close_RB to_TO maximum_NN limits_NNS ._. 
+Another_DT 15_CD percent_NN to_TO 18_CD percent_NN are_VBP "_'' overexploited_JJ ,_, "_'' and_CC 9_CD percent_NN to_TO 10_CD percent_NN have_VBP been_VBN "_'' depleted_VBN or_CC are_VBP recovering_VBG from_IN depletion_NN ._. "_'' 
+
+The_DT seafood_NN industry_NN is_VBZ less_JJR than_IN thrilled_VBN about_IN this_DT surge_NN of_IN interest_NN in_IN ocean_NN ecosystems_NNS from_IN people_NNS who_WP are_VBP not_RB scientists_NNS ._. 
+
+Fisheries_NNPS management_NN is_VBZ best_JJS left_VBN to_TO the_DT experts_NNS ,_, said_VBD Thor_NNP Lassen_NNP ,_, president_NN of_IN Ocean_NNP Trust_NNP ,_, a_DT research_NN and_CC conservation_NN foundation_NN partly_RB financed_VBN by_IN the_DT fishing_NN industry_NN ._. 
+"_'' It_PRP involves_VBZ very_RB complicated_VBN choices_NNS that_WDT have_VBP to_TO do_VB with_IN the_DT biology_NN of_IN species_NNS ,_, their_PRP$ life_NN cycles_NNS ,_, how_WRB they_PRP respond_VBP to_TO various_JJ changes_NNS in_IN the_DT oceans_NNS ,_, etc._NN "_'' 
+
+When_WRB there_EX 's_VBZ a_DT boycott_NN ,_, Lassen_NNP said_VBD ,_, "_'' it_PRP 's_VBZ not_RB environmentalists_NNS or_CC chefs_NNS making_VBG the_DT sacrifice_NN ,_, it_PRP 's_VBZ coastal_JJ communities_NNS ._. "_'' 
+
+Rod_NNP Moore_NNP ,_, executive_JJ director_NN of_IN the_DT West_NNP Coast_NNP Seafood_NNP Processors_NNP Association_NNP ,_, suggests_VBZ that_IN activists_NNS with_IN an_DT agenda_NN are_VBP manipulating_VBG chefs_NNS and_CC retailers_NNS ._. 
+
+The_DT conservation_NN groups_NNS providing_VBG information_NN to_TO chefs_NNS and_CC retailers_NNS and_CC lists_NNS of_IN environmentally_RB appropriate_JJ seafoods_NNS to_TO consumers_NNS are_VBP the_DT same_JJ groups_NNS working_VBG to_TO affect_VB fisheries_NNS management_NN on_IN the_DT political_JJ and_CC regulatory_JJ level_NN ,_, Moore_NNP said_VBD ._. 
+
+That_DT 's_VBZ simply_RB good_JJ strategy_NN ,_, said_VBD James_NNP Leape_NNP ,_, deputy_NN director_NN of_IN the_DT conservation_NN program_NN for_IN the_DT David_NNP and_CC Lucile_NNP Packard_NNP Foundation_NNP in_IN Los_NNP Altos_NNP ,_, Calif_NNP ._. 
+
+In_IN 2000_CD and_CC 2001_CD ,_, the_DT Packard_NNP Foundation_NNP awarded_VBD $26_NN million_CD in_IN marine_JJ fisheries_NNS conservation_NN grants_NNS ._. 
+They_PRP included_VBD support_NN for_IN marine_JJ reserves_NNS and_CC money_NN for_IN fisheries_NNS management_NN reform_NN ._. 
+More_JJR than_IN $7_NN million_CD was_VBD given_VBN to_TO projects_NNS aimed_VBN at_IN educating_VBG the_DT general_JJ public_NN ._. 
+
+"_'' One_CD of_IN the_DT principal_JJ concerns_NNS of_IN the_DT Packard_NNP Foundation_NNP is_VBZ the_DT preservation_NN of_IN natural_JJ resources_NNS ,_, particularly_RB in_IN the_DT oceans_NNS ,_, and_CC one_CD of_IN the_DT greatest_JJS threats_NNS is_VBZ overfishing_VBG ,_, "_'' Leape_NNP said_VBD ._. 
+"_'' We_PRP have_VBP seen_VBN that_IN raising_VBG consumer_NN awareness_NN and_CC concern_NN among_IN restaurants_NNS and_CC retailers_NNS about_IN a_DT particular_JJ fishery_NN can_MD really_RB make_VB a_DT difference_NN ._. "_'' 
+
+"_'' (_( OPTIONAL_NNP TRIM_NNP FOLLOWS_NNP )_) The_DT Monterey_NNP Bay_NNP Aquarium_NNP 's_POS Web_NNP site_NN rates_VBZ different_JJ species_NNS of_IN fish_NN for_IN overfishing_VBG ,_, habitat_NN damage_NN and_CC other_JJ factors_NNS ._. 
+The_DT California_NNP aquarium_NN also_RB created_VBD "_'' Seafood_NNP Watch_NNP "_'' wallet_NN cards_NNS designed_VBN to_TO take_VB to_TO restaurants_NNS ._. 
+More_JJR than_IN 600,000_CD of_IN the_DT cards_NNS and_CC seafood_NN guides_NNS have_VBP been_VBN distributed_VBN since_IN 2000_CD ,_, said_VBD Jennifer_NNP Dianto_NNP ,_, Seafood_NNP Watch_NNP program_NN manager_NN at_IN the_DT aquarium_NN ._. 
+
+Chefs_NNP and_CC retailers_NNS around_IN the_DT country_NN know_VB they_PRP must_MD be_VB prepared_VBN to_TO deal_VB with_IN customers_NNS who_WP arrive_VBP with_IN the_DT aquarium_NN 's_POS seafood_NN card_NN in_IN hand_NN ._. 
+But_CC in_IN a_DT business_NN in_IN which_WDT 12_CD -_- hour_NN shifts_NNS are_VBP the_DT norm_NN ,_, some_DT chefs_NNS worry_VBP about_IN their_PRP$ lack_NN of_IN time_NN to_TO stay_VB informed_VBN about_IN complicated_VBN ,_, rapidly_RB changing_VBG fisheries_NNS management_NN issues_NNS ._. 
+
+Some_DT working_VBG chefs_NNS say_VBP they_PRP routinely_RB review_VBP conservation_NN group_NN Web_NNP sites_NNS ,_, government_NN reports_NNS and_CC industry_NN sources_NNS ._. 
+
+"_'' For_IN me_PRP ,_, it_PRP 's_VBZ very_RB difficult_JJ to_TO be_VB certain_JJ that_IN the_DT information_NN which_WDT is_VBZ given_VBN to_TO me_PRP is_VBZ real_JJ ,_, "_'' said_VBD Eric_NNP Ripert_NNP ,_, chef_NN at_IN Le_NNP Bernardin_NNP ,_, a_DT four_JJ -_- star_NN seafood_NN restaurant_NN in_IN Manhattan_NNP ._. 
+"_'' I_PRP do_VBP n't_RB know_VB ._. 
+I_PRP do_VBP n't_RB have_VB enough_JJ information_NN to_TO know_VB ,_, for_IN example_NN ,_, if_IN Chilean_JJ seabass_NNS is_VBZ really_RB disappearing_VBG or_CC if_IN it_PRP 's_VBZ political_JJ pressure_NN ._. "_'' 
+
+Despite_IN being_VBG uncertain_JJ of_IN its_PRP$ status_NN ,_, Ripert_NNP pulled_VBD Chilean_JJ seabass_NNS ._. 
+Le_NNP Bernardin_NNP 's_POS menu_NN also_RB informs_VBZ diners_NNS that_IN the_DT restaurant_NN will_MD not_RB serve_VB swordfish_NN to_TO support_VB efforts_NNS "_'' to_TO recover_VB the_DT species_NNS ._. "_'' 
+
+"_'' I_PRP do_VBP n't_RB wish_VB to_TO be_VB a_DT spokesman_NN for_IN any_DT campaign_NN ,_, "_'' Ripert_NNP said_VBD ._. 
+"_'' I_PRP do_VBP it_PRP as_IN somebody_NN who_WP has_VBZ a_DT conscience_NN and_CC is_VBZ caring_VBG ._. "_'' 
+
+JL_NNP END_NNP COLE_NNP (_( Michelle_NNP Cole_NNP is_VBZ a_DT staff_NN writer_NN for_IN The_DT Oregonian_NNP of_IN Portland_NNP ,_, Ore_NNP ._. 
+She_PRP can_MD be_VB contacted_VBN at_IN michellecole_NN (_( at_IN )_) news_NN ._. oregonian_NN ._. com_NN ._. )_) 
+NYT-07_NN -_- 31_CD -_- 02_CD 1111_CD EDT_NNP 

@@ -1,0 +1,9 @@
+docno_NN =_SYM "_'' lists-_NN 003_CD -_: 2171003_CD "_'' received_VBD =_SYM "_'' Thu_NNP May_NNP 20_CD 12:57:41_NN 1993_CD EST_NNP "_'' sent_VBD =_SYM "_'' Thu_NNP ,_, 20_CD May_NNP 1993_CD 21:56:14_NN +_NN 0200_CD "_'' name_NN =_SYM "_'' Keld_NNP J_NNP |_NN rn_NN Simonsen_NNP "_'' email_NN =_SYM "_'' keld@dkuug.dk_NN "_'' subject_JJ =_SYM "_'' Re_NNP :_: CHARSET_NNP considerations_NNS "_'' id_NN =_SYM "_'' 199305201956.AA28105@dkuug.dk_NN "_'' inreplyto_NN =_SYM "_'' lgl@nwnet.net_NN "_'' To_TO :_: Laurence_NNP Lundblade_NNP <_NN lgl@nwnet.net_NN >_NN ,_, Cc_NNP :_: ietf-charsets@INNOSOFT.COM_NN ,_, scs@adam.mit.edu_NN ,_, TROTH@ricevm1.rice.edu_NN ,_, Laurence_NNP Lundblade_NNP writes_VBZ :_: 
+>_NN Yes_UH ,_, I_PRP think_VBP that_DT 's_VBZ exactly_RB right_JJ ._. 
+We_PRP can_MD probably_RB adjust_VB the_DT comment_NN in_IN >_NN the_DT ._. pinerc_NN for_IN now_RB ._. 
+In_IN the_DT long_JJ term_NN the_DT ._. pinerc_NN needs_VBZ a_DT lot_NN of_IN good_JJ >_NN error_NN checking_NN ._. 
+It_PRP just_RB has_VBZ n't_RB been_VBN done_VBN because_IN limited_JJ resources_NNS ._. 
+All_DT of_IN the_DT RFC_NNP 1345_CD character_NN sets_NNS are_VBP registered_VBN for_IN MIME_NNP use_NN ._. 
+That_DT should_MD be_VB able_JJ to_TO cover_VB most_JJS needs_VBZ ._. 
+Keld_NNP 
+

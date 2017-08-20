@@ -1,0 +1,16 @@
+Message-ID_NNP :_: <_NN 3024882.1075852475408.JavaMail.evans@thyme_NN >_NN Date_NN :_: Sat_NNP ,_, 25_CD Aug_NNP 2001_CD 18:17:17_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: cfr@vnf.com_NN To_TO :_: linda.robertson@enron.com_NN Subject_NNP :_: PRIVILEGED_NNP AND_CC CONFIDENTIAL_NNP -_: Christopher_NNP Stelzer_NNP Draft_NNP Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Attached_NNP is_VBZ the_DT draft_NN testimony_NN of_IN Christopher_NNP Stelzer_NNP ,_, on_IN behalf_NN of_IN Avista_NNP Energy_NNP ._. 
+
+If_IN possible_JJ ,_, we_PRP would_MD appreciate_VB comments_NNS no_RB later_RBR than_IN 3:00_NN PM_NNP EST_NNP on_IN Sunday_NNP ,_, August_NNP 26_CD ._. 
+Comments_NNS can_MD be_VB faxed_VBD to_TO my_PRP$ attention_NN at_IN 202/338_CD -_: 2416_CD or_CC emailed_JJ to_TO cfr@vnf.com_NN or_CC gdb@vnf.com_NN (_( Gary_NNP Bachman_NNP )_) ._. 
+
+Thank_VB you_PRP ._. 
+
+Cheryl_NNP Feik_NNP Ryan_NNP Van_NNP Ness_NNP Feldman_NNP ,_, P.C._NN 1050_CD Thomas_NNP Jefferson_NNP Street_NNP NW_NNP Washington_NNP DC_NNP 20007_CD 202/298_CD -_: 1845_CD cfr@vnf.com_NN 
+
+This_DT email_NN message_NN is_VBZ intended_VBN solely_RB for_IN the_DT individual_JJ or_CC individuals_NNS named_VBN above_IN ._. 
+It_PRP may_MD contain_VB confidential_JJ attorney-client_JJ privileged_JJ information_NN and_CC /_NN or_CC attorney_NN work_NN product_NN ._. 
+If_IN the_DT reader_NN of_IN this_DT message_NN is_VBZ not_RB the_DT intended_VBN recipient_JJ ,_, you_PRP are_VBP requested_VBN not_RB to_TO read_VB ,_, copy_NN or_CC distribute_VB it_PRP or_CC any_DT of_IN the_DT information_NN it_PRP contains_VBZ ._. 
+Please_VB delete_VB it_PRP immediately_RB and_CC notify_VB the_DT sender_NN by_IN return_NN email_NN or_CC by_IN telephone_NN ._. 
+Thank_VB you_PRP ._. 
+
+-_: 107177_CD __NN 1_CD ._. DOC_NNP 

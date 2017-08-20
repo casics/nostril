@@ -1,0 +1,42 @@
+
+SAVE_NNP A_DT LIFE_NNP Little_NNP ShelterAND_NNP GET_VB OUR_DT 33_CD Warner_NNP Road_NNP NEWSLETTER_NNP Huntington_NNP NY_NNP 11743_CD -_: 0830_CD 
+
+Dear_RB Ms._NN LastName_NNP 
+
+
+These_DT are_VBP the_DT pawprints_NNS of_IN a_DT homeless_JJ animal_NN ;_: an_DT abandoned_JJ animal_NN ,_, shivering_VBG with_IN fear_NN ,_, with_IN no_DT place_NN to_TO call_VB home_NN ._. 
+Where_WRB will_MD these_DT pawprints_NNS lead_VBP ?_. 
+
+With_IN your_PRP$ help_NN they_PRP can_MD lead_VB to_TO Little_NNP Shelter_NNP ’_NN s_VBZ good_JJ food_NN ,_, medical_JJ attention_NN and_CC a_DT warm_JJ place_NN to_TO sleep_VB for_IN homeless_JJ and_CC frightened_JJ animals_NNS ._. 
+And_CC then_RB we_PRP ’_NN ll_NN work_NN to_TO find_VB loving_JJ homes_NNS for_IN them_PRP 
+
+
+You_PRP might_MD be_VB wondering_VBG how_WRB much_JJ to_TO send_VB ._. 
+Our_PRP$ average_JJ gift_NN is_VBZ about_IN $21_NN ._. 
+If_IN you_PRP could_MD give_VB $20_NN or_CC more_JJR ,_, I_PRP can_MD promise_VB we_PRP ’_NN ll_NN use_NN your_PRP$ money_NN to_TO help_VB animals_NNS start_VB new_JJ ,_, happier_JJR lives_NNS ._. 
+
+At_IN this_DT wonderful_JJ time_NN of_IN the_DT year_NN ,_, when_WRB people_NNS are_VBP celebrating_VBG ,_, 
+(_( Over_IN ,_, please_VB )_) 
+
+
+“_NN The_DT only_RB no-kill_JJ shelter_NN that_DT ’_NN s_VBZ there_EX when_WRB you_PRP need_VBP us_PRP ”_NN 
+Little_NNP Shelter_NNP is_VBZ crowded_VBN with_IN animals_NNS waiting_VBG for_IN homes_NNS ._. 
+It_PRP hurts_VBZ us_PRP especially_RB now_RB to_TO see_VB a_DT scrawny_NN dog_NN ._. ._. ._. a_DT wet_JJ ,_, starving_VBG kitten_NN ._. 
+homeless_JJ animals_NNS that_WDT would_MD otherwise_RB die_VB if_IN Little_NNP Shelter_NNP didn_NN ’_NN t_NN provide_VBP the_DT care_NN ,_, treatment_NN and_CC love_VB these_DT animals_NNS need_VBP ._. 
+If_IN you_PRP could_MD see_VB them_PRP ,_, I_PRP know_VBP you_PRP would_MD want_VB to_TO help_VB ._. 
+
+Your_PRP$ reward_NN will_MD be_VB the_DT wag_NN of_IN a_DT tail_NN you_PRP ’_NN ll_NN never_RB see_VB ,_, the_DT soft_JJ purr_NN you_PRP ’_NN ll_NN never_RB hear_VB --_: and_CC the_DT warm_JJ joy_NN of_IN knowing_VBG you_PRP were_VBD there_EX to_TO help_VB when_WRB you_PRP were_VBD needed_VBN ._. 
+
+Happy_NNP Holidays_NNP from_IN all_DT of_IN us_PRP !_. 
+
+
+
+Sincerely_NNP ,_, 
+
+
+Maryann_NNP Chernovsky_NNP 
+President_NNP 
+
+
+P.S._NN Please_VB accept_VB the_DT enclosed_VBN 2001_CD calendar_NN and_CC gift_NN tags_NNS as_IN a_DT special_JJ greeting_NN from_IN our_PRP$ animal_NN friends_NNS and_CC Little_NNP Shelter_NNP ._. 
+

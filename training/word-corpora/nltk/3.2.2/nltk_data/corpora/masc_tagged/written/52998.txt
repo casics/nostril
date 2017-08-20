@@ -1,0 +1,41 @@
+Message-ID_NNP :_: <_NN 29291085.1075856621619.JavaMail.evans@thyme_NN >_NN Date_NN :_: Tue_NNP ,_, 28_CD Nov_NNP 2000_CD 05:32:00_NN -_: 0800_CD (_( PST_NNP )_) From_IN :_: shirley.crenshaw@enron.com_NN To_TO :_: jmyan@stanford.edu_NN Subject_NNP :_: Re_NNP :_: Telephone_NNP Interview_NNP with_IN The_DT Enron_NNP Corp_NNP ._. Research_NNP Group_NNP Cc_NNP :_: lance.cunningham@enron.com_NN ,_, alex.huang@enron.com_NN ,_, vince.kaminski@enron.com_NN ,_, vasant.shanbhogue@enron.com_NN Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM ANSI_NNP __NN X_NNP 3.4_CD -_: 1968_CD Content-_NNP Transfer-_NNP Encoding_NNP :_: quoted-printable_JJ Bcc_NNP :_: lance.cunningham@enron.com_NN ,_, alex.huang@enron.com_NN ,_, vince.kaminski@enron.com_NN ,_, vasant.shanbhogue@enron.com_NN Marshall_NNP :_: 
+
+Thanks_NNS for_IN responding_VBG so_RB quickly_RB ._. 
+I_PRP have_VBP scheduled_VBN the_DT following_VBG intervie=
+w_NN :_: 
+
+Wednesday_NNP ,_, December_NNP 6_CD -_: 1:00_NN PM_NNP Houston_NNP time_NN ._. 
+It_PRP will_MD last_VB approximately_RB 1_CD hour_NN ._. 
+We_PRP will_MD call_VB you_PRP at_IN (_( 605_CD )_) 497_CD -_: 4045_CD unless_IN otherwise_RB instructed_VBN ._. 
+
+If_IN you_PRP have_VBP any_DT questions_NNS ,_, please_VB feel_VBP free_JJ to_TO contact_VB me_PRP at_IN 713/853_CD -_: 5290_CD ._. 
+
+Best_JJS regards_VBZ ,_, 
+
+Shirley_NNP Crenshaw_NNP 
+
+"_'' Jingming_NNP '_POS Marshall_NNP '_POS Yan_NNP "_'' <_NN jmyan@stanford.edu_NN >_NN on_IN 11/28/2000_CD 12:59:55_NN PM_NNP To_TO :_: Shirley.Crenshaw@enron.com_NN cc_NN :_: Vince_NNP ._. J.Kaminski@enron.com_NN =_SYM 20_CD Subject_NNP :_: Re_NNP :_: Telephone_NNP Interview_NNP with_IN The_DT Enron_NNP Corp_NNP ._. Research_NNP Group_NNP 
+Ms._NN Crenshaw_NNP ,_, 
+
+Thank_VB you_PRP very_RB much_RB for_IN the_DT message_NN ._. 
+I_PRP am_VBP very_RB interested_JJ in_IN the_DT opportunity_NN to_TO talk_VB to_TO personnel_NNS from_IN the_DT Research_NNP Group_NNP at_IN Enron_NNP ._. 
+Between_IN the_DT two_CD days_NNS you_PRP suggest_VBP ,_, I_PRP prefer_VBP Wednesday_NNP 12/6_CD ._. 
+Considering_VBG the_DT two-hour_JJ time_NN difference_NN between_IN California_NNP and_CC Texas_NNP ,_, 11:00_NN am_VBP Pacific_NNP time_NN (_( 1:00_NN pm_NN your_PRP$ time_NN )_) seems_VBZ to_TO be_VB a_DT good_JJ slot_NN ._. 
+However_RB ,_, I_PRP am_VBP open_JJ most_JJS of_IN the_DT day_NN on_IN 12/6_CD so_RB if_IN some_DT other_JJ time_NN slot_NN is_VBZ prefered_JJ on_IN your_PRP$ end_NN ,_, please_VB let_VB me_PRP know_VB ._. 
+
+Thanks_NNS again_RB ._. 
+I_PRP look_VBP forward_RB to_TO talking_VBG to_TO you_PRP and_CC your_PRP$ colleagues_NNS ._. 
+
+Jingming_NNP 
+
+On_IN Tue_NNP ,_, 28_CD Nov_NNP 2000_CD Shirley.Crenshaw@enron.com_NN wrote_VBD :_: 
+
+>_NN Good_JJ afternoon_NN Jingming_NNP :_: >_NN >_NN Professor_NNP Wolak_NNP forwarded_JJ your_PRP$ resume_NN to_TO the_DT Research_NNP Group_NNP ,_, and_CC >_NN they_PRP would_MD like_VB to_TO conduct_VB a_DT telephone_NN interview_NN with_IN you_PRP ,_, sometime_RB next_JJ >_NN week_NN ,_, at_IN your_PRP$ convenience_NN ._. 
+The_DT best_JJS days_NNS would_MD be_VB Tuesday_NNP ,_, 12/5_CD or_CC >_NN Wednesday_NNP ,_, 12/6_CD ._. 
+>_NN >_NN Please_VB let_VB me_PRP know_VB which_WDT day_NN and_CC what_WP time_NN would_MD be_VB best_JJS for_IN you_PRP and_CC >_NN they_PRP will_MD call_VB you_PRP ._. 
+Let_VB me_PRP know_VB the_DT telephone_NN number_NN that_IN you_PRP wish_VBP to_TO be_VB >_NN contacted_VBN at_IN ._. 
+>_NN >_NN The_DT interviewers_NNS would_MD be_VB :_: >_NN >_NN Vince_NNP Kaminski_NNP Managing_NNP Director_NNP and_CC Head_NNP of_IN Research_NNP >_NN Vasant_NNP Shanbhogue_NNP Vice_NNP President_NNP ,_, Research_NNP >_NN Lance_NNP Cunningham_NNP Manager_NNP ,_, Research_NNP >_NN Alex_NNP Huang_NNP Manager_NNP ,_, Research_NNP >_NN >_NN Look_NN forward_RB to_TO hearing_NN from_IN you_PRP ._. 
+>_NN >_NN Best_JJS regards_VBZ ,_, >_NN >_NN Shirley_NNP Crenshaw_NNP >_NN Administrative_NNP Coordinator_NNP >_NN Enron_NNP Research_NNP Group_NNP ._. >_NN 713_CD -_: 853_CD -_: 5290_CD >_NN >_NN >_NN 
+---------------------------------------------------------_SYM Jingming_NNP "_'' Marshall_NNP "_'' Yan_NNP jmyan@leland.stanford.edu_NN Department_NNP of_IN Economics_NNP (_( 650_CD )_) 497_CD -_: 4045_CD (_( H_NNP )_) Stanford_NNP University_NNP (_( 650_CD )_) 725_CD -_: 8914_CD (_( O_NNP )_) Stanford_NNP ,_, CA_NNP 94305_CD 358_CD C_NNP ,_, Economics_NNP Bldg_NNP ----------------------------------------------------------_SYM If_IN one_CD seeks_VBZ to_TO act_VB virtuously_RB and_CC attain_VB it_PRP ,_, then_RB what_WP is_VBZ there_EX to_TO repine_NN about_RP ?_. 
+--_: Confucius_NNP 
+

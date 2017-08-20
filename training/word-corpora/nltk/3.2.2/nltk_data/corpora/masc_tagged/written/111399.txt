@@ -1,0 +1,8 @@
+Date_NN :_: Thu_NNP ,_, 10_CD Feb_NNP 2011_CD 13:16:41_NN -_: 0600_CD Subject_NNP :_: Attention_NN :_: Email_NNP Users_NNS From_IN :_: "_'' ACCOUNT_NNP HOLDER_NNP "_'' <_NN info@maintenance.com_NN >_NN To_TO :_: undisclosed-recipients_JJ :_: ;_: This_DT is_VBZ to_TO inform_VB you_PRP that_IN you_PRP have_VBP exceeded_VBN your_PRP$ email_NN quota_NN limit_NN of_IN 200_CD MB_NNP and_CC you_PRP need_VBP to_TO increase_VB your_PRP$ email_NN quota_NN limit_NN because_IN in_IN less_JJR than_IN 48_CD hours_NNS your_PRP$ email_NN will_MD be_VB disable_JJ ._. 
+Increase_VB your_PRP$ email_NN quota_NN limit_NN and_CC continue_VB to_TO use_VB your_PRP$ webmail_NN account_NN ._. 
+
+To_TO increase_VB your_PRP$ email_NN quota_NN limit_NN to_TO 10_CD GB_NNP ,_, click_NN the_DT below_IN link_NN :_: 
+http://bestvoipcarrier.com/onlineform/use/login/form1.html_NN 
+Thank_VB you_PRP for_IN your_PRP$ understanding_NN ._. 
+
+Webmaster_NNP System_NNP Administrator_NNP Copyright_NNP �_NN 2011_CD Webmail_NNP Technical_NNP Support_NN Center_NNP ._. 

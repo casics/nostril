@@ -1,0 +1,311 @@
+Scholastic_NNP Career_NNP A_DT little_JJ girl_NN had_VBD just_RB finished_VBN her_PRP$ first_JJ week_NN of_IN school_NN ._. 
+"_'' I_PRP 'm_VBP wasting_VBG my_PRP$ time_NN ,_, "_'' she_PRP said_VBD to_TO her_PRP$ mother_NN ._. 
+"_'' I_PRP ca_MD n't_RB read_VB ,_, I_PRP ca_MD n't_RB write_VB -_: and_CC they_PRP wo_MD n't_RB let_VB me_PRP talk_VBP !_. "_'' 
+
+Perspective_NNP View_NNP "_'' A_DT Developer_NNP is_VBZ someone_NN who_WP wants_VBZ to_TO build_VB a_DT house_NN in_IN the_DT woods_NNS ._. 
+An_DT environmentalist_NN is_VBZ someone_NN who_WP already_RB owns_VBZ a_DT house_NN in_IN the_DT woods_NNS ._. "_'' 
+--_: Dennis_NNP Miller_NNP 
+
+Dry_NNP Humor_NNP A_DT visitor_NN to_TO Texas_NNP once_RB asked_VBD ,_, "_'' Does_VBZ it_PRP ever_RB rain_NN out_IN here_RB ?_. "_'' 
+A_DT rancher_NN quickly_RB answered_VBD ,_, "_'' Yes_UH ,_, it_PRP does_VBZ ._. "_'' 
+"_'' When_WRB ?_. "_'' 
+asked_VBD the_DT visitor_NN ._. 
+"_'' Do_VBP you_PRP remember_VBP that_DT part_NN in_IN the_DT Bible_NNP where_WRB it_PRP rained_VBD for_IN 40_CD days_NNS and_CC 40_CD nights_NNS ?_. "_'' 
+The_DT visitor_NN replied_VBD ,_, "_'' Yes_UH ,_, I_PRP 'm_VBP familiar_JJ with_IN the_DT account_NN of_IN Noah_NNP 's_POS flood_NN ._. "_'' 
+"_'' Well_RB ,_, "_'' the_DT rancher_NN drawled_JJ ,_, "_'' we_PRP got_VBD nearly_RB half_PDT an_DT inch_NN that_DT year_NN ._. "_'' 
+
+Entrepreneur_NNP A_DT newsboy_NN was_VBD standing_VBG on_IN the_DT corner_NN with_IN a_DT his_PRP$ papers_NNS ,_, yelling_VBG ,_, "_'' Read_NNP all_DT about_IN it_PRP ._. 
+Fifty_NNP people_NNS swindled_VBN !_. 
+Fifty_NNP people_NNS swindled_VBN !_. "_'' 
+Curious_NNP ,_, a_DT man_NN walked_VBD over_IN ,_, bought_VBD a_DT paper_NN ,_, and_CC checked_VBD the_DT front_JJ page_NN ._. 
+What_WP he_PRP saw_VBD was_VBD yesterday_NN 's_POS paper_NN ._. 
+The_DT man_NN said_VBD ,_, "_'' Hey_NNP ,_, this_DT is_VBZ an_DT old_JJ paper_NN ,_, where_WRB 's_VBZ the_DT story_NN about_IN the_DT big_JJ swindle_NN ?_. "_'' 
+The_DT newsboy_NN just_RB ignored_VBD him_PRP and_CC went_VBD on_IN calling_VBG out_IN ,_, "_'' Read_NNP all_DT about_IN it_PRP ._. 
+Fifty-one_NNP people_NNS swindled_VBN !_. "_'' 
+
+On_IN the_DT Blink_NNP …._NN On_IN a_DT recent_JJ flight_NN ,_, an_DT elderly_JJ passenger_NN kept_VBD peering_VBG out_RP the_DT window_NN ._. 
+Since_IN it_PRP was_VBD totally_RB dark_JJ ,_, all_DT she_PRP could_MD see_VB was_VBD the_DT blinking_RB wing-tip_JJ light_NN ._. 
+Finally_RB ,_, she_PRP rang_VBD for_IN the_DT flight_NN attendant_NN ._. 
+"_'' I_PRP 'm_VBP sorry_JJ to_TO bother_VB you_PRP ,_, "_'' she_PRP said_VBD ,_, "_'' but_CC I_PRP think_VBP you_PRP should_MD inform_VB the_DT pilot_NN that_IN his_PRP$ left-turn_JJ indicator_NN is_VBZ on_IN and_CC has_VBZ been_VBN for_IN some_DT time_NN ._. "_'' 
+
+No_DT Bull_NNP After_IN much_JJ urging_VBG by_IN his_PRP$ wife_NN ,_, Uncle_NNP Joe_NNP applied_VBD for_IN work_NN on_IN a_DT farm_NN ._. 
+The_DT foreman_NN decided_VBD to_TO give_VB him_PRP a_DT try_NN and_CC sent_VBD him_PRP to_TO milk_VB a_DT cow_NN ,_, equipping_VBG him_PRP with_IN a_DT stool_NN and_CC a_DT bucket_NN ._. 
+An_DT hour_NN later_RB Uncle_NNP Joe_NNP returned_VBD dirty_JJ and_CC sweaty_JJ ,_, the_DT bucket_NN in_IN one_CD hand_NN and_CC the_DT broken_JJ stool_NN in_IN the_DT other_JJ ._. 
+"_'' Extracting_NNP the_DT milk_NN was_VBD easy_JJ ,_, "_'' he_PRP explained_VBD ._. 
+"_'' The_DT hard_JJ part_NN was_VBD getting_VBG the_DT cow_NN to_TO sit_VB down_RB on_IN that_DT darn_NN stool_NN !_. "_'' 
+
+Universal_NNP Truth_NNP There_EX is_VBZ a_DT theory_NN which_WDT states_NNS that_IN if_IN anyone_NN ever_RB discovers_VBZ exactly_RB what_WP the_DT Universe_NNP is_VBZ for_IN and_CC why_WRB it_PRP is_VBZ here_RB ,_, it_PRP will_MD instantly_RB disappear_VB and_CC be_VB replaced_VBN by_IN something_NN even_RB more_RBR bizarre_JJ and_CC inexplicable_JJ ._. 
+Then_RB there_EX is_VBZ a_DT second_JJ theory_NN ,_, which_WDT postulates_NNS that_IN this_DT has_VBZ already_RB happened_VBN ._. 
+
+Bumper_NNP Sticker_NNP "_'' Metaphors_NNP be_VB with_IN you_PRP ._. "_'' 
+
+Ergo_NNP ……._NN It_PRP 's_VBZ October_NNP ,_, and_CC an_DT Indian_JJ chief_JJ thinks_VBZ it_PRP 's_VBZ going_VBG to_TO be_VB a_DT cold_JJ winter_NN ._. 
+So_IN he_PRP instructs_VBZ his_PRP$ tribe_NN to_TO collect_VB firewood_NN ._. 
+To_TO double-check_JJ his_PRP$ prediction_NN ,_, the_DT chief_JJ calls_VBZ the_DT National_NNP Weather_NNP Service_NNP and_CC asks_VBZ a_DT meteorologist_NN if_IN the_DT winter_NN is_VBZ going_VBG to_TO be_VB a_DT cold_JJ one_CD ._. 
+The_DT man_NN responds_VBZ ,_, "_'' According_VBG to_TO our_PRP$ indicators_NNS ,_, we_PRP think_VBP it_PRP might_MD ._. "_'' 
+So_IN the_DT chief_JJ tells_VBZ his_PRP$ people_NNS to_TO find_VB extra_JJ wood_NN ,_, just_RB in_IN case_NN ._. 
+A_DT week_NN later_RB he_PRP calls_VBZ the_DT National_NNP Weather_NNP Service_NNP again_RB ,_, and_CC they_PRP confirm_VBP that_IN a_DT harsh_JJ winter_NN is_VBZ headed_VBN their_PRP$ way_NN ._. 
+The_DT chief_NN orders_NNS all_DT of_IN his_PRP$ people_NNS to_TO scavenge_NN every_DT scrap_NN of_IN wood_NN they_PRP can_MD ._. 
+Two_CD weeks_NNS later_RB he_PRP calls_VBZ the_DT National_NNP Weather_NNP Service_NNP again_RB and_CC asks_VBZ ,_, "_'' Are_VBP you_PRP absolutely_RB sure_JJ this_DT winter_NN is_VBZ going_VBG to_TO be_VB very_RB cold_JJ ?_. "_'' 
+"_'' Absolutely_RB ,_, "_'' the_DT man_NN replies_VBZ ._. 
+"_'' The_DT Indians_NNPS are_VBP collecting_VBG wood_NN like_IN crazy_JJ ._. "_'' 
+
+Plain_NNP truth_NN ._. "_'' The_DT child_NN had_VBD his_PRP$ mother_NN 's_POS eyes_NNS ,_, his_PRP$ mother_NN 's_POS nose_NN and_CC his_PRP$ mother_NN 's_POS mouth_NN ._. 
+Which_WDT ,_, when_WRB you_PRP think_VBP about_IN it_PRP ,_, probably_RB left_VBD the_DT mother_NN looking_VBG quite_RB blank_JJ "_'' ._. 
+(_( according_VBG to_TO Robert_NNP Benchley_NNP )_) 
+
+Final_NNP Analysis_NNP When_WRB weeding_VBG ,_, the_DT best_JJS way_NN to_TO make_VB quite_RB that_IN sure_JJ you_PRP are_VBP removing_VBG a_DT weed_NN and_CC not_RB a_DT valuable_JJ plant_NN ,_, is_VBZ to_TO pull_VB on_IN it_PRP ._. 
+If_IN it_PRP comes_VBZ out_IN of_IN the_DT ground_NN easily_RB ,_, it_PRP was_VBD not_RB a_DT weed_NN ._. 
+
+Quotes_NNP …._. "_'' I_PRP understand_VBP life_NN is_VBZ n't_RB fair_JJ ,_, but_CC why_WRB could_MD n't_RB it_PRP just_RB once_RB be_VB unfair_JJ in_IN my_PRP$ favor_NN ?_. "_'' 
+(_( Christy_NNP Murphy_NNP )_) The_DT pen_NN is_VBZ mightier_NN than_IN the_DT sword_NN ,_, and_CC considerably_RB easier_JJR to_TO write_VB with_IN ._. "_'' 
+(_( Marty_NNP Feldman_NNP )_) 
+
+Well_RB ,_, well_RB ……._. A_DT couple_NN is_VBZ taking_VBG a_DT stroll_VB in_IN a_DT lovely_JJ meadow_NN when_WRB they_PRP come_VBP upon_IN a_DT wishing_VBG well_RB ._. 
+The_DT woman_NN leans_VBZ over_IN ,_, makes_VBZ a_DT wish_NN ,_, and_CC throws_VBZ in_IN a_DT quarter_NN ._. 
+Her_PRP$ husband_NN decides_VBZ he_PRP wants_VBZ to_TO make_VB a_DT wish_NN ,_, also_RB ._. 
+Unfortunately_RB ,_, he_PRP leans_VBZ over_IN too_RB far_RB ,_, falls_VBZ down_RB into_IN the_DT well_NN ._. 
+The_DT woman_NN stands_VBZ there_RB shaken_VBN for_IN a_DT moment_NN ,_, and_CC then_RB exclaims_VBZ ,_, "_'' Wow_UH ,_, it_PRP WORKS_NNP !_. "_'' 
+
+A_DT Fine_NNP Story_NNP ….._NN Here_RB is_VBZ a_DT supposedly_RB true_JJ story_NN someone_NN found_VBD regarding_VBG exams_NNS at_IN Cambridge_NNP University_NNP ._. 
+It_PRP seems_VBZ that_IN during_IN an_DT examination_NN one_CD day_NN a_DT bright_JJ young_JJ student_NN popped_JJ up_RB and_CC asked_VBD the_DT proctor_NN to_TO bring_VB him_PRP Cakes_NNP and_CC Ale_NNP ._. 
+The_DT following_VBG dialog_NN ensued_VBD :_: Proctor_NNP :_: I_PRP beg_VB your_PRP$ pardon_NN ?_. 
+Student_NNP :_: Sir_NNP ,_, I_PRP request_VBP that_IN you_PRP bring_VBP me_PRP Cakes_NNP and_CC Ale_NNP ._. 
+Proctor_NNP :_: Sorry_JJ ,_, no_UH ._. 
+Student_NNP :_: Sir_NNP ,_, I_PRP really_RB must_MD insist_VB ._. 
+I_PRP request_VBP and_CC require_VB that_IN you_PRP bring_VBP me_PRP Cakes_NNP and_CC Ale_NNP ._. 
+At_IN this_DT point_NN ,_, the_DT student_NN produced_VBD a_DT copy_NN of_IN the_DT four_CD hundred_CD year_NN old_JJ Laws_NNP of_IN Cambridge_NNP ,_, written_VBN in_IN Latin_NNP and_CC still_RB nominally_RB in_IN effect_NN ,_, and_CC pointed_VBD to_TO the_DT section_NN which_WDT read_VBP (_( roughly_RB translated_VBN )_) :_: "_'' Gentlemen_NNP sitting_VBG examinations_NNS may_MD request_VB and_CC require_VB Cakes_NNP and_CC Ale_NNP ._. "_'' 
+Pepsi_NNP and_CC hamburgers_NNS were_VBD judged_VBN the_DT modern_JJ equivalent_NN ,_, and_CC the_DT student_NN sat_VBD there_RB ,_, writing_VBG his_PRP$ examination_NN and_CC happily_RB slurping_VBG away_RB ._. 
+Three_CD weeks_NNS later_RB ,_, the_DT same_JJ student_NN was_VBD fined_VBN five_CD pounds_NNS for_IN not_RB wearing_VBG a_DT sword_NN to_TO the_DT examination_NN ._. 
+
+Off_IN Key_NNP …._. Two_CD keys_NNS hang_VBP in_IN the_DT undertaker_NN 's_POS office_NN -_: one_CD for_IN the_DT organ_NN in_IN the_DT chapel_NN ;_: the_DT other_JJ for_IN one_CD of_IN the_DT vehicles_NNS in_IN the_DT garage_NN ._. 
+Two_CD small_JJ signs_NNS above_IN the_DT keys_NNS read_VBP "_'' Hymns_NNP "_'' and_CC "_'' Hearse_NNP ._. "_'' 
+
+Great_NNP Shape_NNP You_PRP 're_VBP in_IN incredible_JJ shape_NN ,_, "_'' the_DT doctor_NN said_VBD ._. 
+"_'' How_WRB old_JJ are_VBP you_PRP again_RB ?_. "_'' 
+"_'' I_PRP am_VBP 78_CD ._. "_'' 
+The_DT man_NN said_VBD ._. 
+"_'' 78_CD !_. "_'' replied_VBD the_DT doctor_NN ._. 
+"_'' How_WRB do_VBP you_PRP stay_VBP so_RB healthy_JJ ?_. 
+You_PRP look_VBP like_IN a_DT 60_CD -_: year-old_JJ ._. "_'' 
+"_'' Well_RB ,_, my_PRP$ wife_NN and_CC I_PRP made_VBD a_DT pact_NN when_WRB we_PRP got_VBD married_VBN that_IN whenever_WRB she_PRP got_VBD mad_JJ she_PRP would_MD go_VB into_IN the_DT kitchen_NN and_CC cool_VB off_RP and_CC I_PRP would_MD go_VB outside_IN for_IN a_DT walk_NN to_TO settle_VB down_RB ._. "_'' 
+the_DT man_NN explained_VBD ._. 
+"_'' What_WP does_VBZ that_WDT have_VB to_TO do_VB with_IN it_PRP ?_. "_'' 
+asked_VBD the_DT doctor_NN ._. 
+"_'' Well_RB ,_, I_PRP 've_VBP lived_VBN pretty_RB much_RB of_IN an_DT outdoor_JJ life_NN ._. "_'' 
+
+Factor_NN X_NNP Noah_NNP opens_VBZ up_RP the_DT great_JJ front_JJ doors_NNS on_IN the_DT ark_NN and_CC let_VB all_PDT the_DT animals_NNS out_IN ,_, telling_VBG them_PRP to_TO "_'' Go_VB forth_RB and_CC multiply_VB ._. "_'' 
+He_PRP 's_VBZ closing_NN them_PRP again_RB when_WRB he_PRP notices_NNS that_IN there_EX are_VBP two_CD snakes_NNS still_RB sitting_VBG in_IN a_DT dark_JJ corner_NN ._. 
+So_IN he_PRP says_VBZ to_TO them_PRP ,_, "_'' Did_VBD n't_RB you_PRP hear_VBP me_PRP ?_. 
+You_PRP can_MD go_VB now_RB ._. 
+Go_VB forth_RB and_CC multiply_VB ._. "_'' 
+"_'' Well_RB ,_, that_DT 's_VBZ just_RB it_PRP ,_, you_PRP see_VBP Mr_NNP Noah_NNP "_'' ,_, said_VBD the_DT snakes_NNS ,_, "_'' We_PRP ca_MD n't_RB ,_, because_IN we_PRP 're_VBP adders_NNS ._. "_'' 
+
+Perfectly_NNP Reasonable_JJ Observations_NNP :_: If_IN your_PRP$ parents_NNS never_RB had_VBD children_NNS ,_, chances_NNS are_VBP ..._... neither_DT will_MD you_PRP ._. 
+~_NN Dick_NNP Cavett_NNP My_PRP$ kids_NNS never_RB understood_VBN logic_NN ._. 
+Both_DT of_IN them_PRP failed_VBD to_TO see_VB why_WRB they_PRP had_VBD to_TO go_VB to_TO bed_NN when_WRB I_PRP was_VBD tired_JJ ._. 
+"_'' One_CD thing_NN about_IN the_DT speed_NN of_IN light_NN ..._... it_PRP gets_VBZ here_RB too_RB early_RB in_IN the_DT morning_NN ._. "_'' 
+-_: Unknown_JJ My_PRP$ therapist_NN told_VBD me_PRP the_DT way_NN to_TO achieve_VB true_JJ inner_JJ peace_NN is_VBZ to_TO finish_VB what_WP I_PRP start_VBP ._. 
+So_RB far_RB today_NN I_PRP have_VBP finished_VBN one_CD hamburger_NN ,_, a_DT cheese_NN pizza_NN and_CC 2_CD bags_NNS of_IN chips_NNS ._. 
+
+I_PRP feel_VBP better_RBR already_RB ._. "_'' Never_RB try_VB to_TO teach_VB a_DT pig_NN to_TO sing_VB ._. 
+It_PRP wastes_VBZ your_PRP$ time_NN and_CC it_PRP annoys_NNS the_DT pig_NN ._. "_'' 
+
+PREGNANCY_NNP Q_NNP &_CC A_DT Q_NNP :_: Should_MD I_PRP have_VB a_DT baby_NN after_IN 35_CD ?_. 
+A_DT :_: No_DT ,_, 35_CD children_NNS is_VBZ enough_RB ._. 
+Q_NNP :_: I_PRP 'm_VBP two_CD months_NNS pregnant_JJ now_RB ._. 
+When_WRB will_MD my_PRP$ baby_NN move_NN ?_. 
+A_DT :_: With_IN any_DT luck_NN ,_, right_NN after_IN he_PRP finishes_VBZ college_NN ._. 
+Q_NNP :_: What_WP is_VBZ the_DT most_RBS common_JJ pregnancy_NN craving_NN ?_. 
+A_DT :_: For_IN men_NNS to_TO be_VB the_DT ones_NNS who_WP get_VBP pregnant_JJ ._. 
+Q_NNP :_: What_WP is_VBZ the_DT most_RBS reliable_JJ method_NN to_TO determine_VB a_DT baby_NN 's_POS sex_NN ?_. 
+A_DT :_: Childbirth_NNP ._. 
+Q_NNP :_: The_DT more_RBR pregnant_JJ I_PRP get_VBP ,_, the_DT more_RBR often_RB strangers_NNS smile_VBP at_IN me_PRP ._. 
+Why_WRB ?_. 
+A_DT :_: 'Cause_IN you_PRP 're_VBP fatter_JJR than_IN they_PRP are_VBP ._. 
+Q_NNP :_: My_PRP$ wife_NN is_VBZ five_CD months_NNS pregnant_JJ and_CC so_RB moody_NN that_IN sometimes_RB she_PRP 's_VBZ borderline_NN irrational_JJ ._. 
+A_DT :_: So_RB what_WP 's_VBZ your_PRP$ question_NN ?_. 
+Q_NNP :_: My_PRP$ childbirth_NN instructor_NN says_VBZ it_PRP 's_VBZ not_RB pain_NN I_PRP 'll_MD feel_VB during_IN labor_NN ,_, but_CC pressure_NN ._. 
+Is_VBZ she_PRP right_NN ?_. 
+A_DT :_: Yes_UH ,_, in_IN the_DT same_JJ kind_NN of_IN way_NN that_IN a_DT tornado_NN might_MD be_VB called_VBN an_DT air_NN current_JJ ._. 
+Q_NNP :_: When_WRB is_VBZ the_DT best_JJS time_NN to_TO get_VB an_DT epidural_NN ?_. 
+A_DT :_: Right_RB after_IN you_PRP find_VBP out_IN you_PRP 're_VBP pregnant_JJ ._. 
+Q_NNP :_: Is_VBZ there_EX any_DT reason_NN I_PRP have_VBP to_TO be_VB in_IN the_DT delivery_NN room_NN while_IN my_PRP$ wife_NN is_VBZ in_IN labor_NN ?_. 
+A_DT :_: Not_RB unless_IN the_DT word_NN "_'' alimony_NN "_'' means_VBZ anything_NN to_TO you_PRP ._. 
+Q_NNP :_: Is_VBZ there_EX anything_NN I_PRP should_MD avoid_VB while_IN recovering_VBG from_IN childbirth_NN ?_. 
+A_DT :_: Yes_UH ,_, pregnancy_NN ._. 
+Q_NNP :_: Do_VBP I_PRP have_VB to_TO have_VB a_DT baby_NN shower_VB ?_. 
+A_DT :_: Not_RB if_IN you_PRP change_VBP the_DT baby_NN 's_POS diaper_NN very_RB quickly_RB ._. 
+Q_NNP :_: Our_PRP$ baby_NN was_VBD born_VBN last_JJ week_NN ._. 
+When_WRB will_MD my_PRP$ wife_NN begin_VB to_TO feel_VB and_CC act_VB normal_JJ again_RB ?_. 
+A_DT :_: When_WRB the_DT kids_NNS are_VBP in_IN college_NN ._. 
+
+That_DT 's_VBZ Easy_NNP ……_. Fred_NNP and_CC Harry_NNP took_VBD their_PRP$ lunches_NNS into_IN the_DT local_JJ cafe_NN to_TO eat_VB ._. 
+"_'' Hey_NNP !_. "_'' 
+shouted_VBD the_DT proprietor_NN ._. 
+"_'' You_PRP ca_MD n't_RB eat_VB your_PRP$ own_JJ food_NN in_IN here_RB !_. "_'' 
+"_'' O_NNP -_: kay_NN ,_, "_'' said_VBD Fred_NNP ,_, and_CC they_PRP promptly_RB swapped_VBN their_PRP$ sandwiches_NNS ._. 
+
+Liquid_NNP Lunch_NNP Having_VBG arrived_VBN at_IN the_DT edge_NN of_IN the_DT river_NN ,_, the_DT fisherman_NN soon_RB realized_VBD he_PRP had_VBD forgotten_VBN to_TO bring_VB any_DT bait_NN ._. 
+Just_RB then_RB he_PRP happened_VBD to_TO see_VB a_DT little_JJ snake_NN passing_VBG by_IN who_WP had_VBD caught_VBN a_DT worm_NN ._. 
+The_DT fisherman_NN snatched_VBN up_RP the_DT snake_NN and_CC robbed_VBN him_PRP of_IN his_PRP$ worm_NN ._. 
+Feeling_VBG sorry_JJ for_IN the_DT little_JJ snake_NN with_IN no_DT lunch_NN ,_, he_PRP snatched_VBD him_PRP up_RP again_RB and_CC poured_VBD a_DT little_JJ beer_NN down_RP his_PRP$ throat_NN and_CC went_VBD about_IN his_PRP$ fishing_NN ._. 
+An_DT hour_NN or_CC so_RB later_RB the_DT fisherman_NN felt_VBD a_DT tug_NN at_IN his_PRP$ pant_NN leg_NN ._. 
+Looking_VBG down_RB ,_, he_PRP saw_VBD the_DT same_JJ little_JJ snake_NN had_VBD come_VBN back_RB with_IN three_CD more_JJR worms_NNS ._. 
+May_NNP be_VB Sung_NNP to_TO '_POS The_DT Sound_NNP of_IN Music_NNP '_POS ._. 
+DOH_NNP RE_NNP MI_NNP BEER_NN ,_, by_IN Homer_NNP J._NN Simpson_NNP ._. 
+DOUGH_NNP ..._... the_DT stuff_NN ..._... that_WDT buys_VBZ me_PRP beer_NN ..._... 
+RAY_NNP ....._. the_DT guy_NN that_WDT sells_VBZ me_PRP beer_NN ..._... 
+ME_NNP ......_. the_DT guy_NN ..._... who_WP drinks_NNS the_DT beer_NN ,_, FAR_RB ....._. the_DT distance_NN to_TO my_PRP$ beer_NN 
+SO_NNP ......_. I_PRP think_VBP I_PRP 'll_MD have_VB a_DT beer_NN ..._... 
+LA_NNP ......_. La_NNP la_FW la_FW la_FW la_FW la_FW beer_NN 
+TEA_NNP ....._. no_DT thanks_NNS ,_, I_PRP 'm_VBP drinking_NN beer_NN ..._... 
+That_DT will_MD bring_VB us_PRP back_RB to_TO ..._... 
+(_( Looks_NNP into_IN an_DT empty_JJ glass_NN )_) 
+D_NNP '_POS OH_NNP !_. 
+
+You_PRP 've_VBP got_VBN to_TO be_VB quick_JJ …._. "_'' My_PRP$ mother_NN buried_VBD three_CD husbands_NNS ,_, and_CC two_CD of_IN them_PRP were_VBD just_RB napping_VBG ._. "_'' 
+--_: Rita_NNP Rudner_NNP 
+
+Dusty_NNP Answer_NNP …_NN "_'' The_DT day_NN I_PRP worry_VBP about_IN cleaning_VBG my_PRP$ house_NN is_VBZ the_DT day_NN they_PRP come_VBP out_IN with_IN a_NNP '_POS ride_NN on_IN '_POS vacuum_NN cleaner_JJR ._. "_'' 
+
+The_DT Thief_NN A_DT man_NN was_VBD in_IN the_DT habit_NN of_IN carrying_VBG an_DT umbrella_NN wherever_WRB he_PRP went_VBD ._. 
+Unfortunately_RB he_PRP broke_VBD his_PRP$ last_JJ good_JJ one_CD ._. 
+Looking_VBG at_IN the_DT six_CD useless_JJ umbrellas_NNS in_IN his_PRP$ umbrella_NN stand_NN he_PRP decided_VBD to_TO take_VB them_PRP all_DT in_IN and_CC have_VBP them_PRP repaired_VBD ._. 
+On_IN the_DT bus_NN on_IN the_DT way_NN home_NN he_PRP picked_VBD up_RP the_DT umbrella_NN of_IN the_DT woman_NN sitting_VBG next_JJ to_TO him_PRP ,_, purely_RB out_IN of_IN habit_NN ._. 
+She_PRP immediately_RB cried_JJ ,_, "_'' Stop_NNP ,_, thief_NN !_. "_'' 
+and_CC he_PRP surrendered_VBD the_DT umbrella_NN and_CC got_VBD off_IN the_DT bus_NN much_JJ embarrassed_JJ ._. 
+The_DT next_JJ week_NN he_PRP went_VBD to_TO pick_VB up_RP his_PRP$ merchandise_NN and_CC when_WRB he_PRP got_VBD on_IN the_DT bus_NN with_IN the_DT six_CD umbrellas_NNS under_IN his_PRP$ arm_NN he_PRP just_RB so_RB happened_VBD to_TO sit_VB next_JJ to_TO the_DT very_RB same_JJ woman_NN ._. 
+She_PRP gave_VBD him_PRP an_DT icy_NN stare_VBP and_CC said_VBN ,_, "_'' Had_VBD a_DT good_JJ day_NN ,_, huh_NN ?_. "_'' 
+
+Second_NNP Opinion_NNP …._. A_DT man_NN brought_VBD a_DT very_RB limp_JJ dog_NN into_IN the_DT veterinary_JJ clinic_NN ._. 
+As_IN he_PRP lay_VBP the_DT dog_NN on_IN the_DT table_NN ,_, the_DT doctor_NN pulled_VBD out_RP his_PRP$ stethoscope_NN ,_, placing_VBG the_DT receptor_NN on_IN the_DT dog_NN 's_POS chest_NN ._. 
+After_IN a_DT moment_NN or_CC two_CD ,_, the_DT vet_NN shook_VBD his_PRP$ head_NN sadly_RB and_CC said_VBD ,_, "_'' I_PRP 'm_VBP sorry_JJ ,_, but_CC your_PRP$ dog_NN has_VBZ passed_VBN away_RB "_'' ._. 
+"_'' What_WP ?_. "_'' 
+,_, screamed_VBD the_DT man_NN ,_, "_'' How_WRB can_MD you_PRP tell_VB ?_. 
+You_PRP have_VBP n't_RB done_VBN any_DT testing_NN on_IN him_PRP or_CC anything_NN ._. 
+I_PRP want_VBP another_DT opinion_NN !_. "_'' 
+With_IN that_DT ,_, the_DT vet_NN turned_VBD and_CC left_VBD the_DT room_NN ._. 
+In_IN a_DT few_JJ moments_NNS ,_, he_PRP returned_VBD with_IN a_DT Labrador_NNP Retriever_NNP ._. 
+The_DT Retriever_NNP went_VBD right_NN to_TO work_VB ,_, checking_VBG the_DT poor_JJ dead_JJ dog_NN out_IN thoroughly_RB ._. 
+After_IN a_DT considerable_JJ amount_NN of_IN sniffing_VBG ,_, The_DT Retriever_NNP sadly_RB shook_VBD its_PRP$ head_NN and_CC barked_JJ ._. 
+The_DT veterinarian_NN then_RB took_VBD the_DT Labrador_NNP out_IN and_CC returned_VBD in_IN a_DT few_JJ moments_NNS with_IN a_DT cat_NN ,_, who_WP also_RB checked_VBN out_RP the_DT poor_JJ dog_NN on_IN the_DT table_NN ._. 
+As_IN had_VBD its_PRP$ predecessors_NNS ,_, the_DT cat_NN sadly_RB shook_VBD its_PRP$ head_NN and_CC meowed_JJ ._. 
+It_PRP then_RB jumped_VBD off_IN the_DT table_NN and_CC ran_VBD out_IN of_IN the_DT room_NN ._. 
+The_DT veterinarian_NN handed_VBD the_DT man_NN a_DT bill_NN for_IN 600_CD dollars_NNS ._. 
+The_DT dog_NN 's_POS owner_NN went_VBD berserk_NN ._. 
+"_'' 600_CD dollars_NNS !_. 
+Just_RB to_TO tell_VB me_PRP my_PRP$ dog_NN is_VBZ dead_VBN ?_. 
+This_DT is_VBZ outrageous_JJ !_. "_'' 
+The_DT vet_NN shook_VBD his_PRP$ head_NN sadly_RB and_CC explained_VBD ._. 
+"_'' If_IN you_PRP had_VBD taken_VBN my_PRP$ word_NN or_CC it_PRP ,_, it_PRP would_MD have_VB been_VBN 50_CD dollars_NNS ,_, but_CC you_PRP insisted_VBD on_IN the_DT Lab_NNP report_NN and_CC the_DT Cat_NNP scan_VB ....._. "_'' 
+
+Same_JJ on_IN the_DT other_JJ side_NN ,_, but_CC different_JJ ._. A_DT Tibetan_NNP housewife_NN smelled_VBD something_NN burning_NN in_IN the_DT kitchen_NN ._. 
+When_WRB she_PRP rushed_VBD in_IN and_CC saw_VBD smoke_NN pouring_VBG out_IN of_IN the_DT oven_NN she_PRP cried_JJ out_IN ,_, "_'' Oh_UH ,_, my_PRP$ baking_VBG yak_NN !_. "_'' 
+
+A_DT Line_NNP Joke_NNP "_'' According_VBG to_TO a_DT recent_JJ report_NN ,_, this_DT years_NNS airline_NN passengers_NNS have_VBP been_VBN subject_JJ to_TO longer_JJR delays_NNS and_CC ruder_NN service_NN than_IN ever_RB before_RB ._. 
+When_WRB interviewed_VBN about_IN this_DT ,_, a_DT spokesperson_NN for_IN the_DT airlines_NNS said_VBD ,_, '_'' Shut_NNP up_RB and_CC get_VB back_RB in_IN line_NN !_. '_POS 
+--_: Conan_NNP O_NNP '_POS Brien_NNP The_DT Price_NNP of_IN Fame_NNP ….._. 
+The_DT doctor_NN took_VBD his_PRP$ patient_NN into_IN a_DT room_NN and_CC said_VBD ,_, "_'' I_PRP have_VBP some_DT good_JJ news_NN and_CC some_DT bad_JJ news_NN ._. "_'' 
+The_DT patient_NN said_VBD ,_, "_'' Please_VB give_VB me_PRP the_DT good_JJ news_NN first_RB ._. "_'' 
+"_'' They_PRP 're_VBP going_VBG to_TO name_VB a_DT disease_NN after_IN you_PRP ._. "_'' 
+
+Today_NN 's_POS Joke_NNP -_: Q._NN What_WP 's_VBZ black_JJ and_CC blue_JJ ,_, and_CC floats_VBZ in_IN the_DT Irish_JJ sea_NN ?_. 
+A._NN The_DT Englishman_NNP who_WP told_VBD one_CD too_RB many_JJ Irish_NNP Jokes_NNP ........._. 
+
+A_DT classic_JJ tale_NN ._. This_DT is_VBZ a_DT bricklayer_NN 's_POS accident_NN report_NN ,_, which_WDT was_VBD printed_VBN in_IN the_DT newsletter_NN of_IN the_DT British_JJ equivalent_NN of_IN the_DT Workers_NNPS '_POS Compensation_NNP Board_NNP ._. 
+This_DT is_VBZ the_DT true_JJ story_NN ._. 
+Had_VBD this_DT guy_NN died_VBD ,_, he_PRP 'd_MD have_VB received_VBN a_DT Darwin_NNP Award_NNP for_IN sure_JJ ..._... 
+
+Dear_RB Sir_NNP I_PRP am_VBP writing_VBG in_IN response_NN to_TO your_PRP$ request_NN for_IN additional_JJ information_NN in_IN Block_NNP 3_CD of_IN the_DT accident_NN report_NN form_NN ._. 
+I_PRP put_VBP "_'' Poor_NNP planning_NN "_'' as_IN the_DT cause_NN of_IN my_PRP$ accident_NN ._. 
+You_PRP asked_VBD for_IN a_DT fuller_JJR explanation_NN and_CC I_PRP trust_VBP the_DT following_VBG details_NNS will_MD be_VB sufficient_JJ ._. 
+am_VBP a_DT bricklayer_NN by_IN trade_NN ._. 
+On_IN the_DT day_NN of_IN the_DT accident_NN ,_, I_PRP was_VBD working_VBG alone_RB on_IN the_DT roof_NN of_IN a_DT new_JJ six-storey_JJ building_NN ._. 
+When_WRB I_PRP completed_VBD my_PRP$ work_NN ,_, I_PRP found_VBD I_PRP had_VBD some_DT bricks_NNS left_VBN over_IN ,_, which_WDT ,_, when_WRB weighed_VBD later_RB ,_, were_VBD found_VBN to_TO be_VB slightly_RB in_IN excess_NN of_IN 500_CD lbs._NN 
+Rather_RB than_IN carry_VB the_DT bricks_NNS down_RB by_IN hand_NN ,_, I_PRP decided_VBD to_TO lower_JJR them_PRP in_IN a_DT barrel_NN by_IN using_VBG a_DT pulley_NN ,_, which_WDT was_VBD attached_VBN to_TO the_DT side_NN of_IN the_DT building_NN on_IN the_DT sixth_JJ floor_NN ._. 
+Securing_NNP the_DT rope_NN at_IN ground_NN level_NN ,_, I_PRP went_VBD up_IN to_TO the_DT roof_NN ,_, I_PRP swung_VBD the_DT barrel_NN out_IN and_CC loaded_VBD the_DT bricks_NNS into_IN it_PRP ._. 
+Then_RB I_PRP went_VBD down_RB and_CC untied_JJ the_DT rope_NN ,_, holding_VBG it_PRP tightly_RB to_TO ensure_VB a_DT slow_JJ descent_NN of_IN the_DT bricks_NNS ._. 
+You_PRP will_MD note_VB in_IN Block_NNP 11_CD of_IN the_DT accident_NN report_NN form_NN that_IN I_PRP weigh_VBP 135_CD lbs._NN 
+Due_JJ to_TO my_PRP$ surprise_NN at_IN being_VBG jerked_VBN off_IN the_DT ground_NN so_RB suddenly_RB ,_, I_PRP lost_VBD my_PRP$ presence_NN of_IN mind_NN and_CC forgot_VBN to_TO let_VB go_NN of_IN the_DT rope_NN ._. 
+Needless_JJ to_TO say_VB ,_, I_PRP proceeded_VBD at_IN a_DT rapid_JJ rate_NN up_RP the_DT side_NN of_IN the_DT building_NN ._. 
+In_IN the_DT vicinity_NN of_IN the_DT third_JJ floor_NN ,_, I_PRP met_VBD the_DT barrel_NN which_WDT was_VBD now_RB proceeding_VBG downward_JJ at_IN an_DT equally_RB impressive_JJ speed_NN ._. 
+This_DT explains_VBZ the_DT fractured_JJ skull_NN ,_, minor_JJ abrasions_NNS and_CC the_DT broken_JJ collarbone_NN ,_, as_IN listed_VBN in_IN Section_NN 3_CD of_IN the_DT accident_NN report_NN form_NN ._. 
+Slowed_NNP only_RB slightly_RB ,_, I_PRP continued_VBD my_PRP$ rapid_JJ ascent_NN ,_, not_RB stopping_VBG until_IN the_DT fingers_NNS of_IN my_PRP$ right_JJ hand_NN were_VBD two_CD knuckles_NNS deep_JJ into_IN the_DT pulley_NN ._. 
+Fortunately_RB by_IN this_DT time_NN I_PRP had_VBD regained_VBN my_PRP$ presence_NN of_IN mind_NN and_CC was_VBD able_JJ to_TO hold_VB tightly_RB to_TO the_DT rope_NN ,_, in_IN spite_NN of_IN the_DT excruciating_VBG pain_NN I_PRP was_VBD now_RB beginning_VBG to_TO experience_VB ._. 
+At_IN approximately_RB the_DT same_JJ time_NN ,_, however_RB ,_, the_DT barrel_NN of_IN bricks_NNS hit_VBD the_DT ground_NN and_CC the_DT bottom_NN fell_VBD out_IN of_IN the_DT barrel_NN ._. 
+Now_RB devoid_JJ of_IN the_DT weight_NN of_IN the_DT bricks_NNS ,_, that_DT barrel_NN weighed_VBD approximately_RB 50_CD lbs._NN 
+I_PRP refer_VBP you_PRP again_RB to_TO my_PRP$ weight_NN ._. 
+As_IN you_PRP might_MD imagine_VB ,_, I_PRP began_VBD a_DT rapid_JJ descent_NN ,_, down_RP the_DT side_NN of_IN the_DT building_NN ._. 
+In_IN the_DT vicinity_NN of_IN the_DT third_JJ floor_NN ,_, I_PRP met_VBD the_DT barrel_NN coming_VBG up_RP ._. 
+This_DT accounts_NNS for_IN the_DT two_CD fractured_JJ ankles_NNS ,_, broken_VBN tooth_NN and_CC severe_JJ lacerations_NNS of_IN my_PRP$ legs_NNS and_CC lower_JJR body_NN ._. 
+Here_RB my_PRP$ luck_NN began_VBD to_TO change_VB slightly_RB ._. 
+The_DT encounter_NN with_IN the_DT barrel_NN seemed_VBD to_TO slow_VB me_PRP enough_RB to_TO lessen_VB my_PRP$ injuries_NNS when_WRB I_PRP fell_VBD into_IN the_DT pile_NN of_IN bricks_NNS and_CC fortunately_RB only_RB three_CD vertebrae_NN were_VBD cracked_VBN ._. 
+I_PRP am_VBP sorry_JJ to_TO report_VB ,_, however_RB ,_, as_IN I_PRP lay_VBP there_RB on_IN the_DT pile_NN of_IN bricks_NNS ,_, in_IN pain_NN ,_, unable_JJ to_TO move_VB ,_, I_PRP again_RB lost_VBD my_PRP$ composure_NN and_CC presence_NN of_IN mind_NN and_CC let_VB go_NN of_IN the_DT rope_NN and_CC I_PRP had_VBD to_TO lay_VB there_EX watching_VBG the_DT empty_JJ barrel_NN begin_VB its_PRP$ journey_NN back_RB down_RB onto_IN me_PRP ._. 
+This_DT explains_VBZ the_DT two_CD broken_VBN legs_NNS ._. 
+I_PRP hope_VBP this_DT answers_VBZ your_PRP$ inquiry_NN ._. 
+
+Deep_JJ thoughts_NNS from_IN comedian_NN Steven_NNP Wright_NNP ......._. A_DT bus_NN station_NN is_VBZ where_WRB a_DT bus_NN stops_VBZ ._. 
+A_DT train_NN station_NN is_VBZ where_WRB a_DT Train_NNP stops_VBZ ._. 
+On_IN my_PRP$ desk_NN ,_, I_PRP have_VBP a_DT work_NN station_NN ._. 
+If_IN Fed_NNP Ex_NNP and_CC UPS_NNP were_VBD to_TO merge_VB ,_, would_MD they_PRP call_VBP it_PRP Fed_NNP UP_RP ?_. 
+If_IN quitters_NNS never_RB win_VBP ,_, and_CC winners_NNS never_RB quit_VBD ,_, what_WP fool_NN came_VBD up_RB with_IN ,_, "_'' Quit_NNP while_IN you_PRP 're_VBP ahead_RB "_'' ?_. 
+Do_VBP Lipton_NNP employees_NNS take_VBP coffee_NN breaks_NNS ?_. 
+What_WP hair_NN color_NN do_VBP they_PRP put_VBP on_IN the_DT driver_NN 's_POS licenses_NNS of_IN bald_JJ men_NNS ?_. 
+I_PRP was_VBD thinking_VBG about_IN how_WRB people_NNS seem_VBP to_TO read_VB the_DT Bible_NNP a_DT whole_JJ lot_NN more_JJR as_IN they_PRP get_VBP older_JJR ,_, then_RB it_PRP dawned_JJ on_IN me_PRP ..._... 
+they_PRP were_VBD cramming_VBG for_IN their_PRP$ finals_NNS ..._... 
+I_PRP thought_VBD about_IN how_WRB mothers_NNS feed_VBP their_PRP$ babies_NNS with_IN little_RB tiny_JJ spoons_NNS and_CC forks_NNS ,_, so_IN I_PRP wonder_VBP what_WP Chinese_JJ mothers_NNS use_VBP ._. 
+Toothpicks_NNP ?_. 
+Why_WRB do_VBP they_PRP put_VBP pictures_NNS of_IN criminals_NNS up_RB in_IN the_DT Post_NNP Office_NNP ?_. 
+What_WP are_VBP we_PRP supposed_VBD to_TO do_VB . . ._... write_VB to_TO these_DT men_NNS ?_. 
+Why_WRB do_VBP n't_RB they_PRP just_RB put_VBP their_PRP$ pictures_NNS on_IN the_DT postage_NN stamps_NNS so_IN the_DT mailmen_NNS could_MD look_VB for_IN them_PRP while_IN they_PRP delivered_VBD the_DT mail_NN ?_. 
+How_WRB much_RB deeper_JJR would_MD oceans_NNS be_VB if_IN sponges_NNS did_VBD n't_RB live_VB there_RB ?_. 
+If_IN it_PRP 's_VBZ true_JJ that_IN we_PRP are_VBP here_RB to_TO help_VB others_NNS ,_, then_RB what_WP exactly_RB are_VBP the_DT OTHERS_NNP here_RB for_RP ?_. 
+Clones_NNP are_VBP people_NNS two_CD ._. 
+If_IN you_PRP ca_MD n't_RB be_VB kind_NN ,_, at_IN least_JJS have_VBP the_DT decency_NN to_TO be_VB vague_JJ ._. 
+Ever_RB wonder_VBP what_WP the_DT speed_NN of_IN lightning_NN would_MD be_VB if_IN it_PRP did_VBD n't_RB zigzag_NN ?_. 
+I_PRP went_VBD for_IN a_DT walk_NN last_JJ night_NN and_CC my_PRP$ kids_NNS asked_VBD me_PRP how_WRB long_JJ I_PRP 'd_MD be_VB gone_VBN ._. 
+I_PRP said_VBD ,_, "_'' The_DT whole_JJ time_NN ._. "_'' 
+So_RB what_WP 's_VBZ the_DT speed_NN of_IN dark_NN ?_. 
+After_IN eating_VBG ,_, do_VBP amphibians_NNS need_VBP to_TO wait_VB an_DT hour_NN before_IN getting_VBG OUT_NNP of_IN the_DT water_NN ?_. 
+If_IN you_PRP 're_VBP sending_VBG someone_NN some_DT Styrofoam_NNP ,_, what_WP do_VBP you_PRP pack_VBP it_PRP in_RP ?_. 
+I_PRP just_RB got_VBD skylights_NNS put_VBP in_IN my_PRP$ place_NN ._. 
+The_DT people_NNS who_WP live_VBP above_IN me_PRP are_VBP furious_JJ ._. 
+Is_VBZ it_PRP true_JJ that_IN cannibals_NNS do_VBP n't_RB eat_VB clowns_NNS because_IN they_PRP taste_VBP funny_JJ ?_. 
+Is_VBZ n't_RB Disney_NNP World_NNP a_DT people_NNS trap_NN operated_VBN by_IN a_DT mouse_NN ?_. 
+Since_IN light_JJ travels_VBZ faster_RBR than_IN sound_NN ,_, is_VBZ n't_RB that_IN why_WRB some_DT people_NNS appear_VBP bright_JJ until_IN you_PRP hear_VBP them_PRP speak_VB ?_. 
+How_WRB come_VB abbreviated_JJ is_VBZ such_JJ a_DT long_JJ word_NN ?_. 
+If_IN you_PRP take_VBP an_DT Chinese_JJ person_NN ,_, close_VB his_PRP$ eyes_NNS and_CC spin_VB him_PRP around_IN several_JJ times_NNS ,_, does_VBZ he_PRP become_VBP disoriented_JJ ?_. 
+
+Deer_NNS Tracks_NNP There_EX was_VBD a_DT Mexican_JJ ,_, Indian_JJ ,_, and_CC an_DT Aggi_NNP ._. 
+They_PRP were_VBD all_DT out_IN camping_VBG ,_, when_WRB the_DT Indian_JJ said_VBD "_'' Me_PRP hungry_JJ me_PRP go_VBP find_VB food_NN ._. "_'' 
+So_IN he_PRP heads_VBZ out_RP ._. 
+Later_RB that_DT night_NN he_PRP comes_VBZ back_RB with_IN a_DT deer_NNS on_IN his_PRP$ shoulder_NN ._. 
+The_DT Mexican_JJ says_VBZ ,_, "_'' How_WRB you_PRP catch_VBP deer_NNS ?_. "_'' 
+The_DT Indian_JJ replied_VBD ,_, "_'' Me_PRP be_VB very_RB ,_, very_RB quiet_JJ ,_, Me_PRP follow_VBP tracts_NNS ,_, me_PRP shot_VBD ,_, me_PRP catch_VBP deer_NNS ._. "_'' 
+So_IN the_DT next_JJ day_NN the_DT Mexican_JJ went_VBD out_IN he_PRP also_RB returned_VBD later_RB that_DT night_NN with_IN a_DT deer_NNS on_IN his_PRP$ shoulder_NN too_RB ._. 
+The_DT Aggi_NNP said_VBD ,_, "_'' How_WRB did_VBD you_PRP catch_VBP that_IN deer_NNS ?_. "_'' 
+The_DT Mexican_JJ said_VBD ,_, "_'' Me_PRP be_VB very_RB ,_, very_RB quiet_JJ ,_, me_PRP follow_VBP tracts_NNS ,_, me_PRP shot_VBD ,_, me_PRP catch_VBP deer_NNS ._. "_'' 
+So_IN the_DT next_JJ day_NN the_DT Aggi_NNP went_VBD out_RP ._. 
+He_PRP returned_VBD the_DT following_VBG day_NN all_DT black_JJ and_CC blue_JJ ._. 
+The_DT Indian_JJ asked_VBD ,_, "_'' What_WP happen_VB ?_. "_'' 
+The_DT Aggi_NNP replied_VBD ,_, "_'' Me_PRP be_VB very_RB ,_, very_RB quiet_JJ ,_, me_PRP follow_VBP tracts_NNS ,_, me_PRP shot_VBD ,_, me_PRP get_VBP hit_VBN by_IN train_NN ..._... "_'' 
+
+My_PRP$ Goldfish_NNP Died_VBD Little_NNP Tim_NNP was_VBD in_IN the_DT garden_NN filling_VBG in_IN a_DT hole_NN when_WRB his_PRP$ neighbor_NN peered_JJ over_IN the_DT fence_NN ._. 
+Interested_NNP in_IN what_WP the_DT cheeky-faced_JJ youngster_NN was_VBD up_IN to_TO ,_, he_PRP politely_RB asked_VBD ,_, "_'' What_WP are_VBP you_PRP up_RP to_TO there_RB ,_, Tim_NNP ?_. "_'' 
+"_'' My_PRP$ goldfish_NN died_VBD ,_, "_'' replied_VBD Tim_NNP tearfully_RB ,_, without_IN looking_VBG up_RP ,_, "_'' and_CC I_PRP 've_VBP just_RB buried_VBD him_PRP ._. "_'' 
+The_DT neighbor_NN was_VBD concerned_VBN ,_, "_'' That_DT 's_VBZ an_DT awfully_RB big_JJ hole_NN for_IN a_DT goldfish_NN ,_, is_VBZ n't_RB it_PRP ?_. "_'' 
+Tim_NNP patted_JJ down_RP the_DT last_JJ heap_NN of_IN earth_NN then_RB replied_VBD ,_, "_'' That_DT 's_VBZ because_IN he_PRP 's_VBZ inside_IN your_PRP$ stupid_JJ cat_NN ._. "_'' 
+
+Ups_NNP and_CC downs_NNS A_DT man_NN is_VBZ driving_VBG up_RP a_DT steep_JJ ,_, narrow_JJ mountain_NN road_NN ._. 
+A_DT woman_NN is_VBZ driving_VBG down_RP the_DT same_JJ road_NN ._. 
+As_IN they_PRP pass_VBP each_DT other_JJ ,_, the_DT woman_NN leans_VBZ out_RP the_DT window_NN and_CC yells_VBZ ,_, "_'' PIG_NNP "_'' !_. 
+The_DT man_NN immediately_RB leans_VBZ out_RP his_PRP$ window_NN and_CC offers_VBZ a_DT suggestion_NN of_IN his_PRP$ own_JJ ._. 
+They_PRP each_DT continue_VB on_IN their_PRP$ way_NN ,_, and_CC as_IN the_DT man_NN rounds_NNS the_DT next_JJ corner_NN he_PRP slams_NNS into_IN the_DT pig_NN in_IN the_DT middle_NN of_IN the_DT road_NN ._. 
+
+Sum_NNP it_PRP up_RP this_DT way_NN …._. Why_WRB am_VBP I_PRP frowning_VBG ?_. 
+It_PRP takes_VBZ 42_CD muscles_NNS to_TO frown_NN and_CC only_RB 17_CD to_TO smile_NN and_CC I_PRP need_VBP the_DT exercise_NN !_. 
+
+How_WRB 's_VBZ That_DT Again_RB ?_. ?_. "_'' If_IN you_PRP 've_VBP enjoyed_VBN watching_VBG this_DT program_NN just_RB half_NN as_RB much_JJ as_IN we_PRP 've_VBP enjoyed_VBN doing_VBG it_PRP ,_, then_RB we_PRP 've_VBP enjoyed_VBN it_PRP twice_RB as_RB much_JJ as_IN you_PRP ._. "_'' 
+--_: Michael_NNP Palin_NNP ,_, Monty_NNP Python_NNP 's_POS Flying_NNP Circus_NNP 
+

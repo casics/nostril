@@ -1,0 +1,15 @@
+Date_NN :_: Fri_NNP ,_, 2_CD Mar_NNP 2001_CD 04:27:00_NN -_: 0800_CD (_( PST_NNP )_) From_IN :_: steven.kean@enron.com_NN Subject_NNP :_: California_NNP Power_NNP Markets_NNP Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN X-From_NNP :_: Steven_NNP J_NNP Kean_NNP X-To_NNP :_: X-cc_NNP :_: X-bcc_NNP :_: X-Folder_NNP :_: \_NN Steven_NNP __NN Kean_NNP __NN June_NNP 2001_CD __NN 1_CD \_NN Notes_NNP Folders_NNP \_NN All_DT documents_NNS X-Origin_NNP :_: KEAN-S_NNP X-FileName_NNP :_: skean_NN ._. nsf_NN -----_SYM Forwarded_NNP by_IN Steven_NNP J_NNP Kean_NNP /_NN NA_NNP /_NN Enron_NNP on_IN 03/02/2001_CD 12:27_NN PM_NNP -----_SYM 
+Suzanne_NNP __NN Nimocks@mckinsey.com_NN Sent_NNP by_IN :_: Carol_Benter@mckinsey.com_NN 03/02/2001_CD 12:04_NN PM_NNP 
+To_TO :_: skean@enron.com_NN cc_NN :_: Subject_NNP :_: California_NNP Power_NNP Markets_NNP 
+Sorry_JJ that_IN we_PRP have_VBP n't_RB talked_VBN in_IN some_DT time_NN ._. 
+I_PRP thought_VBD that_IN you_PRP would_MD want_VB to_TO take_VB a_DT look_NN at_IN some_DT analysis_NN we_PRP have_VBP recently_RB completed_VBN with_IN regard_NN to_TO the_DT California_NNP Power_NNP Crisis_NNP ._. 
+You_PRP may_MD find_VB some_DT of_IN the_DT analysis_NN to_TO be_VB helpful_JJ ._. 
+Let_VB me_PRP know_VB if_IN you_PRP have_VBP any_DT questions_NNS ._. 
+
+(_( See_VB attached_VBN file_VB :_: 10209_CD zxd_NN 414_CD ._. ppt_NN )_) 
+
++_NN -------------------------------------------------------------_SYM +_NN |_NN This_DT message_NN may_MD contain_VB confidential_JJ and_CC /_NN or_CC privileged_JJ |_NN |_NN information_NN ._. 
+If_IN you_PRP are_VBP not_RB the_DT addressee_NN or_CC authorized_VBD to_TO |_NN |_NN receive_VBP this_DT for_IN the_DT addressee_NN ,_, you_PRP must_MD not_RB use_VB ,_, copy_NN ,_, |_NN |_NN disclose_VB or_CC take_VB any_DT action_NN based_VBN on_IN this_DT message_NN or_CC any_DT |_NN |_NN information_NN herein_NN ._. 
+If_IN you_PRP have_VBP received_VBN this_DT message_NN in_IN |_NN |_NN error_NN ,_, please_VB advise_VB the_DT sender_NN immediately_RB by_IN reply_NN e-mail_JJ |_NN |_NN and_CC delete_VB this_DT message_NN ._. 
+Thank_VB you_PRP for_IN your_PRP$ cooperation_NN ._. 
+|_NN +_NN -------------------------------------------------------------_SYM +_NN -_: 10209_CD zxd414.ppt_NN 

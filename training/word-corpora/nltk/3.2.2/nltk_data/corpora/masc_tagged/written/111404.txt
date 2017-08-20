@@ -1,0 +1,13 @@
+From_IN :_: "_'' Help_VB Desk_NNP "_'' <_NN licita@itaqui.rs.gov.br_NN >_NN Subject_NNP :_: YOUR_JJ MAILBOX_NNP HAS_VBZ BEEN_NNP DE-ACTIVATED_NNP Date_NN :_: Wed_NNP ,_, 09_CD Feb_NNP 2011_CD 06:53:46_NN -_: 0200_CD To_TO :_: undisclosed-recipients_JJ :_: ;_: We_PRP are_VBP contacting_VBG you_PRP in_IN regards_VBZ to_TO an_DT unusual_JJ activity_NN that_WDT was_VBD identified_VBN in_IN your_PRP$ Mailbox_NNP ._. 
+As_IN a_DT result_NN ,_, access_NN to_TO your_PRP$ mailbox_NN has_VBZ been_VBN limited_JJ ._. 
+
+You_PRP are_VBP required_VBN verify_VB your_PRP$ mailbox_NN by_IN providing_VBG the_DT following_NN information_NN before_IN your_PRP$ mailbox_NN will_MD be_VB reactivated_VBN ;_: 
+Username_NNP :_: Password_NNP :_: E-mail_NN Address_NNP :_: 
+
+Please_VB verify_VB your_PRP$ mailbox_NN otherwise_RB due_JJ to_TO security_NN reasons_NNS we_PRP may_MD have_VB to_TO close_VB your_PRP$ mailbox_NN temporarily_RB ._. 
+
+After_IN you_PRP read_VBP a_DT message_NN ,_, it_PRP is_VBZ best_JJS to_TO REPLY_NNP and_CC SAVE_NNP a_DT copy_NN ._. 
+
+Thank_VB you_PRP for_IN your_PRP$ cooperation_NN ._. 
+
+Webmail_NNP Help_VB Desk_NNP 

@@ -1,0 +1,61 @@
+NYT20020731.0376_NN 2002-07-31_NN 23:53_NN A4931_NN &_CC Cx1_NN f_SYM ;_: ttc-z_JJ r_LS s_VBZ BC-BBA-ANGNOTE-LADN_NNP 07_CD -_- 31_CD 0711_CD BC-BBA-ANGNOTE-LADN_NNP ANGELS_NNP MAKE_VB TRADE_NN TO_TO GET_VB OUTFIELD_NNP DEPTH_NNP (_( For_IN use_NN by_IN NYTimes_NNP News_NNP Service_NNP clients_NNS )_) By_IN JOE_NNP HAAKENSON_NNP c.2002_NN San_NNP Gabriel_NNP Valley_NNP Tribune_NNP ANAHEIM_NNP ,_, Calif_NNP ._. -_- -_- The_DT Anaheim_NNP Angels_NNPS got_VBD help_VB where_WRB they_PRP felt_VBD they_PRP needed_VBD it_PRP most_JJS ,_, agreeing_VBG to_TO trade_VB for_IN Milwaukee_NNP Brewers_NNP outfielder_NN Alex_NNP Ochoa_NNP only_RB hours_NNS before_IN Wednesday_NNP 's_POS nonwaiver_NN trading_NN deadline_NN ._. 
+
+In_IN addition_NN to_TO Ochoa_NNP ,_, the_DT Angels_NNPS got_VBD minor_JJ -_- league_NN catcher_NN Sal_NNP Fasano_NNP ._. 
+In_IN return_NN ,_, the_DT Brewers_NNP got_VBD backup_NN catcher_NN Jorge_NNP Fabregas_NNP and_CC two_CD players_NNS to_TO be_VB named_VBN later_RB ._. 
+By_IN rule_NN ,_, the_DT players_NNS to_TO be_VB named_VBN later_RB cannot_NN be_VB players_NNS on_IN the_DT active_JJ major_JJ -_- league_NN _- roster_NN ._. 
+
+In_IN the_DT past_JJ week_NN ,_, the_DT Angels_NNPS deemed_VBD outfield_NN depth_NN their_PRP$ biggest_JJS need_VBP ,_, above_IN adding_VBG a_DT reliever_NN to_TO the_DT bullpen_NN ._. 
+Orlando_NNP Palmeiro_NNP was_VBD the_DT only_JJ backup_NN outfielder_NN on_IN the_DT major_JJ -_- league_NN roster_NN and_CC the_DT outfielders_NNS in_IN the_DT minor_JJ -_- league_NN system_NN are_VBP too_RB inexperienced_JJ to_TO be_VB counted_VBN on_IN in_IN a_DT pennant_NN race_NN ._. 
+
+In_IN Ochoa_NNP ,_, 30_CD ,_, the_DT Angels_NNPS get_VBP an_DT experienced_VBN major_JJ -_- league_NN outfielder_NN who_WP is_VBZ hitting_VBG .256_CD with_IN six_CD homers_NNS and_CC 21_CD RBI_NNP this_DT season_NN ._. 
+Ochoa_NNP has_VBZ played_VBN in_IN the_DT majors_NNS for_IN five_CD different_JJ teams_NNS starting_VBG in_IN 1995_CD ._. 
+His_PRP$ best_JJS season_NN came_VBD in_IN 2000_CD with_IN the_DT Reds_NNP ,_, when_WRB he_PRP hit_VBD .316_CD with_IN 13_CD homers_NNS and_CC 56_CD RBI_NNP ._. 
+Going_VBG into_IN this_DT season_NN ,_, he_PRP was_VBD a_DT career_NN .281_CD hitter_NN ._. 
+
+"_'' He_PRP gives_VBZ you_PRP a_DT lot_NN in_IN all_DT areas_NNS ,_, "_'' Angels_NNPS general_JJ manager_NN Bill_NNP Stoneman_NNP said_VBD ._. 
+"_'' He_PRP 's_VBZ a_DT good_JJ defender_NN ,_, he_PRP has_VBZ a_DT good_JJ arm_NN ,_, he_PRP plays_VBZ the_DT tough_JJ right_JJ -_- field_NN position_NN and_CC plays_VBZ it_PRP well_RB ._. 
+He_PRP 's_VBZ a_DT right_JJ -_- handed_JJ bat_NN ,_, which_WDT complements_VBZ Palmeiro_NNP off_IN the_DT bench_NN ._. 
+
+"_'' From_IN a_DT realistic_JJ standpoint_NN ,_, were_VBD we_PRP going_VBG to_TO find_VB an_DT outfielder_NN that_WDT pushed_VBD one_CD of_IN our_PRP$ outfielders_NNS to_TO the_DT bench_NN ?_. 
+The_DT answer_NN is_VBZ no_UH ._. 
+He_PRP accepts_VBZ his_PRP$ role_NN with_IN a_DT club_NN and_CC he_PRP 's_VBZ a_DT team_NN guy_NN ._. 
+He_PRP 's_VBZ got_VBD that_DT reputation_NN and_CC that_DT 's_VBZ important_JJ to_TO us_PRP ,_, especially_RB a_DT club_NN like_IN ours_PRP that_WDT is_VBZ an_DT egoless_JJ club_NN ._. "_'' 
+
+Ochoa_NNP will_MD join_VB the_DT club_NN today_NN in_IN Anaheim_NNP before_IN tonight_NN 's_POS game_NN against_IN the_DT Yankees_NNPS ._. 
+He_PRP said_VBD he_PRP 's_VBZ fine_NN with_IN his_PRP$ role_NN as_IN a_DT reserve_NN outfielder_NN and_CC pinch_NN hitter_NN ._. 
+
+"_'' I_PRP 've_VBP done_VBN that_IN a_DT lot_NN in_IN my_PRP$ career_NN ,_, "_'' Ochoa_NNP said_VBD during_IN a_DT conference_NN call_NN ._. 
+"_'' Coming_VBG in_IN ,_, they_PRP 've_VBP got_VBN three_CD great_JJ outfielders_NNS ._. I_PRP knew_VBD that_IN from_IN the_DT get_VB -_- go_VB ._. "_'' 
+
+Ochoa_NNP 's_POS new_JJ teammates_NNS were_VBD generally_RB pleased_VBN with_IN the_DT move_NN ,_, even_RB if_IN it_PRP was_VBD n't_RB a_DT blockbuster_NN ._. 
+
+"_'' It_PRP 's_VBZ not_RB the_DT big_JJ ,_, earth_NN -_- shattering_VBG stuff_NN ,_, "_'' right_JJ fielder_NN Tim_NNP Salmon_NNP said_VBD ._. 
+"_'' But_CC we_PRP did_VBD n't_RB need_VB something_NN earth_NN -_- shattering_VBG right_RB now_RB ._. 
+It_PRP did_VBD n't_RB seem_VB like_IN we_PRP had_VBD a_DT lot_NN of_IN holes_NNS to_TO fill_VB ._. 
+It_PRP 's_VBZ good_JJ ,_, it_PRP gives_VBZ us_PRP something_NN we_PRP did_VBD n't_RB have_VB and_CC we_PRP did_VBD n't_RB lose_VB much_JJ ._. "_'' 
+
+-_- -_- It_PRP 's_VBZ because_IN of_IN Molina_NNP :_: The_DT Angels_NNPS felt_VBD they_PRP could_MD part_VB with_IN Fabregas_NNP because_IN of_IN the_DT play_NN of_IN catcher_NN Jose_NNP Molina_NNP ._. 
+Molina_NNP spent_VBD all_DT season_NN at_IN Triple_NNP -_- A_NNP Salt_NNP Lake_NNP before_IN joining_VBG the_DT major_JJ -_- league_NN club_NN July_NNP 17_CD to_TO replace_VB his_PRP$ injured_VBN brother_NN ,_, Bengie_NNP ._. 
+
+Bengie_NNP is_VBZ expected_VBN to_TO be_VB activated_VBN from_IN the_DT disabled_JJ list_NN today_NN ,_, giving_VBG the_DT Angels_NNPS both_DT Molina_NNP brothers_NNS on_IN the_DT active_JJ major_JJ -_- league_NN roster_NN for_IN the_DT first_JJ time_NN ._. 
+
+"_'' I_PRP feel_VBP bad_JJ for_IN Jorge_NNP ,_, he_PRP 's_VBZ a_DT good_JJ friend_NN of_IN mine_NN ,_, "_'' Bengie_NNP said_VBD ._. 
+"_'' But_CC they_PRP liked_VBD the_DT way_NN (_( Jose_NNP )_) has_VBZ played_VBN and_CC they_PRP 're_VBP giving_VBG him_PRP a_DT chance_NN ._. 
+I_PRP 'm_VBP very_RB excited_VBN we_PRP 'll_MD be_VB on_IN the_DT same_JJ team_NN for_IN a_DT while_NN ._. "_'' 
+
+Jose_NNP went_VBD into_IN Wednesday_NNP 's_POS game_NN hitting_VBG .304_CD and_CC had_VBD thrown_VBN out_IN 33_CD percent_NN (_( two_CD of_IN six_CD )_) of_IN baserunners_NNS trying_VBG to_TO steal_VB ._. 
+Angels_NNPS pitchers_NNS had_VBD a_DT 3.33_CD ERA_NNP with_IN Jose_NNP catching_VBG ,_, better_RBR even_RB than_IN Bengie_NNP 's_POS 3.69_CD ._. 
+
+"_'' I_PRP just_RB hope_VBP they_PRP keep_VBP me_PRP here_RB ,_, "_'' Jose_NNP said_VBD ._. 
+
+Ochoa_NNP took_VBD Fabregas_NNP '_POS spot_NN in_IN the_DT roster_NN ,_, but_CC the_DT Angels_NNPS will_MD have_VB to_TO clear_VB another_DT spot_NN today_NN to_TO make_VB room_NN for_IN Bengie_NNP ._. 
+Infielder_NNP Jose_NNP Nieves_NNP is_VBZ likely_JJ to_TO be_VB sent_VBN down_RB ,_, but_CC since_IN he_PRP is_VBZ out_IN of_IN options_NNS ,_, he_PRP would_MD have_VB to_TO clear_JJ waivers_NNS before_IN he_PRP could_MD join_VB Triple_NNP -_- A_NNP Salt_NNP Lake_NNP ._. 
+
+-_- -_- Not_RB expected_VBN :_: Fabregas_NNP ,_, who_WP hit_VBD .193_CD with_IN no_DT homers_NNS and_CC eight_CD RBI_NNP in_IN 35_CD games_NNS with_IN the_DT Angels_NNPS this_DT season_NN ,_, said_VBD he_PRP was_VBD "_'' surprised_VBN and_CC shocked_VBN "_'' to_TO get_VB traded_VBN from_IN a_DT pennant_NN contender_NN to_TO a_DT team_NN 22_CD games_NNS out_IN in_IN the_DT NL_NNP Central_NNP ._. 
+
+"_'' I_PRP understand_VBP baseball_NN moves_NNS ,_, I_PRP 've_VBP been_VBN through_IN this_DT before_RB ,_, "_'' said_VBD Fabregas_NNP ,_, who_WP is_VBZ headed_VBN for_IN his_PRP$ eighth_JJ major_JJ -_- league_NN team_NN ._. 
+"_'' Obviously_RB I_PRP 'm_VBP disappointed_VBN to_TO go_VB from_IN a_DT team_NN playing_VBG for_IN first_JJ place_NN to_TO a_DT team_NN that_WDT is_VBZ n't_RB contending_VBG ._. 
+
+"_'' I_PRP felt_VBD like_IN I_PRP was_VBD a_DT big_JJ part_NN of_IN the_DT team_NN ._. I_PRP went_VBD through_IN the_DT struggles_NNS last_JJ year_NN and_CC I_PRP wanted_VBD to_TO be_VB a_DT part_NN of_IN it_PRP in_IN the_DT good_JJ times_NNS ._. "_'' 
+
+NYT-07_NN -_- 31_CD -_- 02_CD 2353_CD EDT_NNP 

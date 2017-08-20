@@ -1,0 +1,14 @@
+Travelers_NNP Corp_NNP ._. 's_POS third-quarter_JJ net_JJ income_NN rose_VBD 11_CD %_NN ,_, even_RB though_IN claims_NNS stemming_VBG from_IN Hurricane_NNP Hugo_NNP reduced_VBD results_NNS $40_NN million_CD ._. 
+
+Net_NN advanced_VBD to_TO $94.2_NN million_CD ,_, or_CC 89_CD cents_NNS a_DT share_NN ,_, from_IN $85_NN million_CD ,_, or_CC 83_CD cents_NNS a_DT share_NN ,_, including_VBG net_NN realized_VBD investment_NN gains_NNS of_IN $31_NN million_CD ,_, up_RB from_IN $10_NN million_CD a_DT year_NN ago_RB ._. 
+But_CC revenue_NN declined_VBD to_TO $3_NN billion_CD from_IN $3.2_NN billion_CD ._. 
+
+Travelers_NNP estimated_VBD that_IN the_DT California_NNP earthquake_NN last_JJ month_NN will_MD result_VB in_IN a_DT fourth_JJ -_- quarter_NN pre-tax_JJ charge_NN of_IN less_JJR than_IN $10_NN million_CD ._. 
+
+The_DT insurer_NN 's_POS earnings_NNS from_IN commercial_JJ property_NN /_NN casualty_NN lines_NNS fell_VBD 59_CD %_NN in_IN the_DT latest_JJS quarter_NN ,_, while_IN it_PRP lost_VBD $7.2_NN million_CD in_IN its_PRP$ personal_JJ property_NN /_NN casualty_NN business_NN ,_, compared_VBN with_IN earnings_NNS of_IN $6.1_NN million_CD a_DT year_NN ago_RB ._. 
+
+Travelers_NNP 's_POS employee_NN benefits_NNS group_NN ,_, which_WDT includes_VBZ its_PRP$ group_NN health_NN insurance_NN operations_NNS ,_, posted_VBD earnings_NNS of_IN $24_NN million_CD ,_, compared_VBN with_IN a_DT loss_NN of_IN $3_NN million_CD last_JJ year_NN ._. 
+
+In_IN the_DT first_JJ nine_CD months_NNS ,_, net_NN was_VBD $306_NN million_CD ,_, compared_VBN with_IN a_DT loss_NN of_IN $195_NN million_CD in_IN the_DT 1988_CD period_NN ._. 
+The_DT year_NN -_- ago_RB results_NNS included_VBD a_DT $415_NN million_CD charge_NN in_IN the_DT 1988_CD second_JJ quarter_NN for_IN underperforming_VBG real_JJ estate_NN and_CC mortgage_NN loans_NNS ._. 
+

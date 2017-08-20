@@ -1,0 +1,13 @@
+docno_NN =_SYM "_'' lists-_NN 034_CD -_: 10069772_CD "_'' name_NN =_SYM "_'' Tom_NNP Stephens_NNP "_'' email_NN =_SYM "_'' tomste@microsoft.com_NN "_'' sent_VBD =_SYM "_'' Sun_NNP ,_, 21_CD Apr_NNP 1996_CD 23:08:33_NN -_: 0700_CD "_'' subject_JJ =_SYM "_'' RE_NNP :_: Merged_NNP Transport_NNP Layer_NNP Protocol_NNP Development_NNP "_'' To_TO :_: "_'' '_' Holger.Reif@PrakInf.TU-Ilmenau.DE_NN '_' "_'' <_NN Holger.Reif@prakinf.tu-ilmenau.de_NN >_NN Cc_NNP :_: "_'' '_' tls-draft@w3.org_NN '_' "_'' <_NN tls-draft@w3.org_NN >_NN No_DT ,_, there_EX will_MD not_RB be_VB two_CD standards_NNS ._. 
+Microsoft_NNP and_CC Netscape_NNP are_VBP working_VBG with_IN the_DT IETF_NNP to_TO create_VB one_CD IETF_NNP standard_JJ which_WDT both_DT companies_NNS can_MD support_VB ._. 
+
+>_NN ----------_: >_NN From_IN :_: >_NN Holger.Reif@PrakInf.TU-Ilmenau.DE[SMTP:Holger.Reif@PrakInf.TU-Ilmenau.D_NN >_NN E_NNP ]_NN >_NN Sent_NNP :_: Sunday_NNP ,_, April_NNP 21_CD ,_, 1996_CD 11:02_NN PM_NNP >_NN To_TO :_: Tom_NNP Stephens_NNP >_NN Cc_NNP :_: tls-draft@w3.org_NN >_NN Subject_NNP :_: RE_NNP :_: Merged_NNP Transport_NNP Layer_NNP Protocol_NNP Development_NNP >_NN >_NN strawman_NN document_NN is_VBZ not_RB an_DT official_JJ IETF_NNP document_NN ._. 
+Win_NNP Treese_NNP ,_, >_NN >_NN Microsoft_NNP and_CC Netscape_NNP did_VBD not_RB want_VB this_DT document_NN to_TO be_VB confused_VBN in_IN any_DT >_NN >_NN way_NN with_IN the_DT actual_JJ spec_NN that_WDT is_VBZ being_VBG developed_VBN by_IN the_DT working_VBG group_NN ._. 
+
+>_NN I_PRP 'm_VBP yet_RB to_TO read_VB the_DT document_NN in_IN detail_NN but_CC this_DT sounds_VBZ like_IN we_PRP are_VBP >_NN going_VBG to_TO >_NN have_VBP a_DT IETF-Standard_NNP and_CC an_DT a_DT separate_JJ NS_NNP /_NN MS_NNP standard_NN ?_. ?_. ?_. 
+
+>_NN This_DT is_VBZ not_RB a_DT good_JJ thing_NN ._. 
+
+>_NN read_NN you_PRP later_RB -_: Holger_NNP Reif_NNP 
+
+>_NN ----------------------------------------_: Signaturprojekt_NNP Deutsche_NNP >_NN Einheit_NNP >_NN TU_NNP Ilmenau_NNP -_: Informatik_NNP -_: Telematik_NNP (_( Verdamp_NNP lang_NN >_NN her_PRP$ )_) >_NN Holger.Reif@PrakInf.TU-Ilmenau.DE_NN Alt_NNP wie_NN ein_NN Baum_NNP werden_NN ,_, um_UH >_NN ueber_NN >_NN http://Remus.PrakInf.TU-Ilmenau.DE/Reif/_NN alle_NN 7_CD Bruecken_NNP gehen_NN zu_NN >_NN koennen_NN 

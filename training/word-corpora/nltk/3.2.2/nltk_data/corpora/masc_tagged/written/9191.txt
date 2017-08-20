@@ -1,0 +1,12 @@
+Message-_NNP ID_NNP :_: <_NN 19542708.1075852654573_CD ._. JavaMail_NNP ._. evans_NNS @_IN thyme_NN >_NN Date_NN :_: Wed_NNP ,_, 20_CD Jun_NNP 2001_CD 12:02:00_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: kevinscott@onlinemailbox.net_NN To_TO :_: kean.steve@enron.com_NN ,_, jeff.skilling@enron.com_NN Subject_NNP :_: Public_NNP Policy_NNP Contacts_NNP for_IN California_NNP Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Jeff_NNP and_CC Steve_NNP 
+
+As_IN you_PRP requested_VBD ,_, I_PRP have_VBP prepared_VBN a_DT list_NN of_IN my_PRP$ preferred_JJ public_JJ policy_NN contacts_NNS for_IN California_NNP ._. 
+It_PRP is_VBZ composed_VBN of_IN professionals_NNS from_IN an_DT array_NN of_IN public_JJ ,_, private_JJ and_CC non-profit_JJ backgrounds_NNS ._. 
+I_PRP have_VBP worked_VBN in_IN some_DT capacity_NN with_IN each_DT of_IN these_DT people_NNS and_CC most_JJS I_PRP know_VBP quite_RB well_RB ._. 
+
+Please_VB call_NN me_PRP for_IN further_JJ background_NN ._. 
+
+Kevin_NNP 
+
+213_CD -_: 926_CD -_: 2626_CD 
+Attachment_NNP -_: Kevin_NNP Scott_NNP -_: Preferred_NNP Contacts_NNP -_: 6_CD -_: 20_CD -_: 01_CD ._. doc_NN 

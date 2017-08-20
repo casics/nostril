@@ -1,0 +1,125 @@
+United_JJ carbon_NN offset_VBD disappointment_NN April_NNP 27_CD ,_, 2009_CD 9:08_NN AM_NNP I_PRP 'm_VBP a_DT big_JJ believer_NN in_IN carbon_NN offsets_NNS (_( not_RB so_RB much_JJ the_DT cap_NN and_CC trade_NN game_NN ,_, but_CC in_IN the_DT simple_JJ internalize-your-externality-sort_JJ )_) ._. 
+I_PRP talk_VBP about_IN it_PRP in_IN my_PRP$ Green_NNP Culture_NNP talk_NN ._. 
+IMHO_NNP ,_, we_PRP all_DT have_VBP an_DT ethical_JJ obligation_NN to_TO offset_VB our_PRP$ carbon_NN footprint_NN --_: now_RB ._. 
+My_PRP$ wife_NN and_CC I_PRP have_VBP been_VBN doing_VBG so_RB for_IN a_DT couple_NN years_NNS ._. 
+We_PRP 're_VBP a_DT couple_NN months_NNS late_JJ buying_NN credits_NNS for_IN last_JJ year_NN ._. 
+
+One_CD reason_NN we_PRP 're_VBP late_JJ (_( other_JJ than_IN the_DT obvious_JJ )_) is_VBZ the_DT insane_JJ complexity_NN in_IN calculating_VBG it_PRP well_RB ._. 
+I_PRP travel_VBP way_NN too_RB much_JJ ._. 
+That_DT 's_VBZ the_DT biggest_JJS chunk_NN to_TO cover_VB ._. 
+But_CC to_TO calculate_VB it_PRP accurately_RB requires_VBZ churning_VBG through_IN a_DT pile_NN of_IN flights_NNS ._. 
+I_PRP could_MD estimate_VB ,_, no_DT doubt_NN ._. 
+But_CC I_PRP want_VBP something_NN more_RBR accurate_JJ ._. 
+
+So_IN I_PRP was_VBD really_RB happy_JJ to_TO see_VB on_IN the_DT United_NNP page_NN an_DT announcement_NN of_IN a_DT "_'' Carbon_NNP Offset_NNP Program_NNP ._. "_'' 
+What_WP I_PRP expected_VBD it_PRP to_TO be_VB was_VBD a_DT simple_JJ way_NN to_TO at_IN least_JJS know_VB what_WP the_DT total_JJ carbon_NN footprint_NN from_IN your_PRP$ flights_NNS for_IN some_DT period_NN was_VBD (_( after_IN all_DT ,_, they_PRP have_VBP all_PDT the_DT data_NN )_) ,_, and_CC ideally_RB ,_, a_DT simple_JJ way_NN to_TO buy_VB offsets_NNS ._. 
+
+No_DT such_JJ luck_NN ._. 
+United_NNP has_VBZ simple_JJ linked_VBN to_TO one_CD of_IN the_DT million_CD places_NNS where_WRB you_PRP can_MD calculate_VB a_DT per_IN flight_NN carbon_NN cost_NN ._. 
+It_PRP 
+allows_VBZ you_PRP to_TO input_NN total_JJ miles_NNS flown_VBN ,_, but_CC its_PRP$ Mileage_NNP Plus_NNP page_NN does_VBZ n't_RB give_VB you_PRP total_JJ miles_NNS flown_VBN ,_, it_PRP gives_VBZ you_PRP the_DT 
+total_NN added_VBD to_TO your_PRP$ account_NN (_( included_VBD bonuses_NNS ,_, etc._NN )_) 
+
+Looking_VBG forward_RB to_TO version_NN 2.0_CD ._. 
+
+Posted_VBN by_IN Lawrence_NNP Lessig_NNP on_IN April_NNP 27_CD ,_, 2009_CD 9:08_NN AM_NNP 
+
+Comments_NNS (_( 14_CD )_) April_NNP 27_CD ,_, 2009_CD 9:42_NN AM_NNP 
+Peter_NNP Collopy_NNP :_: Dopplr_NNP has_VBZ a_DT nice_JJ carbon_NN calculator_NN built-in_JJ ._. 
+You_PRP have_VBP to_TO enter_VB all_DT your_PRP$ trips_NNS ,_, but_CC I_PRP think_VBP it_PRP 's_VBZ generally_RB an_DT exciting_JJ system_NN if_IN you_PRP do_VBP n't_RB mind_VB the_DT Little_NNP Brother_NNP surveillance_NN ._. 
+
+April_NNP 27_CD ,_, 2009_CD 9:49_NN AM_NNP lessig_NN :_: GREAT_JJ point_NN ._. I_PRP do_VBP enter_VB all_DT mine_NN in_IN ._. 
+Perfect_NNP solution_NN ._. 
+
+April_NNP 27_CD ,_, 2009_CD 9:53_NN AM_NNP 
+Padraic_NNP :_: Why_WRB are_VBP n't_RB you_PRP a_DT supporter_NN of_IN cap_NN &_CC trade_NN ?_. 
+Is_VBZ n't_RB a_DT mandatory_JJ scheme_NN going_VBG to_TO moresuccesful_JJ than_IN voluntary_JJ measures_NNS ?_. 
+
+April_NNP 27_CD ,_, 2009_CD 10:20_NN AM_NNP lessig_NN :_: I_PRP favor_VBP a_DT mandatory_JJ scheme_NN --_: internalize_NN your_PRP$ externality_NN ._. 
+I_PRP am_VBP suspicious_JJ of_IN cap_NN &_CC trade_NN ._. 
+It_PRP seems_VBZ like_IN a_DT complicated_VBN partial_JJ version_NN of_IN that_DT ,_, created_VBN by_IN the_DT same_JJ genius_NN quants_NNS who_WP gave_VBD us_PRP the_DT mess_NN on_IN wall_NN street_NN ,_, that_WDT is_VBZ designed_VBN to_TO generate_VB large_JJ fees_NNS finance_NN types_NNS ._. 
+My_PRP$ sense_NN is_VBZ for_IN a_DT simpler_JJR system_NN ._. 
+
+April_NNP 27_CD ,_, 2009_CD 12:07_NN PM_NNP Padraic_NNP Ryan_NNP :_: Re_NNP :_: cap_NN &_CC trade_NN -_: you_PRP should_MD n't_RB use_VB the_DT financial_JJ crisis_NN as_IN an_DT excuse_NN to_TO write_VB off_RP all_DT of_IN economics_NNS ._. 
+A_DT cap_NN &_CC trade_NN system_NN worked_VBD very_RB well_RB at_IN reducing_VBG sulfur_NN dioxide_NN pollution_NN in_IN the_DT US_NNP ,_, finance_NN types_NNS and_CC all_DT ._. 
+You_PRP 're_VBP right_NN that_IN a_DT carbon_NN tax_NN is_VBZ definitely_RB simpler_JJR ,_, but_CC there_EX are_VBP upsides_NNS to_TO cap_VB &_CC trade_NN as_RB well_RB (_( such_JJ as_IN the_DT fact_NN that_IN the_DT market_NN will_MD drive_VB the_DT price_NN up_RB ,_, whereas_IN a_DT tax_NN wo_MD n't_RB increase_VB unless_IN Congress_NNP wants_VBZ it_PRP to_TO )_) ._. 
+
+Re_NNP :_: your_PRP$ green_JJ culture_NN talk_NN ,_, I_PRP think_VBP you_PRP are_VBP misappropriating_VBG the_DT Gore_NNP clip_NN :_: is_VBZ n't_RB he_PRP saying_VBG that_IN your_PRP$ money_NN would_MD be_VB better_JJR spent_VBN on_IN political_JJ candidates_NNS and_CC organizations_NNS that_WDT push_VBP for_IN mandatory_JJ internalizing_VBG of_IN externalities_NNS (_( changing_VBG the_DT laws_NNS )_) instead_RB of_IN on_IN carbon_NN offsets_NNS (_( changing_VBG the_DT lightbulbs_NNS )_) ?_. 
+My_PRP$ problem_NN with_IN carbon_NN offsets_NNS and_CC other_JJ voluntary_JJ measures_NNS is_VBZ that_WDT given_VBN the_DT finite_JJ amount_NN of_IN money_NN ,_, energy_NN and_CC attention_NN we_PRP have_VBP to_TO push_VB for_IN the_DT environment_NN ,_, I_PRP feel_VBP like_IN the_DT opportunity_NN cost_NN of_IN these_DT measures_NNS is_VBZ too_RB high_JJ compared_VBN to_TO policy-oriented_JJ actions_NNS ,_, the_DT citizen_NN role_NN that_IN Gore_NNP referred_VBD ._. 
+For_IN example_NN ,_, Earth_NNP Hour_NNP would_MD be_VB much_RB more_RBR productive_JJ if_IN it_PRP were_VBD a_DT global_JJ rally_NN for_IN carbon_NN taxes_NNS ;_: instead_RB we_PRP de-politicize_JJ it_PRP and_CC entertain_VB the_DT idea_NN that_IN voluntarily_RB turning_VBG off_RP lights_NNS will_MD stop_VB climate_NN change_NN ._. 
+
+I_PRP 'm_VBP a_DT big_JJ fan_NN of_IN your_PRP$ work_NN on_IN IP_NNP and_CC corruption_NN ,_, but_CC I_PRP 'm_VBP skeptical_JJ of_IN these_DT initial_JJ ventures_NNS into_IN the_DT environmental_JJ arena_NN ..._... 
+
+April_NNP 27_CD ,_, 2009_CD 12:17_NN PM_NNP mark_NN :_: "_'' I_PRP am_VBP suspicious_JJ of_IN cap_NN &_CC trade_NN ._. 
+It_PRP seems_VBZ like_IN a_DT complicated_VBN partial_JJ version_NN of_IN that_DT ,_, created_VBN by_IN the_DT same_JJ genius_NN quants_NNS who_WP gave_VBD us_PRP the_DT mess_NN on_IN wall_NN street_NN ,_, that_WDT is_VBZ designed_VBN to_TO generate_VB large_JJ fees_NNS finance_NN types_NNS ._. 
+My_PRP$ sense_NN is_VBZ for_IN a_DT simpler_JJR system_NN ._. "_'' 
+
+That_DT just_RB shows_VBZ you_PRP do_VBP not_RB fully_RB understand_VB the_DT cap_NN and_CC trade_NN model_NN ._. ..._... or_CC the_DT global_JJ financial_JJ crisis_NN ._. 
+
+April_NNP 27_CD ,_, 2009_CD 2:51_NN PMCathy_NNP :_: When_WRB you_PRP book_NN a_DT route_NN on_IN United_NNP it_PRP tells_VBZ you_PRP how_WRB many_JJ miles_NNS it_PRP will_MD accrue_VB ,_, pre-bonus_JJ ,_, for_IN each_DT leg_NN ._. 
+(_( I_NN use_VBP it_PRP to_TO calculate_VB how_WRB many_JJ I_PRP 'll_MD get_VB towards_IN my_PRP$ premier_NN status_NN ._. )_) 
+It_PRP 's_VBZ a_DT tiny_JJ link_NN they_PRP move_VBP around_IN from_IN time_NN to_TO time_NN ,_, but_CC look_VB for_IN it_PRP near_IN where_WRB the_DT seat_NN selection_NN option_NN is_VBZ ._. 
+You_PRP should_MD see_VB this_DT on_IN a_DT screen_NN before_IN you_PRP purchase_VBP the_DT ticket_NN ,_, and_CC possibly_RB also_RB after_IN ._. 
+
+April_NNP 27_CD ,_, 2009_CD 4:45_NN PM_NNP Brad_NNP Templeton_NNP :_: When_WRB I_PRP got_VBD to_TO United_NNP 's_POS site_NN it_PRP has_VBZ two_CD columns_NNS ,_, one_CD for_IN true_JJ miles_NNS flown_VBN (_( sort_NN of_IN )_) and_CC one_CD for_IN elite_NN bonus_NN ._. 
+So_RB cut_VB and_CC paste_NN into_IN your_PRP$ spreadsheet_NN and_CC it_PRP should_MD be_VB fine_NN ._. 
+However_RB ,_, it_PRP does_VBZ show_NN 500_CD for_IN the_DT short_JJ haul_NN flights_NNS ,_, but_CC I_PRP bet_VBD those_DT are_VBP mostly_RB L.A._NNP so_IN you_PRP can_MD fill_VB in_IN the_DT real_JJ mileage_NN to_TO L.A._NN on_IN those_DT ,_, it_PRP should_MD not_RB take_VB long_JJ ._. 
+April_NNP 27_CD ,_, 2009_CD 6:03_NN PMYaacov_NNP Iland_NNP :_: I_PRP 'd_MD check_VB into_IN the_DT effectiveness_NN of_IN carbon_NN offsets_NNS ,_, particularly_RB tree_NN plantations_NNS ,_, before_IN spending_VBG money_NN on_IN them_PRP :_: http://www.newint.org/features/2006/07/01/keynote/_NN 
+
+April_NNP 28_CD ,_, 2009_CD 9:03_NN AM_NNP Jardinero_NNP 1_CD :_: The_DT only_JJ way_NN to_TO reduce_VB your_PRP$ carbon_NN footprint_NN ,_, is_VBZ to_TO reduce_VB your_PRP$ carbon_NN footprint_NN ,_, period_NN ._. 
+Paying_VBG someone_NN else_RB to_TO do_VB something_NN they_PRP are_VBP doing_VBG ,_, already_RB ,_, does_VBZ not_RB reduce_VB your_PRP$ carbon_NN footprint_NN one_CD bit_NN ._. 
+
+If_IN you_PRP do_VBP n't_RB believe_VB that_IN and_CC still_RB insist_VBP on_IN paying_VBG someone_NN else_RB to_TO consume_VB less_JJR ,_, then_RB please_VB consider_VB paying_VBG me_PRP ._. 
+My_PRP$ wife_NN and_CC I_PRP telecommute_NN ._. 
+We_PRP rarely_RB travel_VBP ._. 
+I_PRP ride_VBP my_PRP$ bike_NN to_TO the_DT grocery_NN store_NN ._. 
+We_PRP cook_NN from_IN whole_JJ ingredients_NNS and_CC never_RB eat_VB processed_VBN or_CC prepared_VBN foods_NNS ._. 
+Both_DT of_IN our_PRP$ cars_NNS are_VBP high_JJ mpg_NN and_CC rarely_RB used_VBN ._. 
+They_PRP are_VBP both_DT ten_CD years_NNS old_JJ and_CC we_PRP probably_RB wo_MD n't_RB replace_VB them_PRP for_IN another_DT ten_CD years_NNS ._. 
+I_PRP just_RB finished_VBD insulating_VBG my_PRP$ house_NN and_CC installed_VBN high_JJ efficiency_NN windows_NNS and_CC HVAC_NNP ._. 
+I_PRP keep_VBP the_DT thermostat_NN high_JJ in_IN the_DT summer_NN and_CC low_JJ in_IN the_DT winter_NN ._. 
+All_DT the_DT light_JJ bulbs_NNS are_VBP fluorescent_NN ,_, except_IN for_IN the_DT dimmer_NN above_IN the_DT dining_NN room_NN table_NN ._. 
+I_PRP removed_VBD all_PDT the_DT turf_NN from_IN my_PRP$ property_NN and_CC replaced_VBD it_PRP with_IN vines_NNS and_CC perennials_NNS ._. 
+There_EX are_VBP twenty_CD three_CD trees_NNS on_IN the_DT property_NN sequestering_NN CO2_NNP on_IN a_DT continuous_JJ basis_NN ._. 
+No_DT motorized_JJ equipment_NN is_VBZ required_VBN to_TO maintain_VB my_PRP$ garden_NN which_WDT is_VBZ now_RB over_IN ten_CD thousand_CD square_JJ feet_NNS of_IN CO2_NNP consuming_NN plants_NNS ._. 
+
+I_PRP would_MD gladly_RB accept_VB the_DT sum_NN of_IN fifteen_NN thousand_CD dollars_NNS from_IN Prof_NNP Lessig_NNP or_CC anyone_NN else_RB to_TO offset_VB his_PRP$ carbon_NN heavy_JJ lifestyle_NN ._. 
+In_IN return_NN ,_, I_PRP would_MD submit_VB to_TO an_DT audit_NN of_IN my_PRP$ lifestyle_NN and_CC I_PRP would_MD issue_VB him_PRP a_DT certificate_NN stating_VBG the_DT amount_NN of_IN his_PRP$ carbon_NN offset_VBN ._. 
+
+April_NNP 29_CD ,_, 2009_CD 4:00_NN AM_NNP Eric_NNP the_DT Red_NNP :_: Carbon_NNP credits_NNS :_: indulgences_NNS for_IN the_DT non-_NN Catholic_NNP crowd_NN ._. 
+More_RBR modern_JJ ,_, but_CC just_RB as_IN dumb_JJ ._. 
+
+April_NNP 29_CD ,_, 2009_CD 7:18_NN AM_NNP pb_NN :_: "_'' we_PRP all_DT have_VBP an_DT ethical_JJ obligation_NN to_TO offset_VB our_PRP$ carbon_NN footprint_NN --_: now_RB "_'' 
+
+There_EX is_VBZ nothing_NN so_RB dangerous_JJ as_IN someone_NN with_IN an_DT abundance_NN of_IN self-righteousness_NN but_CC very_RB little_JJ knowledge_NN ._. 
+
+Carbon_NNP offsets_NNS '_POS harm_NN environment_NN '_'' http://news.bbc.co.uk/1/hi/uk_politics/6378471.stm_NN Tuesday_NNP ,_, 20_CD February_NNP 2007_CD ,_, 17:31_NN GMT_NNP 
+
+Jutta_NNP Kill_VB ,_, of_IN the_DT Forests_NNP and_CC the_DT European_NNP Union_NNP Resource_NNP Network_NNP (_( FERN_NNP )_) ,_, was_VBD the_DT most_RBS vehement_JJ opponent_NN of_IN the_DT practice_NN ,_, arguing_VBG it_PRP probably_RB did_VBD more_JJR harm_NN than_IN good_NN ._. 
+
+Carbon_NNP offsetting_VBG was_VBD "_'' an_DT unbelievably_RB inefficient_JJ way_NN of_IN reducing_VBG emissions_NNS ,_, "_'' she_PRP argued_VBD ,_, and_CC its_PRP$ effects_NNS were_VBD impossible_JJ to_TO verify_VB ._. 
+
+In_IN addition_NN ,_, "_'' More_JJR than_IN half_NN "_'' of_IN the_DT money_NN given_VBN to_TO companies_NNS selling_VBG carbon_NN offsets_NNS went_VBD on_IN research_NN and_CC administration_NN costs_NNS ,_, "_'' benefiting_VBG not_RB the_DT climate_NN but_CC the_DT burgeoning_VBG consultancy_NN industry_NN "_'' ._. 
+
+"_'' We_PRP believe_VBP it_PRP is_VBZ worse_JJR than_IN nothing_NN because_IN it_PRP creates_VBZ the_DT illusion_NN ,_, or_CC the_DT impression_NN ,_, in_IN the_DT public_NN that_DT action_NN is_VBZ being_VBG taken_VBN ,_, while_IN we_PRP are_VBP not_RB really_RB addressing_VBG the_DT task_NN at_IN hand_NN ,_, significantly_RB reducing_VBG greenhouse_NN gas_NN emissions_NNS ,_, "_'' Ms_NNP Kill_VB told_VBD MPs_NNP ._. 
+
+Illusions_NNP are_VBP powerful_JJ around_IN here_RB ,_, it_PRP seems_VBZ ._. 
+Professor_NNP -_: stop_VB listening_VBG to_TO your_PRP$ "_'' intuitions_NNS "_'' and_CC do_VBP some_DT basic_JJ research_NN !_. 
+
+May_NNP 14_CD ,_, 2009_CD 2:45_NN PM_NNP Jason_NNP Sperling_NNP :_: It_PRP 's_VBZ nice_JJ to_TO see_VB feedback_NN on_IN the_DT United_NNP program_NN ._. 
+I_PRP 've_VBP posted_VBN your_PRP$ feedback_NN on_IN my_PRP$ carbon_NN offsets_NNS news_NN blog_NN ._. 
+
+Currently_RB many_JJ companies_NNS are_VBP reticent_JJ to_TO putting_VBG something_NN in_IN their_PRP$ purchase_NN path_NN as_IN an_DT upsell_NN ,_, just_RB as_IN they_PRP are_VBP reticent_JJ to_TO putting_VBG anything_NN in_IN their_PRP$ purchase_NN path_NN ._. 
+The_DT cost_NN for_IN large_JJ companies_NNS to_TO make_VB any_DT updates_NNS to_TO their_PRP$ e-commerce_JJ sites_NNS is_VBZ significant_JJ ,_, another_DT factor_NN in_IN keeping_VBG the_DT type_NN of_IN program_NN you_PRP 'd_MD like_VB from_IN being_VBG available_JJ ._. 
+Additionally_RB ,_, there_EX is_VBZ a_DT reluctance_NN to_TO share_VB the_DT data_NNS required_VBN for_IN accurate_JJ emissions_NNS measurement_NN due_JJ to_TO perceived_VBN potential_JJ risks_NNS ,_, possibly_RB related_VBN to_TO future_JJ regulatory_JJ concerns_NNS ._. 
+
+The_DT technology_NN is_VBZ certainly_RB available_JJ ._. 
+When_WRB the_DT type_NN of_IN program_NN you_PRP imagine_VBP IS_VBZ put_VB in_IN place_NN ,_, the_DT results_NNS have_VBP been_VBN very_RB good_JJ ._. 
+For_IN example_NN ShopGreen_NNP Merchant_NN Reports_NNS 90_CD %_NN of_IN customers_NNS '_POS go_NN green_JJ '_POS 
+
+June_NNP 10_CD ,_, 2009_CD 12:18_NN PM_NNP jason_NN :_: check_NN out_RP this_DT great_JJ new_JJ idea_NN to_TO offset_VB 
+http://www.treehugger.com/files/2009/06/man-auctions-own-carbon-offsets-on-ebay.php_NN 
+
+Here_RB 's_VBZ the_DT link_NN to_TO the_DT auction_NN 
+http://cgi.ebay.com/ebaymotors/ws/eBayISAPI.dll?ViewItem&item=320381623555&viewitem=&sspagename=STRK%3AMESELX%3AIT_NN 
+

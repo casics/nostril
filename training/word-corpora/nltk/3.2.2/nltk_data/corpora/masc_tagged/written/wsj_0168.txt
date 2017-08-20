@@ -1,0 +1,9 @@
+Meridian_NNP National_NNP Corp_NNP ._. said_VBD it_PRP sold_VBD 750,000_CD shares_NNS of_IN its_PRP$ common_JJ stock_NN to_TO the_DT McAlpine_NNP family_NN interests_NNS ,_, for_IN $1_NN million_CD ,_, or_CC $1.35_NN a_DT share_NN ._. 
+The_DT sale_NN represents_VBZ 10.2_CD %_NN of_IN Meridian_NNP 's_POS shares_NNS outstanding_JJ ._. 
+
+The_DT McAlpine_NNP family_NN ,_, which_WDT operates_VBZ a_DT number_NN of_IN multinational_JJ companies_NNS ,_, including_VBG a_DT London_NNP -_- based_JJ engineering_NN and_CC construction_NN company_NN ,_, also_RB lent_VBD to_TO Meridian_NNP National_NNP $500,000_NN ._. 
+That_DT amount_NN is_VBZ convertible_JJ into_IN shares_NNS of_IN Meridian_NNP common_JJ stock_NN at_IN $2_NN a_DT share_NN during_IN its_PRP$ one_JJ -_- year_NN term_NN ._. 
+The_DT loan_NN may_MD be_VB extended_VBN by_IN the_DT McAlpine_NNP group_NN for_IN an_DT additional_JJ year_NN with_IN an_DT increase_NN in_IN the_DT conversion_NN price_NN to_TO $2.50_NN a_DT share_NN ._. 
+
+The_DT sale_NN of_IN shares_NNS to_TO the_DT McAlpine_NNP family_NN along_IN with_IN the_DT recent_JJ sale_NN of_IN 750,000_CD shares_NNS of_IN Meridian_NNP stock_NN to_TO Haden_NNP MacLellan_NNP Holding_NNP PLC_NNP of_IN Surrey_NNP ,_, England_NNP and_CC a_DT recent_JJ public_JJ offering_NN have_VBP increased_VBN Meridian_NNP 's_POS net_JJ worth_NN to_TO $8.5_NN million_CD ,_, said_VBD William_NNP Feniger_NNP ,_, chief_JJ executive_JJ officer_NN of_IN Toledo_NNP ,_, Ohio_NNP -_- based_JJ Meridian_NNP ._. 
+

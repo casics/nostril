@@ -1,0 +1,12 @@
+Dow_NNP Jones_NNP &_CC Co._NN said_VBD it_PRP extended_VBD its_PRP$ $_$ 18_CD -_- a_DT -_- share_NN offer_NN for_IN Telerate_NNP Inc._NN common_JJ stock_NN until_IN 5_CD p.m._NN EST_NNP Nov_NNP ._. 9_CD ._. 
+
+The_DT offer_NN ,_, valued_VBN at_IN about_IN $576_NN million_CD for_IN the_DT 33_CD %_NN of_IN Telerate_NNP that_IN Dow_NNP Jones_NNP does_VBZ n't_RB already_RB own_JJ ,_, had_VBD been_VBN set_VBN to_TO expire_VB Nov_NNP ._. 6_CD ._. 
+
+Dow_NNP Jones_NNP ,_, which_WDT owns_VBZ about_RB 64_CD million_CD of_IN Telerate_NNP 's_POS 95_CD million_CD common_JJ shares_NNS outstanding_JJ ,_, said_VBD that_IN about_IN 24,000_CD shares_NNS have_VBP been_VBN tendered_VBN under_IN its_PRP$ offer_NN ._. 
+
+Telerate_NNP 's_POS two_CD independent_JJ directors_NNS have_VBP rejected_VBN the_DT offer_NN as_IN inadequate_JJ ._. 
+In_IN composite_JJ trading_NN on_IN the_DT New_NNP York_NNP Stock_NNP Exchange_NNP ,_, Telerate_NNP shares_NNS closed_VBD at_IN $19.50_NN ,_, up_RB 12.5_CD cents_NNS ._. 
+
+Telerate_NNP provides_VBZ an_DT electronic_JJ financial_JJ information_NN network_NN ._. 
+Dow_NNP Jones_NNP publishes_VBZ The_DT Wall_NNP Street_NNP Journal_NNP ,_, Barron_NNP 's_POS magazine_NN ,_, and_CC community_NN newspapers_NNS and_CC operates_VBZ financial_JJ news_NN services_NNS and_CC computer_NN data_NNS bases_NNS ._. 
+

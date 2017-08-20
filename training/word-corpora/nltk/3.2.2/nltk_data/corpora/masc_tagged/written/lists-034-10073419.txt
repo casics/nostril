@@ -1,0 +1,22 @@
+docno_NN =_SYM "_'' lists-_NN 034_CD -_: 10073419_CD "_'' name_NN =_SYM "_'' Jim_NNP Sanders_NNP "_'' email_NN =_SYM "_'' sanders_james@tandem.com_NN "_'' sent_VBD =_SYM "_'' Mon_NNP ,_, 22_CD Apr_NNP 1996_CD 07:53:16_NN -_: 0700_CD "_'' subject_JJ =_SYM "_'' Re_NNP :_: Status_NNP (_( if_IN any_DT )_) of_IN STLP_NNP ?_. "_'' To_TO :_: tomste@microsoft.com_NN Cc_NNP :_: ietf-tls@w3.org_NN ,_, tls-draft@w3.org_NN On_IN Friday_NNP 4/19_CD ,_, at_IN 8:24_NN PM_NNP ,_, Tom_NNP Stephens_NNP wrote_VBD :_: 
+>_NN Tls-draft_NNP was_VBD created_VBN specifically_RB as_IN a_DT forum_NN for_IN the_DT discussion_NN of_IN the_DT >_NN Microsoft_NNP STLP_NNP strawman_NN document_NN ._. 
+The_DT reason_NN for_IN this_DT is_VBZ that_IN the_DT STLP_NNP >_NN strawman_NN document_NN is_VBZ not_RB an_DT official_JJ IETF_NNP document_NN ._. 
+Win_NNP Treese_NNP ,_, >_NN Microsoft_NNP and_CC Netscape_NNP did_VBD not_RB want_VB this_DT document_NN to_TO be_VB confused_VBN in_IN any_DT >_NN way_NN with_IN the_DT actual_JJ spec_NN that_WDT is_VBZ being_VBG developed_VBN by_IN the_DT working_VBG group_NN ._. 
+
+>_NN However_RB ,_, since_IN the_DT consensus_NN of_IN the_DT emails_NNS is_VBZ to_TO discuss_VB the_DT STLP_NNP >_NN strawman_NN document_NN on_IN ietf-tls_JJ ,_, then_RB Microsoft_NNP does_VBZ not_RB object_VB ._. 
+To_TO >_NN facilitate_VBP the_DT discussion_NN ,_, you_PRP can_MD find_VB the_DT STLP_NNP strawman_NN document_NN at_IN :_: >_NN http://pct.microsoft.com/stlp._NN 
+
+>_NN >_NN >_NN Tom_NNP Stephens_NNP 
+>_NN ---------------------------------_: Tom_NNP ,_, could_MD you_PRP or_CC Win_NNP Treese_NNP tell_VB us_PRP exactly_RB what_WP is_VBZ going_VBG on_RP ?_. 
+I_PRP was_VBD there_RB in_IN LA_NNP on_IN March_NNP 6_CD evening_NN meeting_NN ,_, and_CC this_DT (_( recent_JJ unilateral_JJ release_NN by_IN Microsoft_NNP of_IN a_DT document_NN of_IN unknown_JJ status_NN to_TO an_DT unknown_JJ enitity_NN )_) does_VBZ not_RB feel_VB like_IN the_DT intentions_NNS I_PRP heard_VBD expressed_VBD at_IN that_DT time_NN ._. 
+If_IN Microsoft_NNP released_VBD a_DT unilateral_JJ draft_NN ,_, to_TO whom_WP did_VBD you_PRP release_VBP it_PRP ?_. 
+If_IN it_PRP was_VBD to_TO the_DT IETF_NNP ,_, but_CC is_VBZ "_'' not_RB an_DT official_JJ IETF_NNP document_NN ,_, "_'' what_WP status_NN does_VBZ it_PRP have_VB ?_. 
+Most_JJS of_IN all_DT ,_, if_IN the_DT working_VBG group_NN is_VBZ still_RB working_VBG on_IN an_DT "_'' actual_JJ spec_NN ,_, "_'' what_WP purpose_NN is_VBZ served_VBN by_IN this_DT unilateral_JJ STLP_NNP document_NN ?_. 
+
+These_DT (_( apparently_RB sub_NN rosa_NN )_) machinations_NNS do_VBP not_RB inspire_VB confidence_NN in_IN the_DT integrity_NN of_IN the_DT original_JJ commitments_NNS (_( surprising_JJ as_IN they_PRP were_VBD )_) to_TO work_VB out_RP a_DT unified_JJ protocol_NN ._. 
+The_DT rest_NN of_IN the_DT industry_NN needs_VBZ to_TO have_VB confidence_NN in_IN this_DT process_NN ._. 
+
+--_: Jim_NNP Sanders--_NNP 
+"_'' Speaking_NNP for_IN myself_PRP ,_, not_RB necessarily_RB for_IN my_PRP$ employer_NN ._. "_'' 
+
+<_NN <_NN Jim_NNP Sanders_NNP ,_, Staff_NNP Scientist_NNP ,_, Transaction_NNP Security_NNP >_NN >_NN <_NN <_NN Network_NNP Applications_NNS Services_NNPS ,_, Tandem_NNP Computers_NNPS >_NN >_NN <_NN <_NN Voice_NNP :_: 408_CD -_: 285_CD -_: 492_CD ;_: E-_NNP mail_NN :_: sanders_james@tandem.com_NN )_) )_) 

@@ -1,0 +1,14 @@
+From_IN :_: "_'' Gallagher_NNP ,_, Dave_NNP "_'' <_NN dgallagher@ppg.com_NN >_NN To_TO :_: "_'' noreply@microsoftoffice.org_NN "_'' <_NN noreply@microsoftoffice.org_NN >_NN Date_NN :_: Tue_NNP ,_, 22_CD Feb_NNP 2011_CD 09:11:43_NN -_: 0500_CD Subject_NNP :_: Webmail_NNP de-activation_JJ (_( Final_NNP Notice_NNP )_) Microsoft_NNP System_NNP Administration_NNP is_VBZ currently_RB working_VBG to_TO improve_VB on_IN the_DT security_NN and_CC functionality_NN of_IN all_DT our_PRP$ Microsoft_NNP Outlook_NNP Web_NNP Access_NNP Users_NNS as_IN we_PRP periodically_RB review_VBP certain_JJ Accounts_NNPS which_WDT are_VBP vulnerable_JJ to_TO Unauthorized_NNP Access_NNP ._. 
+However_RB ,_, we_PRP are_VBP facing_VBG some_DT technical_JJ challenges_NNS with_IN your_PRP$ OWA_NNP Webmail_NNP Account_NNP ._. 
+
+Therefore_RB your_PRP$ account_NN has_VBZ been_VBN limited_JJ and_CC may_MD experience_VB inability_NN to_TO send_VB and_CC receive_VB new_JJ mails_NNS ._. 
+To_TO remove_VB this_DT limitation_NN and_CC initiate_VB your_PRP$ Account_NNP Update_NNP process_NN ,_, please_VB click_NN on_IN the_DT link_NN below_IN to_TO complete_VB the_DT form_NN ._. 
+
+http://www.zoomerang.com/Survey/WEB22BXAWTFUXQ/<https://email.ppg.com/Survey/WEB22BXAWTFUXQ/,DanaInfo=3Dwww.zoomerang
+.com_NN +_NN >_NN 
+Click_NNP on_IN the_DT link_NN above_IN (_( or_CC copy_NN and_CC paste_NN the_DT URL_NNP address_NN into_IN your_PRP$ web_NN browser_NN )_) ._. 
+
+Thank_VB you_PRP for_IN your_PRP$ co-operation_JJ 
+
+Webmail_NNP Management_NNP Team_NNP 
+

@@ -1,0 +1,8 @@
+Italian_JJ chemical_NN giant_NN Montedison_NNP S._NN p._NN A._NN ,_, through_IN its_PRP$ Montedison_NNP Acquisition_NNP N.V._NN indirect_JJ unit_NN ,_, began_VBD its_PRP$ $_$ 37_CD -_- a_DT -_- share_NN tender_NN offer_NN for_IN all_PDT the_DT common_JJ shares_NNS outstanding_JJ of_IN Erbamont_NNP N.V._NN ,_, a_DT maker_NN of_IN pharmaceuticals_NNS incorporated_VBN in_IN the_DT Netherlands_NNP 
+._. 
+The_DT offer_NN ,_, advertised_VBN in_IN today_NN 's_POS editions_NNS of_IN The_DT Wall_NNP Street_NNP Journal_NNP ,_, is_VBZ scheduled_VBN to_TO expire_VB at_IN the_DT end_NN of_IN November_NNP ._. 
+
+Montedison_NNP currently_RB owns_VBZ about_IN 72_CD %_NN of_IN Erbamont_NNP 's_POS common_JJ shares_NNS outstanding_JJ ._. 
+
+The_DT offer_NN is_VBZ being_VBG launched_VBN pursuant_JJ to_TO a_DT previously_RB announced_VBN agreement_NN between_IN the_DT companies_NNS ._. 
+

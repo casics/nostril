@@ -1,0 +1,16 @@
+From_IN :_: "_'' Winston_NNP Wilkins_NNP "_'' <_NN CourtneygallstoneAllison@williecrawford.com_NNP >_NN To_TO :_: <_NN xxx@xxx.xxx_NN >_NN Cc_NNP :_: <_NN xxx@xxx.xxx_NN >_NN ,_, <_NN xxx@xxx.xxx_NN >_NN ,_, <_NN xxx@xxx.xxx_NN >_NN ,_, <_NN xxx@xxx.xxx_NN >_NN Subject_NNP :_: SHTP_NNP ,_, the_DT selling_NN pressure_NN is_VBZ over_IN Date_NN :_: Fri_NNP ,_, 2_CD Nov_NNP 2007_CD 16:51:54_CD -_: 0100_CD Shotpak_NNP Inc_NNP (_( S_NNP H_NNP T_NNP P_NNP )_) ,_, Survived_VBD with_IN Flying_NNP colors_NNS on_IN one_CD of_IN the_DT worst_JJS days_NNS in_IN the_DT market_NN 
+
+After_IN today_NN 's_POS recovery_NN it's_PRP$ safe_JJ to_TO say_VB that_IN the_DT selling_NN pressure_NN is_VBZ over_IN ,_, and_CC buyers_NNS are_VBP coming_VBG in_IN 
+
+Only_RB way_NN to_TO go_VB from_IN here_RB is_VBZ up_RP ._. 
+
+As_IN we_PRP mentioned_VBD ,_, a_DT company_NN with_IN a_DT patented_JJ product_NN ,_, world_NN wide_JJ exposure_NN ,_, and_CC great_JJ business_NN plan_NN ,_, cannot_NN be_VB held_VBN down_RB otcpk_NN :_: SHTP_NNP is_VBZ destined_VBN to_TO go_VB higher_JJR ._. 
+
+The_DT time_NN and_CC price_NN is_VBZ PERFECT_NN ,_, get_VB in_IN SHTP_NNP and_CC ride_VB it_PRP to_TO huge_JJ gains_NNS in_IN a_DT volatile_JJ market_NN 
+
+ShotPak_NNP Tests_NNP New_NNP Patented_NNP StandUp_NNP Pouch_NNP and_CC Multi-_NNP Pack_NNP Option_NNP In_IN Two_CD Major_NNP Southern_NNP California_NNP Supermarket_NNP Chains_NNS 
+
+IRVINE_NNP ,_, Calif_NNP ._. --_: (_( BUSINESS_NNP WIRE_NNP )_) --_: ShotPak_NNP ,_, Inc._NN 
+(_( Pink_NNP Sheets_NNP :_: SHTP_NNP -_: News_NNP )_) today_NN announced_VBD at_IN a_DT meeting_NN of_IN the_DT Sales_NNP Team_NNP that_IN the_DT newly_RB introduced_VBN StandUp_NNP shaped_VBN pouch_NN is_VBZ currently_RB being_VBG tested_VBN with_IN consumers_NNS in_IN a_DT convenient_JJ multiple_JJ unit_NN six_CD pack_NN carrier_NN at_IN select_VB Albertsons_NNP stores_NNS in_IN Southern_NNP California_NNP ._. 
+ADVERTISEMENT_NNP 
+

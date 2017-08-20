@@ -1,0 +1,26 @@
+Name_NN Address_NNP City_NNP ,_, State_NNP ,_, Zip_NNP 
+
+Dear_RB Name_NN ,_, 
+
+It_PRP 's_VBZ tough_JJ growing_VBG up_RP today_NN ._. 
+We_PRP know_VBP that_IN children_NNS do_VBP better_JJR when_WRB they_PRP have_VBP a_DT network_NN of_IN caring_VBG adults_NNS to_TO nurture_VB and_CC motivate_VB them_PRP ._. 
+When_WRB young_JJ people_NNS do_VBP n't_RB have_VB that_DT support_NN ,_, they_PRP need_VBP other_JJ resources_NNS for_IN encouragement_NN to_TO guide_VB them_PRP along_IN the_DT way_NN ._. 
+Big_NNP Sisters_NNP helps_VBZ bridge_NN that_DT gap_NN by_IN providing_VBG children_NNS with_IN the_DT resources_NNS they_PRP need_VBP -_: -_: Big_NNP Sisters_NNP volunteers_NNS ._. 
+
+Big_NNP Sisters_NNP are_VBP mentors_NNS and_CC friends_NNS who_WP empower_VBP girls_NNS to_TO more_RBR fully_RB reach_VB their_PRP$ potential_JJ ,_, experience_NN life_NN 's_POS opportunities_NNS and_CC perhaps_RB begin_VB to_TO dream_VB ._. 
+The_DT relationships_NNS that_WDT are_VBP formed_VBN provide_VB strong_JJ foundations_NNS from_IN which_WDT healthy_JJ values_NNS and_CC strong_JJ self-confidence_NN can_MD grow_VB ,_, helping_VBG youth_NN become_VB strong_JJ ,_, independent_JJ adults_NNS of_IN tomorrow_NN ._. 
+
+This_DT year_NN we_PRP will_MD serve_VB over_IN 1,000_CD girls_NNS through_IN our_PRP$ mentoring_VBG programs_NNS ._. 
+This_DT is_VBZ an_DT impressive_JJ number_NN ;_: but_CC for_IN each_DT girl_NN served_VBD ,_, more_JJR are_VBP left_VBN unserved_JJ ._. 
+Over_IN 150_CD girls_NNS are_VBP currently_RB waiting_VBG for_IN a_DT Big_NNP Sister_NNP ._. 
+
+You_PRP can_MD make_VB an_DT impact_NN by_IN supporting_VBG Big_NNP Sisters_NNP Annual_NNP Campaign_NNP and_CC our_PRP$ $200,000_NN goal_NN ._. 
+If_IN you_PRP are_VBP a_DT regular_JJ contributor_NN to_TO the_DT Annual_NNP Campaign_NNP ,_, I_PRP encourage_VBP you_PRP to_TO consider_VB increasing_VBG your_PRP$ gift_NN by_IN 10_CD %_NN ._. 
+If_IN you_PRP have_VBP not_RB supported_VBN Big_NNP Sisters_NNP in_IN the_DT past_NN ,_, please_VB join_VB me_PRP in_IN doing_VBG so_RB by_IN completing_VBG and_CC returning_VBG the_DT enclosed_VBN pledge_NN form_NN ._. 
+
+Early_RB adolescence_NN is_VBZ the_DT most_RBS vulnerable_JJ age_NN for_IN youth_NN ._. 
+But_CC caring_VBG adults_NNS like_IN you_PRP can_MD reach_VB out_IN and_CC help_VB ._. 
+It_PRP 's_VBZ the_DT perfect_JJ time_NN to_TO make_VB a_DT world_NN of_IN difference_NN ._. 
+
+Sincerely_NNP ,_, 
+

@@ -1,0 +1,24 @@
+docno_NN =_SYM "_'' lists-_NN 034_CD -_: 10082707_CD "_'' name_NN =_SYM "_'' Tom_NNP Stephens_NNP "_'' email_NN =_SYM "_'' tomste@microsoft.com_NN "_'' sent_VBD =_SYM "_'' Mon_NNP ,_, 22_CD Apr_NNP 1996_CD 12:10:54_NN -_: 0700_CD "_'' subject_JJ =_SYM "_'' RE_NNP :_: Status_NNP (_( if_IN any_DT )_) of_IN STLP_NNP ?_. "_'' To_TO :_: "_'' '_' sanders_james@tandem.com_NN '_' "_'' <_NN sanders_james@tandem.com_NN >_NN Cc_NNP :_: "_'' '_' ietf-tls@w3.org_NN '_' "_'' <_NN ietf-tls@w3.org_NN >_NN ,_, "_'' '_' tls-draft@w3.org_NN '_' "_'' <_NN tls-draft@w3.org_NN >_NN Jim_NNP ,_, 
+As_IN you_PRP pointed_VBD out_IN ,_, there_EX has_VBZ been_VBN some_DT confusion_NN over_IN this_DT issue_NN ._. 
+It_PRP was_VBD unfortunate_JJ that_IN the_DT strawman_NN document_NN was_VBD labeled_VBN as_IN a_DT draft_NN in_IN the_DT press_NN and_CC by_IN others_NNS ._. 
+That_DT was_VBD never_RB our_PRP$ intention_NN ._. 
+For_IN that_DT confusion_NN ,_, we_PRP apologize_VB ._. 
+
+Tom_NNP 
+>_NN ----------_: >_NN From_IN :_: sanders_james@tandem.com[SMTP:sanders_james@tandem.com]_NN >_NN Sent_NNP :_: Monday_NNP ,_, April_NNP 22_CD ,_, 1996_CD 10:39_NN AM_NNP >_NN To_TO :_: Tom_NNP Stephens_NNP >_NN Cc_NNP :_: ietf-tls@w3.org_NN ;_; tls-draft@w3.org_NN >_NN Subject_NNP :_: RE_NNP :_: Status_NNP (_( if_IN any_DT )_) of_IN STLP_NNP ?_. >_NN >_NN Jim_NNP ,_, 
+>_NN >_NN >_NN >_NN Win_NNP Treese_NNP and_CC representatives_NNS from_IN Microsoft_NNP and_CC Netscape_NNP met_VBD a_DT couple_NN >_NN >_NN of_IN weeks_NNS ago_RB to_TO begin_VB hammering_VBG out_RP some_DT of_IN the_DT components_NNS for_IN the_DT >_NN >_NN foundation_NN of_IN a_DT spec_NN ._. 
+At_IN that_DT meeting_NN ,_, Microsoft_NNP precented_JJ our_PRP$ STLP_NNP >_NN >_NN strawman_NN document_NN ._. 
+That_DT document_NN was_VBD an_DT experiment_NN by_IN Microsoft_NNP to_TO >_NN >_NN determine_VB how_WRB well_RB SSL_NNP and_CC PCT_NNP could_MD be_VB merged_VBN into_IN one_CD protocol_NN -_: using_VBG >_NN >_NN SSL_NNP as_IN a_DT base_NN and_CC adding_VBG PCT_NNP deltas_NNS ._. 
+Our_PRP$ goal_NN was_VBD to_TO deal_VB with_IN the_DT >_NN >_NN differences_NNS Microsoft_NNP and_CC Netscape_NNP quickly_RB so_IN that_IN the_DT normal_JJ IETF_NNP >_NN >_NN process_NN would_MD move_VB forward_RB without_IN any_DT detractions_NNS from_IN either_DT Microsoft_NNP >_NN >_NN or_CC Netscape_NNP ._. 
+
+>_NN >_NN >_NN >_NN Tom_NNP 
+>_NN -----------------------------_: >_NN Thanks_NNS Tom_NNP ,_, 
+>_NN I_PRP have_VBP no_DT dispute_NN with_IN the_DT events_NNS you_PRP describe_VBP ,_, but_CC process_NN integrity_NN >_NN would_MD >_NN have_VB been_VBN better_JJR served_VBN if_IN you_PRP or_CC Win_NNP had_VBD described_VBN this_DT intent_NN up_RB >_NN front_NN ,_, >_NN and_CC answered_VBD the_DT queries_NNS by_IN other_JJ folks_NNS who_WP ,_, like_IN me_PRP ,_, could_MD not_RB figure_VB >_NN out_IN >_NN what_WP was_VBD going_VBG on_IN ._. 
+This_DT was_VBD especialy_RB true_JJ in_IN light_NN of_IN the_DT press_NN >_NN reports_NNS of_IN >_NN "_'' Draft_NNP submitted_VBD to_TO IETF_NNP ._. "_'' 
+I_PRP believe_VBP that_IN what_WP you_PRP are_VBP saying_VBG is_VBZ that_DT >_NN no_DT draft_NN >_NN was_VBD "_'' submitted_VBN ,_, "_'' but_CC rather_RB "_'' made_VBN available_JJ for_IN review_NN ,_, "_'' albeit_IN with_IN >_NN rather_RB late_JJ >_NN instructions_NNS as_IN to_TO location_NN and_CC ownership_NN ._. 
+
+>_NN All_DT the_DT above_JJ reflects_VBZ my_PRP$ personal_JJ belief_NN that_IN this_DT particular_JJ >_NN BOF-cum-WG_NNP >_NN should_MD stretch_VB to_TO maintain_VB the_DT status_NN of_IN "_'' Caesar_NNP 's_POS wife_NN ;_: "_'' and_CC also_RB >_NN reflects_VBZ >_NN my_PRP$ concern_NN at_IN the_DT questions_NNS being_VBG raised_VBN by_IN others_NNS last_JJ week_NN ._. 
+
+>_NN Thanks_NNS again_RB for_IN your_PRP$ prompt_VB response_NN ._. 
+>_NN --_: Jim--_NNP 
+>_NN <_NN <_NN Jim_NNP Sanders_NNP ,_, Staff_NNP Scientist_NNP -_: Transaction_NNP Security_NNP >_NN >_NN >_NN <_NN <_NN Network_NNP Application_NNP Services_NNPS ,_, Tandem_NNP Computers_NNPS >_NN >_NN >_NN <_NN <_NN Voice_NNP :_: 408_CD -_: 285_CD -_: 4192_CD ;_: E-_NNP mail_NN :_: sanders_james@tandem.com_NN >_NN >_NN 

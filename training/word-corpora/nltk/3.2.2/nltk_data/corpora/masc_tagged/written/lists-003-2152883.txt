@@ -1,0 +1,12 @@
+docno_NN =_SYM "_'' lists-_NN 003_CD -_: 2152883_CD "_'' received_VBD =_SYM "_'' Wed_NNP May_NNP 19_CD 07:16:36_NN 1993_CD EST_NNP "_'' sent_VBD =_SYM "_'' Wed_NNP ,_, 19_CD May_NNP 1993_CD 10:11:53_NN -_: 0400_CD (_( EDT_NNP )_) "_'' name_NN =_SYM "_'' Dan_NNP Schlitt_NNP "_'' email_NN =_SYM "_'' dan@ees1a0.engr.ccny.cuny.edu_NN "_'' subject_JJ =_SYM "_'' Re_NNP :_: CHARSET_NNP considerations_NNS "_'' id_NN =_SYM "_'' Pine.3.05.9305191050.G5139-a100000@ees1a0.engr.ccny.cuny.edu_NN "_'' inreplyto_NN =_SYM "_'' CHARSET_NNP considerations_NNS "_'' To_TO :_: Harald_NNP Tveit_NNP Alvestrand_NNP <_NN harald.t.alvestrand@delab.sintef.no_NN >_NN Cc_NNP :_: scs_NNS <_NN scs@adam.mit.edu_NN >_NN ,_, pine-info_JJ <_NN pine-info@cac.washington.edu_NN >_NN ,_, Thank_VB you_PRP Harald_NNP ._. 
+MIME_NNP is_VBZ MIME_NNP is_VBZ MIME_NNP ._. 
+And_CC if_IN it_PRP violates_VBZ the_DT RFC_NNP it_PRP is_VBZ n't_RB MIME_NNP and_CC should_MD n't_RB pretend_VB to_TO be_VB ._. 
+
+That_DT was_VBD the_DT point_NN of_IN my_PRP$ original_JJ cryptic_JJ comment_NN ._. 
+Now_RB PLEASE_NNP edit_VB my_PRP$ address_NN out_IN of_IN the_DT headers_NNS of_IN this_DT ._. 
+And_CC probably_RB all_DT of_IN those_DT other_JJ mailinglists_NNS and_CC limit_NN to_TO pine-info_JJ ._. 
+PLEASE_NNP ._. 
+
+Thankyou_NNP ._. 
+
+Dan_NNP Schlitt_NNP School_NNP of_IN Engineering_NNP Computer_NNP Systems_NNPS dan@ee-mail.engr.ccny.cuny.edu_NN City_NNP College_NNP of_IN New_NNP York_NNP (_( 212_CD )_) 650_CD -_: 6760_CD New_NNP York_NNP ,_, NY_NNP 10031_CD 

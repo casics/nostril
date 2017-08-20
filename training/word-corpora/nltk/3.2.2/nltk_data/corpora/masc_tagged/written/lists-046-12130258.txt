@@ -1,0 +1,9 @@
+docno_NN =_SYM "_'' lists-_NN 046_CD -_: 12130258_CD "_'' name_NN =_SYM "_'' Neil_NNP Soiffer_NNP "_'' email_NN =_SYM "_'' soiffer@wri.com_NN "_'' sent_VBD =_SYM "_'' Mon_NNP ,_, 3_CD Jun_NNP 1996_CD 23:06:04_NN -0700_CD "_'' id_NN =_SYM "_'' 199606040606.AA03032@drizzle.wri.com_NN "_'' subject_JJ =_SYM "_'' Re_NNP :_: Comments_NNS on_IN parsing_VBG steps_NNS :_: "_'' To_TO :_: raman@adobe.com_NN Cc_NNP :_: w3c-math-erb@w3.org_NN >_NN >_NN From_IN first_JJ reading_NN ,_, it_PRP appears_VBZ that_IN the_DT step_NN of_IN "_'' parsing_VBG embellishments_NNS "_'' >_NN e.g._NN superscripts_NNS ,_, accents_NNS etc_FW needs_VBZ to_TO happen_VB *_NN before_IN *_NN the_DT operator_NN >_NN precedence_NN parsing_VBG step_NN ._. 
+
+>_NN Also_RB ,_, this_DT will_MD allow_VB us_PRP to_TO handle_VB complex_JJ expressions_NNS appearing_VBG as_IN >_NN embellishments_NNS to_TO other_JJ complex_JJ expressions_NNS correctly_RB ._. 
+
+Mathematica_NNP 's_POS parsing_VBG ,_, which_WDT works_VBZ in_IN a_DT manner_NN similar_JJ to_TO what_WP Bruce_NNP describes_VBZ ,_, has_VBZ no_DT problem_NN handling_VBG complex_JJ embellishments_NNS as_IN in_IN your_PRP$ example_NN ._. 
+Perhaps_RB I_PRP am_VBP too_RB familar_NN with_IN the_DT algorithm_NN and_CC that_IN I_PRP filled_VBD in_IN pieces_NNS missing_VBG in_IN Bruce_NNP 's_POS description_NN ,_, but_CC I_PRP did_VBD n't_RB see_VB anything_NN wrong_JJ with_IN his_PRP$ description_NN ._. 
+Do_VBP you_PRP have_VB a_DT (_( simple_JJ )_) example_NN in_IN mind_NN where_WRB it_PRP fails_VBZ ?_. 
+
+Neil_NNP 

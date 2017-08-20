@@ -1,0 +1,265 @@
+A_DT Physics_NNP of_IN Semantics_NNP ?_. 
+Each_DT of_IN the_DT chapters_NNS of_IN Investigations_NNP broaches_NNS new_JJ territory_NN ._. 
+Each_DT is_VBZ tentative_JJ and_CC incomplete_JJ ,_, pointing_VBG but_CC not_RB fully_RB adequate_JJ ._. 
+Yet_RB ,_, I_PRP persistently_RB hope_VBP ,_, it_PRP is_VBZ better_JJR to_TO light_VB one_CD candle_NN against_IN ._. ._. ._. what_WP ?_. the_DT darkness_NNS ?_. the_DT veil_NN beyond_IN which_WDT we_PRP have_VBP had_VBN no_DT framework_NN of_IN questions_NNS before_RP ?_. 
+There_EX are_VBP grounds_NNS ,_, reasoned_VBD about_IN by_IN the_DT best_JJS of_IN philosophers_NNS and_CC scientists_NNS of_IN the_DT past_JJ several_JJ centuries_NNS ,_, to_TO doubt_VB a_DT physics_NN of_IN semantics_NNS ._. 
+We_PRP are_VBP on_IN shaky_JJ ground_NN ._. 
+Yet_RB when_WRB the_DT first_JJ hard_JJ frost_NN comes_VBZ ,_, when_WRB the_DT birches_NNS have_VBP been_VBN swung_VBN ,_, their_PRP$ crimson_JJ leaves_VBZ scattered_VBN carelessly_RB ,_, when_WRB crystals_NNS splint_NN shallow_JJ ponds_NNS and_CC old_JJ egrets_NNS stand_VBP dark_JJ watch_NN the_DT coming_VBG dawn_NN ,_, long-legged_JJ ,_, knowing_VBG how_WRB winter_NN is_VBZ thin_JJ ,_, when_WRB the_DT first_JJ phase_NN transition_NN of_IN water_NN to_TO ice_NN forms_NNS slight_JJ solidity_NN across_IN meadow_NN streams_NNS ,_, small_JJ creatures_NNS of_IN flesh_NN and_CC concept_NN tiptoe_VB gingerly_RB to_TO some_DT far_JJ side_NN where_WRB ,_, perhaps_RB ,_, something_NN new_JJ is_VBZ to_TO be_VB found_VBN ._. 
+
+We_PRP have_VBP lacked_VBN a_DT physical_JJ definition_NN of_IN an_DT autonomous_JJ agent_NN ,_, able_JJ to_TO manipulate_VB the_DT universe_NN on_IN its_PRP$ own_JJ behalfthe_NN egret_NN whose_WP$ foreboding_VBG of_IN winter_NN leads_VBZ to_TO lifted_VBN wing_NN and_CC steady_JJ ,_, powerful_JJ flight_NN ._. 
+The_DT egret_NN is_VBZ as_IN much_JJ a_DT part_NN of_IN physical_JJ reality_NN as_IN the_DT atom_NN ,_, and_CC perhaps_RB more_JJR than_IN the_DT vaunted_JJ quark_NN ._. 
+But_CC autonomous_JJ agents_NNS ,_, we_PRP who_WP do_VBP daily_RB manipulate_VB the_DT world_NN on_IN our_PRP$ own_JJ behalf_NN ,_, we_PRP to_TO whom_WP "_'' intentionality_NN "_'' and_CC "_'' purpose_NN "_'' are_VBP so_RB inevitably_RB attributed_VBN by_IN our_PRP$ common_JJ languages_NNS ,_, we_PRP are_VBP ,_, by_IN my_PRP$ definition_NN of_IN autonomous_JJ agents_NNS ,_, also_RB nothing_NN but_CC physical_JJ systems_NNS with_IN a_DT peculiar_JJ organization_NN of_IN processes_NNS and_CC properties_NNS ._. 
+If_IN the_DT concept_NN of_IN autonomous_JJ agents_NNS were_VBD something_NN like_IN a_DT usefu_JJ or_CC more_JJR ,_, a_DT proper_JJ definition_NN of_IN life_NN itself_PRP ,_, then_RB autonomous_JJ agents_NNS span_VBP the_DT gap_NN from_IN the_DT merely_RB physical_JJ to_TO that_DT new_JJ realm_NN of_IN the_DT merely_RB physical_JJ where_WRB "_'' purpose_NN "_'' is_VBZ ascribed_VBN by_IN all_DT of_IN us_PRP to_TO one_CD another_DT ._. 
+
+Semantics_NNP enters_VBZ with_IN purpose_NN ._. 
+For_IN this_DT to_TO be_VB true_JJ ,_, it_PRP is_VBZ not_RB necessary_JJ that_IN the_DT carriers_NNS of_IN purpose_NN ,_, say_VB ,_, the_DT same_JJ bacterium_NN heading_VBG upstream_RB in_IN the_DT glucose_NN gradient_NN ,_, be_VB conscious_JJ ._. 
+
+I_PRP hope_VBP my_PRP$ definition_NN of_IN an_DT autonomous_JJ agent_NN is_VBZ useful_JJ ,_, an_DT autocatalytic_JJ system_NN carrying_VBG out_RP a_DT work_NN cycle_NN ,_, now_RB rather_RB broadened_VBN by_IN the_DT realization_NN that_IN autonomous_JJ agents_NNS also_RB do_VBP often_RB detect_VB and_CC measure_VB and_CC record_NN displacements_NNS of_IN external_JJ systems_NNS from_IN equilibrium_NN that_WDT can_MD be_VB used_VBN to_TO extract_VB work_NN ,_, then_RB do_VBP extract_VB work_NN ,_, propagating_VBG work_NN and_CC constraint_NN construction_NN ,_, from_IN their_PRP$ environment_NN ._. 
+
+Know-how_NNP 
+Bring_NNP ourselves_PRP empathetically_RB and_CC objectively_RB back_RB three_CD billion_CD years_NNS to_TO the_DT mixed_JJ microbial_NN community_NN flourishing_JJ right_NN about_IN where_WRB most_JJS of_IN us_PRP are_VBP now_RB ,_, plus_CC or_CC minus_CC a_DT modicum_NN of_IN layers_NNS of_IN surface_NN crustal_NN material_NN ._. 
+
+I_PRP want_VBP to_TO say_VB that_IN the_DT autonomous_JJ agents_NNS comprising_VBG that_DT community_NN had_VBD ,_, individually_RB and_CC collectively_RB ,_, the_DT embodied_VBN know-how_NN to_TO get_VB on_IN with_IN making_VBG a_DT living_NN in_IN the_DT natural_JJ games_NNS that_WDT constituted_VBD their_PRP$ world_NN ._. 
+Indeed_RB ,_, as_IN I_PRP have_VBP emphasized_VBN before_RB ,_, a_DT biosphere_NN is_VBZ a_DT self-consistent_JJ coconstruction_NN of_IN autonomous_JJ agents_NNS ,_, ways_NNS of_IN making_VBG a_DT living_NN ,_, and_CC the_DT search_NN procedures_NNS ,_, mutation_NN ,_, recombination_NN ,_, as_RB well_RB as_IN behavioral_JJ search_NN open_JJ to_TO autonomous_JJ agents_NNS ._. 
+Those_DT means_NNS of_IN making_VBG a_DT living_NN that_WDT were_VBD well_RB searched_VBD out_IN and_CC mastered_VBN by_IN the_DT agents_NNS and_CC their_PRP$ search_NN procedures_NNS became_VBD the_DT kinds_NNS of_IN "_'' jobs_NNS "_'' that_WDT were_VBD widely_RB filled_VBN ,_, the_DT abundant_JJ niches_NNS of_IN the_DT bio-sphere_JJ ._. 
+There_RB is_VBZ in_IN this_DT whole_JJ self-constructing_JJ system_NN a_DT wider_JJR know-how_NN ,_, beyond_IN the_DT know-how_NN of_IN any_DT single_JJ autonomous_JJ agent_NN spinning_JJ eagerly_RB in_IN its_PRP$ microenvironment_NN ._. 
+Yet_RB ,_, clearly_RB ,_, the_DT know-how_NN is_VBZ distributed_VBN ._. 
+There_EX is_VBZ no_DT autonomous_JJ agent_NN ,_, no_DT one_CD ,_, who_WP knows_VBZ how_WRB the_DT whole_JJ system_NN works_VBZ ,_, any_DT more_JJR than_IN anyone_NN at_IN present_JJ knows_VBZ how_WRB the_DT global_JJ economic_JJ system_NN works_VBZ in_IN its_PRP$ myriad_JJ interactions_NNS ,_, deals_NNS ,_, steals_VBZ ,_, hopes_VBZ ,_, and_CC frustrations_NNS ._. 
+
+What_WP in_IN the_DT world_NN is_VBZ "_'' know-how_NN "_'' ?_. 
+Philosophers_NNP distinguish_VB between_IN "_'' know-how_NN "_'' and_CC "_'' know_VB that_DT ._. "_'' 
+I_PRP know_VBP how_WRB to_TO tie_VB my_PRP$ shoes_NNS and_CC am_VBP learning_VBG how_WRB to_TO play_VB jazz_NN drums_NNS ._. 
+"_'' Know_VBP that_IN "_'' concerns_NNS propositions_NNS ,_, most_RBS conveniently_RB ,_, human_JJ propositions_NNS ._. 
+I_PRP know_VBP that_IN the_DT moon_NN isthey_NN tell_VB menot_NN made_VBN of_IN green_JJ cheese_NN ._. 
+I_PRP know_VBP that_IN the_DT earth_NN circles_VBZ the_DT sun_NN ,_, that_IN the_DT earth_NN is_VBZ roughly_RB spherical_JJ ,_, that_IN chairs_NNS are_VBP used_VBN to_TO sit_VB on_IN ._. 
+"_'' Know_VBP that_IN "_'' brings_VBZ with_IN it_PRP the_DT standard_NN and_CC nonstandard_NN issues_NNS of_IN the_DT truth_NN or_CC falseness_NN of_IN propositions_NNS as_IN they_PRP report_VBP states_NNS of_IN the_DT world_NN ._. 
+Perhaps_RB higher_JJR primates_NNS who_WP are_VBP trained_VBN to_TO manipulate_VB simple_JJ symbols_NNS with_IN apparent_JJ reference_NN to_TO the_DT world_NN also_RB can_MD "_'' know_VB that_IN "_'' with_IN respect_NN to_TO propositions_NNS ._. 
+
+Unlike_IN "_'' know_VB that_RB ,_, "_'' "_'' know-how_NN "_'' does_VBZ not_RB involve_VB propositions_NNS about_IN the_DT world_NN ._. 
+"_'' Know-how_NNP "_'' involves_VBZ procedural_JJ knowledge_NN about_IN how_WRB to_TO get_VB on_IN in_IN the_DT world_NN ._. 
+The_DT cheetah_NN streaking_VBG after_IN the_DT wildebeest_NN ,_, the_DT athletic_JJ genius_NN high_JJ jumping_VBG ,_, have_VBP the_DT know-how_NN to_TO do_VB it_PRP ._. 
+
+Does_VBZ a_DT bacterium_NN know_VB how_WRB to_TO make_VB a_DT living_VBG in_IN its_PRP$ world_NN ?_. 
+I_PRP certainly_RB want_VBP to_TO say_VB yes_UH ,_, without_IN attributing_VBG consciousness_NN in_IN any_DT way_NN ._. 
+Watch_NNP the_DT myriad_JJ subtle_JJ turnings_NNS on_IN and_CC o_NN of_IN genes_NNS ,_, metabolic_JJ switching_NN ,_, mechanical_JJ twitching_VBG ,_, sensing_VBG of_IN glucose_NN gradient_NN ,_, swimming_NN and_CC tumbling_VBG upstream_RB to_TO higher_JJR glucose_NN concentrations_NNS ._. 
+It_PRP knows_VBZ how_WRB all_DT right_NN ,_, even_RB if_IN it_PRP cannot_NN talk_NN about_IN how_WRB it_PRP gets_VBZ on_IN with_IN its_PRP$ business_NN ._. 
+But_CC then_RB ,_, try_VB to_TO talk_VB about_IN tying_VBG your_PRP$ shoes_NNS or_CC the_DT skilled_JJ driving_NN when_WRB you_PRP become_VBP aware_JJ some_DT dozens_NNS of_IN miles_NNS down_RP the_DT road_NN that_IN you_PRP have_VBP accomplished_VBN the_DT tasks_NNS without_IN paying_VBG the_DT slightest_JJS focused_VBN attention_NN ._. 
+
+Thank_VB God_NNP for_IN know-how_NN ._. 
+Know_VBP that_WDT is_VBZ a_DT thin_JJ veneer_NN on_IN a_DT four-billion-year-old_JJ know-how_NN skill_NN abundant_JJ in_IN the_DT biosphere_NN ._. 
+But_CC any_DT autonomous_JJ agent_NN proliferating_VBG alone_RB or_CC in_IN a_DT congery_NN of_IN other_JJ agents_NNS ,_, it_PRP would_MD seem_VB ,_, is_VBZ also_RB graced_JJ by_IN the_DT selfsame_NN know-how_NN ._. 
+If_IN we_PRP synthesize_VB autonomous_JJ agents_NNS in_IN the_DT next_JJ decades_NNS and_CC they_PRP coevolve_NN under_IN our_PRP$ rapt_NN gaze_VBP over_IN months_NNS or_CC years_NNS into_IN a_DT modestly_RB complex_JJ ecosystem_NN brimming_VBG with_IN novel_NN life_NN forms_NNS ,_, they_PRP too_RB will_MD know_VB how_WRB to_TO make_VB a_DT living_VBG in_IN their_PRP$ mutually_RB created_VBN world_NN plus_CC the_DT boundary_NN conditions_NNS we_PRP more_JJR or_CC less_RBR intelligently_RB impose_VB on_IN them_PRP ._. 
+
+The_DT know-how_NN is_VBZ ,_, in_IN these_DT terms_NNS ,_, nothing_NN but_CC another_DT view_NN of_IN the_DT propagating_VBG closures_NNS of_IN catalysis_NNS ,_, work_NN tasks_NNS ,_, sensing_VBG ,_, recording_NN ,_, and_CC acting_VBG that_IN we_PRP now_RB recognize_VBP as_IN inherent_JJ in_IN the_DT doings_NNS of_IN autonomous_JJ agents_NNS ._. 
+The_DT know-how_NN is_VBZ not_RB outside_IN that_DT propagating_VBG organization_NN ._. 
+The_DT know-how_NN is_VBZ the_DT propagating_VBG organization_NN ._. 
+
+Semantics_NNP 
+All_DT of_IN which_WDT brings_VBZ us_PRP ,_, inevitably_RB ,_, to_TO the_DT brink_NN of_IN semantics_NNS ._. 
+
+It_PRP is_VBZ simple_JJ at_IN its_PRP$ roots_NNS ,_, you_PRP see_VBP ._. 
+An_DT incoming_JJ molecular_JJ species_NNS arriving_VBG in_IN the_DT interior_NN of_IN an_DT autonomous_JJ agent_NN really_RB is_VBZ (_( i_NNP )_) food_NN ;_: (_( ii_NN )_) poison_NN ;_: (_( iii_NN )_) a_DT signal_NN ;_: (_( iv_NN )_) neutral_JJ ;_: (_( v_NN )_) something_NN else_RB ._. 
+
+Once_RB there_EX is_VBZ an_DT autonomous_JJ agent_NN ,_, there_EX is_VBZ a_DT semantics_NNS from_IN its_PRP$ privileged_JJ point_NN of_IN view_NN ._. 
+The_DT incoming_JJ molecule_NN is_VBZ "_'' yuck_NN "_'' or_CC "_'' yum_NN ._. "_'' 
+I_PRP think_VBP the_DT major_JJ conceptual_JJ step_NN to_TO yuck_NN or_CC yum_NN is_VBZ unavoidable_JJ once_RB there_EX is_VBZ an_DT autonomous_JJ agent_NN ._. 
+And_CC I_PRP think_VBP we_PRP have_VBP roughly_RB the_DT Darwinian_JJ criteria_NNS in_IN mind_NN ._. 
+If_IN yum_NN ,_, then_RB there_EX will_MD probably_RB be_VB more_JJR of_IN this_DT type_NN of_IN agent_NN ,_, osprings_NNS of_IN the_DT first_JJ ._. 
+If_IN yuck_NN ,_, it_PRP is_VBZ not_RB so_RB likely_JJ this_DT lineage_NN will_MD prosper_VB ._. 
+
+Once_RB yuck_NN and_CC yum_NN ,_, we_PRP are_VBP not_RB far_RB from_IN C._NN S._NN Pierce_NNP 's_POS meaning-laden_JJ semiotic_JJ triad_NN :_: sign_NN ,_, signified_VBD ,_, significans_NNS ._. 
+Like_IN it_PRP or_CC not_RB ,_, the_DT glucose_NN gradient_NN is_VBZ a_DT sign_NN ,_, a_DT predictor_NN ,_, of_IN "_'' more_JJR glucose_NN that_DT way_NN ._. "_'' 
+Granted_NNP ,_, the_DT glucose_NN is_VBZ not_RB an_DT arbitrary_JJ symbol_NN ,_, any_DT more_JJR than_IN a_DT cloud_NN is_VBZ an_DT arbitrary_JJ symbol_NN of_IN rain_NN ._. 
+In_IN this_DT restricted_JJ sense_NN ,_, signs_NNS are_VBP causally_RB correlated_JJ with_IN that_DT which_WDT is_VBZ signified_VBD ._. 
+By_IN contrast_NN ,_, the_DT relation_NN between_IN the_DT word_NN "_'' chair_NN "_'' and_CC that_IN which_WDT it_PRP signifies_NNS ,_, and_CC on_IN which_WDT I_PRP am_VBP now_RB sitting_VBG ,_, is_VBZ arbitrary_JJ ._. 
+But_CC can_MD chemical_NN signals_NNS in_IN bacterial_JJ and_CC plant_NN and_CC human_JJ communities_NNS be_VB arbitrary_JJ from_IN a_DT chemical_NN causal_NN point_NN of_IN view_NN ?_. 
+If_IN so_IN ,_, can_MD "_'' mere_JJ chemicals_NNS "_'' be_VB signs_NNS in_IN the_DT full_JJ Piercean_NNP sense_NN ?_. 
+
+I_PRP believe_VBP it_PRP is_VBZ clear_JJ that_IN mere_JJ chemistry_NN in_IN an_DT autonomous_JJ agent_NN can_MD harbor_NN symbols_NNS and_CC signs_NNS in_IN the_DT full_JJ senses_NNS of_IN the_DT words_NNS ._. 
+Consider_VB first_JJ the_DT famous_JJ genetic_JJ code_NN ._. 
+Triplets_NNP of_IN nucleotides_NNS in_IN an_DT RNA_NNP molecule_NN stand_NN for_IN specific_JJ amino_JJ acids_NNS that_WDT will_MD end_VB up_RB incorporated_VBD into_IN a_DT protein_NN ._. 
+The_DT detailed_VBN causal_NN machinery_NN involves_VBZ transfer_VB RNA_NNP molecules_NNS with_IN their_PRP$ anticodon_NN site_NN and_CC the_DT distant_JJ site_NN to_TO which_WDT amino_JJ acids_NNS are_VBP attached_VBN ,_, the_DT aminoacyle_NN transferase_NN enzymes_NNS that_WDT charge_NN the_DT amino_JJ acid_NN binding_JJ site_NN of_IN each_DT transfer_NN RNA_NNP with_IN the_DT proper_JJ amino_JJ acid_NN among_IN the_DT twenty_CD amino_JJ acids_NNS ,_, the_DT binding_VBG of_IN the_DT charged_VBN transfer_NN RNA_NNP 's_POS anticodon_NN site_NN to_TO the_DT proper_JJ RNA_NNP code_NN word_NN triplet_NN ,_, the_DT ribosome_NN that_IN glides_NNS between_IN adjacent_JJ charged_VBN transfer_VB RNA_NNP molecules_NNS and_CC links_VBZ the_DT successive_JJ amino_JJ acids_NNS into_IN the_DT growing_VBG polypeptide_NN chain_NN that_WDT hangs_VBZ free_JJ in_IN the_DT cytoplasm_NN ,_, tethered_VBN by_IN the_DT ribosome_NN to_TO the_DT messenger_NN RNA_NNP molecule_NN as_IN it_PRP is_VBZ "_'' translated_VBN ._. "_'' 
+
+The_DT arbitrariness_NNS of_IN the_DT genetic_JJ code_NN is_VBZ exemplified_VBN by_IN the_DT evolution_NN of_IN novel_NN transfer_NN RNA_NNP molecules_NNS ,_, which_WDT translate_VBP a_DT given_VBN messenger_NN RNA_NNP code_NN word_NN triplet_NN into_IN a_DT dierent_NN amino_JJ acid_NN ._. 
+As_IN J._NN Monod_NNP properly_RB emphasized_VBD three_CD decades_NNS ago_RB in_IN a_DT slightly_RB dierent_NN context_NN concerning_VBG activation_NN and_CC inhibition_NN of_IN enzymes_NNS at_IN allosteric_JJ sites_NNS on_IN the_DT enzyme_NN that_WDT are_VBP distant_JJ from_IN the_DT catalytic_JJ site_NN ,_, the_DT relation_NN of_IN chemical_NN structures_NNS that_WDT achieve_VBP control_NN of_IN catalysis_NNS are_VBP utterly_RB arbitrary_JJ with_IN respect_NN to_TO the_DT chemical_NN structures_NNS that_WDT undergo_VBP the_DT catalysis_NNS ._. 
+The_DT same_JJ is_VBZ true_JJ of_IN the_DT transfer_NN RNA_NNP where_WRB the_DT anticodon_NN site_NN is_VBZ distant_JJ from_IN the_DT amino_JJ acid_NN binding_JJ site_NN ._. 
+Because_IN of_IN this_DT ,_, which_WDT amino_JJ acid_NN is_VBZ charged_VBN onto_IN a_DT particular_JJ transfer_NN RNA_NNP is_VBZ utterly_RB arbitrary_JJ and_CC controlled_VBN by_IN the_DT aminoacyle_NN transferase_NN enzyme_NN that_WDT does_VBZ the_DT charging_NN ,_, plus_CC the_DT structure_NN of_IN the_DT amino_JJ acid_NN binding_JJ site_NN on_IN the_DT transfer_NN RNA_NNP ._. 
+Both_DT of_IN these_DT can_MD be_VB altered_VBN without_IN altering_VBG the_DT anticodon-codon_JJ matching_NN mechanism_NN ._. 
+In_IN short_JJ ,_, chemistry_NN allows_VBZ arbitrary_JJ organizations_NNS of_IN control_NN relations_NNS ._. 
+
+It_PRP seems_VBZ fully_RB legitimate_JJ to_TO assign_VB the_DT concepts_NNS of_IN sign_NN ,_, signified_VBD ,_, and_CC significans_NNS to_TO the_DT genetic_JJ code_NN ._. 
+It_PRP seems_VBZ legitimate_JJ to_TO extend_VB that_DT notion_NN to_TO much_JJ of_IN the_DT subtle_JJ signaling_VBG ,_, chemical_NN and_CC otherwise_RB ,_, within_IN and_CC between_IN autonomous_JJ agents_NNS ,_, as_IN exemplified_VBN by_IN plants_NNS that_IN upon_IN infestation_NN by_IN a_DT particular_JJ insect_NN secrete_NN a_DT secondary_JJ metabolite_NN chemical_NN that_IN "_'' warns_VBZ "_'' other_JJ members_NNS of_IN the_DT same_JJ species_NNS that_IN an_DT insect_NN infestation_NN is_VBZ happening_VBG and_CC to_TO turn_VB on_RP defensive_JJ anti-insect_JJ secondary_JJ metabolites_NNS ._. 
+
+The_DT calculus_JJ that_WDT is_VBZ Claude_NNP Shannon_NNP 's_POS elegant_JJ information_NN theory_NN has_VBZ always_RB been_VBN about_IN reduction_NN of_IN uncertainty_NN about_IN the_DT statistics_NNS of_IN the_DT source_NN of_IN a_DT set_NN of_IN symbols_NNS ._. 
+Nowhere_RB in_IN the_DT core_NN of_IN Shannon_NNP 's_POS work_NN concerning_VBG the_DT encoding_VBG and_CC transmission_NN of_IN information_NN does_VBZ the_DT meaning_NN ,_, or_CC semantics_NNS ,_, of_IN the_DT information_NN enter_VB ._. 
+This_DT is_VBZ no_DT criticism_NN ,_, and_CC is_VBZ widely_RB known_VBN and_CC appreciated_VBN ._. 
+There_EX is_VBZ ,_, however_RB ,_, just_RB a_DT hint_NN of_IN semantics_NNS in_IN Shannon_NNP 's_POS view_NN that_IN the_DT semantics_NNS resides_VBZ in_IN the_DT "_'' decoder_NN ._. "_'' 
+
+I_PRP cannot_NN buy_NN Shannon_NNP 's_POS view_NN unless_IN the_DT decoder_NN is_VBZ an_DT autonomous_JJ agent_NN ._. 
+If_IN not_RB ,_, then_RB the_DT decoder_NN merely_RB transforms_VBZ a_DT bit_NN string_NN sent_VBD along_IN a_DT communication_NN channel_NN into_IN some_DT other_JJ discrete_JJ or_CC continuous_JJ dynamicsperhaps_NNS a_DT set_NN of_IN water-filled_JJ bowls_VBZ is_VBZ drained_VBN by_IN turning_VBG on_IN a_DT machine_NN that_WDT opens_VBZ valves_NNS between_IN the_DT bowls_VBZ and_CC to_TO the_DT outside_JJ world_NN in_IN particular_JJ ways_NNS ._. 
+The_DT patterns_NNS of_IN bowl_NN drainage_NN upon_IN receipt_NN of_IN the_DT binary_JJ string_NN messages_NNS sent_VBD along_IN the_DT communication_NN channel_NN constitutes_VBZ the_DT decoding_VBG ._. 
+
+But_CC if_IN the_DT recipient_NN is_VBZ an_DT autonomous_JJ agent_NN such_JJ as_IN a_DT bacterium_NN and_CC the_DT incoming_JJ molecule_NN is_VBZ a_DT symbol-sign_JJ of_IN a_DT paramecium_NN or_CC an_DT amoeba_NN on_IN the_DT roam_VBP and_CC the_DT bacterium_NN swims_NNS away_RB and_CC avoids_VBZ becoming_VBG dinner_NN ,_, that_DT sequence_NN of_IN events_NNS seems_VBZ laden_JJ with_IN semantics_NNS ._. 
+If_IN only_RB the_DT bacterium_NN could_MD tell_VB us_PRP :_: "_'' Did_VBD you_PRP see_VBP that_DT truck_NN of_IN a_DT paramecium_NN coming_VBG at_IN me_PRP ?_. 
+I_PRP 've_VBP run_VBN into_IN that_DT one_CD before_RB !_. 
+I_PRP ducked_JJ under_IN a_DT boulder_NN ,_, and_CC he_PRP never_RB sensed_VBD me_PRP ._. 
+I_PRP made_VBD it_PRP home_NN ._. 
+Pass_NNP me_PRP some_DT more_JJR glucose_NN please_VB ,_, Martha_NNP ._. "_'' 
+
+I_PRP will_MD return_VB in_IN the_DT next_JJ chapter_NN to_TO discuss_VB such_JJ stories_NNS ,_, for_IN I_PRP will_MD say_VB that_IN we_PRP cannot_NN prestate_NN the_DT configuration_NN space_NN of_IN a_DT biosphere_NN and_CC ,_, therefore_RB ,_, cannot_NN deduce_NN that_IN which_WDT will_MD unfold_VB ._. 
+Thus_RB ,_, among_IN other_JJ things_NNS ,_, we_PRP must_MD tell_VB stories_NNS to_TO understand_VB the_DT oriented_VBN actions_NNS of_IN agents_NNS in_IN their_PRP$ worlds_NNS ._. 
+Do_VBP not_RB be_VB overly_RB quick_JJ to_TO accuse_VB me_PRP of_IN anthropomorphizing_VBG ._. 
+I_PRP too_RB know_VBP the_DT risks_NNS ,_, including_VBG the_DT common_JJ claim_NN that_IN we_PRP can_MD always_RB in_IN principle_NN translate_VB from_IN "_'' intentional_JJ talk_NN "_'' to_TO the_DT fully_RB predictive_JJ causal_NN account_NN of_IN the_DT events_NNS in_IN question_NN ._. 
+But_CC patience_NN ._. 
+Not_RB only_RB are_VBP we_PRP unable_JJ to_TO prestate_NN the_DT configuration_NN space_NN of_IN a_DT biosphere_NN and_CC predict_VBP what_WP will_MD unfold_VB ,_, but_CC we_PRP also_RB cannot_NN even_RB translatein_NN the_DT sense_NN of_IN necessary_JJ and_CC sucient_NN conditionsfrom_NN legal_JJ talk_NN to_TO normal_JJ intentional_JJ talk_NN ,_, let_VB alone_RB from_IN legal_JJ talk_NN of_IN Henderson_NNP found_VBD guilty_JJ of_IN murder_NN to_TO a_DT physical_JJ talk_NN about_IN sound-wave_JJ forms_NNS monitored_VBN and_CC masses_NNS at_IN space-time_JJ lines_NNS as_IN a_DT description_NN ._. 
+
+Then_RB let_VB 's_POS just_RB be_VB naive_JJ for_IN the_DT moment_NN ._. 
+The_DT semantics_NNS of_IN the_DT yuck_NN or_CC yum_NN coming_VBG into_IN a_DT simple_JJ autonomous_JJ agentsay_NN ,_, an_DT early_JJ bacteriumis_NNS somehow_RB linked_VBN with_IN the_DT embodied_VBN know-how_NN of_IN that_DT agent_NN in_IN making_VBG a_DT living_NN ,_, or_CC failing_VBG to_TO make_VB a_DT living_NN ,_, in_IN its_PRP$ world_NN ._. 
+The_DT semantics_NNS of_IN an_DT event_NN is_VBZ some_DT subset_NN of_IN the_DT fully_RB embroidered_JJ ,_, context-dependent_JJ set_NN of_IN causal_NN implications_NNS of_IN the_DT event_NN ,_, or_CC signal_NN ,_, in_IN question_NN ._. 
+
+"_'' For_IN want_VBP of_IN a_DT nail_NN ,_, the_DT shoe_NN was_VBD lost_VBN ;_: for_IN want_VBP of_IN the_DT shoe_NN ,_, the_DT horse_NN was_VBD lost_VBN ;_: and_CC for_IN want_VBP of_IN the_DT horse_NN ,_, the_DT rider_NN was_VBD lost_VBN ,_, "_'' more_JJR or_CC less_JJR ,_, said_VBD Benjamin_NNP Franklin_NNP ._. 
+The_DT semantics_NNS of_IN the_DT nail_NN is_VBZ some_DT subset_NN of_IN this_DT embroidered_JJ context-dependent_JJ set_NN of_IN implications_NNS of_IN the_DT event_NN ,_, or_CC signal_NN ,_, in_IN question_NN to_TO the_DT autonomous_JJ agents_NNS in_IN the_DT coevolving_VBG system_NN ._. 
+
+It_PRP seems_VBZ hard_JJ to_TO ascribe_VBP purpose_NN ,_, in_IN the_DT sense_NN of_IN acting_VBG on_IN its_PRP$ own_JJ behalf_NN ,_, to_TO a_DT stone_NN or_CC a_DT chair_NN and_CC easy_JJ with_IN respect_NN to_TO an_DT alga_NN ._. 
+Of_IN course_NN ,_, there_EX is_VBZ a_DT sense_NN in_IN which_WDT my_PRP$ attribution_NN of_IN semantics_NNS to_TO autonomous_JJ agents_NNS is_VBZ purely_RB tautological_JJ ._. 
+After_IN all_DT ,_, I_PRP began_VBD by_IN stating_VBG that_IN a_DT bacterium_NN swimming_NN upstream_RB in_IN the_DT glucose_NN gradient_NN was_VBD acting_VBG on_IN its_PRP$ own_JJ behalf_NN in_IN an_DT environment_NN ,_, defined_VBD an_DT autonomous_JJ agent_NN as_IN a_DT physical_JJ system_NN able_JJ to_TO act_VB on_IN its_PRP$ own_JJ behalf_NN ,_, then_RB asked_VBD what_WP a_DT physical_JJ system_NN must_MD be_VB such_JJ that_IN it_PRP can_MD act_VB on_IN its_PRP$ own_JJ behalf_NN ._. 
+Now_RB ,_, five_CD chapters_NNS later_RB ,_, it_PRP is_VBZ hardly_RB an_DT independent_JJ deduction_NN that_IN autonomous_JJ agents_NNS are_VBP the_DT proposed_VBN organization_NN of_IN matter_NN ,_, energy_NN ,_, and_CC organization_NN to_TO which_WDT purposes_NNS can_MD be_VB ascribed_VBN in_IN the_DT sense_NN of_IN being_VBG able_JJ to_TO act_VB on_IN their_PRP$ own_JJ behalf_NN ._. 
+My_PRP$ definition_NN is_VBZ a_DT definitional_NN circle_NN ._. 
+
+On_IN the_DT other_JJ hand_NN ,_, while_IN the_DT definition_NN is_VBZ circular_JJ ,_, like_IN F_NN =_SYM MA_NNP and_CC Darwin_NNP 's_POS "_'' natural_JJ selection_NN "_'' and_CC "_'' fitness_NN ,_, "_'' that_WDT does_VBZ not_RB mean_VB that_IN the_DT set_NN of_IN codefined_JJ concepts_NNS surrounding_VBG my_PRP$ definition_NN of_IN an_DT autonomous_JJ agent_NN as_IN a_DT reproducing_VBG system_NN that_WDT does_VBZ a_DT work_NN cycle_NN fails_VBZ to_TO touch_VB the_DT real_JJ world_NN ._. 
+Stones_NNP and_CC chairs_NNS are_VBP not_RB ,_, by_IN my_PRP$ definition_NN ,_, autonomous_JJ agents_NNS ._. 
+All_DT living_VBG cells_NNS are_VBP ._. 
+And_CC the_DT stunning_JJ fact_NN directly_RB before_IN us_PRP ,_, every_DT day_NN ,_, is_VBZ that_IN autonomous_JJ agents_NNS do_VBP manipulate_VB the_DT world_NN on_IN their_PRP$ own_JJ behalf_NN ._. 
+Watch_NNP a_DT pair_NN of_IN nesting_JJ birds_NNS build_VBP their_PRP$ nest_NN ._. 
+
+In_IN short_JJ ,_, once_RB we_PRP have_VBP autonomous_JJ agents_NNS and_CC yuck_NN and_CC yum_NN ,_, it_PRP appears_VBZ that_IN semantics_NNS enters_VBZ the_DT universe_NN as_IN the_DT agents_NNS coevolve_NN and_CC behave_VB on_IN their_PRP$ own_JJ behalf_NN with_IN one_CD another_DT in_IN the_DT unfolding_VBG of_IN a_DT biosphere_NN ._. 
+
+Knowing_VBG 
+What_WP about_IN "_'' knowing_VBG "_'' ?_. 
+
+Daniel_NNP Dennett_NNP ,_, in_IN his_PRP$ fine_NN book_NN Darwin_NNP 's_POS Dangerous_JJ Idea_NNP ,_, advances_NNS a_DT hierarchy_NN of_IN forms_NNS of_IN "_'' knowing_VBG ,_, "_'' if_IN I_PRP may_MD use_VB that_DT term_NN ,_, that_WDT have_VBP arisen_VBN in_IN evolution_NN by_IN Darwinian_JJ means_NNS ._. 
+I_PRP find_VBP his_PRP$ hierarchy_NN congenial_JJ and_CC informative_JJ ._. 
+Dennett_NNP envisions_VBZ evolution_NN as_IN a_DT sequence_NN of_IN kinds_NNS of_IN construction_NN cranes_NNS that_WDT bit_NN by_IN bit_NN build_VB up_RB higher-order_JJ entities_NNS via_IN variation_NN and_CC natural_JJ selection_NN ._. 
+
+I_PRP do_VBP not_RB disagree_VB ,_, although_IN I_PRP have_VBP placed_VBN far_RB greater_JJR emphasis_NN on_IN the_DT roles_NNS of_IN self-organization_JJ in_IN evolution_NN ._. 
+Here_RB ,_, in_IN Investigations_NNP ,_, I_PRP am_VBP trying_VBG to_TO point_VB at_IN the_DT mysterious_JJ but_CC utterly_RB natural_JJ hopefulness_NNS in_IN which_WDT an_DT increasing_VBG diversity_NN of_IN broken_VBN symmetries_NNS in_IN the_DT universe_NN creates_VBZ the_DT diversity_NN of_IN structures_NNS and_CC processes_VBZ that_WDT can_MD constitute_VB and_CC identify_VB ramified_JJ and_CC ramifying_VBG sources_NNS of_IN energy_NN ,_, detect_VBP those_DT sources_NNS of_IN energy_NN ,_, create_VB devices_NNS and_CC processes_VBZ that_DT couple_NN to_TO those_DT sources_NNS of_IN energy_NN ,_, and_CC generate_VB yet_RB more_JJR diversity_NN that_WDT propagates_NNS macroscopic_JJ order_NN even_RB further_RB ._. 
+I_PRP wonder_NN ,_, in_IN short_JJ ,_, at_IN the_DT naturalness_NNS and_CC self-generaticity_JJ of_IN Dennett_NNP 's_POS cranes_NNS building_NN cranes_NNS building_NN cranes_NNS in_IN biospheres_NNS ,_, perhaps_RB planetary_JJ geologies_NNS ,_, and_CC beyond_IN ._. 
+
+But_CC back_RB to_TO the_DT past_NN ._. 
+Dennett_NNP distinguishes_NNS "_'' Darwinian_JJ creatures_NNS ,_, "_'' "_'' Pavlovian_NNP creatures_NNS ,_, "_'' "_'' Popperian_NNP creatures_NNS ,_, "_'' and_CC "_'' Gregorian_NNP creatures_NNS ._. "_'' 
+A_DT simple_JJ autonomous_JJ agent_NN ,_, say_VB ,_, a_DT bacterium_NN ,_, is_VBZ a_DT Darwinian_JJ creature_NN ._. 
+In_IN its_PRP$ simplest_JJS version_NN ,_, the_DT creature_NN evolves_NNS by_IN mutation_NN ,_, also_RB recombination_NN and_CC natural_JJ selection_NN ._. 
+For_IN the_DT moment_NN ,_, no_DT behavioral_JJ learning_NN is_VBZ to_TO be_VB considered_VBN ._. 
+So_RB one_CD (_( or_CC a_DT colony_NN or_CC an_DT ecosystem_NN )_) of_IN Darwinian_JJ creatures_NNS adapts_NNS more_RBR or_CC less_JJR as_IN Darwin_NNP told_VBD us_PRP ._. 
+
+At_IN the_DT next_JJ level_NN up_RB ,_, say_VB ,_, aplysia_NN ,_, a_DT nervous_JJ system_NN is_VBZ present_JJ ,_, and_CC the_DT creature_NN is_VBZ capable_JJ of_IN stimulus-response_JJ learning_NN ,_, á_NN la_FW Pavlov_NNP ._. 
+Indeed_RB ,_, aplysia_NN can_MD learn_VB very_RB simple_JJ conditioned_VBN stimulithe_NN later_RB analogue_NN is_VBZ the_DT bell_NN causing_VBG the_DT dog_NN to_TO salivate_NN in_IN "_'' expectation_NN "_'' of_IN food_NN ._. 
+
+At_IN the_DT next_JJ level_NN (_( Dennett_NNP ,_, perhaps_RB properly_RB ,_, reserves_NNS this_DT for_IN us_PRP vertebrates_NNS )_) is_VBZ the_DT Popperian_NNP creature_NN ._. 
+Popperian_NNP creatures_NNS ,_, in_IN Dennett_NNP 's_POS fine_NN phrase_NN ,_, have_VBP "_'' internal_JJ models_NNS "_'' of_IN their_PRP$ world_NN and_CC can_MD "_'' run_VB the_DT internal_JJ model_NN "_'' with_IN the_DT clutch_NN disengaged_JJ ,_, rather_RB than_IN running_VBG the_DT model_NN in_IN real_JJ time_NN in_IN the_DT real_JJ world_NN ._. 
+This_DT allows_VBZ us_PRP lucky_JJ Popperian_NNP creatures_NNS to_TO allow_VB our_PRP$ "_'' hypotheses_NNS to_TO die_VB in_IN our_PRP$ stead_NN ._. "_'' 
+I_PRP love_VBP that_DT image_NN ._. 
+
+Beyond_IN the_DT Popperian_NNP is_VBZ the_DT Gregorian_NNP creaturenamely_RB ,_, at_IN least_JJS humans_NNS ._. 
+Dennett_NNP makes_VBZ the_DT wonderful_JJ argument_NN that_IN we_PRP utilize_VB our_PRP$ toolsliterally_RB stone_NN knives_NNS ,_, arrows_NNS ,_, digging_NN sticks_VBZ ,_, machine_NN toolsto_NN enlarge_VB our_PRP$ shared_VBN world_NN of_IN facts_NNS and_CC processes_NNS ._. 
+This_DT enlarged_JJ shared_VBN world_NN gives_VBZ us_PRP more_JJR know-how_NN ,_, and_CC more_JJR know_VB that_DT ._. 
+Cultural_JJ evolution_NN ,_, at_IN some_DT point_NN ,_, begins_VBZ to_TO burst_NN out-of-bounds_JJ ._. 
+Hard_NNP rock_NN music_NN jangles_NNS the_DT minarets_NNS of_IN Iran_NNP ._. 
+Who_WP knows_VBZ what_WP new_JJ cultural_JJ forms_NNS will_MD blossom_NN ?_. 
+Chinese_JJ cooking_NN lands_NNS in_IN Cuba_NNP ,_, and_CC Cuban-_NNP Chinese_JJ cuisine_NN is_VBZ invented_VBN ._. 
+What_WP 's_VBZ next_JJ under_IN the_DT sun_NN ?_. 
+Who_WP can_MD say_VB ?_. 
+
+I_PRP very_RB much_RB like_IN Dennett_NNP 's_POS ladder_NN of_IN know-how_NN ,_, and_CC eventual_JJ know_VB that_DT ._. 
+Without_IN invoking_VBG consciousness_NN ,_, not_RB because_IN it_PRP is_VBZ not_RB worth_JJ invoking_VBG but_CC because_IN so_RB little_RB sensible_NN has_VBZ ever_RB been_VBN said_VBN on_IN the_DT subject_NN ,_, it_PRP seems_VBZ worth_JJ asking_NN how_WRB much_JJ of_IN this_DT hierarchy_NN could_MD be_VB realized_VBN by_IN simple_JJ molecular_JJ systems_NNS ,_, even_RB without_IN evoking_VBG nerve_NN cells_NNS ._. 
+
+I_PRP would_MD think_VB a_DT lot_NN of_IN this_DT hierarchy_NN could_MD find_VB molecular_JJ realizations_NNS ._. 
+For_IN example_NN ,_, bacteria_NNS and_CC amoebae_NN do_VBP have_VBP a_DT kind_NN of_IN Pavlovian_NNP learning_VBG already_RB ,_, for_IN they_PRP have_VBP receptors_NNS that_WDT accommodate_VBP to_TO a_DT constant_JJ level_NN of_IN a_DT given_VBN signal_NN ligand_NN and_CC sense_NN instead_RB a_DT change_NN from_IN the_DT current_JJ level_NN ._. 
+This_DT is_VBZ not_RB yet_RB the_DT association_NN of_IN a_DT more_JJR or_CC less_RBR arbitrary_JJ conditioned_VBN stimulus_NN with_IN an_DT unconditioned_JJ stimulus_NN ,_, but_CC I_PRP can_MD imagine_VB chemistry_NN to_TO accomplish_VB the_DT latter_NN ._. 
+As_IN neurons_NNS are_VBP supposed_VBN to_TO proliferate_VBP and_CC form_NN novel_NN synaptic_JJ connections_NNS that_WDT survive_VBP if_IN used_VBN and_CC to_TO mediate_VB the_DT linkage_NN of_IN conditioned_VBN to_TO unconditioned_JJ stimulus_NN ,_, why_WRB not_RB envision_VB a_DT complex_JJ chemistry_NN ,_, say_VB ,_, very_RB complex_JJ carbohydrate-synthesis_JJ patterns_NNS sustained_VBN by_IN complex_JJ sets_NNS of_IN enzymes_NNS whose_WP$ activities_NNS are_VBP modulated_JJ by_IN the_DT dierent_NN carbohydrates_NNS themselves_PRP ,_, which_WDT is_VBZ true_JJ of_IN contemporary_JJ carbohydrate_NN metabolism_NN ._. 
+Such_JJ a_DT system_NN might_MD blindly_RB try_VB out_IN variant_NN patterns_NNS of_IN synthesis_NN until_IN it_PRP could_MD establish_VB a_DT self-sustaining_JJ web_NN linking_VBG the_DT carbohydrates_NNS ,_, the_DT enzymes_NNS ,_, and_CC certain_JJ protein_NN receptors_NNS mediating_VBG the_DT linkage_NN between_IN unconditioned_JJ and_CC conditioned_VBN stimulus_NN ,_, then_RB maintain_VB that_DT linkage_NN by_IN positive_JJ feedback_NN loops_NNS ._. 
+The_DT image_NN is_VBZ not_RB too_RB far_RB from_IN how_WRB it_PRP is_VBZ imagined_VBN that_IN "_'' idiotype_NN "_'' and_CC "_'' anti-idiotype_JJ "_'' immune_JJ networks_NNS work_VBP to_TO sustain_VB synthesis_NN of_IN a_DT set_NN of_IN desired_VBN antibodies_NNS against_IN an_DT incoming_JJ pathogen_NN ._. 
+In_IN such_JJ networks_NNS ,_, for_IN which_WDT there_EX is_VBZ modestly_RB good_JJ evidence_NN ,_, a_DT given_VBN first_JJ antibody_NN serves_VBZ as_IN an_DT antigen_NN that_IN stimulates_NNS the_DT body_NN to_TO produce_VB a_DT second_JJ antibody_NN that_IN binds_NNS to_TO the_DT unique_JJ amino_JJ acid_NN sequences_NNS ,_, called_VBD the_DT "_'' idiotype_NN "_'' of_IN the_DT first_JJ antibody_NN ._. 
+In_IN turn_NN ,_, the_DT second_JJ "_'' anti-idiotype_JJ "_'' antibody_NN stimulates_NNS a_DT third_NN ,_, which_WDT stimulates_NNS a_DT fourth_JJ ._. 
+But_CC this_DT series_NN is_VBZ likely_JJ to_TO form_VB feedback_NN loops_NNS because_IN the_DT first_JJ and_CC third_JJ antibody_NN can_MD often_RB both_DT bind_NN to_TO the_DT same_JJ site_NN on_IN the_DT second_JJ antibody_NN ,_, hence_RB ,_, the_DT first_JJ and_CC third_JJ antibodies_NNS are_VBP similar_JJ shapes_NNS in_IN shape_NN space_NN ._. 
+It_PRP is_VBZ not_RB much_JJ of_IN a_DT stretch_NN to_TO think_VB of_IN the_DT immune_JJ system_NN as_IN a_DT conditioned_VBN stimulus_NN response_NN system_NN ._. 
+
+Popperian_NNP creatures_NNS ?_. 
+Why_WRB cannot_NN the_DT molecular-sensing_JJ and_CC hypothesis-testing_JJ churning_VBG concerns_NNS of_IN the_DT bacterium_NN as_IN it_PRP senses_NNS a_DT paramecium_NN churn_VBP twenty_CD cycles_NNS before_IN kicking_VBG in_IN the_DT rotary_JJ motor_NN ,_, or_CC not_RB ,_, such_JJ that_IN the_DT wee_NN bacterium_NN hides_NNS under_IN a_DT boulder_NN of_IN a_DT grain_NN of_IN sand_NN until_IN the_DT beast_NN passes_VBZ by_RP ?_. 
+Are_VBP nerves_NNS necessary_JJ ?_. 
+Plants_NNP ,_, as_IN noted_VBN ,_, are_VBP said_VBD to_TO signal_VB one_CD another_DT with_IN complex_JJ secondary_JJ metabolites_NNS to_TO characterize_VB the_DT particular_JJ kinds_NNS of_IN insects_NNS infesting_VBG the_DT glade_NN ._. 
+There_EX are_VBP arbitrary_JJ structural_JJ relations_NNS between_IN the_DT metabolite_NN and_CC the_DT insect_NN ,_, just_RB as_IN symbols_NNS in_IN human_JJ language_NN are_VBP often_RB arbitrary_JJ with_IN respect_NN to_TO the_DT signified_VBD ._. 
+Not_RB bad_JJ for_IN nerveless_JJ nonvertebrates_NNS ._. 
+
+I_PRP do_VBP get_VB stuck_VBN at_IN Gregorian_NNP creatures_NNS ._. 
+Even_RB here_RB ,_, the_DT free_JJ and_CC open_NN creating_VBG of_IN new_JJ symbol_NN strings_NNS in_IN a_DT language_NN ,_, wherever_WRB new_JJ sentences_NNS can_MD be_VB created_VBN ,_, is_VBZ not_RB that_IN fundamentally_RB dierent_NN from_IN the_DT persistent_JJ open_JJ creation_NN of_IN new_JJ kinds_NNS of_IN molecules_NNS in_IN the_DT biosphere_NN as_IN a_DT whole_NN ._. 
+If_IN the_DT conversation_NN we_PRP recent_JJ two-legged_JJ ones_NNS are_VBP having_VBG with_IN respect_NN to_TO our_PRP$ digging_NN sticks_VBZ and_CC atomic_JJ bombs_NNS is_VBZ impressive_JJ ,_, so_RB too_RB is_VBZ the_DT chemical_NN conversation_NN in_IN any_DT full-fledged_JJ ecosystem_NN ,_, where_WRB we_PRP are_VBP all_DT instrumental_JJ in_IN the_DT lives_NNS of_IN one_CD another_DT ._. 
+
+I_PRP suppose_VBP I_PRP am_VBP naively_RB driven_VBN to_TO consider_VB that_IN the_DT biosphere_NN ,_, with_IN its_PRP$ urgent_JJ diversity_NN in_IN which_WDT ,_, emboldened_VBN by_IN all_DT our_PRP$ know-how_NN ,_, we_PRP do_VBP get_VB on_IN with_IN a_DT very_RB rich_JJ conversation_NN ,_, may_MD very_RB early_JJ already_RB have_VBP harbored_JJ all_PDT the_DT levels_NNS of_IN which_WDT Dennett_NNP speaks_VBZ ._. 
+We_PRP humans_NNS are_VBP just_RB more_RBR gregarious_JJ with_IN our_PRP$ vocal_JJ cords_NNS and_CC e-mail_JJ ,_, I_PRP guess_VBP ._. 
+Smart_NNP place_NN ,_, a_DT biosphere_NN ,_, lots_NNS to_TO talk_VB about_IN ._. 
+Four_CD billion_CD years_NNS of_IN yammering_VBG ._. 
+Slapstick_NNP comedy_NN may_MD have_VB started_VBN a_DT long_JJ time_NN ago_RB ._. 
+
+Ethics_NNP 
+And_CC what_WP of_IN ethics_NNS ?_. 
+Does_VBZ a_DT whiff_NN of_IN ethical_JJ issue_NN arise_VB with_IN autonomous_JJ agents_NNS ?_. 
+Yuck_NNP or_CC yum_NN from_IN my_PRP$ point_NN of_IN view_NN if_IN I_PRP am_VBP an_DT autonomous_JJ agent_NN ._. 
+There_EX are_VBP deep_JJ reasons_NNS for_IN caution_NN ._. 
+Hume_NNP told_VBD us_PRP long_RB ago_RB about_IN the_DT "_'' naturalistic_JJ fallacy_NN "_'' :_: One_CD cannot_NN deduce_NN "_'' ought_MD "_'' from_IN "_'' is_VBZ ._. "_'' 
+From_IN the_DT fact_NN that_IN mothers_NNS care_VBP for_IN their_PRP$ young_JJ ,_, we_PRP cannot_NN deduce_NN that_IN they_PRP ought_MD to_TO do_VB so_RB ,_, Hume_NNP argued_VBD ._. 
+From_IN the_DT fact_NN that_IN Hitler_NNP set_VBD out_IN to_TO conquer_VB Europe_NNP and_CC more_JJR and_CC to_TO kill_VB Jewry_NNP ,_, we_PRP cannot_NN deduce_NN that_IN he_PRP ought_MD to_TO have_VB done_VBN so_RB ._. 
+
+Indeed_RB ,_, Hume_NNP 's_POS injunction_NN underlies_NNS the_DT caution_NN of_IN scientists_NNS about_IN making_VBG ethical_JJ statements_NNS ._. 
+We_PRP scientists_NNS find_VBP the_DT facts_NNS ._. 
+You_PRP citizens_NNS across_IN the_DT globe_NN can_MD argue_VB the_DT ethics_NNS ._. 
+But_CC if_IN Hume_NNP warns_VBZ us_PRP not_RB to_TO deduce_NN ought_MD from_IN is_VBZ ,_, where_WRB do_VBP values_NNS come_VBP from_IN at_IN all_DT ?_. 
+Hume_NNP 's_POS injunction_NN against_IN deduction_NN from_IN is_VBZ to_TO ought_MD nevertheless_RB began_VBD by_IN recognizing_VBG the_DT legitimacy_NN of_IN the_DT category_NN "_'' ought_MD ._. "_'' 
+
+The_DT eorts_NNS following_VBG Hume_NNP to_TO understand_VB the_DT meaning_NN of_IN ethical_JJ assertions_NNS have_VBP been_VBN long_JJ ,_, twisted_JJ ,_, arduous_JJ ._. 
+Following_VBG the_DT dictates_VBZ of_IN the_DT logical_JJ positivists_NNS of_IN the_DT Vienna_NNP Circle_NNP that_IN only_RB those_DT statements_NNS capable_JJ of_IN verification_NN were_VBD meaningful_JJ ,_, philosophers_NNS as_RB famous_JJ as_IN G._NN E._NN Moore_NNP came_VBD to_TO wonder_VB if_IN ethical_JJ assertions_NNS were_VBD merely_RB emotive_JJ utterances_NNS ._. 
+"_'' It_PRP is_VBZ wrong_JJ to_TO kill_VB ._. "_'' 
+Becomes_NNP ,_, "_'' Agggah_NNP !_. "_'' 
+Does_VBZ the_DT positivist_NN argument_NN seem_VBP persuasive_JJ ?_. 
+It_PRP has_VBZ always_RB amused_JJ me_PRP that_IN the_DT core_NN injunction_NN of_IN the_DT logical_JJ positivists_NNS ,_, "_'' only_RB those_DT statements_NNS that_WDT are_VBP empirically_RB verifiable_JJ are_VBP meaningful_JJ ,_, "_'' is_VBZ itself_PRP not_RB empirically_RB verifiable_JJ ._. 
+One_CD is_VBZ reminded_VBN of_IN something_NN about_IN hoisting_NN and_CC petards_NNS ._. 
+
+John_NNP Rawls_NNP of_IN Harvard_NNP has_VBZ argued_VBN eloquently_RB that_IN our_PRP$ human_JJ notions_NNS of_IN fairness_NN derive_VB from_IN what_WP we_PRP would_MD all_DT "_'' contractually_RB "_'' agree_VBP to_TO ,_, were_VBD we_PRP to_TO know_VB before_IN birth_NN that_IN we_PRP would_MD all_DT be_VBP born_VBN with_IN diering_VBG abilities_NNS and_CC endowments_NNS ._. 
+Thus_RB "_'' equality_NN before_IN the_DT law_NN "_'' is_VBZ one_CD contract_NN that_IN Rawls_NNP commends_VBZ to_TO us_PRP ._. 
+"_'' Equality_NNP before_IN the_DT law_NN "_'' is_VBZ far_RB more_RBR refined_JJ than_IN the_DT yuck_NN or_CC yum_NN of_IN the_DT bacterium_NN ._. 
+The_DT emergence_NN of_IN ethics_NNS in_IN the_DT evolution_NN of_IN life_NN on_IN this_DT planet_NN is_VBZ a_DT fascinating_JJ issue_NN ._. 
+
+I_PRP will_MD content_VB myself_PRP with_IN wondering_VBG where_WRB "_'' value_NN "_'' and_CC the_DT rudiments_NNS of_IN "_'' intentionality_NN "_'' come_VB from_IN in_IN the_DT physical_JJ universe_NN in_IN the_DT first_JJ place_NN and_CC leave_VB social_JJ contracts_NNS for_IN other_JJ eorts_NNS ._. 
+Where_WRB is_VBZ the_DT place_NN of_IN value_NN in_IN a_DT world_NN of_IN fact_NN ?_. 
+
+So_RB ,_, a_DT short_JJ soliloquy_NN ._. 
+Facts_NNP are_VBP know-that_JJ statements_NNS ._. 
+But_CC know-how_NN preceded_VBN know_VB that_DT ._. 
+While_IN fully_RB aware_JJ of_IN Hume_NNP 's_POS injunction_NN ,_, I_PRP think_VBP that_IN from_IN the_DT autonomous_JJ agent_NN 's_POS perspective_NN ,_, yuck_NN or_CC yum_NN is_VBZ primary_JJ ,_, unavoidable_JJ ,_, and_CC of_IN the_DT deepest_JJS importance_NN to_TO that_DT agent_NN ._. 
+I_PRP suppose_VBP we_PRP apply_VBP the_DT Darwinian_JJ criteria_NNS ._. 
+Too_RB much_JJ yuck_NN ,_, this_DT one_CD and_CC its_PRP$ progeny_NN are_VBP gone_VBN from_IN the_DT future_NN of_IN the_DT biosphere_NN ._. 
+Without_IN attributing_VBG consciousness_NN to_TO an_DT E._NN coli_NNS ,_, or_CC an_DT autonomous_JJ agent_NN we_PRP may_MD create_VB in_IN the_DT near_JJ future_JJ ,_, I_PRP cannot_NN help_NN but_CC feel_VBP that_IN the_DT rudiments_NNS of_IN value_NN are_VBP present_JJ once_RB autonomous_JJ agents_NNS are_VBP around_IN ._. 
+
+And_CC again_RB without_IN attributing_VBG consciousness_NN ,_, once_RB an_DT autonomous_JJ agent_NN is_VBZ around_IN is_VBZ the_DT rudiment_NN of_IN intentionality_NN present_JJ ?_. 
+If_IN so_RB ,_, another_DT cornerstone_NN of_IN ethical_JJ activity_NN has_VBZ been_VBN laid_VBN ._. 
+Ethical_NNP behavior_NN requires_VBZ first_JJ the_DT logical_JJ possibility_NN of_IN behavior_NN for_IN which_WDT one_CD is_VBZ responsible_JJ ._. 
+You_PRP are_VBP not_RB responsible_JJ for_IN acts_NNS and_CC eects_NNS beyond_IN your_PRP$ control_NN ._. 
+To_TO act_VB ethically_RB ,_, you_PRP must_MD first_RB be_VB able_JJ to_TO act_VB at_IN all_DT ._. 
+
+But_CC what_WP are_VBP "_'' acts_NNS "_'' in_IN the_DT first_JJ place_NN ?_. 
+Daniel_NNP Yamins_NNP is_VBZ a_DT brilliant_JJ young_JJ mathematician_NN ._. 
+Now_RB entering_VBG Harvard_NNP ,_, Dan_NNP spent_VBD a_DT summer_NN with_IN me_PRP at_IN the_DT Santa_NNP Fe_NNP Institute_NNP before_IN he_PRP learned_VBD to_TO drive_VB ,_, after_IN an_DT earlier_JJR summer_NN spent_VBD in_IN the_DT laboratory_NN of_IN Jack_NNP Szostak_NNP at_IN Harvard_NNP ,_, where_WRB ,_, at_IN age_NN fourteen_CD ,_, Dan_NNP was_VBD learning_VBG to_TO evolve_VB RNA_NNP molecules_NNS to_TO bind_NN arbitrary_JJ ligands_NNS ._. 
+Dan_NNP and_CC I_PRP struggled_VBD that_DT summer_NN to_TO make_VB the_DT distinction_NN between_IN the_DT "_'' doings_NNS "_'' of_IN an_DT autonomous_JJ agent_NN and_CC mere_JJ happenings_NNS in_IN and_CC around_IN the_DT autonomous_JJ agent_NN ._. 
+Note_VB we_PRP say_VBP the_DT E._NN coli_NNS is_VBZ swimming_VBG upstream_RB in_IN the_DT glucose_NN gradient_NN to_TO get_VB dinner_NN ._. 
+But_CC all_DT sorts_NNS of_IN molecular_JJ vibrational_NN ,_, rotational_NN ,_, and_CC translational_NN motions_NNS are_VBP occurring_VBG ._. 
+What_WP are_VBP actions_NNS and_CC what_WP are_VBP mere_JJ happenings_NNS ?_. 
+
+I_PRP do_VBP not_RB think_VB we_PRP were_VBD successful_JJ in_IN drawing_VBG a_DT clean_JJ distinction_NN between_IN doings_NNS and_CC happenings_NNS with_IN clear_JJ mathematics_NN ._. 
+But_CC I_PRP sense_VBP that_IN the_DT distinction_NN between_IN doings_NNS and_CC happenings_NNS ,_, Dan_NNP 's_POS happy_JJ phrasing_NN ,_, is_VBZ relevant_JJ for_IN E._NN coli_NNS ,_, tigers_NNS ,_, us_PRP ,_, trees_NNS ,_, and_CC autonomous_JJ agents_NNS in_IN general_NN ._. 
+We_PRP will_MD meet_VB a_DT similar_JJ problem_NN in_IN the_DT next_JJ chapter_NN when_WRB we_PRP attempt_VBP to_TO distinguish_VB between_IN the_DT function_NN of_IN a_DT part_NN of_IN an_DT organism_NN and_CC the_DT other_JJ causal_NN consequences_NNS of_IN that_DT part_NN of_IN the_DT organism_NN ._. 
+
+Strange_JJ and_CC interesting_JJ ,_, is_VBZ it_PRP not_RB ,_, that_IN these_DT issues_NNS all_DT seem_VBP to_TO arise_VB with_IN autonomous_JJ agents_NNS but_CC not_RB otherwise_RB ?_. 
+Granted_NNP that_IN we_PRP here_RB seem_VBP to_TO confront_VB the_DT language_NN game_NN circularity_NN alluded_VBD to_TO earlier_RBR ,_, yet_RB I_PRP do_VBP truly_RB think_VBP that_IN the_DT rudiments_NNS of_IN semantics_NNS ,_, intentionality_NN ,_, value_NN ,_, and_CC ethics_NNS arise_VBP with_IN autonomous_JJ agents_NNS ._. 
+I_PRP do_VBP not_RB think_VB those_DT rudiments_NNS suce_NN to_TO jump_VB over_IN Hume_NNP 's_POS naturalistic_JJ fallacy_NN ._. 
+We_PRP cannot_NN deduce_NN ought_MD from_IN is_VBZ in_IN any_DT concrete_JJ context_NN ,_, but_CC I_PRP think_VBP we_PRP have_VBP the_DT categories_NNS of_IN ought_MD and_CC is_VBZ in_IN the_DT physical_JJ universe_NN once_RB we_PRP have_VBP autonomous_JJ agents_NNS ._. 
+

@@ -1,0 +1,12 @@
+To_TO :_: <_NN xxx_NN @_IN xxx_NN ._. xxx_NN >_NN Subject_NNP :_: RE_NN :_: Dear_RB xxx_NN @_IN xxx_NN ._. xxx_NN 83_CD %_NN 0FF_NN From_IN :_: VIAGRA_NNP Æ_NN Official_NNP Site_NNP <_NN xxx_NN @_IN xxx_NN ._. xxx_NN >_NN Date_NN :_: Tue_NNP ,_, 1_CD Jul_NNP 2008_CD 12:49:59_NN -_: 0700_CD (_( PDT_NN )_) About_IN this_DT mailing_NN :_: 
+
+You_PRP are_VBP receiving_VBG this_DT e-mail_JJ because_IN you_PRP subscribed_VBN to_TO MSN_NN Featured_NNP Offers_NNP ._. 
+Microsoft_NNP respects_VBZ your_PRP$ privacy_NN ._. 
+If_IN you_PRP do_VBP not_RB wish_VB to_TO receive_VB this_DT MSN_NN Featured_NNP Offers_NNP e-mail_JJ ,_, please_VB click_NN the_DT "_'' Unsubscribe_NNP "_'' link_NN below_IN ._. 
+This_DT will_MD not_RB unsubscribe_NN you_PRP from_IN e-mail_JJ communications_NNS from_IN third-party_JJ advertisers_NNS that_WDT may_MD appear_VB in_IN MSN_NN Feature_NNP Offers_NNP ._. 
+This_DT shall_MD not_RB constitute_VB an_DT offer_NN by_IN MSN._NN ._. 
+MSN_NN shall_MD not_RB be_VB responsible_JJ or_CC liable_JJ for_IN the_DT advertisers_NNS '_POS content_NN nor_CC any_DT of_IN the_DT goods_NNS or_CC service_NN advertised_VBN ._. 
+Prices_NNS and_CC item_NN availability_NN subject_JJ to_TO change_VB without_IN notice_NN ._. 
+
+Microsoft_NNP Corporation_NNP ,_, One_CD Microsoft_NNP Way_NNP ,_, Redmond_NNP ,_, WA_NN 98052_CD 
+

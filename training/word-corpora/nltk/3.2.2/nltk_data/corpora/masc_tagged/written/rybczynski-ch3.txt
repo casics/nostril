@@ -1,0 +1,435 @@
+three_CD 
+style_NN 
+When_WRB an_DT architectural_JJ competition_NN was_VBD announced_VBN for_IN the_DT New_NNP York_NNP Public_NNP Library_NNP on_IN May_NNP 21_CD ,_, 1897_CD ,_, Dr._NN John_NNP Shaw_NNP Billings_NNS ,_, the_DT library_NN ’_NN s_VBZ executive_NN director_NN ,_, was_VBD determined_VBN that_IN in_IN his_PRP$ building_NN ,_, design_NN would_MD not_RB triumph_NN over_IN function_NN ._. 
+He_PRP had_VBD in_IN mind_NN Boston_NNP ’_NN s_VBZ newly_RB built_VBN public_JJ library_NN ,_, a_DT beautiful_JJ but_CC in_IN his_PRP$ opinion_NN poorly_RB functioning_VBG building_NN ._. Billings_NNS ,_, an_DT ex-army_JJ physician_NN ,_, was_VBD responsible_JJ for_IN organizing_VBG the_DT Surgeon_NNP General_NNP ’_NN s_VBZ Library_NNP and_CC a_DT celebrated_JJ medical_JJ index_NN ._. 
+He_PRP was_VBD also_RB an_DT expert_NN in_IN hospital_NN design_NN ,_, and_CC was_VBD thus_RB familiar_JJ with_IN building_NN construction_NN ._. 
+He_PRP drafted_VBD a_DT plan_NN for_IN the_DT new_JJ library_NN whose_WP$ most_RBS unorthodox_JJ feature_NN was_VBD the_DT location_NN of_IN the_DT main_JJ reading_NN room_NN ._. 
+It_PRP was_VBD not_RB located_VBN near_IN the_DT main_JJ entrance_NN ,_, as_IN was_VBD common_JJ practice_NN ,_, but_CC on_IN an_DT upper_JJ floor_NN ,_, above_IN the_DT book_NN stacks_NNS ._. 
+
+The_DT terms_NNS of_IN the_DT architectural_JJ competition_NN were_VBD strict_JJ and_CC included_VBD detailed_JJ floor_NN plans_NNS that_IN the_DT competitors_NNS were_VBD required_VBN to_TO follow_VB ._. 
+There_EX were_VBD two_CD stages_NNS ,_, intended_VBN to_TO attract_VB new_JJ talent_NN as_RB well_RB as_IN established_VBN firms_NNS ._. First_CD ,_, six_CD architects_NNS were_VBD chosen_VBN from_IN an_DT open_JJ competition_NN ._. 
+These_DT six_CD then_RB advanced_VBD to_TO a_DT second_JJ stage_NN ,_, where_WRB they_PRP competed_VBD against_IN six_CD invited_VBN firms_NNS that_WDT included_VBD not_RB only_RB McKim_NNP ,_, Mead_NNP &_CC White_NNP (_( the_DT architects_NNS of_IN the_DT Boston_NNP Public_NNP Library_NNP )_) ,_, but_CC also_RB such_JJ luminaries_NNS as_IN Peabody_NNP &_CC Stearns_NNP ,_, George_NNP B._NN Post_NNP ,_, and_CC an_DT up-and-coming_JJ young_JJ firm_NN ,_, Carrère_NNP &_CC Hastings_NNP ._. 
+The_DT up-and-comers_JJ carried_VBD the_DT day_NN ._. McKim_NNP ,_, much_JJ to_TO his_PRP$ chagrin_NN ,_, not_RB only_RB lost_VBD but_CC placed_VBN third_JJ behind_IN Howard_NNP &_CC Cauldwell_NNP ._. 
+It_PRP was_VBD his_PRP$ own_JJ fault_NN ,_, since_IN he_PRP imperiously_RB ignored_VBD the_DT suggested_JJ plan_NN and_CC substituted_VBD his_PRP$ own_JJ arrangement_NN ._. 
+Carrère_NNP &_CC Hastings_NNP conscientiously_RB followed_VBD Billings_NNS ’_NN requirements_NNS ._. 
+
+The_DT projected_JJ budget_NN for_IN the_DT new_JJ library_NN was_VBD not_RB large_JJ (_( $1.7_NN million_CD )_) and_CC Billings_NNS expected_VBD a_DT relatively_RB modest_JJ building_NN ._. *_NN 
+That_DT was_VBD not_RB what_WP he_PRP got_VBD ._. 
+All_DT three_CD designs_NNS were_VBD monumental_JJ ._. 
+Carrère_NNP &_CC Hastings_NNP and_CC Howard_NNP &_CC Cauldwell_NNP used_VBD the_DT Modern_NNP French_JJ style_NN ,_, which_WDT was_VBD more_RBR ornate_JJ and_CC allowed_VBN for_IN more_JJR articulation_NN to_TO the_DT façade_NN than_IN the_DT austere_JJ Classical_NNP style_NN that_IN McKim_NNP opted_VBD for_IN ._. 
+All_DT incorporated_JJ giant_NN columns_NNS rising_VBG the_DT full_JJ height_NN of_IN the_DT two_CD floors—_NN Corinthian_NNP in_IN McKim_NNP ’_NN s_VBZ case_NN ,_, Ionic_NNP in_IN the_DT other_JJ two_CD (_( the_DT completed_JJ building_NN is_VBZ Corinthian_NNP )_) ._. 
+The_DT compositional_JJ strategies_NNS were_VBD roughly_RB similar_JJ :_: a_DT monumental_JJ stair_NN led_VBN to_TO an_DT elevated_VBD main_JJ floor_NN ;_: the_DT entrance_NN was_VBD placed_VBN in_IN the_DT center_NN (_( more_RBR understated_VBN in_IN McKim_NNP ’_NN s_VBZ elegant_JJ design_NN )_) ;_: statuary_JJ and_CC urns_NNS adorned_VBD the_DT attic_NN ._. 
+All_DT three_CD entrants_NNS shared_VBD a_DT sense_NN of_IN what_WP was_VBD beautiful_JJ and_CC what_WP was_VBD appropriate_JJ ,_, and_CC all_DT were_VBD concerned_VBN with_IN conveying_VBG the_DT same_JJ message_NN of_IN permanence_NN ,_, dignity_NN ,_, and_CC of_IN culture_NN rooted_VBN in_IN the_DT past_NN ._. 
+
+I_PRP mentioned_VBD the_DT New_NNP York_NNP Public_NNP Library_NNP competition_NN when_WRB I_PRP gave_VBD a_DT public_JJ lecture_NN in_IN connection_NN with_IN a_DT recent_JJ architectural_JJ competition_NN for_IN the_DT new_JJ Salt_NNP Lake_NNP City_NNP Public_NNP Library_NNP ._. 
+The_DT library_NN board_NN had_VBD conducted_VBN a_DT national_JJ search_NN for_IN an_DT architect_NN ,_, visited_VBD new_JJ libraries_NNS across_IN the_DT country_NN ,_, and_CC solicited_VBD proposals_NNS from_IN prominent_JJ architects_NNS ._. 
+They_PRP had_VBD narrowed_VBN their_PRP$ list_NN to_TO four_CD firms_NNS :_: Charles_NNP Gwathmey_NNP and_CC Robert_NNP Siegel_NNP are_VBP respected_VBN New_NNP York_NNP architects_NNS with_IN a_DT long_JJ record_NN of_IN university_NN buildings_NNS and_CC museums_NNS ,_, including_VBG a_DT new_JJ library_NN of_IN science_NN ,_, industry_NN ,_, and_CC business_NN for_IN the_DT New_NNP York_NNP Public_NNP Library_NNP system_NN ._. 
+Moshe_NNP Safdie_NNP had_VBD built_VBN major_JJ civic_JJ buildings_NNS in_IN Israel_NNP ,_, Canada_NNP ,_, and_CC the_DT United_NNP States_NNPS ,_, and_CC recently_RB completed_VBD the_DT public_JJ library_NN in_IN Vancouver_NNP ,_, British_NNP Columbia_NNP ._. 
+Moore_NNP Ruble_NNP Yudell_NNP is_VBZ a_DT Los_NNP Angeles_NNP firm_NN founded_VBN by_IN the_DT late_JJ Charles_NNP Moore_NNP ,_, with_IN whom_WP John_NNP Ruble_NNP and_CC Buzz_NNP Yudell_NNP built_VBD several_JJ university_NN libraries_NNS and_CC a_DT public_JJ library_NN in_IN Berlin_NNP ._. 
+Will_NNP Bruder_NNP ,_, the_DT least_JJS well-known_NN of_IN the_DT four_CD ,_, is_VBZ a_DT southwesterner_NN and_CC the_DT architect_NN of_IN the_DT new_JJ ,_, well-regarded_JJ Phoenix_NNP Public_NNP Library_NNP ._. 
+
+I_PRP told_VBD my_PRP$ audience_NN that_IN I_PRP thought_VBD that_IN the_DT Salt_NNP Lake_NNP City_NNP library_NN board_NN would_MD have_VB a_DT more_RBR difficult_JJ choice_NN than_IN their_PRP$ nineteenth-century_JJ New_NNP York_NNP counterparts_NNS ._. It_PRP was_VBD not_RB a_DT question_NN of_IN function_NN ._. 
+The_DT Salt_NNP Lake_NNP City_NNP librarians_NNS had_VBD prepared_VBN an_DT equally_RB exhaustive_JJ program_NN of_IN requirements_NNS ,_, so_RB whichever_WDT architect_NN was_VBD chosen_VBN commodity_NN probably_RB would_MD be_VB well_RB served_VBN ._. 
+As_IN for_IN firmness_NN ,_, I_PRP was_VBD reasonably_RB sure_JJ that_IN any_DT of_IN these_DT experienced_JJ firms_NNS would_MD build_VB soundly_RB ._. 
+It_PRP was_VBD the_DT consideration_NN of_IN delight_NN that_WDT would_MD make_VB the_DT selection_NN harder_RBR ._. 
+Gwathmey_NNP and_CC Siegel_NNP design_NN crisply_RB detailed_JJ ,_, understated_VBN buildings_NNS in_IN a_DT latter-day_JJ version_NN of_IN the_DT International_NNP Style_NN ._. 
+Safdie_NNP ,_, too_RB ,_, is_VBZ a_DT modernist_NN ,_, but_CC he_PRP follows_VBZ in_IN the_DT footsteps_NNS of_IN Pei_NNP ,_, and_CC his_PRP$ buildings_NNS are_VBP frankly_RB monumental—the_NN Vancouver_NNP library_NN had_VBD been_VBN likened_VBN to_TO the_DT Roman_NNP Coliseum_NNP ._. 
+Moore_NNP Ruble_NNP Yudell_NNP ’_NN s_VBZ work_NN is_VBZ different_JJ ._. 
+Informal_NNP and_CC animated_VBN ,_, their_PRP$ eclectic_JJ Postmodern_NNP designs_NNS are_VBP likely_JJ to_TO include_VB ornament_NN and_CC architectural_JJ motifs_NNS drawn_VBN from_IN their_PRP$ surroundings_NNS ._. 
+Bruder_NNP ,_, on_IN the_DT other_JJ hand_NN ,_, designs_VBZ chic_JJ buildings_NNS that_WDT incorporate_VB exposed_VBN structural_JJ elements_NNS ,_, rough_JJ industrial_JJ materials_NNS ,_, and_CC sleek_JJ details_NNS ._. 
+Building_NNP on_IN the_DT same_JJ site_NN ,_, fulfilling_VBG the_DT same_JJ functional_JJ requirements_NNS ,_, and_CC using_VBG the_DT same_JJ up-to-date_JJ construction_NN technology_NN ,_, the_DT four_CD firms_NNS would_MD produce_VB libraries_NNS that_WDT would_MD look_VB different_JJ ._. 
+
+The_DT library_NN board_NN awarded_VBD the_DT commission_NN to_TO Moshe_NNP Safdie_NNP ,_, and_CC a_DT year_NN later_RB the_DT plans_NNS for_IN the_DT new_JJ building_NN were_VBD unveiled_VBN ._. 
+The_DT new_JJ library_NN will_MD feature_VB an_DT unusual_JJ triangular-shaped_JJ main_JJ building_NN and_CC a_DT curving_VBG wall-like_JJ structure_NN that_IN encloses_NNS a_DT public_JJ square_NN ._. 
+A_DT hundred_CD years_NNS ago_RB ,_, it_PRP was_VBD taken_VBN for_IN granted_VBN that_IN the_DT New_NNP York_NNP Public_NNP Library_NNP would_MD be_VB designed_VBN in_IN some_DT variant_NN of_IN the_DT Classical_NNP style_NN ._. 
+Today_NN a_DT public_JJ library_NN can_MD take_VB many_JJ guises_NNS ._. 
+It_PRP can_MD be_VB relentlessly_RB avant-garde_NN ,_, like_IN the_DT new_JJ $1.5_NN billion_CD national_JJ library_NN in_IN Paris_NNP ,_, where_WRB the_DT books_NNS are_VBP housed_VBN in_IN four_CD L-_NNP shaped_VBN 22_CD -_: story_NN glass_NN towers_NNS ,_, and_CC the_DT readers_NNS are_VBP lodged_VBN in_IN underground_JJ rooms_NNS ,_, which_WDT the_DT London_NNP Times_NNP described_VBD as_IN “_NN a_DT series_NN of_IN rectangular_JJ salons_NNS (_( identical_JJ of_IN course_NN )_) where_WRB you_PRP can_MD admire_NN the_DT ultra-smooth_JJ gray_JJ concrete_NN ,_, steel_NN grille_NN ceilings_NNS and_CC the_DT expanses_NNS of_IN African_JJ veneer_NN ._. ”_NN 
+1_CD A_DT new_JJ library_NN can_MD be_VB comfortably_RB Modernist_NNP ,_, like_IN the_DT new_JJ British_NNP Library_NNP in_IN London_NNP ,_, which_WDT the_DT Independent_NNP humorously_RB described_VBD as_IN “_NN a_DT giant_NN municipal_JJ building_NN that_WDT has_VBZ made_VBN its_PRP$ way_NN from_IN Scandinavia_NNP ,_, having_VBG crashed_VBD headfirst_NN through_IN an_DT English_NNP brickworks_NNS on_IN the_DT way_NN ._. 
+”_NN 2_CD Tom_NNP Beeby_NNP ’_NN s_VBZ handsome_JJ Harold_NNP T._NN Washington_NNP Library_NNP in_IN Chicago_NNP ,_, on_IN the_DT other_JJ hand_NN ,_, is_VBZ distinctly_RB old-fashioned_JJ ,_, with_IN rusticated_VBN stone_NN walls_NNS and_CC carved_VBN brick_NN ornaments_NNS that_WDT are_VBP a_DT literal_JJ evocation_NN of_IN the_DT city_NN ’_NN s_VBZ nineteenth-century_JJ architectural_JJ tradition_NN ._. 
+Instead_RB of_IN trendy_JJ plastic_NN or_CC metal_NN chairs_NNS ,_, the_DT reading_NN areas_NNS are_VBP equipped_VBN with_IN solid_JJ wood_NN tables_NNS and_CC traditional_JJ courthouse_NN chairs_NNS ._. 
+James_NNP Ingo_NNP Freed_NNP ’_NN s_VBZ Main_NNP Public_NNP Library_NNP in_IN San_NNP Francisco_NNP ,_, on_IN the_DT other_JJ hand_NN ,_, is_VBZ both_DT old_JJ and_CC new_JJ :_: the_DT imposing_VBG granite_NN and_CC stainless_JJ steel_NN exterior_NN is_VBZ more_JJR or_CC less_JJR Classical_NNP on_IN one_CD façade_NN ,_, and_CC more_JJR or_CC less_JJR Modernist_NNP on_IN another_DT ._. 
+
+The_DT coexistence_NN of_IN different_JJ architectural_JJ styles_NNS is_VBZ nothing_NN new_JJ ._. 
+In_IN a_DT 1913_CD essay_NN titled_VBD “_NN Style_NN in_IN American_NNP Architecture_NNP ,_, ”_NN Ralph_NNP Adams_NNP Cram_NNP identified_VBD no_RB less_JJR than_IN seven_CD contemporary_JJ styles_NNS ,_, although_IN he_PRP called_VBD them_PRP “_NN tendencies_NNS ._. ”_NN 
+Five_CD were_VBD traditional_JJ :_: McKim_NNP ’_NN s_VBZ pure_JJ Classicism_NNP ;_: the_DT Beaux-_NNP Arts_NNP French_NNP Modern_NNP ;_: Colonial_NNP ,_, which_WDT was_VBD associated_VBN with_IN houses_NNS but_CC was_VBD also_RB appearing_VBG in_IN larger_JJR buildings_NNS such_JJ as_IN the_DT Johns_NNP Hopkins_NNP University_NNP campus_NN ;_: Cram_NNP ’_NN s_VBZ own_VBN High_NNP Gothic_NNP ;_: and_CC a_DT looser_JJR interpretation_NN of_IN the_DT medieval_NN style_NN as_IN practiced_VBN by_IN his_PRP$ partner_NN Goodhue_NNP ._. 
+Two_CD were_VBD new_JJ :_: steel-frame_JJ construction_NN ,_, which_WDT Cram_NNP described_VBD as_IN an_DT enfant_NN terrible_JJ ;_: and_CC what_WP he_PRP called_VBD the_DT Secessionists—_NNP Frank_NNP Lloyd_NNP Wright_NNP in_IN Chicago_NNP ,_, the_DT Greene_NNP brothers_NNS in_IN Pasadena—who_NNP exhibited_VBN “_NN a_DT strongly_RB developed_VBN enmity_NN to_TO archaeological_JJ forms_NNS of_IN any_DT kind_NN ._. ”_NN 
+Cram_NNP was_VBD not_RB sanguine_JJ about_IN the_DT future_NN ,_, but_CC he_PRP nevertheless_RB concluded_VBD :_: “_NN Chaos_NNP then_RB confronts_VBZ us_PRP ,_, in_IN that_DT there_EX is_VBZ no_DT single_JJ architectural_JJ following_NN ,_, but_CC legion_NN ;_: and_CC in_IN that_DT fact_NN lies_VBZ the_DT honor_NN of_IN our_PRP$ art_NN ,_, for_IN neither_DT is_VBZ society_NN one_CD ,_, or_CC ever_RB at_IN one_CD with_IN itself_PRP ._. ”_NN 
+3_CD 
+Cram_NNP is_VBZ right_NN :_: most_RBS historical_JJ periods_NNS are_VBP marked_VBN by_IN stylistic_JJ confusion_NN ;_: it_PRP is_VBZ stylistic_JJ consensus_NN that_WDT is_VBZ unusual_JJ ._. 
+There_EX was_VBD such_JJ a_DT brief_JJ consensus_NN in_IN the_DT late_JJ 1890s_NN ,_, when_WRB both_DT architects_NNS and_CC the_DT American_JJ public_NN ,_, under_IN the_DT influence_NN of_IN the_DT immensely_RB popular_JJ World_NNP ’_NN s_VBZ Columbian_NNP Exposition_NNP ,_, embraced_VBD Classicism_NNP ,_, at_IN least_JJS for_IN public_JJ buildings_NNS ._. 
+That_DT unanimity_NN lasted_VBD long_RB enough_RB for_IN the_DT New_NNP York_NNP Public_NNP Library_NNP competition_NN ,_, but_CC it_PRP began_VBD to_TO unravel_VB shortly_RB after_RB ,_, as_IN Cram_NNP ’_NN s_VBZ essay_NN makes_VBZ clear_JJ ._. 
+There_EX was_VBD also_RB a_DT consensus_NN in_IN the_DT 1920s_NN ,_, at_IN least_JJS among_IN progressive_JJ architects_NNS ._. 
+That_DT consensus_NN did_VBD not_RB last_JJ either_CC ._. 
+After_IN 1940_CD ,_, Mies_NNP van_NN der_NNP Rohe_NNP gave_VBD up_RP the_DT free-flowing_JJ plans_NNS and_CC asymmetrical_JJ massing_VBG that_WDT had_VBD characterized_VBN the_DT Barcelona_NNP Pavilion_NNP and_CC the_DT Tugendhat_NNP House_NNP ,_, and_CC began_VBD designing_VBG buildings_NNS whose_WP$ details_NNS and_CC materials_NNS were_VBD Modern_NNP but_CC whose_WP$ layout_NN and_CC composition_NN were_VBD distinctly_RB Classical_NNP ._. 
+In_IN the_DT 1920s_NN ,_, Le_NNP Corbusier_NNP proclaimed_VBD the_DT “_NN Five_CD Points_NNPS of_IN a_DT New_NNP Architecture_NNP ”_NN :_: the_DT building_NN raised_VBD on_IN stilts_NNS ;_: the_DT roof_NN garden_NN ;_: the_DT frame_NN structure_NN that_WDT allowed_VBD a_DT free_JJ plan_NN ;_: the_DT free_JJ façade_NN ;_: and_CC the_DT horizontal_NN ribbon_NN window_NN ._. 
+He_PRP ,_, too_RB ,_, had_VBD second_JJ thoughts_NNS ._. 
+Thirty_NNP years_NNS later_RB ,_, his_PRP$ wonderful_JJ chapel_NN at_IN Ronchamps_NNP had_VBD massive_JJ sculpted_JJ wall_NN that_WDT concealed_VBN a_DT concrete_JJ frame_NN ;_: the_DT roof_NN ,_, far_RB from_IN being_VBG flat_JJ ,_, resembled_JJ a_DT billowing_VBG nun_NN ’_NN s_VBZ coif_NN ._. 
+Le_NNP Corbusier_NNP ,_, who_WP had_VBD coined_VBN the_DT famous_JJ expression_NN ,_, “_NN a_DT house_NN is_VBZ a_DT machine_NN for_IN living_VBG in_IN ,_, ”_NN now_RB adopted_VBD distinctly_RB un-machinelike_JJ building_NN materials_NNS such_JJ as_IN crudely_RB finished_VBD concrete_JJ ,_, exposed_VBN brick_NN ,_, roughened_JJ stucco_NN ,_, and_CC fieldstone_NN ._. 
+This_DT volte_NN face_NN gave_VBD rise_NN to_TO the_DT so-called_JJ Brutalist_NNP style_NN ,_, which_WDT had_VBD a_DT worldwide_NN influence_NN ,_, shaping_VBG the_DT work_NN of_IN architects_NNS as_RB dissimilar_JJ as_IN James_NNP Stirling_NNP and_CC Paul_NNP Rudolph_NNP ,_, and_CC ultimately_RB opening_VBG the_DT door_NN to_TO Postmodern_NNP stylistic_JJ experiments_NNS such_JJ as_IN Charles_NNP Moore_NNP ’_NN s_VBZ little_JJ house_NN in_IN the_DT Berkeley_NNP hills_NNS ._. 
+
+The_DT inconstancy_NN of_IN the_DT International_NNP Style_NN practitioners_NNS should_MD have_VB been_VBN expected_VBN ._. 
+The_DT history_NN of_IN Western_JJ architecture_NN is_VBZ of_IN architects_NNS searching_VBG for_IN rules_NNS ,_, only_RB to_TO bend_VB and_CC break_VB them_PRP ._. 
+Even_RB Classicism_NNP ,_, which_WDT appears_VBZ at_IN first_JJ glance_NN to_TO be_VB highly_RB regimented_JJ ,_, is_VBZ not_RB immune_JJ ._. 
+As_RB far_RB as_IN we_PRP know_VBP ,_, the_DT ancient_JJ Greeks_NNPS used_VBD only_RB three_CD orders_NNS :_: Doric_NNP ,_, Ionic_NNP ,_, and_CC Corinthian_NNP ._. 
+Vitruvius_NNP describes_VBZ them_PRP ,_, and_CC also_RB refers_VBZ to_TO a_DT Tuscan_NNP order_NN ,_, which_WDT is_VBZ a_DT Roman_NNP invention_NN ._. 
+Roman_NNP ,_, too_RB ,_, is_VBZ the_DT so-called_JJ Composite_NNP order_NN ,_, an_DT ornate_JJ blend_NN of_IN Ionic_NNP and_CC Corinthian_NNP ._. 
+The_DT vault_NN ,_, the_DT arch_NN ,_, and_CC the_DT dome_NN ,_, unknown_JJ to_TO the_DT Greeks_NNPS ,_, were_VBD other_JJ Roman_NNP additions_NNS to_TO the_DT Classic_NNP canon_NN ._. 
+Architects_NNPS have_VBP been_VBN stretching_VBG Classical_NNP rules_NNS ever_RB since_IN :_: breaking_VBG pediments_NNS ,_, flattening_VBG pilasters_NNS ,_, magnifying_VBG and_CC shrinking_VBG columns_NNS ,_, rusticating_VBG masonry_NN ._. 
+A_DT sixteenth-century_JJ French_JJ architect_NN ,_, Philibert_NNP de_IN l_NN ’_NN Orme_NNP ,_, invented_VBD a_DT French_JJ order_NN ;_: Edwin_NNP Lutyens_NNP devised_VBD an_DT order_NN based_VBN on_IN Mughal_NNP precedents_NNS for_IN the_DT Viceroy_NNP ’_NN s_VBZ House_NNP in_IN New_NNP Delhi_NNP ;_: more_RBR recently_RB ,_, Allan_NNP Greenberg_NNP created_VBD an_DT order_NN for_IN the_DT offices_NNS of_IN the_DT Secretary_NNP of_IN State_NNP that_WDT incorporated_VBD the_DT Great_NNP Seal_NNP of_IN the_DT United_NNP States_NNPS ._. 
+Michael_NNP Graves_NNP designed_VBD Classical_NNP caryatids_NNS (_( columns_NNS carved_VBN in_IN the_DT shape_NN of_IN human_JJ figures_NNS )_) to_TO support_VB the_DT pedimented_JJ front_NN of_IN an_DT office_NN building_NN for_IN the_DT Walt_NNP Disney_NNP Company_NNP in_IN Burbank_NNP ._. 
+While_IN the_DT supports_NNS of_IN the_DT porch_NN of_IN the_DT Erechtheon_NNP in_IN Athens_NNP take_VB the_DT form_NN of_IN graceful_JJ maidens_NNS ,_, Graves_NNP ’_NN caryatids_NNS are_VBP the_DT Seven_CD Dwarfs_NNP ._. 
+
+The_DT headquarters_NN of_IN a_DT company_NN whose_WP$ logo_NN is_VBZ a_DT pair_NN of_IN mouse_NN ears_NNS obviously_RB demands_VBZ a_DT different_JJ decorum_NN from_IN a_DT temple_NN ._. 
+In_IN the_DT past_JJ ,_, religious_JJ buildings_NNS and_CC palaces_NNS required_VBD a_DT narrow_JJ stylistic_JJ range_NN ._. 
+As_IN architectural_JJ commissions_NNS grew_VBD to_TO include_VB civic_JJ and_CC commercial_JJ buildings_NNS ,_, warehouses_NNS ,_, factories_NNS ,_, shops_NNS and_CC cinemas_NNS ,_, houses_NNS and_CC weekend_NN houses—every_NN sort_NN of_IN building—a_NN single_JJ style_NN no_RB longer_RB sufficed_VBD ._. 
+Gothic_NNP is_VBZ an_DT evocative_JJ style_NN for_IN churches_NNS ,_, but_CC despite_IN Walpole_NNP ’_NN s_VBZ efforts_NNS it_PRP is_VBZ ill-adapted_JJ to_TO houses_NNS ._. 
+Romanesque_JJ makes_VBZ imposing_VBG city_NN halls_NNS ,_, but_CC is_VBZ too_RB heavy_JJ to_TO be_VB applied_VBN to_TO skyscrapers_NNS ._. 
+The_DT International_NNP Style_NN makes_VBZ striking_JJ small_JJ buildings_NNS but_CC monotonous_JJ large_JJ ones_NNS ._. 
+Shingle_NNP Style_NN cottages_NNS are_VBP pleasing_VBG ;_: a_DT Shingle_NNP Style_NN Home_NNP Depot_NNP is_VBZ ridiculous_JJ ._. 
+As_IN Cram_NNP wisely_RB observed_VBD ,_, “_NN Architecture_NNP is_VBZ nothing_NN unless_IN it_PRP is_VBZ intimately_RB expressive_JJ ,_, and_CC if_IN utterly_RB different_JJ things_NNS clamor_NN for_IN voicing_VBG ,_, different_JJ also_RB must_MD be_VB their_PRP$ architectural_JJ manifestation_NN ._. 
+”_NN 4_CD 
+The_DT great_JJ architects—_NN Brunelleschi_NNP ,_, Palladio_NNP ,_, Wren_NNP ,_, Richardson_NNP ,_, Lutyens—regularly_NNP looked_VBD to_TO the_DT past_NN for_IN inspiration_NN ._. 
+In_IN 1965_CD ,_, Richard_NNP Meier_NNP built_VBD the_DT Smith_NNP House_NNP ,_, which_WDT has_VBZ been_VBN called_VBN the_DT first_JJ International_NNP Style_NN revival_NN building_NN ._. 
+Like_IN all_DT revivalists_NNS ,_, Meier_NNP picks_VBZ and_CC chooses_VBZ ._. 
+At_IN first_JJ glance_NN ,_, the_DT Smith_NNP House_NNP has_VBZ all_PDT the_DT stylistic_JJ hallmarks_NNS of_IN a_DT Le_NNP Corbusier_NNP villa_NN of_IN the_DT 1920s_NN :_: a_DT free_JJ plan_NN ,_, flat_JJ roof_NN ,_, white_JJ walls_NNS ,_, pipe_NN railings_NNS ,_, horizontal_NN ribbon_NN windows_NNS ,_, a_DT ramp_NN ._. 
+Yet_CC it_PRP is_VBZ built_VBN out_IN of_IN wood_NN and_CC steel_NN ,_, not_RB masonry_NN ._. 
+The_DT white_JJ walls_NNS are_VBP painted_VBN wood_NN siding_NN ,_, not_RB stucco_NN ;_: the_DT details_NNS are_VBP more_RBR refined_JJ ,_, the_DT plate-glass_JJ sheets_NNS are_VBP larger_JJR ,_, the_DT structure_NN lighter_JJR ._. 
+The_DT result_NN is_VBZ an_DT International_NNP Style_NN that_WDT is_VBZ filtered_VBN through_IN American_JJ consciousness_NN and_CC shaped_VBN by_IN American_JJ technology_NN ._. 
+It_PRP is_VBZ like_IN Thomas_NNP Jefferson_NNP building_NN Classical_NNP columns_NNS out_IN of_IN wood—the_NN same_JJ ,_, but_CC different_JJ ._. 
+
+Although_IN art_NN historians_NNS use_VBP terms_NNS like_IN Gothic_NNP Revival_NNP and_CC Greek_NNP Revival_NNP to_TO distinguish_VB later_RB reincarnations_NNS of_IN styles_NNS ,_, architects_NNS look_VBP at_IN history_NN differently_RB ._. 
+“_NN For_IN the_DT serious_JJ architect_NN the_DT past_JJ exists_VBZ not_RB as_IN a_DT legacy_NN to_TO be_VB possessed_VBN through_IN a_DT self-conscious_JJ act_NN of_IN the_DT ‘_NN modern_JJ ’_NN will_MD ,_, ”_NN writes_VBZ Roger_NNP Scruton_NNP in_IN The_DT Aesthetics_NNP of_IN Architecture_NNP ,_, “_NN but_CC as_IN an_DT enduring_VBG fact_NN ,_, an_DT ineliminable_JJ part_NN of_IN an_DT extended_VBN present_JJ ._. ”_NN 
+5_CD That_DT is_VBZ why_WRB architects_NNS ,_, whether_IN they_PRP are_VBP Inigo_NNP Jones_NNP or_CC Louis_NNP Kahn_NNP ,_, make_VB architectural_JJ pilgrimages_NNS to_TO the_DT Mediterranean_NNP roots_NNS of_IN Western_JJ architecture_NN ._. 
+Sketchbook_NNP in_IN hand_NN ,_, they_PRP plumb_NN the_DT secrets_NNS of_IN the_DT master_NN builders_NNS of_IN the_DT past_NN ._. 
+Consciousness_NNP of_IN the_DT past_JJ may_MD also_RB explain_VB why_WRB architects_NNS tend_VBP to_TO resist_VB being_VBG categorized_VBN according_VBG to_TO style_NN ;_: they_PRP instinctively_RB understand_VBP that_IN the_DT history_NN of_IN architecture—including_VBG the_DT present—is_NNS a_DT continuity_NN rather_RB than_IN a_DT series_NN of_IN episodes_NNS ._. 
+
+Stylistic_NNP consistency_NN is_VBZ much_RB admired_VBN today_NN ,_, but_CC it_PRP was_VBD not_RB always_RB so_RB ._. In_IN 1419_CD ,_, Filippo_NNP Brunelleschi_NNP began_VBD the_DT Foundling_NNP Hospital_NNP in_IN Florence_NNP ,_, whose_WP$ delicate_JJ arcade_NN of_IN Corinthian_NNP columns_NNS surmounted_JJ by_IN pedimented_JJ windows_NNS is_VBZ generally_RB considered_VBN the_DT first_JJ building_NN of_IN the_DT Renaissance_NNP ._. 
+At_IN the_DT very_RB same_JJ time_NN ,_, he_PRP was_VBD building_VBG a_DT great_JJ dome_NN over_IN the_DT crossing_VBG of_IN the_DT cathedral_NN of_IN Florence_NNP in_IN a_DT style_NN that_WDT was_VBD not_RB Classical_NNP but_CC distinctly_RB Gothic_NNP ,_, pointed_VBD arches_NNS and_CC all_DT ._. 
+The_DT German_JJ architect_NN Karl_NNP Friedrich_NNP Schinkel_NNP is_VBZ best_RBS known_VBN for_IN his_PRP$ severe_JJ Classical_NNP public_JJ buildings_NNS such_JJ as_IN the_DT superb_JJ Altes_NNP Museum_NNP in_IN Berlin_NNP ,_, but_CC he_PRP also_RB worked_VBD in_IN other_JJ styles_NNS :_: Gothic_NNP in_IN churches_NNS ,_, and_CC picturesque_NN Italianate_JJ in_IN villas_NNS ._. McKim_NNP ,_, Mead_NNP &_CC White_NNP favored_VBD the_DT Classical_NNP style_NN for_IN public_JJ buildings_NNS and_CC palatial_JJ residences_NNS ,_, but_CC built_VBD Norman_NNP parish_NN churches_NNS ,_, Shingle_NNP Style_NN summer_NN retreats_NNS ,_, French_NNP Renaissance_NNP mansions_NNS ,_, and_CC American_NNP Colonial_NNP country_NN houses_NNS ._. 
+John_NNP Russell_NNP Pope_NNP ,_, an_DT eclectic_JJ master_NN ,_, designed_VBD beautiful_JJ picturesque_NN Tudor_NNP ,_, Georgian_JJ ,_, and_CC Colonial_NNP country_NN estates_NNS ._. Edwin_NNP Lutyens_NNP was_VBD another_DT Classicist_NNP whose_WP$ residential_JJ work_NN was_VBD eclectic_JJ ._. 
+
+Domestic_JJ architects_NNS had_VBD to_TO be_VB adaptable_JJ ,_, because_IN house_NN styles_NNS changed_VBD according_VBG to_TO fashion_NN ._. 
+In_IN the_DT United_NNP States_NNPS ,_, Tudor_NNP was_VBD popular_JJ in_IN the_DT 1900s_NN ,_, as_IN was_VBD the_DT Free_NNP Style_NN ;_: Cotswold_NNP and_CC French_NNP Provincial_NNP appeared_VBD in_IN the_DT 1920s_NN ._. 
+After_IN the_DT 1930s_NN ,_, influenced_VBN by_IN the_DT restoration_NN of_IN Williamsburg_NNP ,_, American_NNP Colonial_NNP returned_VBD to_TO favor_VB ._. 
+The_DT Cotswold_NNP style_NN ,_, with_IN its_PRP$ relatively_RB severe_JJ details_NNS and_CC blunt_VB forms_NNS ,_, created_VBD a_DT very_RB different_JJ setting_NN from_IN French_NNP Provincial_NNP ,_, which_WDT tended_VBD to_TO have_VB more_RBR delicate_JJ details_NNS ,_, from_IN Free_NNP Style_NN with_IN its_PRP$ almost_RB rustic_JJ atmosphere_NN ,_, or_CC from_IN sturdy_JJ Colonial_NNP 
+._. Since_IN historic_JJ styles_NNS carry_VBP cultural_JJ overtones_NNS ,_, using_VBG different_JJ styles_NNS was_VBD also_RB a_DT way_NN for_IN architects—and_NN clients—to_NN say_VBP different_JJ things_NNS ._. 
+
+If_IN architectural_JJ style_NN is_VBZ a_DT language—an_NN analogy_NN that_WDT is_VBZ deeply_RB flawed—it_NN is_VBZ closer_JJR to_TO slang_NN than_IN to_TO grammatical_JJ prose_NN ._. 
+Architectural_NNP styles_NNS are_VBP mutable_JJ ,_, unregulated_JJ ,_, improvised_VBD ._. 
+Architects_NNPS break_VBP the_DT rules_NNS ,_, and_CC invent_VB new_JJ ones_NNS ._. 
+In_IN part_NN ,_, this_DT is_VBZ simply_RB the_DT irrepressible_JJ urge_NN of_IN creative_JJ individuals_NNS ._. 
+In_IN part_NN ,_, architects_NNS break_VBP stylistic_JJ rules_NNS because_IN they_PRP can_MD ._. 
+After_IN all_DT ,_, most_JJS of_IN the_DT rules_NNS that_WDT govern_VBP building_VBG design—fire_NN codes_NNS ,_, building_NN codes_NNS ,_, zoning_NN laws_NNS ,_, budgets_NNS ,_, programmatic_JJ requirements_NNS ,_, engineering_NN norms—are_NN outside_IN the_DT architect_NN ’_NN s_VBZ control_NN ;_: stylistic_JJ rules_NNS are_VBP firmly_RB within_IN his_PRP$ purview_NN ._. 
+Since_IN architecture_NN is_VBZ so_RB intensely_RB competitive_JJ ,_, doing_VBG something_NN unexpected_JJ ,_, unusual_JJ ,_, or_CC just_RB different_JJ is_VBZ a_DT way_NN to_TO be_VB noticed_VBN ,_, to_TO rise_VB above_IN the_DT crowd_NN ._. 
+
+In_IN addition_NN to_TO historical_JJ styles_NNS ,_, there_EX have_VBP also_RB been_VBN styles_NNS associated_VBN with_IN individual_JJ architects_NNS ._. 
+The_DT Palladian_NNP style_NN made_VBD its_PRP$ way_NN from_IN Andrea_NNP Palladio_NNP to_TO Inigo_NNP Jones_NNP ,_, from_IN him_PRP to_TO Colen_NNP Campbell_NNP and_CC Lord_NNP Burlington_NNP ,_, and_CC thence_NN to_TO Thomas_NNP Jefferson_NNP ._. 
+It_PRP reappears_NNS in_IN the_DT work_NN of_IN contemporary_JJ Classicists_NNP such_JJ as_IN Allan_NNP Greenberg_NNP ._. 
+H._NN H._NN Richardson_NNP ’_NN s_VBZ influence_NN was_VBD considerably_RB shorter-lived_JJ ,_, but_CC for_IN at_IN least_JJS 20_CD years_NNS Richardsonian_NNP Romanesque_JJ rolled_VBD over_IN the_DT United_NNP States_NNPS like_IN an_DT “_NN aesthetic_JJ Juggernaut_NNP ,_, ”_NN in_IN Cram_NNP ’_NN s_VBZ colorful_JJ phrase_NN ._. 
+Mies_NNP van_NN der_NNP Rohe_NNP ’_NN s_VBZ steel-and-glass_JJ style_NN likewise_RB prevailed_VBD for_IN more_JJR than_IN two_CD decades_NNS ,_, and_CC his_PRP$ characteristic_JJ I-_NNP beam_NN window_NN mullion_NN can_MD still_RB be_VB seen_VBN in_IN contemporary_JJ curtain_NN walls_NNS ._. 
+
+Buildings_NNS like_IN Jones_NNP ’_NN Palladian_NNP Queen_NNP ’_NN s_VBZ House_NNP in_IN Greenwich_NNP ,_, Adler_NNP &_CC Sullivan_NNP ’_NN s_VBZ Richardsonian_NNP Romanesque_JJ Auditorium_NNP Building_NNP in_IN Chicago_NNP ,_, and_CC Gordon_NNP Bunshaft_NNP ’_NN s_VBZ Miesian_NNP Lever_NNP House_NNP are_VBP not_RB copies_NNS but_CC satisfying_VBG originals_NNS ._. 
+However_RB ,_, most_RBS personal_JJ styles_NNS are_VBP not_RB easily_RB adaptable_JJ ._. 
+A_DT building_NN in_IN Wright_NNP ’_NN s_VBZ unmistakable_JJ Prairie_NNP style_NN ,_, for_IN example_NN ,_, simply_RB looks_VBZ like_IN a_DT knock-off_NN ._. 
+Some_DT personal_JJ styles_NNS are_VBP simply_RB too_RB obsessive_JJ ,_, which_WDT is_VBZ probably_RB why_WRB Frank_NNP Furness_NNP and_CC the_DT equally_RB idiosyncratic_JJ Barcelona_NNP architect_NN Antonio_NNP Gaudí_NNP never_RB attracted_VBD a_DT following_VBG ._. 
+
+Inigo_NNP Jones_NNP consciously_RB based_VBD his_PRP$ work_NN on_IN the_DT architecture_NN of_IN Palladio_NNP ,_, but_CC he_PRP did_VBD not_RB think_VB of_IN himself_PRP as_IN working_VBG in_IN the_DT Palladian_NNP “_NN style_NN ,_, ”_NN any_DT more_JJR than_IN Palladio_NNP would_MD have_VB referred_VBN to_TO the_DT Classical_NNP “_NN style_NN ._. ”_NN 
+Although_IN Renaissance_NNP architects_NNS described_VBD their_PRP$ architecture_NN as_IN all_DT ’_NN antica—in_NN the_DT antique_JJ manner—they_NN took_VBD it_PRP for_IN granted_VBN that_IN the_DT history_NN of_IN architecture_NN was_VBD a_DT progression_NN :_: the_DT Romans_NNP improved_VBD on_IN the_DT Greeks_NNPS ,_, and_CC they_PRP would_MD improved_VBN on_IN the_DT Romans_NNP ._. 
+According_VBG to_TO the_DT architecture_NN historian_NN Peter_NNP Collins_NNP ,_, the_DT use_NN of_IN the_DT word_NN style_NN to_TO designate_VB the_DT architecture_NN of_IN a_DT particular_JJ period_NN or_CC country_NN is_VBZ relatively_RB late_RB ._. 
+He_PRP cites_VBZ James_NNP Stuart_NNP and_CC Nicholas_NNP Revett_NNP ’_NN s_VBZ Antiquities_NNP of_IN Athens_NNP ,_, published_VBN in_IN 1762_CD and_CC credited_VBN with_IN inaugurating_VBG the_DT Classical_NNP Revival_NNP in_IN England_NNP ._. 
+The_DT authors_NNS ,_, both_DT architects_NNS ,_, referred_VBD to_TO “_NN the_DT Grecian_NNP and_CC Roman_NNP style_NN of_IN building_NN ._. ”_NN 
+6_CD 
+The_DT Latin_NNP root_NN of_IN “_NN style_NN ”_NN is_VBZ stilus_JJ ._. 
+A_DT stilus_JJ was_VBD the_DT sharp-pointed_JJ tool_NN used_VBN to_TO write_VB on_IN wax_NN tablets_NNS and_CC ,_, by_IN inference_NN ,_, stilus_JJ also_RB referred_VBD to_TO the_DT way_NN that_DT something_NN was_VBD written_VBN ._. 
+This_DT sense_NN of_IN technique_NN carried_VBD over_IN to_TO English_NNP ,_, and_CC the_DT original_JJ meaning_NN of_IN style_NN was_VBD those_DT features_NNS of_IN literary_JJ composition_NN that_WDT belonged_VBD to_TO the_DT form_NN rather_RB than_IN to_TO the_DT substance_NN of_IN the_DT matter_NN being_VBG expressed_VBN ._. 
+The_DT seventeenth-century_JJ English_NNP musical_JJ composer_NN Samuel_NNP Wesley_NNP put_VBD it_PRP neatly_RB :_: “_NN Style_NN is_VBZ the_DT dress_NN of_IN thought_VBD ._. ”_NN 
+Jacques-_NNP François_NNP Blondel_NNP ,_, who_WP was_VBD Louis_NNP XV_NNP ’_NN s_VBZ architect_NN and_CC who_WP founded_VBD the_DT first_JJ full-time_JJ school_NN of_IN architecture_NN in_IN Europe_NNP in_IN 1750_CD ,_, adopted_VBD this_DT literary_JJ meaning_NN as_IN a_DT metaphor_NN and_CC described_VBD architectural_JJ style_NN as_IN a_DT building_NN ’_NN s_VBZ character—for_NN example_NN ,_, rustic_JJ ,_, regal_NN ,_, or_CC heroic_JJ ._. 
+“_NN Style_NN in_IN the_DT organization_NN of_IN façades_NNS and_CC in_IN the_DT decoration_NN of_IN rooms_NNS is_VBZ the_DT poetry_NN of_IN architecture_NN ,_, ”_NN he_PRP taught_VBD his_PRP$ students_NNS ,_, “_NN which_WDT alone_RB makes_VBZ all_PDT the_DT architect_NN ’_NN s_VBZ compositions_NNS truly_RB interesting_JJ ._. ”_NN 7_CD 
+
+Literary_NNP style_NN described_VBD the_DT way_NN that_DT something_NN was_VBD written_VBN ,_, expressed_VBD ,_, or_CC performed_VBD ._. Architectural_NNP style_NN ,_, in_IN Blondel_NNP ’_NN s_VBZ sense_NN ,_, describes_VBZ the_DT way_NN that_DT something_NN was_VBD built_VBN ._. 
+Although_IN architecture_NN is_VBZ often_RB defined_VBN in_IN terms_NNS of_IN abstractions_NNS such_JJ as_IN space_NN ,_, light_JJ ,_, and_CC volume_NN ,_, buildings_NNS are_VBP above_IN all_DT physical_JJ artifacts_NNS ._. 
+The_DT experience_NN of_IN architecture_NN is_VBZ palpable_JJ :_: the_DT grain_NN of_IN wood_NN ,_, the_DT veined_JJ surface_NN of_IN marble_NN ,_, the_DT cold_JJ precision_NN of_IN steel_NN ,_, the_DT textured_JJ pattern_NN of_IN brick_NN ._. 
+But_CC exactly_RB what_WP do_VBP we_PRP see_VBP when_WRB we_PRP look_VBP at_IN brickwork_NN ?_. 
+We_PRP see_VBP the_DT joints_NNS between_IN the_DT bricks_NNS and_CC the_DT mortar_NN (_( which_WDT can_MD be_VB flush_JJ ,_, or_CC scraped_JJ out_IN to_TO create_VB shadows_NNS ;_: the_DT bonding_NN patterns_NNS ;_: the_DT way_NN that_IN the_DT bricks_NNS turn_VBP the_DT corner_NN ;_: the_DT surrounding_VBG of_IN openings_NNS ;_: and_CC the_DT connection_NN between_IN the_DT brick_NN wall_NN and_CC the_DT foundation_NN or_CC the_DT eaves_NNS ._. 
+What_WP we_PRP see_VBP are_VBP details_NNS ._. 
+
+Details_NNS are_VBP a_DT major_JJ preoccupation_NN of_IN the_DT architect_NN ._. 
+Once_RB the_DT overall_JJ form_NN of_IN a_DT building_NN is_VBZ determined—_NN “_NN the_DT masterly_RB ,_, correct_JJ ,_, and_CC magnificent_JJ play_NN of_IN masses_NNS brought_VBN together_RB in_IN light_JJ ”_NN —_NN there_EX remains_VBZ the_DT question_NN not_RB only_RB of_IN what_WP materials_NNS are_VBP to_TO be_VB used_VBN and_CC how_WRB these_DT will_MD be_VB assembled_VBN ,_, but_CC also_RB of_IN how_WRB the_DT hundreds_NNS of_IN parts_NNS of_IN the_DT building_NN are_VBP to_TO be_VB designed_VBN :_: from_IN the_DT door_NN frames_NNS and_CC the_DT window_NN sills_NNS to_TO the_DT railings_NNS and_CC the_DT baseboards_NNS ._. 
+
+The_DT function_NN of_IN a_DT baseboard_NN is_VBZ to_TO cover_VB the_DT joint_NN between_IN the_DT wall_NN and_CC the_DT floor_NN ,_, and_CC secondarily_RB to_TO protect_VB the_DT wall_NN from_IN scuffing_VBG ._. 
+There_EX are_VBP dozens_NNS of_IN ways_NNS that_IN this_DT can_MD be_VB done_VBN ._. 
+Baseboards_NNP can_MD be_VB prominent_JJ or_CC discreet_JJ ,_, a_DT complicated_JJ assembly_NN of_IN board_NN ,_, cap_NN and_CC base_NN ,_, or_CC a_DT simple_JJ strip_NN of_IN hardwood_NN ._. 
+Or_CC nothing—many_NN modern_JJ architects_NNS dispense_VBP with_IN baseboards_NNS altogether_RB ._. 
+The_DT baseboards_NNS in_IN my_PRP$ living_VBG room_NN are_VBP twelve_CD inches_NNS tall_JJ ._. 
+They_PRP are_VBP not_RB wood_NN but_CC cast_NN iron_NN ,_, since_IN they_PRP are_VBP really_RB disguised_VBN radiators_NNS ._. 
+My_PRP$ house_NN was_VBD built_VBN in_IN 1908_CD ,_, influenced_VBN by_IN the_DT British_NNP Free_NNP Style_NN of_IN Voysey_NNP and_CC Baillie_NNP Scott_NNP ,_, and_CC to_TO further_VB preserve_VB a_DT simple_JJ ,_, rustic_JJ atmosphere_NN the_DT architect_NN had_VBD the_DT baseboards_NNS /_NN radiators_NNS painted_VBN to_TO resemble_VB wood_NN ._. 
+
+Railings_NNP have_VBP a_DT simple_JJ function—they_NN must_MD be_VB sturdy_JJ enough_RB to_TO support_VB us_PRP if_IN we_PRP lean_JJ on_IN them_PRP ,_, and_CC they_PRP must_MD provide_VB a_DT secure_JJ hand-hold_JJ :_: if_IN railings_NNS are_VBP open_JJ ,_, the_DT spaces_NNS between_IN the_DT supports_NNS and_CC the_DT rails_NNS should_MD be_VB small_JJ enough_RB to_TO prevent_VB children_NNS from_IN falling_VBG through_IN ._. 
+Classical_NNP railings_NNS ,_, developed_VBN during_IN the_DT Renaissance_NNP ,_, consist_VBP of_IN balusters_NNS supporting_VBG a_DT handrail_NN 
+._. Balusters—little_NNP columns—can_NN have_VBP a_DT single_JJ or_CC a_DT double_JJ swelling_VBG curve_NN ,_, or_CC a_DT vase_NN shape_NN ._. 
+Fabricated_NNP in_IN wood_NN or_CC masonry_NN ,_, they_PRP can_MD be_VB round_NN or_CC square_JJ in_IN cross-section_NN ,_, and_CC plain_JJ or_CC highly_RB ornamented_JJ ._. 
+Railings_NNP can_MD be_VB replaced_VBN by_IN parapets_NNS with_IN pierced_JJ screens_NNS ._. 
+These_DT can_MD be_VB stone_NN or_CC metal_NN :_: bronze_NN ,_, wrought_VBD ,_, or_CC cast_NN iron_NN ._. 
+The_DT screens_NNS can_MD be_VB simple_JJ X_JJ -_: shapes_VBZ ,_, intertwining_VBG geometrical_JJ patterns_NNS ,_, or_CC complicated_VBD floral_JJ figures_NNS as_IN in_IN Art_NNP Nouveau_NNP staircases_NNS ._. 
+Perhaps_RB the_DT simplest_JJS open_JJ railings_NNS are_VBP those_DT of_IN the_DT great_JJ Adirondack_NNP camps_NNS ,_, whose_WP$ builders_NNS mimicked_JJ X_JJ -_: shaped_VBN wrought-iron_JJ railings_NNS in_IN unpeeled_JJ rustic_JJ tree_NN trunks_NNS ._. 
+
+Modern_NNP railings_NNS are_VBP usually_RB metal_NN ._. 
+In_IN his_PRP$ early_JJ villas_NNS ,_, Le_NNP Corbusier_NNP used_VBD white-painted_JJ pipe_NN railings_NNS to_TO create_VB a_DT nautical_JJ image_NN ;_: in_IN later_JJ buildings_NNS like_IN the_DT Carpenter_NNP Center_NNP for_IN the_DT Visual_NNP Arts_NNP at_IN Harvard_NNP ,_, flat_JJ steel_NN bars_NNS take_VBP the_DT place_NN of_IN pipes_NNS ._. 
+The_DT railings_NNS in_IN Mies_NNP van_NN der_NNP Rohe_NNP ’_NN s_VBZ buildings_NNS usually_RB have_VBP only_RB a_DT single_JJ intermediate_JJ rail_NN ,_, located_VBN precisely_RB halfway_RB between_IN the_DT handrail_NN and_CC the_DT floor_NN ;_: the_DT vertical_JJ stanchions_NNS ,_, the_DT handrail_NN ,_, and_CC the_DT rail_NN are_VBP made_VBN of_IN identical_JJ square_JJ steel_NN bars_NNS ._. 
+The_DT railings_NNS in_IN Louis_NNP Kahn_NNP buildings_NNS tend_VBP to_TO be_VB parapets_NNS ,_, but_CC where_WRB he_PRP is_VBZ obliged_VBN to_TO use_VB an_DT open_JJ railing_NN the_DT design_NN is_VBZ as_RB simple_JJ as_IN possible_JJ ._. 
+I_PRP have_VBP seen_VBN a_DT short_JJ stair_NN railing_NN that_WDT consisted_VBD of_IN a_DT single_JJ bronze_NN bar_NN ,_, bent_NN at_IN each_DT end_NN to_TO form_VB the_DT uprights_NNS ._. 
+Richard_NNP Meier_NNP uses_VBZ metal_NN railings_NNS ,_, too_RB ,_, but_CC because_IN there_EX are_VBP sometimes_RB as_RB many_JJ as_IN six_CD horizontal_NN rails_NNS ,_, the_DT visual_JJ effect_NN is_VBZ more_JJR pronounced—they_NN resemble_VB staffs_NNS in_IN sheet_NN music_NN ._. 
+
+When_WRB Brutalism_NNP was_VBD in_IN fashion_NN ,_, railings_NNS were_VBD correspondingly_RB heavy_JJ :_: concrete_JJ beams_VBZ ,_, wide_JJ enough_RB to_TO sit_VB on_IN but_CC unpleasant_JJ to_TO the_DT touch_NN ,_, or_CC massive_JJ wood_NN balustrades_NNS ,_, as_RB solid_JJ as_IN fenders_NNS on_IN a_DT truck_NN dock_NN ._. 
+The_DT vogue_NN among_IN many_JJ younger_JJR architects_NNS today_NN is_VBZ toward_IN lightness_NNS and_CC exposed_VBN construction_NN ,_, and_CC railings_NNS reflect_VBP that_DT fashion_NN ,_, too_RB ._. 
+The_DT screens_NNS of_IN the_DT railings_NNS of_IN Peter_NNP Rose_NNP ’_NN s_VBZ Canadian_NNP Center_NNP for_IN Architecture_NNP in_IN Montreal_NNP are_VBP industrial-looking_JJ perforated_JJ sheets_NNS of_IN anodized_JJ aluminum_NN ,_, prominently_RB bolted_VBN to_TO the_DT stanchions_NNS ._. 
+Bernard_NNP Tschumi_NNP substitutes_NNS steel_NN cables_NNS (_( complete_JJ with_IN turnbuckles_NNS )_) for_IN the_DT intermediate_JJ horizontal_NN rails_NNS of_IN the_DT ramp_NN railings_NNS of_IN Lerner_NNP Hall_NNP at_IN Columbia_NNP University_NNP ,_, another_DT nautical_JJ reference_NN ,_, but_CC to_TO a_DT yacht_NN rather_RB than_IN a_DT steamship_NN ._. These_DT solutions_NNS appear_VBP mannered_JJ compared_VBN to_TO the_DT simple_JJ railing_NN that_IN I._NN M._NN Pei_NNP designed_VBD for_IN the_DT East_NNP Building_NNP of_IN the_DT National_NNP Gallery_NNP ._. 
+The_DT stainless_JJ steel_NN handrail_NN highlights_VBZ the_DT solidity_NN of_IN the_DT rose-colored_JJ Tennessee_NNP marble_NN by_IN appearing_VBG to_TO float_VB in_IN mid-air_JJ ,_, since_IN it_PRP is_VBZ supported_VBN by_IN continuous_JJ sheets_NNS of_IN tempered_VBN glass_NN embedded_VBN in_IN the_DT floor_NN ._. 
+
+The_DT transparent_JJ railings_NNS of_IN I._NN M._NN Pei_NNP ’_NN s_VBZ East_NNP Building_NNP are_VBP understated_VBN ,_, elegant_JJ ,_, and_CC luxurious—like_NN the_DT building_NN ._. “_NN Beauty_NN will_MD result_VB from_IN the_DT form_NN and_CC correspondence_NN of_IN the_DT whole_NN with_IN respect_NN to_TO the_DT several_JJ parts_NNS ,_, ”_NN taught_VBD Palladio_NNP ,_, “_NN of_IN the_DT parts_NNS with_IN regard_NN to_TO each_DT other_JJ ,_, and_CC of_IN these_DT again_RB to_TO the_DT whole_NN ._. ”_NN 
+8_CD The_DT successful_JJ relationship_NN of_IN the_DT details_NNS to_TO each_DT other_JJ ,_, and_CC to_TO the_DT building_NN is_VBZ governed_VBN by_IN the_DT architect_NN ’_NN s_VBZ sense_NN of_IN style_NN ._. 
+That_DT is_VBZ why_WRB the_DT architect_NN of_IN my_PRP$ house_NN painted_VBD the_DT radiators_NNS to_TO resemble_VB wood_NN ;_: a_DT technologically_RB inclined_VBN architect_NN might_MD have_VB painted_VBN them_PRP silver_NN ;_: a_DT minimalist_NN would_MD dispense_VB with_IN baseboards_NNS and_CC hide_VB the_DT radiators_NNS in_IN the_DT wall_NN ._. 
+The_DT role_NN of_IN details_NNS is_VBZ not_RB to_TO complement_VB architecture_NN ;_: details_NNS are_VBP architecture_NN ._. 
+“_NN The_DT aesthetic_JJ understanding_NN [_NN of_IN architecture_NN ]_NN ,_, ”_NN writes_VBZ Roger_NNP Scruton_NNP ,_, “_NN is_VBZ inseparable_JJ from_IN a_DT sense_NN of_IN detail_NN ._. ”_NN 
+9_CD Mies_NNP van_NN der_NNP Rohe_NNP is_VBZ supposed_VBN to_TO have_VB said_VBN “_NN God_NNP is_VBZ in_IN the_DT details_NNS ._. ”_NN *_NN 
+He_PRP did_VBD not_RB mean_VB that_IN details_NNS are_VBP functionally_RB important_JJ (_( although_IN they_PRP are_VBP )_) ,_, or_CC that_IN good_JJ details_NNS prolong_VB the_DT life_NN of_IN a_DT building_NN (_( although_IN they_PRP do_VBP )_) ._. 
+He_PRP meant_VBD that_IN details_NNS are_VBP the_DT soul_NN of_IN architecture_NN ._. 
+That_DT is_VBZ why_WRB ,_, just_RB as_IN an_DT archaeologist_NN can_MD reconstruct_VB a_DT pot_NN from_IN a_DT few_JJ shards_NNS ,_, or_CC a_DT paleontologist_NN can_MD surmise_NN the_DT form_NN of_IN a_DT prehistoric_JJ animal_NN from_IN bone_NN fragments_NNS ,_, it_PRP is_VBZ possible_JJ to_TO divine_NN the_DT architect_NN ’_NN s_VBZ idea_NN of_IN a_DT building_NN by_IN examining_VBG its_PRP$ details_NNS ._. 
+
+The_DT house_NN that_IN Robert_NNP Venturi_NNP built_VBD for_IN his_PRP$ mother_NN in_IN 1964_CD shook_VBD the_DT foundations_NNS of_IN the_DT International_NNP Style_NN ;_: much_JJ of_IN this_DT effect_NN was_VBD the_DT result_NN of_IN details_NNS ._. 
+Although_IN Venturi_NNP obviously_RB was_VBD working_VBG in_IN a_DT Modernist_NNP idiom—there_NN is_VBZ a_DT strip_NN window_NN and_CC a_DT steel-pipe_JJ railing—he_NN also_RB incorporated_VBD distinctly_RB un-_NN Modernist_NNP features_NNS such_JJ as_IN trim_VB ,_, both_DT inside_IN and_CC out_RP ._. 
+Classical_NNP architects_NNS use_VBP a_DT large_JJ variety_NN of_IN moldings—fillet_NN ,_, astragal_NN ,_, egg_NN and_CC dart_NN ,_, ogee—that_NN can_MD be_VB combined_VBN and_CC recombined_JJ to_TO great_JJ decorative_JJ effect_NN ._. 
+The_DT International_NNP Style_NN ,_, in_IN its_PRP$ effort_NN to_TO do_VB away_RB with_IN ornament_NN ,_, outlawed_VBN trim_VB ._. 
+Walls_NNP were_VBD flat_JJ planes_NNS ._. 
+Windows_NNP had_VBD no_DT frames_NNS ._. 
+Joints_NNP between_IN materials_NNS were_VBD simply_RB hairline_NN cracks_NNS ._. 
+The_DT conspicuous_JJ exterior_NN dado_NN ,_, the_DT baseboards_NNS ,_, and_CC the_DT chair-rails_JJ in_IN the_DT Vanna_NNP Venturi_NNP House_NNP were_VBD hardly_RB Classical_NNP moldings—they_NN were_VBD merely_RB boards_NNS with_IN chamfered_JJ edges—yet_NN they_PRP challenged_VBD the_DT assumption_NN that_WDT trim_VB and_CC Modernism_NNP were_VBD incompatible_JJ ._. 
+
+Coming_VBG through_IN the_DT front_JJ door_NN of_IN the_DT Vanna_NNP Venturi_NNP House_NNP one_CD immediately_RB senses_NNS that_IN it_PRP is_VBZ an_DT unusual_JJ place_NN ._. 
+A_DT broad_JJ stair_NN rises_VBZ beside_IN the_DT fireplace_NN ,_, then_RB peters_NNS out_IN to_TO almost_RB nothing_NN ._. 
+The_DT fireplace_NN looks_VBZ like_IN an_DT abstract_JJ sculpture_NN ,_, but_CC it_PRP has_VBZ a_DT traditional_JJ mantelpiece_NN ._. 
+A_DT free-standing_JJ column_NN à_NN la_FW Corbusier_NNP stands_VBZ beside_IN a_DT chair-rail_JJ ._. 
+Then_RB there_EX is_VBZ the_DT furniture_NN ._. 
+Ever_RB since_IN the_DT Tugendhat_NNP House—for_NNP which_WDT Mies_NNP had_VBD designed_VBN the_DT furniture—it_NN was_VBD taken_VBN for_IN granted_VBN that_IN modern_JJ houses_NNS required_VBD modern_JJ furniture_NN ._. 
+Venturi_NNP has_VBZ explained_VBN that_DT “_NN I_PRP designed_VBD the_DT house_NN so_RB my_PRP$ mother_NN ’_NN s_VBZ old_JJ furniture_NN (_( c_SYM ._. 1925_CD ,_, plus_CC some_DT antiques_NNS )_) would_MD look_VB good_JJ in_IN it_PRP ._. ”_NN 
+10_CD Instead_RB of_IN the_DT iconic_JJ bent-tube_JJ Breuer_NNP chairs_NNS ,_, there_EX are_VBP homely_RB ladderback_NN chairs_NNS around_IN the_DT dining_NN table_NN ;_: instead_RB of_IN an_DT Eames_NNP lounge_NN chair_NN and_CC ottoman_NN ,_, a_DT comfortable_JJ stuffed_VBN sofa_NN ._. 
+It_PRP is_VBZ a_DT contradictory_JJ atmosphere—the_NN International_NNP Style_NN willfully_RB distorted_JJ through_IN the_DT lens_NN of_IN traditional_JJ bourgeois_NNS domesticity_NN ._. 
+
+Whether_IN one_CD is_VBZ looking_VBG up_RP at_IN the_DT tall_JJ dome_NN of_IN the_DT Pantheon_NNP ,_, descending_VBG the_DT spiraling_VBG vortex_NN of_IN Wright_NNP ’_NN s_VBZ Guggenheim_NNP Museum_NNP ,_, or_CC standing_NN in_IN the_DT living_VBG room_NN of_IN Venturi_NNP ’_NN s_VBZ small_JJ house_NN ,_, the_DT experience_NN of_IN architecture_NN is_VBZ above_IN all_PDT the_DT experience_NN of_IN being_VBG in_IN a_DT separate_JJ ,_, distinct_JJ world_NN ._. 
+That_DT is_VBZ what_WP distinguishes_NNS architecture_NN from_IN sculpture—it_NN is_VBZ not_RB an_DT object_VB but_CC a_DT place_NN ._. 
+The_DT sense_NN of_IN being_VBG in_IN a_DT special_JJ place_NN that_WDT is_VBZ a_DT three-dimensional_JJ expression_NN of_IN the_DT architect_NN ’_NN s_VBZ imagination_NN is_VBZ one_CD of_IN the_DT distinctive_JJ pleasures_NNS of_IN architecture_NN ._. 
+To_TO create_VB a_DT strong_JJ sense_NN of_IN place_NN ,_, the_DT surroundings_NNS must_MD be_VB all_DT of_IN a_DT piece_NN ;_: space_NN ,_, mass_NN ,_, shapes_VBZ ,_, and_CC materials_NNS must_MD reflect_VB the_DT same_JJ sensibility_NN ._. 
+That_DT is_VBZ why_WRB details_NNS are_VBP so_RB important_JJ ._. 
+A_DT jarring_JJ detail_NN or_CC an_DT inconsistency—something_VBG “_NN out_IN of_IN place_NN ”_NN —_NN and_CC the_DT fantasy_NN begins_VBZ to_TO crumble_VB ._. 
+Yes_UH ,_, fantasy_NN ._. 
+Illusion_NNP has_VBZ been_VBN a_DT part_NN of_IN architecture_NN ever_RB since_IN the_DT ancient_JJ Greeks_NNPS made_VBD columns_NNS with_IN a_DT gently_RB swelling_VBG taper_VB to_TO deceive_VB the_DT eye_NN ._. 
+This_DT is_VBZ not_RB to_TO say_VB that_DT architecture_NN is_VBZ stage_NN décor_NN ._. 
+When_WRB the_DT wind_NN blows_NNS ,_, the_DT canvas_NN scenery_NN blows_NNS over_IN ;_: the_DT building_NN resists_VBZ the_DT elements_NNS ._. 
+Architecture_NNP surrounds_NNS and_CC shelters_NNS us_PRP ._. 
+It_PRP is_VBZ the_DT real_JJ world_NN but_CC it_PRP is_VBZ also_RB a_DT vision_NN ._. 
+
+•••_NN 
+The_DT Postmodern_NNP movement_NN that_WDT followed_VBD the_DT Vanna_NNP Venturi_NNP House_NNP was_VBD relatively_RB short-lived_JJ but_CC it_PRP had_VBD an_DT important_JJ consequence_NN :_: it_PRP broke_VBD the_DT stranglehold_NN of_IN Modernism_NNP ,_, leaving_VBG designers_NNS free_JJ to_TO explore_VB other_JJ forms_NNS of_IN expression_NN ._. 
+The_DT profusion_NN of_IN styles_NNS that_WDT ensued_VBD is_VBZ demonstrated_VBN by_IN the_DT work_NN of_IN three_CD gifted_JJ but_CC vastly_RB different_JJ architects_NNS ,_, Allan_NNP Greenberg_NNP ,_, Hugh_NNP Newell_NNP Jacobsen_NNP ,_, and_CC Enrique_NNP Norten_NNP ._. 
+
+Allan_NNP Greenberg_NNP is_VBZ a_DT confirmed_VBN Classicist_NNP ._. 
+He_PRP does_VBZ not_RB consider_VB this_DT an_DT anomaly_RB ._. “_NN To_TO be_VB truly_RB modern_JJ ,_, ”_NN he_PRP writes_VBZ ,_, “_NN means_VBZ finding_VBG the_DT dynamic_JJ balance_NN between_IN eternal_JJ human_JJ values_NNS and_CC the_DT specific_JJ demands_NNS of_IN the_DT present_NN ._. 
+Classical_NNP architecture_NN provides_VBZ the_DT means_NNS to_TO achieve_VB this_DT balance_NN because_IN it_PRP is_VBZ the_DT most_RBS comprehensive_JJ architectural_JJ language_NN that_IN human_JJ beings_NNS have_VBP yet_RB developed_VBN ._. 
+”_NN 11_CD Although_IN Greenberg_NNP looks_VBZ to_TO the_DT past_NN ,_, his_PRP$ is_VBZ not_RB the_DT attitude_NN of_IN an_DT archeologist_NN ._. 
+Like_IN Carrère_NNP &_CC Hastings_NNP ,_, and_CC generations_NNS of_IN architects_NNS before_IN them_PRP ,_, Greenberg_NNP approaches_NNS Classicism_NNP as_IN a_DT tradition_NN to_TO be_VB studied_VBN ,_, absorbed—then_NN extended_VBN ._. 
+
+Early_RB in_IN his_PRP$ career_NN ,_, after_IN emigrating_VBG to_TO the_DT United_NNP States_NNPS from_IN South_NNP Africa_NNP ,_, Greenberg_NNP was_VBD employed_VBN writing_VBG design_NN standards_NNS for_IN courthouses_NNS ,_, which_WDT led_VBD to_TO an_DT unusual_JJ commission_NN :_: the_DT conversion_NN of_IN an_DT empty_JJ supermarket_NN into_IN a_DT courthouse_NN ._. 
+He_PRP gave_VBD the_DT commercial_JJ building_NN in_IN Manchester_NNP ,_, Connecticut_NNP ,_, a_DT new_JJ façade_NN dominated_VBN by_IN a_DT large_JJ arch_NN ,_, over-scaled_JJ voussoirs_NNS ,_, and_CC a_DT pediment_NN ._. 
+Inside_IN ,_, the_DT barrel-vaulted_JJ ceiling_NN of_IN the_DT lobby_NN was_VBD supported_VBN by_IN a_DT Tuscan_NNP order_NN ._. 
+Greenberg_NNP had_VBD graduated_VBN from_IN Yale_NNP in_IN 1965_CD ,_, and_CC like_IN many_JJ of_IN his_PRP$ contemporaries_NNS was_VBD experimenting_VBG with_IN the_DT new_JJ freedom_NN offered_VBN by_IN Postmodernism_NNP ._. 
+However_RB ,_, unlike_IN Venturi_NNP and_CC Moore_NNP ,_, Greenberg_NNP was_VBD not_RB coyly_RB introducing_VBG Classical_NNP elements_NNS into_IN a_DT Modernist_NNP building_NN ;_: he_PRP was_VBD returning_VBG to_TO Classical_NNP roots_NNS ._. 
+From_IN this_DT modest_JJ beginning_NN ,_, over_IN the_DT next_JJ two_CD decades_NNS ,_, came_VBD a_DT variety_NN of_IN commissions_NNS :_: a_DT suite_NN of_IN rooms_NNS for_IN the_DT Secretary_NNP of_IN State_NNP in_IN the_DT United_NNP States_NNP Department_NNP of_IN State_NNP building_NN ,_, several_JJ college_NN and_CC university_NN buildings_NNS ,_, and_CC a_DT Roman_NNP Catholic_NNP church_NN ._. 
+His_PRP$ commercial_JJ work_NN included_VBD a_DT newspaper_NN office_NN building_NN in_IN Athens_NNP ,_, Georgia_NNP ,_, a_DT new_JJ entrance_NN for_IN Bergdorf_NNP Goodman_NNP on_IN Fifth_NNP Avenue_NNP in_IN Manhattan_NNP ,_, and_CC a_DT flagship_NN store_NN for_IN Tommy_NNP Hilfiger_NNP in_IN Beverly_NNP Hills_NNP ._. 
+Greenberg_NNP is_VBZ also_RB known_VBN for_IN large_JJ country_NN houses_NNS ,_, both_DT in_IN the_DT United_NNP States_NNPS and_CC in_IN Europe_NNP ._. 
+Like_IN Lutyens_NNP and_CC John_NNP Russell_NNP Pope_NNP ,_, he_PRP ventures_NNS stylistically_RB farther_RBR afield_RB in_IN his_PRP$ residential_JJ work—using_VBG Georgian_JJ and_CC American_NNP Colonial_NNP styles_NNS 
+._. One_CD of_IN his_PRP$ early_JJ houses_NNS was_VBD inspired_VBN by_IN Mount_NNP Vernon_NNP ,_, another_DT by_IN Palladio_NNP ’_NN s_VBZ unfinished_JJ Villa_NNP Thiene_NNP ._. 
+Several_JJ are_VBP picturesque_NN rambling_VBG affairs_NNS whose_WP$ relaxed_VBN informality_NN recalls_VBZ the_DT best_JJS work_NN of_IN McKim_NNP ,_, Mead_NNP &_CC White_NNP ._. 
+
+One_CD of_IN my_PRP$ favorite_JJ Greenberg_NNP houses_NNS is_VBZ a_DT cottage_NN set_VBN among_IN windblown_NN dunes_NNS on_IN the_DT eastern_JJ seaboard_NN ._. 
+Completed_NNP in_IN 1992_CD ,_, the_DT low-lying_JJ building_NN is_VBZ shingled_JJ ,_, but_CC it_PRP is_VBZ not_RB exactly_RB Shingle_NNP Style_NN ._. 
+Recent_JJ Shingle_NNP Style_NN buildings_NNS are_VBP often_RB broken_VBN down_RB into_IN many_JJ small_JJ parts_NNS ,_, giving_VBG them_PRP a_DT fussy_NN and_CC nervous_JJ appearance_NN ._. 
+Such_JJ seaside_NN cottages_NNS look_VBP as_IN if_IN a_DT good_JJ wind_NN could_MD blow_VB them_PRP away_RB ._. 
+Greenberg_NNP ’_NN s_VBZ aim_NN here_RB is_VBZ to_TO make_VB a_DT heavyweight_JJ building_NN of_IN great_JJ solidity_NN that_WDT is_VBZ rooted_VBN firmly_RB in_IN the_DT dune_NN scrub_NN ._. 
+The_DT one-story_JJ Atlantic_NNP façade_NN is_VBZ almost_RB perfectly_RB symmetrical_JJ :_: a_DT large_JJ arched_JJ window_NN flanked_JJ by_IN two_CD semi-circular_JJ bays_NNS ,_, rotund_NN sentinels_NNS standing_VBG against_IN the_DT ocean_NN winds_NNS ._. 
+The_DT two-story_JJ landward_NN side_NN is_VBZ more_RBR informal_JJ ,_, ringed_JJ by_IN a_DT sheltered_JJ porch_NN ._. Massivity_NNP informs_VBZ the_DT details_NNS :_: sturdy_JJ Tuscan_NNP columns_NNS ,_, a_DT heavy_JJ cornice_NN at_IN the_DT eaves_NNS of_IN the_DT large_JJ roof_NN ,_, rugged_JJ window_NN frames_NNS ._. 
+The_DT sense_NN of_IN robustness_NNS is_VBZ accentuated_JJ by_IN occasional_JJ delicacy_NN :_: the_DT arched_JJ window_NN incorporates_VBZ scrolled_JJ brackets_NNS that_WDT support_NN an_DT elegant_JJ reverse_NN ogee_NN molding_NN at_IN the_DT eaves_NNS ._. 
+Inside_IN ,_, the_DT fireplace_NN has_VBZ a_DT brick_NN hearth_NN ,_, a_DT slate_NN lintel_NN ,_, and_CC a_DT wood_NN surround_VBP ,_, whose_WP$ almost_RB modern_JJ simplicity_NN is_VBZ softened_VBN by_IN a_DT cavetto_NN molding_NN beneath_IN the_DT mantelpiece_NN ._. 
+The_DT ceiling_NN is_VBZ supported_VBN by_IN exposed_VBN trusses_NNS of_IN rough_JJ ,_, reused_VBN timbers_NNS ._. 
+Although_IN most_JJS people_NNS would_MD describe_VB this_DT house_NN as_IN “_NN traditional_JJ ,_, ”_NN this_DT is_VBZ not_RB an_DT exercise_NN in_IN a_DT particular_JJ historical_JJ style_NN ._. 
+There_EX is_VBZ a_DT nod_NN here_RB to_TO the_DT British_NNP Arts_NNP and_CC Crafts_NNP architect_NN C._NN F._NN A._NN Voysey_NNP ,_, and_CC it_PRP is_VBZ obvious_JJ that_IN Greenberg_NNP has_VBZ looked_VBN at_IN Lutyens_NNP ’_NN country_NN houses_NNS ._. 
+But_CC this_DT is_VBZ a_DT modern_JJ house_NN ,_, although_IN designed_VBN by_IN an_DT architect_NN with_IN a_DT Classical_NNP sensibility_NN ._. 
+It_PRP admirably_RB fulfills_VBZ Palladio_NNP ’_NN s_VBZ call_NN for_IN a_DT correspondence_NN of_IN the_DT whole_NN with_IN the_DT parts_NNS and_CC the_DT parts_NNS with_IN the_DT whole_NN ._. 
+
+Hugh_NNP Newell_NNP Jacobsen_NNP studied_VBD at_IN Yale_NNP under_IN Louis_NNP Kahn_NNP ,_, worked_VBD for_IN Philip_NNP Johnson_NNP ,_, and_CC opened_VBD his_PRP$ own_JJ office_NN in_IN 1958_CD ._. 
+He_PRP established_VBD himself_PRP as_IN a_DT premier_NN residential_JJ architect_NN ,_, winning_VBG commissions_NNS in_IN the_DT United_NNP States_NNPS and_CC abroad_RB and_CC receiving_VBG numerous_JJ design_NN awards_NNS ._. 
+Several_JJ of_IN the_DT awards_NNS were_VBD for_IN restoration_NN of_IN historic_JJ buildings_NNS ,_, notably_RB the_DT Renwick_NNP Gallery_NNP in_IN Washington_NNP ,_, D.C._NN ,_, and_CC the_DT Hôtel_NNP Talleyrand_NNP in_IN Paris_NNP ._. A_DT Modernist_NNP by_IN training_VBG and_CC inclination_NN ,_, Jacobsen_NNP was_VBD ,_, nevertheless_RB ,_, affected_VBN by_IN the_DT winds_NNS of_IN change_NN unleashed_VBN by_IN Venturi_NNP ’_NN s_VBZ little_JJ house_NN ._. 
+Starting_VBG in_IN 1980_CD ,_, he_PRP evolved_VBD a_DT hybrid_JJ style_NN in_IN which_WDT American_JJ regional_JJ forms_NNS and_CC materials_NNS are_VBP combined_VBN with_IN International_NNP Style_NN precision_NN ,_, spareness_NNS ,_, and_CC simplicity_NN 
+._. A_DT house_NN on_IN Nantucket_NNP in_IN shingles_NNS and_CC white_JJ trim_VB looks_VBZ vernacular_NN until_IN one_CD notices_NNS the_DT careful_JJ proportions_NNS and_CC refined_VBN ,_, elegant_JJ details_NNS such_JJ as_IN tall_JJ French_JJ doors_NNS in_IN the_DT living_VBG room_NN that_DT slide_NN into_IN wall_NN pockets_NNS that_WDT also_RB conceal_VB shutters_NNS and_CC screen_NN doors_NNS ._. 
+A_DT post-and-beam_JJ Caribbean_NNP guest_NN house_NN with_IN broad_JJ overhangs_NNS has_VBZ the_DT ingenuous_JJ simplicity_NN of_IN a_DT beach_NN shack_NN ._. 
+The_DT Palladian_NNP plan_NN and_CC temple-like_JJ pavilions_NNS of_IN an_DT Ohio_NNP residence_NN pay_NN homage_NN to_TO the_DT local_JJ Greek_NNP Revival_NNP ._. 
+An_DT Ohio_NNP country_NN house_NN recalls_VBZ a_DT board-and-batten_JJ Gothic_NNP Revival_NNP farmhouse_NN ._. 
+“_NN I_PRP endeavor_NN to_TO design_VB buildings_NNS that_WDT express_VBP a_DT sense_NN of_IN belonging_VBG ,_, ”_NN Jacobsen_NNP says_VBZ ,_, “_NN buildings_NNS that_WDT reflect_VBP or_CC abstract_JJ the_DT nearby_JJ architecture_NN and_CC the_DT traditions_NNS dictated_VBN by_IN the_DT climate_NN and_CC local_JJ materials_NNS ._. 
+”_NN 12_CD 
+The_DT Palmedo_NNP House_NNP ,_, built_VBN in_IN 1988_CD ,_, reinterprets_NNS the_DT American_NNP Colonial_NNP architecture_NN of_IN its_PRP$ location—_NN Long_NNP Island_NNP ._. 
+At_IN first_JJ glance_NN ,_, the_DT six_CD pavilions_NNS resemble_VBP a_DT little_JJ village_NN ,_, a_DT little_JJ Amish_NNP village_NN ,_, judging_VBG from_IN the_DT austere_JJ white_JJ wood_NN siding_NN ,_, the_DT prim_JJ details_NNS ,_, and_CC the_DT identical_JJ pitched_VBN roofs_NNS ._. 
+Each_DT pavilion_NN is_VBZ a_DT perfect_JJ little_JJ “_NN house_NN ”_NN with_IN identical_JJ square_JJ and_CC vertical_JJ multi-paned_JJ windows_NNS (_( that_IN open_JJ by_IN sliding_VBG into_IN cunning_JJ wall_NN pockets_NNS )_) ._. 
+This_DT sounds_VBZ precious_JJ ,_, but_CC Jacobsen_NNP is_VBZ not_RB a_DT romantic_JJ ._. 
+The_DT central_JJ “_NN house_NN ”_NN contains_VBZ the_DT living_VBG room_NN ,_, a_DT three-story_JJ space_NN open_JJ to_TO the_DT roof_NN ._. 
+Although_IN the_DT multi-paned_JJ windows_NNS are_VBP present_JJ at_IN an_DT upper_JJ level_NN of_IN the_DT wall_NN ,_, the_DT corner_NN of_IN the_DT room_NN is_VBZ glazed_JJ with_IN large_JJ ,_, mullionless_JJ sheets_NNS of_IN plate_NN glass_NN ,_, offering_VBG dramatic_JJ views_NNS of_IN Long_NNP Island_NNP Sound_NNP ._. 
+This_DT is_VBZ an_DT International_NNP Style_NN device_NN ,_, as_IN is_VBZ the_DT economy_NN of_IN detail_NN and_CC the_DT clean_VB ,_, cool_VB ,_, atmosphere_NN of_IN the_DT interior_NN ._. 
+On_IN the_DT other_JJ hand_NN ,_, the_DT fireplace_NN ,_, which_WDT in_IN an_DT orthodox_JJ International_NNP Style_NN house_NN would_MD be_VB painted_VBN brick_NN or_CC bush-hammered_JJ concrete_NN ,_, is_VBZ decorously_RB built_VBN into_IN the_DT wall_NN ,_, which_WDT gives_VBZ the_DT room_NN a_DT traditional_JJ ,_, civilized_JJ air_NN ._. 
+The_DT chief_JJ idea_NN here_RB is_VBZ to_TO highlight_VB the_DT tension_NN between_IN old_JJ and_CC new_JJ ,_, between_IN the_DT traditional_JJ clapboarded_JJ architecture_NN and_CC the_DT demands_NNS of_IN modern_JJ life_NN ._. 
+Whereas_IN Greenberg_NNP seamlessly_RB resolves_NNS this_DT tension_NN ,_, Jacobsen_NNP allows_VBZ it_PRP to_TO surface_VB ._. If_IN this_DT sounds_VBZ like_IN textbook_NN Postmodernism_NNP ,_, it_PRP is_VBZ not_RB ._. Jacobsen_NNP artlessly_RB combines_VBZ new_JJ and_CC old_JJ without_IN the_DT slightest_JJS hint_NN of_IN irony_NN ._. 
+
+Jacobsen_NNP reacts_VBZ to_TO the_DT collapse_NN of_IN Modernism_NNP by_IN seeking_VBG a_DT compromise_NN position_NN ,_, while_IN Greenberg_NNP anchors_NNS himself_PRP in_IN the_DT certainties_NNS of_IN Classicism_NNP ._. 
+Enrique_NNP Norten_NNP ,_, the_DT youngest_JJS of_IN the_DT three_CD ,_, takes_VBZ a_DT different_JJ course—he_NN is_VBZ trying_VBG to_TO put_VB Modernism_NNP back_RB together_RB again_RB ._. 
+Norten_NNP ,_, who_WP studied_VBD at_IN Cornell_NNP ,_, established_VBD his_PRP$ office_NN in_IN his_PRP$ native_JJ Mexico_NNP City_NNP in_IN 1985_CD ._. 
+In_IN a_DT relatively_RB short_JJ time_NN he_PRP produced_VBD an_DT impressive_JJ body_NN of_IN work_NN that_WDT includes_VBZ institutional_JJ ,_, commercial_JJ ,_, and_CC residential_JJ buildings_NNS ._. 
+His_PRP$ major_JJ projects_NNS are_VBP a_DT services_NNS building_VBG for_IN the_DT media_NNS giant_NN TELEVISA_NNP and_CC the_DT National_NNP School_NNP of_IN Theater_NNP ._. 
+Both_DT incorporate_VB bulging_VBG ,_, metal_NN shell-roofs_JJ that_WDT recall_VBP the_DT 1950s_NN buildings_NNS of_IN the_DT French_JJ architect-engineer_JJ Jean_NNP Prouvé_NNP ._. 
+Prouvé_NNP was_VBD intent_NN on_IN applying_VBG new_JJ methods_NNS of_IN construction_NN ,_, particularly_RB industrialization_NN and_CC prefabrication_NN ._. 
+His_PRP$ buildings_NNS ,_, extremely_RB light_JJ and_CC assembled_VBN from_IN standardized_JJ elements_NNS ,_, were_VBD real_JJ “_NN machines_NNS for_IN living_VBG ._. ”_NN 
+Norten_NNP ,_, too_RB ,_, is_VBZ preoccupied_VBN with_IN industrial_JJ building_NN technologies_NNS ,_, the_DT lighter_JJR the_DT better_JJR ._. 
+Double-tensed_NNP glass_NN curtain_NN walls_NNS are_VBP mysteriously_RB supported_VBN by_IN a_DT steel-frame_JJ ._. Roofs_NNP hang_VB by_IN steel_NN cables_NNS from_IN steel_NN masts_NNS ._. 
+Slender_NNP ,_, canted_JJ columns_NNS brace_VB a_DT glass-roofed_JJ portico_NN ._. 
+Railings_NNP ,_, in_IN a_DT Norten_NNP design_NN ,_, are_VBP almost_RB always_RB opportunities_NNS for_IN structural_JJ legerdemain_NN :_: suspended_VBN sheets_NNS of_IN glass_NN ,_, stretched_VBN steel_NN cables_NNS ,_, perforated_JJ metal_NN screens_NNS ._. 
+
+In_IN 1994_CD ,_, Norten_NNP built_VBD a_DT house_NN for_IN himself_PRP and_CC his_PRP$ family_NN on_IN a_DT tight_JJ urban_JJ site_NN in_IN Mexico_NNP City_NNP ._. 
+The_DT three-story_JJ street_NN façade_NN is_VBZ mostly_RB a_DT blank_JJ concrete_JJ wall_NN ;_: the_DT wall_NN facing_VBG the_DT interior_JJ walled_JJ patio_NN is_VBZ entirely_RB glass_NN ._. 
+The_DT main_JJ living_NN floor_NN is_VBZ open_JJ ,_, except_IN for_IN the_DT kitchen_NN ;_: the_DT upper_JJ bedroom_NN floor_NN is_VBZ shaded_JJ and_CC given_VBN privacy_NN by_IN a_DT redwood_NN ,_, louvered_JJ screen_NN ._. 
+A_DT functionalist_NN style_NN pervades_NNS the_DT house_NN ._. 
+The_DT clinical_JJ cabinetwork_NN is_VBZ white-painted_JJ wood_NN ._. 
+A_DT concrete_JJ wall_NN in_IN the_DT dining_NN room_NN is_VBZ bare_JJ save_VB for_IN the_DT regular_JJ pattern_NN of_IN the_DT formwork_NN ties_NNS and_CC the_DT pour_VB lines_NNS marks_NNS ._. 
+The_DT windows_NNS are_VBP large_JJ sections_NNS of_IN plate_NN glass_NN in_IN simple_JJ aluminum_NN frames_NNS ;_: a_DT 10_CD -_: foot_NN section_NN slides_NNS aside_RB to_TO entirely_RB open_VB the_DT dining_NN room_NN to_TO the_DT patio_NN ._. 
+The_DT sliding_VBG wall_NN recalls_VBZ the_DT disappearing_VBG windows_NNS in_IN Mies_NNP van_NN der_NNP Rohe_NNP ’_NN s_VBZ Tugendhat_NNP House_NNP ,_, but_CC the_DT resemblance_NN ends_VBZ here_RB ._. 
+Mies_NNP ’_NN spare_JJ interior_NN is_VBZ opulent_JJ and_CC assertive_JJ ;_: Norten_NNP ’_NN s_VBZ is_VBZ austere_JJ ,_, almost_RB monastic_JJ :_: a_DT neutral_JJ background_NN for_IN family_NN life_NN ._. 
+This_DT is_VBZ an_DT unsentimental_JJ idea_NN of_IN the_DT home_NN ._. 
+Not_RB exactly_RB a_DT “_NN machine_NN for_IN living_VBG ,_, ”_NN but_CC certainly_RB machinelike_NN in_IN its_PRP$ precision_NN and_CC rational_JJ layout_NN ._. 
+
+Like_IN Greenberg_NNP and_CC Jacobsen_NNP ,_, Norten_NNP reflects_VBZ on_IN the_DT past_NN ._. 
+Although_IN his_PRP$ house_NN has_VBZ little_JJ to_TO do_VB formally_RB with_IN the_DT International_NNP Style_NN of_IN the_DT flat-roofed_JJ stucco_NN villas_NNS of_IN the_DT 1920_CD s—except_NN for_IN the_DT white-painted_JJ circular_JJ steel_NN columns—it_NN shares_NNS that_WDT period_NN ’_NN s_VBZ ambitions_NNS ;_: it_PRP is_VBZ highly_RB abstract_JJ ,_, idealistic_JJ ,_, technophile_NN ,_, and_CC lacking_VBG in_IN applied_VBN ornament_NN ._. 
+Decoration_NNP results_NNS not_RB from_IN trim_VB ,_, but_CC from_IN the_DT surface_NN quality_NN of_IN the_DT different_JJ materials—concrete_NN ,_, red_JJ oak_NN flooring_NN ,_, etched_JJ glass—and_NN from_IN the_DT relentless_JJ articulation_NN of_IN structural_JJ connections_NNS ._. 
+Norten_NNP ’_NN s_VBZ buildings_NNS exhibit_NN another_DT feature_NN of_IN the_DT International_NNP Style_NN :_: they_PRP are_VBP placeless_JJ ._. 
+That_DT is_VBZ ,_, while_IN they_PRP carefully_RB respond_VBP to_TO the_DT specifics_NNS of_IN the_DT program_NN and_CC the_DT site_NN ,_, they_PRP do_VBP not_RB explicitly_RB acknowledge_VB their_PRP$ immediate_JJ regional_JJ context_NN ._. 
+Whether_IN they_PRP are_VBP in_IN Mexico_NNP or_CC New_NNP Mexico—where_NNP Norten_NNP is_VBZ building_VBG a_DT heritage_NN center—the_NN style_NN is_VBZ the_DT same_JJ :_: understated_VBN ,_, coolly_RB competent_JJ ,_, cosmopolitan_JJ ._. 
+
+Whether_IN one_CD prefers_VBZ the_DT work_NN of_IN Greenberg_NNP ,_, Jacobsen_NNP ,_, or_CC Norten_NNP is_VBZ a_DT matter_NN of_IN taste_NN (_( I_NN happen_VBP to_TO like_IN all_DT three_CD )_) ._. 
+The_DT buildings_NNS are_VBP different_JJ ,_, yet_RB the_DT three_CD architects_NNS have_VBP something_NN in_IN common_NN ._. 
+They_PRP are_VBP serious_JJ about_IN what_WP they_PRP are_VBP doing_VBG ,_, that_WDT is_VBZ ,_, their_PRP$ buildings_NNS exhibit_NN a_DT strong_JJ sense_NN of_IN conviction_NN ._. 
+They_PRP pay_VBP enormous_JJ attention_NN to_TO details_NNS ._. 
+They_PRP are_VBP disciplined_VBN ,_, but_CC they_PRP understand_VBP their_PRP$ self-imposed_JJ rules_NNS well_RB enough_RB to_TO occasionally_RB break_VB them_PRP ._. 
+Moreover_RB ,_, while_IN their_PRP$ architecture_NN is_VBZ built_VBN with_IN a_DT great_JJ sense_NN of_IN style_NN ,_, it_PRP is_VBZ never_RB merely_RB stylized_JJ ._. 
+That_DT is_VBZ because_IN in_IN their_PRP$ buildings_NNS ,_, style—the_NN manner_NN of_IN expression—is_NNS always_RB in_IN the_DT service_NN of_IN content—that_NN which_WDT is_VBZ being_VBG expressed_VBN ._. 
+Style_NN without_IN content_NN quickly_RB degenerates_NNS into_IN caricature_VB ,_, like_IN a_DT speaker_NN who_WP makes_VBZ grand_JJ gestures_NNS and_CC rhetorical_JJ flourishes_NNS ,_, but_CC has_VBZ nothing_NN to_TO say_VB ._. 
+The_DT buildings_NNS of_IN Greenberg_NNP ,_, Jacobsen_NNP ,_, and_CC Norten_NNP ,_, on_IN the_DT contrary_NN ,_, have_VBP a_DT great_JJ deal_NN to_TO tell_VB us_PRP about_IN our_PRP$ past_JJ ,_, our_PRP$ surroundings_NNS ,_, and_CC ourselves_PRP ._. 
+
+Greenberg_NNP ,_, Jacobsen_NNP ,_, and_CC Norten_NNP do_VBP not_RB describe_VB what_WP they_PRP do_VBP in_IN terms_NNS of_IN style_NN ._. 
+I_PRP think_VBP that_IN there_EX are_VBP a_DT number_NN of_IN reasons_NNS that_IN architects_NNS are_VBP uncomfortable_JJ talking_NN about_IN the_DT subject_NN ._. 
+A_DT suspicion_NN of_IN style_NN is_VBZ a_DT heritage_NN of_IN the_DT Modern_NNP Movement_NNP ,_, which_WDT preached_JJ against_IN the_DT arbitrary_JJ dictates_VBZ of_IN style_NN and_CC fashion_NN ,_, while_IN maintaining_VBG an_DT unspoken_NN but_CC rigid_JJ stylistic_JJ consistency_NN ._. 
+So_RB deep-rooted_JJ is_VBZ this_DT teaching_NN that_IN it_PRP remains_VBZ a_DT moral_JJ stricture_NN on_IN most_JJS architects_NNS ,_, whether_IN or_CC not_RB they_PRP are_VBP Modernists_NNP ._. 
+Perhaps_RB another_DT reason_NN for_IN the_DT reluctance_NN to_TO discuss_VB style_NN is_VBZ fear_NN ._. 
+Fear_NN that_IN being_VBG linked_VBN to_TO a_DT particular_JJ style_NN is_VBZ to_TO be_VB put_VBN in_IN a_DT box—like_NN most_RBS creative_JJ people_NNS ,_, architects_NNS dislike_VBP being_VBG categorized_VBN ._. 
+Also_RB fear_NN that_IN talking_VBG about_IN style_NN will_MD make_VB architecture—a_NN serious_JJ business—sound_NN frivolous_JJ ._. 
+Better_NNP to_TO leave_VB that_IN to_TO interior_JJ decorators_NNS and_CC fashion_NN designers_NNS ,_, professions_NNS that_IN architects_NNS regard_VBP with_IN a_DT mixture_NN of_IN disdain_NN and_CC envy_NN 
+._. Finally_RB ,_, there_EX is_VBZ an_DT unspoken_NN fear_NN of_IN style_NN because_IN it_PRP is_VBZ subject_JJ to_TO the_DT whims_NNS and_CC the_DT fancies_VBZ of_IN fashion_NN ._. 
+That_DT fear_NN ,_, at_IN least_JJS ,_, seems_VBZ to_TO me_PRP to_TO be_VB ill-founded_JJ ._. 
+An_DT architecture_NN that_WDT recognizes_VBZ style—and_NN fashion—would_NN not_RB be_VB an_DT architecture_NN that_WDT is_VBZ introspective_JJ and_CC self-referential_JJ ,_, as_IN are_VBP so_RB many_JJ contemporary_JJ buildings_NNS ._. 
+It_PRP would_MD be_VB part_NN of_IN the_DT world—not_NN architecture_NN for_IN architects_NNS ,_, but_CC architecture_NN for_IN the_DT rest_NN of_IN us_PRP ._. 
+And_CC that_DT would_MD not_RB be_VB a_DT bad_JJ thing_NN ._. 
+
+Coda_NNP 
+Richard_NNP Morris_NNP Hunt_NNP was_VBD the_DT most_RBS celebrated_JJ American_JJ architect_NN of_IN the_DT late_JJ nineteenth_NN century_NN ._. 
+His_PRP$ preeminence_NN is_VBZ reflected_VBN by_IN his_PRP$ appointment_NN as_IN the_DT architect_NN of_IN two_CD important_JJ national_JJ works_VBZ :_: the_DT centerpiece_NN building_NN of_IN the_DT Chicago_NNP World_NNP ’_NN s_VBZ Columbian_NNP Exposition_NNP ,_, and_CC the_DT pedestal_NN for_IN the_DT Statue_NNP of_IN Liberty_NNP ._. 
+He_PRP was_VBD feted_JJ at_IN home_NN and_CC abroad_RB ._. 
+Hunt_NNP was_VBD the_DT first_JJ architect_NN to_TO receive_VB an_DT honorary_JJ doctorate_NN from_IN Harvard_NNP and_CC the_DT first_JJ American_NNP to_TO receive_VB a_DT Gold_NNP Medal_NNP from_IN the_DT Royal_NNP Institute_NNP of_IN British_NNP Architects_NNPS ,_, and_CC he_PRP was_VBD made_VBN an_DT honorary_JJ member_NN of_IN the_DT French_NNP Académie_NNP and_CC a_DT Chevalier_NNP of_IN the_DT Legion_NNP of_IN Honor_NNP ._. 
+A_DT hundred_CD years_NNS later_RB ,_, his_PRP$ counterpart_NN is_VBZ Frank_NNP O._NN Gehry_NNP ._. 
+Since_IN being_VBG awarded_VBN the_DT prestigious_JJ Pritzker_NNP Prize_NNP in_IN 1989_CD ,_, Gehry_NNP has_VBZ gone_VBN on_IN to_TO win_VB more_JJR honors_NNS than_IN any_DT other_JJ living_NN architect_NN ,_, including_VBG such_JJ major_JJ arts_NNS awards_NNS as_IN the_DT Dorothy_NNP and_CC Lillian_NNP Gish_NNP Prize_NNP (_( a_DT non-architectural_JJ award_NN of_IN which_WDT he_PRP is_VBZ the_DT first_JJ recipient_JJ )_) and_CC the_DT Japanese_NNP Praemium_NNP Imperiale_NNP ,_, the_DT Nobel_NNP of_IN the_DT art_NN world_NN ._. 
+Even_RB the_DT staid_JJ American_NNP Institute_NNP of_IN Architects_NNPS ,_, which_WDT had_VBD previously_RB shunned_VBD Gehry_NNP in_IN lieu_NN of_IN more_JJR mainstream_NN practitioners_NNS ,_, awarded_VBD him_PRP its_PRP$ top_JJ accolade_NN ,_, the_DT AIA_NNP Gold_NNP Medal_NNP ._. 
+
+No_DT pair_NN of_IN architects_NNS could_MD be_VB more_RBR dissimilar_JJ than_IN this_DT distinctly_RB odd_JJ couple_NN ,_, the_DT proper_JJ High_NNP Society_NNP favorite_NN of_IN the_DT Gilded_NNP Age_NNP and_CC the_DT untidy_NN bohemian_NN from_IN Santa_NNP Monica_NNP ._. 
+Yet_CC they_PRP bear_VBP comparison_NN ._. 
+They_PRP were_VBD both_DT late_JJ bloomers_NNS ._. 
+Gehry_NNP was_VBD 48_CD when_WRB he_PRP gained_VBD national_JJ recognition_NN 
+._. Until_IN then_RB ,_, he_PRP had_VBD been_VBN running_VBG his_PRP$ own_JJ office_NN in_IN Los_NNP Angeles_NNP for_IN almost_RB twenty_CD years_NNS ,_, building_VBG shopping_NN centers_NNS ,_, suburban_JJ offices_NNS ,_, department_NN stores_NNS ,_, and_CC apartments_NNS in_IN competent_JJ but_CC unremarkable_JJ renditions_NNS of_IN L.A._NN modern_JJ ._. 
+The_DT project_NN that_WDT brought_VBD him_PRP to_TO national_JJ attention_NN was_VBD his_PRP$ own_JJ remodeled_VBN house_NN :_: a_DT nondescript_JJ bungalow_NN encased_JJ in_IN an_DT unsettling_JJ Cubist_NNP composition_NN of_IN unpainted_JJ plywood_NN ,_, corrugated_JJ metal_NN ,_, and_CC chain-link_JJ fencing_NN ._. 
+The_DT odd_JJ shapes_VBZ and_CC unorthodox_JJ materials_NNS marked_VBD Gehry_NNP as_IN a_DT maverick_NN ._. 
+That_DT was_VBD in_IN 1978_CD ._. 
+Unexpectedly_NNP ,_, he_PRP attracted_VBD a_DT broad_JJ range_NN of_IN commissions_NNS ,_, not_RB only_RB residential_JJ clients_NNS ,_, but_CC also_RB museums_NNS ,_, public_JJ institutions_NNS ,_, universities_NNS ,_, corporations_NNS ,_, and_CC developers_NNS ,_, and_CC not_RB only_RB in_IN the_DT United_NNP States_NNPS but_CC around_IN the_DT world_NN ._. 
+
+Hunt_NNP was_VBD 43_CD when_WRB he_PRP came_VBD into_IN his_PRP$ own_JJ ._. 
+He_PRP had_VBD established_VBN an_DT architectural_JJ practice_NN in_IN New_NNP York_NNP in_IN 1855_CD ,_, almost_RB immediately_RB on_IN his_PRP$ return_NN from_IN the_DT Ecole_NNP des_NNP Beaux-_NNP Arts_NNP ._. 
+He_PRP was_VBD moderately_RB successful_JJ ,_, achieving_VBG local_JJ renown_NN for_IN the_DT Tribune_NNP Building_NNP ,_, an_DT early_JJ New_NNP York_NNP skyscraper_NN ._. 
+Despite_IN his_PRP$ Parisian_JJ background_NN ,_, Hunt_NNP worked_VBD in_IN the_DT prevalent_JJ Ruskinian_NNP Gothic_NNP style_NN ._. 
+Of_IN his_PRP$ Presbyterian_NNP Hospital_NNP in_IN downtown_NN Manhattan_NNP ,_, the_DT architectural_JJ critic_NN Montgomery_NNP Schuyler_NNP wrote_VBD :_: “_NN The_DT building_NN is_VBZ of_IN Gothic_NNP design_NN with_IN very_RB red_JJ brick_NN ,_, and_CC very_RB irregular_JJ stone_NN dressings_NNS ,_, which_WDT ,_, it_PRP must_MD be_VB confessed_VBN regretfully_RB ,_, are_VBP not_RB pleasing_VBG to_TO the_DT eye_NN ._. ”_NN 
+3_CD For_IN his_PRP$ next_JJ project_NN ,_, the_DT Lenox_NNP Library_NNP ,_, Hunt_NNP tried_VBD something_NN different_JJ ._. 
+He_PRP borrowed_VBD from_IN the_DT French_NNP Neo-_NNP Grec_NNP style_NN ,_, popularized_VBN by_IN Labrouste_NNP in_IN the_DT Bibliothèque_NNP Sainte_NNP Geneviève_NNP ,_, adding_VBG Renaissance_NNP details_NNS and_CC his_PRP$ own_JJ characteristically_RB vigorous_JJ surface_NN modeling_NN ._. 
+The_DT result_NN was_VBD a_DT startling_JJ departure_NN from_IN convention_NN ,_, a_DT monochrome_JJ limestone_NN block_NN of_IN imposing_VBG dignity_NN ._. 
+The_DT Lenox_NNP Library_NNP (_( which_WDT stood_VBD on_IN Fifth_NNP Avenue_NNP on_IN the_DT site_NN of_IN the_DT present-day_JJ Frick_NNP Collection_NNP )_) marked_VBD a_DT shift_NN in_IN architectural_JJ taste_NN ,_, away_RB from_IN Ruskin_NNP to_TO a_DT grand_JJ and_CC frankly_RB aesthetic_JJ Classicism_NNP ._. 
+The_DT 1880s_NN was_VBD a_DT decade_NN of_IN great_JJ prosperity_NN ,_, and_CC newly_RB wealthy_JJ New_NNP Yorkers_NNPS eagerly_RB sought_VBN out_RP Hunt_NNP ’_NN s_VBZ architectural_JJ blend_NN of_IN good_JJ taste_NN and_CC ostentatious_JJ display_NN 
+._. He_PRP obliged_VBN them_PRP in_IN a_DT string_NN of_IN high-profile_JJ commissions_NNS :_: magnificent_JJ mansions_NNS along_IN Fifth_NNP Avenue_NNP ,_, country_NN houses_NNS on_IN Long_NNP Island_NNP ,_, and_CC palatial_JJ “_NN cottages_NNS ”_NN in_IN Newport_NNP ,_, Rhode_NNP Island_NNP ._. 
+Hunt_NNP died_VBD in_IN 1895_CD ,_, but_CC in_IN the_DT last_JJ seven_CD years_NNS of_IN his_PRP$ life_NN ,_, he_PRP completed_VBD more_JJR than_IN fifty_NN projects_NNS ._. 
+
+Biltmore_NNP House_NNP in_IN Asheville_NNP ,_, North_NNP Carolina_NNP ,_, is_VBZ a_DT good_JJ example_NN of_IN his_PRP$ stylistic_JJ prowess_NN ._. 
+Hunt_NNP modeled_VBD the_DT design_NN of_IN this_DT 250_CD -_: room_NN residence_NN on_IN the_DT Château_NNP de_IN Blois_NNP ,_, whose_WP$ style_NN is_VBZ not_RB the_DT severe_JJ Classicism_NNP of_IN the_DT Italian_NNP Renaissance_NNP favored_VBN by_IN architects_NNS such_JJ as_IN Charles_NNP McKim_NNP ,_, but_CC the_DT more_RBR ornate_JJ and_CC picturesque_NN French_NNP Renaissance_NNP ._. 
+To_TO a_DT modern_JJ visitor_NN ,_, the_DT spires_NNS ,_, turrets_NNS ,_, and_CC steep_JJ slate_NN roofs_NNS of_IN Biltmore_NNP recall_VB Disneyland_NNP ’_NN s_VBZ Sleeping_NNP Beauty_NNP Castle_NNP ,_, which_WDT is_VBZ not_RB surprising_JJ since_IN Disney_NNP also_RB used_VBD a_DT Loire_NNP Valley_NNP chateau—the_NN Château_NNP d_SYM ’_NN Ussé—as_NNP his_PRP$ model_NN ._. 
+But_CC the_DT comparison_NN does_VBZ Hunt_NNP an_DT injustice_NN ,_, for_IN his_PRP$ design_NN is_VBZ neither_DT prettified_JJ nor_CC quaint_JJ ._. 
+His_PRP$ client_NN ,_, George_NNP W._NN Vanderbilt_NNP ,_, was_VBD a_DT young_JJ bachelor_NN (_( he_PRP married_VBD soon_RB after_IN the_DT house_NN was_VBD finished_VBN )_) ,_, and_CC for_IN him_PRP Hunt_NNP created_VBD an_DT architecture_NN that_WDT is_VBZ robust_JJ ,_, masculine_JJ ,_, and_CC immensely_RB self-assured_JJ ,_, not_RB in_IN the_DT least_JJS like_IN a_DT fairytale_NN ._. 
+
+Vanderbilt_NNP was_VBD drawn_VBN to_TO French_JJ chateaux_NN ,_, which_WDT Hunt_NNP showed_VBD him_PRP during_IN a_DT whirlwind_JJ European_JJ tour_NN ,_, since_IN young_JJ George_NNP and_CC his_PRP$ wealthy_JJ family_NN imagined_VBD themselves_PRP American_JJ aristocrats_NNS ._. 
+There_EX are_VBP coats_NNS of_IN arms_NNS bearing_NN Vs_NNP all_DT over_IN the_DT house_NN ._. 
+Hunt_NNP provides_VBZ his_PRP$ client_NN with_IN an_DT imagined_JJ regal_NN setting_NN ,_, but_CC deals_NNS with_IN the_DT past_NN in_IN his_PRP$ own_JJ peculiar_JJ way_NN ._. 
+Although_IN he_PRP modeled_VBD the_DT building_NN on_IN Blois_NNP ,_, he_PRP makes_VBZ no_DT attempt_NN to_TO create_VB a_DT replica_NN of_IN the_DT sixteenth-century_JJ chateau_NN ,_, but_CC draws_VBZ details_NNS from_IN other_JJ buildings_NNS of_IN the_DT period_NN and_CC recombines_NNS them_PRP into_IN an_DT original_JJ whole_NN ._. 
+Nor_CC does_VBZ he_PRP try_VBP to_TO create_VB the_DT illusion_NN that_IN this_DT is_VBZ a_DT sixteenth-century_JJ building—there_NN is_VBZ no_DT artificial_JJ weathering_VBG ,_, no_DT aging_VBG effect_NN no_DT simulated_JJ historicism_NN ._. 
+The_DT interior_NN is_VBZ modern_JJ ,_, bright_JJ ,_, and_CC open_JJ ._. 
+The_DT focus_NN of_IN the_DT main_JJ floor_NN is_VBZ a_DT glass-roofed_JJ conservatory_NN ,_, a_DT common_JJ nineteenth-century_JJ feature_NN ._. 
+The_DT stonework_NN of_IN the_DT house_NN is_VBZ impeccable_JJ ,_, much_JJ crisper_NN and_CC more_RBR sharply_RB defined_VBN than_IN at_IN Blois_NNP ._. 
+Hunt_NNP was_VBD no_DT antiquarian_NN ,_, and_CC modern_JJ American_JJ technology_NN abounds_VBZ 
+._. The_DT floors_NNS of_IN fireproof_NN hollow_JJ tile_NN are_VBP supported_VBN by_IN steel_NN I-_NNP beams_VBZ and_CC the_DT steep_JJ slate_NN roofs_NNS by_IN steel_NN roof_NN trusses_NNS ._. 
+Cast_VBN iron_NN replaces_VBZ wrought_VBD iron_NN and_CC high-quality_JJ bricks_NNS ,_, fired_VBN in_IN the_DT estate_NN brickworks_NNS ,_, back-up_NN the_DT limestone_NN walls_NNS ._. 
+Equally_RB novel_NN are_VBP the_DT elevators_NNS and_CC telephones_NNS ,_, electrical_JJ lighting_NN ,_, hot_JJ and_CC cold_NN running_NN water_NN ,_, and_CC forced_VBD air_NN central_JJ heating_NN ._. 
+There_EX is_VBZ no_DT doubt_NN that_IN for_IN Hunt_NNP ,_, Biltmore_NNP is_VBZ an_DT up-to-the-minute_JJ modern_JJ building_NN ._. 
+That_DT is_VBZ part_NN of_IN its_PRP$ style_NN ,_, too_RB ._. 
+
+Like_IN Hunt_NNP ,_, Frank_NNP Gehry_NNP enlists_NNS novel_NN materials_NNS in_IN his_PRP$ buildings_NNS ._. 
+The_DT Guggenheim_NNP Museum_NNP in_IN Bilbao_NNP ,_, Spain_NNP ,_, for_IN example_NN ,_, is_VBZ clad_VBN in_IN titanium_NN ,_, previously_RB used_VBN chiefly_RB for_IN building_NN aircraft_NN ._. 
+The_DT metallic_JJ walls_NNS curve_NN ,_, twist_NN ,_, and_CC turn_VB ._. 
+One_CD part_NN of_IN the_DT building_NN slides_NNS under_IN an_DT adjoining_JJ bridge_NN ;_: another_DT emerges_VBZ from_IN a_DT reflecting_VBG pool_NN 
+._. Bilbainos_NNP refer_VBP to_TO the_DT museum_NN as_IN the_DT “_NN artichoke_NN ,_, ”_NN which_WDT comes_VBZ close_RB to_TO describing_VBG it_PRP ,_, if_IN you_PRP can_MD imagine_VB a_DT gleaming_VBG ,_, metallic_JJ artichoke_NN more_JJR than_IN two_CD hundred_CD feet_NNS high_JJ ._. 
+The_DT seeming_JJ disorder—a_NN chaotic_JJ collision_NN of_IN forms—has_NNS no_DT architectural_JJ precedent_NN ._. 
+This_DT is_VBZ not_RB sculptural_NN architecture_NN ,_, it_PRP is_VBZ walk-in_JJ sculpture_NN ._. 
+
+“_NN The_DT plan_NN is_VBZ the_DT generator_NN ”_NN preached_JJ Le_NNP Corbusier_NNP ,_, but_CC with_IN Gehry_NNP ,_, the_DT plan_NN is_VBZ the_DT result_NN ._. 
+He_PRP appears_VBZ to_TO design_VB from_IN the_DT outside_JJ in_IN ._. 
+The_DT building_NN as_IN a_DT composition_NN comes_VBZ first_JJ ,_, the_DT interior_JJ spaces_NNS follow_VBP ._. 
+This_DT implies_VBZ that_IN he_PRP shoehorns_NNS functions_NNS into_IN the_DT building_NN ,_, which_WDT is_VBZ not_RB the_DT case_NN ._. 
+The_DT Guggenheim_NNP has_VBZ three_CD distinct_JJ types_NNS of_IN gallery_NN spaces_NNS :_: traditional_JJ ,_, skylit_NN rooms_NNS for_IN displaying_VBG its_PRP$ permanent_JJ collection_NN of_IN early_JJ Modernist_NNP art_NN ;_: a_DT long_JJ boat-like_JJ space_NN for_IN temporary_JJ installations_NNS ;_: and_CC 11_CD smaller_JJR galleries_NNS ,_, each_DT with_IN its_PRP$ own_JJ character_NN ,_, each_DT dedicated_VBN to_TO the_DT works_NNS of_IN a_DT selected_VBN living_VBG artist_NN ._. 
+The_DT artichoke_NN accommodates_NNS them_PRP all_DT ._. 
+The_DT building_NN may_MD appear_VB offhanded_JJ ,_, but_CC there_EX is_VBZ nothing_NN haphazard_JJ about_IN the_DT way_NN it_PRP is_VBZ organized_VBN ._. 
+
+Gehry_NNP ’_NN s_VBZ talent_NN is_VBZ his_PRP$ exceptional_JJ formal_JJ imagination_NN ;_: his_PRP$ skill_NN as_IN an_DT architect_NN is_VBZ to_TO reconcile_VB the_DT forms_NNS he_PRP imagines_VBZ with_IN the_DT functional_JJ demands_NNS of_IN his_PRP$ client_NN ._. 
+And_CC ,_, of_IN course_NN ,_, to_TO find_VB ways_NNS to_TO build_VB those_DT forms_NNS ._. 
+This_DT is_VBZ generally_RB done_VBN without_IN fuss_NNS ._. 
+The_DT titanium_NN sheets_NNS simply_RB follow_VBP the_DT churning_VBG surfaces_VBZ like_IN shingles_NNS on_IN a_DT Shingle_NNP Style_NN roof_NN ;_: limestone_NN is_VBZ used_VBN in_IN a_DT similarly_RB unaffected_JJ fashion_NN ,_, without_IN articulated_JJ joints_NNS ._. 
+Gehry_NNP shares_VBZ a_DT minimalist_JJ approach_NN to_TO details_NNS with_IN the_DT early_JJ architects_NNS of_IN the_DT International_NNP Style_NN ,_, but_CC he_PRP deploys_NNS these_DT details_NNS to_TO different_JJ ends_VBZ ._. 
+By_IN removing_VBG familiar_JJ elements_NNS such_JJ as_IN coping_VBG strips_NNS ,_, fascias_NNS ,_, and_CC trim_VB ,_, he_PRP accentuates_NNS the_DT sculptural_NN quality_NN of_IN his_PRP$ buildings_NNS ._. 
+There_EX are_VBP no_DT roofs_NNS or_CC walls_NNS or_CC windows_NNS in_IN the_DT Guggenheim_NNP ,_, there_EX are_VBP only_RB swirling_VBG and_CC twisting_VBG planes_NNS of_IN metal_NN ,_, stone_NN ,_, and_CC glass_NN ._. 
+An_DT architecture_NN critic_NN once_RB described_VBD Gehry_NNP as_IN “_NN a_DT smart_JJ man_NN from_IN Hollywood_NNP ,_, ”_NN which_WDT nicely_RB captures_NNS the_DT architect_NN ’_NN s_VBZ blend_NN of_IN exuberant_NN showmanship_NN and_CC canny_JJ behind-the-scenes_JJ savvy_NN ._. 
+
+Although_IN sophisticated_JJ building_NN techniques_NNS and_CC innovative_JJ materials_NNS play_VBP a_DT major_JJ role_NN in_IN Gehry_NNP ’_NN s_VBZ buildings_NNS ,_, like_IN Hunt_NNP ,_, he_PRP keeps_VBZ technology_NN off_IN center_NN stage_NN ._. 
+In_IN that_DT regard_NN ,_, he_PRP repudiates_NNS the_DT mannered_JJ industrial_JJ style_NN that_IN pervades_NNS the_DT work_NN of_IN many_JJ contemporary_JJ architects_NNS ._. 
+Neither_DT is_VBZ he_PRP nostalgic_JJ about_IN the_DT past_NN ._. 
+Gehry_NNP rejects_VBZ both_DT the_DT moralistic_JJ functionalism_NN of_IN the_DT International_NNP Style_NN and_CC the_DT traditions_NNS of_IN Classicism_NNP ._. 
+Architects_NNPS have_VBP broken_VBN rules_NNS in_IN the_DT past_NN ,_, but_CC rarely_RB this_DT unequivocally_RB and_CC totally_RB ._. 
+
+Gehry_NNP ,_, like_IN Hunt_NNP ,_, has_VBZ changed_VBN the_DT course_NN of_IN architecture_NN ._. 
+That_DT is_VBZ ,_, he_PRP has_VBZ made_VBN us_PRP look_VBP at_IN our_PRP$ surroundings_NNS in_IN a_DT different_JJ way_NN ._. 
+The_DT world_NN of_IN Gehry_NNP ’_NN s_VBZ buildings_NNS is_VBZ ,_, at_IN first_JJ glance_NN ,_, an_DT odd_JJ place_NN ._. 
+The_DT line_NN between_IN order_NN and_CC disorder_NN is_VBZ a_DT thin_JJ one_CD ,_, and_CC it_PRP is_VBZ difficult_JJ to_TO know_VB what_WP is_VBZ intended_VBN and_CC what_WP is_VBZ accidental_NN ._. 
+But_CC his_PRP$ colliding_VBG forms_NNS and_CC agitated_VBN architecture_NN are_VBP curiously_RB unthreatening_JJ ._. 
+This_DT is_VBZ the_DT way_NN we_PRP live_VBP today_NN ,_, Gehry_NNP seems_VBZ to_TO be_VB saying_VBG ,_, why_WRB not_RB enjoy_VB it_PRP ?_. 
+

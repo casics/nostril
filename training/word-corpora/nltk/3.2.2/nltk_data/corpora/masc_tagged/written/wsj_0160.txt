@@ -1,0 +1,8 @@
+Savin_NNP Corp_NNP ._. reported_VBD a_DT third_JJ -_- quarter_NN net_JJ loss_NN of_IN $35.2_NN million_CD ,_, or_CC 31_CD cents_NNS a_DT share_NN ,_, compared_VBN with_IN year_NN -_- earlier_JJR profit_NN of_IN $3.8_NN million_CD ,_, or_CC one_CD cent_NN a_DT share_NN ._. 
+
+A_DT spokesman_NN for_IN the_DT Stamford_NNP ,_, Conn._NN based_VBN company_NN said_VBD operations_NNS had_VBD a_DT loss_NN of_IN $5.5_NN million_CD for_IN the_DT quarter_NN ;_: in_IN addition_NN ,_, the_DT loss_NN was_VBD magnified_VBN by_IN nonrecurring_VBG charges_NNS totaling_VBG $23.5_NN million_CD and_CC $8.2_NN million_CD in_IN asset_NN -_- valuation_NN adjustments_NNS that_IN he_PRP described_VBD as_IN "_'' unusual_JJ ._. "_'' 
+The_DT charges_NNS were_VBD partly_RB offset_VBN by_IN a_DT $2_NN million_CD gain_NN on_IN the_DT sale_NN of_IN investments_NNS of_IN two_CD joint_JJ ventures_NNS ,_, he_PRP said_VBD ._. 
+
+Revenue_NN declined_VBD 8_CD %_NN to_TO $85.7_NN million_CD ,_, from_IN $93.3_NN million_CD a_DT year_NN earlier_RBR ._. 
+Savin_NNP cited_VBD "_'' a_DT general_JJ softening_NN in_IN the_DT demand_NN for_IN office_NN products_NNS in_IN the_DT market_NN segments_NNS in_IN which_WDT Savin_NNP competes_VBZ ._. "_'' 
+

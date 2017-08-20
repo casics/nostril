@@ -1,0 +1,22 @@
+Date_NN :_: Mon_NNP ,_, 15_CD Nov_NNP 2010_CD 17:09:52_NN +_NN 0500_CD (_( PKT_NNP )_) Subject_NNP :_: Important_NNP Notice_NNP From_IN Help_NN Desk_NNP From_IN :_: qazirice@brain.net.pk_NN To_TO :_: undisclosed-recipients_JJ :_: ;_: EMAIL_NNP ACCOUNT_NNP UPGRADE_NNP 
+
+ATTENTION_NNP WEB-MAIL_NNP USER_NNP 
+
+Your_PRP$ E-_NNP mail_NN Box_NNP has_VBZ reached_VBN its_PRP$ maximum_NN limit_NN of_IN 20_CD GB_NNP storage_NN and_CC your_PRP$ account_NN will_MD be_VB deactivated_JJ if_IN you_PRP do_VBP not_RB upgrade_VB it_PRP now_RB ._. 
+To_TO upgrade_VB your_PRP$ web-mail_JJ account_NN ,_, kindly_RB provide_VB us_PRP the_DT following_VBG information_NN for_IN confirmation_NN ._. 
+
+User_NNP name_NN current_JJ e-mail_JJ :_: (_( )_) 
+Email_NNP Current_NNP Password_NNP :_: (_( )_) 
+Re-confirm_NNP the_DT password_NN :_: (_( )_) 
+
+To_TO complete_VB your_PRP$ account_NN verification_NN ,_, you_PRP must_MD reply_VB to_TO this_DT email_NN immediately_RB and_CC enter_VB your_PRP$ account_NN details_NNS below_IN ._. 
+
+(_( helpdesk_NN 001@internetaddress.com_NN )_) 
+Your_PRP$ account_NN shall_MD remain_VB active_JJ after_IN you_PRP have_VBP successfully_RB confirmed_VBN your_PRP$ account_NN ._. 
+
+Copyright_NNP 2010_CD E-mail_NNP Account_NNP Upgrade_NNP 
+!_. !_. !_. WARNING_NNP !_. !_. !_. 
+Failure_NN to_TO log_VB out_IN will_MD allow_VB others_NNS to_TO access_VB your_PRP$ account_NN ._. 
+Closingthe_NNP browser_NN window_NN does_VBZ NOT_NNP log_VB you_PRP out_IN properly_RB ._. 
+To_TO log_VB out_RB ,_, please_VB click_NN one_CD of_IN the_DT "_'' Log_NNP out_IN "_'' icons_NNS in_IN the_DT browser_NN window_NN ._. 
+

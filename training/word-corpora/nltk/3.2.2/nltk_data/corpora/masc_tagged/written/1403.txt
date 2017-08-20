@@ -1,0 +1,695 @@
+Arrival_NNP Demosthenes_NNP 2008-11-10_NN T_NN 23:54:44_NN Z_NNP ID_NNP :_: 45844_CD Prequels_NNP :_: 45843_CD Sequels_NNP :_: 45845_CD "_'' You_PRP look_VBP exhausted_VBN ,_, "_'' ?_. she_PRP spoke_VBD again_RB ._. 
+"_'' Do_VBP you_PRP want_VB to_TO come_VB lie_VB down_RB or_CC something_NN ?_. 
+I_PRP 've_VBP got_VBN a_DT hotel_NN room_NN up_RB at_IN the_DT Montier_NNP ._. "_'' 
+?_. At_IN his_PRP$ inquisitive_JJ look_NN she_PRP added_VBD ,_, “_NN I_PRP 've_VBP got_VBN connections_NNS with_IN the_DT guy_NN who_WP owns_VBZ it_PRP ,_, so_IN he_PRP lets_VBZ me_PRP live_VBP there_RB ._. "_'' 
+?_. 
+After_IN a_DT moment_NN he_PRP agreed_VBD ._. 
+"_'' Yeah_UH that_WDT 'd_MD be_VB great_JJ ._. 
+It_PRP would_MD probably_RB be_VB safer_JJR if_IN we_PRP traveled_VBD in_IN stealth_NN though_IN ._. 
+There_EX might_MD be_VB more_JJR of_IN those_DT guys_NNS ,_, "_'' ?_. he_PRP suggested_VBD ,_, looking_VBG around_IN warily_RB ._. 
+
+"_'' Yeah_UH you_PRP 're_VBP probably_RB right_NN ,_, lets_VBZ go_VB ,_, it_PRP 's_VBZ not_RB far_RB ._. "_'' 
+?_. Melody_NNP said_VBD ,_, and_CC the_DT two_CD returned_VBD to_TO the_DT mirror_NN realm_NN again_RB ,_, setting_VBG off_IN for_IN her_PRP$ apartment_NN ._. 
+
+They_PRP reached_VBD the_DT Hotel_NNP building_NN ,_, but_CC instead_RB stepped_VBD into_IN the_DT side_NN alley_NN to_TO reappear_NN ._. 
+They_PRP did_VBD n't_RB want_VB to_TO cause_VB a_DT scene_NN by_IN just_RB popping_VBG up_RP out_IN of_IN thin_JJ air_NN in_IN the_DT middle_NN of_IN the_DT city_NN ._. 
+They_PRP appeared_VBD behind_IN a_DT dumpster_NN and_CC stepped_VBD out_IN into_IN the_DT street_NN ,_, and_CC then_RB inside_IN Montier_NNP Hotel_NNP ,_, greeting_VBG the_DT warmth_NN happily_RB ._. 
+
+The_DT Third_NNP Floor_NNP Demosthenes_NNP 2008-11-11_NN T_NN 00:01:51_NN Z_NNP ID_NNP :_: 45845_CD Prequels_NNP :_: 45844_CD Sequels_NNP :_: none_NN "_'' Ahhh_NNP Melody_NNP ,_, you_PRP 're_VBP back_RB ,_, with_IN a_DT friend_NN ?_. "_'' ?_. He_PRP asked_VBD 
+
+"_'' Uhh_NNP yeah_UH this_DT is_VBZ Owen_NNP "_'' ?_. She_PRP replied_VBD ._. 
+
+Mr._NN Greyhem_NNP was_VBD one_CD of_IN the_DT very_RB few_JJ people_NNS who_WP knew_VBD who_WP she_PRP really_RB was_VBD ._. 
+He_PRP was_VBD the_DT father_NN of_IN her_PRP$ best_JJS friend_NN Leah_NNP ._. 
+Melody_NNP had_VBD known_VBN Leah_NNP her_PRP$ whole_JJ life_NN ._. 
+They_PRP met_VBD at_IN about_IN the_DT age_NN of_IN five_CD after_IN she_PRP was_VBD taken_VBN in_IN by_IN Elinor_NNP Kirke_NNP ,_, a_DT wealthy_JJ old_JJ woman_NN who_WP was_VBD very_RB kind_NN but_CC very_RB strict_JJ ._. 
+Leah_NNP knew_VBD about_IN Melody_NNP 's_POS powers_NNS ,_, as_IN did_VBD Mr._NN Greyhem_NNP ._. 
+
+Melody_NNP walked_VBD up_IN to_TO the_DT counter_NN and_CC spoke_VBD quietly_RB to_TO Mr._NN Greyhem_NNP ._. 
+"_'' He_PRP was_VBD being_VBG chased_VBD by_IN two_CD thugs_NNS ._. ”_NN 
+She_PRP lowered_VBD her_PRP$ voice_NN ._. 
+”_NN ..._... He_PRP can_MD be_VB invisible_JJ and_CC stuff_NN too_RB ._. "_'' 
+?_. 
+Mr._NN Greyhem_NNP eyed_VBD Owen_NNP ._. 
+”_NN ..._... Oh_UH really_RB ?_. ”_NN 
+And_CC then_RB turning_VBG toward_IN Owen_NNP he_PRP held_VBD out_RP a_DT hand_NN ._. 
+“_NN I_PRP 'm_VBP not_RB sure_JJ we_PRP 've_VBP met_VBN ,_, Owen_NNP ,_, I_PRP 'm_VBP Adam_NNP Greyhem_NNP ._. "_'' 
+?_. 
+"_'' Well_RB you_PRP already_RB know_VBP my_PRP$ name_NN "_'' ?_. Owen_NNP replied_VBD cheerily_RB ,_, shaking_VBG Mr._NN Greyhem_NNP 's_POS hand_NN ._. 
+
+
+"_'' I_PRP 'm_VBP gonna_VBG go_VBG show_NN him_PRP my_PRP$ room_NN ,_, "_'' ?_. Melody_NNP said_VBD quickly_RB ,_, as_IN she_PRP and_CC Owen_NNP walked_VBD to_TO the_DT elevator_NN ._. 
+Her_PRP$ room_NN was_VBD on_IN the_DT third_JJ floor_NN ._. 
+
+Newmatter_NNP Vonster_NNP 2008-11-11_NN T_NN 06:18:57_NN Z_NNP ID_NNP :_: 45846_CD Prequels_NNP :_: none_NN Sequels_NNP :_: 46176_CD Rob_NNP is_VBZ a_DT professor_NN of_IN theoretical_JJ physics_NN at_IN Imperial_NNP College_NNP ,_, London_NNP ._. 
+His_PRP$ thesis_NN on_IN “_NN Time_NNP Folding_NNP ”_NN had_VBD figuratively_RB and_CC literally_RB opened_VBD up_RP new_JJ portals_NNS of_IN opportunity_NN for_IN him_PRP professionally_RB ._. 
+That_DT said_VBD he_PRP enjoyed_VBD his_PRP$ tenured_JJ position_NN teaching_NN ._. 
+
+Practical_NNP application_NN was_VBD important_JJ to_TO him_PRP ,_, mere_JJ calculation_NN of_IN theories_NNS alone_RB was_VBD futile_JJ ._. 
+Being_VBG a_DT fan_NN of_IN the_DT American_JJ TV_NNP show_NN “_NN MythBusters_NNP ,_, ”_NN he_PRP let_VBP his_PRP$ students_NNS participate_VBP in_IN physical_JJ experiments_NNS that_WDT supported_VBD the_DT core_NN concepts_NNS of_IN the_DT theoretical_JJ treatise_NN he_PRP taught_VBD ._. 
+
+At_IN his_PRP$ home_NN lab_NN in_IN Sussex_NNP ,_, he_PRP worked_VBD on_IN a_DT new_JJ experiment_NN based_VBN on_IN his_PRP$ thesis_NN ._. 
+It_PRP functioned_VBD like_IN a_DT Spinning_NNP Wheel_NNP ,_, twisting_VBG fibers_NNS of_IN time_NN space_NN and_CC folding_VBG them_PRP on_IN a_DT molecular_JJ level_NN to_TO create_VB what_WP he_PRP called_VBD “_NN Newmatter_NNP ._. ”_NN 
+
+Tonight_NNP would_MD determine_VB once_RB and_CC for_IN all_DT if_IN this_DT myth_NN was_VBD plausible_JJ or_CC busted_JJ ._. 
+
+A_DT nervous_JJ smile_NN kidnapped_VBD his_PRP$ face_NN as_IN he_PRP turned_VBD to_TO his_PRP$ laptop_NN and_CC positioned_VBD the_DT cursor_NN over_IN the_DT “_NN Run_NNP ”_NN button_NN and_CC said_VBD ._. 
+
+"_'' I_PRP reject_VBP your_PRP$ reality_NN and_CC substitute_VB it_PRP for_IN my_PRP$ own_JJ ._. "_'' 
+?_. He_PRP then_RB clicked_VBD the_DT button_NN ._. 
+
+Inspiration_NNP from_IN Failure_NN (_( or_CC ,_, A_DT Research_NNP Trailer_NNP )_) [_NN WITRSF2BYTC_NNP ..._... and_CC yes_UH ,_, I_PRP 'm_VBP entering_VBG my_PRP$ own_JJ challenge_NN ]_NN g_SYM 2_CD (_( la_FW pianista_NN irlandesa_NN )_) 2008-11-11_NN T_NN 06:47:42_NN Z_NNP ID_NNP :_: 45847_CD Prequels_NNP :_: 43780_CD Sequels_NNP :_: none_NN In_IN a_DT world_NN ,_, where_WRB research_NN abounds_VBZ ..._... 
+“_NN I_PRP gotta_VB cite_VB this_DT source_NN right_JJ ..._... ”_NN 
+Where_WRB many_JJ go_NN in_RB ,_, but_CC few_JJ come_VB out_IN quite_RB the_DT same_JJ ..._... 
+“_NN Stupid_NNP biography_NN ,_, so_RB long_JJ ..._... ”_NN 
+One_CD girl_NN will_MD develop_VB a_DT workable_JJ thesis_NN and_CC write_VB her_PRP$ way_NN out_IN of_IN lost_VBN time_NN ..._... before_IN November_NNP 17th_JJ ._. 
+“_NN You_PRP gotta_VB be_VB kidding_VBG ,_, right_NN ?_. ”_NN 
+
+This_DT Thanksgiving_NNP ,_, she_PRP will_MD finally_RB be_VB free_JJ from_IN her_PRP$ research_NN paper_NN ..._... 
+“_NN Woohoo_NNP !_. 
+All_DT ten_CD pages_NNS !_. 
+That_DT is_VBZ ,_, if_IN her_PRP$ computer_NN will_MD cooperate_VB ._. 
+ZAP_NNP Aw_UH ,_, frick_NN ._. 
+
+With_IN g_SYM 2_CD (_( la_FW pianista_NN irlandesa_NN )_) ,_, Mark_NNP Twain_NNP ,_, and_CC countless_JJ reference_NN sources_NNS comes_VBZ an_DT epic_NN journey_NN abound_VBP with_IN textual_NN and_CC parenthetical_JJ citations_NNS ..._... 
+Inspiration_NNP From_IN FailureLimited_NNP Engagement_NNP begins_VBZ Nov_NNP ._. 17_CD in_IN select_VB classrooms_NNS 
+
+Live_NNP !_. Love_NN !_. Laugh_NNP !_. Thyme_NNP Passing_NNP 2008-11-11_NN T_NN 09:58:40_NN Z_NNP ID_NNP :_: 45848_CD Prequels_NNP :_: 45838_CD Sequels_NNP :_: 45850_CD Flannel_NNP blankets_NNS ._. 
+Pillowcases_NNP with_IN kittens_NNS on_IN them_PRP ._. 
+A_DT funny-looking_JJ gift_NN from_IN your_PRP$ little_JJ sister_NN that_IN you_PRP keep_VBP anyway_RB ._. 
+Lavender_NNP soap_NN ._. 
+Counting_VBG down_RB with_IN the_DT microwave_NN and_CC making_VBG the_DT funny_JJ beeping_NN noise_NN at_IN the_DT end_NN ,_, and_CC then_RB laughing_VBG hysterically_RB ._. 
+The_DT wind_NN in_IN the_DT brown_JJ grasses_NNS of_IN November_NNP ._. 
+Milkweed_NNP seeds_NNS blowing_VBG on_IN the_DT wind_NN ._. 
+Wishing_NNP on_IN the_DT first_JJ star_NN of_IN the_DT evening_NN ._. 
+Learning_VBG an_DT obscure_JJ word_NN and_CC wanting_VBG to_TO use_VB it_PRP every_DT opportunity_NN you_PRP get_VBP ._. 
+Annoying_NNP the_DT heck_NN out_IN of_IN your_PRP$ friends_NNS ._. 
+Commendable_NNP effort_NN !_. 
+FIBROMYALGIA_NNP !_. 
+Ticking_NNP off_IN the_DT robot_NN on_IN AIM_NNP ._. 
+Red_NNP leaves_VBZ decorating_VBG the_DT hillsides_NNS ._. 
+Decorating_NNP a_DT Christmas_NNP tree_NN and_CC rediscovering_VBG all_PDT the_DT ornaments_NNS from_IN last_JJ year_NN that_IN you_PRP ’ve_VBP forgotten_VBN about_IN ._. 
+CHOCOLATE_NNP CAKE_NNP ._. 
+Someone_NN else_RB ’_NN s_VBZ birthday_NN party_NN ._. 
+Throwing_VBG a_DT stone_NN into_IN a_DT still_JJ pond_NN and_CC watching_VBG the_DT ripples_NNS spread_VBP ._. 
+Colorful_NNP glass_NN lamps_NNS that_WDT make_VBP designs_NNS on_IN the_DT ceiling_NN ._. 
+KALEIDOSCOPES_NNP ._. 
+Looking_VBG at_IN all_PDT the_DT pretty_JJ ornaments_NNS in_IN a_DT gift_NN shop_NN and_CC hoping_VBG feverently_RB that_IN you_PRP don_VB ’_NN t_NN knock_NN something_NN over_IN ._. 
+Eating_NNP cherries_NNS off_RP of_IN a_DT tree_NN ._. 
+May_NNP ._. 
+HA_NNP 
+
+Adelle_NNP 's_POS Mistake_NNP lovinglife_NN 307_CD 2008-11-11_NN T_NN 10:00:42_NN Z_NNP ID_NNP :_: 45849_CD Prequels_NNP :_: 45836_CD Sequels_NNP :_: 45860_CD Crash_NNP !_. 
+
+Oops_NNP ._. 
+
+“_NN It_PRP ’s_VBZ me_PRP !_. 
+I_PRP ’m_VBP just_RB ,_, uh_UH ,_, going_VBG upstairs_NN now_RB !_. ”_NN 
+I_PRP shouted_VBD through_IN to_TO her_PRP as_IN I_PRP rested_VBD my_PRP$ bike_NN more_RBR carefully_RB against_IN the_DT metal_NN bars_NNS ._. 
+
+“_NN Wait_NN a_DT minute_NN ._. 
+Come_VBN here_RB ,_, please_VB ._. ”_NN 
+
+Dammit_NNP ._. 
+
+I_PRP strode_VBD through_IN the_DT metal_NN door_NN and_CC into_IN the_DT house_NN ._. 
+The_DT jail-like_JJ features_NNS suddenly_RB changed_VBN to_TO be_VB more_RBR comfortable_JJ and_CC homey_NN ._. 
+There_EX was_VBD a_DT sudden_JJ lightness_NNS to_TO the_DT air_NN ,_, I_PRP felt_VBD myself_PRP relax_VBP ._. 
+Heaven_NNP above_IN ,_, she_PRP was_VBD good_JJ ._. 
+Crap_NNP ._. 
+
+Adelle_NNP ,_, with_IN her_PRP$ usual_JJ soft_JJ glances_NNS and_CC gentle_JJ demeaner_NN ,_, now_RB looked_VBD angry_JJ ._. 
+What_WP had_VBD I_PRP done_VBN this_DT time_NN ?_. 
+She_PRP tugged_VBD at_IN her_PRP$ robe_NN and_CC played_VBD with_IN a_DT string_NN of_IN her_PRP$ curly_JJ hair_NN ._. 
+I_PRP sighed_VBD ._. 
+
+And_CC ,_, of_IN course_NN ,_, there_EX was_VBD the_DT one_CD ,_, the_DT only_RB ,_, Gianna_NNP ._. 
+I_PRP bowed_VBD hesitantly_RB ._. 
+Well_RB ,_, actually_RB ,_, it_PRP might_MD be_VB a_DT clone_NN ._. 
+God_NNP only_RB knows_VBZ how_WRB many_JJ Gianna_NNP ’_NN s_VBZ we_PRP have_VBP running_VBG around_IN here_RB ._. 
+
+Gianna_NNP simply_RB stared_VBD at_IN me_PRP ._. 
+“_NN Fame_NNP ,_, you_PRP are_VBP getting_VBG out_IN of_IN control_NN ._. ”_NN 
+
+Hm_NNP ._. 
+Not_RB the_DT real_JJ Gianna_NNP ,_, but_CC not_RB a_DT clone_NN ._. 
+Maybe_RB a_DT robot_NN ?_. 
+Her_PRP$ voice_NN sounded_VBD strange_JJ ._. 
+
+“_NN Fame_NNP !_. 
+Listen_VB !_. ”_NN 
+Adelle_NNP ’_NN s_VBZ hazel_NN eyes_NNS bored_VBN into_IN me_PRP ._. 
+I_PRP retaliated_JJ ._. 
+What_WP was_VBD going_VBG on_RP ?_. 
+
+
+Giving_VBG Thanks_NNS lovinglife_NN 307_CD 2008-11-11_NN T_NN 10:14:53_NN Z_NNP ID_NNP :_: 45850_CD Prequels_NNP :_: 45848_CD Sequels_NNP :_: 45876_CD Wet_NNP dog_NN kisses_NNS ._. 
+Passing_NNP notes_NNS when_WRB the_DT teacher_NN isn_NN ’_NN t_NN paying_VBG attention_NN ._. 
+Chorus_NNP concerts_NNS ._. 
+Band_NNP concerts_NNS !_. 
+Giving_VBG thanks_NNS and_CC really_RB meaning_VBG it_PRP ._. 
+Praying_NNP to_TO God_NNP like_IN he_PRP was_VBD an_DT old_JJ friend_NN ._. 
+Getting_VBG an_DT answer_NN back_RB ._. 
+Catching_VBG snowflakes_NNS on_IN your_PRP$ tongue_NN and_CC watching_VBG them_PRP melt_VB ._. 
+Staring_NNP out_RP the_DT window_NN at_IN nothing_NN in_IN particular_NN ._. 
+BEAUTY_NNP ._. 
+Really_RB loving_JJ life_NN ._. 
+LOVING_NNP YOURSELF_NNP ._. 
+Feeling_VBG the_DT rain_NN at_IN your_PRP$ back_RB and_CC the_DT sun_NN up_RB ahead_RB ._. 
+Knowing_VBG that_IN the_DT weather_NN man_NN predicted_VBD rain_NN ,_, but_CC going_VBG outside_JJ anyways_NNS ,_, and_CC finding_VBG it_PRP ’s_VBZ impeccably_RB sunny_JJ the_DT whole_JJ day_NN ._. 
+SMILES_NNP ._. 
+Getting_VBG to_TO a_DT new_JJ level_NN of_IN a_DT video_NN game_NN ._. 
+Watching_VBG your_PRP$ pets_NNS play_VBP around_RB ,_, and_CC joining_VBG in_IN ._. 
+Hearing_VBG a_DT cat_NN purr_NN ._. 
+EATING_NNP delicious_JJ food_NN whenever_WRB you_PRP want_VBP to_TO ,_, without_IN worrying_VBG about_IN how_WRB many_JJ carbs_NNS it_PRP has_VBZ ._. 
+Wrapping_NNP a_DT present_JJ and_CC using_VBG as_IN much_JJ tape_NN as_IN you_PRP want_VBP ,_, even_RB it_PRP that_WDT may_MD be_VB the_DT whole_JJ roll_NN ._. 
+Reading_VBG a_DT really_RB good_JJ book_NN ,_, and_CC then_RB writing_VBG your_PRP$ own_JJ ._. 
+SLEEPING_NNP ._. 
+Dreaming_NNP good_JJ and_CC bad_JJ dreams_NNS ._. 
+Auditioning_NNP and_CC getting_VBG in_IN ._. 
+Dreams_NNS that_WDT reach_VBP outside_IN of_IN reality_NN ,_, but_CC you_PRP still_RB achieve_VBP ._. 
+LAVENDER_NNP ._. 
+
+What_WP a_DT Strange_NNP Kid_NNP lovinglife_NN 307_CD 2008-11-11_NN T_NN 10:24:38_NN Z_NNP ID_NNP :_: 45851_CD Prequels_NNP :_: 45789_CD Sequels_NNP :_: none_NN A_DT young_JJ man_NN ,_, around_IN twelve_CD I_PRP would_MD say_VB ,_, opened_VBN the_DT door_NN ._. 
+He_PRP was_VBD wearing_VBG much_RB what_WP I_PRP had_VBD been_VBN wearing_VBG just_RB a_DT moment_NN ago_RB ._. 
+Dirty_NNP green_JJ t-shirt_JJ ,_, ripped_VBD ,_, grass_NN stained_JJ jeans_NNS ,_, and_CC mussed_JJ up_RB hair_NN ._. 
+
+I_PRP lifted_VBD my_PRP$ hand_NN in_IN a_DT pathetic_JJ little_JJ wave_NN ._. 
+“_NN Um_NNP ,_, hi_NN there_RB ._. 
+What_WP ’_NN s_VBZ your_PRP$ name_NN ?_. ”_NN 
+
+“_NN I_PRP think_VBP that_DT ’s_VBZ the_DT question_NN I_PRP should_MD be_VB asking_VBG you_PRP ._. ”_NN 
+
+
+I_PRP retaliated_JJ ._. 
+Geez_NNP ._. 
+The_DT kid_NN was_VBD sharp_JJ ._. 
+I_PRP laughed_VBD it_PRP off_RP ._. 
+
+“_NN I_PRP am_VBP Maisie_NNP Beatrice_NNP Hampton_NNP ,_, and_CC I_PRP ’ve_VBP come_VB to_TO see_VB my_PRP$ grandmother_NN ._. 
+Do_VBP you_PRP know_VBP of_IN her_PRP ?_. ”_NN 
+
+The_DT little_JJ boy_NN looked_VBD at_IN me_PRP curiously_RB ,_, as_IN if_IN he_PRP were_VBD trying_VBG to_TO read_VB my_PRP$ face_NN ._. 
+“_NN Wait_NN ._. ”_NN 
+
+
+As_RB soon_RB as_IN he_PRP disappeared_VBD my_PRP$ back_RB slumped_VBD ._. 
+God_NNP ._. 
+How_WRB was_VBD I_PRP supposed_VBD to_TO get_VB past_JJ this_DT body_NN guard_NN ?_. 
+
+The_DT little_JJ boy_NN returned_VBD with_IN a_DT clipboard_NN ,_, and_CC on_IN it_PRP was_VBD a_DT long_JJ piece_NN of_IN paper_NN ._. 
+“_NN Hm_NNP ..._... ”_NN 
+He_PRP tapped_VBD his_PRP$ pencil_NN on_IN it_PRP ._. 
+“_NN Hampton_NNP ,_, Marie_NNP ..._... Harrisford_NNP ,_, Virginia_NNP ..._... Sorry_JJ ,_, kiddo_NN ,_, you_PRP ’re_VBP not_RB on_IN the_DT list_NN ._. ”_NN 
+
+List_NN ?_. 
+Kiddo_NNP ?_. 
+
+“_NN I_PRP ’m_VBP sorry_JJ ,_, my_PRP$ real_JJ name_NN isn_NN ’_NN t_NN Maisie_NNP ._. ”_NN 
+I_PRP took_VBD a_DT deep_JJ breath_NN ._. 
+“_NN It_PRP ’s_VBZ Marie_NNP ._. ”_NN 
+I_PRP looked_VBD up_RB at_IN him_PRP ._. 
+
+“_NN Well_RB ,_, then_RB come_VB right_NN in_IN !_. ”_NN 
+
+What_WP a_DT strange_JJ kid_NN ._. 
+
+Fallen_NNP Angel_NNP Thyme_NNP Passing_NNP 2008-11-11_NN T_NN 10:26:25_NN Z_NNP ID_NNP :_: 45852_CD Prequels_NNP :_: none_NN Sequels_NNP :_: 45853_CD It_PRP was_VBD as_RB bleak_JJ as_IN a_DT day_NN could_MD get_VB ,_, the_DT day_NN the_DT angel_NN fell_VBD from_IN the_DT heavens_NNS ._. 
+It_PRP was_VBD a_DT cold_JJ day_NN in_IN November_NNP ,_, and_CC the_DT only_JJ sign_NN of_IN life_NN was_VBD the_DT wind_NN ,_, hissing_VBG between_IN the_DT brown_JJ grasses_NNS and_CC the_DT lifeless_JJ tree_NN branches_NNS ._. 
+The_DT ground_NN was_VBD littered_VBN with_IN shriveled_VBD leaves_VBZ that_IN occasionally_RB were_VBD lifted_VBN by_IN the_DT wind_NN to_TO travel_VB several_JJ feet_NNS before_IN dropping_VBG back_RB to_TO the_DT dull_JJ grass_NN ._. 
+At_IN first_JJ I_PRP thought_VBD that_IN the_DT winged_JJ shape_NN in_IN the_DT sky_NN was_VBD a_DT sparrow_NN ,_, and_CC I_PRP was_VBD glad_JJ that_IN a_DT bird_NN had_VBD come_VBN out_RB ,_, for_IN it_PRP was_VBD lonely_JJ with_IN just_RB the_DT hissing_VBG wind_NN for_IN company_NN ._. 
+But_CC as_IN it_PRP descended_VBD ,_, it_PRP grew_VBD larger_JJR ._. 
+It_PRP was_VBD a_DT goose_NN ._. 
+No_DT ,_, all_PDT the_DT geese_NN had_VBD left_VBN for_IN the_DT winter_NN ,_, and_CC it_PRP was_VBD too_RB large_JJ now_RB ._. 
+What_WP was_VBD it_PRP ?_. 
+An_DT eagle_NN ?_. 
+Could_MD it_PRP be_VB ?_. 
+No_DT ,_, it_PRP was_VBD too_RB large_JJ ,_, and_CC it_PRP ’s_VBZ wings_NNS weren_NN ’_NN t_NN open_JJ ._. 
+It_PRP wasn_NN ’_NN t_NN descending_VBG with_IN control_NN ,_, but_CC falling_VBG ._. 
+The_DT creature_NN was_VBD the_DT flapping_VBG wildly_RB ,_, trying_VBG to_TO regain_VB flight_NN ,_, but_CC it_PRP still_RB fell_VBD ,_, falling_VBG ,_, falling_VBG ,_, down_RB to_TO earth_NN ._. 
+
+Eagle_NNP 's_POS Beak_NNP Thyme_NNP Passing_NNP 2008-11-11_NN T_NN 10:53:56_NN Z_NNP ID_NNP :_: 45853_CD Prequels_NNP :_: 45852_CD Sequels_NNP :_: 45854_CD It_PRP crashed_VBD loudly_RB into_IN the_DT branches_NNS of_IN the_DT leafless_JJ apple_NN tree_NN ,_, splintering_VBG wood_NN and_CC screaming_VBG aloud_RB ._. 
+It_PRP sounded_VBD like_IN a_DT hawk_NN ’_NN s_VBZ cry_NN ,_, it_PRP did_VBD ._. 
+I_PRP ran_VBD towards_IN it_PRP ._. 
+It_PRP was_VBD an_DT angel_NN !_. 
+An_DT angel_NN ,_, cast_NN down_RB from_IN the_DT heavens_NNS and_CC fallen_VBN to_TO the_DT earth_NN ._. 
+It_PRP ’s_VBZ big_JJ brown_JJ wings_NNS were_VBD twisted_JJ ,_, and_CC it_PRP was_VBD horribly_RB cut_VB from_IN where_WRB it_PRP crashed_VBD into_IN the_DT tree_NN ,_, and_CC yet_RB it_PRP ’s_VBZ crashing_VBG into_IN the_DT tree_NN very_RB well_RB might_MD have_VB saved_VBN its_PRP$ life_NN ,_, for_IN the_DT tree_NN slowed_VBD its_PRP$ fall_NN enough_RB so_IN that_IN when_WRB it_PRP fell_VBD out_IN of_IN the_DT tree_NN ,_, it_PRP was_VBD not_RB hurt_VBN as_RB badly_RB as_IN it_PRP would_MD have_VB been_VBN if_IN it_PRP had_VBD landed_VBN on_IN the_DT cold_JJ ,_, hard_JJ ground_NN first_RB ._. 
+I_PRP ran_VBD up_IN to_TO it_PRP ,_, filled_VBD first_JJ with_IN excitement_NN and_CC then_RB with_IN concern_NN ._. 
+It_PRP was_VBD moaning_VBG ,_, and_CC occasionally_RB it_PRP uttered_VBD a_DT lamenting_VBG phrase_NN in_IN some_DT incomprehensible_NN language_NN ,_, and_CC tears_NNS ran_VBD down_RP its_PRP$ face_NN ._. 
+I_PRP saw_VBD that_IN instead_RB of_IN a_DT normal_JJ nose_NN and_CC mouth_NN ,_, it_PRP had_VBD a_DT curved_JJ bird_NN ’_NN s_VBZ beak_NN ,_, of_IN the_DT sort_NN that_IN eagles_NNS have_VBP ._. 
+I_PRP knelt_NN beside_IN it_PRP ,_, not_RB sure_JJ if_IN I_PRP should_MD move_VB it_PRP inside_IN ,_, or_CC if_IN moving_VBG it_PRP might_MD just_RB injure_VB it_PRP more_JJR ._. 
+
+The_DT Bonesetter_NNP Thyme_NNP Passing_NNP 2008-11-11_NN T_NN 11:18:34_NN Z_NNP ID_NNP :_: 45854_CD Prequels_NNP :_: 45853_CD Sequels_NNP :_: 45855_CD “_NN I_PRP ’ll_MD be_VB right_RB back_RB ,_, ”_NN I_PRP said_VBD softly_RB to_TO the_DT injured_JJ angel_NN ._. 
+The_DT Bonesetter_NNP would_MD know_VB what_WP to_TO do_VB ._. 
+I_PRP stood_VBD and_CC ran_VBD briskly_RB across_IN the_DT field_NN to_TO the_DT road_NN ._. 
+The_DT Bonesetter_NNP lived_VBD not_RB far_RB away_RB from_IN my_PRP$ house_NN ,_, in_IN a_DT once-colorful_JJ gypsy_NN caravan_NN where_WRB he_PRP did_VBD his_PRP$ work_NN ._. 
+As_IN a_DT child_NN ,_, I_PRP had_VBD been_VBN terrified_VBN of_IN the_DT caravan_NN ,_, partly_RB because_IN the_DT Bonesetter_NNP growled_JJ and_CC snapped_VBD at_IN the_DT village_NN children_NNS ,_, but_CC also_RB because_IN of_IN the_DT blood-curdling_JJ screams_VBZ that_WDT came_VBD from_IN inside_IN when_WRB people_NNS were_VBD having_VBG their_PRP$ broken_JJ bones_NNS set_VBN ,_, so_IN they_PRP would_MD heal_VB properly_RB ._. 
+Breathless_NNP ,_, I_PRP arrived_VBD at_IN the_DT caravan_NN door_NN ,_, and_CC knocked_VBD sharply_RB upon_IN it_PRP ._. 
+I_PRP knew_VBD that_IN the_DT Bonesetter_NNP would_MD not_RB answer_VB unless_IN it_PRP was_VBD an_DT emergency_NN ,_, so_IN I_PRP kept_VBD knocking_VBG until_IN he_PRP opened_VBD the_DT door_NN and_CC snarled_JJ ,_, “_NN What_WP is_VBZ it_PRP you_PRP want_VBP that_IN you_PRP must_MD make_VB such_PDT a_DT racket_NN on_IN my_PRP$ door_NN ?_. ”_NN 
+“_NN You_PRP must_MD come_VB ,_, ”_NN I_PRP said_VBD ,_, gasping_VBG ._. 
+“_NN It_PRP ’s_VBZ hurt_VBN ._. ”_NN 
+“_NN I_PRP don_VB ’_NN t_NN treat_NN animals_NNS ,_, ”_NN he_PRP said_VBD ,_, starting_VBG to_TO close_VB the_DT door_NN ._. 
+I_PRP put_VBP my_PRP$ foot_NN in_IN the_DT way_NN ._. 
+“_NN It_PRP ’s_VBZ not_RB an_DT animal_NN ,_, ”_NN I_PRP said_VBD ._. 
+“_NN It_PRP ’s_VBZ an_DT angel_NN ._. ”_NN 
+
+Awakening_NNP Thyme_NNP Passing_NNP 2008-11-11_NN T_NN 12:30:04_NN Z_NNP ID_NNP :_: 45855_CD Prequels_NNP :_: 45854_CD Sequels_NNP :_: 46178_CD It_PRP had_VBD been_VBN two_CD days_NNS since_IN the_DT angel_NN fell_VBD ._. 
+The_DT Bonesetter_NNP had_VBD splinted_JJ both_DT its_PRP$ broken_JJ arm_NN and_CC wing_NN ,_, and_CC bandaged_JJ its_PRP$ various_JJ cuts_NNS with_IN all_PDT the_DT skill_NN he_PRP possessed_VBD ,_, but_CC the_DT angel_NN had_VBD fallen_VBN asleep_RB ,_, and_CC hadn_NN ’_NN t_NN awoken_NN until_IN the_DT second_JJ day_NN ,_, when_WRB my_PRP$ ginger_NN cat_NN ,_, Andante_NNP ,_, climbed_VBD onto_IN the_DT angel_NN ’_NN s_VBZ chest_NN and_CC fell_VBD asleep_RB ._. 
+The_DT angel_NN ’_NN s_VBZ eyes_NNS fluttered_JJ opened_VBD ,_, a_DT startling_JJ green_NN ._. 
+Weren_NNP ’_NN t_NN angels_NNS supposed_VBN to_TO have_VB blue_JJ eyes_NNS ?_. 
+The_DT angel_NN murmured_JJ and_CC clacked_JJ something_NN to_TO itself_PRP in_IN its_PRP$ soft_JJ ,_, precise_JJ language_NN ,_, and_CC stroked_JJ the_DT cat_NN with_IN its_PRP$ unbroken_JJ hand_NN ,_, smiling_VBG ._. 
+Andante_NNP purred_JJ happily_RB at_IN the_DT attention_NN ._. 
+“_NN Good_JJ morning_NN ,_, ”_NN I_PRP said_VBD ,_, with_IN not_RB a_DT little_JJ amount_NN of_IN awe_NN ._. 
+“_NN How_WRB are_VBP you_PRP feeling_VBG ?_. ”_NN 
+The_DT angel_NN cocked_JJ its_PRP$ head_NN ,_, and_CC looked_VBD at_IN me_PRP with_IN a_DT sad_JJ comprehension_NN ._. 
+It_PRP said_VBD something_NN in_IN its_PRP$ language_NN that_IN I_PRP could_MD not_RB understand_VB ._. 
+“_NN I_PRP don_VB ’_NN t_NN understand_VB ,_, ”_NN I_PRP said_VBD ._. 
+The_DT angel_NN frowned_JJ ._. 
+It_PRP murmured_JJ a_DT few_JJ more_JJR things_NNS to_TO itself_PRP ,_, in_IN various_JJ languages_NNS ,_, and_CC then_RB chanced_JJ upon_IN English_NNP ._. 
+“_NN I_PRP am_VBP so_RB sorry_JJ ,_, ”_NN it_PRP said_VBD ,_, and_CC I_PRP saw_VBD tears_NNS in_IN its_PRP$ green_JJ eyes_NNS ._. 
+
+Kamila_NNP Duche_NNP ,_, heir_NN to_TO the_DT Rouvelin_NNP Throne_NNP lovinglife_NN 307_CD 2008-11-11_NN T_NN 12:51:34_NN Z_NNP ID_NNP :_: 45856_CD Prequels_NNP :_: none_NN Sequels_NNP :_: 45875_CD The_DT necklace_NN hung_VBD to_TO just_RB below_IN her_PRP$ collarbone_NN ,_, and_CC the_DT pendant_NN rested_VBD on_IN her_PRP$ chest_NN ._. 
+The_DT rose_JJ quartz_NN stone_NN heart_NN was_VBD just_RB the_DT size_NN of_IN her_PRP$ thumb_NN print_NN ,_, and_CC the_DT gold_NN ring_NN circled_VBD it_PRP beautifully_RB ._. 
+Overall_RB ,_, the_DT jewelry_NN was_VBD perfectly_RB crafted_VBN to_TO fit_VB her_PRP$ and_CC only_RB her_PRP ._. 
+
+Kamila_NNP Duche_NNP ,_, heir_NN to_TO the_DT Rouvelin_NNP throne_NN ,_, strode_VBD down_RP the_DT streets_NNS gracefully_RB ,_, her_PRP$ russet_NN dress_NN bustling_JJ out_IN behind_IN her_PRP$ magnificently_RB ._. 
+She_PRP clutched_JJ her_PRP$ heart_NN pendant_NN ,_, rubbing_VBG her_PRP$ thumb_NN over_IN the_DT smooth_JJ quartz_NN surface_NN ._. 
+She_PRP always_RB held_VBD it_PRP when_WRB she_PRP was_VBD nervous_JJ ._. 
+It_PRP reminded_VBD her_PRP of_IN her_PRP$ mother_NN ._. 
+
+Her_PRP$ amber_NN colored_VBN hair_NN was_VBD pulled_VBN up_RB into_IN a_DT high_NN ,_, upswept_NN bun_NN ,_, and_CC she_PRP pushed_VBD back_RB one_CD of_IN her_PRP$ escaping_VBG curls_NNS ._. 
+Her_PRP$ sea_NN blue_JJ eyes_NNS pierced_JJ through_IN onlookers_NNS ._. 
+
+Zen_NNP ,_, a_DT large_JJ ,_, muscular_JJ man_NN in_IN a_DT loose_JJ robe_NN stood_VBD in_IN the_DT crowd_NN ._. 
+“_NN I_PRP can_MD ’_NN t_NN believe_VB we_PRP ’re_VBP doing_VBG this_DT ._. 
+It_PRP ’s_VBZ madness_NN !_. 
+How_WRB will_MD we_PRP pull_VB it_PRP off_RP ?_. ”_NN 
+
+A_DT dark_JJ ,_, mysterious_JJ voice_NN answered_VBD him_PRP ._. 
+“_NN Oh_UH ,_, we_PRP ’ll_MD pull_NN it_PRP off_IN ,_, alright_NN ,_, Zen_NNP ._. 
+Don_NNP ’_NN t_NN you_PRP worry_VBP about_IN that_DT ._. ”_NN 
+
+“_NN Yes_UH ,_, master_NN ._. ”_NN 
+
+Lorem_NNP ipsum_NN dolor_NN sit_VB amet_NN User_NNP 1194_CD 2008-11-11_NN T_NN 13:52:24_NN Z_NNP ID_NNP :_: 45857_CD Prequels_NNP :_: none_NN Sequels_NNP :_: 46123_CD Lorem_NNP ipsum_NN dolor_NN sit_VB amet_NN ,_, consectetuer_NN adipiscing_VBG elit_NN ._. 
+Morbi_NNP commodo_NN ,_, ipsum_NN sed_JJ pharetra_NN gravida_NN ,_, orci_NN magna_NN rhoncus_JJ neque_NN ,_, id_NN pulvinar_NN odio_NN lorem_NN non_NN turpis_NNS ._. 
+Nullam_NNP sit_VB amet_NN enim_NN ._. 
+Suspendisse_NNP id_NN velit_NN vitae_NN ligula_NN volutpat_NN condimentum_NN ._. 
+Aliquam_NNP erat_NN volutpat_NN ._. 
+Sed_NNP quis_NNS velit_NN ._. 
+Nulla_NNP facilisi_NN ._. 
+Nulla_NNP libero_NN ._. 
+Vivamus_NNP pharetra_NN posuere_NN sapien_NN ._. 
+Nam_NNP consectetuer_NN ._. 
+Sed_NNP aliquam_NN ,_, nunc_NN eget_NN euismod_NN ullamcorper_NN ,_, lectus_JJ nunc_NN ullamcorper_NN orci_NN ,_, fermentum_NN bibendum_NN enim_NN nibh_NN eget_NN ipsum_NN ._. 
+Donec_NNP porttitor_NN ligula_NN eu_NN dolor_NN ._. 
+Maecenas_NNP vitae_NN nulla_NN consequat_NN libero_NN cursus_JJ venenatis_NNS ._. 
+Nam_NNP magna_NN enim_NN ,_, accumsan_NN eu_NN ,_, blandit_NN sed_JJ ,_, blandit_NN a_DT ,_, eros_NNS ._. 
+
+Quisque_NNP facilisis_NNS erat_NN a_DT dui_NN ._. 
+Nam_NNP malesuada_NN ornare_NN dolor_NN ._. 
+Cras_NNP gravida_NN ,_, diam_NN sit_VB amet_NN rhoncus_JJ ornare_NN ,_, erat_NN elit_NN consectetuer_NN erat_NN ,_, id_NN egestas_NNS pede_NN nibh_NN eget_NN odio_NN ._. 
+Proin_NNP tincidunt_NN ,_, velit_NN vel_NN porta_NN elementum_NN ,_, magna_NN diam_NN molestie_NN sapien_NN ,_, non_NN aliquet_NN massa_NN pede_NN eu_NN diam_NN ._. 
+Aliquam_NNP iaculis_NNS ._. 
+Fusce_NNP et_CC ipsum_NN et_CC nulla_NN tristique_NN facilisis_NNS ._. 
+Donec_NNP eget_NN sem_NN sit_VB amet_NN ligula_NN viverra_NN gravida_NN ._. 
+Etiam_NNP vehicula_NN urna_NN vg_NN ._. 
+
+One_CD Man_NNP Search_NNP Party_NNP THX_NNP 0477_CD 2008-11-11_NN T_NN 14:21:02_NN Z_NNP ID_NNP :_: 45858_CD Prequels_NNP :_: 45610_CD Sequels_NNP :_: 46517_CD With_IN a_DT start_NN and_CC gasp_VB of_IN realization_NN ,_, Mariano_NNP awoke_VBD ._. 
+Impatiently_NNP he_PRP thrust_VBD away_RB the_DT covers_NNS and_CC sat_VBN up_RB ,_, his_PRP$ legs_NNS dangling_VBG over_IN the_DT side_NN of_IN the_DT bed_NN ._. 
+Nocturnal_NNP epiphany_NN sped_VBN through_IN his_PRP$ agile_NN young_JJ mind_NN ,_, taking_VBG curves_NNS like_IN a_DT jack_NN rabbit_NN on_IN Ritalin_NNP ._. 
+
+Sariah_NNP was_VBD missing_VBG ._. 
+It_PRP was_VBD the_DT only_JJ explanation_NN for_IN the_DT cars_NNS ,_, and_CC the_DT men_NNS ._. 
+She_PRP hadn_NN ’_NN t_NN been_VBN at_IN her_PRP$ bedroom_NN window_NN all_DT evening_NN ._. 
+She_PRP was_VBD always_RB at_IN her_PRP$ bedroom_NN window_NN ._. 
+Always_RB ._. 
+
+Still_RB why_WRB was_VBD there_EX no_DT announcement_NN ,_, no_DT search_NN party_NN ?_. 
+They_PRP must_MD suspect_VB foul_JJ play_VB ._. 
+But_CC had_VBD they_PRP searched_VBD ?_. 
+Had_VBD anyone_NN looked_VBD ?_. 
+
+Brimming_NNP with_IN boyhood_NN zeal_NN and_CC naive_JJ conviction_NN ,_, Mariano_NNP jumped_VBD to_TO his_PRP$ feet_NNS ._. 
+He_PRP knew_VBD what_WP he_PRP would_MD do_VB ,_, how_WRB he_PRP would_MD help_VB ._. 
+Swiftly_NNP but_CC silently_RB he_PRP dressed_VBD ,_, layer_NN after_IN layer_NN ,_, accessory_JJ after_IN accessory_JJ ,_, until_IN finally_RB he_PRP was_VBD ready_JJ to_TO go_VB ,_, ready_JJ for_IN anything_NN ._. 
+
+Without_IN a_DT second_RB thought_NN he_PRP was_VBD out_RP the_DT back_NN door_NN and_CC to_TO the_DT woods_NNS ,_, a_DT one_CD man_NN search_NN party_NN ._. 
+He_PRP knew_VBD the_DT woods_NNS ._. 
+He_PRP knew_VBD the_DT paths_NNS ._. 
+Most_JJS importantly_RB ,_, he_PRP knew_VBD the_DT quirky_JJ ,_, secretive_JJ nature_NN of_IN the_DT girl_NN next_JJ door_NN ._. 
+
+Spilling_NNP penguincaptain_NN 18_CD 2008-11-11_NN T_NN 14:26:47_NN Z_NNP ID_NNP :_: 45859_CD Prequels_NNP :_: 45810_CD Sequels_NNP :_: 45862_CD He_PRP took_VBD a_DT deep_JJ breath_NN ._. 
+“_NN Ok_NN ._. ._. Janice_NNP ..._... ”_NN 
+Another_DT deep_JJ breath_NN ._. 
+Janice_NNP could_MD almost_RB see_VB the_DT courage_NN building_NN up_RB inside_IN him_PRP ._. 
+She_PRP wonder_NN if_IN he_PRP could_MD hear_VB her_PRP$ heart_NN racing_NN ._. 
+
+“_NN I_PRP think_VBP you_PRP have_VBP to_TO be_VB the_DT most_RBS incredible_JJ person_NN I_PRP ’ve_VBP ever_RB met_VBD ._. 
+No_DT one_NN ’_NN s_VBZ ever_RB been_VBN as_RB ridiculously_RB perfect_JJ as_IN you_PRP ._. 
+Not_RB only_RB are_VBP you_PRP outrageously_RB beautiful_JJ and_CC brilliant_JJ but_CC you_PRP also_RB have_VBP the_DT kindest_NN soul_NN ever_RB in_IN the_DT history_NN of_IN kind_NN souls_NNS ._. 
+I_PRP don_VB ’_NN t_NN know_VB how_WRB all_PDT the_DT other_JJ girls_NNS stand_VBP to_TO be_VB around_IN such_JJ an_DT exquisite_JJ being_NN ._. 
+They_PRP all_DT have_VBP to_TO hate_VB you_PRP ._. 
+They_PRP have_VBP to_TO ._. 
+I_PRP know_VBP if_IN I_PRP were_VBD a_DT girl_NN I_PRP would_MD ._. 
+I_PRP ’_NN d_SYM completely_RB give_VB up_RP hope_VBP of_IN ever_RB having_VBG a_DT boyfriend_NN with_IN you_PRP around_IN ._. 
+There_EX ’_NN d_SYM be_VB no_DT way_NN for_IN me_PRP to_TO measure_VB up_IN to_TO you_PRP ._. 
+So_IN I_PRP ’m_VBP REALLY_NNP glad_JJ I_PRP ’m_VBP not_RB a_DT girl_NN ._. ”_NN 
+Kyle_NNP paused_VBD for_IN a_DT breath_NN ,_, Janice_NNP couldn_NN ’_NN t_NN catch_NN hers_PRP ._. 
+
+“_NN I_PRP sit_VBP around_IN and_CC watch_VB you_PRP ,_, sorry_JJ if_IN that_DT sounds_VBZ a_DT bit_NN creepy_NN but_CC I_PRP can_MD ’_NN t_NN help_VB it_PRP ._. 
+I_PRP don_VB ’_NN t_NN think_VBP I_PRP ’ll_MD ever_RB get_VB over_IN how_WRB utterly_RB ,_, insanely_RB awesome_JJ you_PRP are_VBP ,_, ”_NN his_PRP$ voice_NN was_VBD picking_VBG up_RP speed_NN ,_, Janice_NNP ’_NN s_VBZ astonished_JJ ears_NNS were_VBD having_VBG trouble_NN following_NN ._. 
+
+On_IN the_DT Contrary_JJ Mackizme_NNP 2008-11-11_NN T_NN 14:29:07_NN Z_NNP ID_NNP :_: 45860_CD Prequels_NNP :_: 45849_CD Sequels_NNP :_: 45863_CD How_WRB did_VBD she_PRP do_VB it_PRP ?_. 
+Adelle_NNP always_RB seemed_VBD to_TO find_VB him_PRP ,_, and_CC she_PRP never_RB failed_VBD to_TO share_VB her_PRP$ information_NN with_IN Gianna_NNP ,_, or_CC ._. ..._... a_DT version_NN of_IN Gianna_NNP ._. 
+But_CC what_WP is_VBZ she_PRP this_DT time_NN ?_. 
+he_PRP wondered_VBD ._. 
+
+He_PRP looked_VBD around_IN him_PRP uncertainly_RB ._. 
+This_DT was_VBD not_RB the_DT first_JJ time_NN his_PRP$ home_NN was_VBD simulated_JJ around_IN him_PRP ._. 
+They_PRP both_DT thought_VBD he_PRP was_VBD stupid_JJ just_RB because_IN he_PRP was_VBD part-robot_JJ ._. 
+On_IN the_DT contrary_NN ..._... Even_RB this_DT little_JJ spark_NN of_IN hope_VBP could_MD not_RB make_VB him_PRP smile_VBP ._. 
+
+“_NN What_WP ’_NN s_VBZ going_VBG on_IN here_RB ,_, Adelle_NNP ?_. ”_NN 
+he_PRP said_VBD and_CC gave_VBD her_PRP$ his_PRP$ most_RBS disappointed_VBN ,_, disapproving_JJ gaze_VBP ._. 
+She_PRP shifted_VBD under_IN his_PRP$ stare_VBP ._. 
+
+“_NN Gianna_NNP said_VBD she_PRP couldn_NN ’_NN t_NN find_VB you_PRP ._. ”_NN 
+
+“_NN Did_VBD you_PRP stop_VBP to_TO think_VB that_IN I_PRP didn_NN ’_NN t_NN want_VBP to_TO be_VB found_VBN ?_. ”_NN 
+He_PRP ignored_VBD Gianna_NNP ,_, deciding_VBG she_PRP was_VBD a_DT pre-recorded_JJ hologram_NN and_CC posed_VBD no_DT threat_NN ._. 
+
+Adelle_NNP looked_VBD shocked_VBN ._. 
+“_NN Fame_NNP !_. 
+How_WRB can_MD you_PRP say_VB that_DT ?_. 
+Gianna_NNP is_VBZ so_RB good_JJ to_TO you_PRP !_. ”_NN 
+She_PRP seemed_VBD not_RB to_TO realize_VB that_IN the_DT Gianna_NNP standing_NN with_IN them_PRP was_VBD just_RB a_DT hologram_NN ._. 
+He_PRP filled_VBD her_PRP in_IN ._. 
+She_PRP looked_VBD confused_VBN at_IN first_JJ ,_, then_RB embarrassed_JJ ,_, and_CC finally_RB ashamed_JJ ._. 
+“_NN I_PRP ’m_VBP sorry_JJ ,_, Fame_NNP ,_, but_CC I_PRP can_MD ’_NN t_NN lose_VB you_PRP ._. ”_NN 
+
+Wyrmtongue_NNP Thyme_NNP Passing_NNP 2008-11-11_NN T_NN 14:37:49_NN Z_NNP ID_NNP :_: 45861_CD Prequels_NNP :_: 44835_CD Sequels_NNP :_: none_NN Many_JJ long_JJ years_NNS our_PRP$ people_NNS have_VBP been_VBN enslaved_JJ ,_, many_JJ long_JJ years_NNS indeed_RB ._. 
+They_PRP took_VBD our_PRP$ families_NNS and_CC separated_JJ them_PRP ,_, our_PRP$ possessions_NNS and_CC plundered_JJ them_PRP ,_, and_CC our_PRP$ hearts_NNS and_CC broke_VBD them_PRP ._. 
+Do_VBP not_RB expect_VB me_PRP to_TO lament_NN the_DT fate_NN of_IN their_PRP$ civilization_NN ,_, for_IN it_PRP was_VBD at_IN my_PRP$ hands_NNS did_VBD it_PRP fall_VBP ._. 
+The_DT plan_NN was_VBD of_IN my_PRP$ weaving_VBG ._. 
+Being_VBG their_PRP$ servant_NN ,_, I_PRP knew_VBD all_DT their_PRP$ secrets_NNS ,_, but_CC they_PRP never_RB suspected_VBD me_PRP ,_, for_IN I_PRP was_VBD meek_NN ,_, and_CC small_JJ ._. 
+What_WP could_MD a_DT human_JJ do_VB against_IN a_DT giant_NN ?_. 
+they_PRP asked_VBD themselves_PRP ._. 
+They_PRP never_RB guessed_VBD my_PRP$ treachery_NN !_. 
+I_PRP laugh_NN at_IN their_PRP$ folly_NN ._. 
+I_PRP was_VBD subtle_JJ and_CC sly_JJ ._. 
+Through_IN my_PRP$ cunning_JJ did_VBD the_DT giants_NNS turn_VBP against_IN each_DT other_JJ ._. 
+The_DT man_NN doubted_VBD his_PRP$ wife_NN ,_, and_CC the_DT woman_NN questioned_VBD her_PRP$ son_NN ._. 
+None_NN of_IN them_PRP knew_VBD ,_, and_CC so_IN they_PRP directed_VBD their_PRP$ anger_NN at_IN all_DT ,_, and_CC so_RB undid_VBD themselves_PRP ._. 
+Soldiers_NNS plundered_JJ the_DT homes_NNS of_IN their_PRP$ own_JJ people_NNS ,_, and_CC the_DT people_NNS rebelled_VBD ._. 
+At_IN the_DT last_NN ,_, when_WRB the_DT multitudes_NNS besieged_VBN the_DT City_NNP ,_, only_RB then_RB did_VBD I_PRP reveal_VBP my_PRP$ plot_NN ,_, and_CC by_IN then_RB it_PRP was_VBD too_RB late_JJ ,_, for_IN the_DT City_NNP was_VBD burning_VBG ._. 
+It_PRP burned_VBD ,_, and_CC as_IN it_PRP burned_VBD ,_, we_PRP made_VBD our_PRP$ escape_NN ,_, and_CC fled_VBD ._. 
+
+Mr._NN Mile-a-minute_NNP ,_, Giant_NNP Run-on_NNP Talker_NNP penguincaptain_NN 18_CD 2008-11-11_NN T_NN 14:39:15_NN Z_NNP ID_NNP :_: 45862_CD Prequels_NNP :_: 45859_CD Sequels_NNP :_: 46056_CD “_NN I_PRP don_VB ’_NN t_NN know_VB how_WRB it_PRP is_VBZ that_IN you_PRP don_VB ’_NN t_NN have_VBP a_DT boyfriend_NN ._. 
+I_PRP don_VB ’_NN t_NN know_VB how_WRB there_EX isn_NN ’_NN t_NN an_DT army_NN of_IN gus_JJ following_NN you_PRP around_IN ,_, doing_VBG what_WP ever_RB your_PRP$ lovely_JJ heart_NN desires_NNS ,_, ”_NN Kyle_NNP continued_VBD ,_, Janice_NNP ’_NN s_VBZ face_NN was_VBD about_IN as_RB red_JJ as_IN can_MD be_VB imagined_VBN ,_, yet_RB getting_VBG redder_JJR ._. 
+
+“_NN But_CC then_RB I_PRP think_VBP ,_, it_PRP does_VBZ make_VB sense_NN because_IN she_PRP ’_NN d_SYM never_RB like_IN that_DT ,_, ”_NN he_PRP was_VBD really_RB picking_VBG up_RP the_DT pace_NN now_RB ,_, “_NN She_PRP ’s_VBZ not_RB the_DT type_NN that_WDT goes_VBZ around_IN fluanting_VBG what_WP she_PRP ’s_VBZ got_VBN and_CC taking_VBG advantage_NN ,_, which_WDT makes_VBZ you_PRP even_RB perfecter_NN ._. 
+I_PRP don_VB ’_NN t_NN think_VBP that_DT ’s_VBZ a_DT word_NN but_CC it_PRP doesn_NN ’_NN t_NN really_RB matter_NN right_RB now_RB ._. 
+All_DT that_IN really_RB matters_VBZ is_VBZ that_IN you_PRP ’re_VBP perfect_JJ and_CC there_EX ’_NN s_VBZ no_DT one_CD as_RB awesome_JJ as_IN you_PRP and_CC you_PRP trump_NN all_PDT those_DT who_WP think_VBP they_PRP are_VBP awesome_JJ and_CC nothing_NN is_VBZ as_RB wonderful_JJ as_IN spending_NN time_NN with_IN you_PRP and_CC I_PRP can_MD ’_NN t_NN imagine_VB anything_NN better_JJR than_IN talking_VBG to_TO you_PRP ,_, or_CC seeing_VBG you_PRP ,_, or_CC being_VBG with_IN you_PRP and_CC there_EX would_MD be_VB nothing_NN worse_JJR than_IN some_DT other_JJ guy_NN scooping_VBG you_PRP up_RP and_CC not_RB appreciating_VBG you_PRP because_IN he_PRP doesn_NN ’_NN t_NN know_VB what_WP he_PRP has_VBZ and_CC that_DT would_MD just_RB really_RB suck_NN ._. ”_NN 
+Another_DT giant_JJ breath_NN ._. 
+
+Protector_NNP lovinglife_NN 307_CD 2008-11-11_NN T_NN 14:42:35_NN Z_NNP ID_NNP :_: 45863_CD Prequels_NNP :_: 45860_CD Sequels_NNP :_: none_NN “_NN Lose_NNP me_PRP ?_. 
+I_PRP don_VB ’_NN t_NN think_VBP you_PRP need_VBP to_TO worry_VB about_IN that_DT ,_, Adelle_NNP ._. 
+You_PRP ’ve_VBP tightened_VBD my_PRP$ leash_NN over_IN the_DT past_JJ few_JJ days_NNS ,_, you_PRP do_VBP realize_VB ._. ”_NN 
+I_PRP stared_VBD right_RB back_RB at_IN her_PRP$ annoyed_JJ look_VB ._. 
+She_PRP shouldn_NN ’_NN t_NN rule_NN my_PRP$ life_NN ._. 
+
+“_NN I_PRP ’m_VBP sorry_JJ ,_, Fame_NNP ._. 
+I_PRP know_VBP you_PRP think_VBP I_PRP ’m_VBP being_VBG horrible_JJ ,_, but_CC I_PRP ’m_VBP not_RB ._. ”_NN 
+She_PRP was_VBD acting_VBG defiant_NN ._. 
+What_WP had_VBD gotten_VBN into_IN her_PRP ?_. 
+“_NN I_PRP think_VBP that_DT ’s_VBZ for_IN me_PRP to_TO decide_VB ._. ”_NN 
+
+She_PRP recoiled_JJ ,_, stung_VBN ._. 
+
+“_NN Fame_NNP ,_, please_VB ._. 
+I_PRP just_RB want_VBP to_TO protect_VB you_PRP ._. ”_NN 
+She_PRP was_VBD wheedling_VBG now_RB ._. 
+She_PRP would_MD ’ve_VBP gotten_VBN down_RB on_IN her_PRP$ knees_NNS if_IN she_PRP didn_NN ’_NN t_NN think_VBP Gianna_NNP was_VBD watching_VBG ._. 
+Which_WDT she_PRP probably_RB was_VBD ._. 
+I_PRP didn_NN ’_NN t_NN care_NN ._. 
+
+“_NN Listen_VB ,_, Adelle_NNP ._. 
+You_PRP have_VBP been_VBN my_PRP$ protector_NN ,_, ”_NN I_PRP sneered_JJ the_DT word_NN ,_, “_NN since_IN I_PRP was_VBD created_VBN ._. 
+I_PRP know_VBP all_DT I_PRP need_VBP to_TO know_VB ._. 
+It_PRP ’s_VBZ time_NN to_TO maybe_RB reverse_VB the_DT roles_NNS a_DT little_JJ bit_NN ._. 
+You_PRP ’re_VBP the_DT one_CD that_WDT should_MD be_VB protected_VBN ,_, not_RB me_PRP ._. ”_NN 
+
+“_NN Now_RB ,_, that_RB ,_, Fame_NNP ,_, is_VBZ for_IN me_PRP to_TO decide_VB ._. 
+You_PRP think_VBP you_PRP know_VBP everything_NN ,_, but_CC you_PRP don_VB ’_NN t_NN ._. ”_NN 
+
+I_PRP sneered_JJ ._. 
+“_NN Oh_UH ,_, sure_JJ ,_, Adelle_NNP ._. 
+Whatever_WDT you_PRP say_VBP ._. ”_NN 
+
+“_NN That_DT ’s_VBZ right_NN ,_, Fame_NNP ._. 
+Whatever_WDT I_PRP say_VBP ._. ”_NN 
+
+Determination_NNP Mackizme_NNP 2008-11-11_NN T_NN 14:42:36_NN Z_NNP ID_NNP :_: 45864_CD Prequels_NNP :_: 45716_CD Sequels_NNP :_: 45865_CD Todd_NNP stands_VBZ there_RB for_IN a_DT few_JJ minutes_NNS after_IN she_PRP leaves_VBZ ,_, breathing_VBG hard_JJ ,_, wondering_VBG what_WP the_DT hell_NN he_PRP is_VBZ going_VBG to_TO do_VB next_RB ._. 
+He_PRP has_VBZ bravely_RB decided_VBN to_TO get_VB to_TO the_DT bottom_NN of_IN this_DT whole_JJ mess_NN but_CC hasn_NN ’_NN t_NN decided_VBD how_WRB ._. 
+
+Dammit_NNP ,_, what_WP is_VBZ Tom_NNP up_IN to_TO ?_. 
+At_IN this_DT thought_VBN Todd_NNP is_VBZ suddenly_RB inspired_VBN ._. 
+“_NN Jim_NNP ,_, ”_NN he_PRP says_VBZ quickly_RB ._. 
+
+“_NN Yeah_UH ,_, ”_NN Jim_NNP answers_NNS gruffly_RB ._. 
+He_PRP has_VBZ been_VBN observing_VBG the_DT whole_JJ scene_NN and_CC disapproves_VBZ of_IN how_WRB Todd_NNP has_VBZ been_VBN acting_VBG ._. 
+“_NN What_WP exactly_RB was_VBD Tom_NNP writing_VBG about_IN her_PRP ?_. ”_NN 
+
+“_NN Her_PRP$ looks_NNS ,_, her_PRP$ mannerisms_NNS ..._... ”_NN 
+Jim_NNP begins_VBZ slowly_RB ,_, then_RB he_PRP stops_VBZ ._. 
+“_NN To_TO put_VB it_PRP bluntly_RB ..._... I_PRP think_VBP that_DT boy_NN wants_VBZ to_TO kill_VB her_PRP ._. ”_NN 
+Jim_NNP is_VBZ surprised_VBN when_WRB Todd_NNP doesn_NN ’_NN t_NN react_VB very_RB violently_RB to_TO this_DT news_NN ._. 
+
+Todd_NNP nods_VBZ to_TO himself_PRP ,_, thinking_VBG ._. 
+“_NN Yes_UH ,_, yes_UH ,_, of_IN course_NN he_PRP does_VBZ ._. 
+Tom_NNP always_RB was_VBD a_DT jealous_JJ prick_NN ,_, ”_NN he_PRP splutters_NNS ,_, his_PRP$ face_NN displaying_VBG cold_JJ rage_NN ._. 
+“_NN The_DT boy_NN doesn_NN ’_NN t_NN have_VBP a_DT brain_NN cell_NN in_IN his_PRP$ head_NN that_DT isn_NN ’_NN t_NN fueled_VBN by_IN greed_NN ._. ”_NN 
+
+Jim_NNP frowned_JJ ._. 
+“_NN That_DT ’s_VBZ a_DT little_RB harsh_JJ ,_, boy_NN ,_, don_VB ’_NN tcha_NN think_VBP ?_. ”_NN 
+
+“_NN I_PRP ’m_VBP not_RB a_DT boy_NN !_. ”_NN 
+Todd_NNP snaps_VBZ ._. 
+He_PRP stands_VBZ up_RB straighter_RBR and_CC says_VBZ sternly_RB ,_, “_NN I_PRP ’m_VBP a_DT man_NN ._. ”_NN 
+
+The_DT Cold_NNP Shoulder_NNP Mackizme_NNP 2008-11-11_NN T_NN 14:51:48_NN Z_NNP ID_NNP :_: 45865_CD Prequels_NNP :_: 45864_CD Sequels_NNP :_: 45868_CD “_NN Yes_UH ,_, yes_UH ,_, o_NN ’_NN course_NN ye_NN are_VBP ..._... ”_NN 
+Jim_NNP mutters_NNS as_IN he_PRP shuffles_NNS around_IN the_DT tree_NN looking_VBG for_IN any_DT other_JJ evidence_NN ._. 
+
+Todd_NNP is_VBZ also_RB looking_VBG around_IN but_CC he_PRP can_MD ’_NN t_NN see_VB anything_NN but_CC a_DT ball-point_JJ pen_NN that_DT ’s_VBZ been_VBN crushed_VBN ._. 
+Probably_RB from_IN when_WRB Tom_NNP fell_VBD out_IN of_IN the_DT tree_NN ,_, he_PRP thinks_VBZ ,_, sour-faced_JJ ._. 
+God_NNP ,_, I_PRP hope_VBP that_DT kid_NN is_VBZ hurting_VBG ._. 
+Serves_NNP him_PRP right_NN !_. 
+
+Jim_NNP eyes_NNS Todd_NNP carefully_RB ,_, then_RB asks_VBZ ._. 
+“_NN Do_VBP you_PRP need_VB my_PRP$ help_NN with_IN anything_NN ,_, son_NN ?_. ”_NN 
+
+Without_IN even_RB looking_VBG at_IN him_PRP ,_, Todd_NNP answers_NNS ,_, “_NN No._NN 
+I_PRP ’m_VBP fine_NN ._. 
+You_PRP can_MD go_VB now_RB ._. ”_NN 
+
+Jim_NNP doesn_NN ’_NN t_NN leave_NN ._. 
+He_PRP ’s_VBZ waiting_VBG for_IN a_DT thank_VB you_PRP or_CC some_DT kind_NN of_IN acknowledgment_NN of_IN his_PRP$ help_NN ._. 
+He_PRP receives_VBZ none_NN ._. 
+
+Angry_NNP ,_, Jim_NNP says_VBZ ,_, “_NN Fine_NNP ._. 
+Goodbye_NNP ._. ”_NN 
+He_PRP turns_VBZ and_CC stalks_NNS off_RP toward_IN his_PRP$ little_JJ house_NN ._. 
+
+Five_CD Girls_NNP ,_, Two_CD Enemies_NNP lovinglife_NN 307_CD 2008-11-11_NN T_NN 15:03:25_NN Z_NNP ID_NNP :_: 45866_CD Prequels_NNP :_: none_NN Sequels_NNP :_: none_NN “_NN One_CD ,_, two_CD ,_, three_CD ..._... three_CD !_. 
+Oh_UH my_PRP$ god_NN ._. ”_NN 
+Harper_NNP stared_VBD down_RB at_IN her_PRP$ bent_NN over_IN stomach_NN ,_, where_WRB three_CD miniscule_JJ rolls_NNS of_IN fat_NN had_VBD appeared_VBN ._. 
+
+“_NN Oh_UH ,_, Harper_NNP ,_, shut_VBD up_RB already_RB ._. 
+You_PRP ’re_VBP a_DT size_NN two_CD ._. ”_NN 
+I_PRP stretched_VBD out_IN over_IN my_PRP$ bed_NN ,_, twirling_VBG a_DT dark_JJ lock_NN of_IN hair_NN on_IN my_PRP$ finger_NN ._. 
+
+Harper_NNP shut_VBD up_RB ._. 
+It_PRP was_VBD only_RB expected_VBN ._. 
+
+Gia_NNP came_VBD in_IN with_IN a_DT bag_NN of_IN popcorn_NN and_CC another_DT bag_NN of_IN Swedish_JJ Fish_NN ,_, followed_VBD closely_RB behind_IN by_IN Emilie_NNP ,_, who_WP was_VBD carrying_VBG five_CD soda_NN ’_NN s_VBZ ._. 
+
+“_NN Here_RB we_PRP go_VBP ,_, luvs_NNS ._. ”_NN 
+Emilie_NNP plopped_JJ the_DT soda_NN ’_NN s_VBZ down_RB on_IN the_DT bedside_NN table_NN ._. 
+
+“_NN Where_WRB ’s_VBZ Demi_NNP ?_. ”_NN 
+Gia_NNP looked_VBD around_IN the_DT room_NN ,_, her_PRP$ eyes_NNS focusing_VBG on_IN me_PRP ._. 
+
+“_NN Not_RB quite_RB sure_JJ ._. ”_NN 
+I_PRP tugged_VBD at_IN my_PRP$ tank_NN top_JJ ._. 
+“_NN She_PRP should_MD be_VB here_RB soon_RB ._. ”_NN 
+
+“_NN Hello_UH girls_NNS !_. ”_NN 
+
+“_NN There_EX ’_NN s_VBZ our_PRP$ Demetria_NNP !_. 
+Where_WRB have_VBP you_PRP been_VBN ?_. ”_NN 
+Emilie_NNP plopped_JJ down_RB on_IN the_DT couch_NN ,_, pulling_VBG a_DT down_JJ pillow_NN onto_IN her_PRP$ lap_NN ._. 
+
+“_NN Oh_UH ,_, sorry_JJ guys_NNS ._. 
+I_PRP got_VBD here_RB as_RB soon_RB as_IN I_PRP could_MD ._. ”_NN 
+Demi_NNP ’_NN s_VBZ hair_NN was_VBD wind_NN blown_VBN ,_, and_CC her_PRP$ nose_NN was_VBD pink_JJ ._. 
+
+“_NN Come_VBN on_IN in_IN !_. ”_NN 
+Harper_NNP smiled_VBD invitingly_RB ._. 
+I_PRP frowned_JJ ._. 
+
+“_NN Hey_NNP ._. ”_NN 
+
+She_PRP looked_VBD over_IN at_IN me_PRP ,_, surprised_VBN ._. 
+
+“_NN Oh_UH ,_, um_UH ,_, hi_NN Bella_NNP ._. ”_NN 
+
+I_PRP smirked_JJ ._. 
+Are_VBP you_PRP ready_JJ ?_. 
+
+Too_RB Late_RB Lizzio_NNP 19_CD 2008-11-11_NN T_NN 15:08:18_NN Z_NNP ID_NNP :_: 45867_CD Prequels_NNP :_: none_NN Sequels_NNP :_: none_NN In_IN the_DT shadows_NNS I_PRP hideCautious_JJ and_CC anxious_JJ ,_, I_PRP fritter_NN away_RB my_PRP$ timeThen_NN a_DT glimmer_NN of_IN valor_NN finally_RB rises_VBZ within_IN meI_NN prepare_VB myselfLike_NN the_DT coiled_JJ viper_NN ,_, I_PRP strikeMy_NN fangs_NNS baredThey_NN long_JJ to_TO seep_NN in_IN the_DT skin_NN of_IN my_PRP$ preyBefore_NN my_PRP$ attack_NN hits_NNS I_PRP ceaseAlas_NNS ,_, my_PRP$ prey_NN is_VBZ already_RB deadA_NN braver_NN snake_NN than_IN I_PRP has_VBZ beaten_VBN me_PRP 
+
+Hurting_NNP Mackizme_NNP 2008-11-11_NN T_NN 15:09:29_NN Z_NNP ID_NNP :_: 45868_CD Prequels_NNP :_: 45865_CD Sequels_NNP :_: 45871_CD Tom_NNP can_MD ’_NN t_NN run_VBP any_RB longer_RBR ._. 
+
+He_PRP falls_VBZ exhausted_VBN to_TO the_DT ground_NN and_CC the_DT sound_NN of_IN the_DT snow_NN crunching_VBG beneath_IN his_PRP$ body_NN fills_VBZ his_PRP$ frozen_JJ ears_NNS ._. 
+He_PRP gasps_NNS as_IN the_DT cold_JJ seeps_NNS through_IN his_PRP$ clothes_NNS ._. 
+He_PRP can_MD ’_NN t_NN stop_VB his_PRP$ teeth_NNS from_IN chattering_VBG hopelessly_RB and_CC his_PRP$ shoulders_NNS begin_VBP to_TO shake_VB as_RB well_RB ._. 
+
+“_NN Oooooo_NNP ,_, ”_NN he_PRP groans_VBZ ,_, shifting_VBG on_IN the_DT cold_JJ ground_NN ._. 
+“_NN Noooo_NNP ..._... ”_NN 
+His_PRP$ attempted_JJ moan_VB escapes_NNS as_IN only_RB a_DT whisper_NN ._. 
+He_PRP can_MD hear_VB the_DT sound_NN of_IN nearby_JJ cars_NNS driving_VBG by_IN and_CC he_PRP lifts_VBZ an_DT arm_NN uselessly_RB ._. 
+”_NN ..._... Help_VB !_. ”_NN 
+he_PRP croaks_NNS quietly_RB ._. 
+
+His_PRP$ leg_NN aches_NNS terribly_RB ._. 
+It_PRP feels_VBZ as_IN though_IN a_DT knife_NN is_VBZ piercing_VBG through_IN his_PRP$ skin_NN and_CC his_PRP$ muscles_NNS and—oh_NN !_. 
+The_DT pain_NN is_VBZ unbearable_JJ !_. 
+His_PRP$ ears_NNS are_VBP ringing_VBG ._. 
+
+Tom_NNP pulls_VBZ off_RP his_PRP$ gloves_NNS and_CC stares_NNS at_IN his_PRP$ red_JJ hands_NNS in_IN shock_NN ._. 
+Weakly_NNP he_PRP begins_VBZ to_TO rub_VB them_PRP together_RB to_TO stimulate_VB some_DT heat_NN but_CC he_PRP is_VBZ unsuccessful_JJ ._. 
+As_IN a_DT last_JJ desperate_JJ hope_NN he_PRP shoves_VBZ his_PRP$ hands_NNS under_IN his_PRP$ armpits_NNS ._. 
+He_PRP is_VBZ finally_RB greeted_VBN by_IN a_DT sliver_NN of_IN warmth_NN ,_, and_CC he_PRP shivers_NNS in_IN relief_NN ._. 
+
+But_CC it_PRP won_VBD ’_NN t_NN be_VB enough_RB if_IN he_PRP is_VBZ left_VBN alone_RB too_RB much_JJ longer_RBR ._. 
+
+Eclectic_NNP and_CC Bucholic_NNP [_NN SAC_NNP ..._... again_RB ]_NN g_SYM 2_CD (_( la_FW pianista_NN irlandesa_NN )_) 2008-11-11_NN T_NN 15:23:44_NN Z_NNP ID_NNP :_: 45869_CD Prequels_NNP :_: 42136_CD Sequels_NNP :_: none_NN “_NN Who_WP the_DT heck_NN is_VBZ that_DT ?_. 
+Never_RB seen_VBN her_PRP before_RB ..._... ”_NN 
+“_NN Who_WP ,_, the_DT redhead_NN ?_. 
+Sweater_NNP ,_, jeans_NNS ,_, blue_JJ fuzzy_JJ bucket_NN hat_NN ?_. ”_NN 
+“_NN Yeah_UH ._. 
+Did_VBD she_PRP wander_VBP down_RB here_RB by_IN accident_NN ?_. 
+I_PRP better_JJR call_NN the_DT Memory_NN Department_NNP ._. ._. ”_NN 
+“_NN Oh_UH ,_, didn_NN ’_NN t_NN you_PRP hear_VBP ?_. 
+She_PRP ’s_VBZ the_DT new_JJ recruit_NN ._. ”_NN 
+“_NN Her_PRP$ ?_. !_. 
+Hasn_NNP ’_NN t_NN she_PRP noticed_VBD that_IN she_PRP sticks_VBZ out_RP ?_. ”_NN 
+“_NN Probably_RB ._. ”_NN 
+“_NN I_PRP ’ll_MD bet_NN a_DT week_NN ’_NN s_VBZ pay_VB she_PRP doesn_NN ’_NN t_NN last_VB the_DT week_NN ._. ”_NN 
+“_NN I_PRP wouldn_NN ’_NN t_NN count_NN her_PRP out_IN yet_RB ._. 
+No_DT ,_, you_PRP listen_VBP ._. 
+Eclectic_NNP &_CC bucholic_JJ as_IN she_PRP may_MD seem_VB ,_, she_PRP ’s_VBZ sharp_JJ ._. 
+She_PRP catches_VBZ on_IN quickly_RB ,_, see_VB ?_. 
+She_PRP ’s_VBZ as_IN seamless_JJ &_CC with_IN it_PRP as_IN she_PRP is_VBZ conspicuous_JJ ._. ”_NN 
+“_NN You_PRP seem_VBP to_TO have_VB high_JJ hopes_NNS for_IN her_PRP ._. ”_NN 
+“_NN And_CC rightly_RB so_RB ._. ”_NN 
+“_NN Your_PRP$ reasoning_NN being-_NN ?_. ”_NN 
+“_NN Remember_VB Alpha_NNP Phi_NNP ?_. ”_NN 
+“_NN How_WRB could_MD I_PRP forget_VB ?_. 
+No_DT one_NN could_MD crack_VB it_PRP for_IN months_NNS ._. ”_NN 
+“_NN She_PRP wasn_NN ’_NN t_NN here_RB a_DT day_NN before_IN she_PRP figured_VBD it_PRP out_RP ._. 
+It_PRP was_VBD all_PDT a_DT musical_JJ problem_NN ,_, see_VB ?_. ”_NN 
+“_NN How_WRB long_RB ago_RB was_VBD that_DT ?_. ”_NN 
+“_NN You_PRP still_RB on_IN with_IN the_DT bet_NN ?_. ”_NN 
+“_NN Sure_RB ,_, why_WRB ?_. ”_NN 
+“_NN She_PRP ’s_VBZ been_VBN here_RB eight_CD days_NNS ._. stunned_VBD silence_NN “_NN Now_RB pay_VB up_RP ._. ”_NN 
+incoherent_JJ mumbling_VBG “_NN By_IN the_DT way_NN she_PRP ’s_VBZ your_PRP$ partner_NN next_JJ mission_NN ,_, so_IN you_PRP ’_NN d_SYM better_JJR get_VB to_TO know_VB her_PRP ._. ”_NN 
+
+Obsession_NNP :_: Begins_VBZ Mr._NN Gabriel_NNP 2008-11-11_NN T_NN 15:56:41_NN Z_NNP ID_NNP :_: 45870_CD Prequels_NNP :_: 45837_CD Sequels_NNP :_: 45954_CD My_PRP$ heart_NN skipped_VBD a_DT beat_NN in_IN horror_NN ._. 
+What_WP was_VBD he_PRP doing_VBG here_RB ?_. 
+Pure_NNP coincidence_NN could_MD be_VB an_DT explanation_NN ,_, and_CC it_PRP sounded_VBD like_IN a_DT good_JJ one_CD ,_, so_IN I_PRP went_VBD with_IN that_DT and_CC waved_VBD at_IN him_PRP ._. 
+He_PRP smiled_VBD ._. 
+I_PRP looked_VBD away_RB and_CC saw_VBD from_IN the_DT corner_NN of_IN my_PRP$ eyes_NNS ,_, he_PRP was_VBD angry_JJ ._. 
+
+A_DT few_JJ weeks_NNS had_VBD passed_VBN since_IN I_PRP came_VBD to_TO Marzark_NNP ._. 
+Jared_NNP and_CC I_PRP hung_VBD out_IN almost_RB everyday_JJ ,_, and_CC he_PRP was_VBD making_VBG me_PRP popular_JJ ._. 
+One_CD Friday_NNP Jared_NNP had_VBD to_TO visit_VB his_PRP$ family_NN in_IN a_DT different_JJ part_NN of_IN town_NN ,_, and_CC for_IN once_RB I_PRP had_VBD nothing_NN to_TO do_VB ._. 
+I_PRP picked_VBD up_RP my_PRP$ phone_NN and_CC looked_VBD at_IN my_PRP$ recent_JJ call_NN list_NN to_TO see_VB if_IN anyone_NN would_MD hang_VB out_IN today_NN ._. 
+All_DT incoming_JJ calls_NNS from_IN Jared_NNP ._. 
+A_DT few_JJ outgoing_JJ ._. ._. to_TO Jared_NNP ._. 
+I_PRP looked_VBD through_IN my_PRP$ contact_NN list_NN and_CC called_VBN Jueli_NNP ._. 
+She_PRP wasnt_NN busy_JJ either_CC ,_, and_CC she_PRP invited_VBD me_PRP to_TO the_DT mall_NN ._. 
+I_PRP gladly_RB accepted_VBD ._. 
+I_PRP swiftly_RB put_VBP on_IN my_PRP$ clothes_NNS and_CC was_VBD out_RP the_DT door_NN in_IN less_JJR than_IN a_DT few_JJ minutes_NNS ._. 
+I_PRP waited_VBD until_IN Jueli_NNP came_VBD to_TO leave_VB ._. 
+I_PRP stopped_VBD abruptly_RB noticing_VBG a_DT vibration_NN coming_VBG from_IN my_PRP$ leg_NN ._. 
+It_PRP was_VBD a_DT text_NN from_IN Jared_NNP ._. 
+“_NN im_NN comin_NN home_NN now_RB so_IN we_PRP can_MD hang_VB out_IN ”_NN 
+
+Not_RB Your_PRP$ Typical_JJ Rescue_NN Mackizme_NNP 2008-11-11_NN T_NN 16:11:31_NN Z_NNP ID_NNP :_: 45871_CD Prequels_NNP :_: 45868_CD Sequels_NNP :_: 45872_CD Warm_JJ hands_NNS turn_VBP him_PRP over_IN ._. 
+His_PRP$ eyes_NNS are_VBP frozen_VBN closed_VBN ,_, and_CC he_PRP moans_VBZ softly_RB at_IN the_DT touch_NN ._. 
+He_PRP is_VBZ barely_RB conscious_JJ as_IN the_DT hands_NNS pick_VBP him_PRP up_RP and_CC carry_VB him_PRP ..._... somewhere_RB ._. 
+He_PRP can_MD occasionally_RB make_VB out_RP some_DT voices_NNS ,_, but_CC only_RB snippets_NNS of_IN conversation_NN ._. 
+He_PRP is_VBZ drifting_VBG in_IN and_CC out_IN of_IN consciousness_NN ._. 
+
+”_NN ...._... in_IN the_DT truck_NN ...._. hurt_VBN ......._. needs_VBZ heat_NN ...._. ”_NN 
+”_NN ._. ..._... him_PRP home_NN ..._... ”_NN 
+“_NN I_PRP know_VBP !_. ”_NN 
+This_DT last_JJ comment_NN is_VBZ louder_RBR than_IN the_DT rest_NN and_CC his_PRP$ eyes_NNS flutter_NN open_JJ and_CC catch_VB a_DT glimpse_NN of_IN a_DT girl_NN ...._. a_DT beautiful_JJ girl_NN ._. 
+And_CC then_RB he_PRP is_VBZ asleep_RB again_RB ._. 
+
+He_PRP awakens_NNS in_IN water_NN ._. 
+Warm_JJ water_NN ._. 
+Someone_NN is_VBZ rubbing_VBG his_PRP$ arms_NNS with_IN soapy_NN hands_NNS ._. 
+“_NN Wha_NNP ..._... ?_. ”_NN 
+he_PRP murmurs_NNS ._. 
+The_DT light_NN is_VBZ bright_JJ ._. 
+Suddenly_RB the_DT lights_NNS dim_NN and_CC he_PRP is_VBZ able_JJ to_TO fully_RB open_JJ his_PRP$ eyes_NNS ._. 
+
+Tom_NNP is_VBZ astonished_JJ to_TO find_VB himself_PRP sitting_VBG in_IN a_DT white_JJ porcelain_NN bathtub_NN ._. 
+He_PRP suddenly_RB realizes_VBZ something_NN is_VBZ touching_VBG his_PRP$ leg_NN ._. 
+No._NN 
+Not_RB just_RB his_PRP$ leg_NN ,_, but_CC his_PRP$ back_RB as_RB well_RB ._. 
+All_DT at_IN once_RB the_DT realization_NN comes_VBZ ,_, and_CC then_RB he_PRP hears_VBZ a_DT voice_NN speak_VB into_IN his_PRP$ ear_NN from_IN behind_IN ._. 
+
+“_NN Hello_UH ,_, Tom_NNP ._. 
+Not_RB to_TO worry_VB ,_, I_PRP ’ll_MD keep_VB you_PRP safe_JJ and_CC warm_JJ ._. ”_NN 
+
+A_DT Long_NNP Lost_VBD Memory_NN is_VBZ Found_NNP Mackizme_NNP 2008-11-11_NN T_NN 16:22:57_NN Z_NNP ID_NNP :_: 45872_CD Prequels_NNP :_: 45871_CD Sequels_NNP :_: 45874_CD His_PRP$ instinct_NN makes_VBZ him_PRP stiffen_NN at_IN the_DT touch_NN of_IN a_DT girl_NN ,_, but_CC immediately_RB he_PRP relaxes_NNS as_IN she_PRP reaches_VBZ around_IN him_PRP and_CC begins_VBZ to_TO massage_VB his_PRP$ adolescent_JJ ,_, hairless_JJ chest_NN ._. 
+She_PRP moves_VBZ up_RP his_PRP$ arms_NNS and_CC onto_IN his_PRP$ shoulders_NNS ,_, murmuring_VBG softly_RB the_DT whole_JJ time_NN ._. 
+He_PRP can_MD ’_NN t_NN help_VB but_CC give_VB up_RB control_NN ._. 
+He_PRP lets_VBZ his_PRP$ head_NN loll_NN back_RB onto_IN her_PRP$ shoulder_NN ,_, closing_VBG his_PRP$ eyes_NNS and_CC moaning_VBG in_IN pleasure_NN ._. 
+He_PRP is_VBZ very_RB aware_JJ that_IN her_PRP$ breasts_NNS are_VBP pressed_VBN against_IN his_PRP$ back_RB ._. 
+
+Suddenly_RB her_PRP$ hands_NNS are_VBP moving_VBG downward_JJ ._. 
+She_PRP grips_NNS him_PRP by_IN the_DT waist_NN and_CC hoists_NNS him_PRP back_RB toward_IN her_PRP ._. 
+Instinctively_NNP he_PRP moves_VBZ with_IN her_PRP$ and_CC grabs_NNS her_PRP$ hand_NN ._. 
+She_PRP squeezes_VBZ it_PRP ,_, and_CC with_IN the_DT other_JJ hand_NN begins_VBZ to_TO explore_VB his_PRP$ thighs_NNS and_CC the_DT space_NN between_IN ._. 
+
+He_PRP gasps_NNS ,_, his_PRP$ eyes_NNS wide_JJ open_JJ now_RB ._. 
+Something_NN in_IN her_PRP$ touch_NN has_VBZ reawakened_JJ a_DT long_RB lost_JJ memory_NN and_CC he_PRP is_VBZ turned_VBN on_IN ._. 
+The_DT water_NN is_VBZ soothing_JJ and_CC he_PRP moves_VBZ with_IN her_PRP$ ,_, tuning_VBG into_IN the_DT rhythm_NN of_IN her_PRP$ moving_VBG hand_NN ,_, his_PRP$ mind_NN elsewhere_RB ..._... in_IN the_DT past_NN ._. 
+
+He_PRP is_VBZ imagining_VBG that_DT day_NN long_RB ago_RB when_WRB that_IN very_RB special_JJ person_NN did_VBD the_DT same_JJ thing_NN ..._... and_CC he_PRP fell_VBD in_IN love_NN ._. 
+
+Experiment_NNP No._NN 1_CD Stovohobo_NNP 2008-11-11_NN T_NN 16:30:05_NN Z_NNP ID_NNP :_: 45873_CD Prequels_NNP :_: 45759_CD Sequels_NNP :_: 45884_CD A_DT few_JJ more_JJR hours_NNS crept_VBN by_IN ,_, one_CD by_IN one_CD ,_, with_IN nothing_NN happening_NN ._. 
+I_PRP occupied_JJ myself_PRP by_IN pacing_NN the_DT tile_NN and_CC gazing_VBG out_RB at_IN the_DT Chicago_NNP skyline_NN ,_, then_RB finally_RB sitting_VBG down_RB and_CC listen_VB to_TO my_PRP$ stomach_NN purr_NN with_IN hunger_NN ._. 
+
+Finally_RB ,_, a_DT noise_NN came_VBD through_IN and_CC broke_VBD the_DT silence_NN ._. 
+But_CC it_PRP wasn_NN ’_NN t_NN a_DT voice_NN ,_, it_PRP was_VBD ..._... just_RB a_DT mechanical_JJ noise_NN ._. 
+
+Suddenly_RB the_DT entire_JJ floor_NN underneath_IN me_PRP groaned_JJ and_CC creaked_JJ ,_, tipping_VBG to_TO a_DT nearly_RB forty_NN degree_NN angle_NN ._. 
+I_PRP yelled_VBD out_IN and_CC skidded_VBD down_RP the_DT slick_JJ marble_NN floor_NN ,_, eyes_NNS widening_VBG as_IN I_PRP realized_VBD the_DT whole_JJ thing_NN was_VBD hurtling_VBG me_PRP straight_JJ for_IN one_CD of_IN the_DT glass_NN windows_NNS ._. 
+The_DT soles_NNS of_IN my_PRP$ feet_NNS nearly_RB burned_VBN off_RP from_IN the_DT friction_NN I_PRP made_VBD trying_VBG to_TO stop_VB myself_PRP ._. 
+
+I_PRP closed_VBD my_PRP$ eyes_NNS ,_, and_CC the_DT explosion_NN of_IN glass_NN reached_VBD my_PRP$ ears_NNS ._. 
+Shards_NNP ripped_VBD at_IN my_PRP$ clothing_NN ,_, hundred_CD mile-per-hour_JJ winds_NNS immediately_RB shooting_VBG me_PRP out_IN into_IN the_DT opening_NN ,_, spinning_JJ me_PRP around_IN and_CC around_IN until_IN -_: 
+Dark_JJ ._. 
+Light_NNP ._. 
+My_PRP$ fingers_NNS felt_VBD cold_JJ stone_NN underneath_IN them_PRP ._. 
+I_PRP opened_VBD my_PRP$ eyes_NNS ._. 
+
+
+Tiled_NNP marble_NN floor_NN lay_VB underneath_IN me_PRP ._. 
+

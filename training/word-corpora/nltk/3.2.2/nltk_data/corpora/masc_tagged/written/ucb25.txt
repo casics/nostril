@@ -1,0 +1,12 @@
+Date_NN :_: Sat_NNP ,_, 16_CD Aug_NNP 2008_CD 06:55:04_NN +_NN 0000_CD From_IN :_: "_'' corbet_NN jocelyn_NN "_'' <_NN photel@landhaus-steinfeld.de_NN >_NN To_TO :_: <_NN xxx@xxx.xxx_NN >_NN Subject_NNP :_: MSG_NN #_# :_: 35691_CD Get_VB all_DT your_PRP$ meds_NNS without_IN the_DT need_NN for_IN a_DT prescription_NN The_DT ultimate_JJ convenience_NN store_NN in_IN drugs_NNS ,_, brought_VBN to_TO you_PRP in_IN just_RB one_CD click_NN !_. 
+Select_NNP from_IN thousands_NNS of_IN prescr_NN ._. drugs_NNS to_TO be_VB delivered_VBN right_NN to_TO your_PRP$ doorstep_NN ._. 
+
+-_: V_NNP &_CC C_NNP ,_, Tram_NNP ,_, Som_NNP all_DT available_JJ 
+-_: Express_NNP delivery_NN 
+-_: Secure_NNP checkout_NN via_IN credit_NN card_NN 
+-_: No_DT limit_NN to_TO quantity_NN ordered_VBD 
+-_: NO_DT DOCTOR_NNP 'S_VBZ VISITS_NNP -_: all_DT orders_NNS are_VBP filled_VBN inhouse_NN and_CC shipped_VBN out_IN straight_JJ to_TO you_PRP 
+
+Do_VBP n't_RB pay_VB a_DT single_JJ cent_NN more_JJR than_IN you_PRP have_VBP to_TO for_IN the_DT meds_NNS you_PRP need_VBP ,_, today_NN ._. 
+Click_NNP here_RB :_: www.fromhorse.com_NN 
+

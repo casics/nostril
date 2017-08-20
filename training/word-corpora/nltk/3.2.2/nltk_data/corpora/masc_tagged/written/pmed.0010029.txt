@@ -1,0 +1,20 @@
+There_EX is_VBZ a_DT much-quoted_JJ saying_NN ,_, attributed_VBD to_TO the_DT epidemiologist_NN Geoffrey_NNP Rose_NNP :_: A_DT large_JJ number_NN of_IN people_NNS exposed_VBN to_TO a_DT small_JJ risk_NN may_MD generate_VB many_JJ more_JJR cases_NNS than_IN a_DT small_JJ number_NN exposed_VBN to_TO a_DT very_RB high_JJ risk_NN ._. 
+This_DT is_VBZ true_JJ for_IN many_JJ individual_JJ risk_NN factors_NNS such_JJ as_IN salt_NN intake_NN (_( linked_VBN to_TO high_JJ blood_NN pressure_NN and_CC cardiovascular_JJ disease_NN )_) and_CC speeding_VBG on_IN the_DT highway_NN (_( linked_VBN to_TO injuries_NNS and_CC accidents_NNS )_) ._. 
+Does_VBZ it_PRP apply_VBP to_TO many_JJ other_JJ global_JJ health_NN risks_NNS ?_. 
+The_DT study_NN by_IN Anthony_NNP Rodgers_NNP and_CC colleagues_NNS suggests_VBZ that_IN it_PRP does_VBZ ._. 
+
+To_TO develop_VB effective_JJ health_NN policies_NNS ,_, one_CD must_MD understand_VB the_DT existing_VBG health_NN risks_NNS and_CC disease_NN burdens_NNS ._. 
+On_IN a_DT worldwide_NN scale_NN ,_, this_DT is_VBZ a_DT tough_JJ challenge_NN ._. 
+The_DT Global_NNP Burden_NNP of_IN Disease_NNP Database_NNP ,_, maintained_VBN by_IN the_DT World_NNP Health_NNP Organization_NNP (_( WHO_WP )_) ,_, collects_VBZ data_NNS from_IN countries_NNS around_IN the_DT world_NN on_IN risk_NN factors_NNS such_JJ as_IN tobacco_NN ,_, malnutrition_NN ,_, childhood_NN abuse_NN ,_, unsafe_JJ sex_NN ,_, childbirth_NN ,_, and_CC cholesterol_NN levels_NNS ,_, as_RB well_RB as_IN on_IN disease_NN burdens_NNS ,_, for_IN example_NN depression_NN ,_, blindness_NN ,_, and_CC diarrhea_NN ._. 
+A_DT large_JJ group_NN of_IN scientists_NNS from_IN all_DT over_IN the_DT world_NN has_VBZ developed_VBN a_DT framework_NN to_TO analyze_VB these_DT data_NNS ._. 
+To_TO compare_VB different_JJ risks_NNS or_CC burdens_NNS ,_, they_PRP calculate_VBP disability-adjusted_JJ life-years_JJ ,_, or_CC DALYs—the_NNP number_NN of_IN healthy_JJ life_NN years_NNS lost_VBD because_IN of_IN a_DT particular_JJ disease_NN or_CC risk_NN factor_NN ._. 
+
+Rodgers_NNP and_CC colleagues_NNS used_VBD data_NNS from_IN the_DT WHO_WP database_NN for_IN 26_CD risk_NN factors_NNS and_CC from_IN 14_CD epidemiological_JJ subregions_NNS of_IN the_DT world_NN to_TO calculate_VB the_DT proportion_NN of_IN risk-factor-attributable_JJ disease_NN burden_NN in_IN different_JJ population_NN subgroups_NNS defined_VBN by_IN age_NN ,_, sex_NN ,_, and_CC exposure_NN level_NN ._. 
+For_IN being_VBG underweight_NN in_IN childhood_NN ,_, for_IN example—the_NN leading_VBG risk_NN factor_NN for_IN global_JJ loss_NN of_IN healthy_JJ life—they_NN found_VBD that_IN only_RB 35_CD %_NN of_IN the_DT disease_NN burden_NN occurred_VBD in_IN severely_RB underweight_NN children_NNS ,_, the_DT rest_NN occurred_VBD in_IN those_DT only_RB moderately_RB underweight_NN ._. 
+The_DT relative_JJ risks_NNS for_IN the_DT moderately_RB underweight_NN are_VBP much_RB lower_RBR ,_, but_CC the_DT number_NN of_IN children_NNS in_IN that_DT category_NN is_VBZ so_RB large_JJ that_IN the_DT total_JJ attributable_JJ burden_NN amounted_VBD to_TO almost_RB two-thirds_NNS of_IN the_DT total_JJ global_JJ burden_NN of_IN disease_NN for_IN that_DT risk_NN factor_NN ._. 
+
+The_DT analysis_NN confirms—and_NN extends_VBZ to_TO a_DT global_JJ level—previous_JJ research_NN showing_VBG that_IN many_JJ major_JJ health_NN risks_NNS are_VBP important_JJ across_IN the_DT range_NN of_IN exposure_NN levels_NNS ,_, not_RB just_RB among_IN individuals_NNS exposed_VBN to_TO high_JJ levels_NNS of_IN risk_NN ._. 
+It_PRP also_RB points_VBZ to_TO risk_VB factors_NNS that_WDT are_VBP particularly_RB prevalent_JJ among_IN specific_JJ populations_NNS and_CC age_NN groups_NNS ,_, and_CC for_IN which_WDT highly_RB targeted_VBN interventions_NNS could_MD be_VB effective_JJ ._. 
+
+Despite_IN numerous_JJ caveats_NNS and_CC limitations_NNS of_IN studies_NNS like_IN this_DT one_CD ,_, such_JJ analyses_NNS are_VBP essential_JJ aids_NNS in_IN guiding_VBG the_DT distribution_NN of_IN limited_JJ funds_NNS to_TO lower_VB the_DT burden_NN of_IN life_NN years_NNS lost_VBD to_TO premature_JJ death_NN and_CC disability_NN ._. 
+

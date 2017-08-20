@@ -1,0 +1,61 @@
+Message-ID_NNP :_: <_NN 25473912.1075863420369.JavaMail.evans@thyme_NN >_NN Date_NN :_: Tue_NNP ,_, 15_CD May_NNP 2001_CD 06:07:31_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: j.kaminski@enron.com_NN To_TO :_: wade.cline@enron.com_NN Subject_NNP :_: RE_NNP :_: Help_VB for_IN Krishnarao_NNP Pinnamaneni_NNP Mime-Version_NNP :_: 1.0_CD Content-Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-Transfer-Encoding_NNP :_: 7_CD bit_NN Wade_NNP ,_, 
+
+Thanks_NNS for_IN your_PRP$ help_NN ._. 
+Krishna_NNP advised_VBD me_PRP of_IN the_DT conversation_NN he_PRP had_VBD with_IN you_PRP ._. 
+
+Vince_NNP 
+
+-----_SYM Original_NNP Message-----_NNP From_IN :_: Cline_NNP ,_, Wade_NNP Sent_NNP :_: Monday_NNP ,_, May_NNP 14_CD ,_, 2001_CD 1:37_NN AM_NNP To_TO :_: Vince.Kaminski@enron.com_NN Subject_NNP :_: Re_NNP :_: Help_VB for_IN Krishnarao_NNP Pinnamaneni_NNP 
+----------------------_SYM Forwarded_NNP by_IN Wade_NNP Cline_NNP /_NN ENRON_NNP __NN DEVELOPMENT_NNP on_IN 05/14/2001_CD 12:04_NN PM_NNP ---------------------------_SYM 
+Delivery_NN Failure_NN Report_NNP Your_PRP$ document_NN :_: Re_NNP :_: Help_VB for_IN Krishnarao_NNP Pinnamaneni_NNP was_VBD not_RB delivered_VBN to_TO :_: Vince_NNP J._NN Kaminski_NNP /_NN ENRON_NNP @_IN enronXgate_NN because_IN :_: Invalid_NNP /_NN unknown_JJ recipient_JJ [_NN MAPI_NNP Reason_NNP Code_NNP :_: 1_CD ,_, MAPI_NNP Diagnostic_NNP Code_NNP 1_CD ]_NN 
+What_WP should_MD you_PRP do_VB ?_. 
+You_PRP can_MD resend_NN the_DT undeliverable_JJ document_NN to_TO the_DT recipients_NNS listed_VBN above_IN by_IN choosing_VBG the_DT Resend_NNP button_NN or_CC the_DT Resend_NNP command_NN on_IN the_DT Actions_NNP menu_NN ._. 
+Once_RB you_PRP have_VBP resent_VBP the_DT document_NN you_PRP may_MD delete_VB this_DT Delivery_NN Failure_NN Report_NNP ._. 
+If_IN resending_VBG the_DT document_NN is_VBZ not_RB successful_JJ you_PRP will_MD receive_VB a_DT new_JJ failure_NN report_NN Unless_IN you_PRP receive_VBP other_JJ Delivery_NN Failure_NN Reports_NNS ,_, the_DT document_NN was_VBD successfully_RB delivered_VBN to_TO all_DT other_JJ recipients_NNS ._. 
+
+NAHOU-MSCNX_NNP 02_CD -_: LME-NOTES_NNP /_NN NA_NNP /_NN ENRON_NNP ,_, NAHOU-LNINT_NNP 01_CD /_NN Enron_NNP ,_, ENE-NS_NNP 03_CD /_NN Enron_NNP ,_, EI-NHUB_NNP 01_CD /_NN ENRON_NNP __NN DEVELOPMENT_NNP ,_, EI-NMUMBAI_NNP 01_CD /_NN ENRON_NNP __NN DEVELOPMENT_NNP 
+_________________________NN 
+To_TO :_: Vince_NNP J._NN Kaminski_NNP /_NN ENRON@enronXgate_NN cc_NN :_: Pinnamaneni_NNP Krishnarao_NNP /_NN ENRON@enronXgate_NN From_IN :_: Wade_NNP Cline_NNP /_NN ENRON_DEVELOPMENT@ENRON_DEVELOPMENT_NNP Date_NN :_: 05/14/2001_CD 12:49:39_NN AM_NNP CDT_NNP Subject_NNP :_: Re_NNP :_: Help_VB for_IN Krishnarao_NNP Pinnamaneni_NNP 
+Vince_NNP ,_, I_PRP will_MD certainly_RB try_VB ._. 
+I_PRP am_VBP not_RB optimistic_JJ primarily_RB because_IN this_DT is_VBZ handled_VBN out_IN of_IN Chennai_NNP ,_, as_IN it_PRP must_MD since_IN the_DT parents_NNS are_VBP residents_NNS of_IN Andhra_NNP Pradesh_NNP ._. 
+Our_PRP$ earlier_JJR requests_NNS for_IN visas_NNS from_IN Chennai_NNP have_VBP been_VBN a_DT very_RB mixed_JJ bag_NN ,_, with_IN us_PRP being_VBG turned_VBN down_IN more_RBR often_RB than_IN not_RB ._. 
+The_DT fact_NN of_IN the_DT matter_NN is_VBZ that_IN the_DT visa_NN officers_NNS in_IN the_DT respective_JJ consulates_NNS have_VBP incredible_JJ amounts_NNS of_IN discretion_NN and_CC ability_NN to_TO say_VB no_DT ._. 
+Once_RB they_PRP say_VBP no_DT ,_, it_PRP is_VBZ very_RB difficult_JJ to_TO reverse_VB ._. 
+
+But_CC I_PRP will_MD go_VB through_IN our_PRP$ good_JJ contacts_NNS at_IN the_DT US_NNP Consulate_NNP in_IN Mumbai_NNP ,_, as_IN this_DT has_VBZ had_VBN more_JJR success_NN than_IN us_PRP speaking_VBG directly_RB to_TO Chennai_NNP ._. 
+
+Wade_NNP 
+
+From_IN :_: Vince_NNP J._NN Kaminski_NNP /_NN ENRON@enronXgate_NNP on_IN 05/11/2001_CD 10:37_NN AM_NNP CDT_NNP To_TO :_: Wade_NNP Cline_NNP /_NN ENRON_DEVELOPMENT@ENRON_DEVELOPMENT_NNP cc_NN :_: Vince_NNP J._NN Kaminski_NNP /_NN ENRON@enronXgate_NNP ,_, Pinnamaneni_NNP Krishnarao_NNP /_NN ENRON@enronXgate_NNP 
+Subject_NNP :_: Help_VB for_IN Krishnarao_NNP Pinnamaneni_NNP 
+Wade_NNP ,_, 
+
+I_PRP am_VBP writing_VBG to_TO ask_VB you_PRP to_TO help_VB my_PRP$ associate_JJ ,_, Krishnarao_NNP Pinnamaneni_NNP ,_, who_WP faces_VBZ a_DT very_RB difficult_JJ personal_JJ situation_NN ._. 
+You_PRP probably_RB remember_VBP Krishna_NNP from_IN his_PRP$ visits_NNS to_TO our_PRP$ Bombay_NNP office_NN when_WRB he_PRP was_VBD helping_VBG you_PRP on_IN a_DT few_JJ projects_NNS ._. 
+
+A_DT brief_JJ outline_NN of_IN the_DT facts_NNS ._. 
+
+1_CD ._. His_PRP$ wife_NN is_VBZ pregnant_JJ ._. 
+She_PRP gave_VBD birth_NN to_TO their_PRP$ daughter_NN ,_, Pallavi_NNP ,_, a_DT few_JJ years_NNS ago_RB after_IN a_DT very_RB complicated_VBN pregnancy_NN ._. 
+Pallavi_NNP was_VBD a_DT premature_JJ child_NN and_CC her_PRP$ survival_NN was_VBD a_DT miracle_NN (_( we_PRP all_DT thank_VBP the_DT Almighty_NNP for_IN this_DT wonderful_JJ child_NN )_) ._. 
+Current_JJ pregnancy_NN is_VBZ also_RB very_RB complicated_VBN ._. 
+
+2_CD ._. Krishna_NNP invited_VBD his_PRP$ in-laws_JJ to_TO visit_VB and_CC stay_VB with_IN them_PRP to_TO care_VB for_IN his_PRP$ wife_NN ._. 
+The_DT application_NN for_IN a_DT tourist_NN visa_NN was_VBD denied_VBN and_CC the_DT reason_NN given_VBN for_IN the_DT denial_NN was_VBD that_IN they_PRP had_VBD overstayed_JJ the_DT term_NN of_IN the_DT visa_NN during_IN the_DT previous_JJ visit_NN ._. 
+The_DT irony_NN is_VBZ that_IN they_PRP complied_VBD with_IN the_DT US_NNP laws_NNS :_: they_PRP had_VBD asked_VBN for_IN an_DT extension_NN of_IN the_DT visa_NN and_CC the_DT extension_NN was_VBD granted_VBN ._. 
+
+The_DT company_NN can_MD ,_, of_IN course_NN ,_, intervene_VB on_IN Krishna_NNP 's_POS behalf_NN ._. 
+Krishna_NNP made_VBD an_DT outstanding_JJ contribution_NN to_TO Enron_NNP (_( he_PRP is_VBZ currently_RB a_DT VP_NNP )_) and_CC to_TO the_DT American_JJ society_NN ._. 
+I_PRP am_VBP sure_JJ that_IN Ken_NNP Lay_NNP would_MD have_VB no_DT objections_NNS to_TO write_VB a_DT letter_NN on_IN his_PRP$ behalf_NN to_TO the_DT State_NNP Department_NNP ._. 
+
+I_PRP would_MD prefer_VB ,_, however_RB ,_, to_TO try_VB informal_JJ channels_NNS first_JJ to_TO avoid_VB confrontational_JJ approach_NN ._. 
+It_PRP may_MD be_VB better_JJR for_IN all_PDT the_DT involved_VBN in_IN the_DT long-run_JJ ._. 
+
+I_PRP hope_VBP you_PRP can_MD use_VB your_PRP$ personal_JJ contacts_NNS to_TO intervene_VB on_IN Krishna_NNP 's_POS behalf_NN and_CC ask_VB for_IN a_DT reversal_NN of_IN the_DT decision_NN on_IN humanitarian_JJ grounds_NNS ._. 
+I_PRP shall_MD fax_NN to_TO you_PRP a_DT copy_NN of_IN the_DT decision_NN ._. 
+
+Thanks_NNS ._. 
+
+Vince_NNP 
+
+<_NN <_NN File_NNP :_: Krishna_NNP 's_POS Letter.DOC_NNP >_NN >_NN 

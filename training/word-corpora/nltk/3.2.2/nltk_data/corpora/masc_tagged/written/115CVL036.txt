@@ -1,0 +1,31 @@
+MMM_NNP F_NNP __NN NAME_NNP L_NNP __NN NAME_NNP TITLE_NNP COMPANY_NNP ADDRESS_NNP CITY_NNP ,_, ST_NNP ZIP_NNP March_NNP 4_CD ,_, 1999_CD 
+
+Dear_RB LTR_NNP __NN NAME_NNP :_: 
+
+CCI_NNP has_VBZ come_VBN a_DT long_JJ way_NN in_IN the_DT last_JJ five_CD years_NNS ._. 
+We_PRP 've_VBP worked_VBN hard_JJ to_TO structrue_NN the_DT organization_NN so_IN that_IN we_PRP 've_VBP ready_JJ to_TO move_VB boldly_RB into_IN the_DT next_JJ century_NN ,_, and_CC I_PRP believe_VBP that_IN we_PRP have_VBP an_DT exciting_JJ and_CC successful_JJ future_JJ ahead_RB of_IN us_PRP ._. 
+
+One_CD of_IN the_DT areas_NNS we_PRP 've_VBP decided_VBN to_TO focus_VB on_IN is_VBZ development_NN ._. 
+It_PRP 's_VBZ clear_JJ that_IN if_IN we_PRP do_VBP n't_RB increase_VB our_PRP$ base_NN of_IN private_JJ funding_NN ,_, we_PRP wo_MD n't_RB have_VB the_DT kind_NN of_IN control_NN we_PRP need_VBP to_TO ensure_VB the_DT continued_VBN success_NN of_IN our_PRP$ centers_NNS and_CC the_DT very_RB important_JJ services_NNS they_PRP offer_VBP ._. 
+In_IN 1998_CD ,_, CCI_NNP served_VBD 31,484_CD individuals_NNS right_NN in_IN their_PRP$ own_JJ backyards_NNS ._. 
+Where_WRB else_RB would_MD that_IN many_JJ people_NNS turn_VBP if_IN CCI_NNP were_VBD n't_RB there_EX to_TO help_VB ?_. 
+
+The_DT community_NN initiatives_NNS committee_NN is_VBZ working_VBG with_IN our_PRP$ development_NN office_NN to_TO put_VB together_RB a_DT long-range_JJ fundraising_NN plan_NN that_WDT will_MD ultimately_RB bring_VB more_JJR money_NN into_IN our_PRP$ centers_NNS ._. 
+This_DT in_IN turn_NN will_MD help_VB us_PRP to_TO increase_VB and_CC even_RB improve_VB the_DT services_NNS we_PRP offer_VBP ._. 
+
+With_IN this_DT in_IN mind_NN ,_, I_PRP am_VBP asking_VBG each_DT one_CD of_IN you_PRP to_TO make_VB a_DT personal_JJ contribution_NN of_IN $50_NN ,_, $100_NN or_CC even_RB $1,000_NN to_TO show_VB that_IN you_PRP believe_VBP in_IN the_DT work_NN that_IN we_PRP do_VBP and_CC are_VBP willing_JJ to_TO support_VB it_PRP with_IN both_DT your_PRP$ time_NN and_CC your_PRP$ finances_NNS ._. 
+This_DT way_NN when_WRB we_PRP go_VBP out_IN to_TO ask_VB for_IN community_NN support_NN and_CC are_VBP asked_VBN about_IN our_PRP$ board_NN giving_VBG level_NN ,_, we_PRP can_MD show_VB our_PRP$ in-house_JJ commitment_NN through_IN 100_CD %_NN board_NN participation_NN ._. 
+I_PRP also_RB encourage_VBP you_PRP to_TO seek_VB additional_JJ support_NN through_IN your_PRP$ company_NN ,_, church_NN ,_, or_CC service_NN organization_NN ._. 
+
+I_PRP know_VBP that_IN our_PRP$ staff_NN and_CC committee_NN members_NNS will_MD be_VB happy_JJ to_TO go_VB with_IN you_PRP to_TO talk_VB to_TO these_DT group_NN if_IN you_PRP need_VBP their_PRP$ help_NN ._. 
+We_PRP 're_VBP at_IN an_DT exciting_JJ juncture_NN and_CC it_PRP wo_MD n't_RB be_VB long_RB until_IN we_PRP start_VBP seeing_VBG solid_JJ results_NNS from_IN our_PRP$ efforts_NNS ._. 
+Your_PRP$ financial_JJ support_NN of_IN the_DT development_NN process_NN is_VBZ just_RB one_CD step_NN in_IN making_VBG CCI_NNP a_DT stronger_JJR ,_, more_RBR efficient_JJ and_CC ultimately_RB more_RBR effective_JJ federation_NN of_IN service_NN providers_NNS ._. 
+Please_VB ,_, make_VB your_PRP$ contribution_NN today_NN ._. 
+
+Sincerely_NNP ,_, 
+
+J._NN Chris_NNP Graffeo_NNP Chair_NNP 
+
+P.S._NN 
+If_IN you_PRP have_VBP any_DT questions_NNS ,_, feel_VBP free_JJ to_TO call_VB Valery_NNP De_NNP Long_NNP at_IN CCI_NNP ,_, 638_CD -_: 3360_CD x_SYM 23_CD ._. 
+

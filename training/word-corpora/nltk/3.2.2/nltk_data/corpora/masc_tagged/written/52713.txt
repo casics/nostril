@@ -1,0 +1,10 @@
+Message-ID_NNP :_: <_NN 5428433.1075857060219.JavaMail.evans@thyme_NN >_NN Date_NN :_: Tue_NNP ,_, 11_CD Jan_NNP 2000_CD 00:02:00_NN -_: 0800_CD (_( PST_NNP )_) From_IN :_: richard.shapiro@enron.com_NN To_TO :_: vince.kaminski@enron.com_NN Subject_NNP :_: Re_NNP :_: Congratulations_UH Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Thanks_NNS ._. 
+
+Vince_NNP J_NNP Kaminski_NNP @_IN ECT_NNP 01/11/2000_CD 08:01_NN AM_NNP To_TO :_: Richard_NNP Shapiro_NNP /_NN HOU_NNP /_NN EES_NNP @_IN EES_NNP cc_NN :_: Subject_NNP :_: Congratulations_UH 
+Rick_NNP ,_, 
+
+I_PRP have_VBP just_RB looked_VBN at_IN the_DT memo_NN regarding_VBG promotions_NNS ._. 
+Congratulations_UH -_: well_RB deserved_VBD ._. 
+
+Vince_NNP 
+

@@ -1,0 +1,72 @@
+AT&T_NNP 
+ClassicGoldPlatinum_NNP 
+
+
+Dear_RB Cardmember_NNP :_: 
+
+
+Were_VBD pleased_VBN to_TO send_VB you_PRP the_DT enclosed_VBN AT&T_NNP Universal_NNP Card_NNP to_TO replace_VB your_PRP$ current_JJ card_NN ._. 
+Please_VB destroy_VB your_PRP$ old_JJ card_NN and_CC begin_VB using_VBG your_PRP$ new_JJ card_NN as_IN of_IN the_DT “_NN valid_JJ date_NN ”_NN printed_VBN on_IN your_PRP$ new_JJ card_NN ._. 
+Please_VB see_VB your_PRP$ card_NN carrier_NN for_IN additional_JJ information_NN and_CC instructions_NNS ._. 
+
+
+Delivering_NNP your_PRP$ new_JJ card_NN gives_VBZ us_PRP an_DT opportunity_NN to_TO remind_VB you_PRP how_WRB we_PRP ’re_VBP delivering_VBG more_JJR ways_NNS to_TO make_VB your_PRP$ card_NN more_RBR useful_JJ ._. 
+We_PRP ’ve_VBP made_VBD your_PRP$ card_NN easier_JJR to_TO use_VB with_IN features_NNS you_PRP can_MD customize_NN yourself_PRP …_NN more_RBR valuable_JJ with_IN special_JJ savings_NNS programs_NNS ._. 
+
+
+Convenience_JJ features_NNS 
+
+·_NN AT&T_NNP Calling_VBG Card_NNP feature_NN Use_NN your_PRP$ card_NN to_TO make_VB local_JJ ,_, long_JJ distance_NN ,_, even_RB international_JJ calls_NNS from_IN virtually_RB any_DT phone_NN ._. 
+Simply_RB dial_NN 1_CD 800_CD CALL_NNP ATT_NNP ®_NN and_CC follow_VB the_DT recorded_JJ instructions_NNS ._. 
+
+
+·_NN Account_NNP Online_NNP View_NNP your_PRP$ statement_NN ,_, see_VB unbilled_JJ activity_NN or_CC pay_VB your_PRP$ bill_NN on_IN the_DT Internet_NN ._. 
+Look_VB for_IN the_DT Instant_NNP Access_NNP Code_NNP on_IN your_PRP$ statement_NN ,_, then_RB go_VB to_TO www.universalcard.com_NN and_CC follow_VB the_DT instructions_NNS ._. 
+
+
+·_NN AutoPay_NNP EFT_NNP Payments_NNS Skip_NNP writing_VBG checks_NNS and_CC have_VBP your_PRP$ payment_NN made_VBN electronically_RB from_IN your_PRP$ bank_NN account_NN each_DT month_NN ._. 
+Enroll_NNP on_IN Internetor_NNP call_NN Customer_NN Service_NNP for_IN details_NNS ._. 
+
+
+Personalized_NNP features_NNS 
+
+·_NN Cycle_NNP Date_NN You_PRP can_MD time_VB your_PRP$ statement_NN and_CC payments_NNS to_TO coincide_VB with_IN convenient_JJ times_NNS of_IN the_DT month_NN by_IN choosing_VBG your_PRP$ billing_NN cycle_NN date_NN ._. 
+
+
+·_NN Personal_NNP Identification_NNP Number_NNP (_( PIN_NNP )_) Choose_VB your_PRP$ own_JJ PIN_NNP to_TO use_VB for_IN cash_NN access_NN and_CC calling_VBG ._. 
+
+
+·_NN Calling_VBG Card_NNP Number_NNP Choose_VB your_PRP$ own_JJ calling_NN card_NN number_NN too_RB ,_, to_TO make_VB calling_VBG easier_JJR ._. 
+
+
+Save_VB on_IN calls_VBZ with_IN the_DT AT&T_NNP One_CD Rate_NNP Calling_VBG Card_NNP Plan_NNP ._. 
+
+
+If_IN you_PRP haven_NN ’_NN t_NN already_RB enrolled_VBD ,_, sign_NN up_RP for_IN this_DT plan_NN that_WDT saves_VBZ you_PRP money_NN on_IN your_PRP$ AT&T_NNP Universal_NNP Card_NNP calls_VBZ ._. 
+You_PRP get_VBP the_DT low_JJ rate_NN of_IN 25_CD cents_NNS a_DT minute_NN anytime_RB ,_, anywhere_RB in_IN the_DT U.S._NNP on_IN all_DT your_PRP$ AT&T_NNP Universal_NNP Card_NNP calls_VBZ when_WRB you_PRP make_VBP the_DT call_NN yourself_PRP by_IN dialing_VBG 1_CD 800_CD CALL_NNP ATT_NNP ._. 
+To_TO enroll_VB ,_, call_NN 1_CD 800_CD 741_CD -_: 9302_CD ._. 
+The_DT low_NN ,_, $1_NN monthly_JJ access_NN fee_NN will_MD be_VB conveniently_RB billed_VBN to_TO your_PRP$ account_NN ._. 
+
+
+For_IN more_JJR information_NN on_IN any_DT of_IN these_DT features_NNS ,_, call_NN us_PRP at_IN 1_CD 800_CD 423_CD -_: 4343_CD ._. 
+Thank_VB you_PRP for_IN carrying_VBG the_DT AT&T_NNP Universal_NNP Card_NNP ._. 
+We_PRP look_VBP forward_RB to_TO continuing_VBG to_TO provide_VB you_PRP with_IN a_DT card_NN that_WDT grows_VBZ with_IN you_PRP through_IN the_DT years_NNS ahead_RB ._. 
+
+
+Sincerely_NNP ,_, 
+
+
+
+A_DT 
+Mark_NNP Gilder_NNP 
+Vice_NNP President_NNP ,_, Marketing_NNP 
+Universal_NNP Card_NNP Services_NNPS Corp_NNP ._. 
+
+
+
+Calls_NNS made_VBN from_IN payphones_NNS are_VBP subject_JJ to_TO a_DT surcharge_NN ._. 
+AT&_NNP Ts_NNP surcharge_NN is_VBZ up_RB tp_NN $30_NN per_IN call_NN ._. 
+
+
+20_CD %_NN POST_NNP CONSUMER_NN WASTE_NNP 
+

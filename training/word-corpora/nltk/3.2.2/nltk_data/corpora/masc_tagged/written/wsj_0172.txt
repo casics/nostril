@@ -1,0 +1,10 @@
+First_LS of_IN America_NNP Bank_NNP Corp_NNP ._. said_VBD it_PRP completed_VBD its_PRP$ acquisition_NN of_IN Midwest_NNP Financial_NNP Group_NNP Inc._NN for_IN about_IN $250_NN million_CD ._. 
+First_LS of_IN America_NNP ,_, which_WDT now_RB has_VBZ 45_CD banks_NNS and_CC $12.5_NN billion_CD in_IN assets_NNS ,_, announced_VBD an_DT agreement_NN to_TO acquire_VB the_DT Peoria_NNP ,_, Ill_NNP ._. ,_, bank_NN holding_VBG company_NN in_IN January_NNP ._. 
+
+Midwest_NNP Financial_NNP has_VBZ $2.3_NN billion_CD in_IN assets_NNS and_CC eight_CD banks_NNS ._. 
+The_DT Midwest_NNP Financial_NNP subsidiary_NN banks_NNS will_MD continue_VB to_TO operate_VB under_IN their_PRP$ current_JJ names_NNS until_IN early_JJ 1990_CD ,_, when_WRB each_DT will_MD adopt_VB the_DT First_CD of_IN America_NNP name_NN ._. 
+
+Kalamazoo_NNP ,_, Mich_NNP ._. -_- based_JJ First_CD of_IN America_NNP said_VBD it_PRP will_MD eliminate_VB the_DT 13_CD management_NN positions_NNS of_IN the_DT former_JJ Midwest_NNP Financial_NNP parent_NN company_NN ._. 
+First_LS of_IN America_NNP said_VBD some_DT of_IN the_DT managers_NNS will_MD take_VB other_JJ jobs_NNS with_IN First_CD of_IN America_NNP ._. 
+But_CC it_PRP said_VBD that_IN severance_NN payments_NNS to_TO those_DT executives_NNS not_RB staying_VBG with_IN the_DT company_NN will_MD reduce_VB First_CD of_IN America_NNP 's_POS operating_NN results_NNS for_IN 1989_CD by_IN $3_NN million_CD to_TO $4_NN million_CD ,_, or_CC 15_CD cents_NNS to_TO 20_CD cents_NNS a_DT share_NN ._. 
+

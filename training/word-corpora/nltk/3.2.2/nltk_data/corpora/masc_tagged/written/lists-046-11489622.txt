@@ -1,0 +1,36 @@
+docno_NN =_SYM "_'' lists-_NN 046_CD -_: 11489622_CD "_'' name_NN =_SYM "_'' Dave_NNP Raggett_NNP "_'' email_NN =_SYM "_'' dsr@w3.org_NN "_'' sent_VBD =_SYM "_'' Fri_NNP ,_, 22_CD Mar_NNP 1996_CD 18:19:06_NN -_: 0500_CD "_'' subject_JJ =_SYM "_'' Minutes_NNPS for_IN 18th_JJ March_NNP "_'' To_TO :_: w3c-math-erb@w3.org_NN Meeting_VBG Notes_NNS of_IN Math-_NNP ERB_NNP Teleconference_NNP :_: Thursday_NNP 18th_JJ March_NNP '_POS 96_CD Present_NN :_: Bruce_NNP Smith_NNP ,_, Wolfram_NNP Neil_NNP Soiffer_NNP ,_, Wolfram_NNP T.V._NN Raman_NNP ,_, Adobe_NNP Dave_NNP Raggett_NNP ,_, W_NNP 3_CD C_NNP 
+Meeting_VBG time_NN /_NN frequency_NN Dave_NNP has_VBZ been_VBN unable_JJ to_TO find_VB any_DT time_NN that_IN all_DT of_IN us_PRP can_MD make_VB ._. 
+The_DT new_JJ time_NN will_MD be_VB every_DT Monday_NNP at_IN 1300_CD EST_NNP until_IN further_JJ notice_NN ._. 
+Dave_NNP will_MD attempt_VB to_TO keep_VB Nico_NNP in_IN the_DT loop_NN via_IN email_NN on_IN the_DT mailing_NN list_NN and_CC separate_JJ phone_NN calls_NNS ._. 
+
+Adding_VBG further_JJ People_NNS to_TO the_DT Math-ERB_NNP Stu_NNP Weibel_NNP of_IN OCLC_NNP sends_VBZ his_PRP$ regrets_NNS that_IN they_PRP are_VBP too_RB busy_JJ to_TO accept_VB the_DT invitation_NN at_IN this_DT time_NN ._. 
+Elsevier_NNP have_VBP contacted_VBN the_DT AMS_NNP ._. 
+Ralph_NNP Youngen_NNP ,_, Associate_NNP Director_NNP ,_, Electronic_NNP Product_NNP Development_NNP for_IN AMS_NNP has_VBZ accepted_VBN the_DT invitation_NN to_TO join_VB the_DT group_NN ,_, along_IN with_IN a_DT couple_NN of_IN his_PRP$ colleagues_NNS ._. 
+
+The_DT need_NN for_IN full_JJ SGML_NNP ?_. We_PRP discussed_VBD whether_IN it_PRP was_VBD necessary_JJ to_TO use_VB SGML_NNP for_IN the_DT math_NN notation_NN ._. 
+Basically_RB ,_, we_PRP have_VBP a_DT preference_NN for_IN an_DT extensible_JJ operator_NN precedence_NN notation_NN ._. 
+This_DT can_MD be_VB included_VBN in_IN HTML_NNP documents_NNS and_CC handled_VBN correctly_RB by_IN SGML_NNP processing_NN applications_NNS via_IN the_DT NOTATION_NNP mechanism_NN ._. 
+
+When_WRB using_VBG operator_NN precedence_NN ,_, there_EX is_VBZ a_DT need_NN to_TO constrain_VB the_DT context_NN in_IN which_WDT given_VBN operators_NNS can_MD be_VB used_VBN ._. 
+Niel_NNP said_VBD this_DT was_VBD n't_RB as_RB simple_JJ as_IN at_IN first_JJ it_PRP might_MD appear_VB ._. 
+Dave_NNP will_MD work_VB on_IN a_DT formal_JJ mechanism_NN for_IN this_DT ._. 
+
+It_PRP is_VBZ also_RB unclear_JJ as_IN to_TO when_WRB macro_NN processing_NN is_VBZ applied_VBN ._. 
+Further_RB discussion_NN on_IN this_DT is_VBZ needed_VBN ._. 
+It_PRP should_MD be_VB practical_JJ for_IN parsers_NNS to_TO deal_VB with_IN missing_VBG arguments_NNS sensibly_RB ._. 
+This_DT in_IN general_JJ depends_VBZ on_IN the_DT context_NN ._. 
+
+Raman_NNP voiced_VBD a_DT concern_NN on_IN Bruce_NNP 's_POS comment_NN on_IN 2_CD D_NNP pictures_NNS ._. 
+We_PRP agreed_VBD however_RB ,_, that_IN a_DT fixed_JJ set_NN of_IN "_'' layout_NN "_'' idioms_NNS are_VBP sufficient_JJ for_IN HTML-math_NNP ._. 
+Raman_NNP promised_VBD to_TO propose_VB some_DT new_JJ wording_NN ._. 
+He_PRP also_RB gave_VBD us_PRP a_DT URL_NNP for_IN his_PRP$ test_NN suite_NN ,_, which_WDT I_PRP have_VBP added_VBN to_TO the_DT math-erb_JJ home_NN page_NN ._. 
+
+We_PRP ended_VBD by_IN discussing_VBG some_DT of_IN the_DT parsing_VBG issues_NNS for_IN mismatched_JJ brackets_NNS and_CC number_NN literals_NNS ._. 
+It_PRP seems_VBZ clear_JJ that_DT bracket_NN matching_VBG ca_MD n't_RB in_IN general_JJ be_VB required_VBN ._. 
+Authors_NNP should_MD be_VB able_JJ to_TO control_VB the_DT settings_NNS for_IN this_DT and_CC for_IN literals_NNS ._. 
+
+Dave_NNP has_VBZ posted_VBN a_DT dump_NN of_IN his_PRP$ understanding_NN as_IN a_DT result_NN of_IN this_DT conference_NN call_NN ._. 
+See_VB :_: current_JJ thoughts_NNS ._. 
+
+Dave_NNP Raggett_NNP ,_, 22nd_JJ March_NNP ._. 
+--_: Dave_NNP Raggett_NNP <_NN dsr@w3.org_NN >_NN tel_NN :_: +_NN 1_CD (_( 617_CD )_) 258_CD 5741_CD fax_NN :_: +_NN 1_CD (_( 617_CD )_) 258_CD 5999_CD World_NNP Wide_NNP Web_NNP Consortium_NNP ,_, 545_CD Technology_NNP Square_NNP ,_, Cambridge_NNP ,_, MA_NNP 02139_CD url_NN =_SYM http://www.w3.org/People/Raggett_NN 

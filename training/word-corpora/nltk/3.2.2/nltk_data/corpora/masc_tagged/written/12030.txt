@@ -1,0 +1,19 @@
+Message-ID_NNP :_: <_NN 12434767.1075852813161.JavaMail.evans@thyme_NN >_NN Date_NN :_: Tue_NNP ,_, 25_CD Sep_NNP 2001_CD 10:35:20_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: theresa.connor-smith@enron.com_NN To_TO :_: kenneth.lay@enron.com_NN Subject_NNP :_: Confidential_NNP Question_NNP Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Dear_RB Ken_NNP ,_, 
+
+I_PRP 'm_VBP not_RB sure_JJ quite_RB were_VBD to_TO turn_VB but_CC was_VBD hoping_VBG you_PRP could_MD assist_VB me_PRP ._. 
+I_PRP would_MD like_VB to_TO keep_VB this_DT confidential_JJ especially_RB regarding_VBG the_DT New_NNP York_NNP Office_NNP ._. 
+As_IN my_PRP$ request_NN has_VBZ nothing_NN to_TO do_VB with_IN the_DT people_NNS in_IN this_DT office_NN or_CC the_DT group_NN they_PRP are_VBP wonderful_JJ 
+
+I_PRP 've_VBP been_VBN with_IN Enron_NNP since_IN '_POS 97_CD and_CC I_PRP relocated_VBD up_IN to_TO Connecticut_NNP to_TO work_VB with_IN the_DT New_NNP Power_NNP Company_NNP when_WRB I_PRP thought_VBD that_IN the_DT Enron_NNP employees_NNS would_MD stay_VB Enron_NNP employees_NNS ._. 
+Afterwards_RB of_IN course_NN we_PRP all_DT were_VBD changed_VBN to_TO NewPower_NNP employees_NNS ._. 
+After_IN a_DT couple_NN of_IN months_NNS I_PRP made_VBD the_DT move_NN back_RB to_TO Enron_NNP and_CC went_VBD to_TO the_DT New_NNP York_NNP office_NN and_CC work_NN with_IN the_DT Enron_NNP Metals_NNP group_NN here_RB at_IN 53rd_CD street_NN ._. 
+(_( It_PRP was_VBD never_RB my_PRP$ intention_NN to_TO leave_VB Enron_NNP )_) 
+
+Since_IN the_DT bombing_NN I_PRP feel_VBP very_RB displaced_VBN and_CC my_PRP$ husband_NN and_CC I_PRP would_MD really_RB like_IN to_TO come_VB back_RB to_TO Houston_NNP and_CC was_VBD wondering_VBG if_IN you_PRP could_MD help_VB me_PRP ._. 
+I_PRP was_VBD on_IN the_DT trading_NN floor_NN working_VBG with_IN Dave_NNP Delainey_NNP 's_POS group_NN when_WRB he_PRP was_VBD in_IN ENA_NNP and_CC also_RB was_VBD the_DT Exec_NNP Secretary_NNP /_NN Coordinator_NNP with_IN the_DT MWB_NNP group_NN in_IN George_NNP Warsoff_NNP 's_POS group_NN ._. 
+
+I_PRP would_MD appreciate_VB it_PRP very_RB much_RB if_IN you_PRP were_VBD able_JJ to_TO assist_VB /_NN guide_NN me_PRP ._. 
+
+Sincerely_NNP ,_, 
+Teri_NNP 
+Teri_NNP Connor-_NNP Smith_NNP Admin_NNP Coordinator_NNP Enron_NNP Metals_NNP &_CC Commodities_NNP Corp_NNP tsmith_NN 3@enron.com_NN (_( 212_CD )_) 715_CD -_: 5601_CD 

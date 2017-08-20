@@ -1,0 +1,88 @@
+docno_NN =_SYM "_'' lists-_NN 003_CD -_: 2205935_CD "_'' received_VBD =_SYM "_'' Fri_NNP Jul_NNP 9_CD 09:47:54_NN 1993_CD EST_NNP "_'' sent_VBD =_SYM "_'' Fri_NNP ,_, 09_CD Jul_NNP 1993_CD 18:25:04_NN +_NN 0200_CD "_'' name_NN =_SYM "_'' Andr_NNP '_POS e_SYM PIRARD_NNP "_'' email_NN =_SYM "_'' PIRARD@vm1.ulg.ac.be_NN "_'' subject_JJ =_SYM "_'' Thoughts_NNP about_IN characters_NNS transmission_NN "_'' id_NN =_SYM "_'' 01H0C1LQB78Y8WWAUK@INNOSOFT.COM_NN "_'' inreplyto_NN =_SYM "_'' Tue_NNP ,_, 6_CD Jul_NNP 93_CD 20:10_NN GMT_NNP "_'' To_TO :_: "_'' Robert_NNP G._NN Moskowitz_NNP "_'' <_NN 0003858921@mcimail.com_NN >_NN ,_, ietf-charsets@INNOSOFT.COM_NN ,_, I_PRP have_VBP not_RB much_JJ time_NN to_TO spend_VB on_IN this_DT subject_NN ,_, but_CC I_PRP would_MD have_VB felt_VBN bad_JJ not_RB to_TO express_VB these_DT opinions_NNS once_RB ._. 
+
+I_PRP have_VBP learned_VBN with_IN much_RB interest_NN that_IN people_NNS envision_VBP solutions_NNS for_IN international_JJ characters_NNS data_NNS exchange_VBP with_IN a_DT wider_JJR point_NN of_IN view_NN than_IN usually_RB heard_VBN in_IN the_DT networking_NN sphere_NN ._. 
+I_PRP have_VBP been_VBN spending_VBG quite_RB a_DT time_NN of_IN my_PRP$ life_NN with_IN such_JJ problems_NNS ._. 
+I_PRP thought_VBD I_PRP could_MD contribute_VB with_IN a_DT small_JJ text_NN explaining_VBG the_DT way_NN I_PRP have_VBP finally_RB come_VB to_TO think_VB of_IN the_DT problem_NN ._. 
+Nothing_NN totally_RB new_JJ ,_, probably_RB ,_, but_CC a_DT different_JJ shed_VB of_IN light_JJ ,_, maybe_RB ._. 
+The_DT text_NN may_MD sound_VB theoretical_JJ at_IN first_NN ._. 
+It_PRP is_VBZ just_RB terse_JJ ._. 
+The_DT ideas_NNS are_VBP based_VBN on_IN experience_NN ._. 
+They_PRP have_VBP been_VBN put_VBN to_TO use_VB in_IN the_DT field_NN of_IN 8_CD -_: bit_NN characters_NNS ._. 
+I_PRP participated_VBD to_TO the_DT design_NN of_IN Kermit_NNP multinational_JJ 8_CD -_: bit_NN characters_NNS support_VBP and_CC the_DT TCP_NNP /_NN IP_NNP network_NN I_PRP work_VBP for_IN is_VBZ well_RB on_IN the_DT way_NN towards_IN the_DT the_DT same_JJ theory_NN that_IN every_DT character_NN on_IN the_DT communication_NN line_NN is_VBZ ISO_NNP 8859_CD -_: 1_CD ._. 
+Any_DT exception_NN to_TO this_DT ,_, like_IN translating_VBG EBCDIC_NNP directly_RB to_TO PC_NN code_NN on_IN one_CD machine_NN ,_, is_VBZ considered_VBN harmful_JJ to_TO our_PRP$ internetworking_VBG ,_, even_RB if_IN convenient_JJ ._. 
+
+Every_DT piece_NN working_VBG towards_IN a_DT common_NN well_RB defined_VBN goal_NN finally_RB pays_VBZ more_JJR when_WRB all_DT parts_NNS start_VBP to_TO clutch_NN than_IN wandering_VBG for_IN immediate_JJ interest_NN ._. 
+And_CC I_PRP hope_VBP that_IN saying_VBG that_IN my_PRP$ language_NN is_VBZ French_JJ will_MD make_VB the_DT ideas_NNS in_IN a_DT difficult_JJ to_TO write_VB text_NN even_RB more_RBR convincing_JJ ,_, despite_IN being_VBG short_JJ ._. 
+
+Networking_NNP has_VBZ had_VBN for_IN long_JJ the_DT problem_NN of_IN a_DT common_JJ representation_NN of_IN computer-specific_JJ data_NNS (_( numbers_NNS ,_, bit_NN strings_NNS ..._... )_) on_IN the_DT wire_NN (_( rather_RB ,_, on_IN the_DT connection_NN )_) ,_, because_IN different_JJ computers_NNS had_VBD different_JJ conventions_NNS for_IN them_PRP ._. 
+To_TO solve_VB this_DT problem_NN ,_, rules_NNS like_IN XDR_NNP (_( external_JJ data_NNS representation_NN )_) have_VBP been_VBN devised_VBN ,_, and_CC ,_, because_IN it_PRP was_VBD so_RB important_JJ ,_, the_DT rules_NNS have_VBP been_VBN adopted_VBN ._. 
+
+Character_NN data_NNS caused_VBD little_JJ problem_NN because_IN ASCII_NNP was_VBD assumed_VBN ,_, full_JJ stop_NN ._. 
+There_EX was_VBD hardly_RB an_DT expressed_JJ rule_NN ._. 
+It_PRP was_VBD tacit_JJ computer_NN culture_NN ._. 
+
+Now_RB that_DT networking_NN reaches_VBZ its_PRP$ real_JJ dimension_NN of_IN an_DT international_JJ mesh_NN ,_, the_DT problem_NN of_IN national_JJ languages_NNS usage_NN becomes_VBZ very_RB real_JJ ,_, at_IN least_JJS locally_RB ,_, but_CC more_JJR and_CC more_RBR internationally_RB ._. 
+Any_DT computer_NN has_VBZ to_TO exchange_VB more_JJR than_IN ASCII_NNP ._. 
+
+Many_JJ generous_JJ people_NNS have_VBP spent_VBN much_JJ time_NN to_TO have_VB system_NN Si_NNP with_IN character_NN code_NN Ci_NNP translate_VB data_NNS for_IN system_NN Sj_NNP with_IN code_NN Cj_NNP under_IN protocol_NN Pk_NNP ._. 
+With_IN much_JJ respect_NN for_IN their_PRP$ work_NN ,_, this_DT is_VBZ not_RB (_( no_RB longer_RB )_) the_DT way_NN to_TO do_VB it_PRP ._. 
+Supposing_NNP that_IN N_NNP character_NN codes_NNS exist_VBP on_IN different_JJ systems_NNS ,_, the_DT effort_NN amounts_NNS to_TO M_NNP *_NN N_NNP *_NN *_NN 2_CD to_TO reach_VB a_DT complete_JJ solution_NN ._. 
+Let_VB us_PRP count_VBP the_DT different_JJ character_NN codes_NNS (_( IBM_NNP have_VBP their_PRP$ share_NN )_) and_CC protocols_NNS ,_, the_DT bill_NN is_VBZ amazing_JJ !_. 
+
+The_DT __NN most_JJS __NN important_JJ __NN point_NN __NN is_VBZ that_IN a_DT single_JJ common_JJ representation_NN code_NN be_VB defined_VBN __NN for_IN __NN the_DT __NN line_NN __NN (_( suiting_VBG the_DT purpose_NN ,_, namely_RB to_TO cover_VB all_DT national_JJ languages_NNS in_IN one_CD single_JJ way_NN )_) and_CC that_IN people_NNS be_VB instructed_VBN that_IN every_DT bit_NN of_IN text_NN should_MD travel_VB in_IN that_DT code_NN on_IN the_DT wire_NN ,_, whatever_WDT __NN the_DT __NN protocol_NN __NN is_VBZ ._. 
+(_( Meaning_NNP that_IN common_JJ tools_NNS be_VB available_JJ to_TO translate_VB present_JJ local_JJ code_NN )_) ._. 
+It_PRP is_VBZ best_JJS for_IN a_DT computer_NN to_TO use_VB the_DT code_NN of_IN interchange_NN internally_RB ,_, but_CC all_DT computers_NNS in_IN the_DT world_NN can_MD not_RB be_VB modified_VBN overnight_JJ ._. 
+
+What_WP computer_NN Si_NNP has_VBZ to_TO do_VB to_TO abide_VB by_IN the_DT external_JJ representation_NN is_VBZ the_DT sole_JJ matter_NN of_IN computer_NN Si_NNP :_: to_TO appear_VB to_TO others_NNS as_IN if_IN it_PRP were_VBD using_VBG it_PRP internally_RB ._. 
+On_IN any_DT protocol_NN the_DT same_JJ way_NN ,_, even_RB during_IN dialog_NN with_IN computer_NN Ti_NNP using_VBG the_DT same_JJ code_NN (_( "_'' One_CD need_MD not_RB know_VB which_WDT kind_NN of_IN system_NN one_CD is_VBZ sending_VBG mail_NN to_TO "_'' )_) ._. 
+No_DT tagging_VBG of_IN the_DT data_NNS nor_CC any_DT need_VBP to_TO know_VB any_DT character_NN code_NN other_JJ than_IN one_CD 's_POS own_JJ and_CC the_DT interchange_NN code_NN ._. 
+The_DT M_NNP *_NN N_NNP *_NN *_NN 2_CD order_NN of_IN magnitude_NN reduces_VBZ to_TO N._NN 
+This_DT is_VBZ the_DT extended_VBN "_'' ASCII_NNP culture_NN "_'' of_IN some_DT future_NN ,_, no_DT doubt_NN ._. 
+
+It_PRP is_VBZ a_DT very_RB important_JJ goal_NN just_RB now_RB ._. 
+
+It_PRP is_VBZ a_DT fact_NN that_IN the_DT choice_NN of_IN a_DT character_NN code_NN has_VBZ long_JJ lasting_JJ effects_NNS ,_, because_IN of_IN the_DT building_NN software_NN base_NN ._. 
+The_DT impact_NN of_IN today_NN 's_POS decisions_NNS is_VBZ amplified_VBN by_IN time_NN ._. 
+The_DT sooner_RBR the_DT better_JJR ._. 
+The_DT better_VB the_DT sooner_RBR ._. 
+
+More_RBR theoretically_RB said_VBD this_DT time_NN ,_, this_DT local-code_JJ to_TO exchange-code_JJ translation_NN works_VBZ much_JJ a_DT la_FW OSI_NNP layer_NN (_( or_CC "_'' a_DT `_`` la_FW "_'' ,_, if_IN you_PRP do_VBP n't_RB mind_VB :_: -_: )_) 
+Data_NNP is_VBZ encoded_JJ towards_IN a_DT lower_JJR layer_NN ,_, exchanged_VBD ,_, and_CC decoded_JJ back_RB to_TO same_JJ level_NN ,_, but_CC possibly_RB to_TO a_DT different_JJ local_JJ code_NN ._. 
+
+It_PRP probably_RB belongs_VBZ between_IN level_NN 6_CD and_CC 7_CD ,_, as_IN it_PRP could_MD prove_VB that_IN the_DT application_NN layer_NN provides_VBZ all_PDT the_DT textual_NN data_NN ._. 
+But_CC that_DT 's_VBZ not_RB sure_JJ ,_, like_IN for_IN XDR_NNP which_WDT can_MD be_VB used_VBN from_IN many_JJ levels_NNS to_TO convert_VB CPU_NNP data_NNS to_TO line_VB format_NN ._. 
+
+Should_MD we_PRP merge_VB "_'' presentation_NN "_'' and_CC "_'' representation_NN "_'' layers_NNS ,_, split_NN level_NN 6_CD like_IN level_NN 2_CD or_CC not_RB assign_VB it_PRP to_TO any_DT level_NN ,_, I_PRP 'll_MD leave_VB the_DT discussion_NN to_TO the_DT theoricians_NNS ._. 
+
+What_WP seems_VBZ clear_JJ in_IN my_PRP$ mind_NN is_VBZ that_IN the_DT translation_NN is_VBZ not_RB in_IN several_JJ final_JJ protocols_NNS ,_, but_CC a_DT protocol_NN by_IN itself_PRP --_: like_IN XDR_NNP --_: that_IN other_JJ protocols_NNS refer_VBP to_TO ._. 
+
+And_CC this_DT may_MD be_VB the_DT most_RBS important_JJ point_NN ._. 
+It_PRP is_VBZ a_DT pity_NN to_TO see_VB each_DT protocol_NN tackle_VBP the_DT problem_NN its_PRP$ own_JJ way_NN ._. 
+
+Note_VB that_IN the_DT "_'' level_NN 6_CD or_CC so_RB "_'' concept_NN applied_VBN to_TO text_NN extends_VBZ slightly_RB beyond_IN the_DT representation_NN of_IN characters_NNS (_( and_CC binary_JJ data_NNS )_) towards_IN file_NN structure_NN ._. 
+Think_VBP of_IN the_DT line_NN separator_NN problem_NN of_IN NFS_NNP for_IN the_DT basic_JJ case_NN of_IN text_NN files_NNS ._. 
+While_IN file_NN structure_NN (_( including_VBG file_NN name_NN etc_FW ..._... )_) is_VBZ clearly_RB a_DT specialized_JJ problem_NN (_( as_IN opposed_VBN to_TO communication_NN of_IN streams_NNS of_IN text_NN )_) ,_, the_DT impact_NN on_IN systems_NNS and_CC protocols_NNS design_NN is_VBZ just_RB as_IN high_NN ._. 
+
+Clearly_RB ,_, it_PRP will_MD take_VB much_JJ time_NN to_TO stand_VB in_IN ASCII_NNP 's_POS shoes_NNS ._. 
+But_CC doing_VBG otherwise_RB would_MD take_VB even_RB longer_RBR to_TO erase_VB and_CC redo_VB ._. 
+One_PRP can_MD not_RB increase_VB complication_NN eternally_RB ._. 
+
+Some_DT intermediate_JJ compromises_NNS will_MD have_VB to_TO be_VB used_VBN like_IN additional_JJ encoding_VBG on_IN pathes_NNS some_DT insist_VBP to_TO not_RB even_RB try_VB to_TO convert_VB to_TO 8_CD -_: bit_NN ,_, asking_VBG the_DT rest_NN of_IN the_DT networks_NNS to_TO convert_VB to_TO 7_CD -_: bit_NN instead_RB and_CC to_TO rewrite_VB all_DT their_PRP$ programs_NNS to_TO use_VB a_DT complicated_JJ method_NN for_IN sending_VBG plain_JJ text_NN when_WRB the_DT sole_JJ problem_NN is_VBZ that_IN it_PRP contains_VBZ 8_CD -_: bit_NN data_NNS ._. 
+
+The_DT important_JJ thing_NN is_VBZ that_IN the_DT new_JJ layer_NN be_VB known_VBN and_CC used_VBN ._. 
+It_PRP 's_VBZ the_DT interest_NN of_IN both_DT the_DT software_NN writer_NN and_CC buyer_NN ._. 
+It_PRP will_MD get_VB void_NN when_WRB a_DT system_NN will_MD use_VB the_DT interchange_NN code_NN for_IN itself_PRP ._. 
+
+Now_RB that_IN the_DT international_JJ character_NN code_NN ISO_NNP 10646_CD is_VBZ out_IN ,_, is_VBZ n't_RB it_PRP time_NN for_IN communication_NN systems_NNS to_TO be_VB able_JJ to_TO not_RB only_RB exchange_VB pictures_NNS and_CC sound_NN but_CC also_RB plain_JJ text_NN ?_. 
+Will_MD ISO_NNP 10646_CD be_VB used_VBN by_IN OSI_NNP 6_CD ?_. 
+
+Thanks_NNS for_IN your_PRP$ interest_NN ._. 
+
+I_PRP go_VBP away_RB for_IN holidays_NNS today_NN ._. 
+If_IN you_PRP write_VBP anything_NN you_PRP want_VBP me_PRP to_TO read_VB ,_, please_VB make_VB a_DT personal_JJ reply_NN and_CC allow_VB for_IN two_CD weeks_NNS before_IN I_PRP can_MD read_VB it_PRP ._. 
+I_PRP have_VBP picked_VBN addresses_NNS from_IN a_DT BOF_NNP announcement_NN and_CC sent_VBD to_TO mailing_NN lists_NNS I_PRP am_VBP not_RB on_IN ._. 
+Feel_NNP free_JJ to_TO forward_RB the_DT text_NN to_TO anyone_NN intersted_JJ ._. 
+
+Andr_NNP '_POS e_SYM PIRARD_NNP SEGI_NNP ,_, Univ_NNP ._. de_IN Li_NNP `_`` ege_NN |_NN 139.165_CD .0_CD .0_CD IP_NNP (_( ULg_NNP )_) B_NN 26_CD -_: Sart_NNP Tilman_NNP B-_NNP 4000_CD Li_NNP `_`` ege_NN 1_CD (_( Belgium_NNP )_) |_NN Architecture_NNP &_CC Adm._NN pirard@vm1.ulg.ac.be_NN aka_NN PIRARD@BLIULG11.BITNET_NN +_NN 32_CD (_( 41_CD )_) 564932_CD 
+What_WP is_VBZ an_DT FAQ_NNP is_VBZ a_DT frequently_RB asked_VBN question_NN ._. 
+

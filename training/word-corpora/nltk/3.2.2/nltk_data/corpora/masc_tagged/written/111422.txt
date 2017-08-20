@@ -1,0 +1,11 @@
+Subject_NNP :_: Your_PRP$ Webmail_NNP Account_NNP awaits_VBZ de-activation_JJ Date_NN :_: Mon_NNP ,_, 24_CD Jan_NNP 2011_CD 04:22:13_NN -_: 0800_CD From_IN :_: "_'' Brown_NNP ,_, Sherman_NNP O._NN "_'' <_NN sherman_brown@Volt.com_NN >_NN To_TO :_: <_NN noreply@microsoftoffice.org_NN >_NN Microsoft_NNP System_NNP Administration_NNP is_VBZ currently_RB working_VBG to_TO improve_VB on_IN the_DT security_NN of_IN all_DT our_PRP$ Microsoft_NNP Outlook_NNP Web_NNP Access_NNP Users_NNS as_IN we_PRP periodically_RB review_VBP certain_JJ Accounts_NNPS which_WDT are_VBP vulnerable_JJ to_TO Unauthorized_NNP Access_NNP ._. 
+We_PRP have_VBP noticed_VBN some_DT unusual_JJ invalid_JJ login_NN attempts_NNS into_IN your_PRP$ OWA_NNP Webmail_NNP Account_NNP ._. 
+
+Therefore_RB your_PRP$ account_NN has_VBZ been_VBN limited_JJ and_CC may_MD experience_VB inability_NN to_TO send_VB and_CC receive_VB new_JJ mails_NNS ._. 
+To_TO remove_VB this_DT limitation_NN and_CC initiate_VB your_PRP$ Account_NNP Update_NNP process_NN ,_, please_VB click_NN on_IN the_DT link_NN below_IN to_TO complete_VB the_DT form_NN ._. 
+
+http://booroo.com/s.asp?sid=3Dh61gjnzwiza818g3551_NN Click_NNP on_IN the_DT link_NN above_IN (_( or_CC copy_NN and_CC paste_NN the_DT URL_NNP address_NN into_IN your_PRP$ web_NN browser_NN )_) ._. 
+
+Thank_VB you_PRP for_IN your_PRP$ co-operation_JJ 
+
+Webmail_NNP Management_NNP Team_NNP 

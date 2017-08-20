@@ -1,0 +1,30 @@
+February_NNP 26_CD ,_, 1999_CD 
+
+Dear_RB ,_, 
+
+Kids_NNP today_NN face_NN overwhelming_JJ pressures_NNS ,_, everything_NN from_IN trouble_NN at_IN home_NN to_TO gangs_NNS and_CC drugs_NNS ._. 
+Youngsters_NNP often_RB find_VBP themselves_PRP feeling_NN alienated_VBN and_CC alone_RB ._. 
+
+That_DT 's_VBZ where_WRB the_DT Boys_NNPS &_CC Girls_NNP Clubs_NNP of_IN Indianapolis_NNP come_VBD in_IN ._. 
+We_PRP reach_VBP out_IN to_TO kids_NNS -_: -_: especially_RB those_DT from_IN disadvantaged_JJ neighborhoods_NNS where_WRB the_DT risks_NNS are_VBP highest_JJS ._. 
+We_PRP give_VBP them_PRP a_DT chance_NN to_TO realize_VB their_PRP$ own_JJ potential_NN by_IN giving_VBG them_PRP a_DT place_NN where_WRB they_PRP can_MD develop_VB a_DT sense_NN of_IN competence_NN ,_, of_IN usefulness_NN ,_, a_DT sense_NN of_IN belonging_VBG and_CC of_IN influence_NN ._. 
+
+To_TO accomplish_VB this_DT ,_, the_DT five_CD area_NN Boys_NNPS &_CC Girls_NNP Clubs_NNP of_IN Indianapolis_NNP must_MD be_VB open_JJ and_CC available_JJ when_WRB the_DT kids_NNS need_VBP them_PRP ,_, with_IN the_DT staff_NN and_CC programs_NNS the_DT kids_NNS need_VBP to_TO reach_VB and_CC grow_VB into_IN responsible_JJ and_CC caring_VBG citizens_NNS ._. 
+
+This_DT costs_NNS money_NN ._. 
+Money_NN for_IN programs_NNS ,_, for_IN equipment_NN ,_, and_CC for_IN repairs_NNS and_CC improvements_NNS to_TO club_NN facilities_NNS ._. 
+Your_PRP$ contribution_NN last_JJ year_NN of_IN helped_VBD us_PRP get_VBP where_WRB we_PRP are_VBP today_RB ._. 
+We_PRP are_VBP counting_VBG on_IN you_PRP now_RB to_TO help_VB us_PRP get_VB where_WRB we_PRP need_VBP to_TO be_VB tomorrow_NN ._. 
+Would_MD you_PRP please_VB consider_VB a_DT gift_NN of_IN the_DT same_JJ in_IN 1999_CD ?_. 
+
+Please_VB ,_, give_VB generously_RB ._. 
+The_DT kids_NNS are_VBP depending_VBG on_IN you_PRP ._. 
+
+Respectfully_NNP ,_, 
+
+James_NNP Campbell_NNP President_NNP of_IN the_DT Board_NNP Deputy_NNP Chief_NNP ,_, Indianapolis_NNP Police_NNP Department_NNP 
+
+A_DT United_NNP Way_NNP Agency_NNP 
+
+Please_VB detach_NN and_CC return_NN in_IN the_DT enclosed_VBN envelope_NN ._. 
+

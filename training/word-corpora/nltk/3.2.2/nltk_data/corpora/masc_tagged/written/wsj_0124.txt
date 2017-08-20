@@ -1,0 +1,13 @@
+William_NNP C._NN Walbrecher_NNP Jr_NNP ._. ,_, an_DT executive_NN at_IN San_NNP Francisco_NNP -_- based_JJ 1st_CD Nationwide_NNP Bank_NNP ,_, was_VBD named_VBN president_NN and_CC chief_JJ executive_JJ officer_NN of_IN Citadel_NNP Holding_NNP Corp_NNP ._. and_CC its_PRP$ principal_JJ operating_NN unit_NN ,_, Fidelity_NNP Federal_NNP Bank_NNP ._. 
+
+The_DT appointment_NN takes_VBZ effect_NN Nov_NNP ._. 13_CD ._. He_PRP succeeds_VBZ James_NNP A._NN Taylor_NNP ,_, who_WP stepped_VBD down_RB as_IN chairman_NN ,_, president_NN and_CC chief_JJ executive_NN in_IN March_NNP for_IN health_NN reasons_NNS ._. 
+Edward_NNP L._NN Kane_NNP succeeded_VBD Mr._NN Taylor_NNP as_IN chairman_NN ._. 
+
+Separately_RB ,_, Citadel_NNP posted_VBD a_DT third_JJ -_- quarter_NN net_JJ loss_NN of_IN $2.3_NN million_CD ,_, or_CC 68_CD cents_NNS a_DT share_NN ,_, versus_CC net_JJ income_NN of_IN $5.3_NN million_CD ,_, or_CC $1.61_NN a_DT share_NN ,_, a_DT year_NN earlier_RBR ._. 
+
+The_DT latest_JJS results_NNS include_VBP some_DT unusual_JJ write_VBG -_- downs_RP ,_, which_WDT had_VBD an_DT after-tax_JJ impact_NN of_IN $4.9_NN million_CD ._. 
+Those_DT included_VBD costs_NNS associated_VBN with_IN the_DT potential_JJ Valley_NNP Federal_NNP Savings_NNP and_CC Loan_NNP Association_NNP acquisition_NN ,_, which_WDT was_VBD terminated_VBN on_IN Sept_NNP ._. 27_CD ,_, 1989_CD ._. 
+In_IN addition_NN ,_, operating_NN results_NNS were_VBD hit_VBN by_IN an_DT increase_NN in_IN loan_NN and_CC real_JJ estate_NN loss_NN reserves_NNS ._. 
+
+In_IN American_NNP Stock_NNP Exchange_NNP composite_JJ trading_NN ,_, Citadel_NNP shares_NNS closed_VBD yesterday_NN at_IN $45.75_NN ,_, down_RB 25_CD cents_NNS ._. 
+

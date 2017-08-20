@@ -1,0 +1,27 @@
+Date_NN :_: Sun_NNP ,_, 23_CD Jan_NNP 2011_CD 14:57:17_NN -_: 0500_CD Subject_NNP :_: hello_UH ,_, can_MD you_PRP help_VB me_PRP ?_. From_IN :_: maria_NN serrano_NN <_NN mrserrano82@gmail.com_NN >_NN To_TO :_: xxx@xxx.xxx_NN Dear_RB Patricia_NNP Collier_NNP ,_, *_NN I_PRP am_VBP a_DT student_NN at_IN Classical_NNP High_NNP School_NNP (_( in_IN Providence_NNP RI_NNP )_) and_CC i_NNP am_VBP conducting_VBG a_DT research_NN project_NN for_IN my_PRP$ graduation_NN requirement_NN ._. 
+I_PRP ma_NN writing_VBG to_TO you_PRP because_IN i_NNP am_VBP hoping_VBG that_IN you_PRP might_MD provide_VB me_PRP with_IN some_DT expertise_NN or_CC knowledge_NN about_IN my_PRP$ topic_NN ._. 
+
+My_PRP$ topic_NN is_VBZ about_IN animal_NN extinction_NN and_CC how_WRB humans_NNS are_VBP the_DT major_JJ cause_NN of_IN it_PRP ,_, and_CC explaining_VBG how_WRB humans_NNS are_VBP the_DT cause_NN ,_, like_IN how_WRB we_PRP pollute_VB ,_, how_WRB we_PRP hunt_VBP ._. ._. 
+etc._NN 
+I_PRP was_VBD looking_VBG for_IN more_JJR info_NN on_IN animal_NN extinction_NN when_WRB i_NNP came_VBD across_IN an_DT article_NN on_IN your_PRP$ website_NN about_IN animal_NN extinction_NN ._. 
+
+In_IN addition_NN to_TO writing_VBG a_DT research_NN paper_NN ,_, i_NNP will_MD be_VB making_VBG an_DT exhibition_NN in_IN front_NN of_IN a_DT panel_NN of_IN judges_NNS that_WDT will_MD demonstrate_VB a_DT connection_NN to_TO the_DT real_JJ world_NN ._. 
+I_PRP will_MD be_VB making_VBG a_DT powerpoint_NN ._. 
+
+I_PRP would_MD greatly_RB appreciate_VB it_PRP if_IN you_PRP would_MD be_VB willing_JJ to_TO talk_VB with_IN me_PRP about_IN my_PRP$ project_NN ._. 
+I_PRP have_VBP a_DT few_JJ questions_NNS i_NNP would_MD love_VB for_IN you_PRP to_TO answer_VB ;_: 
+
+*_NN Questions_NNS 1_CD ._. What_WP do_VBP you_PRP think_VBP society_NN should_MD do_VB to_TO increase_VB animal_NN extinction_NN ?_. 
+2_CD ._. How_WRB long_JJ have_VBP you_PRP been_VBN working_VBG with_IN animals_NNS ?_. 
+3_CD ._. What_WP do_VBP you_PRP think_VBP is_VBZ the_DT main_JJ reason_NN animals_NNS are_VBP becoming_VBG extinct_JJ ?_. 
+4_CD ._. What_WP are_VBP some_DT ways_NNS to_TO help_VB ?_. 
+5_CD ._. How_WRB can_MD families_NNS do_VB in_IN their_PRP$ homes_NNS to_TO help_VB this_DT cause_NN ?_. 
+
+Please_VB let_VB me_PRP know_VB of_IN you_PRP would_MD be_VB able_JJ to_TO do_VB this_DT ._. 
+You_PRP could_MD email_NN me_PRP back_RB ,_, and_CC let_VB me_PRP know_VB if_IN you_PRP would_MD like_VB me_PRP to_TO call_VB you_PRP ,_, email_NN back_RB and_CC forth_RB ,_, visit_NN your_PRP$ organization_NN ,_, or_CC whatever_WDT else_RB would_MD be_VB appropriate_JJ ._. 
+Please_VB add_VB any_DT contact_NN information_NN as_IN necessary_JJ ._. 
+
+Thank_VB You_PRP in_IN advance_NN for_IN you_PRP assistance_NN ,_, 
+
+Sincerely_NNP ,_, 
+Maria_NNP Serrano_NNP ,_, a_DT junior_JJ student_NN at_IN classical_JJ high_JJ school_NN 

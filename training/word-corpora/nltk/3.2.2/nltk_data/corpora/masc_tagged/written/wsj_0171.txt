@@ -1,0 +1,14 @@
+Valley_NNP Federal_NNP Savings_NNP &_CC Loan_NNP Association_NNP took_VBD an_DT $89.9_NN million_CD charge_NN as_IN it_PRP reported_VBD a_DT third_JJ -_- quarter_NN loss_NN of_IN $70.7_NN million_CD ,_, or_CC $12.09_NN a_DT share_NN ._. 
+
+The_DT Van_NNP Nuys_NNP ,_, Calif_NNP ._. ,_, thrift_NN had_VBD net_JJ income_NN of_IN $132,000_NN ,_, or_CC three_CD cents_NNS a_DT share_NN ,_, a_DT year_NN ago_RB ._. 
+
+The_DT bulk_NN of_IN the_DT pretax_JJ charge_NN is_VBZ a_DT $62_NN million_CD write_VB -_- off_RP of_IN capitalized_VBN servicing_NN at_IN the_DT mobile_JJ home_NN financing_NN subsidiary_NN ,_, which_WDT the_DT company_NN said_VBD had_VBD been_VBN a_DT big_JJ drain_NN on_IN earnings_NNS ._. 
+The_DT company_NN said_VBD the_DT one_JJ -_- time_NN provision_one-time would_MD substantially_RB eliminate_VB all_DT future_JJ losses_NNS at_IN the_DT unit_NN ._. 
+Valley_NNP Federal_NNP also_RB added_VBD $18_NN million_CD to_TO realestate_VB loan_NN reserves_NNS and_CC eliminated_VBN $9.9_NN million_CD of_IN good_JJ will_NN ._. 
+
+The_DT thrift_NN said_VBD that_IN "_'' after_IN these_DT charges_NNS and_CC assuming_VBG no_DT dramatic_JJ fluctuation_NN in_IN interest_NN rates_NNS ,_, the_DT association_NN expects_VBZ to_TO achieve_VB near_IN record_NN earnings_NNS in_IN 1990_CD ._. "_'' 
+
+Valley_NNP Federal_NNP is_VBZ currently_RB being_VBG examined_VBN by_IN regulators_NNS ._. 
+New_JJ loans_NNS continue_VBP to_TO slow_VB ;_: they_PRP were_VBD $6.6_NN million_CD in_IN the_DT quarter_NN compared_VBN with_IN $361.8_NN million_CD a_DT year_NN ago_RB ._. 
+The_DT thrift_NN has_VBZ assets_NNS of_IN $3.2_NN billion_CD ._. 
+

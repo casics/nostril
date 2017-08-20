@@ -1,0 +1,8 @@
+Date_NN :_: Mon_NNP ,_, 24_CD Jan_NNP 2011_CD 10:31:58_NN +_NN 0700_CD (_( WIT_NNP )_) Subject_NNP :_: Increase_VB your_PRP$ email_NN quota_NN From_IN :_: "_'' Webmaster_NNP Administrator_NNP "_'' <_NN no-reply@webmaster.com_NN >_NN To_TO :_: undisclosed-recipients_JJ :_: ;_: This_DT is_VBZ to_TO inform_VB you_PRP that_IN you_PRP have_VBP exceeded_VBN your_PRP$ email_NN quota_NN limit_NN of_IN 200_CD MB_NNP and_CC you_PRP need_VBP to_TO increase_VB your_PRP$ email_NN quota_NN limit_NN because_IN in_IN less_JJR than_IN 48_CD hours_NNS your_PRP$ email_NN will_MD be_VB disable_JJ ._. 
+Increase_VB your_PRP$ email_NN quota_NN limit_NN and_CC continue_VB to_TO use_VB your_PRP$ webmail_NN account_NN ._. 
+
+To_TO increase_VB your_PRP$ email_NN quota_NN limit_NN to_TO 10_CD GB_NNP ,_, click_NN the_DT below_IN link_NN :_: 
+http://www.troiani.ca/formgen/use/loginphp/form1.html_NN 
+Thank_VB you_PRP for_IN your_PRP$ understanding_NN ._. 
+
+Webmaster_NNP Administrator_NNP Copyright_NNP �_NN 2011_CD Webmail_NNP Technical_NNP Support_NN Center_NNP ._. 

@@ -1,0 +1,8 @@
+docno_NN =_SYM "_'' lists-_NN 003_CD -_: 2183485_CD "_'' received_VBD =_SYM "_'' Tue_NNP Jun_NNP 22_CD 18:50:42_NN 1993_CD EST_NNP "_'' sent_VBD =_SYM "_'' Wed_NNP ,_, 23_CD Jun_NNP 1993_CD 10:49:08_NN +_NN 0900_CD "_'' name_NN =_SYM "_'' Eiiti_NNP Wada_NNP "_'' email_NN =_SYM "_'' wada@u-tokyo.ac.jp_NN "_'' subject_JJ =_SYM "_'' Re_NNP :_: Who_WP knows_VBZ about_IN 10646_CD escape_VB sequences_NNS ?_. "_'' id_NN =_SYM "_'' 9306230149.AA28724@sino.syslab.iias.flab.fujitsu.co.jp_NN "_'' inreplyto_NN =_SYM "_'' Who_WP knows_VBZ about_IN 10646_CD escape_VB sequences_NNS ?_. "_'' To_TO :_: ietf-charsets@INNOSOFT.COM_NN Harald_NNP Tveit_NNP Alvestrand_NNP <_NN harald.t.alvestrand@delab.sintef.no_NN >_NN :_: >_NN Who_WP knows_VBZ if_IN ISO_NNP 10646_CD has_VBZ been_VBN assigned_VBN numbers_NNS and_CC escape_VB sequences_NNS ?_. 
+Escape_NNP sequences_NNS are_VBP assigned_VBN by_IN the_DT Registration_NNP Authority_NNP ,_, and_CC the_DT Registration_NNP Authority_NNP is_VBZ now_RB with_IN ECMA_NNP ._. 
+
+So_RB ,_, ask_VB Mr._NN van_NN den_NN Beld_NNP of_IN ECMA_NNP about_IN the_DT current_JJ situations_NNS of_IN ISO_NNP 10646_CD escape_VB sequences_NNS ._. 
+
+His_PRP$ e-mail_JJ address_NN is_VBZ :_: jan.van-den-beld@ecma.ch_NN 
+
+Eiiti_NNP Wada_NNP (_( wada@u-tokyo.ac.jp_NN )_) 

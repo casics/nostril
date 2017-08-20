@@ -1,0 +1,39 @@
+Date_NN :_: Sun_NNP ,_, 15_CD Apr_NNP 2001_CD 13:00:00_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: steven.kean@enron.com_NN To_TO :_: maureen.mcvicker@enron.com_NN Subject_NNP :_: <_NN <_NN Concur_NNP Expense_NN Document_NNP >_NN >_NN -_: March_NNP 2001_CD AMEX_NNP Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN X-From_NNP :_: Steven_NNP J_NNP Kean_NNP X-To_NNP :_: Maureen_NNP McVicker_NNP X-cc_NNP :_: X-bcc_NNP :_: X-Folder_NNP :_: \_NN Steven_NNP __NN Kean_NNP __NN June_NNP 2001_CD __NN 1_CD \_NN Notes_NNP Folders_NNP \_NN All_DT documents_NNS X-Origin_NNP :_: KEAN-S_NNP X-FileName_NNP :_: skean_NN ._. nsf_NN ----------------------_SYM Forwarded_NNP by_IN Steven_NNP J_NNP Kean_NNP /_NN NA_NNP /_NN Enron_NNP on_IN 04/15/2001_CD 07:59_NN PM_NNP ---------------------------_SYM 
+eserver@enron.com_NN on_IN 04/09/2001_CD 02:41:04_NN PM_NNP To_TO :_: "_'' Steven_NNP ._. J.Kean@enron.com_NN "_'' <_NN Steven_NNP ._. J.Kean@enron.com_NN >_NN cc_NN :_: 
+Subject_NNP :_: <_NN <_NN Concur_NNP Expense_NN Document_NNP >_NN >_NN -_: March_NNP 2001_CD AMEX_NNP 
+The_DT following_VBG expense_NN report_NN is_VBZ ready_JJ for_IN approval_NN :_: 
+
+Employee_NN Name_NN :_: Mark_NNP A._NN Palmer_NNP 
+Status_NNP last_RB changed_VBD by_IN :_: Automated_NNP Administrator_NNP 
+Expense_NN Report_NNP Name_NN :_: March_NNP 2001_CD AMEX_NNP 
+Report_NNP Total_JJ :_: $6,539.82_NN 
+Amount_NNP Due_NNP Employee_NNP :_: $6,539.82_NN 
+
+To_TO approve_VB this_DT expense_NN report_NN ,_, click_NN on_IN the_DT following_VBG link_NN for_IN Concur_NNP Expense_NN ._. 
+http://xms.enron.com_NN 
+----------------------_SYM Forwarded_NNP by_IN Steven_NNP J_NNP Kean_NNP /_NN NA_NNP /_NN Enron_NNP on_IN 04/15/2001_CD 07:59_NN PM_NNP ---------------------------_SYM 
+eserver@enron.com_NN on_IN 04/10/2001_CD 01:45:03_NN PM_NNP To_TO :_: "_'' Steven.J.Kean@enron.com_NN "_'' <_NN Steven.J.Kean@enron.com_NN >_NN cc_NN :_: 
+Subject_NNP :_: <_NN <_NN Concur_NNP Expense_NN Document_NNP >_NN >_NN -_: General_NNP Expenses_NNS 
+The_DT following_VBG expense_NN report_NN is_VBZ ready_JJ for_IN approval_NN :_: 
+
+Employee_NN Name_NN :_: John_NNP Hardy_NNP Jr_NNP Jr_NNP ._. 
+Status_NNP last_RB changed_VBD by_IN :_: Automated_NNP Administrator_NNP 
+Expense_NN Report_NNP Name_NN :_: General_NNP Expenses_NNS 
+Report_NNP Total_JJ :_: $2,240.10_NN 
+Amount_NNP Due_NNP Employee_NNP :_: $2,240.10_NN 
+
+To_TO approve_VB this_DT expense_NN report_NN ,_, click_NN on_IN the_DT following_VBG link_NN for_IN Concur_NNP Expense_NN ._. 
+http://xms.enron.com_NN 
+----------------------_SYM Forwarded_NNP by_IN Steven_NNP J_NNP Kean_NNP /_NN NA_NNP /_NN Enron_NNP on_IN 04/15/2001_CD 07:59_NN PM_NNP ---------------------------_SYM 
+eserver@enron.com_NN on_IN 04/13/2001_CD 02:35:43_NN PM_NNP To_TO :_: "_'' Steven.J.Kean@enron.com_NN "_'' <_NN Steven.J.Kean@enron.com_NN >_NN cc_NN :_: 
+Subject_NNP :_: <_NN <_NN Concur_NNP Expense_NN Document_NNP >_NN >_NN -_: JS_NNP 3/31/01_CD 
+The_DT following_VBG expense_NN report_NN is_VBZ ready_JJ for_IN approval_NN :_: 
+
+Employee_NN Name_NN :_: James_NNP Steffes_NNP 
+Status_NNP last_RB changed_VBD by_IN :_: Automated_NNP Administrator_NNP 
+Expense_NN Report_NNP Name_NN :_: JS_NNP 3/31/01_CD 
+Report_NNP Total_JJ :_: $2,796.30_NN 
+Amount_NNP Due_NNP Employee_NNP :_: $2,796.30_NN 
+
+To_TO approve_VB this_DT expense_NN report_NN ,_, click_NN on_IN the_DT following_VBG link_NN for_IN Concur_NNP Expense_NN ._. 
+http://xms.enron.com_NN 

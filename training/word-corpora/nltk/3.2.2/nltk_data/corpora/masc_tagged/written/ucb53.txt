@@ -1,0 +1,11 @@
+From_IN :_: "_'' Citibank_NNP Update_NNP Department_NNP "_'' <_NN updatedepartament@Citibank.com_NN >_NN Subject_NNP :_: Your_PRP$ online_NN account_NN has_VBZ expired_VBN ._. Date_NN :_: Wed_NNP ,_, 26_CD Sep_NNP 2007_CD 01:47:54_NN -_: 0400_CD (_( EDT_NNP )_) To_TO :_: undisclosed-recipients_JJ :_: ;_: Dear_RB Citibank_NNP Cardholder_NNP ,_, 
+
+This_DT is_VBZ your_PRP$ official_JJ notification_NN from_IN Citibank_NNP ._. 
+Your_PRP$ online_NN account_NN has_VBZ expired_VBN ._. 
+If_IN you_PRP want_VBP to_TO continue_VB using_VBG our_PRP$ service_NN you_PRP have_VBP to_TO renew_VB your_PRP$ online_NN account_NN ._. 
+If_IN not_RB ,_, your_PRP$ online_NN account_NN will_MD be_VB deactivated_JJ and_CC deleted_VBN ._. 
+
+To_TO continue_VB click_NN here_RB ,_, complete_VB the_DT renew_VB form_NN with_IN your_PRP$ current_JJ information_NN ._. 
+
+Many_JJ Thanks_NNS and_CC Kind_JJ Regards_NNS -_: Citibank_NNP Update_NNP Department_NNP 
+

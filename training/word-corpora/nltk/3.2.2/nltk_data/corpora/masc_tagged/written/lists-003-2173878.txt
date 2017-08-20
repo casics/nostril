@@ -1,0 +1,44 @@
+docno_NN =_SYM "_'' lists-_NN 003_CD -_: 2173878_CD "_'' received_VBD =_SYM "_'' Mon_NNP Jun_NNP 21_CD 10:40:25_NN 1993_CD EST_NNP "_'' sent_VBD =_SYM "_'' Wed_NNP ,_, 16_CD Jun_NNP 1993_CD 15:13:52_NN +_NN 0200_CD "_'' name_NN =_SYM "_'' Borka_NNP Jerman-_NNP Blazic_NNP "_'' email_NN =_SYM "_'' jerman-blazic@ijs.si_NN "_'' subject_JJ =_SYM "_'' IETF_NNP BOF_NNP "_'' id_NN =_SYM "_'' 1149_CD *_NN /_NN S_NNP =_SYM jerman-blazic_JJ /_NN O_NNP =_SYM ijs_NNS /_NN PRMD_NNP =_SYM ac_NN /_NN ADMD_NNP =_SYM mail_NN /_NN C_NNP =_SYM si/@MHS_NN "_'' inreplyto_NN =_SYM "_'' "_'' To_TO :_: WG-CHAR_NNP <_NN WG-CHAR@rare.nl_NN >_NN The_DT timing_NN for_IN the_DT BOF_NNP will_MD be_VB announced_VBN soon_RB ._. 
+I_PRP am_VBP enclosing_VBG the_DT approved_JJ version_NN of_IN the_DT charter_NN ._. 
+Regards_NNP ,_, Borka_NNP 
+
+==================_SYM Erik_NNP and_CC IESG_NNP members_NNS ,_, 
+I_PRP believe_VBP that_IN the_DT revised_JJ charter_NN defines_VBZ most_JJS of_IN the_DT issues_NNS and_CC defines_VBZ them_PRP well_RB ._. 
+I_PRP believe_VBP that_IN the_DT number_NN of_IN issues_NNS to_TO be_VB covered_VBN in_IN one_CD BOF_NNP session_NN to_TO be_VB somewhat_RB intimidating_VBG ._. 
+However_RB ,_, our_PRP$ criteria_NNS for_IN this_DT BOF_NNP should_MD be_VB that_IN it_PRP helps_VBZ illuminate_VB and_CC define_VB the_DT problem_NN and_CC advances_NNS the_DT understanding_NN needed_VBN to_TO define_VB WGs_NNP ,_, and_CC I_PRP think_VBP it_PRP is_VBZ more_RBR likely_JJ to_TO do_VB that_DT than_IN anything_NN else_RB we_PRP are_VBP likely_JJ to_TO come_VB up_RP with_IN ._. 
+And_CC it_PRP is_VBZ "_'' only_RB "_'' a_DT BOF_NNP and_CC does_VBZ not_RB commit_VB us_PRP to_TO long-term_JJ action_NN until_IN we_PRP see_VBP the_DT outcome_NN and_CC Borka_NNP 's_POS minutes_NNS ._. 
+Let_VB 's_POS go_VB with_IN it_PRP ._. 
+john_NN 
+
+------_: revised_VBN draft_NN charter_NN 
+---------_: The_DT Universal_NNP Character_NN Set_NNP Standard_NNP (_( UCS_NNP )_) in_IN Networked_NNP Services_NNPS or_CC Can_MD We_PRP Think_VB About_IN Real_NNP Multilingual_NNP Networking_NNP ?_. We_PRP are_VBP in_IN the_DT process_NN of_IN building_NN global_JJ directory_NN systems_NNS and_CC other_JJ information_NN services_NNS on_IN the_DT global_JJ Internet_NN ._. 
+In_IN many_JJ parts_NNS of_IN the_DT world_NN it_PRP is_VBZ seen_VBN as_IN essential_JJ for_IN the_DT success_NN of_IN the_DT global_JJ services_NNS that_IN they_PRP should_MD be_VB able_JJ to_TO recognize_VB ,_, store_NN ,_, and_CC present_JJ textual_NN information_NN like_IN personal_JJ and_CC organizational_JJ names_NNS ,_, represented_VBD in_IN the_DT character_NN sets_NNS used_VBN by_IN those_DT concerned_VBN ._. 
+This_DT means_VBZ that_IN the_DT Directory_NNP must_MD be_VB able_JJ to_TO handle_VB national_JJ characters_NNS not_RB found_VBD in_IN the_DT US-ASCII_NNP repetoire_NN ._. 
+The_DT same_JJ applies_VBZ to_TO the_DT other_JJ global_JJ information_NN services_NNS on_IN the_DT network_NN (_( e_SYM ._. g_SYM the_DT data_NNS bases_NNS used_VBN in_IN many_JJ information_NN servers_NNS )_) ._. 
+This_DT is_VBZ especially_RB a_DT problem_NN as_IN information_NN services_NNS are_VBP provided_VBN for_IN clients_NNS on_IN various_JJ difference_NN hardware_NN architectures_NNS ._. 
+Currently_RB ,_, for_IN the_DT Western_JJ European_JJ languages_NNS at_IN least_JJS 5_CD different_JJ encodings_NNS are_VBP in_IN use_NN on_IN the_DT network_NN :_: ISO-_NNP 7_CD National_NNP Variants_NNP ,_, ISO_NNP 8859/1_CD ,_, ROMAN_NNP 8_CD ,_, T_NN .61_CD ,_, and_CC RC_NNP 850_CD ._. 
+(_( See_VB RFC_NNP 1345_CD for_IN further_JJ information_NN on_IN these_DT character_NN sets_NNS ._. )_) 
+If_IN we_PRP consider_VBP the_DT other_JJ scripts_NNS used_VBN in_IN Europe_NNP and_CC the_DT other_JJ encodings_NNS the_DT number_NN of_IN different_JJ charater_NN set_VBD codes_NNS rise_VBP to_TO as_RB many_JJ as_IN 40_CD ._. 
+This_DT is_VBZ the_DT real_JJ (_( and_CC messy_NN )_) world_NN we_PRP live_VBP in_IN ._. 
+Changing_VBG the_DT character_NN sets_NNS in_IN this_DT world_NN is_VBZ not_RB an_DT option_NN ,_, as_IN current_JJ systems_NNS run_VBP applications_NNS which_WDT can_MD support_VB only_RB the_DT character_NN sets_NNS used_VBN by_IN that_DT system_NN ._. 
+However_RB ,_, a_DT universal_JJ encoding_VBG has_VBZ begun_VBN to_TO appear_VB :_: UCS_NNP (_( ISO_NNP 10646_CD )_) ._. 
+Initial_JJ experience_NN with_IN this_DT solution_NN has_VBZ been_VBN positive_JJ ._. 
+However_RB ,_, there_EX are_VBP still_RB many_JJ issued_VBN to_TO be_VB addressed_VBN in_IN the_DT context_NN of_IN ISO_NNP 10_CD 646_CD and_CC the_DT other_JJ character_NN set_VBD codes_NNS ,_, which_WDT will_MD exist_VB on_IN the_DT Internet_NN in_IN the_DT future_JJ :_: 
+(_( 1_CD )_) Can_MD we_PRP agree_VB on_IN some_DT common_JJ network_NN services_NNS /_NN model_NN for_IN character_NN set_VBD handling_VBG ?_. 
+(_( 2_CD )_) Should_MD a_DT general-purpose_JJ SW_NNP tool_NN be_VB designed_VBN that_WDT will_MD support_VB both_DT UCS_NNP and_CC regional_JJ character_NN sets_NNS ?_. 
+(_( 3_CD )_) Is_VBZ there_EX a_DT solution_NN that_WDT will_MD make_VB character_NN set_VBD convertors_NNS for_IN diffrent_NN codes_NNS "_'' plug-and-play_JJ "_'' (_( i.e._NN 
+an_DT API_NNP )_) without_IN specifying_VBG the_DT actual_JJ underlying_VBG implementation_NN ?_. 
+Can_MD we_PRP use_VBP UCS_NNP as_IN a_DT common_JJ denominator_NN for_IN that_DT ?_. 
+(_( 4_CD )_) Is_VBZ it_PRP necessary_JJ to_TO have_VB a_DT document_NN identifying_VBG the_DT language_NN and_CC the_DT character_NN sets_NNS which_WDT cater_VBP for_IN particular_JJ language_NN ?_. 
+(_( 5_CD )_) If_IN we_PRP need_VBP to_TO solve_VB these_DT problems_NNS and_CC UCS_NNP (_( ISO_NNP 10_CD 646_CD )_) is_VBZ the_DT only_RB available_JJ general_JJ option_NN today_NN which_WDT is_VBZ maybe_RB close_RB to_TO be_VB sufficient_JJ ,_, can_MD we_PRP start_VB with_IN UCS_NNP and_CC make_VB minimal_JJ changes_NNS or_CC specifications_NNS which_WDT will_MD be_VB sufficient_JJ for_IN our_PRP$ needs_NNS ._. 
+Can_MD we_PRP discuss_VB the_DT missing_VBG agreement_NN /_NN specifiactions_NNS required_VBN in_IN the_DT communication_NN protocols_NNS such_JJ as_IN :_: 
+(_( 5.1_CD )_) The_DT order_NN of_IN octets_NNS in_IN the_DT interchange_NN of_IN data_NNS is_VBZ left_VBN to_TO be_VB specified_VBN by_IN the_DT sender_NN and_CC the_DT recipient_NN in_IN UCS_NNP ._. 
+What_WP are_VBP the_DT "_'' sender_NN "_'' and_CC "_'' recipient_JJ "_'' on_IN the_DT Internet_NN ?_. 
+Can_MD we_PRP define_VB a_DT mechanism_NN to_TO identify_VB the_DT serialized_JJ byte_NN order_NN of_IN a_DT data_NNS stream_NN ?_. 
+(_( 5.2_CD )_) Additional_JJ encoding_VBG mechanisms_NNS for_IN the_DT UCS_NNP have_VBP been_VBN proposed_VBN ._. 
+Do_VBP these_DT schemes_NNS have_VBP any_DT merit_NN ?_. 
+(_( 5.3_CD )_) Some_DT amount_NN of_IN profiling_VBG may_MD be_VB necessary_JJ for_IN UCS_NNP use_NN in_IN some_DT countries_NNS ,_, do_VBP we_PRP need_VBP to_TO specify_VB that_IN globally_RB or_CC we_PRP can_MD leave_VB it_PRP to_TO particular_JJ region_NN to_TO be_VB solved_VBN as_IN regional_JJ matter_NN ?_. 
+(_( 5.4_CD )_) Do_VBP we_PRP need_VB to_TO differentiate_VB or_CC specify_VB how_WRB tagged_VBN data_NNS (_( i_NNP ._. e_SYM the_DT field_NN typ_NN e_SYM in_IN a_DT data_NNS base_VBP )_) and_CC how_WRB "_'' serialized_JJ byte_NN order_NN "_'' data_NNS are_VBP treated_VBN in_IN a_DT communication_NN protocol_NN or_CC will_MD some_DT common_JJ specification_NN for_IN the_DT tag_NN and_CC the_DT type_NN be_VB sufficient_JJ ?_. 
+The_DT goal_NN of_IN the_DT BOF_NNP is_VBZ to_TO test_VB the_DT interest_NN for_IN the_DT various_JJ issues_NNS ._. 
+If_IN possible_JJ a_DT clear_RB set_NN of_IN issues_NNS could_MD be_VB identified_VBN then_RB WG_NNP (_( s_VBZ )_) will_MD be_VB defined_VBN ._. 
+

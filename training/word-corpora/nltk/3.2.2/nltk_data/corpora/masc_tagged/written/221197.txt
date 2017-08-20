@@ -1,0 +1,20 @@
+Message-ID_NNP :_: <_NN 16267978.1075861634185.JavaMail.evans@thyme_NN >_NN Date_NN :_: Thu_NNP ,_, 15_CD Nov_NNP 2001_CD 13:46:02_NN -_: 0800_CD (_( PST_NNP )_) From_IN :_: jacton@crai.com_NN To_TO :_: d..steffes@enron.com_NN Subject_NNP :_: Confidential_NNP for_IN Dan_NNP Watkiss_NNP Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Jim_NNP 
+
+If_IN you_PRP are_VBP able_JJ to_TO provide_VB this_DT to_TO Dan_NNP for_IN the_DT meeting_NN I_PRP would_MD appreciate_VB it_PRP ._. 
+
+He_PRP may_MD not_RB want_VB to_TO circulate_VB it_PRP to_TO the_DT group_NN ._. 
+It_PRP is_VBZ intended_VBN as_IN a_DT work_NN product_NN for_IN attorney_NN ._. 
+
+This_DT e-mail_JJ and_CC the_DT attachments_NNS were_VBD prepared_VBN at_IN the_DT request_NN of_IN counsel_NN ._. 
+
+<_NN <_NN NOTES_NNS FOR_IN DISCUSSION_NNP ._. doc_NN >_NN >_NN 
+Jan_NNP Paul_NNP Acton_NNP Vice_NNP President_NNP Charles_NNP River_NNP Associates_NNPS 1201_CD F_NNP St._NN ,_, NW_NNP ,_, Suite_NNP 700_CD Washington_NNP ,_, DC_NNP 20004_CD -_: 1204_CD Voice_NNP :_: (_( 202_CD )_) 662_CD 3902_CD Fax_NNP :_: (_( 202_CD )_) 662_CD 3910_CD 
+
+****************************************************************************
+*****_NN This_DT electronic_JJ message_NN contains_VBZ information_NN from_IN the_DT consulting_NN firm_NN of_IN Charles_NNP River_NNP Associates_NNPS Inc._NN ,_, which_WDT may_MD be_VB confidential_JJ or_CC privileged_JJ ._. 
+The_DT information_NN is_VBZ intended_VBN for_IN the_DT use_NN of_IN the_DT individual_NN or_CC entity_NN named_VBN above_IN ._. 
+If_IN you_PRP are_VBP not_RB the_DT intended_VBN recipient_JJ ,_, be_VB aware_JJ that_IN any_DT disclosure_NN ,_, copying_NN ,_, distribution_NN or_CC use_NN of_IN the_DT contents_NNS of_IN this_DT information_NN is_VBZ prohibited_VBN ._. 
+If_IN you_PRP have_VBP received_VBN this_DT electronic_JJ transmission_NN in_IN error_NN ,_, please_VB notify_VB us_PRP by_IN telephone_NN (_( 617_CD 425_CD -_: 3582_CD )_) or_CC by_IN e-mail_JJ (_( postmaster@crai.com_NN )_) immediately_RB ._. 
+****************************************************************************
+*****_NN 
+-_: NOTES_NNS FOR_IN DISCUSSION_NNP ._. doc_NN 

@@ -1,0 +1,22 @@
+From_IN :_: "_'' PayPal_NNP "_'' <_NN services@PayPal.com_NNS >_NN Subject_NNP :_: Dispute_NNP transaction_NN Date_NN :_: Mon_NNP ,_, 24_CD Sep_NNP 2007_CD 17:35:34_NN -_: 0400_CD This_DT email_NN confirms_VBZ that_IN you_PRP have_VBP sent_VBN an_DT eBay_NN payment_NN of_IN $147.85_NN USD_NNP to_TO achad13@yahoo.com_NN for_IN an_DT eBay_NN item_NN ._. 
+
+-----------------------------------_: Payment_NN Details_NNS -----------------------------------_: Amount_NNP :_: $147.85_NN USD_NNP 
+Transaction_NNP ID_NNP :_: 2LC956793J776333Y_NN 
+Subject_NNP :_: Digimax_NNP 130_CD 
+
+Note_VB :_: If_IN you_PRP have_VBP n't_RB authorized_VBN this_DT charge_NN ,_, click_NN the_DT link_NN below_IN to_TO dispute_VB transaction_NN and_CC get_VB full_JJ refund_NN 
+Dispute_NNP transaction_NN (_( Encrypted_NNP Link_NN )_) 
+*_NN SSL_NNP connection_NN :_: PayPal_NNP automatically_RB encrypts_NNS your_PRP$ confidential_JJ information_NN in_IN transit_NN from_IN your_PRP$ computer_NN to_TO ours_PRP using_VBG the_DT Secure_NNP Sockets_NNP Layer_NNP protocol_NN (_( SSL_NNP )_) with_IN an_DT encryption_NN key_JJ length_NN of_IN 128_CD -_: bits_NNS (_( the_DT highest_JJS level_NN commercially_RB available_JJ )_) 
+-----------------------------------_: Item_NNP Information_NNP -----------------------------------_: eBay_NN User_NNP ID_NNP :_: scratchandgnaw_NN 2_CD 
+----------------------------------------------------------------_: Edward_NNP Harrell_NNP 's_POS UNCONFIRMED_NNP Address_NNP ----------------------------------------------------------------_: Edward_NNP Harrell_NNP 211_CD David_NNP St._NN Springtown_NNP ,_, TX_NNP 76082_CD United_NNP States_NNPS 
+Important_NNP Note_VB :_: Edward_NNP Harrell_NNP has_VBZ provided_VBN an_DT Unconfirmed_NNP Address_NNP ._. 
+If_IN you_PRP are_VBP planning_VBG on_IN shipping_VBG items_NNS to_TO Edward_NNP Harrell_NNP ,_, please_VB check_NN the_DT Transaction_NNP Details_NNS page_NN of_IN this_DT payment_NN to_TO find_VB out_IN whether_IN you_PRP will_MD be_VB covered_VBN by_IN the_DT PayPal_NNP Seller_NNP Protection_NNP Policy_NNP ._. 
+----------------------------------------------------------------_: This_DT payment_NN was_VBD sent_VBN using_VBG your_PRP$ bank_NN account_NN ._. 
+By_IN using_VBG your_PRP$ bank_NN account_NN to_TO send_VB money_NN ,_, you_PRP just_RB :_: 
+-_: Paid_VBN easily_RB and_CC securely_RB 
+-_: Sent_NNP money_NN faster_RBR than_IN writing_VBG and_CC mailing_VBG paper_NN checks_NNS 
+-_: Paid_VBN instantly_RB --_: your_PRP$ purchase_NN wo_MD n't_RB show_VB up_RP on_IN bills_NNS at_IN the_DT end_NN of_IN the_DT month_NN ._. 
+Thanks_NNS for_IN using_VBG your_PRP$ bank_NN account_NN !_. 
+----------------------------------------------------------------_: Thank_VB you_PRP for_IN using_VBG PayPal_NNP !_. 
+The_DT PayPal_NNP Team_NNP 
+PayPal_NNP Email_NNP ID_NNP PP_NNP 118_CD 

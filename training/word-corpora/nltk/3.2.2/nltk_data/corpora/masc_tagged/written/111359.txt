@@ -1,0 +1,30 @@
+Subject_NNP :_: Fast_NNP Money_NNP From_IN :_: "_'' Money_NNP "_'' <_NN Janice@buzztect.info_NN >_NN Message-ID_NNP :_: <_NN 2882479058225850767.576ae68769cd66ab787cecdaf5075c0e.1467566263@hziu4.buzztect.info_NN >_NN Date_NN :_: Mon_NNP ,_, 29_CD Nov_NNP 2010_CD 12:05:37_NN -_: 0500_CD To_TO :_: <_NN xxx@xxx.xxx_NN >_NN If_IN you_PRP need_VBP money_NN fast_RB :_: Click_NNP Here_RB 
+
+
+You_PRP can_MD get_VB $1500_NN in_IN your_PRP$ account_NN in_IN as_RB fast_RB as_IN one_CD hour_NN !_. 
+
+
+At_IN 100_CD DayLoans_NNP we_PRP pride_NN ourselves_PRP in_IN putting_VBG our_PRP$ customer_NN 's_POS security_NN and_CC personal_JJ information_NN protection_NN at_IN the_DT top_NN of_IN our_PRP$ priority_NN list_NN ._. 
+We_PRP utilize_VB state-of-the-art_JJ encryption_NN technology_NN to_TO ensure_VB safety_NN of_IN your_PRP$ information_NN from_IN any_DT outside_JJ harm_NN 24/7_CD ._. 
+We_PRP appreciate_VBP you_PRP trusting_VBG us_PRP with_IN your_PRP$ valuable_JJ personal_JJ information_NN and_CC rest_NN assure_VB that_IN we_PRP take_VBP an_DT active_JJ and_CC aggressive_JJ role_NN in_IN protecting_VBG all_DT of_IN your_PRP$ confidential_JJ information_NN ._. 
+
+
+Money_NN is_VBZ any_DT object_VBP that_WDT is_VBZ generally_RB accepted_VBN as_IN payment_NN for_IN goods_NNS and_CC services_NNS and_CC repayment_NN of_IN debts_NNS in_IN a_DT given_JJ country_NN or_CC socio-economic_JJ context_NN ._. 
+The_DT main_JJ functions_NNS of_IN money_NN are_VBP distinguished_VBN as_IN :_: a_DT medium_NN of_IN exchange_NN ;_: a_DT unit_NN of_IN account_NN ;_: a_DT store_NN of_IN value_NN ;_: and_CC ,_, occasionally_RB ,_, a_DT standard_NN of_IN deferred_VBN payment_NN ._. 
+Money_NN originated_VBN as_IN commodity_NN money_NN ,_, but_CC nearly_RB all_DT contemporary_JJ money_NN systems_NNS are_VBP based_VBN on_IN fiat_NN money_NN ._. 
+Fiat_NNP money_NN is_VBZ without_IN intrinsic_JJ use_NN value_NN as_IN a_DT physical_JJ commodity_NN ,_, and_CC derives_VBZ its_PRP$ value_NN by_IN being_VBG declared_VBN by_IN a_DT government_NN to_TO be_VB legal_JJ tender_NN ;_: that_DT is_VBZ ,_, it_PRP must_MD be_VB accepted_VBN as_IN a_DT form_NN of_IN payment_NN within_IN the_DT boundaries_NNS of_IN the_DT country_NN ,_, for_IN "_'' all_DT debts_NNS ,_, public_NN and_CC private_JJ "_'' ._. 
+
+
+The_DT money_NN supply_NN of_IN a_DT country_NN consists_VBZ of_IN currency_NN (_( banknotes_NNS and_CC coins_NNS )_) and_CC demand_NN deposits_VBZ or_CC '_POS bank_NN money_NN '_'' (_( the_DT balance_NN held_VBN in_IN checking_NN accounts_NNS and_CC savings_NNS accounts_NNS )_) ._. 
+These_DT demand_NN deposits_NNS usually_RB account_VBP for_IN a_DT much_RB larger_JJR part_NN of_IN the_DT money_NN supply_NN than_IN currency_NN ._. 
+Bank_NN money_NN is_VBZ intangible_JJ and_CC exists_VBZ only_RB in_IN the_DT form_NN of_IN various_JJ bank_NN records_NNS ._. 
+Despite_IN being_VBG intangible_JJ ,_, bank_NN money_NN still_RB performs_VBZ the_DT basic_JJ functions_NNS of_IN money_NN ,_, being_VBG generally_RB accepted_VBD as_IN a_DT form_NN of_IN payment_NN ._. 
+
+
+The_DT word_NN "_'' money_NN "_'' is_VBZ believed_VBN to_TO originate_VB from_IN a_DT temple_NN of_IN Hera_NNP ,_, located_VBN on_IN Capitoline_NNP ,_, one_CD of_IN Rome_NNP 's_POS seven_CD hills_NNS ._. 
+In_IN the_DT ancient_JJ world_NN Hera_NNP was_VBD often_RB associated_VBN with_IN money_NN ._. 
+The_DT temple_NN of_IN Juno_NNP Moneta_NNP at_IN Rome_NNP was_VBD the_DT place_NN where_WRB the_DT mint_NN of_IN Ancient_NNP Rome_NNP was_VBD located_VBN ._. 
+The_DT name_NN "_'' Juno_NNP "_'' may_MD derive_VB from_IN the_DT Etruscan_NNP goddess_NN Uni_NNP (_( which_WDT means_VBZ "_'' the_DT one_CD "_'' ,_, "_'' unique_JJ "_'' ,_, "_'' unit_NN "_'' ,_, "_'' union_NN "_'' ,_, "_'' united_VBN "_'' )_) and_CC "_'' Moneta_NNP "_'' either_CC from_IN the_DT Latin_NNP word_NN "_'' monere_NN "_'' (_( remind_VB ,_, warn_VB ,_, or_CC instruct_VB )_) or_CC the_DT Greek_JJ word_NN "_'' moneres_NNS "_'' (_( alone_RB ,_, unique_JJ )_) ._. 
+In_IN the_DT Western_JJ world_NN ,_, a_DT prevalent_JJ term_NN for_IN coin-money_JJ has_VBZ been_VBN specie_NN ,_, stemming_VBG from_IN Latin_NNP in_IN specie_NN ,_, meaning_VBG '_POS in_IN kind_NN '_'' ._. 
+
+

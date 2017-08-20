@@ -1,0 +1,27 @@
+July_NNP 30_CD ,_, 1999_CD 
+
+Name_NN Address_NNP City_NNP ,_, ST_NNP Zip_NNP 
+
+Dear_RB Mr._NN Ratcliff_NNP :_: 
+
+CCI_NNP is_VBZ a_DT federation_NN of_IN 13_CD neighborhood-based_JJ multi-service_JJ centers_NNS whose_WP$ mission_NN is_VBZ to_TO identify_VB and_CC meet_VB the_DT human_JJ service_NN needs_NNS of_IN residents_NNS throughout_IN Marion_NNP County_NNP in_IN the_DT most_RBS effective_JJ ,_, efficient_JJ and_CC comprehensive_JJ way_NN possible_JJ ._. 
+In_IN 1998_CD ,_, we_PRP served_VBD a_DT total_NN of_IN 31,484_CD low-income_JJ individuals_NNS through_IN job_NN training_NN and_CC placement_NN assistance_NN ,_, youth_NN and_CC senior_JJ programming_NN ,_, family_NN counseling_NN ,_, emergency_NN assistance_NN ,_, and_CC much_RB more_JJR ._. 
+
+As_IN you_PRP can_MD see_VB from_IN the_DT enclosed_VBN map_NN ,_, your_PRP$ Target_NNP store_NN is_VBZ located_VBN in_IN the_DT heart_NN of_IN four_CD of_IN our_PRP$ service_NN areas_NNS ._. 
+The_DT centers_NNS that_WDT serve_VBP these_DT areas_NNS ,_, Mary_NNP Rigg_NNP Neighborhood_NNP Center_NNP ,_, Hawthorne_NNP Community_NNP Center_NNP ,_, Southwest_NNP Multi-_NNP Service_NNP Center_NNP ,_, and_CC Christamore_NNP House_NNP ,_, have_VBP teamed_VBD up_IN to_TO run_VB an_DT exciting_JJ job_NN readiness_NN program_NN for_IN 14_CD and_CC 15_CD year_NN old_JJ area_NN residents_NNS called_VBD the_DT Summer_NNPS Enrichment_NNP Program_NNP ._. 
+Between_IN June_NNP 21_CD and_CC August_NNP 31_CD ,_, 45_CD youth_NN will_MD spend_VB 20_CD hours_NNS a_DT week_NN developing_VBG life_NN management_NN and_CC work_VB ethic_JJ skills_NNS ,_, learning_VBG the_DT computer_NN ,_, visiting_VBG area_NN colleges_NNS ,_, and_CC interacting_VBG with_IN guest_NN speakers_NNS ._. 
+The_DT end_NN result_NN will_MD be_VB kids_NNS who_WP have_VBP a_DT better_JJR understanding_NN of_IN and_CC vision_NN for_IN their_PRP$ own_JJ future_NN ,_, be_VB it_PRP college_NN or_CC a_DT career_NN ._. 
+
+The_DT Summer_NNPS Enrichment_NNP Program_NNP will_MD conclude_VB with_IN a_DT celebration_NN that_WDT includes_VBZ family_NN and_CC friends_NNS ._. 
+We_PRP would_MD like_VB to_TO offer_VB our_PRP$ youth_NN a_DT small_JJ reward_NN for_IN their_PRP$ participation_NN by_IN presenting_VBG them_PRP with_IN gift_NN certificates_NNS from_IN Target_NNP ._. 
+Therefore_RB ,_, we_PRP are_VBP asking_VBG you_PRP to_TO donate_VB 45_CD ,_, $10_NN gift_NN certificates_NNS that_WDT can_MD be_VB used_VBN toward_IN the_DT purchase_NN of_IN school_NN supplies_NNS or_CC clothing_NN ,_, in_IN the_DT total_JJ amount_NN of_IN $450_NN ._. 
+In_IN return_NN ,_, we_PRP will_MD recognize_VB Target_NNP as_IN a_DT sponsor_NN during_IN our_PRP$ event_NN and_CC in_IN the_DT event_NN program_NN ._. 
+
+Target_NNP is_VBZ well_RB known_VBN for_IN it_PRP 's_VBZ support_NN of_IN the_DT community_NN ,_, and_CC we_PRP believe_VBP that_IN the_DT Summer_NNPS Enrichment_NNP Program_NNP represents_VBZ your_PRP$ interests_NNS and_CC concerns_NNS quite_RB well_RB ._. 
+I_PRP will_MD be_VB happy_JJ to_TO supply_VB any_DT additional_JJ information_NN you_PRP may_MD need_VB and_CC thank_VB you_PRP for_IN your_PRP$ consideration_NN of_IN our_PRP$ request_NN ._. 
+We_PRP look_VBP forward_RB to_TO hearing_NN from_IN you_PRP ._. 
+
+Sincerely_NNP ,_, 
+
+Valery_NNP De_NNP Long_NNP Director_NNP of_IN Development_NNP 
+

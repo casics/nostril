@@ -1,0 +1,34 @@
+No_DT More_JJR Kisses_NNP 
+In_IN light_NN of_IN Secretary_NNP of_IN State_NNP Albright_NNP 's_POS imminent_JJ trip_NN to_TO the_DT middle_JJ east_JJ ,_, the_DT New_NNP York_NNP Times_NNP ,_, Los_NNP Angeles_NNP Times_NNP and_CC Washington_NNP Post_NNP emphasize_VB the_DT deteriorating_VBG situation_NN there_RB ._. 
+But_CC USA_NNP Today_NNP stays_VBZ with_IN Princess_NNP Di_NNP ._. 
+
+The_DT NYT_NNP states_NNS that_IN when_WRB Albright_NNP shows_VBZ up_RB on_IN Tuesday_NNP ,_, she_PRP will_MD "_'' read_VB the_DT riot_NN act_NN "_'' to_TO Yassir_NNP Arafat_NNP about_IN cracking_VBG down_RB on_IN terrorism_NN ._. 
+Her_PRP$ goal_NN will_MD be_VB to_TO get_VB Arafat_NNP to_TO come_VB out_IN decisively_RB and_CC publicly_RB for_IN peace_NN with_IN Israel_NNP ,_, telling_VBG him_PRP that_IN there_EX can_MD be_VB no_DT more_JJR attempts_NNS at_IN co-opting_JJ Hamas_NNP ,_, and_CC "_'' no_DT more_JJR kisses_NNS "_'' of_IN its_PRP$ leaders_NNS ._. 
+
+The_DT Times_NNP emphasizes_VBZ the_DT larger_JJR geopolitical_JJ context_NN ._. 
+Given_VBN that_IN the_DT troubles_NNS on_IN the_DT West_NNP Bank_NNP have_VBP not_RB only_RB frosted_JJ relations_NNS between_IN Arafat_NNP and_CC Israel_NNP ,_, but_CC also_RB those_DT between_IN Israel_NNP and_CC Egypt_NNP and_CC between_IN Israel_NNP and_CC Saudi_NNP Arabia_NNP ,_, the_DT paper_NN states_NNS that_IN the_DT U.S._NN is_VBZ now_RB facing_VBG the_DT prospect_NN that_IN the_DT moderate_JJ Arab_JJ coalition_NN it_PRP built_VBD after_IN the_DT Persian_NNP Gulf_NNP war_NN to_TO contain_VB Iraq_NNP and_CC Iran_NNP is_VBZ falling_VBG apart_RB ._. 
+
+The_DT LAT_NNP focuses_VBZ on_IN new_JJ dissension_NN within_IN the_DT Israeli_JJ government_NN about_IN whether_IN or_CC not_RB Israel_NNP should_MD continue_VB to_TO maintain_VB forces_NNS in_IN southern_JJ Lebanon_NNP ,_, dissension_NN fueled_VBN when_WRB an_DT Israeli_JJ commando_NN raid_NN there_EX late_JJ last_JJ week_NN was_VBD ambushed_VBD ,_, with_IN twelve_CD deaths_NNS the_DT result_NN ._. 
+Perhaps_RB the_DT most_RBS striking_JJ indicator_NN of_IN a_DT change_NN of_IN mood_NN inside_IN the_DT government_NN reported_VBN by_IN the_DT paper_NN is_VBZ the_DT news_NN that_DT cabinet_NN member_NN Ariel_NNP Sharon_NNP ,_, who_WP as_IN Defense_NNP Minister_NNP in_IN 1982_CD got_VBD Israel_NNP entrenched_VBN in_IN Lebanon_NNP in_IN the_DT first_JJ place_NN ,_, is_VBZ among_IN those_DT urging_VBG a_DT reconsideration_NN of_IN the_DT deployment_NN ._. 
+
+Several_JJ papers_NNS have_VBP word_NN that_IN H_NNP and_CC R_NNP Block_NNP has_VBZ finally_RB wriggled_JJ out_IN of_IN its_PRP$ controlling_VBG stake_NN of_IN Compuserve_NNP ,_, but_CC it_PRP 's_VBZ the_DT Post_NNP with_IN the_DT news_NN that_IN AOL_NNP is_VBZ set_VBN to_TO take_VB it_PRP over_IN ._. 
+
+The_DT Wall_NNP Street_NNP Journal_NNP "_'' Outlook_NNP "_'' observes_VBZ ,_, "_'' In_IN the_DT U.S._NN job_NN market_NN ,_, the_DT balance_NN of_IN power_NN is_VBZ shifting_VBG to_TO employees_NNS from_IN employers_NNS ,_, "_'' and_CC states_NNS that_IN "_'' the_DT retention_NN frenzy_NN was_VBD triggered_VBN in_IN part_NN by_IN previous_JJ waves_NNS of_IN corporate_JJ downsizing_NN ,_, "_'' which_WDT left_VBN behind_IN survivors_NNS who_WP took_VBD stock_NN of_IN career_NN options_NNS and_CC used_VBN Internet_NN job_NN listings_NNS and_CC intensified_VBN recruiting_VBG to_TO land_VB better_JJR offers_VBZ ,_, which_WDT in_IN turn_NN led_VBN to_TO counter-offers_JJ and_CC higher_JJR salaries_NNS ._. 
+This_DT has_VBZ led_VBN ,_, says_VBZ the_DT Journal_NNP ,_, to_TO annual_JJ compensation_NN rising_VBG 5_CD -_: 6_CD percent_NN a_DT year_NN ._. 
+
+Much_JJ of_IN the_DT continuing_VBG Diana_NNP coverage_NN is_VBZ spinning_JJ off_RP into_IN the_DT realm_NN of_IN meta-_NN and_CC meta-meta-pieces_JJ ._. 
+The_DT LAT_NNP ,_, for_IN instance_NN ,_, examines_VBZ what_WP it_PRP takes_VBZ to_TO be_VB a_DT new_JJ "_'' cuddly-feely_JJ "_'' Britain_NNP born_VBN of_IN the_DT national_JJ grief_NN experience_NN ._. 
+But_CC USAT_NNP and_CC the_DT WP_NNP also_RB each_DT run_NN pretty_RB newsy_NN Diana_NNP pieces_NNS as_RB well_RB ._. 
+Both_DT reveal_VB that_IN Tony_NNP Blair_NNP had_VBD conferred_VBD with_IN Diana_NNP about_IN a_DT goodwill_NN ambassador_NN job_NN shortly_RB before_IN her_PRP$ death_NN ,_, and_CC USAT_NNP reports_NNS that_IN Le_NNP Figaro_NNP says_VBZ a_DT dying_VBG Diana_NNP gave_VBD two_CD crash_NN witnesses_NNS a_DT message_NN for_IN her_PRP$ family_NN and_CC children_NNS ._. 
+
+Give_VB the_DT NYT_NNP credit_NN for_IN getting_VBG Mother_NNP Teresa_NNP back_RB on_IN the_DT front_JJ page_NN and_CC a_DT bonus_NN point_NN for_IN including_VBG some_DT criticism_NN of_IN her_PRP in_IN the_DT story_NN ._. 
+"_'' Not_RB everyone_NN in_IN Calcutta_NNP ,_, or_CC India_NNP for_IN that_DT matter_NN ,_, is_VBZ unanimous_JJ in_IN praising_VBG the_DT nun_NN ,_, whose_WP$ organization_NN was_VBD able_JJ to_TO raise_VB millions_NNS of_IN dollars_NNS worldwide_NN but_CC made_VBN virtually_RB no_DT significant_JJ changes_NNS in_IN the_DT social_JJ structure_NN of_IN this_DT collapsing_VBG city_NN 's_POS poor_JJ neighborhoods_NNS ._. 
+Salvation--hers_NNP and_CC that_IN of_IN the_DT destitute_JJ she_PRP rescued_VBD from_IN the_DT gutters--was_JJ her_PRP$ aim_NN ,_, not_RB economic_JJ or_CC social_JJ development_NN as_IN many_JJ others_NNS understand_VBP it_PRP ,_, she_PRP said_VBD ._. "_'' 
+It_PRP 's_VBZ odd_JJ ,_, however_RB ,_, that_IN in_IN repeating_VBG this_DT charge_NN ,_, the_DT Times_NNP did_VBD n't_RB interview_VB the_DT man_NN most_RBS closely_RB associated_VBN with_IN it_PRP ,_, Christopher_NNP Hitchens_NNP ,_, or_CC refer_VBP to_TO the_DT book_NN where_WRB he_PRP set_VBD it_PRP out_IN ,_, The_DT Missionary_NNP Position_NNP ._. 
+Hmmm_NNP ,_, wanna_NN bet_NN there_EX was_VBD a_DT copy_NN of_IN the_DT book_NN on_IN somebody_NN 's_POS desk_NN at_IN the_DT Times_NNP though_IN ?_. 
+
+What_WP 's_VBZ with_IN the_DT top-of-the-front_JJ headline_NN the_DT LAT_NNP puts_VBZ over_IN its_PRP$ picture_NN of_IN Martina_NNP Hingis_NNP standing_NN next_JJ to_TO Venus_NNP Williams_NNP after_IN beating_VBG her_PRP at_IN the_DT U.S._NN Open--_NNP "_'' Venus_NNP Brought_NNP Back_RB to_TO Earth_NNP "_'' ?_. 
+Does_VBZ n't_RB that_DT sound_NN like_IN celebrating_VBG a_DT defeat_NN rather_RB than_IN celebrating_VBG a_DT victory_NN ?_. 
+How_WRB odd--and_JJ a_DT good_JJ illustration_NN of_IN how_WRB trying_VBG to_TO shoe-horn_VB in_IN a_DT "_'' witty_JJ "_'' headline_NN can_MD drive_VB you_PRP into_IN an_DT idea_NN that_WDT does_VBZ n't_RB fit_VB or_CC is_VBZ undeserved_JJ ._. 
+Given_VBN that_DT Ms._NN Williams_NNP '_POS parents_NNS are_VBP rather_RB protective_JJ of_IN her_PRP$ and_CC that_IN she_PRP is_VBZ a_DT black_NN in_IN a_DT still_RB pretty-lilly-white_JJ sport_NN ,_, do_VBP n't_RB be_VB surprised_VBN if_IN there_EX 's_VBZ a_DT bit_NN of_IN a_DT complaint_NN about_IN this_DT ._. 
+

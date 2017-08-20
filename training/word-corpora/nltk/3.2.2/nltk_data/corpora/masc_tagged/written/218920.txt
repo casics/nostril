@@ -1,0 +1,7 @@
+Message-ID_NNP :_: <_NN 6316972.1075852466973.JavaMail.evans@thyme_NN >_NN Date_NN :_: Thu_NNP ,_, 16_CD Aug_NNP 2001_CD 10:33:21_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: john.shelk@enron.com_NN To_TO :_: d_SYM ._. ._. steffes@enron.com_NN ,_, sarah.novosel@enron.com_NN ,_, charles.yeung@enron.com_NN Subject_NNP :_: Deadline_NNP Today_NNP --_: Draft_NNP Enron_NNP Comments_NNS on_IN NERC_NNP Bill_NNP Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Attached_NNP are_VBP suggested_VBN comments_NNS on_IN the_DT draft_NN NERC_NNP bill_NN for_IN which_WDT we_PRP were_VBD asked_VBN to_TO provide_VB comments_NNS by_IN today_NN ._. 
+You_PRP will_MD see_VB that_IN the_DT response_NN is_VBZ a_DT firm_NN ,_, but_CC polite_JJ --_: no_DT thanks_NNS ._. 
+While_IN I_PRP doubt_VBP NERC_NNP assumes_VBZ that_DT silence_NN means_VBZ support_NN by_IN their_PRP$ deadline_NN today_NN ,_, I_PRP would_MD like_VB to_TO get_VB something_NN to_TO them_PRP by_IN COB_NNP if_IN at_IN all_DT possible_JJ ._. 
+(_( I_NN will_MD be_VB on_IN vacation_NN tomorrow_NN in_IN any_DT event_NN )_) ._. 
+With_IN apologies_NNS for_IN the_DT short_JJ turn_NN around_RP ,_, please_VB call_NN or_CC e-mail_JJ your_PRP$ comments_NNS or_CC OK_JJ this_DT afternoon_NN ._. 
+
+John_NNP 

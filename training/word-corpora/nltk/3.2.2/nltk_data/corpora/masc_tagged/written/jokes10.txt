@@ -1,0 +1,164 @@
+USSRSOS_NNP Some_DT new_JJ information_NN has_VBZ come_VBN to_TO light_VB over_IN the_DT Kursk_NNP disaster_NN ._. 
+(_( For_IN those_DT with_IN short_JJ attention_NN spans_NNS ,_, the_DT Kursk_NNP was_VBD the_DT submarine_NN that_WDT blew_VBD up_RB and_CC sank_VBD in_IN the_DT Arctic_NNP Ocean_NNP killing_VBG all_DT 118_CD on_IN board_NN ._. )_) 
+The_DT Russians_NNPS tried_VBD to_TO blame_VB the_DT incident_NN on_IN a_DT collision_NN with_IN an_DT unidentified_JJ object_VBP ._. 
+However_RB ,_, sonar_NN tapes_NNS which_WDT recorded_VBD the_DT blasts_NNS (_( a_DT small_JJ one_CD at_IN first_JJ ,_, then_RB a_DT much_RB larger_JJR one_CD ,_, two_CD minutes_NNS later_RB )_) ,_, cast_NN doubt_NN on_IN these_DT claims_NNS ._. 
+A_DT whistle-blower_JJ within_IN the_DT Russian_JJ military_NN has_VBZ leaked_VBN that_IN the_DT crew_NN of_IN the_DT Kursk_NNP was_VBD testing_VBG a_DT new_JJ type_NN of_IN torpedo_VB when_WRB the_DT accident_NN occurred_VBD ._. 
+It_PRP seemed_VBD very_RB likely_JJ that_IN the_DT test_NN did_VBD n't_RB go_VB quite_RB as_IN planned_VBN ._. 
+While_IN rescue_NN efforts_NNS to_TO save_VB the_DT survivors_NNS of_IN the_DT Kursk_NNP failed_VBD ,_, salvage_VB crews_NNS were_VBD able_JJ to_TO recover_VB a_DT '_POS Black_NNP Box_NNP '_POS from_IN the_DT submarine_NN which_WDT recorded_VBD events_NNS leading_VBG up_RP to_TO the_DT explosion_NN ._. 
+As_IN luck_NN would_MD have_VB it_PRP ,_, we_PRP managed_VBD to_TO obtain_VB a_DT copy_NN of_IN those_DT tapes_NNS ._. 
+It_PRP turns_VBZ out_RP that_IN the_DT submarine_NN crew_NN was_VBD trying_VBG to_TO load_VB Microsoft_NNP Windows_NNP on_IN their_PRP$ fire_NN control_NN computer_NN ._. 
+Their_PRP$ intent_NN was_VBD to_TO replace_VB the_DT aging_VBG CP_NNP /_NN M_NNP operating_VBG system_NN with_IN the_DT flashier_JJR Windows_NNP OS_NNP ._. 
+Apparently_RB ,_, the_DT Russians_NNPS did_VBD n't_RB know_VB about_IN the_DT legendary_JJ stability_NN problems_NNS exhibited_VBN by_IN Windows_NNP ._. 
+The_DT log_NN tapes_NNS make_VB this_DT painfully_RB obvious_JJ :_: 
+
+Captain_NNP :_: Is_VBZ the_DT new_JJ fire_NN control_NN Windows_NNP OS_NNP installed_VBD yet_RB ?_. 
+Seaman_NNP :_: Almost_RB Sir_NNP ._. 
+We_PRP just_RB need_VBP to_TO finish_VB filling_VBG out_RP the_DT registration_NN card_NN ._. 
+Captain_NNP :_: Excellent_NNP !_. ._. 
+Soon_RB we_PRP will_MD be_VB able_JJ to_TO point_VB and_CC click_NN our_PRP$ enemies_NNS into_IN oblivion_NN ._. 
+-_: [_NN evil_JJ laughter_NN in_IN background_NN ]_NN 
+Seaman_NNP :_: Captain_NNP !_. 
+It_PRP is_VBZ booting_VBG !_. 
+Look_VB ,_, it_PRP says_VBZ "_'' Preparing_NNP to_TO run_VB Windows_NNP for_IN the_DT first_JJ time_NN "_'' ._. 
+-_: [_NN Very_RB long_JJ pause_NN ]_NN 
+Seaman_NNP :_: Arrgh_NNP !_. 
+Sir_NNP ,_, it_PRP wants_VBZ me_PRP to_TO reboot_NN again_RB ._. 
+That_DT makes_VBZ the_DT 27th_JJ time_NN ._. 
+Captain_NNP :_: Hmmm_NNP ._. 
+This_DT is_VBZ not_RB encouraging_VBG ._. 
+Go_VB ahead_RB and_CC reboot_NN again_RB ._. 
+Seaman_NNP :_: Aye_NNP Sir_NNP ._. 
+-_: [_NN another_DT long_JJ pause_NN ]_NN 
+Seaman_NNP :_: Captain_NNP ,_, it_PRP is_VBZ up_RB again_RB ._. 
+It_PRP says_VBZ it_PRP found_VBD new_JJ hardware_NN ..._... 
+A_DT CD-ROM_NN drive_NN and_CC that_IN it_PRP needs_VBZ drivers_NNS ._. 
+Captain_NNP :_: Where_WRB are_VBP the_DT drivers_NNS ?_. 
+Seaman_NNP :_: On_IN the_DT CD-ROM_NN ._. 
+Captain_NNP :_: You_PRP are_VBP joking_VBG ,_, right_NN ?_. 
+Seaman_NNP :_: No_DT Sir_NNP ._. 
+Captain_NNP :_: Reboot_NNP the_DT damn_NN thing_NN again_RB ._. 
+I_PRP am_VBP starting_VBG not_RB to_TO like_IN this_DT Windows_NNP ._. 
+-_: [_NN another_DT long_JJ pause_NN ]_NN 
+Seaman_NNP :_: Sir_NNP !_. 
+It_PRP is_VBZ back_RB !_. 
+It_PRP says_VBZ it_PRP found_VBD the_DT Gorby_NNP 2000_CD Torpedo_NNP and_CC is_VBZ looking_VBG for_IN the_DT device_NN drivers_NNS ._. 
+Do_VBP we_PRP have_VB a_DT driver_NN disk_NN ?_. 
+Captain_NNP :_: I_PRP do_VBP not_RB think_VB so_RB ._. 
+Seaman_NNP :_: I_PRP will_MD tell_VB it_PRP to_TO use_VB the_DT default_NN drivers_NNS ._. 
+-_: [_NN another_DT long_JJ pause_NN ]_NN 
+Seaman_NNP :_: Crap_NNP ._. 
+It_PRP wants_VBZ to_TO reboot_NN again_RB ._. 
+Captain_NNP :_: How_WRB many_JJ times_NNS are_VBP we_PRP going_VBG to_TO reboot_NN today_NN ?_. 
+This_DT is_VBZ taking_VBG forever_RB ._. 
+Our_PRP$ hull_NN is_VBZ going_VBG to_TO rust_NN out_IN before_IN this_DT works_VBZ ._. 
+-_: [_NN another_DT long_JJ pause_NN ]_NN 
+Seaman_NNP :_: Sir_NNP !_. 
+It_PRP is_VBZ up_RB and_CC this_DT time_NN it_PRP is_VBZ not_RB asking_VBG for_IN anything_NN !_. 
+Captain_NNP :_: Really_RB ?_. 
+No_DT device_NN drivers_NNS ?_. 
+No_DT registration_NN cards_NNS ?_. 
+No_DT user_NN profiles_NNS ?_. 
+Seaman_NNP :_: No_DT Sir_NNP ._. 
+I_PRP think_VBP it_PRP is_VBZ ready_JJ ._. 
+Captain_NNP :_: Good_JJ work_NN ._. 
+Now_RB click_NN on_IN the_DT fire_NN control_NN icon_NN and_CC let_VB us_PRP see_VB how_WRB this_DT works_VBZ ._. 
+Seaman_NNP :_: Clicking_NNP now_RB ,_, Sir_NNP ._. 
+-_: [_NN another_DT long_JJ pause_NN ]_NN 
+Captain_NNP :_: Why_WRB does_VBZ the_DT fire_NN control_NN screen_NN have_VBP a_DT dancing_NN paper_NN clip_NN on_IN it_PRP ?_. 
+Seaman_NNP :_: I_PRP have_VBP no_DT idea_NN Sir_NNP ._. 
+Captain_NNP :_: Hmmm_NNP ,_, well_RB try_VB clicking_VBG on_IN the_DT menu_NN ._. 
+Seaman_NNP :_: Aye_NNP Sir_NNP ._. 
+Let_NNP us_PRP see_VB ;_: Open_NNP E-_NNP mail_NN ,_, Spam_NNP a_DT friend_NN ,_, Mail_NNP a_DT Virus_NNP ,_, Fire_NNP a_DT Torpedo_NNP ._. 
+Captain_NNP :_: We_PRP will_MD Spam_NNP a_DT friend_NN later_RB ._. 
+Let_VB us_PRP fire_NN a_DT torpedo_VB ._. 
+Seaman_NNP :_: Aye_NNP Sir_NNP ._. 
+-_: [_NN another_DT long_JJ pause_NN ]_NN 
+Seaman_NNP :_: It_PRP is_VBZ asking_VBG us_PRP to_TO load_VB the_DT torpedo_VB and_CC to_TO click_NN when_WRB ready_JJ ._. 
+Captain_NNP :_: Torpedo_NNP room_NN ,_, load_NN a_DT torpedo_VB in_IN tube_NN number_NN 1_CD !_. 
+[_NN intercom_NN :_: ]_NN This_DT is_VBZ the_DT Torpedo_NNP room_NN ._. 
+The_DT torpedo_VB is_VBZ loaded_VBN Sir_NNP ._. 
+Captain_NNP :_: Click_NNP on_IN the_DT continue_VB button_NN ._. 
+Seaman_NNP :_: Aye_NNP Sir_NNP ._. 
+-_: [_NN another_DT long_JJ pause_NN ]_NN 
+Seaman_NNP :_: It_PRP is_VBZ asking_VBG for_IN a_DT target_NN Sir_NNP ._. 
+Captain_NNP :_: Hmmm_NNP ,_, target_NN the_DT Rainbow_NNP Warrior_NNP ._. 
+Seaman_NNP :_: Aye_NNP Sir_NNP ._. 
+Damn_NNP !_. 
+It_PRP says_VBZ the_DT torpedo_VB is_VBZ low_JJ on_IN ink_NN ._. 
+Captain_NNP :_: Click_NNP ignore_VB ._. 
+We_PRP will_MD get_VB some_DT ink_NN when_WRB we_PRP return_VBP to_TO base_VB ._. 
+Seaman_NNP :_: Aye_NNP Sir_NNP ._. 
+We_PRP are_VBP ready_JJ to_TO fire_VB ._. 
+Captain_NNP :_: Very_RB good_JJ ._. 
+You_PRP may_MD fire_VB when_WRB ready_JJ ._. 
+Seaman_NNP :_: Firing_NNP torpedo_VB Sir_NNP ._. 
+-_: [_NN another_DT really_RB long_JJ pause_NN ]_NN 
+Captain_NNP :_: Well_RB ?_. 
+Seaman_NNP :_: I_PRP am_VBP trying_VBG Sir_NNP ._. 
+Nothing_NN is_VBZ happening_VBG ._. 
+Wait_VB a_DT minute_NN ...._. 
+[_NN a_DT loud_JJ explosion_NN is_VBZ heard_VBN in_IN the_DT background_NN followed_VBN by_IN screaming_VBG on_IN intercom_NN ]_NN 
+Captain_NNP :_: What_WP the_DT ****_NN was_VBD that_IN ?_. !_. ?_. !_. ?_. 
+Seaman_NNP :_: Captain_NNP !_. 
+A_DT new_JJ screen_NN has_VBZ appeared_VBN !_. 
+Outlook_NNP Express_NNP Fire_NNP Control_NNP has_VBZ performed_VBN an_DT illegal_JJ operation_NN and_CC will_MD be_VB shut_VB down_RB ._. 
+Click_NNP '_POS OK_JJ '_POS to_TO continue_VB ._. 
+Seaman_NNP :_: Oh_UH my_PRP$ God_NNP !_. 
+The_DT paper_NN clip_NN has_VBZ died_VBN !_. 
+What_WP should_MD I_PRP do_VB ?_. 
+Captain_NNP :_: Shut_NNP it_PRP down_RB !_. 
+Shut_NNP it_PRP down_RB !_. 
+Seaman_NNP :_: It_PRP is_VBZ not_RB responding_VBG Sir_NNP !_. 
+Captain_NNP :_: Try_VB '_POS CTRL-ALT-DELETE_NNP '_POS !_. 
+Seaman_NNP :_: Aye_NNP Sir_NNP ._. 
+We_PRP are_VBP in_IN luck_NN !_. 
+The_DT task_NN manager_NN is_VBZ still_RB operating_VBG ._. 
+I_PRP 'm_VBP instructing_VBG the_DT task_NN manager_NN to_TO shut_VB down_RB Outlook_NNP Fire_NNP Control_NNP ._. 
+-_: [_NN another_DT long_JJ pause_NN ]_NN 
+Seaman_NNP :_: The_DT task_NN manager_NN says_VBZ that_IN Outlook_NNP Fire_NNP Control_NNP is_VBZ not_RB responding_VBG ._. 
+Captain_NNP :_: Well_RB no_DT ****_NN ._. 
+Tell_VB it_PRP to_TO '_POS end_NN task_NN '_'' ._. 
+Seaman_NNP :_: Nothing_NN is_VBZ happening_VBG Sir_NNP ._. 
+Captain_NNP :_: Try_VB '_POS CTRL-ALT-DELETE_NNP '_POS again_RB ._. 
+Seaman_NNP :_: Aye_NNP Sir_NNP ._. 
+-_: [_NN sounds_NNS of_IN frantic_JJ pecking_VBG on_IN keyboard_NN ._. ]_NN 
+Seaman_NNP :_: Oooh_NNP !_. 
+What_WP a_DT pretty_RB blue_JJ screen_NN !_. 
+Captain_NNP :_: Holy_NNP ****_NN !_. 
+Not_RB the_DT blue_JJ screen_NN of_IN dea_NN ...._. -_: 
+[_NN KABLAM_NNP !!!!!_. -_: A_DT really_RB big_JJ explosion_NN ._. More_JJR screaming_VBG and_CC the_DT sound_NN of_IN rushing_VBG water_NN ._. ]_NN 
+The_DT tape_NN ends_VBZ at_IN this_DT point_NN ._. 
+During_IN the_DT weeklong_JJ rescue_NN effort_NN ,_, divers_NNS reported_VBD hearing_VBG tapping_VBG in_IN the_DT form_NN of_IN Morse_NNP code_NN coming_VBG from_IN survivors_NNS inside_IN the_DT damaged_JJ sub_NN ._. 
+The_DT rescuers_NNS could_MD n't_RB understand_VB why_WRB a_DT group_NN of_IN men_NNS would_MD spend_VB the_DT last_NN of_IN their_PRP$ strength_NN tapping_VBG out_IN "_'' Windows_NNP Sucks_NNP "_'' in_IN Morse_NNP code_NN ._. 
+The_DT tapes_NNS of_IN the_DT last_JJ moments_NNS of_IN the_DT Kursk_NNP may_MD offer_VB some_DT insight_NN into_IN this_DT ._. 
+
+Army_NNP Training_NNP At_IN one_CD Army_NNP base_NN ,_, the_DT annual_JJ trip_NN to_TO the_DT rifle_NN range_NN had_VBD been_VBN canceled_VBN for_IN the_DT second_JJ year_NN in_IN a_DT row_NN ,_, but_CC the_DT semi-annual_JJ physical_JJ fitness_NN test_NN was_VBD still_RB on_IN as_IN planned_VBN ._. 
+One_CD soldier_NN pondered_JJ ,_, "_'' Does_VBZ it_PRP bother_VBP anyone_NN here_RB that_IN the_DT Army_NNP does_VBZ n't_RB care_VB how_WRB well_RB we_PRP can_MD shoot_VB ,_, but_CC they_PRP seem_VBP to_TO be_VB extremely_RB interested_JJ in_IN how_WRB fast_RB we_PRP can_MD run_VB ?_. "_'' 
+
+REDNECK_NNP COMPUTER_NNP TERMS_NNP BACKUP_NNP -_: What_WP you_PRP do_VBP when_WRB you_PRP run_VBP across_IN a_DT skunk_NN in_IN the_DT woods_NNS ._. 
+BAR_NNP CODE_NNP -_: Them_NNP 's_VBZ the_DT fight_NN '_'' n_NN rules_NNS down_RB in_IN the_DT local_JJ tavern_NN ._. 
+BUG_NNP -_: The_DT reason_NN you_PRP give_VBP for_IN calling_VBG in_IN sick_JJ ._. 
+BYTE_NNP -_: What_WP your_PRP$ pit_NN bull_NN dun_NN to_TO cusin_NN Jethro_NNP ._. 
+CACHE_NNP -_: Needed_NNP when_WRB you_PRP run_VBP out_IN of_IN food_NN stamps_NNS ._. 
+CHIP_NNP -_: Pasture_NNP muffins_NNS that_IN you_PRP try_VBP not_RB to_TO step_VB in_IN ._. 
+TERMINAL_NNP -_: Time_NNP to_TO call_VB the_DT undertaker_NN ._. 
+CRASH_NNP -_: When_WRB you_PRP go_VBP to_TO Junior_NN 's_POS party_NN uninvited_JJ ._. 
+DIGITAL_NNP -_: The_DT art_NN of_IN counting_VBG on_IN your_PRP$ fingers_NNS ._. 
+DISKETTE_NNP -_: Female_NNP disco_NN dancer_NN ._. 
+FAX_NNP -_: What_WP you_PRP lie_VBP about_IN to_TO the_DT IRS_NNP ._. 
+HACKER_NNP -_: Uncle_NNP Leroy_NNP after_IN 32_CD years_NNS of_IN smoking_NN ._. 
+HARDCOPY_NNP -_: Picture_NNP looked_VBD at_IN when_WRB selecting_VBG tattoos_NNS ._. 
+INTERNET_NNP -_: Where_WRB cafeteria_NN workers_NNS put_VBP their_PRP$ hair_NN ._. 
+KEYBOARD_NNP -_: Where_WRB you_PRP hang_VBP the_DT keys_NNS to_TO the_DT John_NNP Deere_NNP ._. 
+MAC_NNP -_: Big_NNP Bubba_NNP 's_POS favorite_JJ fast_RB food_NN ._. 
+MEGAHERTZ_NNP -_: How_WRB your_PRP$ head_NN feels_VBZ after_IN 17_CD beers_NNS ._. 
+MODEM_NNP -_: What_WP ya_PRP did_VBD when_WRB the_DT grass_NN and_CC weeds_NNS got_VBD too_RB tall_JJ ._. 
+MOUSE_NNP PAD_NNP -_: Where_WRB Mickey_NNP and_CC Minnie_NNP live_VBP ._. 
+NETWORK_NNP -_: Scoop_NNP '_POS n_NN up_RP a_DT big_JJ fish_NN before_IN it_PRP breaks_VBZ the_DT line_NN ._. 
+ONLINE_NNP -_: Where_WRB to_TO stay_VB when_WRB taking_VBG the_DT sobriety_NN test_NN ._. 
+SCREEN_NNP -_: Helps_VBZ keep_VB the_DT Skeeters_NNP off_IN the_DT porch_NN ._. 
+SERIAL_NNP PORT_NNP -_: A_DT red_JJ wine_NN you_PRP drink_VBP after_IN breakfast_NN ._. 
+SUPERCONDUCTOR_NNP -_: AMTRAK_NNP 's_POS Employee_NNP of_IN the_DT Year_NN ._. 
+SCSI_NNP -_: What_WP you_PRP call_VBP your_PRP$ week-old_JJ underwear_NN ._. 
+ROM_NNP -_: Where_WRB the_DT Pope_NNP lives_NNS ._. 
+

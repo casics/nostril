@@ -1,0 +1,129 @@
+INT_NNP -_- SAMUEL_NNP PERKINS_NNP '_POS OFFICE_NN -_- MORNING_NNP INT_NNP -_- GRANT_NNP ,_, MALCOLM_NNP ,_, AND_CC SATTLER_NNP ARE_VBP SEATED_NNP IN_IN FRONT_NNP OF_IN A_DT DESK_NN IN_IN A_DT LEGAL_JJ OFFICE_NN ._. 
+BOOKCASES_NNS LINE_NN THE_DT WALLS_NNS ,_, A_DT TV_NNP ON_IN A_DT MOBILE_NN STAND_NN IS_VBZ BEHIND_IN THE_DT DESK_NN WITH_IN A_DT LEATHER_JJ CHAIR_NNP ._. 
+-_- MORNING_NNP IAN_NNP MALCOLM_NNP ..._... Actually_RB the_DT San_NNP Diego_NNP incident_NN restored_VBD a_DT lot_NN of_IN my_PRP$ credibility_NN ._. 
+I_PRP was_VBD no_RB longer_RB a_DT lunatic_JJ who_WP had_VBD seen_VBN dinosaurs_NNS with_IN a_DT bunch_NN of_IN other_JJ people_NNS who_WP did_VBD n't_RB ._. 
+ALAN_NNP GRANT_NNP About_IN that_DT ..._... 
+ELLIE_NNP SATTLER_NNP We_PRP 're_VBP really_RB sorry_JJ we_PRP did_VBD n't_RB back_RB you_PRP up_RP about_IN the_DT park_NN ._. 
+ALAN_NNP GRANT_NNP There_EX was_VBD just_RB so_RB much_JJ at_IN stake_NN ..._... research_NN money_NN had_VBN been_VBN really_RB hard_JJ to_TO come_VBN by_IN ._. 
+In_IN retrospect_NN ,_, it_PRP wasn_NN ’_NN t_NN worth_JJ lying_VBG ._. 
+ELLIE_NNP SATTLER_NNP You_PRP lost_VBD as_RB much_RB as_IN we_PRP did_VBD on_IN that_DT island_NN ,_, we_PRP should_MD n't_RB have_VB deserted_VBN you_PRP ._. 
+ALAN_NNP GRANT_NNP I_PRP 'm_VBP sorry_JJ ,_, Ian_NNP ._. 
+IAN_NNP MALCOLM_NNP I_PRP have_VBP to_TO admit_VB ,_, I_PRP did_VBD hold_VB it_PRP against_IN you_PRP in_IN the_DT beginning_NN ,_, but_CC now_RB I_PRP look_VBP back_RB and_CC I_PRP realize_VBP that_IN three_CD lunatics_NNS would_MD have_VB been_VBN no_DT more_RBR convincing_VBG to_TO the_DT general_JJ public_NN than_IN just_RB one_CD ._. 
+ELLIE_NNP SATTLER_NNP Are_VBP you_PRP forgiving_VBG us_PRP ?_. 
+IAN_NNP MALCOLM_NNP (_( smirking_VBG )_) Well_RB ,_, I_PRP do_VBP n't_RB usually_RB let_VB people_NNS slide_NN for_IN mistakes_NNS of_IN this_DT magnitude_NN ,_, but_CC what_WP the_DT heck_NN ._. 
+It_PRP 's_VBZ water_NN under_IN the_DT bridge_NN ._. 
+PERKINS_NNP enters_VBZ from_IN behind_IN GRANT_NNP ,_, MALCOLM_NNP ,_, and_CC SATTLER_NNP ._. He_PRP is_VBZ carrying_VBG a_DT large_JJ manila_NN envelope_NN ._. 
+SAMUEL_NNP PERKINS_NNP (_( moving_VBG from_IN the_DT door_NN to_TO his_PRP$ desk_NN 
+)_) Sorry_JJ to_TO have_VB kept_VBN you_PRP waiting_VBG for_IN so_RB long_JJ ._. 
+I_PRP know_VBP we_PRP all_DT have_VBP business_NN to_TO tend_VB to_TO today_NN ,_, so_IN I_PRP 'll_MD be_VB as_RB brief_JJ as_IN possible_JJ ._. 
+PERKINS_NNP reads_VBZ off_RP of_IN the_DT envelope_NN ._. 
+SAMUEL_NNP PERKINS_NNP (_( CONT'D_JJ )_) I_PRP ,_, Jonathon_NNP Parker_NNP Hammond_NNP ,_, as_IN my_PRP$ final_JJ wish_VBP request_NN that_IN the_DT following_VBG video_NN be_VB shown_VBN only_RB to_TO Alan_NNP Grant_NNP ,_, Ellen_NNP Sattler_NNP ,_, and_CC Ian_NNP Malcolm_NNP and_CC only_RB to_TO the_DT three_CD of_IN the_DT aforementioned_JJ as_IN a_DT group_NN of_IN three_CD on_IN the_DT occasion_NN of_IN my_PRP$ death_NN ._. "_'' 
+IAN_NNP MALCOLM_NNP Just_RB your_PRP$ average_JJ "_'' farewell_NN from_IN beyond_IN the_DT grave_JJ "_'' boilerplate_NN ,_, huh_NN ?_. 
+SAMUEL_NNP PERKINS_NNP (_( laughing_VBG )_) Mr._NN Hammond_NNP hated_VBN lawyers_NNS almost_RB as_RB much_JJ as_IN he_PRP hated_VBN the_DT language_NN we_PRP use_VBP ._. 
+SAMUEL_NNP PERKINS_NNP (_( CONT'D_JJ )_) (_( indicating_VBG the_DT VHS_NNP tape_NN 
+)_) But_CC I_PRP think_VBP this_DT should_MD be_VB quite_RB straightforward_JJ ._. 
+Mr._NN Hammond_NNP always_RB seemed_VBD like_IN that_DT kind_NN of_IN man_NN to_TO me_PRP ._. 
+ALAN_NNP GRANT_NNP (_( Searching_VBG for_IN the_DT word_NN 
+)_) He_PRP was_VBD ..._... 
+ELLIE_NNP SATTLER_NNP Unique_JJ ._. 
+IAN_NNP MALCOLM_NNP To_TO put_VB it_PRP mildly_RB ._. 
+SAMUEL_NNP PERKINS_NNP (_( turning_VBG on_IN the_DT TV_NN 
+)_) Okay_UH ,_, I_PRP 'm_VBP just_RB going_VBG to_TO go_VB ahead_RB and_CC start_VB this_DT tape_NN ._. 
+When_WRB PERKINS_NNP turns_VBZ on_IN the_DT TV_NN ,_, CNN_NNP shows_VBZ on_IN the_DT screen_NN with_IN one_CD of_IN their_PRP$ regular_JJ programs_NNS ._. 
+When_WRB he_PRP pushes_VBZ "_'' play_VB "_'' the_DT screen_NN goes_VBZ black_JJ for_IN a_DT moment_NN ,_, then_RB John_NNP Hammond_NNP fades_NNS into_IN view_NN ._. 
+He_PRP is_VBZ dressed_VBN in_IN a_DT robe_NN and_CC is_VBZ clearly_RB reclining_VBG in_IN a_DT hospital_NN bed_NN with_IN I.V._NN bags_NNS hanging_VBG near_IN him_PRP and_CC a_DT heart_NN monitor_NN at_IN his_PRP$ side_NN ._. 
+JOHN_NNP HAMMOND_NNP G_NNP '_POS day_NN ._. 
+I_PRP suppose_VBP that_IN if_IN you_PRP 're_VBP watching_VBG this_DT ,_, the_DT inevitable_JJ has_VBZ already_RB occurred_VBN ._. 
+I_PRP have_VBP passed_VBN from_IN this_DT life_NN to_TO ,_, what_WP I_PRP hope_VBP will_MD be_VB a_DT merciful_JJ afterlife_NN ._. 
+JOHN_NNP HAMMOND_NNP (_( CONT'D_JJ )_) I_PRP want_VBP to_TO take_VB a_DT moment_NN to_TO apologize_VB once_RB more_JJR to_TO each_DT of_IN you_PRP for_IN the_DT tremendous_JJ pain_NN and_CC hardships_NNS I_PRP put_VBP you_PRP through_IN ._. 
+Dr._NN Sattler_NNP ,_, I_PRP hope_VBP you_PRP can_MD find_VB it_PRP in_IN your_PRP$ heart_NN to_TO forgive_VB me_PRP for_IN what_WP happened_VBD in_IN the_DT park_NN ._. 
+I_PRP know_VBP the_DT years_NNS that_WDT followed_VBD the_DT disaster_NN were_VBD n't_RB easy_JJ on_IN you_PRP or_CC your_PRP$ relationship_NN with_IN Dr._NN Grant_NNP ._. 
+Dr._NN Grant_NNP ,_, I_PRP want_VBP to_TO apologize_VB to_TO you_PRP for_IN burdening_VBG you_PRP with_IN the_DT safety_NN of_IN what_WP amounted_VBD to_TO three_CD children_NNS on_IN two_CD separate_JJ islands_NNS ._. 
+I_PRP know_VBP that_IN the_DT revelation_NN of_IN Site_NNP B_NNP has_VBZ had_VBD a_DT negative_JJ impact_NN on_IN your_PRP$ research_NN in_IN Montana_NNP ._. 
+I_PRP hope_VBP you_PRP find_VBP a_DT way_NN to_TO continue_VB your_PRP$ excellent_JJ work_NN in_IN the_DT field_NN ._. 
+Dr._NN Malcolm_NNP ,_, you_PRP put_VBP yourself_PRP in_IN harm_NN 's_POS way_NN twice_RB at_IN my_PRP$ request_NN ._. 
+I_PRP had_VBD no_DT intention_NN of_IN ever_RB hurting_VBG anyone_NN ,_, but_CC misfortune_NN seemed_VBD to_TO be_VB the_DT norm_NN on_IN the_DT islands_NNS ._. 
+JOHN_NNP HAMMOND_NNP (_( CONT'D_JJ )_) I_PRP 'd_MD also_RB like_IN to_TO thank_VB the_DT three_CD of_IN you_PRP ._. 
+I_PRP thank_VBP Dr._NN Sattler_NNP for_IN teaching_NN me_PRP humility_NN ._. 
+Before_IN the_DT disaster_NN on_IN Isla_NNP Nublar_NNP ,_, I_PRP thought_VBD of_IN myself_PRP as_IN the_DT creator_NN of_IN a_DT perfect_JJ system_NN ,_, a_DT god_NN of_IN the_DT island_NN itself_PRP ._. 
+As_IN it_PRP turns_VBZ out_IN ,_, I_PRP was_VBD only_RB playing_VBG God_NNP ,_, as_IN Ian_NNP pointed_VBD out_IN so_RB well_RB ._. 
+Thank_VB you_PRP ,_, Ian_NNP ,_, for_IN teaching_NN me_PRP that_IN there_EX are_VBP some_DT things_NNS Man_NN cannot_NN control_NN ._. 
+Dr._NN Grant_NNP ,_, I_PRP want_VBP to_TO thank_VB you_PRP again_RB for_IN taking_VBG care_NN of_IN my_PRP$ grandchildren_NNS in_IN the_DT park_NN ._. 
+What_WP you_PRP did_VBD for_IN them_PRP and_CC then_RB what_WP you_PRP did_VBD for_IN that_DT family_NN on_IN Isla_NNP Sorna_NNP are_VBP truly_RB worthy_JJ of_IN the_DT highest_JJS praise_NN ._. 
+JOHN_NNP HAMMOND_NNP (_( CONT'D_JJ )_) Finally_RB ,_, I_PRP must_MD ask_VB the_DT three_CD of_IN you_PRP for_IN something_NN ._. 
+I_PRP have_VBP long_RB considered_VBN myself_PRP the_DT steward_NN of_IN the_DT islands_NNS and_CC their_PRP$ inhabitants_NNS ,_, but_CC I_PRP will_MD not_RB be_VB here_RB forever_RB ._. 
+When_WRB I_PRP am_VBP gone_VBN they_PRP will_MD need_VB someone_NN to_TO be_VB their_PRP$ caretakers_NNS ,_, their_PRP$ advocates_NNS ,_, and_CC their_PRP$ guardians_NNS ._. 
+I_PRP am_VBP asking_VBG the_DT three_CD of_IN you_PRP to_TO take_VB up_RP my_PRP$ cause_NN ._. 
+I_PRP 'm_VBP not_RB asking_VBG you_PRP because_IN I_PRP feel_VBP you_PRP owe_VBP me_PRP anything_NN ,_, quite_RB the_DT opposite_NN ,_, I_PRP am_VBP asking_VBG you_PRP to_TO take_VB this_DT responsibility_NN because_IN you_PRP are_VBP the_DT only_RB three_CD people_NNS in_IN the_DT world_NN I_PRP know_VBP I_PRP can_MD trust_VB to_TO make_VB the_DT right_JJ decisions_NNS ._. 
+JOHN_NNP HAMMOND_NNP (_( CONT'D_JJ )_) Before_IN I_PRP leave_VBP you_PRP ,_, I_PRP 'd_MD like_VB to_TO let_VB you_PRP know_VB I_PRP 've_VBP done_VBN everything_NN in_IN my_PRP$ power_NN to_TO provide_VB for_IN the_DT welfare_NN and_CC well_RB being_NN of_IN the_DT families_NNS of_IN those_DT souls_NNS lost_VBD on_IN the_DT islands_NNS ._. 
+I_PRP 've_VBP also_RB set_VBN up_RP a_DT trust_NN fund_NN for_IN the_DT defense_NN of_IN the_DT islands_NNS ,_, Mr._NN Perkins_NNP will_MD be_VB able_JJ to_TO provide_VB you_PRP with_IN all_PDT the_DT necessary_JJ paperwork_NN ,_, and_CC I_PRP 've_VBP retained_VBN him_PRP as_IN chief_JJ counsel_NN for_IN you_PRP ._. 
+Any_DT other_JJ information_NN you_PRP could_MD need_VB lies_VBZ in_IN the_DT mind_NN of_IN Dr._NN Garret_NNP Wang_NNP ._. 
+He_PRP was_VBD my_PRP$ head_NN engineer_NN at_IN Site_NNP B._NN 
+After_IN the_DT facility_NN was_VBD cleared_VBN out_IN ,_, Dr._NN Wang_NNP went_VBD to_TO work_VB for_IN a_DT firm_NN in_IN Seattle_NNP ..._... GenetiCorp_NNP ._. 
+JOHN_NNP HAMMOND_NNP (_( CONT'D_JJ )_) I_PRP 'd_MD like_VB to_TO say_VB I_PRP 'm_VBP sorry_JJ one_CD more_JJR time_NN ,_, and_CC ask_VB you_PRP to_TO consider_VB what_WP I_PRP 've_VBP asked_VBN of_IN you_PRP ,_, if_IN not_RB for_IN me_PRP then_RB for_IN the_DT animals_NNS themselves_PRP ._. 
+God_NNP bless_VB you_PRP ,_, and_CC good_JJ luck_NN ._. 
+The_DT TV_NN screen_NN fades_NNS to_TO black_JJ and_CC then_RB goes_VBZ to_TO static_JJ ._. 
+PERKINS_NNP pops_VBZ the_DT tape_NN out_IN ,_, and_CC CNN_NNP rolls_NNS muted_VBN in_IN the_DT background_NN ._. 
+SAMUEL_NNP PERKINS_NNP (_( Turning_VBG to_TO face_VB GRANT_NNP ,_, SATTLER_NNP ,_, and_CC MALCOLM_NNP 
+)_) Like_IN Mr._NN Hammond_NNP said_VBD ,_, I_PRP have_VBP all_DT of_IN the_DT papers_NNS for_IN the_DT Dinosaur_NNP Defense_NNP Fund_NNP right_RB here_RB ..._... 
+ALAN_NNP GRANT_NNP (_( Looking_VBG over_IN PERKINS_NNP '_POS shoulder_NN at_IN the_DT TV_NN screen_NN 
+)_) What_WP the_DT hell_NN is_VBZ that_DT ?_. 
+All_DT four_CD people_NNS move_VBP closer_JJR to_TO the_DT TV_NN as_IN PERKINS_NNP turns_VBZ the_DT sound_NN on_IN ._. 
+CNN_NNP has_VBZ a_DT live_VB "_'' breaking_VBG news_NN "_'' story_NN datelined_JJ in_IN Costa_NNP Rica_NNP ._. 
+The_DT video_NN camera_NN pans_NNS between_IN the_DT reporter_NN and_CC a_DT large_JJ footprint_NN in_IN the_DT wet_JJ beach_NN sand_NN ._. 
+MELINA_NNP ORTEGA_NNP (_( O.S._NNP )_) ..._... As_IN you_PRP can_MD see_VB by_IN the_DT size_NN of_IN this_DT impression_NN ,_, this_DT is_VBZ a_DT very_RB large_JJ creature_NN ._. 
+Witnesses_NNS estimate_VBP its_PRP$ length_NN at_IN about_IN forty_NN of_IN fifty_NN feet_NNS with_IN gigantic_JJ ,_, tooth_NN -_- filled_JJ jaws_NNS ._. 
+FRANTIC_JJ WITNESS_NN (_( in_IN broken_VBN English_NNP )_) The_DT thing_NN was_VBD laying_VBG on_IN the_DT beach_NN when_WRB I_PRP woke_VBD up_RP this_DT morning_NN ._. 
+One_CD of_IN the_DT dogs_NNS from_IN the_DT neighborhood_NN ran_VBD up_IN to_TO it_PRP and_CC started_VBD barking_VBG ._. 
+The_DT lizard_NN woke_VBD up_RB and_CC made_VBD a_DT horrible_JJ noise_NN ._. 
+The_DT whole_JJ village_NN shook_VBD ._. 
+MELINA_NNP ORTEGA_NNP Apparently_RB the_DT creature_NN 's_POS roar_NN brought_VBD many_JJ curious_JJ villagers_NNS out_IN of_IN their_PRP$ homes_NNS ._. 
+When_WRB it_PRP caught_VBD sight_NN of_IN them_PRP ,_, it_PRP attacked_VBD ._. 
+Casualty_NNP reports_NNS range_VBP anywhere_RB from_IN a_DT half_JJ dozen_NN to_TO twenty_CD or_CC more_JJR ._. 
+MELINA_NNP ORTEGA_NNP (_( CONT'D_JJ )_) (_( Motioning_VBG for_IN the_DT camera_NN to_TO point_VB toward_IN military_JJ vehicles_NNS in_IN the_DT background_NN 
+)_) As_IN you_PRP can_MD see_VB behind_IN me_PRP ,_, the_DT U.S._NNP Marines_NNPS have_VBP already_RB arrived_VBN ._. 
+Apparently_RB they_PRP were_VBD engaging_VBG in_IN training_NN maneuvers_NNS near_IN the_DT Panama_NNP Canal_NNP when_WRB word_NN of_IN this_DT broke_VBD ._. 
+While_IN it_PRP is_VBZ not_RB clear_JJ what_WP the_DT strategy_NN here_RB will_MD be_VB ,_, it_PRP is_VBZ clear_JJ that_IN they_PRP are_VBP not_RB underestimating_VBG the_DT threat_NN ._. 
+Camera_NN focuses_VBZ on_IN a_DT tank_NN ._. 
+ELLIE_NNP SATTLER_NNP My_PRP$ god_NN ._. 
+They_PRP 're_VBP on_IN the_DT mainland_NN ._. 
+ALAN_NNP GRANT_NNP Oh_UH no_UH ._. 
+IAN_NNP MALCOLM_NNP Damn_NNP it_PRP ,_, John_NNP ,_, you_PRP knew_VBD this_DT could_MD happen_VB ._. 
+Scene_NN cuts_NNS back_RB to_TO the_DT TV_NN screen_NN ._. 
+MELINA_NNP ORTEGA_NNP (_( walking_VBG swiftly_RB toward_IN a_DT group_NN of_IN armored_JJ vehicles_NNS 
+)_) We_PRP 're_VBP being_VBG told_VBN to_TO clear_VB the_DT area_NN ,_, so_IN we_PRP 're_VBP heading_VBG into_IN an_DT area_NN the_DT Marines_NNPS have_VBP rendered_VBN safe_JJ ._. 
+We_PRP won_VBD ’_NN t_NN be_VB able_JJ to_TO broadcast_VB a_DT live_JJ feed_NN from_IN the_DT area_NN ,_, so_RB until_IN we_PRP 're_VBP clear_JJ ,_, this_DT is_VBZ Melina_NNP Ortega_NNP live_VB in_IN Costa_NNP Rica_NNP ._. 
+CNN_NNP ANCHOR_NNP Our_PRP$ thoughts_NNS and_CC prayers_NNS for_IN a_DT safe_JJ return_NN are_VBP with_IN you_PRP ,_, Melina_NNP ._. 
+Right_RB now_RB ,_, we_PRP have_VBP just_RB received_VBN amateur_JJ footage_NN of_IN the_DT attack_NN ,_, and_CC we_PRP 're_VBP going_VBG to_TO roll_VB that_IN for_IN you_PRP now_RB ._. 
+A_DT grainy_NN video_NN recorded_VBN at_IN early_JJ dawn_NN shows_VBZ a_DT two_CD -_- legged_JJ dinosaur_NN tearing_VBG open_VB a_DT car_NN and_CC disappearing_VBG into_IN the_DT jungle_NN ._. 
+CNN_NNP ANCHOR_NNP (_( CONT'D_JJ )_) (_( O.S._NNP )_) Again_RB ,_, this_DT was_VBD taken_VBN by_IN an_DT amateur_JJ cameraman_NN in_IN Costa_NNP Rica_NNP sometime_RB in_IN the_DT pre-dawn_JJ hours_NNS of_IN this_DT morning_NN ._. 
+The_DT picture_NN quality_NN is_VBZ n't_RB good_JJ ,_, but_CC you_PRP can_MD clearly_RB see_VB what_WP can_MD only_RB be_VB described_VBN as_IN a_DT dinosaur_NN attacking_VBG a_DT car_NN ._. 
+TV_NN cuts_NNS back_RB to_TO the_DT ANCHORMAN_NN ._. 
+CNN_NNP ANCHOR_NNP (_( CONT'D_JJ )_) Of_IN course_NN ,_, we_PRP have_VBP n't_RB seen_VBN anything_NN like_IN this_DT since_IN the_DT 1997_CD incident_NN in_IN San_NNP Diego_NNP ,_, when_WRB a_DT Tyrannosaurus_NNP Rex_NNP created_VBN by_IN InGen_NNP got_VBD loose_JJ and_CC went_VBD on_IN a_DT rampage_NN through_IN the_DT city_NN ._. 
+IAN_NNP MALCOLM_NNP Is_VBZ this_DT really_RB happening_VBG ?_. 
+GRANT_NNP ,_, SATTLER_NNP ,_, and_CC PERKINS_NNP are_VBP all_DT glued_VBN to_TO the_DT TV_NN when_WRB there_EX is_VBZ a_DT knock_NN at_IN the_DT door_NN ._. 
+SAMUEL_NNP PERKINS_NNP (_( not_RB really_RB paying_VBG attention_NN 
+)_) Come_VBN ._. 
+A_DT young_JJ Army_NNP officer_NN steps_NNS into_IN the_DT office_NN ._. 
+LT_NNP ._. AMY_NNP BRANNIGAN_NNP Sorry_JJ to_TO bother_VB you_PRP ,_, sir_NN ._. 
+I_PRP was_VBD sent_VBN for_IN Dr._NN Alan_NNP Grant_NNP and_CC Dr._NN Ian_NNP Malcolm_NNP ._. 
+ALAN_NNP GRANT_NNP That_DT 's_VBZ us_PRP ._. 
+What_WP do_VBP you_PRP need_VBP ?_. 
+LT_NNP ._. AMY_NNP BRANNIGAN_NNP You_PRP gentlemen_NNS need_VBP to_TO come_VB with_IN me_PRP ._. 
+IAN_NNP MALCOLM_NNP What_WP ?_. 
+Why_WRB ?_. 
+LT_NNP ._. AMY_NNP BRANNIGAN_NNP Sir_NNP ,_, my_PRP$ orders_NNS are_VBP to_TO bring_VB you_PRP to_TO the_DT base_NN ._. 
+ALAN_NNP GRANT_NNP Look_VB ,_, Miss_NNP ..._... 
+LT_NNP ._. AMY_NNP BRANNIGAN_NNP It_PRP 's_VBZ Lieutenant_NNP ,_, Lieutenant_NNP Brannigan_NNP ._. 
+ALAN_NNP GRANT_NNP Of_IN course_NN ,_, I_PRP 'm_VBP sorry_JJ ._. 
+It_PRP 's_VBZ just_RB that_IN a_DT lot_NN has_VBZ happened_VBN in_IN such_JJ a_DT short_JJ time_NN ,_, and_CC I_PRP think_VBP we_PRP 're_VBP all_DT just_RB going_VBG to_TO need_VB a_DT little_JJ time_NN to_TO put_VB it_PRP all_DT together_RB ._. 
+LT_NNP ._. AMY_NNP BRANNIGAN_NNP Sir_NNP ,_, I_PRP know_VBP you_PRP might_MD feel_VB that_DT way_NN right_RB now_RB ,_, but_CC I_PRP have_VBP been_VBN ordered_VBN to_TO bring_VB you_PRP with_IN me_PRP without_IN delay_NN ._. 
+IAN_NNP MALCOLM_NNP I_PRP 'm_VBP afraid_JJ I_PRP have_VBP to_TO agree_VB with_IN Dr._NN Grant_NNP here_RB ,_, Lieutenant_NNP ._. 
+LT_NNP ._. AMY_NNP BRANNIGAN_NNP Sir_NNP ,_, there_EX are_VBP two_CD Military_NNP Police_NNP officer_NN waiting_VBG in_IN the_DT hall_NN and_CC two_CD more_JJR outside_IN ._. 
+I_PRP 'm_VBP to_TO place_VB you_PRP under_IN arrest_NN if_IN you_PRP do_VBP n't_RB come_VB with_IN me_PRP right_RB now_RB ._. 
+ALAN_NNP GRANT_NNP Well_RB ,_, Ian_NNP ,_, it_PRP looks_VBZ like_IN we_PRP 'd_MD better_JJR go_NN ._. 
+ALAN_NNP GRANT_NNP (_( CONT'D_JJ )_) (_( whispering_VBG to_TO SATTLER_NNP 
+)_) Ellie_NNP ,_, go_VB to_TO Seattle_NNP and_CC find_VB Dr._NN Wang_NNP ._. 
+We_PRP need_VBP to_TO know_VB everything_NN we_PRP can_MD about_IN whatever_WDT this_DT thing_NN is_VBZ ._. 
+ELLIE_NNP SATTLER_NNP You_PRP think_VBP this_DT has_VBZ something_NN to_TO do_VB with_IN the_DT incident_NN in_IN Costa_NNP Rica_NNP ?_. 
+ALAN_NNP GRANT_NNP I_PRP 'd_MD bet_VB my_PRP$ bottom_JJ dollar_NN ._. 

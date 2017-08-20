@@ -1,0 +1,264 @@
+Introduction_NNP 
+As_IN recognized_VBN by_IN the_DT President_NNP 's_POS National_NNP Energy_NNP Plan_NNP (_( NEP_NNP )_) ,_, one_CD of_IN the_DT principal_JJ energy_NN challenges_NNS facing_VBG us_PRP is_VBZ increasing_VBG our_PRP$ energy_NN supplies_NNS in_IN ways_NNS that_WDT protect_VBP and_CC improve_VB the_DT environment_NN ._. 
+Thus_RB ,_, the_DT President_NNP directed_VBD EPA_NNP to_TO propose_VB legislation_NN that_WDT would_MD significantly_RB reduce_VB SO_NNP 2_CD ,_, NOx_NNP ,_, and_CC mercury_NN emissions_NNS from_IN power_NN generation_NN through_IN a_DT cap_NN and_CC trade_NN program_NN ._. 
+Such_JJ a_DT program_NN ,_, coupled_VBN with_IN appropriate_JJ measures_NNS to_TO address_VB local_JJ concerns_NNS ,_, would_MD provide_VB significant_JJ health_NN benefits_NNS even_RB as_IN we_PRP increase_VBP energy_NN supplies_NNS and_CC maintain_VB reasonable_JJ electricity_NN rates_NNS ._. 
+
+Our_PRP$ work_NN on_IN this_DT issue_NN has_VBZ given_VBN us_PRP insight_NN that_IN I_PRP believe_VBP will_MD be_VB helpful_JJ to_TO you_PRP ._. 
+The_DT more_JJR I_PRP learn_VBP about_IN the_DT cost_NN and_CC inefficiencies_NNS of_IN the_DT current_JJ and_CC future_JJ regulatory_JJ regime_NN to_TO which_WDT power_NN generators_NNS will_MD be_VB subjected_VBN if_IN we_PRP do_VBP not_RB have_VB new_JJ legislation_NN ,_, the_DT more_JJR I_PRP am_VBP convinced_VBN that_IN we_PRP can_MD --_: and_CC must_MD --_: develop_VB a_DT smarter_RBR approach_NN that_WDT protects_VBZ the_DT environment_NN and_CC public_JJ health_NN while_IN reducing_VBG the_DT cost_NN to_TO consumers_NNS and_CC industry_NN and_CC optimizing_VBG the_DT size_NN of_IN both_DT the_DT state_NN and_CC federal_JJ government_NN machinery_NN necessary_JJ to_TO achieve_VB that_DT protection_NN ._. 
+It_PRP is_VBZ possible_JJ to_TO achieve_VB better_JJR results_NNS at_IN lower_JJR costs_NNS ,_, 
+but_CC not_RB if_IN we_PRP simply_RB add_VBP yet_RB another_DT program_NN on_IN top_NN of_IN all_DT of_IN the_DT existing_VBG regulations_NNS ._. 
+
+The_DT current_JJ Clean_NNP Air_NNP Act_NNP has_VBZ been_VBN enormously_RB successful_JJ ,_, but_CC we_PRP can_MD do_VB better_JJR ._. 
+Significant_JJ cost_NN savings_NNS can_MD be_VB achieved_VBN for_IN power_NN generators_NNS and_CC consumers_NNS through_IN a_DT comprehensive_JJ legislative_JJ package_NN ._. 
+I_PRP look_VBP forward_RB to_TO working_VBG with_IN you_PRP to_TO develop_VB such_PDT an_DT approach_NN to_TO reduce_VB emissions_NNS from_IN power_NN generation_NN ._. 
+We_PRP applaud_VBP Senator_NNP Jeffords_NNP for_IN tackling_VBG this_DT important_JJ issue_NN and_CC for_IN recognizing_VBG that_IN a_DT cap_NN and_CC trade_NN program_NN is_VBZ the_DT best_JJS way_NN to_TO achieve_VB these_DT reductions_NNS ._. 
+However_RB ,_, we_PRP have_VBP significant_JJ concerns_NNS with_IN S._NN 556_CD as_IN drafted_VBN ._. 
+Our_PRP$ analysis_NN to_TO date_NN suggests_VBZ that_IN it_PRP could_MD increase_VB consumers_NNS '_POS electricity_NN rates_NNS by_IN as_RB much_JJ as_IN 50_CD %_NN ,_, which_WDT we_PRP believe_VBP is_VBZ unacceptable_JJ ._. 
+In_IN addition_NN ,_, the_DT combination_NN of_IN emission_NN reductions_NNS and_CC timing_NN is_VBZ not_RB feasible_JJ and_CC could_MD threaten_VB the_DT reliability_NN of_IN electricity_NN supply_NN ._. 
+We_PRP are_VBP concerned_VBN that_IN S._NN 556_CD 's_POS short_JJ timeframes_NNS for_IN installation_NN of_IN controls_NNS could_MD lead_VB power_NN plants_NNS to_TO be_VB taken_VBN off-line_JJ at_IN important_JJ times_NNS ,_, which_WDT could_MD lead_VB to_TO electricity_NN shortages_NNS ._. 
+
+In_IN addition_NN ,_, there_EX are_VBP a_DT number_NN of_IN issues_NNS that_IN Congress_NNP should_MD consider_VB that_IN S._NN 556_CD does_VBZ not_RB address_VB ._. 
+As_IN drafted_VBN ,_, S._NN 556_CD would_MD make_VB some_DT existing_VBG requirements_NNS unnecessary_JJ ,_, but_CC would_MD not_RB eliminate_VB them_PRP ._. 
+Rather_RB than_IN add_VB yet_RB another_DT layer_NN of_IN environmental_JJ regulations_NNS on_IN top_NN of_IN the_DT existing_VBG ones_NNS ,_, we_PRP believe_VBP that_IN S._NN 556_CD should_MD eliminate_VB those_DT unnecessary_JJ existing_VBG requirements_NNS ._. 
+S._NN 556_CD also_RB does_VBZ not_RB have_VB an_DT allocation_NN scheme_NN ._. 
+One_CD lesson_NN we_PRP should_MD learn_VB from_IN the_DT success_NN of_IN the_DT Acid_NNP Rain_NN cap_NN and_CC trade_NN program_NN is_VBZ that_IN when_WRB certain_JJ key_JJ issues_NNS can_MD be_VB resolved_VBN through_IN clear_JJ legislation_NN ,_, we_PRP can_MD avoid_VB years_NNS of_IN litigation_NN ,_, business_NN uncertainty_NN and_CC costs_NNS ,_, and_CC delayed_VBD environmental_JJ protection_NN ._. 
+
+Finally_RB ,_, and_CC most_RBS importantly_RB ,_, the_DT Administration_NNP strongly_RB opposes_VBZ including_VBG CO2_NNP reductions_NNS in_IN any_DT multi-pollutant_JJ bill_NN ._. 
+The_DT CO2_NNP provisions_NNS in_IN S._NN 556_CD will_MD cost_VB consumers_NNS too_RB much_JJ and_CC endanger_VB our_PRP$ energy_NN security_NN by_IN causing_VBG too_RB much_JJ electricity_NN generation_NN to_TO switch_VB from_IN coal_NN to_TO natural_JJ gas_NN ._. 
+Greenhouse_NNP gas_NN emissions_NNS should_MD be_VB addressed_VBN in_IN the_DT context_NN of_IN climate_NN change_NN ,_, which_WDT is_VBZ being_VBG undertaken_VBN by_IN the_DT President_NNP 's_POS Cabinet_NNP level_NN working_VBG group_NN ._. 
+For_IN all_DT of_IN these_DT reasons_NNS ,_, the_DT Administration_NNP must_MD oppose_VB S._NN 556_CD ._. 
+In_IN my_PRP$ testimony_NN today_NN I_PRP will_MD elaborate_VB further_RB on_IN these_DT key_JJ points_NNS ._. 
+
+Background_NNP 
+Over_IN the_DT last_JJ 30_CD years_NNS ,_, we_PRP have_VBP made_VBN substantial_JJ progress_NN towards_IN improved_VBN environmental_JJ quality_NN under_IN the_DT Clean_NNP Air_NNP Act_NNP ._. 
+During_IN this_DT time_NN ,_, gross_JJ domestic_JJ product_NN has_VBZ increased_VBN almost_RB 160_CD %_NN ._. 
+At_IN the_DT same_JJ time_NN ,_, we_PRP have_VBP reduced_VBN emissions_NNS of_IN six_CD key_JJ air_NN pollutants_NNS by_IN 29_CD %_NN ,_, while_IN coal_NN consumption_NN has_VBZ increased_VBD 77_CD %_NN and_CC energy_NN consumption_NN has_VBZ increased_VBD 45_CD %_NN ._. 
+Eleven_CD years_NNS ago_RB President_NNP George_NNP H._NN W._NN Bush_NNP signed_VBN into_IN law_NN the_DT most_RBS far_RB reaching_VBG amendments_NNS to_TO the_DT Clean_NNP Air_NNP Act_NNP since_IN its_PRP$ enactment_NN in_IN 1970_CD ._. 
+Included_VBN in_IN those_DT amendments_NNS was_VBD the_DT Acid_NNP Rain_NN cap_NN and_CC trade_NN program_NN ,_, the_DT first_JJ program_NN tailored_VBN specifically_RB to_TO the_DT utility_NN sector_NN ,_, which_WDT is_VBZ achieving_VBG significant_JJ environmental_JJ and_CC public_JJ health_NN benefits_NNS at_IN a_DT fraction_NN of_IN the_DT initial_JJ cost_NN estimates_NNS and_CC with_IN relatively_RB little_JJ government_NN bureaucracy_NN ._. 
+It_PRP is_VBZ time_NN to_TO revisit_VB and_CC update_VB the_DT Clean_NNP Air_NNP Act_NNP once_RB again_RB in_IN order_NN to_TO achieve_VB the_DT additional_JJ reductions_NNS needed_VBN to_TO address_VB public_JJ health_NN and_CC environmental_JJ problems_NNS in_IN the_DT most_JJS cost_NN effective_JJ manner_NN ._. 
+
+The_DT Acid_NNP Rain_NN Program_NN is_VBZ achieving_VBG its_PRP$ emission_NN reduction_NN goal_NN at_IN a_DT fraction_NN of_IN the_DT estimated_JJ costs_NNS because_IN it_PRP allows_VBZ and_CC encourages_VBZ innovative_JJ thinking_NN and_CC long_JJ range_NN planning_NN .1_CD 
+The_DT existing_VBG program_NN establishes_VBZ a_DT cap_NN on_IN SO2_NNP emissions_NNS to_TO ensure_VB that_IN the_DT environmental_JJ goal_NN is_VBZ met_VBN ,_, and_CC employs_VBZ an_DT innovative_JJ market-based_JJ allowance_NN trading_NN program_NN to_TO achieve_VB the_DT goal_NN at_IN lowest_JJS cost_NN ._. 
+Allowances_NNP are_VBP the_DT currency_NN with_IN which_WDT compliance_NN with_IN the_DT SO2_NNP emissions_NNS requirements_NNS is_VBZ achieved_VBN ._. 
+Sources_NNS ,_, rather_RB than_IN government_NN ,_, decide_VBP the_DT most_RBS cost-effective_JJ way_NN to_TO use_VB available_JJ resources_NNS to_TO comply_VB ._. 
+Units_NNS that_WDT reduce_VBP their_PRP$ emissions_NNS below_IN the_DT number_NN of_IN allowances_NNS they_PRP hold_VBP may_MD trade_VB allowances_NNS with_IN other_JJ units_NNS in_IN the_DT system_NN ,_, sell_VB them_PRP to_TO other_JJ sources_NNS or_CC save_VB them_PRP for_IN future_JJ use_NN ._. 
+There_EX are_VBP neither_DT restrictions_NNS on_IN trading_NN nor_CC government_NN second-guessing_NN ._. 
+
+Allowance_NNP trading_NN provides_VBZ incentives_NNS for_IN energy_NN conservation_NN and_CC technology_NN innovation_NN that_WDT can_MD both_DT lower_VB the_DT cost_NN of_IN compliance_NN and_CC yield_VB pollution_NN prevention_NN benefits_NNS ._. 
+Simply_RB ,_, the_DT allowance_NN market_NN puts_VBZ a_DT price_NN or_CC value_NN on_IN each_DT ton_NN of_IN SO2_NNP not_RB emitted_VBN ._. 
+The_DT association_NN of_IN a_DT monetary_JJ value_NN with_IN reduced_VBN emissions_NNS encourages_VBZ innovation_NN :_: in_IN the_DT 1990_CD 's_POS ,_, scrubber_NN costs_NNS decreased_VBN by_IN approximately_RB 40_CD %_NN and_CC scrubber_NN sulfur_NN removal_NN efficiencies_NNS improved_VBN from_IN 90_CD %_NN to_TO 95_CD %_NN ,_, and_CC experimentation_NN led_VBN to_TO the_DT blending_NN of_IN fuels_NNS to_TO lower_JJR emissions_NNS ._. 
+To_TO ensure_VB that_IN the_DT cap_NN is_VBZ met_VBN and_CC to_TO provide_VB credibility_NN ,_, sources_NNS also_RB are_VBP required_VBN to_TO install_VB systems_NNS that_WDT continuously_RB monitor_VB and_CC report_VB emissions_NNS ._. 
+
+The_DT Acid_NNP Rain_NN Program_NN has_VBZ proven_VBN to_TO be_VB an_DT excellent_JJ model_NN for_IN cap_NN and_CC trade_NN programs_NNS ._. 
+Compliance_NNP with_IN the_DT program_NN has_VBZ been_VBN nearly_RB 100_CD percent_NN and_CC annual_JJ emissions_NNS of_IN SO2_NNP from_IN power_NN plants_NNS have_VBP already_RB been_VBN reduced_VBN over_IN 6_CD million_CD tons_NNS (_( about_IN 35_CD percent_NN )_) from_IN 1980_CD levels_NNS ._. 
+Greater_NNP reductions_NNS earlier_RBR than_IN expected_VBN have_VBP lowered_VBN risks_NNS to_TO human_JJ health_NN and_CC provided_VBN benefits_NNS to_TO the_DT environment_NN sooner_RBR ._. 
+Acid_NNP rain_NN levels_NNS were_VBD dramatically_RB reduced_VBN over_IN large_JJ areas_NNS of_IN the_DT U.S._NNP and_CC trading_NN did_VBD not_RB result_VB in_IN geographic_JJ shifting_VBG of_IN emissions_NNS ,_, or_CC "_'' hot_JJ spots_NNS "_'' ,_, as_IN some_DT feared_VBN ._. 
+
+Despite_IN the_DT significant_JJ progress_NN we_PRP have_VBP made_VBN under_IN the_DT Clean_NNP Air_NNP Act_NNP ,_, air_NN emissions_NNS from_IN power_NN generators_NNS are_VBP still_RB contributing_VBG to_TO serious_JJ public_JJ health_NN and_CC environmental_JJ problems_NNS ._. 
+Administrator_NNP Whitman_NNP addressed_VBD these_DT concerns_NNS extensively_RB in_IN her_PRP$ testimony_NN before_IN you_PRP on_IN July_NNP 26_CD ,_, 2001_CD ._. 
+Rather_RB than_IN reiterate_NN her_PRP$ testimony_NN ,_, I_PRP will_MD emphasize_VB just_RB a_DT few_JJ of_IN her_PRP$ key_JJ points_NNS ._. 
+Problems_NNP associated_VBN with_IN sulfur_NN dioxide_NN (_( SO_NNP 2_CD )_) ,_, nitrogen_NN oxides_NNS (_( NOx_NNP )_) ,_, and_CC mercury_NN emissions_NNS are_VBP of_IN national_JJ and_CC international_JJ significance_NN ,_, and_CC the_DT interstate_JJ and_CC long_JJ range_NN transport_NN of_IN emissions_NNS continue_VBP to_TO play_VB significant_JJ roles_NNS in_IN the_DT nature_NN and_CC magnitude_NN of_IN the_DT problems_NNS ._. 
+Emission_NNP and_CC deposition_NN of_IN SO_NNP 2_CD ,_, NOx_NNP ,_, and_CC mercury_NN and_CC their_PRP$ transformation_NN byproducts_NNS are_VBP known_VBN to_TO have_VB a_DT wide_JJ range_NN of_IN adverse_JJ effects_NNS on_IN human_JJ health_NN and_CC the_DT environment_NN ,_, including_VBG :_: 
+
+•_NN SO_NNP 2_CD and_CC NOx_NNP emissions_NNS contribute_VBP to_TO fine_VB particles_NNS ,_, which_WDT are_VBP associated_VBN with_IN premature_JJ mortality_NN ,_, aggravated_VBD chronic_JJ bronchitis_NNS ,_, hospitalizations_NNS due_JJ to_TO cardio-respiratory_JJ symptoms_NNS ,_, emergency_NN room_NN visits_NNS due_JJ to_TO aggravated_VBN asthma_NN symptoms_NNS ,_, and_CC acute_JJ respiratory_JJ symptoms_NNS ._. 
+
+1_CD Governor_NNP Whitman_NNP 's_POS July_NNP 26_CD ,_, 2001_CD ,_, testimony_NN before_IN this_DT Committee_NNP contains_VBZ a_DT detailed_JJ discussion_NN of_IN the_DT success_NN of_IN the_DT Acid_NNP Rain_NN cap_NN and_CC trade_NN program_NN ._. 
+
+Fine_JJ particles_NNS formed_VBN from_IN power_NN plant_NN emissions_NNS as_RB well_RB as_IN mobile_JJ source_NN emissions_NNS are_VBP of_IN 
+concern_NN ._. 
+•_NN NOx_NNP emissions_NNS contribute_VBP to_TO ground-level_JJ ozone_NN ,_, which_WDT aggravates_VBZ respiratory_JJ illnesses_NNS and_CC causes_NNS lung_NN inflammation_NN ,_, particularly_RB for_IN at-risk_JJ populations_NNS such_JJ as_IN children_NNS ,_, the_DT elderly_JJ and_CC those_DT afflicted_VBN with_IN asthma_NN ,_, emphysema_NN ,_, and_CC other_JJ respiratory_JJ ailments_NNS ._. 
+
+•_NN Mercury_NNP emissions_NNS contribute_VBP to_TO mercury_NN deposition_NN in_IN water_NN ._. 
+Children_NNP born_VBN to_TO women_NNS who_WP consume_VBP large_JJ amounts_NNS of_IN mercury-contaminated_JJ fish_NN while_IN pregnant_JJ may_MD be_VB at_IN risk_NN for_IN neurodevelopmental_NN defects_NNS ._. 
+
+•_NN SO_NNP 2_CD and_CC NOx_NNP emissions_NNS contribute_VBP to_TO atmospheric_JJ sulfate_NN and_CC nitrate_NN concentrations_NNS that_WDT cause_VBP visibility_NN impairment_NN ,_, including_VBG impairment_NN in_IN many_JJ national_JJ parks_NNS and_CC wilderness_NN areas_NNS ._. 
+
+•_NN SO_NNP 2_CD and_CC NOx_NNP contribute_VBP to_TO acid_NN deposition_NN ,_, which_WDT damages_VBZ lakes_NNS and_CC streams_NNS ,_, adversely_RB affecting_VBG the_DT fish_NN and_CC other_JJ species_NNS that_WDT live_VBP in_IN them_PRP ,_, and_CC leaches_NNS nutrients_NNS from_IN the_DT soil_NN ._. 
+
+•_NN NOx_NNP emissions_NNS contribute_VBP to_TO nitrogen_NN deposition_NN that_WDT may_MD lead_VB to_TO eutrophication_NN of_IN estuaries_NNS and_CC near-coastal_JJ waters_NNS and_CC can_MD damage_VB forested_JJ watersheds_NNS ._. 
+
+EPA_NNP ,_, states_VBZ ,_, and_CC industry_NN ,_, working_VBG together_RB ,_, have_VBP made_VBN important_JJ strides_NNS in_IN addressing_VBG the_DT adverse_JJ impacts_NNS of_IN fossil_JJ fuel_NN combustion_NN by_IN the_DT electric_JJ power_NN industry_NN since_IN the_DT passage_NN of_IN the_DT Clean_NNP Air_NNP Act_NNP in_IN 1970_CD ._. 
+Despite_IN significant_JJ improvements_NNS in_IN air_NN quality_NN throughout_IN the_DT country_NN however_RB ,_, emissions_NNS from_IN power_NN generation_NN continue_VB to_TO result_VB in_IN serious_JJ health_NN ,_, environmental_JJ and_CC economic_JJ impacts_NNS ._. 
+In_IN 1999_CD ,_, the_DT electric_JJ power_NN industry_NN was_VBD responsible_JJ for_IN 67_CD %_NN of_IN sulfur_NN dioxide_NN emissions_NNS ,_, 25_CD %_NN of_IN nitrogen_NN oxide_NN emissions_NNS ,_, and_CC 37_CD %_NN of_IN mercury_NN emissions_NNS in_IN the_DT United_NNP States_NNPS ._. 
+
+Business_NNP as_IN Usual_NNP 
+The_DT President_NNP 's_POS flexible_JJ ,_, market-based_JJ approach_NN to_TO reducing_VBG emissions_NNS from_IN power_NN generators_NNS stands_VBZ in_IN sharp_JJ contrast_NN to_TO the_DT complex_JJ web_NN of_IN existing_VBG regulations_NNS which_WDT currently_RB confront_VBP the_DT industry_NN ._. 
+Over_IN the_DT years_NNS ,_, Congress_NNP ,_, EPA_NNP and_CC the_DT States_NNPS have_VBP responded_VBN to_TO specific_JJ environmental_JJ and_CC public_JJ health_NN problems_NNS by_IN developing_VBG separate_JJ regulatory_JJ programs_NNS to_TO address_VB the_DT specific_JJ problems_NNS ._. 
+Each_DT individual_JJ program_NN uses_VBZ its_PRP$ own_JJ approach_NN on_IN its_PRP$ own_JJ timeline_NN to_TO serve_VB its_PRP$ own_JJ purpose_NN ._. 
+Absent_VB changes_NNS to_TO the_DT Act_NNP ,_, EPA_NNP and_CC states_NNS will_MD be_VB forced_VBN to_TO follow_VB the_DT same_JJ approach_NN in_IN future_JJ regulations_NNS ._. 
+It_PRP is_VBZ time_NN to_TO consolidate_VB and_CC simplify_VB to_TO achieve_VB our_PRP$ clean_VB air_NN goals_NNS ._. 
+A_DT comprehensive_JJ legislative_JJ approach_NN with_IN mandatory_JJ caps_NNS could_MD replace_VB a_DT good_JJ portion_NN of_IN the_DT current_JJ regulatory_JJ requirements_NNS with_IN a_DT system_NN that_WDT will_MD reduce_VB the_DT administrative_JJ burden_NN on_IN industry_NN and_CC governments_NNS ,_, use_NN market-based_JJ approaches_NNS to_TO lower_JJR compliance_NN costs_NNS ,_, reduce_VB consumers_NNS '_POS costs_NNS ,_, and_CC increase_VB national_JJ energy_NN security_NN by_IN providing_VBG the_DT industry_NN with_IN more_JJR certainty_NN about_IN its_PRP$ future_JJ regulatory_JJ obligations_NNS ._. 
+By_IN enacting_VBG such_JJ an_DT approach_NN ,_, we_PRP can_MD achieve_VB environmental_JJ and_CC public_JJ health_NN protection_NN more_RBR effectively_RB and_CC at_IN less_JJR cost_NN ._. 
+If_IN we_PRP do_VBP it_PRP the_DT President_NNP 's_POS way_NN ,_, it_PRP will_MD be_VB a_DT win-win_JJ ._. 
+
+There_EX are_VBP many_JJ regulations_NNS in_IN place_NN that_WDT will_MD reduce_VB air_NN emissions_NNS from_IN electric_JJ power_NN generation_NN ._. 
+These_DT regulations_NNS include_VBP both_DT federal_JJ and_CC State_NNP requirements_NNS that_WDT address_VBP a_DT variety_NN of_IN emissions_NNS including_VBG SO_NNP 2_CD ,_, NOx_NNP ,_, CO_NNP ,_, PM_NNP 10_CD ,_, and_CC a_DT number_NN of_IN hazardous_JJ air_NN pollutants_NNS ._. 
+These_DT programs_NNS 
+include_VBP the_DT National_NNP Ambient_NNP Air_NNP Quality_NNP Standards_NNP for_IN SO_NNP 2_CD ,_, particulate_NN matter_NN and_CC ozone_NN ,_, the_DT section_NN 126_CD and_CC the_DT NOx_NNP SIP_NNP Call_NNP rules_NNS ,_, the_DT Acid_NNP Rain_NN Program_NN ,_, new_JJ source_NN review_NN ,_, new_JJ source_NN performance_NN standards_NNS ,_, and_CC the_DT regional_JJ haze_NN rule_NN ._. 
+
+But_CC the_DT regulation_NN of_IN power_NN generators_NNS does_VBZ not_RB end_VB with_IN existing_VBG regulations_NNS ._. 
+EPA_NNP is_VBZ obligated_VBN by_IN a_DT settlement_NN agreement_NN to_TO issue_VB by_IN the_DT end_NN of_IN 2004_CD a_DT Maximum_NNP Achievable_NNP Control_NNP Technology_NNP (_( MACT_NNP )_) standard_JJ to_TO require_VB source-specific_JJ controls_NNS of_IN mercury_NN and_CC other_JJ hazardous_JJ air_NN pollutants_NNS from_IN electric_JJ utilities_NNS ._. 
+Emissions_NNP reductions_NNS are_VBP required_VBN by_IN the_DT end_NN of_IN 2007_CD ._. 
+States_NNS will_MD also_RB be_VB requiring_VBG utilities_NNS to_TO comply_VB with_IN Best_JJS Available_NNP Retrofit_NNP Technology_NNP (_( BART_NNP )_) programs_NNS (_( either_CC source-specific_JJ standards_NNS or_CC a_DT trading_NN program_NN )_) to_TO meet_VB requirements_NNS to_TO reduce_VB regional_JJ haze_NN ._. 
+
+It_PRP is_VBZ expected_VBN that_IN the_DT existing_VBG fine_NN particle_NN and_CC ozone_NN standards_NNS now_RB in_IN place_NN will_MD also_RB result_VB in_IN further_JJ regulation_NN of_IN power_NN generators_NNS ._. 
+Modeling_NNP shows_VBZ that_IN when_WRB full_JJ implementation_NN of_IN existing_VBG regulations_NNS such_JJ as_IN the_DT acid_NN rain_NN program_NN ,_, the_DT NOx_NNP SIP_NNP Call_NNP ,_, the_DT Tier_NNP II_NNP standards_NNS for_IN cars_NNS and_CC trucks_NNS ,_, the_DT heavy_JJ duty_NN diesel_NN engine_NN standards_NNS ,_, and_CC the_DT low_JJ sulfur_NN gasoline_NN and_CC diesel_NN fuel_NN rules_NNS are_VBP taken_VBN into_IN account_NN ,_, additional_JJ reductions_NNS will_MD be_VB needed_VBN to_TO bring_VB areas_NNS into_IN attainment_NN ._. 
+States_NNS will_MD be_VB required_VBN to_TO develop_VB plans_NNS for_IN these_DT areas_NNS ._. 
+In_IN addition_NN ,_, NOx_NNP and_CC SO_NNP 2_CD reductions_NNS are_VBP also_RB needed_VBN to_TO reduce_VB continuing_VBG damage_NN from_IN acid_NN rain_NN and_CC nitrogen_NN deposition_NN ._. 
+
+Because_IN states_NNS and_CC EPA_NNP will_MD have_VB to_TO find_VB some_DT way_NN to_TO significantly_RB reduce_VB NOx_NNP and_CC SO_NNP 2_CD emissions_NNS ,_, it_PRP is_VBZ probable_JJ that_IN power_NN generators_NNS will_MD be_VB required_VBN to_TO reduce_VB their_PRP$ emissions_NNS significantly_RB ._. 
+Power_NN generation_NN accounts_NNS for_IN a_DT significant_JJ percentage_NN of_IN these_DT emissions_NNS ,_, and_CC our_PRP$ analysis_NN shows_VBZ that_IN there_EX are_VBP significant_JJ reductions_NNS available_JJ at_IN lower_JJR cost_NN than_IN from_IN other_JJ sources_NNS ._. 
+Additionally_RB ,_, states_NNS know_VBP that_IN if_IN they_PRP do_VBP not_RB get_VB the_DT reductions_NNS from_IN power_NN generators_NNS ,_, they_PRP will_MD have_VB to_TO impose_VB significant_JJ reduction_NN requirements_NNS on_IN other_JJ local_JJ industrial_JJ and_CC commercial_JJ sources_NNS or_CC impose_VB local_JJ transportation_NN control_NN measures_NNS ._. 
+
+Under_IN current_JJ law_NN ,_, the_DT necessary_JJ reductions_NNS would_MD be_VB achieved_VBN through_IN the_DT development_NN of_IN individual_JJ state_NN plans_NNS ._. 
+States_NNS will_MD not_RB just_RB control_VB their_PRP$ own_JJ sources_NNS ,_, however_RB ._. 
+They_PRP will_MD be_VB reaching_VBG out_IN to_TO control_VB power_NN generators_NNS and_CC large_JJ industrial_JJ facilities_NNS in_IN other_JJ states_NNS because_IN transport_NN from_IN other_JJ states_NNS contributes_VBZ to_TO both_DT ozone_NN and_CC fine_NN particle_NN pollution_NN in_IN many_JJ areas_NNS ._. 
+This_DT is_VBZ what_WP has_VBZ happened_VBN in_IN the_DT eastern_JJ part_NN of_IN the_DT country_NN when_WRB states_NNS realized_VBD that_IN emissions_NNS from_IN sources_NNS in_IN other_JJ states_NNS were_VBD significantly_RB contributing_VBG to_TO their_PRP$ 1_CD -_: hour_NN ozone_NN non-attainment_JJ problems_NNS ._. 
+Under_IN section_NN 126_CD of_IN the_DT Clean_NNP Air_NNP Act_NNP ,_, a_DT state_NN can_MD petition_VB EPA_NNP and_CC request_NN that_IN EPA_NNP require_VB reductions_NNS from_IN sources_NNS outside_IN the_DT petitioning_VBG state_NN 's_POS borders_NNS ._. 
+The_DT petitioning_VBG state_NN is_VBZ entitled_VBN to_TO relief_NN if_IN EPA_NNP finds_VBZ that_IN the_DT sources_NNS are_VBP significantly_RB contributing_VBG to_TO the_DT petitioning_VBG state_NN 's_POS nonattainment_NN problem_NN ._. 
+EPA_NNP 's_POS requirement_NN ,_, adopted_VBN in_IN response_NN to_TO section_NN 126_CD petitions_NNS ,_, that_IN sources_NNS in_IN a_DT number_NN of_IN eastern_JJ states_NNS reduce_VBP NOx_NNP emissions_NNS was_VBD recently_RB upheld_VBN by_IN the_DT Court_NNP of_IN Appeals_NNPS for_IN the_DT District_NNP of_IN Columbia_NNP Circuit_NNP ._. 
+Since_IN states_NNS now_RB know_VBP that_IN EPA_NNP has_VBZ authority_NN to_TO address_VB transport_NN pollution_NN through_IN responses_NNS to_TO 126_CD petitions_NNS or_CC by_IN issuing_VBG a_DT rule_NN like_IN the_DT NOx_NNP SIP_NNP Call_NNP ,_, we_PRP anticipate_VBP that_IN states_NNS will_MD be_VB turning_VBG to_TO these_DT types_NNS of_IN control_NN approaches_NNS early_RB in_IN the_DT SIP_NNP process_NN ._. 
+Although_IN those_DT of_IN us_PRP who_WP are_VBP 
+traveling_VBG that_DT path_NN with_IN the_DT current_JJ 126_CD petitions_NNS and_CC NOx_NNP SIP_NNP Call_NNP believe_VBP it_PRP will_MD eventually_RB take_VB us_PRP to_TO our_PRP$ environmental_JJ goal_NN ,_, it_PRP has_VBZ been_VBN --_: and_CC still_RB is_VBZ --_: a_DT very_RB rocky_JJ road_NN for_IN industry_NN ,_, environmentalists_NNS ,_, the_DT states_NNS ,_, EPA_NNP and_CC other_JJ stakeholders_NNS ._. 
+
+This_DT one-at-a-time_JJ ,_, uncoordinated_JJ series_NN of_IN regulatory_JJ requirements_NNS for_IN the_DT power_NN industry_NN is_VBZ not_RB the_DT optimal_NN approach_NN for_IN the_DT environment_NN ,_, the_DT power_NN generation_NN sector_NN ,_, or_CC American_JJ consumers_NNS ._. 
+With_IN most_JJS plants_NNS needing_VBG to_TO install_VB control_NN equipment_NN to_TO meet_VB these_DT requirements_NNS ,_, it_PRP is_VBZ likely_JJ that_IN this_DT approach_NN would_MD lead_VB to_TO installation_NN of_IN controls_NNS that_WDT become_VBP obsolete_JJ and_CC stranded_VBN capital_NN investments_NNS as_IN additional_JJ requirements_NNS are_VBP promulgated_VBD ._. 
+Further_RB ,_, the_DT attainment_NN efforts_NNS of_IN individual_JJ States_NNPS and_CC localities_NNS not_RB only_RB impose_VB costs_NNS on_IN these_DT entities_NNS ,_, but_CC also_RB can_MD increase_VB complexity_NN for_IN companies_NNS which_WDT face_VBP differing_VBG requirements_NNS when_WRB operations_NNS cross_VBP state_NN lines_NNS ._. 
+These_DT factors_NNS are_VBP exacerbated_VBN by_IN limited_JJ timeframes_NNS that_WDT may_MD constrain_VB available_JJ compliance_NN options_NNS and_CC thwart_VB long_JJ range_NN planning_NN ._. 
+These_DT and_CC other_JJ inefficiencies_NNS point_VBP to_TO the_DT need_NN for_IN a_DT nationally_RB coordinated_VBN approach_NN that_WDT could_MD reduce_VB cost_NN while_IN improving_VBG environmental_JJ progress_NN and_CC accountability_NN ._. 
+
+Changing_VBG the_DT Way_NN We_PRP Do_VBP Business_NNP :_: Certainty_NNP ,_, Flexibility_NNP ,_, Accountability_NNP and_CC Innovation_NNP 
+We_PRP believe_VBP there_EX is_VBZ a_DT better_JJR way_NN ,_, one_CD that_WDT could_MD cost_VB American_JJ consumers_NNS and_CC industry_NN far_RB less_JJR than_IN under_IN current_JJ law_NN and_CC ensure_VB protection_NN of_IN the_DT air_NN we_PRP breathe_VB in_IN a_DT far_RB more_RBR certain_JJ ,_, straightforward_JJ manner_NN ._. 
+I_PRP know_VBP that_IN many_JJ members_NNS of_IN this_DT Committee_NNP share_NN that_DT belief_NN and_CC are_VBP also_RB working_VBG to_TO develop_VB such_PDT an_DT approach_NN ._. 
+It_PRP would_MD provide_VB power_NN generators_NNS with_IN more_JJR certainty_NN about_IN their_PRP$ regulatory_JJ future_JJ and_CC thus_RB allow_VB them_PRP to_TO make_VB wiser_JJR decisions_NNS about_IN investments_NNS in_IN new_JJ technology_NN ,_, which_WDT would_MD improve_VB energy_NN security_NN ._. 
+This_DT Administration_NNP is_VBZ developing_VBG such_JJ a_DT proposal_NN ._. 
+It_PRP will_MD build_VB on_IN the_DT successes_NNS of_IN the_DT Acid_NNP Rain_NN cap_NN and_CC trade_NN program_NN ._. 
+It_PRP would_MD establish_VB national_JJ cap-and-trade_JJ programs_NNS for_IN NOx_NNP ,_, SO_NNP 2_CD and_CC mercury_NN emissions_NNS from_IN power_NN generators_NNS (_( with_IN appropriate_JJ measures_NNS to_TO address_VB local_JJ concerns_NNS )_) ._. 
+Such_JJ an_DT approach_NN will_MD benefit_VB the_DT power_NN generation_NN industry_NN ,_, the_DT economy_NN ,_, and_CC the_DT states_NNS ,_, while_IN improving_VBG public_JJ health_NN and_CC the_DT environment_NN ._. 
+
+Up-front_NNP knowledge_NN of_IN future_JJ requirements_NNS for_IN multiple_JJ pollutants_NNS would_MD lead_VB firms_NNS to_TO follow_VB significantly_RB different_JJ and_CC less_RBR expensive_JJ compliance_NN strategies_NNS at_IN individual_JJ plants_NNS ,_, compared_VBN with_IN compliance_NN choices_NNS which_WDT must_MD be_VB made_VBN as_IN requirements_NNS are_VBP addressed_VBN in_IN a_DT sequential_NN manner_NN under_IN the_DT current_JJ law_NN ._. 
+The_DT savings_NNS come_VBP from_IN the_DT opportunity_NN to_TO make_VB cost-effective_JJ plant_NN investment_NN and_CC retirement_NN decisions_NNS with_IN full_JJ knowledge_NN of_IN upcoming_JJ SO_NNP 2_CD ,_, NOx_NNP and_CC mercury_NN requirements_NNS ,_, rather_RB than_IN investing_VBG in_IN "_'' add-on_JJ "_'' control_NN equipment_NN to_TO meet_VB the_DT requirements_NNS of_IN each_DT regulation_NN ._. 
+Integration_NNP ,_, advance_NN knowledge_NN ,_, and_CC certainty_NN regarding_VBG environmental_JJ requirements_NNS will_MD have_VB even_RB greater_JJR value_NN over_IN the_DT coming_VBG decade_NN as_IN the_DT electric_JJ power_NN industry_NN undergoes_NNS further_JJ structural_JJ changes_NNS ._. 
+An_DT integrated_JJ package_NN of_IN measures_NNS that_IN addresses_NNS both_DT the_DT existing_VBG regulatory_JJ requirements_NNS as_RB well_RB as_IN many_JJ future_JJ environmental_JJ needs_VBZ would_MD provide_VB the_DT greatest_JJS degree_NN of_IN certainty_NN and_CC flexibility_NN for_IN the_DT industry_NN ,_, while_IN achieving_VBG the_DT necessary_JJ emission_NN reductions_NNS at_IN lower_JJR cost_NN than_IN under_IN current_JJ law_NN ._. 
+
+In_IN exchange_NN for_IN flexibility_NN in_IN methods_NNS to_TO control_VB emissions_NNS ,_, a_DT full_JJ accounting_NN of_IN emissions_NNS through_IN 
+continuous_JJ monitoring_NN and_CC reporting_VBG is_VBZ essential_JJ ,_, as_RB well_RB as_IN significant_JJ consequences_NNS for_IN failing_VBG to_TO comply_VB ._. 
+Such_JJ provisions_NNS have_VBP been_VBN critical_JJ to_TO the_DT success_NN of_IN the_DT Acid_NNP Rain_NN Program_NN ,_, encouraging_VBG individual_JJ sources_NNS to_TO find_VB the_DT most_RBS cost-effective_JJ means_NNS of_IN compliance_NN with_IN the_DT collective_JJ emission_NN reduction_NN goal_NN ._. 
+
+Flexibility_NNP stimulates_NNS technological_JJ innovation_NN ,_, fuels_NNS economic_JJ activity_NN and_CC reduces_VBZ cost_VBN to_TO industry_NN and_CC consumers_NNS ._. 
+Strategies_NNS and_CC technologies_NNS for_IN the_DT control_NN of_IN SO_NNP 2_CD ,_, NOx_NNP and_CC mercury_NN emissions_NNS exist_VBP now_RB ,_, and_CC improved_VBD methods_NNS are_VBP expected_VBN to_TO become_VB available_JJ over_IN the_DT next_JJ several_JJ years_NNS ._. 
+The_DT air_NN pollution_NN control_NN and_CC monitoring_VBG technology_NN industry_NN is_VBZ expected_VBN to_TO continue_VB to_TO respond_VB with_IN cost-effective_JJ compliance_NN solutions_NNS just_RB as_IN they_PRP have_VBP done_VBN for_IN the_DT past_JJ 30_CD years_NNS ._. 
+A_DT predictable_JJ demand_NN for_IN such_JJ jobs_NNS over_IN the_DT next_JJ 15_CD years_NNS is_VBZ preferable_JJ to_TO the_DT boom_NN and_CC bust_NN cycle_NN created_VBN by_IN the_DT current_JJ regulatory_JJ approach_NN ._. 
+
+This_DT approach_NN also_RB would_MD reduce_VB states_NNS '_POS administrative_JJ burdens_NNS and_CC obligations_NNS ._. 
+A_DT national_JJ cap_NN and_CC trade_NN program_NN with_IN appropriate_JJ caps_NNS for_IN NOx_NNP and_CC SO_NNP 2_CD could_MD provide_VB the_DT emission_NN reductions_NNS necessary_JJ to_TO bring_VB a_DT significant_JJ number_NN of_IN areas_NNS into_IN attainment_NN with_IN the_DT ozone_NN and_CC fine_NN particle_NN standards_NNS ._. 
+Even_RB those_DT areas_NNS that_WDT would_MD not_RB be_VB brought_VBN into_IN attainment_NN by_IN these_DT caps_NNS would_MD need_VB significantly_RB fewer_JJR emission_NN reductions_NNS to_TO come_VB into_IN attainment_NN ._. 
+Our_PRP$ approach_NN would_MD significantly_RB reduce_VB the_DT state_NN resources_NNS needed_VBN to_TO conduct_VB modeling_NN ,_, planning_NN and_CC regulatory_JJ activities_NNS to_TO attain_VB the_DT standards_NNS ._. 
+Additionally_RB ,_, the_DT Acid_NNP Rain_NN cap_NN and_CC trade_NN program_NN is_VBZ administered_VBN with_IN a_DT relatively_RB small_JJ staff_NN relying_VBG on_IN strong_JJ ,_, state-of-the-art_JJ data_NNS tracking_VBG and_CC reporting_VBG capabilities_NNS ._. 
+Thus_RB ,_, well-designed_JJ national_JJ cap_NN and_CC trade_NN programs_NNS can_MD help_VB use_VB government_NN resources_NNS and_CC taxpayer_NN dollars_NNS more_RBR efficiently_RB at_IN both_DT the_DT state_NN and_CC federal_JJ level_NN ._. 
+
+Caps_NNP ensure_VB that_IN environmental_JJ goals_NNS are_VBP met_VBN ._. 
+A_DT cap_NN that_WDT represents_VBZ significant_JJ reductions_NNS of_IN emissions_NNS protects_VBZ the_DT environment_NN by_IN reducing_VBG overall_JJ loadings_NNS ._. 
+Consideration_NNP of_IN local_JJ concerns_NNS is_VBZ important_JJ in_IN conjunction_NN with_IN trading_NN provisions_NNS ._. 
+Therefore_RB ,_, the_DT National_NNP Energy_NNP Plan_NNP recommended_VBD that_IN the_DT Administration_NNP 's_POS approach_NN include_VBP appropriate_JJ measures_NNS to_TO address_VB local_JJ concerns_NNS ,_, such_JJ as_IN the_DT unlikely_JJ occurrence_NN of_IN an_DT SO_NNP 2_CD "_'' hot_JJ spot_NN "_'' or_CC area_NN of_IN concentrated_VBN emissions_NNS ._. 
+Significant_JJ reductions_NNS will_MD go_VB a_DT long_JJ way_NN towards_IN addressing_VBG local_JJ concerns_NNS ._. 
+In_IN addition_NN ,_, EPA_NNP will_MD be_VB conducting_VBG modeling_NN that_WDT will_MD predict_VB where_WRB emissions_NNS reductions_NNS will_MD occur_VB ._. 
+Under_IN the_DT Acid_NNP Rain_NN cap_NN and_CC trade_NN program_NN ,_, we_PRP have_VBP not_RB seen_VBN local_JJ hot_JJ spots_NNS because_IN the_DT highest_JJS emitters_NNS are_VBP often_RB the_DT most_RBS cost-effective_JJ to_TO control_VB and_CC therefore_RB ,_, the_DT most_RBS likely_JJ to_TO control_VB ._. 
+
+As_IN I_PRP mentioned_VBD ,_, EPA_NNP and_CC the_DT Administration_NNP are_VBP still_RB in_IN the_DT process_NN of_IN developing_VBG our_PRP$ proposal_NN ._. 
+Several_JJ guidelines_NNS are_VBP shaping_VBG our_PRP$ efforts_NNS ._. 
+These_DT guidelines_NNS may_MD provide_VB a_DT valuable_JJ basis_NN as_IN you_PRP weigh_VBP the_DT proposals_NNS before_IN you_PRP ._. 
+They_PRP will_MD also_RB guide_VB our_PRP$ assessment_NN of_IN other_JJ proposals_NNS ,_, including_VBG S._NN 556_CD ._. 
+These_DT principles_NNS are_VBP structured_VBN to_TO ensure_VB consistency_NN with_IN the_DT NEP_NNP objectives_NNS ._. 
+The_DT NEP_NNP goals_NNS of_IN increasing_VBG energy_NN supplies_NNS ,_, accelerating_VBG the_DT protection_NN and_CC improvement_NN of_IN the_DT environment_NN ,_, and_CC increasing_VBG our_PRP$ nation_NN 's_POS energy_NN supply_NN must_MD be_VB advanced_VBN ._. 
+Towards_NNP that_DT end_NN ,_, energy_NN diversity_NN ,_, the_DT preservation_NN of_IN electricity_NN generation_NN and_CC transmission_NN reliability_NN ,_, and_CC improvement_NN of_IN energy_NN 
+
+9_CD efficiency_NN /_NN energy_NN intensity_NN of_IN the_DT electric_JJ power_NN industry_NN 
+
+should_MD be_VB a_DT key_JJ consideration_NN ._. 
+In_IN particular_JJ ,_, to_TO prevent_VB the_DT reoccurrence_NN of_IN energy_NN shortages_NNS and_CC price_NN volatility_NN ,_, a_DT diverse_JJ mix_NN of_IN fuel_NN sources_NNS should_MD be_VB maintained_VBN ._. 
+
+Specific_JJ Comments_NNS on_IN S._NN 556_CD 
+We_PRP share_VBP the_DT desire_NN expressed_VBD in_IN S._NN 556_CD to_TO significantly_RB reduce_VB and_CC cap_VB emissions_NNS of_IN SO_NNP 2_CD ,_, NOx_NNP and_CC mercury_NN from_IN power_NN generation_NN ._. 
+We_PRP applaud_VBP your_PRP$ acknowledgment_NN of_IN market-based_JJ incentives_NNS ,_, particularly_RB cap_NN and_CC trade_NN systems_NNS ,_, as_IN a_DT powerful_JJ tool_NN in_IN environmental_JJ protection_NN ._. 
+In_IN this_DT way_NN ,_, S._NN 556_CD builds_VBZ on_IN successful_JJ elements_NNS of_IN the_DT Clean_NNP Air_NNP Act_NNP ._. 
+
+We_PRP do_VBP ,_, however_RB ,_, oppose_VBP S._NN 556_CD because_IN of_IN concerns_NNS with_IN the_DT bill_NN --_: both_DT with_IN some_DT provisions_NNS that_WDT are_VBP in_IN the_DT bill_NN and_CC with_IN some_DT that_WDT are_VBP missing_VBG ._. 
+We_PRP believe_VBP the_DT emission_NN reductions_NNS and_CC timing_NN in_IN the_DT bill_NN will_MD be_VB too_RB costly_JJ for_IN consumers_NNS and_CC will_MD endanger_VB national_JJ energy_NN security_NN ._. 
+We_PRP believe_VBP the_DT bill_NN is_VBZ missing_VBG some_DT provisions_NNS --_: it_PRP should_MD address_VB the_DT allocation_NN scheme_NN and_CC integration_NN with_IN existing_VBG programs_NNS ._. 
+Finally_RB ,_, we_PRP oppose_VBP inclusion_NN of_IN CO_NNP 2_CD in_IN this_DT bill_NN ._. 
+
+First_LS ,_, let_VBP me_PRP explain_VB some_DT of_IN our_PRP$ specific_JJ concerns_NNS about_IN the_DT SO_NNP 2_CD ,_, NOx_NNP ,_, and_CC mercury_NN provisions_NNS in_IN the_DT bill_NN ._. 
+We_PRP are_VBP concerned_VBN that_IN the_DT significant_JJ emissions_NNS reductions_NNS are_VBP required_VBN too_RB quickly_RB ._. 
+We_PRP do_VBP not_RB believe_VB it_PRP is_VBZ reasonable_JJ to_TO expect_VB all_DT the_DT control_NN technology_NN installations_NNS to_TO be_VB completed_VBN in_IN that_DT time_NN frame_NN without_IN very_RB high_JJ costs_NNS and_CC electricity_NN reliability_NN problems_NNS ._. 
+To_TO meet_VB these_DT deadlines_NNS ,_, facilities_NNS may_MD need_VB to_TO be_VB taken_VBN off-line_JJ during_IN critical_JJ periods_NNS ._. 
+Reliability_NNP problems_NNS could_MD arise_VB as_IN large_JJ amounts_NNS of_IN capacity_NN are_VBP taken_VBN out_IN of_IN service_NN for_IN extended_VBN periods_NNS of_IN time_NN to_TO install_VB the_DT control_NN equipment_NN necessary_JJ to_TO meet_VB the_DT emissions_NNS reduction_NN requirements_NNS ._. 
+The_DT abbreviated_JJ time_NN frame_NN would_MD force_VB many_JJ generators_NNS to_TO make_VB these_DT retrofits_NNS simultaneously_RB ._. 
+This_DT would_MD significantly_RB reduce_VB the_DT amount_NN of_IN generating_NN capacity_NN available_JJ to_TO meet_VB consumer_NN '_'' electrical_JJ needs_NNS ._. 
+
+We_PRP have_VBP not_RB modeled_VBN the_DT specific_JJ provisions_NNS in_IN S._NN 556_CD ,_, but_CC useful_JJ information_NN is_VBZ provided_VBN by_IN comparing_VBG the_DT analyses_NNS EPA_NNP and_CC EIA_NNP conducted_VBD to_TO respond_VB to_TO a_DT request_NN from_IN Senators_NNP Smith_NNP ,_, Voinovich_NNP and_CC Brownback_NNP with_IN the_DT analyses_NNS responding_VBG to_TO a_DT request_NN from_IN Senators_NNP Jeffords_NNP and_CC Lieberman_NNP ._. 
+In_IN the_DT Smith_NNP /_NN Voinovich_NNP /_NN Brownback_NNP analysis_NN ,_, when_WRB we_PRP analyzed_VBD SO_NNP 2_CD and_CC NOx_NNP reduction_NN levels_NNS similar_JJ to_TO S._NN 556_CD ,_, mercury_NN reduction_NN levels_NNS more_RBR modest_JJ than_IN S._NN 556_CD and_CC no_DT CO_NNP 2_CD reductions_NNS ,_, we_PRP did_VBD not_RB find_VB significant_JJ impacts_NNS on_IN coal_NN production_NN or_CC electricity_NN prices_NNS ._. 
+However_RB ,_, in_IN the_DT analysis_NN responding_VBG to_TO the_DT Jeffords_NNP /_NN Lieberman_NNP request_NN that_WDT had_VBD NOx_NNP ,_, SO_NNP 2_CD ,_, mercury_NN and_CC CO_NNP 2_CD reduction_NN levels_NNS similar_JJ to_TO S._NN 556_CD ,_, we_PRP found_VBD significant_JJ ramifications_NNS :_: approximately_RB a_DT 20_CD -_: 30_CD %_NN decline_NN of_IN coal_NN generation_NN and_CC a_DT 30_CD -_: 50_CD %_NN increase_NN in_IN electricity_NN prices_NNS compared_VBN to_TO the_DT reference_NN case_NN (_( depending_VBG on_IN assumptions_NNS of_IN energy_NN technology_NN penetration_NN )_) ._. 
+
+The_DT 90_CD %_NN source-specific_JJ control_NN for_IN mercury_NN is_VBZ also_RB problematic_JJ ._. 
+We_PRP have_VBP not_RB seen_VBN anything_NN that_WDT demonstrates_VBZ that_IN every_DT coal-fired_JJ power_NN plant_NN would_MD be_VB able_JJ to_TO achieve_VB 90_CD %_NN source-specific_JJ controls_NNS for_IN mercury_NN by_IN 2007_CD ,_, without_IN considerable_JJ fuel_NN switching_NN ,_, which_WDT would_MD be_VB very_RB disruptive_JJ to_TO our_PRP$ economy_NN and_CC undermine_VB energy_NN security_NN ._. 
+In_IN addition_NN ,_, requiring_VBG the_DT same_JJ level_NN of_IN reduction_NN at_IN a_DT 
+plant_NN that_IN emits_NNS 0.1_CD pounds_NNS of_IN mercury_NN and_CC a_DT plant_NN that_IN emits_NNS 2000_CD pounds_NNS of_IN mercury_NN -_: regardless_RB of_IN cost_NN -_: is_VBZ neither_DT efficient_JJ nor_CC necessary_JJ ._. 
+
+We_PRP are_VBP also_RB very_RB concerned_VBN about_IN the_DT "_'' outdated_JJ power_NN plant_NN "_'' provision_NN ._. 
+Requiring_NNP every_DT plant_NN over_IN 30_CD years_NNS old_JJ to_TO meet_VB New_NNP Source_NNP Performance_NNP Standards_NNP and_CC New_NNP Source_NNP Review_NNP modification_NN requirements_NNS seems_VBZ unnecessary_JJ and_CC could_MD undermine_VB the_DT benefits_NNS of_IN the_DT cap_NN and_CC trade_NN approach_NN ._. 
+Allowing_VBG sources_NNS to_TO make_VB reductions_NNS where_WRB it_PRP is_VBZ most_RBS economical_JJ to_TO do_VB so_RB is_VBZ one_CD of_IN the_DT reasons_NNS cap_VBP and_CC trade_NN programs_NNS should_MD be_VB less_RBR costly_JJ than_IN command-and-control_JJ programs_NNS that_WDT achieve_VBP the_DT same_JJ or_CC even_RB fewer_JJR reductions_NNS ._. 
+When_WRB you_PRP have_VBP a_DT hard_JJ cap_NN ,_, as_IN you_PRP would_MD under_IN S._NN 556_CD ,_, requiring_VBG emission_NN reductions_NNS at_IN a_DT specific_JJ source_NN does_VBZ not_RB reduce_VB the_DT overall_JJ level_NN of_IN pollution_NN ,_, it_PRP just_RB limits_VBZ industry_NN 's_POS flexibility_NN about_IN where_WRB to_TO make_VB the_DT reductions_NNS ._. 
+Layering_NNP additional_JJ requirements_NNS ,_, such_JJ as_RB the_DT "_'' outdated_JJ power_NN plants_NNS "_'' provision_NN ,_, on_IN top_NN of_IN a_DT cap_NN and_CC trade_NN program_NN is_VBZ very_RB likely_JJ to_TO increase_VB costs_NNS without_IN providing_VBG significant_JJ environmental_JJ benefits_NNS ._. 
+
+Second_JJ ,_, we_PRP have_VBP concerns_NNS about_IN what_WP is_VBZ not_RB in_IN S._NN 556_CD ._. 
+Comparing_VBG our_PRP$ experience_NN on_IN the_DT Acid_NNP Rain_NN Program_NN with_IN the_DT NOx_NNP SIP_NNP Call_NNP and_CC the_DT Section_NN 126_CD petitions_NNS demonstrates_VBZ the_DT benefit_NN of_IN having_VBG certain_JJ key_JJ issues_NNS decided_VBN by_IN Congress_NNP rather_RB than_IN left_VBD to_TO Agency_NNP rulemakings_NNS ._. 
+Congressional_JJ resolution_NN of_IN key_JJ issues_NNS simplifies_NNS whatever_WDT Agency_NNP rulemaking_VBG is_VBZ needed_VBN and_CC decreases_VBZ the_DT opportunities_NNS for_IN the_DT program_NN to_TO get_VB tied_VBN up_RP in_IN protracted_JJ litigation_NN ._. 
+
+Perhaps_RB the_DT most_RBS important_JJ program_NN element_NN not_RB addressed_VBD in_IN the_DT bill_NN is_VBZ integration_NN of_IN this_DT new_JJ program_NN with_IN the_DT existing_VBG Clean_NNP Air_NNP Act_NNP provisions_NNS ._. 
+An_DT effective_JJ market-based_JJ approach_NN would_MD make_VB some_DT existing_VBG provisions_NNS of_IN the_DT Clean_NNP Air_NNP Act_NNP unnecessary_JJ ._. 
+For_IN example_NN ,_, depending_VBG on_IN the_DT ultimate_JJ cap_NN levels_NNS chosen_VBN by_IN Congress_NNP ,_, this_DT type_NN of_IN legislation_NN would_MD obviate_VB the_DT need_NN for_IN Best_JJS Available_NNP Retrofit_NNP Technology_NNP requirements_NNS ,_, mercury_NN MACT_NNP ,_, and_CC new_JJ source_NN review_NN case-by-case_JJ technology_NN requirements_NNS for_IN power_NN generators_NNS ._. 
+
+Also_RB missing_VBG from_IN S._NN 556_CD is_VBZ the_DT scheme_NN for_IN allocating_VBG allowances_NNS ._. 
+Developing_VBG an_DT allocation_NN scheme_NN requires_VBZ answering_VBG numerous_JJ questions_NNS ._. 
+Should_MD the_DT allowances_NNS be_VB auctioned_VBN off_RP or_CC be_VB handed_VBN out_IN for_IN free_JJ ?_. 
+If_IN they_PRP are_VBP not_RB auctioned_VBN ,_, should_MD they_PRP be_VB allocated_VBN based_VBN on_IN heat_NN input_NN or_CC electrical_JJ and_CC steam_NN output_NN ?_. 
+Should_MD power_VB generators_NNS that_WDT do_VBP not_RB emit_NN air_NN pollutants_NNS (_( e.g._NN ,_, hydropower_NN facilities_NNS )_) be_VB given_VBN allowances_NNS ?_. 
+Should_MD allowance_NN allocations_NNS be_VB updated_VBN ,_, and_CC if_IN so_RB ,_, how_WRB frequently_RB ?_. 
+Should_MD allocations_NNS be_VB fuel_NN neutral_JJ ?_. 
+Imbedded_NNP in_IN these_DT and_CC other_JJ questions_NNS are_VBP important_JJ environmental_JJ and_CC energy_NN policy_NN choices_NNS with_IN significant_JJ equity_NN consequences_NNS ._. 
+It_PRP may_MD not_RB be_VB efficient_JJ for_IN EPA_NNP to_TO make_VB these_DT choices_NNS in_IN rulemaking_VBG ._. 
+
+There_EX are_VBP other_JJ issues_NNS as_RB well_RB that_IN this_DT Committee_NNP should_MD consider_VB ,_, such_JJ as_IN coordination_NN with_IN existing_VBG state_NN and_CC regional_JJ programs_NNS like_IN the_DT Western_NNP Regional_NNP Air_NNP Partnership_NNP and_CC the_DT NOx_NNP reduction_NN programs_NNS in_IN the_DT east_JJ ._. 
+The_DT Committee_NNP may_MD also_RB wish_VB to_TO consider_VB provisions_NNS to_TO track_VB environmental_JJ progress_NN to_TO evaluate_VB the_DT efficacy_NN of_IN the_DT program_NN this_DT bill_NN would_MD establish_VB ._. 
+
+Finally_RB ,_, the_DT Administration_NNP strongly_RB opposes_VBZ including_VBG reductions_NNS for_IN CO_NNP 2_CD in_IN S._NN 556_CD or_CC any_DT multi-pollutant_JJ bill_NN ._. 
+Pursuing_NNP sharp_JJ reductions_NNS in_IN CO_NNP 2_CD from_IN the_DT electricity_NN generating_NN sector_NN alone_RB would_MD cause_VB a_DT dramatic_JJ shift_NN from_IN coal_NN to_TO natural_JJ gas_NN and_CC thus_RB would_MD run_VB the_DT risk_NN of_IN endangering_VBG national_JJ energy_NN security_NN ,_, substantially_RB increasing_VBG energy_NN prices_NNS and_CC harming_VBG consumers_NNS ._. 
+
+The_DT Administration_NNP will_MD not_RB support_VB any_DT legislation_NN that_WDT would_MD cause_VB a_DT significant_JJ decline_NN in_IN our_PRP$ nation_NN 's_POS ability_NN to_TO use_VB coal_NN as_IN a_DT major_JJ source_NN of_IN current_JJ and_CC future_JJ electricity_NN ._. 
+At_IN the_DT same_JJ time_NN ,_, the_DT Administration_NNP will_MD not_RB support_VB any_DT legislation_NN that_WDT does_VBZ not_RB enhance_VB the_DT cleanliness_NN of_IN coal-fired_JJ electricity_NN generation_NN and_CC promote_VB a_DT future_NN for_IN clean_VB coal_NN technologies_NNS ._. 
+In_IN short_JJ ,_, the_DT Administration_NNP supports_VBZ a_DT clean_JJ coal_NN policy_NN as_IN a_DT critical_JJ component_NN of_IN our_PRP$ nation_NN 's_POS energy_NN and_CC environmental_JJ policies_NNS ,_, recognizing_VBG that_IN other_JJ sources_NNS of_IN energy_NN also_RB have_VBP a_DT critical_JJ role_NN to_TO play_VB ._. 
+
+Additionally_RB ,_, as_IN Governor_NNP Whitman_NNP said_VBD when_WRB she_PRP testified_VBD before_IN you_PRP in_IN July_NNP ,_, including_VBG CO_NNP 2_CD in_IN this_DT bill_NN will_MD slow_VB down_RB ,_, if_IN not_RB prevent_VB ,_, the_DT consensus_NN necessary_JJ for_IN passage_NN of_IN legislation_NN to_TO control_VB multiple_JJ emissions_NNS from_IN power_NN plants_NNS ._. 
+Governor_NNP Whitman_NNP and_CC I_PRP both_DT believe_VBP consensus_NN on_IN the_DT appropriate_JJ levels_NNS and_CC timing_NN for_IN reductions_NNS of_IN NOx_NNP ,_, SO_NNP 2_CD and_CC mercury_NN is_VBZ achievable_JJ relatively_RB soon_RB ._. 
+We_PRP should_MD not_RB delay_VB the_DT public_JJ health_NN and_CC environmental_JJ benefits_NNS from_IN reduction_NN of_IN these_DT emissions_NNS while_IN we_PRP wait_VBP for_IN consensus_NN to_TO develop_VB on_IN CO_NNP 2_CD ._. 
+
+We_PRP agree_VBP that_DT climate_NN change_NN is_VBZ a_DT serious_JJ issue_NN we_PRP need_VBP to_TO address_VB ._. 
+However_RB ,_, CO_NNP 2_CD has_VBZ never_RB been_VBN regulated_VBN as_IN a_DT pollutant_NN under_IN the_DT Clean_NNP Air_NNP Act_NNP and_CC does_VBZ not_RB pose_VB any_DT direct_JJ threat_NN to_TO human_JJ health_NN unlike_IN NOx_NNP ,_, SO_NNP 2_CD and_CC mercury_NN ._. 
+The_DT current_JJ body_NN of_IN scientific_JJ knowledge_NN does_VBZ not_RB provide_VB information_NN regarding_VBG atmospheric_JJ concentrations_NNS of_IN CO_NNP 2_CD or_CC reduction_NN levels_NNS necessary_JJ to_TO prevent_VB dangerous_JJ interference_NN with_IN the_DT climate_NN system_NN ._. 
+
+In_IN April_NNP ,_, the_DT President_NNP convened_VBD a_DT Cabinet-level_NNP policy_NN review_NN of_IN this_DT issue_NN and_CC was_VBD provided_VBN with_IN initial_JJ recommendations_NNS that_IN he_PRP accepted_VBD and_CC announced_VBD on_IN June_NNP 11_CD ._. 
+In_IN that_DT regard_NN ,_, the_DT Administration_NNP is_VBZ implementing_VBG two_CD major_JJ initiatives_NNS on_IN climate_NN science_NN and_CC advanced_VBD energy_NN and_CC sequestration_NN technologies_NNS ._. 
+The_DT United_NNP States_NNPS now_RB spends_VBZ $1.6_NN 
+billion_CD annually_RB on_IN climate_NN science_NN to_TO reduce_VB uncertainties_NNS -_: a_DT commitment_NN unmatched_JJ by_IN any_DT other_JJ nation_NN ._. 
+The_DT "_'' National_NNP Climate_NN Change_NNP Technology_NNP Initiative_NNP "_'' will_MD accelerate_VB priority_NN research_NN and_CC the_DT application_NN of_IN advanced_JJ energy_NN and_CC sequestration_NN technologies_NNS ,_, recognizing_VBG that_IN the_DT real_JJ answer_NN to_TO addressing_VBG climate_NN change_NN in_IN the_DT long_JJ term_NN lies_VBZ in_IN the_DT development_NN and_CC global_JJ introduction_NN of_IN such_JJ technologies_NNS in_IN this_DT century_NN ._. 
+And_CC the_DT cabinet-level_JJ policy_NN review_NN is_VBZ ongoing_JJ ._. 
+Finally_RB ,_, as_IN greenhouse_NN gas_NN emissions_NNS are_VBP projected_VBN to_TO grow_VB exponentially_RB in_IN the_DT developing_VBG world_NN in_IN the_DT next_JJ two_CD decades_NNS ,_, we_PRP must_MD evaluate_VB the_DT costs_NNS of_IN imposing_VBG domestic_JJ reductions_NNS as_IN a_DT very_RB high_JJ cost_NN against_IN potentially_RB low-cost_JJ opportunities_NNS for_IN mitigating_JJ and_CC sequestering_NN carbon_NN emissions_NNS in_IN the_DT developing_VBG world_NN ._. 
+
+We_PRP appreciate_VBP the_DT role_NN of_IN S._NN 556_CD in_IN generating_VBG important_JJ discussions_NNS and_CC emphasizing_VBG the_DT importance_NN of_IN a_DT new_JJ approach_NN to_TO controlling_VBG emissions_NNS in_IN the_DT power_NN sector_NN ._. 
+I_PRP look_VBP forward_RB to_TO the_DT additional_JJ hearings_NNS you_PRP will_MD need_VB to_TO address_VB these_DT important_JJ issues_NNS and_CC to_TO working_VBG with_IN the_DT Committee_NNP 
+to_TO develop_VB an_DT approach_NN that_IN the_DT President_NNP can_MD support_VB ._. 
+
+The_DT history_NN of_IN Clean_NNP Air_NNP Act_NNP legislation_NN is_VBZ one_CD of_IN great_JJ accomplishments_NNS made_VBD possible_JJ by_IN bipartisan_JJ efforts_NNS ._. 
+I_PRP thank_VBP you_PRP for_IN the_DT opportunity_NN to_TO work_VB with_IN you_PRP to_TO continue_VB that_IN great_JJ tradition_NN ._. 
+

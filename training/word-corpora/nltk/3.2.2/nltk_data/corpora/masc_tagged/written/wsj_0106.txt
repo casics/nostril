@@ -1,0 +1,6 @@
+ROGERS_NNP COMMUNICATIONS_NNPS Inc._NN said_VBD it_PRP plans_VBZ to_TO raise_VB 175_CD million_CD to_TO 180_CD million_CD Canadian_JJ dollars_NNS (_( US_NNP $_$ 148.9_CD million_CD to_TO $153.3_NN million_CD )_) through_IN a_DT private_JJ placement_NN of_IN perpetual_JJ preferred_JJ shares_NNS ._. 
+Perpetual_JJ preferred_JJ shares_NNS are_VBP n't_RB retractable_JJ by_IN the_DT holders_NNS ,_, the_DT company_NN said_VBD ._. 
+Rogers_NNP said_VBD the_DT shares_NNS will_MD be_VB convertible_JJ into_IN Class_NN B_NNP shares_NNS ,_, but_CC that_IN the_DT company_NN has_VBZ the_DT option_NN to_TO redeem_VB the_DT shares_NNS before_IN a_DT conversion_NN takes_VBZ place_NN ._. 
+A_DT spokesman_NN for_IN the_DT Toronto_NNP cable_NN television_NN and_CC telecommunications_NNS concern_NN said_VBD the_DT coupon_NN rate_NN has_VBZ n't_RB yet_RB been_VBN fixed_VBN ,_, but_CC will_MD probably_RB be_VB set_VBN at_IN around_IN 8_CD %_NN ._. 
+He_PRP declined_VBD to_TO discuss_VB other_JJ terms_NNS of_IN the_DT issue_NN ._. 
+

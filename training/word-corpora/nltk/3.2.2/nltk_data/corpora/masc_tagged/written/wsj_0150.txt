@@ -1,0 +1,12 @@
+A.L._NN Williams_NNP Corp_NNP ._. was_VBD merged_VBN into_IN Primerica_NNP Corp_NNP ._. ,_, New_NNP York_NNP ,_, after_IN a_DT special_JJ meeting_NN of_IN Williams_NNP shareholders_NNS cleared_VBD the_DT transaction_NN ,_, the_DT companies_NNS said_VBD ._. 
+
+Primerica_NNP ,_, which_WDT had_VBD owned_VBN nearly_RB 70_CD %_NN of_IN Williams_NNP ,_, will_MD pay_VB about_IN 16.7_CD million_CD shares_NNS ,_, currently_RB valued_VBN at_IN almost_RB $472_NN million_CD ,_, for_IN the_DT rest_NN of_IN Williams_NNP ._. 
+The_DT financial_JJ -_- services_NNS company_NN will_MD pay_VB 0.82_CD share_NN for_IN each_DT Williams_NNP share_NN ._. 
+
+Williams_NNP shares_NNS ,_, which_WDT were_VBD to_TO be_VB delisted_VBN from_IN the_DT New_NNP York_NNP Stock_NNP Exchange_NNP after_IN the_DT close_NN of_IN composite_JJ trading_NN yesterday_NN ,_, closed_VBD at_IN $23.25_NN ,_, off_IN 12.5_CD cents_NNS ._. Primerica_NNP closed_VBD at_IN $28.25_NN ,_, down_RB 50_CD cents_NNS ._. 
+
+Williams_NNP ,_, Duluth_NNP ,_, Ga_NNP ._. ,_, is_VBZ an_DT insurance_NN and_CC financial_JJ -_- services_NNS holding_VBG company_NN ._. 
+Its_PRP$ subsidiaries_NNS '_POS services_NNS are_VBP marketed_VBN by_IN closely_RB held_VBD A.L._NN Williams_NNP &_CC Associates_NNP ._. 
+Primerica_NNP ,_, as_IN expected_VBN ,_, also_RB acquired_VBN certain_JJ assets_NNS of_IN the_DT agency_NN and_CC assumed_VBD certain_JJ of_IN its_PRP$ liabilities_NNS ._. 
+Terms_NNS were_VBD n't_RB disclosed_VBN ._. 
+

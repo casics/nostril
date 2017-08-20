@@ -1,0 +1,72 @@
+docno_NN =_SYM "_'' lists-_NN 003_CD -_: 2137010_CD "_'' received_VBD =_SYM "_'' Tue_NNP May_NNP 18_CD 18:52:44_NN 1993_CD EST_NNP "_'' sent_VBD =_SYM "_'' Tue_NNP ,_, 18_CD May_NNP 1993_CD 15:31:15_NN -_: 0500_CD (_( CDT_NNP )_) "_'' name_NN =_SYM "_'' Rick_NNP Troth_NNP "_'' email_NN =_SYM "_'' TROTH@ricevm1.rice.edu_NN "_'' subject_JJ =_SYM "_'' Re_NNP :_: CHARSET_NNP considerations_NNS "_'' id_NN =_SYM "_'' 01GYBXHRZVEA8Y5JAE@INNOSOFT.COM_NN "_'' inreplyto_NN =_SYM "_'' scs@adam.mit.edu_NN "_'' To_TO :_: scs@adam.mit.edu_NN ,_, pine-info@cac.washington.edu_NN ,_, ietf-charsets@INNOSOFT.COM_NN Cc_NNP :_: dan@ees1a0.engr.ccny.cuny.edu_NN On_IN Fri_NNP ,_, 14_CD May_NNP 93_CD 17:29:24_NN -_: 0400_CD Steve_NNP said_VBD :_: >_NN In_IN <_NN 9305121752.AA00650@dimacs.rutgers.edu_NN >_NN ,_, Rick_NNP wrote_VBD :_: >_NN >_NN Any_DT user_NN of_IN Pine_NNP 3.05_CD (_( and_CC as_RB far_RB as_IN I_PRP can_MD tell_VB 3.07_CD or_CC 2_CD ._. x_SYM )_) >_NN >_NN can_MD shoot_VB themself_NN in_IN the_DT foot_NN (_( head_NN if_IN you_PRP prefer_VBP )_) by_IN setting_VBG >_NN >_NN character-set_JJ =_SYM Zeldas_NNP __NN private_JJ __NN codepage_NN ._. 
+>_NN This_DT is_VBZ almost_RB certainly_RB a_DT bad_JJ idea_NN ,_, ..._... 
+
+Although_IN I_PRP used_VBD this_DT to_TO defend_VB my_PRP$ action_NN of_IN having_VBG used_VBD an_DT illegitimate_JJ CHARSET_NNP ,_, I_PRP do_VBP NOT_NNP think_VBP that_IN all_DT "_'' user_NN can_MD shoot_VB themself_NN in_IN the_DT foot_NN "_'' features_NNS are_VBP bad_JJ ._. 
+Specifically_RB ,_, I_PRP feel_VBP (_( quite_RB strongly_RB )_) that_IN the_DT user_NN should_MD be_VB able_JJ to_TO specify_VB any_DT old_JJ charset_NN and_CC have_VBP display_NN at_IN least_JJS attempted_VBN at_IN the_DT other_JJ end_NN ._. 
+
+The_DT long_JJ term_NN solution_NN is_VBZ ,_, of_IN course_NN ,_, to_TO map_VB between_IN "_'' character_NN sets_NNS "_'' (_( which_WDT the_DT use_NN should_MD have_VB control_VB over_IN )_) and_CC "_'' charsets_NNS "_'' (_( which_WDT the_DT user_NN should_MD leave_VB alone_RB )_) ._. 
+
+My_PRP$ only_RB request_NN of_IN Pine_NNP from_IN all_PDT this_DT noise_NN is_VBZ that_IN Pine_NNP NOT_NNP LABEL_NNP messages_NNS of_IN Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ._. 
+(_( this_DT may_MD be_VB counter_RB to_TO RFC_NNP 1341_CD ;_: is_VBZ it_PRP ?_. )_) 
+
+>_NN >_NN Should_MD the_DT Pine_NNP developers_NNS remove_VB this_DT feature_NN ?_. 
+
+No._NN 
+
+>_NN charset_NN is_VBZ an_DT octet-based_JJ encoding_VBG used_VBN during_IN >_NN message_NN transfer_NN ;_: it_PRP need_VBP bear_NN no_DT relation_NN to_TO the_DT composing_VBG or_CC >_NN viewing_VBG character_NN sets_NNS ._. 
+
+Right_RB ._. 
+I_PRP maintain_VBP that_IN CHARSET_NNP specification_NN should_MD be_VB omitted_VBN when_WRB feasible_JJ ._. 
+This_DT is_VBZ because_IN there_EX are_VBP such_JJ things_NNS as_IN gateways_NNS which_WDT translate_VBP the_DT SMTP_NNP octet-stream_JJ into_IN anything_NN ._. 
+
+There_EX are_VBP two_CD goals_NNS :_: 1_CD )_) to_TO be_VB able_JJ to_TO specify_VB new_JJ and_CC /_NN or_CC extended_VBN character_NN sets_NNS (_( and_CC mark-ups_JJ and_CC other_JJ extensions_NNS to_TO plain_JJ text_NN )_) and_CC 2_CD )_) to_TO use_VB "_'' plain_JJ text_NN "_'' (_( in_IN mail_NN )_) as_IN a_DT transport_NN medium_NN ._. 
+For_IN the_DT former_NN ,_, use_NN Base_NNP 64_CD encoding_VBG when_WRB needed_VBN ._. 
+For_IN the_DT latter_NN ,_, do_VBP n't_RB label_VB the_DT text_NN "_'' ASCII_NNP "_'' or_CC any_DT other_JJ codepoint_NN mapping_NN if_IN there_EX 's_VBZ any_DT way_NN on_IN earth_NN that_IN it_PRP might_MD get_VB translated_VBN by_IN a_DT gateway_NN ._. 
+
+I_PRP do_VBP n't_RB think_VB this_DT is_VBZ making_VBG sense_NN and_CC I_PRP ca_MD n't_RB find_VB the_DT words_NNS ._. 
+Steve_NNP apparently_RB has_VBZ :_: charset_NN -_: vs-_NN character_NN __NN set_VBN ._. 
+
+Plain_NNP text_NN is_VBZ defined_VBN differently_RB from_IN system_NN to_TO system_NN ._. 
+On_IN UNIX_NNP ,_, plain_JJ text_NN is_VBZ ASCII_NNP (_( now_RB ISO-_NNP 8859_CD -_: 1_CD )_) with_IN lines_NNS delimited_JJ by_IN NL_NNP (_( actually_RB LF_NNP )_) ._. 
+On_IN NT_NNP ,_, plain_JJ text_NN is_VBZ 16_CD bits_NNS wide_JJ (_( so_IN I_PRP hear_VBP )_) ._. 
+That_DT ai_VBP n't_RB ASCII_NNP ,_, though_IN we_PRP could_MD be_VB the_DT high-order_JJ 8_CD bits_NNS for_IN much_RB of_IN plain_JJ text_NN processing_NN ,_, and_CC that_DT 's_VBZ fine_NN by_IN me_PRP ._. 
+(_( memory_NN is_VBZ cheap_JJ )_) On_IN VM_NNP /_NN CMS_NNP ,_, plain_JJ text_NN is_VBZ EBCDIC_NNP (_( now_RB CodePage_NNP 1047_CD )_) and_CC records_NNS are_VBP handled_VBN by_IN the_DT filesystem_NN out-of-band_JJ of_IN the_DT data_NNS ,_, so_RB NL_NNP (_( and_CC LF_NNP and_CC CR_NNP )_) are_VBP n't_RB sacred_JJ characters_NNS ._. 
+Now_RB ..._... "_'' mail_NN is_VBZ plain-text_JJ ,_, not_RB ASCII_NNP "_'' ._. 
+
+>_NN In_IN the_DT most_RBS general_JJ case_NN ,_, a_DT message_NN will_MD >_NN be_VB composed_VBN using_VBG some_DT native_JJ character_NN set_VBD ,_, translated_VBN >_NN automatically_RB to_TO a_DT MIME-registered_NNP charset_NN ,_, and_CC translated_VBN at_IN the_DT >_NN other_JJ end_NN into_IN a_DT native_JJ display_NN character_NN set_VBN ._. 
+
+Right_RB !_. 
+99_CD times_NNS out_IN of_IN 100_CD you_PRP do_VBP n't_RB care_VB ,_, but_CC there_RB 's_VBZ that_IN 1_CD %_NN of_IN the_DT time_NN when_WRB you_PRP 've_VBP called_VBN it_PRP US-ASCII_NNP and_CC it_PRP 's_VBZ NOT_NNP anymore_RB ,_, although_IN it_PRP *_NN is_VBZ *_NN still_RB legitimate_JJ "_'' plain_JJ text_NN "_'' ._. 
+
+>_NN (_( You_PRP 'll_MD notice_VB that_IN I_PRP reinforce_VBP this_DT distinction_NN in_IN my_PRP$ >_NN own_JJ head_NN and_CC in_IN this_DT message_NN by_IN using_VBG the_DT terms_NNS "_'' character_NN set_VBN "_'' >_NN and_CC "_'' charset_NN "_'' noninterchangeably_RB ._. )_) 
+
+Thanks_NNS ._. 
+That_DT helps_VBZ ._. 
+
+>_NN The_DT charset_NN situation_NN is_VBZ much_JJ like_IN the_DT canonical_JJ CRLF_NNP situation_NN :_: >_NN the_DT fact_NN that_IN the_DT canonical_JJ representation_NN is_VBZ identical_JJ to_TO some_DT >_NN but_CC not_RB all_DT of_IN the_DT available_JJ local_JJ representations_NNS guarantees_NNS >_NN misunderstandings_NNS ._. 
+
+Right_RB !_. 
+And_CC this_DT thinking_NN ,_, carried_VBD into_IN MIME_NNP (_( thus_RB this_DT should_MD be_VB kicked_VBN BACK_NNP TO_TO the_DT IETF-_NNP 822_CD list_NN ,_, but_CC I_PRP refrain_VB )_) ,_, shows_VBZ up_RB in_IN the_DT use_NN of_IN CHARSET_NNP =_SYM ISO-_NNP 8859_CD -_: 1_CD rather_RB than_IN CHARACTER_NNP __NN SET_NNP =_SYM Latin-_NNP 1_CD ._. 
+If_IN you_PRP specify_VB "_'' Latin-_NNP 1_CD "_'' ,_, then_RB you_PRP can_MD (_( must_MD ;_: I_PRP 'm_VBP arguing_VBG for_IN a_DT definition_NN here_RB ,_, not_RB an_DT explanation_NN )_) assume_VB that_IN SMTP_NNP will_MD carry_VB it_PRP as_IN ISO-_NNP 8859_CD -_: 1_CD ,_, BUT_NNP THE_DT RECEIVING_NNP (_( or_CC sending_VBG )_) HOST_NNP MIGHT_NNP NOT_NNP ._. 
+(_( and_CC yes_UH ,_, sad_JJ but_CC true_JJ ,_, any_DT SMTPs_NNP will_MD strip_VB the_DT high_JJ bit_NN )_) 
+
+>_NN To_TO be_VB sure_JJ ,_, automated_VBN selection_NN of_IN and_CC translation_NN to_TO a_DT registered_JJ >_NN MIME_NNP charset_NN is_VBZ a_DT non-trivial_JJ task_NN ,_, ..._... 
+
+Yes_UH ._. 
+Which_WDT is_VBZ why_WRB I_PRP want_VBP routers_NNS ,_, gateways_NNS ,_, and_CC all_DT MTAs_NNP (_( mail_NN transfer_NN agents_NNS )_) to_TO stay_VB out_IN of_IN it_PRP ._. 
+That_DT 's_VBZ why_WRB I_PRP ask_VBP that_IN (_( today_NN ,_, 1993_CD )_) we_PRP NOT_NNP LABEL_NNP true_JJ plain_JJ text_NN as_IN US-ASCII_NNP /_NN ISO-_NNP 8859_CD -_: 1_CD ._. 
+Just_RB leave_VB it_PRP alone_RB and_CC let_VB it_PRP default_NN at_IN the_DT receiving_VBG end_NN ._. 
+
+>_NN and_CC mailers_NNS which_WDT are_VBP trying_VBG >_NN to_TO adopt_VB MIME_NNP right_RB away_RB can_MD not_RB be_VB faulted_VBN for_IN deferring_VBG >_NN development_NN of_IN such_JJ functionality_NN for_IN a_DT while_NN ._. 
+
+And_CC let_VB me_PRP reiterate_NN that_IN I_PRP 'm_VBP not_RB mad_JJ at_IN the_DT Pine_NNP developers_NNS (_( nor_CC the_DT MIME_NNP developers_NNS ;_: not_RB mad_JJ at_IN anyone_NN ,_, just_RB trying_VBG to_TO push_VB a_DT point_NN that_IN I_PRP think_VBP is_VBZ important_JJ and_CC has_VBZ been_VBN missed_VBN )_) ._. 
+I_PRP 'm_VBP very_RB pleased_VBN with_IN Pine_NNP ._. 
+It_PRP can_MD almost_RB replace_VB RiceMAIL_NNP ._. 
+
+Steve_NNP ,_, it_PRP 's_VBZ obvious_JJ from_IN your_PRP$ distinction_NN between_IN character_NN set_VBN (_( set_NN of_IN characters_NNS )_) and_CC charset_NN (_( encoding_VBG of_IN characters_NNS )_) that_IN you_PRP understand_VBP this_DT issue_NN ._. 
+Thanks_NNS for_IN making_VBG up_RP and_CC using_VBG those_DT labels_NNS !_. 
+
+>_NN Steve_NNP Summit_NNP >_NN scs@adam.mit.edu_NN 
+
+--_: Rick_NNP Troth_NNP <_NN troth@rice.edu_NN >_NN ,_, Rice_NNP University_NNP ,_, Information_NNP Systems_NNPS 
+

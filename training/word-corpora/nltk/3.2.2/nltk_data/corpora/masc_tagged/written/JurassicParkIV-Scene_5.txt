@@ -1,0 +1,257 @@
+Jurassic_NNP Park_NNP IV_NNP Chris_NNP Hartman_NNP EXT_NNP -_- SAMARA_NNP ._. COSTA_NNP RICA_NNP -_- MIDDAY_NN EXT_NNP -_- A_DT BLACKHAWK_NNP HELICOPTER_NN LANDS_NNS IN_IN SAMARA_NNP ,_, COSTA_NNP RICA_NNP ._. 
+ARMORED_JJ VEHICLES_NNS ARE_VBP HOLDING_NNP POSITIONS_NNS AROUND_IN A_DT RAVAGED_NNP VILLAGE_NNP ._. 
+-_- MIDDAY_NN As_IN the_DT helicopter_NN lands_NNS ,_, GRANT_NNP and_CC MALCOLM_NNP debark_NN ._. 
+The_DT chopper_NN takes_VBZ off_RP again_RB ,_, as_IN a_DT Humvee_NNP approaches_NNS them_PRP ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP exits_VBZ the_DT vehicle_NN and_CC walks_VBZ up_IN to_TO them_PRP ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP (_( Shouting_VBG over_IN the_DT helicopter_NN 
+)_) Dr._NN Grant_NNP ,_, Dr._NN Malcolm_NNP ,_, welcome_JJ to_TO Costa_NNP Rica_NNP ,_, I_PRP 'm_VBP General_NNP Sanchez_NNP and_CC I_PRP 'm_VBP in_IN command_NN of_IN this_DT little_JJ fiasco_NN ._. 
+Sorry_JJ we_PRP had_VBD to_TO drag_VB you_PRP here_RB so_RB abruptly_RB ,_, but_CC you_PRP know_VBP what_WP they_PRP say_VBP about_IN desperate_JJ times_NNS ._. 
+ALAN_NNP GRANT_NNP Why_WRB are_VBP we_PRP here_RB ?_. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP We_PRP need_VBP you_PRP help_VBP ,_, Dr._NN Grant_NNP ._. 
+If_IN you_PRP 'll_MD follow_VB me_PRP ._. 
+SANCHEZ_NNP leads_VBZ GRANT_NNP and_CC MALCOLM_NNP down_RB to_TO the_DT beach_NN ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP (_( CONT'D_JJ )_) Frankly_RB ,_, I_PRP 've_VBP never_RB seen_VBN anything_NN like_IN this_DT ._. 
+I_PRP 'd_MD wager_NN no_DT one_CD has_VBZ ,_, save_VB you_PRP two_CD and_CC a_DT handful_NN of_IN others_NNS ._. 
+We_PRP did_VBD n't_RB know_VB what_WP to_TO make_NN of_IN it_PRP at_IN first_JJ ,_, and_CC how_WRB to_TO preserve_VB the_DT specimen_NN was_VBD a_DT bit_NN ambiguous_JJ ,_, but_CC one_CD of_IN our_PRP$ Marines_NNPS was_VBD a_DT big_JJ paleontology_NN nut_NN and_CC had_VBD read_VBN all_DT about_IN you_PRP and_CC your_PRP$ work_NN and_CC how_WRB to_TO preserve_VB delicate_JJ fossils_NNS ._. 
+He_PRP managed_VBD to_TO rig_NN something_NN up_IN to_TO protect_VB the_DT sample_NN from_IN the_DT elements_NNS until_IN you_PRP could_MD arrive_VB to_TO make_VB the_DT positive_JJ identification_NN ._. 
+IAN_NNP MALCOLM_NNP So_RB ,_, why_WRB am_VBP I_PRP here_RB ?_. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP You_PRP 've_VBP seen_VBN firsthand_RB how_WRB a_DT dinosaur_NN behaves_VBZ in_IN an_DT urban_JJ environment_NN ._. 
+IAN_NNP MALCOLM_NNP If_IN you_PRP 're_VBP talking_VBG about_IN San_NNP Diego_NNP ,_, I_PRP can_MD assure_VB you_PRP that_IN this_DT area_NN is_VBZ substantially_RB different_JJ ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP What_WP do_VBP you_PRP mean_VBP ?_. 
+IAN_NNP MALCOLM_NNP What_WP I_PRP saw_VBD was_VBD a_DT dinosaur_NN in_IN a_DT highly_RB -_- developed_JJ ,_, downtown_NN area_NN with_IN nowhere_RB to_TO hide_VB ._. 
+This_DT is_VBZ a_DT small_JJ village_NN with_IN dense_JJ jungle_NN on_IN all_DT sides_NNS ._. 
+It_PRP might_MD as_RB well_RB be_VB back_RB on_IN the_DT island_NN ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP But_CC you_PRP did_VBD see_VB the_DT dinosaurs_NNS on_IN the_DT islands_NNS ?_. 
+IAN_NNP MALCOLM_NNP Only_RB the_DT T_NNP -_- Rexes_NNPS ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP So_IN you_PRP are_VBP uniquely_RB familiar_JJ with_IN the_DT behaviors_NNS of_IN dinosaurs_NNS interacting_VBG with_IN people_NNS ._. 
+IAN_NNP MALCOLM_NNP Yes_UH ,_, but_CC I_PRP 'm_VBP sure_JJ Dr._NN Grant_NNP is_VBZ much_RB more_JJR of_IN an_DT asset_NN than_IN I_PRP am_VBP ._. 
+ALAN_NNP GRANT_NNP Scared_JJ ,_, Ian_NNP ?_. 
+IAN_NNP MALCOLM_NNP Extremely_RB ._. 
+I_PRP have_VBP been_VBN brought_VBN into_IN a_DT dinosaur_NN -_- infested_JJ area_NN to_TO provide_VB advice_NN I_PRP 'm_VBP not_RB competent_JJ to_TO give_VB ._. 
+ALAN_NNP GRANT_NNP Dinosaur_NN -_- infested_JJ ?_. 
+It_PRP 's_VBZ only_RB one_CD ._. 
+IAN_NNP MALCOLM_NNP One_CD is_VBZ way_NN too_RB many_JJ ._. 
+You_PRP know_VBP that_DT ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Regardless_RB of_IN your_PRP$ objections_NNS ,_, Dr._NN Malcolm_NNP ,_, you_PRP 're_VBP here_RB ._. 
+The_DT government_NN would_MD n't_RB have_VB brought_VBN you_PRP into_IN this_DT area_NN unless_IN it_PRP felt_VBD you_PRP would_MD be_VB an_DT asset_NN ._. 
+The_DT three_CD of_IN them_PRP arrive_VBP at_IN a_DT large_JJ ,_, tarp_NN -_- covered_JJ square_NN ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP (_( CONT'D_JJ )_) Here_RB we_PRP are_VBP ,_, let_VB 's_POS get_VB this_DT thing_NN up_RB ._. 
+A_DT few_JJ Marines_NNPS lift_VBP the_DT frame_NN up_RB and_CC out_IN offscreen_NN ,_, revealing_VBG a_DT large_JJ footprint_NN ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP (_( CONT'D_JJ )_) What_WP do_VBP you_PRP make_NN of_IN that_DT ,_, Dr._NN Grant_NNP ?_. 
+GRANT_NNP stoops_NNS low_JJ and_CC examines_VBZ the_DT trackway_NN ._. 
+ALAN_NNP GRANT_NNP (_( rising_VBG )_) I_PRP could_MD n't_RB tell_VB you_PRP for_IN sure_JJ ,_, General_NNP ,_, but_CC it_PRP looks_VBZ a_DT bit_NN bigger_JJR than_IN the_DT T_NNP -_- Rex_NNP tracks_VBZ I_PRP 've_VBP seen_VBN ._. 
+Unless_IN InGen_NNP created_VBD another_DT gigantic_JJ predator_NN ,_, I_PRP 'd_MD say_VB it_PRP 's_VBZ probably_RB the_DT Spinosaur_NNP ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Okay_UH ,_, I_PRP 'll_MD call_VB the_DT Pentagon_NNP ._. 
+SANCHEZ_NNP shouts_VBZ for_IN a_DT soldier_NN to_TO set_VB up_RP the_DT communications_NNS equipment_NN to_TO contact_VB the_DT Pentagon_NNP and_CC walks_VBZ away_RB from_IN GRANT_NNP and_CC MALCOLM_NNP ._. 
+IAN_NNP MALCOLM_NNP Spinosaurus_NNP ?_. 
+ALAN_NNP GRANT_NNP Yeah_UH ,_, we_PRP encountered_VBD it_PRP on_IN Isla_NNP Sorna_NNP ._. 
+IAN_NNP MALCOLM_NNP Odd_JJ ,_, we_PRP did_VBD n't_RB ._. 
+ALAN_NNP GRANT_NNP Hammond_NNP said_VBD the_DT animals_NNS were_VBD territorial_NN ,_, it_PRP might_MD be_VB that_IN the_DT Spinosaur_NNP had_VBD shifted_VBN it_PRP 's_VBZ hunting_NN area_NN in_IN the_DT years_NNS between_IN our_PRP$ little_JJ escapades_NNS ._. 
+IAN_NNP MALCOLM_NNP I_PRP did_VBD n't_RB read_VB much_JJ of_IN anything_NN on_IN your_PRP$ misadventure_NN on_IN Site_NNP B._NN 
+ALAN_NNP GRANT_NNP Well_RB ,_, the_DT Kirbys_NNPS decided_VBD to_TO let_VB me_PRP have_VBP the_DT movie_NN rights_NNS as_IN compensation_NN for_IN ,_, shall_MD we_PRP say_VB ,_, services_NNS rendered_VBN ._. 
+I_PRP was_VBD actually_RB working_VBG with_IN Universal_JJ in_IN L.A._NNP when_WRB John_NNP died_VBD ._. 
+IAN_NNP MALCOLM_NNP Any_DT reason_NN you_PRP did_VBD n't_RB bring_VB me_PRP in_IN on_IN this_DT ?_. 
+ALAN_NNP GRANT_NNP God_NNP knows_VBZ I_PRP tried_VBD ,_, Ian_NNP ._. 
+You_PRP 're_VBP a_DT hard_JJ man_NN to_TO track_VB down_RB ._. 
+Obviously_RB ,_, the_DT rights_NNS are_VBP as_IN much_JJ yours_NNS as_IN they_PRP are_VBP mine_NN ._. 
+I_PRP only_RB accepted_VBD the_DT offer_NN to_TO help_VB fund_VB the_DT research_NN we_PRP 're_VBP doing_VBG in_IN Montana_NNP ._. 
+IAN_NNP MALCOLM_NNP A_DT movie_NN about_IN dinosaurs_NNS ?_. 
+Do_VBP you_PRP think_VB the_DT public_NN will_MD buy_VB that_DT ?_. 
+The_DT conversation_NN is_VBZ interrupted_VBN by_IN a_DT helicopter_NN flying_VBG low_JJ toward_IN the_DT beach_NN ._. 
+Several_JJ Marines_NNPS shout_NN as_IN they_PRP hurry_NN to_TO cover_VB the_DT footprint_NN ._. 
+GRANT_NNP and_CC MALCOLM_NNP look_VBP toward_IN SANCHEZ_NNP who_WP is_VBZ shouting_VBG in_IN a_DT megaphone_NN ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP (_( through_IN the_DT megaphone_NN )_) Attention_NN ,_, pilot_NN :_: this_DT is_VBZ a_DT no_RB -_- fly_VB zone_NN ._. 
+You_PRP are_VBP not_RB authorized_VBN to_TO land_VB here_RB ,_, return_NN to_TO your_PRP$ point_NN of_IN origin_NN immediately_RB ._. 
+The_DT helicopter_NN touches_NNS down_RB on_IN the_DT sand_NN and_CC a_DT man_NN hops_VBZ out_IN of_IN the_DT rear_JJ door_NN ._. 
+He_PRP is_VBZ carrying_VBG a_DT large_JJ duffel_NN bag_NN and_CC wearing_VBG khaki_JJ trousers_NNS ,_, khaki_JJ shirt_NN ,_, and_CC a_DT black_JJ ball_NN cap_NN ._. 
+The_DT man_NN slams_NNS the_DT door_NN closed_VBD ,_, pounds_NNS on_IN it_PRP with_IN his_PRP$ fist_NN ,_, and_CC points_NNS skyward_RB ._. 
+The_DT chopper_NN takes_VBZ off_RP as_IN the_DT man_NN is_VBZ surrounded_VBN by_IN Marines_NNPS and_CC Humvees_NNP ._. 
+IAN_NNP MALCOLM_NNP Who_WP the_DT hell_NN is_VBZ this_DT ?_. 
+ALAN_NNP GRANT_NNP Beats_VB me_PRP ._. 
+Where_WRB 's_POS General_NNP Sanchez_NNP ._. 
+IAN_NNP MALCOLM_NNP (_( pointing_VBG toward_IN the_DT circle_NN of_IN Marines_NNPS and_CC the_DT man_NN 
+)_) I_PRP think_VBP he_PRP 's_VBZ going_VBG over_IN to_TO greet_VB the_DT newcomer_NN ._. 
+The_DT man_NN is_VBZ now_RB facing_VBG away_RB from_IN GRANT_NNP and_CC MALCOLM_NNP ._. 
+He_PRP is_VBZ at_IN gunpoint_NN and_CC on_IN his_PRP$ knees_NNS with_IN his_PRP$ hands_NNS behind_IN his_PRP$ head_NN ._. 
+GRANT_NNP and_CC MALCOLM_NNP jog_NN over_IN to_TO the_DT site_NN of_IN the_DT commotion_NN ._. 
+The_DT man_NN ,_, CLARK_NNP ,_, who_WP has_VBZ his_PRP$ hands_NNS cuffed_JJ behind_IN his_PRP$ back_RB is_VBZ being_VBG lead_NN over_IN to_TO SANCHEZ_NNP ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP (_( shouting_VBG at_IN CLARK_NNP )_) Just_RB who_WP the_DT hell_NN are_VBP you_PRP and_CC what_WP the_DT hell_NN do_VBP you_PRP think_VBP you_PRP 're_VBP doing_VBG ?_. 
+JEFFERY_NNP CLARK_NNP My_PRP$ name_NN is_VBZ Jeffery_NNP Clark_NNP ;_: I_PRP 've_VBP been_VBN hunting_VBG on_IN an_DT island_NN off_IN the_DT coast_NN ,_, and_CC I_PRP needed_VBD to_TO re-supply_JJ ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Did_VBD n't_RB your_PRP$ pilot_NN hear_VBP the_DT radio_NN warnings_NNS ?_. 
+This_DT is_VBZ a_DT no_RB -_- fly_VB zone_NN ._. 
+No_DT one_NN gets_VBZ in_IN and_CC no_DT one_CD gets_VBZ out_RP ._. 
+JEFFERY_NNP CLARK_NNP There_EX must_MD have_VB been_VBN a_DT mistake_NN ,_, we_PRP thought_VBD this_DT was_VBD some_DT sort_NN of_IN market_NN ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP You_PRP ca_MD n't_RB be_VB serious_JJ ._. 
+JEFFERY_NNP CLARK_NNP Does_VBZ it_PRP really_RB matter_VBP ?_. 
+I_PRP 'm_VBP here_RB now_RB ,_, and_CC I_PRP 'll_MD be_VB on_IN my_PRP$ way_NN back_RB to_TO the_DT island_NN just_RB as_RB soon_RB as_IN I_PRP buy_VBP some_DT food_NN ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Oh_UH no_DT ,_, you_PRP 're_VBP not_RB ._. 
+You_PRP are_VBP under_IN arrest_NN for_IN violating_VBG a_DT military_JJ order_NN ._. 
+JEFFERY_NNP CLARK_NNP (_( noting_VBG SANCHEZ_NNP 's_POS insignia_NN )_) Look_VB ,_, General_NNP ,_, do_VBP you_PRP really_RB have_VBP the_DT facilities_NNS to_TO hold_VB me_PRP ?_. 
+IAN_NNP MALCOLM_NNP Excuse_VB me_PRP ,_, General_NNP Sanchez_NNP ._. 
+Mr._NN Clark_NNP ,_, was_VBD it_PRP ?_. 
+What_WP island_NN were_VBD you_PRP hunting_NN on_RP ?_. 
+JEFFERY_NNP CLARK_NNP Well_RB ,_, since_IN it_PRP looks_VBZ like_IN I_PRP 'm_VBP already_RB in_IN trouble_NN ,_, it_PRP ca_MD n't_RB hurt_VB to_TO tell_VB you_PRP I_PRP was_VBD on_IN Isla_NNP Sorna_NNP ._. 
+IAN_NNP MALCOLM_NNP You_PRP were_VBD hunting_VBG dinosaurs_NNS ?_. 
+JEFFERY_NNP CLARK_NNP (_( sarcastically_RB )_) No_DT ,_, Isla_NNP Sorna_NNP is_VBZ well_RB known_VBN for_IN its_PRP$ penguin_NN population_NN ._. 
+JEFFERY_NNP CLARK_NNP (_( CONT'D_JJ )_) (_( recognizing_VBG MALCOLM_NNP )_) Wait_VB ,_, are_VBP you_PRP Ian_NNP Malcolm_NNP ?_. 
+IAN_NNP MALCOLM_NNP Yes_UH ._. Do_VBP I_PRP know_VBP you_PRP ?_. 
+JEFFERY_NNP CLARK_NNP No_DT ,_, you_PRP knew_VBD my_PRP$ uncle_NN ,_, Roland_NNP Tembo_NNP ._. 
+IAN_NNP MALCOLM_NNP I_PRP would_MD n't_RB say_VB I_PRP knew_VBD him_PRP that_DT well_RB ._. 
+How_WRB is_VBZ he_PRP doing_VBG ,_, by_IN the_DT way_NN ?_. 
+JEFFERY_NNP CLARK_NNP Not_RB well_RB ,_, I_PRP 'm_VBP afraid_JJ ._. 
+That_DT 's_VBZ the_DT only_JJ reason_NN I_PRP 'm_VBP here_RB and_CC he_PRP 's_VBZ not_RB ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Enough_JJ !_. 
+Mr._NN Clark_NNP ,_, you_PRP have_VBP just_RB stumbled_VBN into_IN a_DT very_RB dangerous_JJ area_NN ._. 
+As_RB much_JJ as_IN I_PRP hate_VBP it_PRP ,_, you_PRP are_VBP stuck_VBN here_RB until_IN the_DT beast_NN is_VBZ captured_VBN ._. 
+JEFFERY_NNP CLARK_NNP Beast_NN ?_. 
+What_WP beast_NN ?_. 
+ALAN_NNP GRANT_NNP The_DT Spinosaur_NNP ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP (_( snapping_VBG at_IN GRANT_NNP )_) Dr._NN Grant_NNP !_. 
+JEFFERY_NNP CLARK_NNP What_WP about_IN the_DT rexes_NNS ?_. 
+ALAN_NNP GRANT_NNP What_WP *_NN about_IN *_NN the_DT rexes_NNS ?_. 
+JEFFERY_NNP CLARK_NNP They_PRP were_VBD n't_RB on_IN the_DT island_NN either_RB ._. 
+IAN_NNP MALCOLM_NNP How_WRB many_JJ T_NNP -_- Rexes_NNPS are_VBP we_PRP talking_VBG about_IN here_RB ?_. 
+As_RB far_RB as_IN I_PRP knew_VBD there_EX were_VBD only_RB three_CD ._. 
+Two_CD adults_NNS and_CC the_DT baby_NN ._. 
+ALAN_NNP GRANT_NNP Right_RB ,_, and_CC one_CD of_IN them_PRP was_VBD killed_VBN by_IN the_DT Spinosaur_NNP while_IN I_PRP was_VBD on_IN the_DT island_NN ._. 
+JEFFERY_NNP CLARK_NNP So_RB there_EX might_MD be_VB two_CD more_JJR dinosaurs_NNS on_IN the_DT mainland_NN ?_. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Gentlemen_NNS !_. 
+We_PRP ca_MD n't_RB just_RB jump_VB to_TO that_DT conclusion_NN ._. 
+IAN_NNP MALCOLM_NNP He_PRP 's_VBZ right_JJ ._. 
+There_EX could_MD be_VB a_DT thousand_CD reasons_NNS you_PRP did_VBD n't_RB see_VB the_DT T_NNP -_- Rexes_NNPS on_IN the_DT island_NN ._. 
+Maybe_RB the_DT Spinosaur_NNP killed_VBD the_DT other_JJ two_CD in_IN the_DT interim_NN since_IN he_PRP killed_VBD the_DT first_JJ one_CD maybe_RB they_PRP swam_NN for_IN it_PRP and_CC drowned_VBN ._. 
+The_DT fact_NN is_VBZ ,_, we_PRP do_VBP n't_RB know_VB ,_, and_CC we_PRP should_MD n't_RB draw_VB conclusions_NNS that_WDT might_MD further_RB disturb_VB the_DT public_NN ._. 
+CPL._NN RICK_NNP TOWNSEND_NNP (_( Running_VBG toward_IN SANCHEZ_NNP )_) General_NNP Sanchez_NNP ,_, sir_NN ._. 
+News_NNS from_IN Nosara_NNP ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP What_WP is_VBZ it_PRP ?_. 
+An_DT attack_NN ?_. 
+CPL._NN RICK_NNP TOWNSEND_NNP No_DT ,_, Sir_NNP ,_, another_DT footprint_NN has_VBZ been_VBN found_VBN ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Same_JJ print_NN ?_. 
+CPL._NN RICK_NNP TOWNSEND_NNP No_DT ,_, Sir_NNP ._. 
+It_PRP 's_VBZ smaller_JJR ,_, Sir_NNP ._. 
+JEFFERY_NNP CLARK_NNP What_WP are_VBP the_DT chances_NNS the_DT spino_NN 's_POS feet_NNS shrunk_VBN ?_. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Shut_VB up_RB ,_, Mr._NN Clark_NNP ._. 
+Dr._NN Grant_NNP ,_, could_MD the_DT tracks_NNS have_VB been_VBN made_VBN by_IN the_DT same_JJ animal_NN ?_. 
+ALAN_NNP GRANT_NNP It_PRP 's_VBZ possible_JJ ,_, where_WRB is_VBZ Nosra_NNP ?_. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Corporal_NNP ?_. 
+CPL._NN RICK_NNP TOWNSEND_NNP Nosara_NNP ,_, Sir_NNP ._. 
+It_PRP 's_VBZ about_IN fifteen_NN or_CC twenty_CD kilometers_NNS up_RP the_DT coast_NN ._. 
+ALAN_NNP GRANT_NNP I_PRP imagine_VBP it_PRP 's_VBZ technically_RB possible_JJ ._. 
+A_DT T_NNP -_- Rex_NNP moving_VBG at_IN full_JJ speed_NN was_VBD clocked_VBN at_IN thirty_CD -_- some_RB miles_NNS per_IN hour_NN ._. 
+The_DT Spinosaur_NNP had_VBD a_DT slightly_RB longer_JJR gait_NN ,_, so_IN I_PRP 'd_MD put_VB it_PRP 's_VBZ normal_JJ walking_NN speed_NN at_IN about_IN ten_CD ,_, maybe_RB fifteen_NN ,_, miles_NNS per_IN hour_NN ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Right_RB ,_, and_CC that_DT would_MD put_VB him_PRP there_RB within_IN an_DT hour_NN of_IN leaving_VBG here_RB ,_, and_CC it_PRP was_VBD last_RB seen_VBN almost_RB six_CD hours_NNS ago_RB ._. 
+It_PRP had_VBD plenty_NN of_IN time_NN to_TO get_VB up_RP there_RB ._. 
+CPL._NN RICK_NNP TOWNSEND_NNP Sir_NNP ,_, we_PRP have_VBP reason_NN to_TO believe_VB the_DT tracks_NNS were_VBD made_VBN less_JJR than_IN an_DT hour_NN ago_RB ._. 
+Given_VBN the_DT print_NN 's_POS position_NN and_CC the_DT receeding_VBG tide_NN ,_, it_PRP could_MD n't_RB have_VB been_VBN made_VBN more_JJR than_IN forty-five_JJ minutes_NNS ago_RB ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Jesus_NNP ,_, forty-five_JJ minutes_NNS ago_RB ?_. 
+CPL._NN RICK_NNP TOWNSEND_NNP Well_RB ,_, fifty_NN minutes_NNS now_RB ,_, Sir_NNP ._. 
+ALAN_NNP GRANT_NNP And_CC what_WP 's_VBZ the_DT size_NN difference_NN ?_. 
+CPL._NN RICK_NNP TOWNSEND_NNP Twelve_CD inches_NNS ,_, Sir_NNP ._. 
+ALAN_NNP GRANT_NNP General_NNP Sanchez_NNP ,_, I_PRP think_VBP we_PRP have_VBP to_TO consider_VB the_DT possibility_NN that_IN there_EX is_VBZ a_DT second_JJ dinosaur_NN in_IN Costa_NNP Rica_NNP ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP (_( thinking_VBG then_RB sighing_VBG 
+)_) Corporal_NNP ,_, get_VB on_IN the_DT horn_NN ,_, notify_VBP all_DT units_NNS of_IN the_DT second_JJ dinosaur_NN ._. 
+CPL._NN RICK_NNP TOWNSEND_NNP Yes_UH ,_, Sir_NNP ._. 
+TOWNSEND_NNP leaves_VBZ 
+GEN._NN HORATIO_NNP SANCHEZ_NNP You_PRP three_CD stay_VB here_RB ,_, I_PRP 'm_VBP going_VBG to_TO call_VB Washington_NNP and_CC break_VB the_DT news_NN to_TO them_PRP ._. 
+JEFFERY_NNP CLARK_NNP (_( motioning_VBG to_TO his_PRP$ hands_NNS 
+)_) General_NNP ,_, would_MD you_PRP mind_VB ?_. 
+SANCHEZ_NNP motions_NNS for_IN a_DT Marine_NNP to_TO unlock_VBP CLARK_NNP 's_POS hands_NNS ._. 
+JEFFERY_NNP CLARK_NNP (_( CONT'D_JJ )_) What_WP about_IN my_PRP$ bag_NN ?_. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP It_PRP 's_VBZ still_RB being_VBG searched_VBD ._. 
+You_PRP 'll_MD get_VB it_PRP back_RB when_WRB we_PRP 're_VBP satisfied_VBN that_IN you_PRP 're_VBP no_RB longer_RB a_DT threat_NN ._. 
+In_IN the_DT mean_JJ time_NN ,_, stay_VB put_VB ._. 
+SANCHEZ_NNP walks_VBZ off_RP toward_IN a_DT communications_NNS tent_NN ._. 
+GRANT_NNP 's_POS phone_NN rings_NNS ._. 
+It_PRP 's_VBZ SATTLER_NNP calling_VBG from_IN Seattle_NNP ._. 
+The_DT shot_NN cuts_NNS between_IN each_DT speaker_NN as_IN they_PRP talk_VBP ._. 
+>_NN ALAN_NNP GRANT_NNP Alan_NNP Grant_NNP ._. 
+ELLIE_NNP SATTLER_NNP Alan_NNP ,_, it_PRP 's_VBZ Ellie_NNP ._. 
+ALAN_NNP GRANT_NNP Oh_UH ,_, Ellie_NNP ._. 
+How_WRB are_VBP you_PRP doing_VBG ?_. 
+What_WP have_VBP you_PRP found_VBD out_RP ?_. 
+ELLIE_NNP SATTLER_NNP I_PRP found_VBD Dr._NN Wang_NNP ._. 
+He_PRP was_VBD less_JJR than_IN willing_JJ to_TO be_VB helpful_JJ ,_, but_CC I_PRP managed_VBD to_TO glean_VB a_DT few_JJ things_NNS ._. 
+ALAN_NNP GRANT_NNP About_IN the_DT Spinosaur_NNP ,_, what_WP about_IN the_DT Spinosaur_NNP ?_. 
+ELLIE_NNP SATTLER_NNP As_IN it_PRP turns_VBZ out_IN ,_, the_DT spino_NN was_VBD one_CD of_IN the_DT first_JJ dinosaurs_NNS bred_VBN on_IN the_DT island_NN ._. 
+Apparantly_RB ,_, there_EX was_VBD a_DT mix_VB -_- up_RP in_IN the_DT lab_NN and_CC they_PRP cloned_VBN a_DT Spinosaur_NNP instead_RB of_IN a_DT Tyrannosaur_NNP ._. 
+ALAN_NNP GRANT_NNP Great_NNP ,_, how_WRB does_VBZ that_WDT help_VBP us_PRP ?_. 
+ELLIE_NNP SATTLER_NNP It_PRP gets_VBZ worse_JJR ,_, actually_RB ._. 
+The_DT spino_NN and_CC the_DT rexes_NNS were_VBD both_DT prototypes_NNS for_IN the_DT lysine_NN contingency_NN ,_, but_CC the_DT system_NN was_VBD n't_RB perfected_VBN until_IN the_DT next_RB set_NN of_IN dinosaurs_NNS were_VBD cloned_VBN ._. 
+ALAN_NNP GRANT_NNP Ellie_NNP ,_, what_WP are_VBP you_PRP saying_VBG ?_. 
+ELLIE_NNP SATTLER_NNP Alan_NNP ,_, the_DT spino_NN and_CC the_DT rexes_NNS do_VBP n't_RB need_VB supplemental_JJ enzymes_NNS to_TO survive_VB ._. 
+They_PRP can_MD make_VB their_PRP$ own_JJ lysine_NN ._. 
+ALAN_NNP GRANT_NNP Then_RB how_WRB can_MD we_PRP stop_VB them_PRP ?_. 
+ELLIE_NNP SATTLER_NNP I_PRP do_VBP n't_RB know_VB ,_, but_CC please_VB be_VB careful_JJ ._. 
+ALAN_NNP GRANT_NNP Thanks_NNS ,_, Ellie_NNP ._. 
+I_PRP will_MD ._. 
+GRANT_NNP walks_VBZ back_RB toward_IN SANCHEZ_NNP ,_, MALCOLM_NNP ,_, and_CC CLARK_NNP ._. 
+IAN_NNP MALCOLM_NNP Dr._NN Sattler_NNP ?_. 
+ALAN_NNP GRANT_NNP Yes_UH ._. 
+IAN_NNP MALCOLM_NNP What_WP did_VBD she_PRP find_VBP out_RP ?_. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP (_( walking_VBG back_RB from_IN the_DT tent_NN 
+)_) Who_WP 's_VBZ Dr._NN Sattler_NNP ?_. 
+ALAN_NNP GRANT_NNP She_PRP located_VBN the_DT head_NN researcher_NN at_IN of_IN Site_NNP B._NN 
+He_PRP told_VBD her_PRP that_IN the_DT Spinosaur_NNP and_CC the_DT T_NNP -_- Rexes_NNPS were_VBD not_RB bred_VBN lysine_NN -_- deficient_JJ ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP And_CC that_DT means_VBZ what_WP to_TO us_PRP exacty_NN ?_. 
+ALAN_NNP GRANT_NNP It_PRP means_VBZ the_DT animals_NNS can_MD exist_VB indefinitly_RB eating_VBG non-lysine_JJ -_- enriched_JJ food_NN ._. 
+IAN_NNP MALCOLM_NNP You_PRP mean_VBP ,_, whatever_WDT they_PRP can_MD find_VB ._. 
+ALAN_NNP GRANT_NNP I_PRP 'm_VBP afraid_JJ so_RB ._. 
+JEFFERY_NNP CLARK_NNP General_NNP ,_, I_PRP came_VBD down_RB here_RB to_TO hunt_VB the_DT T_NNP -_- Rex_NNP ,_, and_CC I_PRP will_MD do_VB so_RB if_IN you_PRP let_VBP me_PRP ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Mr._NN Clark_NNP ,_, I_PRP ca_MD n't_RB in_IN good_JJ conscience_NN let_VBP a_DT civillian_NN go_NN on_IN his_PRP$ own_JJ when_WRB there_EX are_VBP not_RB one_CD ,_, but_CC two_CD ,_, dangerous_JJ creatures_NNS still_RB running_VBG amok_RB ._. 
+Even_RB if_IN there_EX were_VBD n't_RB dinosaurs_NNS in_IN this_DT are_VBP ,_, I_PRP would_MD n't_RB let_VB you_PRP leave_VB with_IN enough_JJ firepower_NN to_TO engage_VB a_DT small_JJ armored_JJ division_NN ._. 
+JEFFERY_NNP CLARK_NNP Are_VBP you_PRP talking_VBG about_IN my_PRP$ uncle_NN 's_POS elephant_NN gun_NN or_CC my_PRP$ rifle_NN ?_. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Jesus_NNP ,_, Clark_NNP ,_, it_PRP 's_VBZ a_DT fifty_NN caliber_NN anti-material_JJ rifle_NN ,_, not_RB your_PRP$ everyday_JJ deer_NNS gun_NN ._. 
+JEFFERY_NNP CLARK_NNP I_PRP 'm_VBP hunting_NN something_NN a_DT little_JJ bigger_JJR than_IN a_DT deer_NNS ,_, I_PRP can_MD tell_VB you_PRP that_DT ._. 
+ALAN_NNP GRANT_NNP Wait_VB a_DT minute_NN ._. 
+We_PRP still_RB do_VBP n't_RB know_VB why_WRB the_DT Spinosaur_NNP came_VBD here_RB ,_, but_CC if_IN the_DT relationship_NN between_IN the_DT two_CD species_NNS is_VBZ the_DT same_JJ ,_, we_PRP can_MD assume_VB why_WRB the_DT T_NNP -_- Rex_NNP came_VBD too_RB ._. 
+IAN_NNP MALCOLM_NNP You_PRP think_VBP the_DT rex_NN is_VBZ chasing_VBG the_DT Spinosaur_NNP ?_. 
+ALAN_NNP GRANT_NNP I_PRP read_VBP Sarah_NNP Harding_NNP 's_POS book_NN about_IN the_DT parenting_NN instincts_NNS of_IN the_DT T_NNP -_- Rexes_NNPS ._. 
+If_IN they_PRP destroyed_VBD your_PRP$ trailers_NNS because_IN you_PRP took_VBD their_PRP$ infant_NN ,_, imagine_VB what_WP they_PRP 'd_MD have_VB done_VBN if_IN you_PRP had_VBD killed_VBN it_PRP ._. 
+IAN_NNP MALCOLM_NNP So_IN the_DT Spinosaur_NNP kills_VBZ the_DT baby_NN rex_NN and_CC mom_NN goes_VBZ out_IN looking_VBG for_IN revenge_NN ?_. 
+How_WRB would_MD it_PRP have_VB even_RB tracked_VBN it_PRP ?_. 
+ALAN_NNP GRANT_NNP By_IN smell_NN ._. 
+The_DT T-Rex_NNP was_VBD only_RB a_DT few_JJ hours_NNS behind_IN the_DT Spinosaur_NNP ._. 
+They_PRP could_MD very_RB easily_RB have_VB left_VBN at_IN nearly_RB the_DT same_JJ time_NN ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP The_DT question_NN still_RB remains_VBZ :_: how_WRB do_VBP we_PRP find_VBP them_PRP ?_. 
+I_PRP think_VBP it_PRP 's_VBZ pretty_RB clear_JJ that_IN we_PRP seal_NN off_RP Costa_NNP Rica_NNP 's_POS borders_NNS ._. 
+If_IN either_DT one_CD of_IN them_PRP gets_VBZ south_RB of_IN Panama_NNP ,_, we_PRP 'll_MD never_RB find_VB them_PRP in_IN the_DT Amazon_NNP ._. 
+IAN_NNP MALCOLM_NNP Considering_VBG ,_, General_NNP ,_, that_IN these_DT animals_NNS swam_NN two_CD -_- hundred_CD miles_NNS to_TO get_VB here_RB ,_, I_PRP think_VBP it_PRP 's_VBZ safe_JJ to_TO say_VB they_PRP could_MD swim_VBP from_IN here_RB to_TO South_NNP America_NNP without_IN much_JJ difficulty_NN ._. 
+ALAN_NNP GRANT_NNP We_PRP need_VBP to_TO find_VB one_CD of_IN them_PRP ._. 
+If_IN we_PRP find_VBP the_DT T_NNP -_- Rex_NNP ,_, it_PRP will_MD lead_VB us_PRP to_TO the_DT Spinosaur_NNP ._. 
+If_IN we_PRP find_VBP the_DT Spinosaur_NNP ,_, the_DT T_NNP -_- rex_NN will_MD come_VB to_TO us_PRP ._. 
+First_LS we_PRP 'll_MD have_VB to_TO figure_VB out_RP a_DT more_JJR secure_VB method_NN for_IN containing_VBG them_PRP ._. 
+Clearly_RB ,_, an_DT ocean_NN is_VBZ no_DT obstacle_NN ..._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Dr._NN Grant_NNP ,_, the_DT official_JJ position_NN is_VBZ to_TO neutralize_NN the_DT threat_NN as_RB quickly_RB as_IN possible_JJ ._. 
+ALAN_NNP GRANT_NNP What_WP are_VBP you_PRP talking_VBG about_IN ..._. "_'' neutralize_NN "_'' ?_. 
+IAN_NNP MALCOLM_NNP Alan_NNP ,_, these_DT dinosaurs_NNS ca_MD n't_RB be_VB contained_VBN ._. 
+They_PRP 've_VBP overcome_VBN every_DT security_NN obstacle_NN people_NNS have_VBP put_VBN in_IN their_PRP$ way_NN ._. 
+If_IN we_PRP build_VBP a_DT better_JJR cage_NN ,_, they_PRP are_VBP just_RB going_VBG to_TO break_VB out_IN again_RB and_CC again_RB ._. 
+ALAN_NNP GRANT_NNP You_PRP know_VBP my_PRP$ dislike_NN of_IN John_NNP Hammond_NNP was_VBD just_RB as_RB strong_JJ as_IN yours_NNS ,_, but_CC he_PRP was_VBD right_NN ,_, Ian_NNP ._. 
+We_PRP are_VBP the_DT only_JJ people_NNS who_WP can_MD protect_VB the_DT animals_NNS and_CC the_DT island_NN ._. 
+Their_PRP$ creation_NN may_MD have_VB been_VBN illegitimatized_JJ in_IN a_DT lab_NN ,_, but_CC their_PRP$ lives_NNS are_VBP real_JJ ._. 
+IAN_NNP MALCOLM_NNP How_WRB many_JJ disasters_NNS will_MD it_PRP take_VB ,_, Alan_NNP ?_. 
+How_WRB many_JJ people_NNS have_VBP to_TO end_VB up_RP as_IN dinner_NN for_IN these_DT dinosaurs_NNS before_IN they_PRP become_VBP nuisances_NNS ?_. 
+When_WRB the_DT good_NN of_IN the_DT world_NN is_VBZ on_IN the_DT line_NN ,_, we_PRP have_VBP to_TO sacrifice_VB the_DT good_NN of_IN our_PRP$ charges_NNS ._. 
+ALAN_NNP GRANT_NNP How_WRB do_VBP we_PRP do_VBP that_DT ?_. 
+Punish_NNP them_PRP for_IN evolving_VBG ?_. 
+If_IN people_NNS did_VBD n't_RB have_VB a_DT right_NN to_TO play_VB God_NNP by_IN creating_VBG them_PRP ,_, we_PRP certainly_RB do_VBP n't_RB have_VB a_DT right_NN to_TO play_VB God_NNP by_IN causing_VBG another_DT extinction_NN ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Gentlemen_NNS ,_, if_IN you_PRP please_VBP ._. 
+We_PRP do_VBP n't_RB have_VB time_NN for_IN a_DT philosophical_JJ debate_NN here_RB ._. 
+If_IN we_PRP can_MD contain_VB the_DT animals_NNS ,_, we_PRP 'll_MD give_VB it_PRP a_DT try_NN ,_, but_CC my_PRP$ orders_NNS are_VBP to_TO stabilize_VB the_DT area_NN using_VBG any_DT and_CC all_DT means_VBZ necessary_JJ ._. 
+ALAN_NNP GRANT_NNP Fine_NNP ._. 
+IAN_NNP MALCOLM_NNP Dr._NN Grant_NNP was_VBD right_NN about_IN how_WRB to_TO find_VB them_PRP ._. 
+If_IN we_PRP can_MD follow_VB the_DT rex_NN ,_, he_PRP 'll_MD lead_VB us_PRP right_NN to_TO the_DT Spinosaurus_NNP ,_, but_CC it_PRP will_MD be_VB hard_JJ to_TO remain_VB inconspicuous_JJ if_IN we_PRP follow_VBP him_PRP with_IN an_DT army_NN ._. 
+I_PRP suggest_VBP that_IN we_PRP send_VBP one_CD person_NN to_TO track_VB him_PRP ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Any_DT suggestions_NNS as_IN to_TO who_WP the_DT one_CD person_NN might_MD be_VB ?_. 
+IAN_NNP MALCOLM_NNP (_( indicating_VBG CLARK_NNP )_) The_DT person_NN who_WP has_VBZ been_VBN out_IN to_TO get_VB the_DT rex_NN from_IN day_NN one_CD ._. 
+JEFFERY_NNP CLARK_NNP Me_PRP ?_. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP Him_PRP ?_. 
+IAN_NNP MALCOLM_NNP If_IN he_PRP 's_VBZ half_PDT the_DT hunter_NN his_PRP$ uncle_NN is_VBZ ,_, then_RB he_PRP should_MD have_VB no_DT problem_NN ._. 
+Do_VBP you_PRP feel_VB up_IN to_TO it_PRP ?_. 
+JEFFERY_NNP CLARK_NNP Of_IN course_NN I_PRP am_VBP ,_, provided_VBN I_PRP get_VBP my_PRP$ things_NNS back_RB ._. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP We_PRP 'll_MD see_VB about_IN that_DT ._. 
+JEFFERY_NNP CLARK_NNP Also_RB provided_VBD that_IN I_PRP am_VBP the_DT one_CD who_WP takes_VBZ the_DT Tyrannosaur_NNP ._. 
+CPL._NN RICK_NNP TOWNSEND_NNP (_( running_VBG from_IN offscreen_NN )_) General_NNP Sanchez_NNP !_. 
+GEN._NN HORATIO_NNP SANCHEZ_NNP What_WP is_VBZ it_PRP ,_, Townsend_NNP ?_. 
+CPL._NN RICK_NNP TOWNSEND_NNP It_PRP 's_VBZ news_NN from_IN a_DT village_NN to_TO the_DT west_NN ._. 
+There_EX 's_VBZ been_VBN an_DT attack_NN ._. 

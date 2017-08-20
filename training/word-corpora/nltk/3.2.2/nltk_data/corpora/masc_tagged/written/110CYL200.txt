@@ -1,0 +1,40 @@
+March_NNP 17_CD ,_, 2000_CD 
+
+Name_NN Address_NNP City_NNP ,_, ST_NNP ,_, Zip_NNP 
+
+Dear_RB Name_NN :_: 
+
+When_WRB Jerry_NNP was_VBD released_VBN from_IN prison_NN ,_, he_PRP knew_VBD it_PRP would_MD take_VB hard_JJ work_NN and_CC determination_NN to_TO straighten_VB out_RP his_PRP$ life_NN ._. 
+He_PRP knew_VBD he_PRP had_VBD made_VBN a_DT bad_JJ mistake_NN ,_, but_CC despite_IN his_PRP$ commitment_NN to_TO rebuilding_VBG his_PRP$ life_NN ,_, he_PRP just_RB did_VBD n't_RB count_VB on_IN the_DT obstacles_NNS that_WDT would_MD be_VB thrown_VBN up_RP in_IN his_PRP$ path_NN ._. 
+
+Reality_NN hit_VBD when_WRB he_PRP was_VBD unable_JJ to_TO reconcile_VB with_IN his_PRP$ wife_NN and_CC ended_VBD up_RB on_IN the_DT street_NN ._. 
+He_PRP went_VBD to_TO the_DT Center_NNP Township_NNP Trustee_NNP for_IN food_NN stamps_NNS until_IN he_PRP could_MD find_VB a_DT job_NN and_CC a_DT place_NN to_TO live_VB ._. 
+The_DT Trustee_NNP referred_VBD him_PRP to_TO the_DT Blue_NNP Triangle_NNP where_WRB he_PRP consulted_VBN Goodwill_NNP 's_POS Career_NNP Academy_NNP staff_NN for_IN job_NN search_NN assistance_NN ._. 
+
+Jerry_NNP 's_POS Goodwill_NNP caseworker_NN found_VBD him_PRP a_DT job_NN immediately_RB ._. 
+But_CC Jerry_NNP 's_POS troubles_NNS did_VBD n't_RB end_VB there_RB ._. 
+The_DT seasonal_JJ construction_NN job_NN he_PRP obtained_VBD soon_RB ended_VBD ,_, and_CC he_PRP returned_VBD to_TO Career_NNP Academy_NNP for_IN help_NN once_RB more_JJR ._. 
+Unemployed_NNP ,_, homeless_JJ and_CC with_IN a_DT prison_NN record_NN ,_, Jerry_NNP now_RB faced_VBD going_VBG back_RB to_TO prison_NN for_IN failure_NN to_TO pay_VB child_NN support_NN ._. 
+
+It_PRP took_VBD some_DT time_NN and_CC hard_JJ work_NN ,_, but_CC with_IN the_DT help_NN of_IN Goodwill_NNP ,_, Jerry_NNP was_VBD able_JJ to_TO work_VB out_RP a_DT payment_NN plan_NN with_IN the_DT prosecutor_NN 's_POS office_NN ,_, find_VB housing_NN and_CC conduct_VB a_DT more_RBR thorough_JJ job_NN search_NN ._. 
+
+With_IN unemployment_NN at_IN its_PRP$ lowest_JJS point_NN in_IN years_NNS in_IN central_JJ Indiana_NNP ,_, many_JJ people_NNS still_RB have_VBP a_DT hard_JJ time_NN finding_VBG meaningful_JJ employment_NN ._. 
+Of_IN the_DT more_JJR than_IN 42,000_CD people_NNS Goodwill_NNP served_VBD in_IN 1999_CD ,_, over_IN 5,000_CD of_IN them_PRP have_VBP multiple_JJ barriers_NNS to_TO finding_VBG and_CC keeping_VBG a_DT job_NN ._. 
+Some_DT ,_, like_IN Jerry_NNP ,_, are_VBP ex-offenders_JJ ._. 
+Some_DT are_VBP blind_JJ ,_, deaf_JJ or_CC have_VBP other_JJ physical_JJ disabilities_NNS ._. 
+More_JJR than_IN 100_CD were_VBD homeless_JJ ._. 
+
+But_CC Goodwill_NNP offers_NNS hope_VBP even_RB to_TO people_NNS with_IN numerous_JJ obstacles_NNS to_TO overcome_VB ,_, like_IN Jerry_NNP ._. 
+With_IN a_DT promising_JJ new_JJ job_NN at_IN a_DT plastic_NN injection_NN molding_NN manufacturer_NN ,_, his_PRP$ legal_JJ troubles_NNS in_IN check_NN and_CC a_DT safe_JJ place_NN to_TO live_VB ,_, Jerry_NNP can_MD get_VB on_IN with_IN the_DT business_NN of_IN building_VBG a_DT life_NN for_IN himself_PRP and_CC contributing_VBG to_TO his_PRP$ community_NN ._. 
+For_IN as_RB long_RB as_IN he_PRP needs_VBZ it_PRP ,_, Goodwill_NNP will_MD continue_VB to_TO help_VB ._. 
+
+Your_PRP$ support_NN of_IN Goodwill_NNP will_MD provide_VB job_NN training_NN and_CC placement_NN services_NNS to_TO help_VB the_DT hardest_JJS to_TO serve_VB in_IN central_JJ Indiana_NNP find_VB meaningful_JJ employment_NN ._. 
+And_CC ,_, with_IN your_PRP$ assistance_NN ,_, Goodwill_NNP can_MD help_VB employers_NNS develop_VB resources_NNS to_TO keep_VB workers_NNS on_IN the_DT job_NN ._. 
+
+Please_VB make_VB an_DT investment_NN in_IN the_DT stability_NN of_IN our_PRP$ community_NN by_IN sending_VBG a_DT gift_NN to_TO Goodwill_NNP ._. 
+Your_PRP$ generosity_NN will_MD help_VB people_NNS help_VB themselves_PRP ._. 
+
+Sincerely_NNP ,_, 
+
+James_NNP M._NN McClelland_NNP President_NNP 
+

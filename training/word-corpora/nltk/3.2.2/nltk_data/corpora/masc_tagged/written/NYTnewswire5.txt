@@ -1,0 +1,29 @@
+NYT20020731.0077_NN 2002-07-31_NN 13:46_NN A4345_NN &_CC Cx1_NN f_SYM ;_: ttd-z_JJ r_LS d_SYM BC-PRODUCEBIN-SFCHRON_NNP 07_CD -_- 31_CD 0408_CD BC-PRODUCEBIN-SF_NNP MUST_NNP CREDIT_NNP THE_DT SAN_NNP FRANCISCO_NNP CHRONICLE_NNP CHRON_NNP EDITORS_NNP NOTE_VB :_: Each_DT week_NN ,_, The_DT Chronicle_NNP offers_VBZ readers_NNS a_DT look_NN at_IN the_DT more_RBR unusual_JJ fruits_NNS ,_, vegetables_NNS and_CC herbs_NNS of_IN each_DT season_NN and_CC how_WRB to_TO use_VB them_PRP ._. 
+THE_DT PRODUCE_NNP BIN_NNP :_: Bitter_NNP melon_NN BY_NNP KAROLA_NNP SAEKEL_NNP c_SYM ._. 2002_CD The_DT San_NNP Francisco_NNP Chronicle_NNP SAN_NNP FRANCISCO_NNP -_- -_- A_DT staple_NN of_IN Chinese_JJ and_CC Indian_JJ cooking_NN ,_, these_DT gourds_NNS (_( botanically_RB ,_, Momordica_NNP charantia_NN )_) with_IN skin_NN like_IN toads_NNS grow_VBP on_IN climbing_VBG vines_NNS that_WDT can_MD reach_VB 12_CD feet_NNS ._. 
+The_DT Chinese_JJ and_CC Indian_JJ varieties_NNS differ_VBP little_JJ in_IN taste_NN ._. 
+Though_IN they_PRP resemble_VBP squashes_NNS ,_, they_PRP are_VBP natives_NNS to_TO Asia_NNP ,_, rather_RB than_IN the_DT Americas_NNPS ,_, but_CC are_VBP now_RB cultivated_VBN in_IN many_JJ regions_NNS of_IN the_DT world_NN that_WDT boast_VBP moderate_JJ to_TO warm_JJ climates_NNS ._. 
+Hmong_NNPS farmers_NNS grow_VBP them_PRP in_IN California_NNP 's_POS Central_NNP Valley_NNP ,_, and_CC Mexico_NNP has_VBZ a_DT substantial_JJ crop_NN ._. 
+
+SEASON_NNP Bitter_NNP melons_NNS can_MD be_VB found_VBN in_IN Asian_JJ and_CC specialty_NN produce_NN markets_NNS primarily_RB from_IN spring_NN through_IN late_JJ fall_NN ._. 
+Right_RB now_RB ,_, some_DT particularly_RB nice_JJ ones_NNS are_VBP in_IN Bay_NNP Area_NNP farmers_NNS '_POS markets_NNS ._. 
+
+HOW_NNP TO_TO SELECT_NNP As_IN the_DT gourd_NN ripens_VBZ ,_, its_PRP$ color_NN changes_NNS from_IN near_IN white_JJ -_- pale_JJ green_NN to_TO vivid_JJ green_NN ,_, often_RB flecked_JJ with_IN yellow_JJ ,_, and_CC eventually_RB bright_JJ orange_NN ._. 
+When_WRB young_JJ ,_, the_DT flavor_NN is_VBZ relatively_RB mild_JJ ,_, with_IN a_DT fresh_JJ ,_, sour_JJ note_NN ._. 
+As_IN it_PRP ripens_VBZ ,_, it_PRP gets_VBZ progressively_RB more_RBR bitter_JJ due_NN to_TO the_DT quinine_NN it_PRP contains_VBZ ._. 
+
+PRICE_NNP Bitter_NNP melon_NN was_VBD selling_VBG for_IN 79_CD cents_NNS to_TO $1.99_NN a_DT pound_NN last_JJ week_NN ._. 
+
+USES_NNP Bitter_NNP melons_NNS are_VBP used_VBN in_IN many_JJ Asian_JJ cuisines_NNS ,_, most_RBS prominently_RB Indian_JJ ,_, Chinese_JJ and_CC Vietnamese_JJ ._. 
+Generally_RB ,_, they_PRP are_VBP halved_VBN lengthwise_NN ,_, the_DT seeds_NNS and_CC fibrous_JJ pulp_NN removed_VBN and_CC the_DT flesh_NN sliced_JJ into_IN crescents_NNS ._. 
+They_PRP are_VBP frequently_RB blanched_JJ or_CC salted_VBD and_CC left_VBD to_TO macerate_NN for_IN up_IN to_TO an_DT hour_NN ,_, then_RB rinsed_JJ and_CC patted_JJ dry_JJ to_TO tame_JJ the_DT bitterness_NN ._. 
+
+Chinese_JJ hot_JJ -_- and_CC -_- sour_JJ soup_NN made_VBN with_IN egg_NN white_NN and_CC crabmeat_NN often_RB includes_VBZ bitter_JJ melon_NN ._. 
+It_PRP also_RB appears_VBZ in_IN stir_VB -_- frys_VB ,_, especially_RB those_DT based_VBN on_IN pork_NN ._. 
+Black_JJ bean_NN sauce_NN is_VBZ a_DT favorite_JJ seasoning_VBG ._. 
+When_WRB pickled_JJ ,_, bitter_JJ melon_NN makes_VBZ a_DT savory_NN condiment_NN ._. 
+
+In_IN Vietnam_NNP ,_, bitter_JJ melon_NN halves_NNS are_VBP stuffed_VBN with_IN meat_NN mixtures_NNS ,_, such_JJ as_IN ground_NN pork_NN with_IN black_JJ mushrooms_NNS and_CC cellophane_NN noodles_NNS ,_, then_RB braised_JJ ._. 
+Colin_NNP Spencer_NNP 's_POS "_'' Vegetable_NNP Book_NNP "_'' details_NNS an_DT intriguing_JJ Indian_JJ chapati_NN in_IN which_WDT bitter_JJ melon_NN ,_, seeds_NNS left_VBD intact_JJ ,_, is_VBZ sliced_JJ ,_, parboiled_JJ ,_, then_RB mixed_VBN with_IN lightly_RB fried_JJ garlic_JJ and_CC Indian_JJ spices_NNS ,_, flour_NN and_CC yogurt_NN ._. 
+The_DT mixture_NN is_VBZ fried_VBN like_IN a_DT thick_JJ pancake_NN and_CC served_VBD ,_, sliced_JJ ,_, with_IN rice_NN ,_, naan_NN and_CC other_JJ curries_NNS ._. 
+
+NYT-07_NN -_- 31_CD -_- 02_CD 1346_CD EDT_NNP 

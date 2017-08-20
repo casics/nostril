@@ -1,0 +1,55 @@
+Zoot_NNP Suit_NNP 
+
+A_DT style_NN of_IN suit_NN worn_VBN by_IN African_NNP Americans_NNPS ,_, Filipino_NNP Americans_NNPS ,_, and_CC Mexican_NNP Americans_NNPS during_IN the_DT 1930s_NN and_CC 1940s_NN ._. 
+In_IN Chicano_NNP culture_NN this_DT style_NN of_IN dress_NN is_VBZ primarily_RB associated_VBN with_IN the_DT pachucos_NNS of_IN the_DT 1940s_NN ._. 
+The_DT fashion_NN at_IN that_DT time_NN was_VBD to_TO wear_VB very_RB baggy_NN pants_NNS with_IN pegged_VBN legs_NNS ,_, long_JJ jackets_NNS with_IN high_JJ and_CC sharp_JJ shoulder_NN pads_NNS ,_, thick-soled_JJ shoes_NNS ,_, and_CC long_JJ watch_NN chains_NNS dangling_VBG from_IN the_DT belt_NN ._. 
+An_DT addition_NN to_TO the_DT whole_JJ style_NN common_JJ to_TO Chicanos_NNP was_VBD a_DT particular_JJ haircut_NN ,_, long_RB with_IN a_DT ducktail_NN and_CC a_DT wide-brimmed_JJ hat_NN ._. 
+
+The_DT word_NN zoot_NN was_VBD known_VBN within_IN the_DT urban_JJ jazz_NN culture_NN of_IN Harlem_NNP ,_, and_CC it_PRP meant_VBD something_NN either_CC exaggerated_JJ in_IN performance_NN or_CC in_IN style_NN ._. 
+Many_JJ African_NNP Americans_NNPS wore_VBD an_DT extravagant_JJ style_NN of_IN clothing_NN ,_, the_DT baggy_NN pegged_VBD pants_NNS and_CC jackets_NNS with_IN padded_JJ shoulders_NNS ,_, that_IN later_RB became_VBD known_VBN as_IN the_DT zoot_NN suit_NN ._. 
+In_IN the_DT novel_JJ Invisible_NNP Man_NNP by_IN Ralph_NNP Ellison_NNP ,_, he_PRP describes_VBZ the_DT zoot--suiters_JJ style_NN ,_, “_" walking_VBG slowly_RB ,_, their_PRP$ shoulders_NNS swaying_VBG ,_, their_PRP$ legs_NNS swinging_VBG from_IN their_PRP$ hips_NNS in_IN trousers_NNS that_WDT ballooned_VBD upward_RB from_IN cuffs_NNS fitting_JJ snug_NN about_IN their_PRP$ ankles_NNS ;_: their_PRP$ coats_NNS long_JJ and_CC hip-tight_JJ with_IN shoulders_NNS far_RB too_RB broad_JJ to_TO be_VB those_DT of_IN natural_JJ western_JJ men_NNS ”_" (_( 1947_CD ,_, 380_CD )_) ._. 
+In_IN the_DT late-night_JJ jazz_NN scenes_NNS of_IN Harlem_NNP this_DT style_NN was_VBD “_" a_DT killer-diller_JJ coat_NN with_IN a_DT drape-shape_JJ ,_, reat-pleats_JJ and_CC shoulders_NNS padded_JJ like_IN a_DT lunatic_JJ s_VBZ cell_NN ”_" (_( 380_CD )_) ._. 
+Tyler_NNP makes_VBZ the_DT point_NN that_IN the_DT zoot_NN suit_NN was_VBD an_DT extremely_RB symbolic_JJ costume_NN ,_, which_WDT gave_VBD the_DT wearer_NN the_DT look_NN of_IN a_DT child_NN in_IN adult_NN clothing_NN ._. 
+The_DT broad_JJ square_JJ shoulders_NNS gave_VBD a_DT macho_JJ look_NN to_TO the_DT youth_NN ,_, and_CC the_DT finger-tipped_JJ coat_NN was_VBD made_VBN for_IN fun_NN and_CC leisure_NN ._. 
+The_DT long_JJ baggy_NN pants_NNS were_VBD made_VBN for_IN dancing_NN ,_, especially_RB the_DT jitterbug_NN ,_, and_CC the_DT wide_JJ Panama_NNP hats_NNS were_VBD another_DT sign_NN of_IN adulthood_NN ._. 
+“_" The_DT business_NN of_IN fun_NN ,_, dancing_NN and_CC dating_VBG were_VBD the_DT key_JJ characteristics_NNS displayed_VBN by_IN Zoot-_NNP Suiters_NNP ._. 
+It_PRP was_VBD an_DT escape_NN from_IN drudgery_NN and_CC futile_JJ labor_NN to_TO the_DT bliss_NNS of_IN free-wheeling_JJ movement_NN in_IN the_DT city_NN among_IN youths_NNS in_IN the_DT new_JJ youth_NN culture_NN ”_" (_( Tyler_NNP ,_, 23_CD )_) ._. 
+Prominent_NNP black_JJ entertainers_NNS wore_VBD the_DT zoot_NN suit_NN ,_, such_JJ as_IN Cab_NNP Calloway_NNP ,_, Sammy_NNP Davis_NNP Jr_NNP ._. ,_, and_CC Duke_NNP Ellington_NNP ._. 
+Ellington_NNP performed_VBD at_IN the_DT Orpheum_NNP in_IN Los_NNP Angeles_NNP in_IN 1941_CD and_CC 1942_CD with_IN a_DT musical_JJ called_VBN Jump_NN for_IN Joy_NNP in_IN which_WDT the_DT performers_NNS wore_VBD zoot_NN suits_NNS ,_, also_RB known_VBN as_IN Gone_VBN with_IN the_DT Wind_NNP suits_NNS ,_, after_IN the_DT style_NN worn_VBN by_IN Clark_NNP Gable_NNP in_IN the_DT movie_NN by_IN the_DT same_JJ name_NN ._. 
+
+Even_RB though_IN the_DT zoot_NN suit_NN was_VBD worn_VBN by_IN the_DT young_JJ men_NNS of_IN several_JJ different_JJ races_NNS and_CC ethnicities_NNS ,_, it_PRP is_VBZ primarily_RB identified_VBN with_IN the_DT pachucos_NNS of_IN Los_NNP Angeles_NNP ._. 
+Pachucos_NNP were_VBD mostly_RB second-generation_JJ Mexicans_NNPS ,_, the_DT sons_NNS of_IN migrant_NN laborers_NNS and_CC working-class_JJ immigrants_NNS ._. 
+Pachucos_NNP created_VBD their_PRP$ own_JJ subculture_NN ,_, an_DT arrogant_JJ style_NN of_IN dressing_VBG ,_, a_DT bilingual_JJ secret_JJ argot_NN ,_, and_CC for_IN some_DT individuals_NNS membership_NN in_IN petty_JJ criminal_JJ gangs_NNS ._. 
+The_DT zoot_NN suit_NN became_VBD a_DT symbolic_JJ disguise_VB that_WDT identified_VBD the_DT zoot-suiter_JJ as_IN neither_DT a_DT Mexican_JJ nor_CC an_DT American_NNP ._. 
+It_PRP was_VBD not_RB a_DT bicultural_NN or_CC binational_NN position_NN ,_, but_CC rather_RB a_DT position_NN between_IN cultures_NNS ,_, a_DT “_" hanging_VBG in_IN space_NN ”_" position_NN ._. 
+The_DT overly_RB confident_JJ ,_, slow_JJ swagger_NN of_IN the_DT pachuco_NN ,_, today_NN exemplified_VBN by_IN the_DT cholo_NN ,_, made_VBN it_PRP appear_VBP in_IN fact_NN as_IN if_IN the_DT zoot-suiter_JJ were_VBD walking_VBG on_IN air_NN ._. 
+
+During_IN the_DT summer_NN of_IN 1943_CD the_DT attention_NN of_IN the_DT whole_JJ country_NN was_VBD on_IN Los_NNP Angeles_NNP when_WRB gangs_NNS of_IN sailors_NNS and_CC zoot-suiters_JJ battled_VBD with_IN each_DT other_JJ in_IN the_DT streets_NNS of_IN the_DT city_NN ._. 
+It_PRP is_VBZ unclear_JJ if_IN this_DT was_VBD a_DT race_NN riot_NN or_CC a_DT riot_NN of_IN patriotic_JJ sailors_NNS who_WP attacked_VBD ,_, beat_VB ,_, and_CC stripped_VBD young_JJ Mexican_NNP Americans_NNPS whom_WP they_PRP perceived_VBD to_TO be_VB unpatriotic_JJ zoot-suiters_JJ ._. 
+Between_IN the_DT third_NN and_CC thirteenth_NN of_IN June_NNP zoot-suiters_JJ were_VBD open_JJ targets_NNS ._. 
+Much_JJ has_VBZ been_VBN written_VBN about_IN these_DT riots_NNS from_IN both_DT literary_JJ and_CC historical_JJ perspectives_NNS ._. 
+
+During_IN the_DT late_JJ 1970s_NN the_DT zoot_NN suit_NN received_VBD wide_JJ recognition_NN and_CC popularity_NN with_IN the_DT production_NN of_IN a_DT successful_JJ play_NN by_IN Luis_NNP Valdez_NNP ._. 
+In_IN 1981_CD a_DT film_NN by_IN the_DT same_JJ name_NN ,_, Zoot_NNP Suit_NNP ,_, was_VBD produced_VBN and_CC directed_VBN by_IN Luis_NNP Valdez_NNP ,_, with_IN performances_NNS by_IN actors_NNS Daniel_NNP Valdez_NNP and_CC Edward_NNP James_NNP Olmos_NNP ._. 
+
+See_VB also_RB Cholos_NNP ;_: Pachucos_NNP 
+
+References_NNP Barker_NNP 1950_CD ;_: Cosgrove_NNP 1989_CD ;_: Ellison_NNP ,_, 1947_CD ;_: Mazon_NNP 1984_CD ;_: Orona-_NNP Cordova_NNP 1992_CD ;_: Sanchez_NNP 1978_CD ;_: Stone_NNP 1990_CD ;_: Tyler_NNP 1994_CD ;_: Valdez_NNP 1992_CD ;_: Zoot_NNP Suit_NNP 1981_CD 
+
+Zozobra_NNP 
+
+A_DT giant_NN ,_, forty-foot_JJ effigy_NN in_IN the_DT form_NN of_IN a_DT puppet_NN ,_, which_WDT is_VBZ burned_VBN during_IN the_DT annual_JJ Santa_NNP Fe_NNP Fiesta_NNP held_VBD in_IN Santa_NNP Fe_NNP ,_, New_NNP Mexico_NNP ._. 
+The_DT word_NN Zozobra_NNP translates_NNS to_TO “_" gloom_NN or_CC “_" worry_VBP ”_" or_CC “_" anguished_JJ ._. ”_" 
+The_DT Zozobra_NNP is_VBZ ritualistically_RB burned_VBN at_IN the_DT beginning_NN of_IN the_DT fiesta_NN ,_, which_WDT symbolizes_VBZ the_DT end_NN of_IN destructiveness_NNS ,_, gloom_NN ,_, and_CC worry_VBP ,_, setting_VBG the_DT tone_NN for_IN a_DT successful_JJ fiesta_NN ._. 
+The_DT creation_NN of_IN Zozobra_NNP was_VBD introduced_VBN into_IN the_DT fiesta_NN in_IN 1926_CD by_IN Will_NNP Shuster_NNP ,_, who_WP felt_VBD that_IN the_DT fiesta_NN had_VBD become_VBN dull_JJ and_CC commercialized_JJ ._. 
+Throughout_IN the_DT years_NNS the_DT image_NN of_IN Zozobra_NNP changed_VBD from_IN a_DT simple_JJ twenty-foot_JJ puppet_NN to_TO the_DT elaborate_JJ forty-foot_JJ figure_NN with_IN animated_VBN eyes_NNS ,_, arms_NNS ,_, and_CC mouth_NN that_IN he_PRP is_VBZ today_NN ._. 
+In_IN 1969_CD Shuster_NNP turned_VBD over_IN the_DT responsibility_NN and_CC copyright_NN of_IN Zozobra_NNP to_TO the_DT Kiwanis_NNP Club_NNP of_IN Santa_NNP Fe_NNP ._. 
+He_PRP is_VBZ hung_VBN on_IN a_DT tall_JJ pole_NN on_IN a_DT hill_NN ,_, outside_IN the_DT city_NN ,_, where_WRB the_DT burning_NN can_MD be_VB seen_VBN by_IN the_DT thousands_NNS of_IN people_NNS who_WP come_VBP to_TO watch_VB ._. 
+The_DT death_NN of_IN gloom_NN is_VBZ supposed_VBN to_TO resurrect_VB happiness_NN ._. 
+
+In_IN response_NN to_TO the_DT tradition_NN of_IN the_DT burning_NN of_IN Zozobra_NNP ,_, a_DT group_NN of_IN New_NNP Mexico_NNP Chicanos_NNP started_VBD a_DT tradition_NN of_IN burning_NN El_NNP Kookoóee_NNP ,_, a_DT figure_NN known_VBN by_IN many_JJ Chicanos_NNP as_IN the_DT bogeyman_NN ,_, during_IN the_DT Festival_NNP de_IN Otoño_NNP ._. 
+
+See_VB also_RB El_NNP Kookoóee_NNP ;_: Santa_NNP Fe_NNP Fiesta_NNP 
+
+References_NNP Cohen_NNP 1985_CD ;_: Grimes_NNP 1976_CD ;_: Weigle_NNP and_CC White_NNP 1988_CD 
+

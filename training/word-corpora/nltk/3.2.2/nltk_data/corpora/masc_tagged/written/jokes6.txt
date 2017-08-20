@@ -1,0 +1,120 @@
+Do_VBP This_DT ........_. 1_CD -_: When_WRB computing_NN ,_, whatever_WDT happens_VBZ ,_, behave_VB as_IN though_IN you_PRP meant_VBD it_PRP to_TO happen_VB ._. 
+2_CD -_: When_WRB you_PRP get_VBP to_TO the_DT point_NN where_WRB you_PRP really_RB understand_VBP your_PRP$ computer_NN ,_, then_RB it_PRP 's_VBZ definitely_RB obsolete_JJ ._. 
+3_CD -_: The_DT first_JJ place_NN to_TO look_VB for_IN information_NN is_VBZ in_IN the_DT section_NN of_IN the_DT manual_JJ where_WRB you_PRP least_JJS expect_VBP to_TO find_VB it_PRP ._. 
+4_CD -_: When_WRB the_DT going_VBG gets_VBZ tough_JJ ,_, upgrade_VB ._. 
+5_CD -_: For_IN every_DT action_NN there_EX is_VBZ an_DT equal_JJ and_CC opposite_JJ malfunction_NN 
+6_CD -_: To_TO err_VB is_VBZ human_JJ ..._... but_CC to_TO completely_RB screw_NN things_NNS up_RB requires_VBZ a_DT computer_NN ._. 
+7_CD -_: He_PRP who_WP laughs_VBZ last_NN has_VBZ already_RB made_VBN a_DT back-up_NN ._. 
+8_CD -_: A_DT complex_JJ system_NN that_WDT does_VBZ not_RB work_VB is_VBZ invariably_RB found_VBN to_TO have_VB evolved_VBN from_IN a_DT simpler_JJR system_NN that_WDT worked_VBD just_RB fine_NN ._. 
+9_CD -_: The_DT No._NN 1_CD cause_NN of_IN computer_NN problems_NNS is_VBZ computer_NN solutions_NNS ._. 
+10_CD -_: A_DT computer_NN program_NN will_MD always_RB do_VB what_WP you_PRP tell_VBP it_PRP to_TO do_VB ,_, but_CC rarely_RB what_WP you_PRP want_VBP it_PRP to_TO do_VB ._. 
+
+If_IN we_PRP Fail_NNP A_DT customer_NN walks_VBZ into_IN a_DT restaurant_NN and_CC notices_NNS a_DT large_JJ sign_NN on_IN the_DT wall_NN ,_, "_'' $500_NN IF_IN WE_NNP FAIL_NNP TO_TO FILL_NNP YOUR_JJ ORDER_NNP !_. "_'' 
+When_WRB his_PRP$ waitress_NN arrives_VBZ ,_, he_PRP orders_VBZ elephant_NN tail_NN on_IN rye_NN ._. 
+She_PRP calmly_RB writes_VBZ down_RP his_PRP$ order_NN and_CC walks_VBZ into_IN the_DT kitchen_NN where_WRB all_DT hell_NN breaks_NNS loose_JJ !_. 
+The_DT restaurant_NN owner_NN comes_VBZ storming_VBG out_IN of_IN the_DT kitchen_NN ._. 
+He_PRP runs_VBZ up_IN to_TO the_DT customer_NN 's_POS table_NN ,_, slaps_VBZ five_CD $100_NN bills_NNS down_RB on_IN it_PRP and_CC says_VBZ ,_, "_'' You_PRP got_VBD me_PRP that_DT time_NN buddy_NN ,_, but_CC I_PRP want_VBP you_PRP to_TO know_VB that_DT 's_VBZ the_DT first_JJ time_NN in_IN ten_CD years_NNS we_PRP 've_VBP been_VBN out_IN of_IN rye_NN bread_NN !_. "_'' 
+
+Do_VBP you_PRP remember_VBP Grandma_NNP and_CC Grandpa_NNP were_VBD sitting_VBG in_IN their_PRP$ porch_NN rockers_NNS watching_VBG the_DT beautiful_JJ sunset_NN and_CC reminiscing_VBG about_IN "_'' the_DT good_JJ old_JJ days_NNS ,_, "_'' when_WRB Grandma_NNP turned_VBD to_TO Grandpa_NNP and_CC said_VBD ,_, "_'' Honey_NNP ,_, do_VBP you_PRP remember_VBP when_WRB we_PRP first_RB started_VBD dating_VBG and_CC you_PRP used_VBD to_TO just_RB casually_RB reach_VB over_RB and_CC take_VB my_PRP$ hand_NN ?_. "_'' 
+Grandpa_NNP looked_VBD over_IN at_IN her_PRP$ ,_, smiled_VBD and_CC took_VBD her_PRP$ aged_JJ hand_NN in_IN his_PRP$ ._. 
+With_IN a_DT wry_NN little_JJ smile_NN Grandma_NNP pressed_VBD a_DT little_JJ farther_RBR ,_, "_'' Honey_NNP ,_, do_VBP you_PRP remember_VBP how_WRB after_IN we_PRP were_VBD engaged_VBN you_PRP 'd_MD sometimes_RB lean_VB over_RB and_CC suddenly_RB kiss_NNS me_PRP on_IN the_DT cheek_NN ?_. "_'' 
+Grandpa_NNP leaned_VBD slowly_RB toward_IN Grandma_NNP and_CC gave_VBD her_PRP$ a_DT lingering_VBG kiss_NNS on_IN her_PRP$ wrinkled_JJ cheek_NN ._. 
+Growing_VBG bolder_JJR still_RB ,_, Grandma_NNP said_VBD ,_, "_'' Honey_NNP ,_, do_VBP you_PRP remember_VBP how_WRB ,_, after_IN we_PRP were_VBD first_RB married_VBN ,_, you_PRP 'd_MD kind_NN of_IN nibble_NN on_IN my_PRP$ ear_NN ?_. "_'' 
+Grandpa_NNP slowly_RB got_VBD up_RP from_IN his_PRP$ rocker_NN and_CC headed_VBN into_IN the_DT house_NN ._. 
+Alarmed_JJ ,_, Grandma_NNP said_VBD ,_, "_'' Honey_NNP ,_, where_WRB are_VBP you_PRP going_VBG ?_. "_'' 
+Grandpa_NNP replied_VBD ,_, "_'' To_TO get_VB my_PRP$ teeth_NNS !_. "_'' 
+
+Listening_NNP to_TO the_DT Ground_NNP Two_CD cowboys_NNS come_VBP upon_IN an_DT Indian_JJ lying_VBG on_IN his_PRP$ stomach_NN with_IN his_PRP$ ear_NN to_TO the_DT ground_NN ._. 
+One_CD of_IN the_DT cowboys_NNS stops_VBZ and_CC says_VBZ to_TO the_DT other_JJ ,_, "_'' You_PRP see_VBP that_IN Indian_JJ ?_. "_'' 
+"_'' Yeah_UH ,_, "_'' says_VBZ the_DT other_JJ cowboy_NN ._. 
+"_'' Look_VB ,_, "_'' says_VBZ the_DT first_JJ one_CD ,_, "_'' he_PRP 's_VBZ listening_VBG to_TO the_DT ground_NN ._. 
+He_PRP can_MD hear_VB things_NNS for_IN miles_NNS in_IN any_DT direction_NN ._. "_'' 
+Just_RB then_RB the_DT Indian_JJ looks_VBZ up_RB ._. 
+"_'' Covered_NNP wagon_NN ,_, "_'' he_PRP says_VBZ ,_, "_'' about_IN two_CD miles_NNS away_RB ._. 
+Have_VBP two_CD horses_NNS ,_, one_CD brown_JJ ,_, one_CD white_JJ ._. 
+Man_NN ,_, woman_NN ,_, child_NN ,_, household_NN effects_NNS in_IN wagon_NN ._. "_'' 
+"_'' Incredible_NNP !_. "_'' 
+says_VBZ the_DT cowboy_NN to_TO his_PRP$ friend_NN ._. 
+"_'' This_DT Indian_JJ knows_VBZ how_WRB far_RB away_RB they_PRP are_VBP ,_, how_WRB many_JJ horses_NNS ,_, what_WP color_NN they_PRP are_VBP ,_, who_WP is_VBZ in_IN the_DT wagon_NN ,_, and_CC what_WP is_VBZ in_IN the_DT wagon_NN ._. 
+Amazing_JJ !_. "_'' 
+The_DT Indian_JJ looks_VBZ up_RB again_RB and_CC says_VBZ ,_, "_'' Ran_NNP over_IN me_PRP a_DT half_PDT a_DT hour_NN ago_RB ._. "_'' 
+
+Mistakes_NNP On_IN his_PRP$ way_NN out_IN of_IN church_NN ,_, Frank_NNP stopped_VBD at_IN the_DT door_NN to_TO speak_VB to_TO the_DT minister_NN ._. 
+"_'' Would_MD it_PRP be_VB right_NN ,_, "_'' he_PRP asked_VBD ,_, "_'' for_IN a_DT person_NN to_TO profit_VB from_IN the_DT mistakes_NNS of_IN another_DT ?_. "_'' 
+"_'' Absolutely_RB not_RB !_. "_'' 
+replied_VBD the_DT pastor_NN ._. 
+"_'' In_IN that_DT case_NN ,_, "_'' said_VBD the_DT young_JJ man_NN ,_, "_'' I_PRP wonder_VBP if_IN you_PRP 'd_MD consider_VB returning_VBG the_DT hundred_CD dollars_NNS I_PRP paid_VBD you_PRP to_TO marry_VB my_PRP$ wife_NN and_CC me_PRP last_JJ July_NNP ._. "_'' 
+
+These_DT are_VBP all_DT true_JJ -_: probably_RB ._. Rome_NNP did_VBD not_RB create_VB a_DT great_JJ empire_NN by_IN having_VBG meetings_NNS ,_, they_PRP did_VBD it_PRP by_IN killing_VBG anybody_NN who_WP opposed_VBD them_PRP ._. 
+If_IN you_PRP can_MD stay_VB calm_VB ,_, while_IN all_DT around_IN you_PRP is_VBZ chaos_NN ..._... then_RB you_PRP probably_RB have_VBP n't_RB completely_RB understood_VBN the_DT seriousness_NN of_IN the_DT situation_NN ._. 
+Doing_VBG a_DT job_NN RIGHT_NNP the_DT first_JJ time_NN gets_VBZ the_DT job_NN done_VBN ._. 
+Doing_VBG the_DT job_NN WRONG_NNP fourteen_CD times_NNS gives_VBZ you_PRP job_NN security_NN ._. 
+It_PRP is_VBZ hard_JJ to_TO soar_VB like_IN an_DT eagle_NN when_WRB you_PRP are_VBP surrounded_VBN by_IN turkeys_NNS ;_: but_CC on_IN the_DT other_JJ hand_NN ,_, although_IN eagles_NNS may_MD soar_VB ,_, turkeys_NNS do_VBP n't_RB get_VB sucked_JJ into_IN jet_NN engines_NNS ._. 
+A_DT person_NN who_WP smiles_VBZ in_IN the_DT face_NN of_IN adversity_NN ..._... 
+probably_RB has_VBZ already_RB figured_VBN out_IN who_WP 's_VBZ the_DT scapegoat_NN ._. 
+Plagiarism_NNP saves_VBZ time_NN ._. 
+
+Management_NNP If_IN at_IN first_JJ you_PRP do_VBP n't_RB succeed_VB ,_, try_VB management_NN ._. 
+Never_RB put_VB off_IN until_IN tomorrow_NN what_WP you_PRP can_MD avoid_VB altogether_RB ._. 
+TEAMWORK_NNP ..._... means_VBZ never_RB having_VBG to_TO take_VB all_DT the_DT blame_NN yourself_PRP ._. 
+The_DT beatings_NNS will_MD continue_VB until_IN morale_NN improves_VBZ ._. 
+Never_RB underestimate_NN the_DT power_NN of_IN very_RB stupid_JJ people_NNS in_IN large_JJ groups_NNS ._. 
+We_PRP waste_NN time_NN ,_, so_IN you_PRP do_VBP n't_RB have_VB to_TO ._. 
+Hang_NNP in_IN there_RB ,_, retirement_NN is_VBZ only_RB thirty_CD years_NNS away_RB !_. 
+Go_VB the_DT extra_JJ mile_NN ._. 
+It_PRP makes_VBZ your_PRP$ boss_NN look_NN like_IN an_DT incompetent_JJ slacker_NN ._. 
+A_DT snooze_NN button_NN is_VBZ a_DT poor_JJ substitute_NN for_IN no_DT alarm_NN clock_NN at_IN all_DT ._. 
+When_WRB the_DT going_VBG gets_VBZ tough_JJ ,_, the_DT tough_JJ take_NN a_DT coffee_NN break_NN ._. 
+INDECISION_NNP is_VBZ the_DT key_NN to_TO FLEXIBILITY_NNP ._. 
+Succeed_NNP in_IN spite_NN of_IN management_NN ._. 
+Aim_NNP Low_NNP ,_, Reach_NNP Your_PRP$ Goals_NNP ,_, Avoid_NNP Disappointment_NN 
+
+Things_NNS To_TO Ponder_NNP 1_CD ._. Why_WRB do_VBP they_PRP call_VBP it_PRP a_DT TV_NN set_VBD ,_, when_WRB you_PRP only_RB get_VBP one_CD ?_. 
+2_CD ._. Why_WRB is_VBZ the_DT third_JJ hand_NN on_IN the_DT watch_NN called_VBN the_DT second_JJ hand_NN ?_. 
+3_CD ._. If_IN a_DT word_NN is_VBZ misspelled_JJ in_IN the_DT dictionary_JJ ,_, would_MD we_PRP ever_RB know_VBP ?_. 
+4_CD ._. If_IN Webster_NNP wrote_VBD the_DT first_JJ dictionary_JJ ,_, where_WRB did_VBD he_PRP find_VBP the_DT words_NNS ?_. 
+5_CD ._. Why_WRB do_VBP we_PRP say_VBP something_NN is_VBZ out_IN of_IN whack_NN ?_. 
+What_WP is_VBZ a_DT whack_NN ?_. 
+6_CD ._. How_WRB can_MD "_'' slow_JJ down_RB "_'' and_CC "_'' slow_JJ up_RB "_'' mean_VB the_DT same_JJ thing_NN ?_. 
+7_CD ._. Why_WRB do_VBP "_'' fat_JJ chance_NN "_'' and_CC "_'' slim_JJ chance_NN "_'' mean_VB the_DT same_JJ thing_NN ?_. 
+8_CD ._. Why_WRB do_VBP '_POS tug_NN '_'' boats_NNS push_VBP barges_NNS ?_. 
+9_CD ._. Why_WRB do_VBP we_PRP sing_VBP "_'' Take_VB me_PRP out_IN to_TO the_DT ball_NN game_NN "_'' when_WRB we_PRP are_VBP already_RB there_RB ?_. 
+10_CD ._. Why_WRB are_VBP they_PRP called_VBD "_'' stands_VBZ "_'' when_WRB they_PRP are_VBP made_VBN for_IN sitting_VBG ?_. 
+11_CD ._. Why_WRB is_VBZ it_PRP called_VBD "_'' after_IN dark_JJ "_'' when_WRB it_PRP really_RB is_VBZ "_'' after_IN light_JJ "_'' ?_. 
+12_CD ._. If_IN one_CD "_'' expected_VBD the_DT unexpected_JJ "_'' then_RB the_DT unexpected_JJ could_MD n't_RB exist_VB ,_, Right_RB ?_. 
+13_CD ._. Why_WRB are_VBP a_NNP '_POS wise_JJ man_NN '_'' and_CC a_NNP '_POS wise_JJ guy_NN '_'' opposites_NNS ?_. 
+14_CD ._. Why_WRB do_VBP '_POS overlook_VBP and_CC '_POS oversee_VB '_POS mean_VB opposite_JJ things_NNS ?_. 
+15_CD ._. Why_WRB is_VBZ phonics_NNS not_RB spelled_VBN the_DT way_NN it_PRP sounds_VBZ ?_. 
+16_CD ._. If_IN work_NN is_VBZ so_RB terrific_JJ ,_, why_WRB do_VBP they_PRP have_VBP to_TO pay_VB you_PRP to_TO do_VB it_PRP ?_. 
+17_CD ._. If_IN all_PDT the_DT world_NN is_VBZ a_DT stage_NN ,_, where_WRB is_VBZ the_DT audience_NN sitting_VBG ?_. 
+18_CD ._. If_IN love_NN is_VBZ blind_JJ ,_, why_WRB is_VBZ fancy_JJ lingerie_NN so_RB popular_JJ ?_. 
+19_CD ._. If_IN you_PRP are_VBP cross-eyed_JJ and_CC have_VBP dyslexia_NN ,_, can_MD you_PRP then_RB read_VBP all_DT right_NN ?_. 
+20_CD ._. Why_WRB is_VBZ bra_NN singular_NN and_CC panties_NNS plural_NN ?_. 
+21_CD ._. Why_WRB do_VBP you_PRP press_VBP harder_RBR on_IN the_DT buttons_NNS of_IN a_DT remote_JJ control_NN when_WRB you_PRP know_VBP the_DT batteries_NNS are_VBP dead_JJ ?_. 
+22_CD ._. How_WRB come_VB abbreviated_JJ is_VBZ such_JJ a_DT long_JJ word_NN ?_. 
+
+What_WP 's_VBZ The_DT Difference_NNP ??_. A_DT young_JJ girl_NN who_WP was_VBD writing_VBG a_DT paper_NN for_IN school_NN came_VBD to_TO her_PRP$ father_NN and_CC asked_VBD ,_, "_'' Dad_NNP ,_, what_WP is_VBZ the_DT difference_NN between_IN anger_NN and_CC exasperation_NN ?_. "_'' 
+The_DT father_NN replied_VBD ,_, "_'' It_PRP is_VBZ mostly_RB a_DT matter_NN of_IN degree_NN ._. 
+Let_VB me_PRP show_VBP you_PRP what_WP I_PRP mean_VBP ._. "_'' 
+With_IN that_IN the_DT father_NN went_VBD to_TO the_DT telephone_NN and_CC dialed_JJ a_DT number_NN at_IN random_JJ ._. 
+To_TO the_DT man_NN who_WP answered_VBD the_DT phone_NN ,_, he_PRP said_VBD ,_, "_'' Hello_UH ,_, is_VBZ Melvin_NNP there_RB ?_. "_'' 
+The_DT man_NN answered_VBD ,_, "_'' There_EX is_VBZ no_DT one_CD living_VBG here_RB named_VBN Melvin_NNP ._. 
+Why_WRB do_VBP n't_RB you_PRP learn_VBP to_TO look_VB up_RP numbers_NNS before_IN you_PRP dial_NN them_PRP ?_. "_'' 
+"_'' See_VB ,_, "_'' said_VBD the_DT father_NN to_TO his_PRP$ daughter_NN ._. 
+"_'' That_DT man_NN was_VBD not_RB a_DT bit_NN happy_JJ with_IN our_PRP$ call_NN ._. 
+He_PRP was_VBD probably_RB very_RB busy_JJ with_IN some-thing_JJ and_CC we_PRP annoyed_VBD him_PRP ._. 
+Now_RB watch_VB ...._. "_'' 
+The_DT father_NN dialed_JJ the_DT number_NN again_RB ._. 
+"_'' Hello_UH ,_, is_VBZ Melvin_NNP there_RB ?_. "_'' ,_, asked_VBD the_DT father_NN ._. 
+"_'' Now_RB look_VB here_RB !_. "_'' 
+came_VBD the_DT heated_JJ reply_NN ._. 
+"_'' You_PRP just_RB called_VBD this_DT number_NN and_CC I_PRP told_VBD you_PRP that_IN there_EX is_VBZ no_DT Melvin_NNP here_RB !_. 
+You_PRP 've_VBP got_VBN a_DT lot_NN of_IN nerve_NN calling_VBG again_RB !_. "_'' 
+The_DT receiver_NN slammed_VBD down_RB hard_JJ ._. 
+The_DT father_NN turned_VBD to_TO his_PRP$ daughter_NN and_CC said_VBD ,_, "_'' You_PRP see_VBP ,_, that_WDT was_VBD anger_NN ._. 
+Now_RB I_PRP 'll_MD show_VB you_PRP what_WP exasperation_NN means_VBZ ._. 
+"_'' He_PRP dialed_JJ the_DT same_JJ number_NN ,_, and_CC when_WRB a_DT violent_JJ voice_NN roared_JJ ,_, "_'' Hello_UH !_. "_'' 
+The_DT father_NN calmly_RB said_VBD ,_, "_'' Hello_UH ,_, this_DT is_VBZ Melvin_NNP ._. 
+Have_VBP there_EX been_VBN any_DT calls_NNS for_IN me_PRP ?_. 
+"_'' 
+

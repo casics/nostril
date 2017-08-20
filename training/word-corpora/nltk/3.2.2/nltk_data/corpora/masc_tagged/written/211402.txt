@@ -1,0 +1,14 @@
+Message-ID_NNP :_: <_NN 29555721.1075857154511.JavaMail.evans@thyme_NN >_NN Date_NN :_: Wed_NNP ,_, 14_CD Jun_NNP 2000_CD 06:28:00_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: benjamin.rogers@enron.com_NN To_TO :_: stuart.zisman@enron.com_NN Subject_NNP :_: Confidential_NNP Agreement_NNP Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Here_RB is_VBZ the_DT latest_JJS copy_NN ._. 
+Once_RB you_PRP may_MD the_DT changes_NNS I_PRP am_VBP going_VBG to_TO run_VB it_PRP by_IN Mark_NNP Metts_NNP and_CC send_VB it_PRP over_IN to_TO CINergy_NNP ._. 
+I_PRP am_VBP trying_VBG to_TO get_VB this_DT sogned_JJ today_NN ,_, so_IN I_PRP can_MD head_VB down_IN to_TO Florida_NNP to_TO meet_VB up_RP with_IN Don_NNP and_CC company_NN ._. 
+Thanks_NNS 
+Ben_NNP ----------------------_SYM Forwarded_NNP by_IN Benjamin_NNP Rogers_NNP /_NN HOU_NNP /_NN ECT_NNP on_IN 06/14/2000_CD 01:27_NN PM_NNP ---------------------------_SYM 
+"_'' Wahl_NNP ,_, Jennifer_NNP "_'' <_NN jwahl@Cinergy.com_NN >_NN on_IN 06/06/2000_CD 10:43:34_NN AM_NNP To_TO :_: "_'' '_POS Ben_NNP Rogers_NNP '_POS "_'' <_NN benjamin.rogers@enron.com_NN >_NN cc_NN :_: "_'' Cyrus_NNP ,_, Michael_NNP "_'' <_NN mcyrus@Cinergy.com_NN >_NN Subject_NNP :_: Confidential_NNP Agreement_NNP 
+This_DT follows_VBZ up_RB on_IN your_PRP$ voice_NN mail_NN message_NN regarding_VBG the_DT status_NN of_IN the_DT Confidentiality_NNP Agreement_NNP in_IN light_NN of_IN renewed_VBN discussions_NNS between_IN the_DT two_CD companies_NNS ._. 
+Attached_NNP is_VBZ the_DT latest_JJS draft_NN of_IN the_DT Confidentiality_NNP Agreement_NNP which_WDT was_VBD transmitted_VBN to_TO you_PRP on_IN May_NNP 13_CD ._. 
+Please_VB call_NN me_PRP with_IN any_DT comments_NNS or_CC questions_NNS ._. 
+
+<_NN <_NN Confidential_NNP AGrement_NNP with_IN Enron_NNP which_WDT was_VBD sent_VBN to_TO Ben_NNP Rogers_NNP on_IN 51200_CD -_: this_DT version_NN is_VBZ a_DT clean_JJ version_NN accepting_VBG all_DT blacklined_JJ changes_NNS from_IN 59437v3.DOC_NNP 
+>_NN >_NN 
+-_: Confidential_NNP AGrement_NNP with_IN Enron_NNP which_WDT was_VBD sent_VBN to_TO Ben_NNP Rogers_NNP on_IN 51200_CD -_: this_DT version_NN is_VBZ a_DT clean_JJ version_NN accepting_VBG all_DT blacklined_JJ changes_NNS from_IN 59437v3.DOC_NNP 
+

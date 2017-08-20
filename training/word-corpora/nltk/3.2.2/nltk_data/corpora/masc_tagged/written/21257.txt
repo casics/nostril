@@ -1,0 +1,24 @@
+Message-ID_NNP :_: <_NN 17394516.1075863362388.JavaMail.evans@thyme_NN >_NN Date_NN :_: Fri_NNP ,_, 20_CD Jul_NNP 2001_CD 09:53:03_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: rick.buy@enron.com_NN To_TO :_: donna.lowry@enron.com_NN Subject_NNP :_: FW_NNP :_: Confidential_NNP Information_NNP and_CC Securities_NNPS Trading_NNP Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN i_NNP think_VBP i_NNP did_VBD this_DT properly_RB ._. 
+any_DT way_NN you_PRP can_MD check_VB ?_. 
+rick_NN -----_SYM Original_NNP Message-----_NNP From_IN :_: Office_NNP of_IN the_DT Chairman_NNP -_: Enron_NNP Wholesale_JJ Services_NNPS [_NN mailto_NN :_: legalonline-compliance@enron.com_NN ]_NN Sent_NNP :_: Wednesday_NNP ,_, July_NNP 11_CD ,_, 2001_CD 10:16_NN AM_NNP To_TO :_: BUY@mailman.enron.com_NN ;_: Buy_VB ,_, Rick_NNP Subject_NNP :_: Confidential_NNP Information_NNP and_CC Securities_NNPS Trading_NN 
+To_TO :_: BUY_NNP ,_, RICHARD_NNP Email_NNP :_: rick.buy@enron.com_NN -_: 7138534739_CD 
+Enron_NNP Wholesale_JJ Services_NNPS -_: Office_NNP of_IN the_DT Chairman_NNP 
+
+From_IN :_: Mark_NNP Frevert_NNP ,_, Chairman_NNP &_CC CEO_NNP 
+
+Mark_NNP Haedicke_NNP ,_, Managing_NNP Director_NNP &_CC General_NNP Counsel_NNP 
+
+Subject_NNP :_: Confidential_NNP Information_NNP and_CC Securities_NNPS Trading_NN 
+
+To_TO keep_VB pace_NN with_IN the_DT fluid_JJ and_CC fast-changing_JJ demands_NNS of_IN our_PRP$ equity_NN trading_NN activities_NNS ,_, Enron_NNP Wholesale_JJ Services_NNPS (_( "_'' EWS_NNP "_'' )_) has_VBZ recently_RB revised_VBN its_PRP$ official_JJ Policies_NNS and_CC Procedures_NNP Regarding_VBG Confidential_NNP Information_NNP and_CC Securities_NNPS Trading_NN (_( "_'' Policies_NNS and_CC Procedures_NNP "_'' )_) ._. 
+These_DT revisions_NNS reflect_VBP two_CD major_JJ developments_NNS :_: (_( 1_CD )_) our_PRP$ equity_NN trading_NN activities_NNS have_VBP been_VBN extended_VBN into_IN the_DT United_NNP Kingdom_NNP ,_, and_CC (_( 2_CD )_) in_IN an_DT effort_NN to_TO streamline_VB the_DT information_NN flow_NN process_NN ,_, the_DT "_'' Review_NNP Team_NNP "_'' will_MD play_VB a_DT more_RBR centralized_JJ role_NN ,_, so_IN that_IN the_DT role_NN of_IN the_DT "_'' Resource_NNP Group_NNP "_'' is_VBZ no_DT longer_RB necessary_JJ ._. 
+You_PRP are_VBP required_VBN to_TO become_VB familiar_JJ with_IN ,_, and_CC to_TO comply_VB with_IN ,_, the_DT Policies_NNS and_CC Procedures_NNP ._. 
+The_DT newly_RB revised_VBN Policies_NNS and_CC Procedures_NNP are_VBP available_JJ for_IN your_PRP$ review_NN on_IN LegalOnline_NNP ,_, the_DT new_JJ intranet_NN website_NN maintained_VBN by_IN the_DT Enron_NNP Wholesale_JJ Services_NNPS Legal_NNP Department_NNP ._. 
+Please_VB click_NN on_IN the_DT attached_JJ link_NN to_TO access_VB LegalOnline_NNP :_: 
+<_NN http://legalonline.corp.enron.com/chinesewall.asp>_NN 
+
+If_IN you_PRP have_VBP already_RB certified_VBN compliance_NN with_IN the_DT Policies_NNS and_CC Procedures_NNP during_IN the_DT 2001_CD calendar_NN year_NN ,_, you_PRP need_VBP not_RB re-certify_JJ at_IN this_DT time_NN ,_, although_IN you_PRP are_VBP still_RB required_VBN to_TO to_TO review_VB and_CC become_VB familiar_JJ with_IN the_DT revised_JJ Policies_NNS and_CC Procedures_NNP ._. 
+If_IN you_PRP have_VBP not_RB certified_VBN compliance_NN with_IN the_DT Policies_NNS and_CC Procedures_NNP during_IN the_DT 2001_CD calendar_NN year_NN ,_, then_RB you_PRP must_MD do_VB so_RB within_IN two_CD weeks_NNS of_IN your_PRP$ receipt_NN of_IN this_DT message_NN ._. 
+The_DT LegalOnline_NNP site_NN will_MD allow_VB you_PRP to_TO quickly_RB and_CC conveniently_RB certify_VB your_PRP$ compliance_NN on-line_JJ with_IN your_PRP$ SAP_NNP Personal_NNP ID_NNP number_NN ._. 
+If_IN you_PRP have_VBP any_DT questions_NNS concerning_VBG the_DT Policies_NNS or_CC Procedures_NNP ,_, please_VB call_NN Bob_NNP Bruce_NNP at_IN extension_NN 5_CD -_: 7780_CD or_CC Donna_NNP Lowry_NNP at_IN extension_NN 3_CD -_: 1939_CD ._. 
+

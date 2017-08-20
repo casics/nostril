@@ -1,0 +1,58 @@
+NYT20020731.0371_NN 2002-07-31_NN 23:38_NN A4917_NN &_CC x1_NN f_SYM ;_: taf-z_JJ u_NN f_SYM BC-IBM-CHIPS-1_NN STLD-WRITE_NNP 07_CD -_- 31_CD 0925_CD BC-IBM-CHIPS-1_NN STLD-WRITETHRU-_NNP (_( TRIM_NNP )_) -_- NYT_NNP IBM_NNP OPENS_NNP $2.5_NN BILLION_NNP CHIP_NNP PLANT_NNP IN_IN UPSTATE_NNP NEW_NNP YORK_NNP (_( SUBS_NNP 1st_CD graf_NN with_IN CORRECTION_NNP ._. No_DT other_JJ changes_NNS ._. )_) By_IN STEVE_NNP LOHR_NNP c.2002_NN New_NNP York_NNP Times_NNP News_NNP Service_NNP EAST_NNP FISHKILL_NNP ,_, N.Y._NN -_- -_- IBM_NNP opened_VBD a_DT sprawling_VBG and_CC sophisticated_JJ semiconductor_NN factory_NN here_RB on_IN Wednesday_NNP that_DT cost_NN more_JJR than_IN $2.5_NN billion_CD to_TO build_VB and_CC equip_VB ,_, the_DT largest_JJS single_JJ capital_NN investment_NN the_DT company_NN has_VBZ ever_RB made_VBN ._. 
+
+The_DT factory_NN ,_, which_WDT opens_VBZ as_IN the_DT computer_NN chip_NN business_NN is_VBZ in_IN a_DT slump_NN ,_, is_VBZ a_DT costly_JJ and_CC risky_JJ move_NN for_IN IBM_NNP ._. 
+But_CC it_PRP is_VBZ also_RB an_DT expression_NN of_IN confidence_NN by_IN the_DT company_NN that_IN it_PRP can_MD remain_VB a_DT technology_NN leader_NN in_IN the_DT highly_RB competitive_JJ global_JJ semiconductor_NN industry_NN ,_, and_CC a_DT commitment_NN that_IN the_DT best_JJS place_NN to_TO execute_VB that_DT strategy_NN is_VBZ in_IN upstate_JJ New_NNP York_NNP ._. 
+
+IBM_NNP is_VBZ an_DT exception_NN among_IN computer_NN makers_NNS in_IN that_IN it_PRP still_RB invests_VBZ heavily_RB in_IN research_NN to_TO advance_VB the_DT design_NN ,_, manufacture_VB and_CC materials_NNS used_VBN in_IN semiconductor_NN chips_NNS ._. 
+It_PRP is_VBZ spending_VBG more_JJR than_IN $500_NN million_CD a_DT year_NN on_IN semiconductor_NN research_NN and_CC development_NN ._. 
+
+The_DT factory_NN will_MD produce_VB a_DT wide_JJ range_NN of_IN specialized_JJ semiconductors_NNS used_VBN in_IN everything_NN from_IN the_DT largest_JJS mainframe_NN computers_NNS to_TO cell_NN phones_NNS and_CC video_NN -_- game_NN consoles_VBZ ._. 
+
+The_DT new_JJ plant_NN is_VBZ part_NN of_IN IBM_NNP 's_POS push_NN to_TO gain_VB a_DT strong_JJ lead_NN in_IN chip_NN -_- making_NN beyond_IN the_DT personal_JJ computer_NN business_NN ,_, where_WRB Intel_NNP and_CC East_NNP Asian_JJ chip_NN producers_NNS hold_VBP the_DT advantage_NN ._. 
+
+"_'' The_DT core_NN of_IN our_PRP$ strategy_NN is_VBZ to_TO lead_VB in_IN technology_NN and_CC attack_VB the_DT high_JJ -_- performance_NN segments_NNS of_IN the_DT market_NN ,_, "_'' said_VBD John_NNP Kelly_NNP ,_, senior_JJ vice_NN president_NN in_IN charge_NN of_IN IBM_NNP 's_POS technology_NN group_NN ._. 
+
+An_DT advantage_NN to_TO having_VBG the_DT semiconductor_NN fabricating_VBG factory_NN here_RB ,_, Kelly_NNP explained_VBD ,_, was_VBD that_IN it_PRP was_VBD very_RB close_RB to_TO its_PRP$ research_NN laboratories_NNS in_IN nearby_JJ Westchester_NNP County_NNP ,_, N.Y._NN To_TO stay_VB ahead_RB in_IN advanced_JJ chip_NN technology_NN ,_, he_PRP said_VBD ,_, moving_VBG innovations_NNS out_IN of_IN the_DT labs_NNS and_CC into_IN the_DT factory_NN as_RB fast_RB as_IN possible_JJ is_VBZ crucial_JJ ._. 
+
+"_'' What_WP we_PRP call_VBP the_DT lab_NN -_- to_TO -_- fab_NN time_NN should_MD be_VB as_IN close_JJ to_TO zero_CD as_IN possible_JJ ,_, "_'' Kelly_NNP said_VBD ._. 
+"_'' If_IN our_PRP$ strategy_NN were_VBD anything_NN but_CC to_TO be_VB on_IN the_DT leading_VBG edge_NN ,_, we_PRP 'd_MD have_VB put_VBN the_DT plant_NN in_IN Asia_NNP ._. "_'' 
+
+The_DT new_JJ factory_NN ,_, which_WDT will_MD begin_VB normal_JJ production_NN early_JJ next_JJ year_NN ,_, will_MD employ_VB about_IN 1,000_CD people_NNS ._. 
+
+(_( BEGIN_NNP OPTIONAL_NNP TRIM_NNP )_) In_IN remarks_NNS during_IN a_DT ribbon_NN -_- cutting_NN ceremony_NN here_RB on_IN Wednesday_NNP ,_, Gov._NN George_NNP E._NN Pataki_NNP said_VBD he_PRP expected_VBD the_DT facility_NN to_TO generate_VB thousands_NNS more_JJR jobs_NNS in_IN the_DT Hudson_NNP Valley_NNP area_NN for_IN contractors_NNS and_CC suppliers_NNS catering_NN to_TO the_DT factory_NN ._. 
+He_PRP praised_VBD IBM_NNP for_IN being_VBG "_'' a_DT critical_JJ partner_NN in_IN our_PRP$ economic_JJ development_NN efforts_NNS "_'' in_IN New_NNP York_NNP state_NN ._. 
+
+In_IN a_DT brief_JJ speech_NN ,_, Samuel_NNP J._NN Palmisano_NNP ,_, IBM_NNP 's_POS chief_JJ executive_NN ,_, emphasized_VBD that_IN it_PRP was_VBD important_JJ to_TO make_VB long_JJ -_- term_NN investments_NNS despite_IN the_DT current_JJ slump_NN in_IN the_DT technology_NN business_NN ._. 
+"_'' To_TO play_VB to_TO win_VB in_IN technology_NN ,_, you_PRP innovate_VB and_CC you_PRP lead_VBP ,_, "_'' he_PRP said_VBD ._. 
+
+But_CC manufacturing_VBG technology_NN products_NNS is_VBZ a_DT costly_JJ and_CC cyclical_JJ business_NN ._. 
+In_IN June_NNP ,_, IBM_NNP announced_VBD that_IN it_PRP was_VBD taking_VBG a_DT charge_NN of_IN more_JJR than_IN $2_NN billion_CD against_IN earnings_NNS ._. 
+The_DT largest_JJS single_JJ reasons_NNS for_IN the_DT charge_NN were_VBD the_DT cost_NN of_IN getting_VBG out_IN of_IN the_DT business_NN of_IN manufacturing_VBG hard_JJ disks_NNS for_IN storage_NN ,_, which_WDT it_PRP sold_VBD to_TO Hitachi_NNP ,_, and_CC closing_NN down_RP some_DT of_IN its_PRP$ older_JJR semiconductor_NN operations_NNS ._. 
+
+But_CC Kelly_NNP said_VBD the_DT demand_NN for_IN advanced_VBD chips_NNS ,_, like_IN those_DT produced_VBN at_IN IBM_NNP 's_POS facility_NN in_IN Burlington_NNP ,_, Vt_NNP ._. ,_, is_VBZ strong_JJ ._. 
+"_'' I_PRP need_VBP more_JJR capacity_NN in_IN that_DT end_NN of_IN the_DT market_NN ,_, "_'' he_PRP said_VBD ,_, "_'' and_CC this_DT is_VBZ factory_NN is_VBZ critical_JJ to_TO meeting_NN that_IN growing_VBG demand_NN ._. "_'' 
+
+If_IN IBM_NNP has_VBZ miscalculated_VBN the_DT demand_NN ,_, it_PRP will_MD suffer_VB badly_RB as_IN both_DT the_DT high_JJ operating_NN costs_NNS and_CC depreciation_NN on_IN the_DT huge_JJ capital_NN investment_NN for_IN the_DT East_NNP Fishkill_NNP factory_NN drag_NN down_RB earnings_NNS ._. 
+But_CC industry_NN analysts_NNS said_VBD the_DT plant_NN should_MD be_VB insulated_VBN from_IN a_DT falloff_NN in_IN one_CD or_CC a_DT few_JJ segments_NNS of_IN the_DT semiconductor_NN market_NN ._. 
+
+(_( END_NNP OPTIONAL_NNP TRIM_NNP )_) The_DT factory_NN is_VBZ highly_RB automated_VBN and_CC designed_VBN to_TO shift_VB flexibly_RB to_TO produce_VB many_JJ different_JJ kinds_NNS of_IN chips_NNS to_TO suit_VB demand_NN ._. 
+"_'' The_DT diversity_NN is_VBZ the_DT big_JJ difference_NN with_IN this_DT plant_NN ,_, "_'' said_VBD Richard_NNP Doherty_NNP ,_, president_NN of_IN Envisioneering_NNP ,_, a_DT research_NN firm_NN ._. 
+"_'' It_PRP gives_VBZ IBM_NNP the_DT capability_NN to_TO make_VB so_RB many_JJ different_JJ kinds_NNS of_IN custom_NN chips_NNS ,_, and_CC the_DT world_NN is_VBZ going_VBG to_TO custom_NN chips_NNS ._. "_'' 
+
+The_DT 140,000_CD -_- square_JJ -_- foot_NN plant_NN is_VBZ a_DT testament_NN to_TO advanced_VBD manufacturing_VBG technology_NN ._. 
+The_DT 300_CD -_- millimeter_NN silicon_NN wafers_NNS -_- -_- about_IN the_DT size_NN of_IN a_DT standard_JJ pizza_NN -_- -_- are_VBP shuttled_VBN around_IN the_DT facility_NN in_IN enclosed_VBN plastic_NN pods_NNS ,_, which_WDT ride_VBP on_IN overhead_NN tracks_NNS ._. 
+They_PRP drop_VBP down_RB from_IN wires_NNS automatically_RB into_IN machines_NNS ,_, sheathed_JJ in_IN stainless_JJ steel_NN and_CC glass_NN ,_, for_IN each_DT stage_NN of_IN processing_NN and_CC fabrication_NN ._. 
+
+Throughout_IN the_DT 500_CD processing_NN steps_NNS ,_, which_WDT typically_RB last_JJ 20_CD days_NNS ,_, the_DT wafers_NNS are_VBP not_RB touched_VBN by_IN human_JJ hands_NNS ._. 
+The_DT circuits_NNS etched_JJ into_IN the_DT chips_NNS are_VBP less_JJR than_IN one_CD thousandth_NN the_DT width_NN of_IN a_DT human_JJ hair_NN ._. 
+
+Human_JJ operators_NNS are_VBP there_EX to_TO monitor_VB the_DT systems_NNS ,_, catch_VB errors_NNS and_CC fine_JJ -_- tune_VB the_DT production_NN process_NN for_IN maximum_NN efficiency_NN ._. 
+Because_IN each_DT of_IN the_DT hundreds_NNS of_IN processing_NN machines_NNS is_VBZ self_JJ -_- enclosed_JJ ,_, and_CC essentially_RB airtight_NN ,_, the_DT uniforms_NNS operators_NNS wear_VBP are_VBP less_JJR constricting_VBG than_IN in_IN the_DT previous_JJ generation_NN of_IN chip_NN plants_NNS ,_, which_WDT looked_VBD like_IN space_NN suits_NNS ._. 
+
+The_DT operators_NNS at_IN the_DT East_NNP Fishkill_NNP factory_NN wear_NN light_JJ nylon_NN uniforms_NNS ,_, light_JJ blue_JJ shoe_NN coverings_NNS and_CC translucent_JJ hair_NN nets_NNS made_VBN of_IN paper_NN ._. 
+They_PRP look_VBP more_RBR like_IN workers_NNS in_IN a_DT bakery_NN ._. 
+
+Yes_UH ,_, said_VBD Richard_NNP Brilla_NNP ,_, director_NN of_IN the_DT new_JJ facility_NN ,_, "_'' but_CC the_DT donuts_NNS are_VBP a_DT lot_NN more_RBR costly_JJ here_RB ._. "_'' 
+Each_DT wafer_NN ,_, holding_VBG hundreds_NNS of_IN chips_NNS ,_, is_VBZ worth_JJ $6,000_NN to_TO $10,000_NN apiece_RB ,_, depending_VBG on_IN what_WP insulation_NN ,_, circuitry_NN and_CC materials_NNS are_VBP used_VBN ._. 
+
+NYT-07_NN -_- 31_CD -_- 02_CD 2338_CD EDT_NNP 

@@ -1,0 +1,22 @@
+Magna_NNP International_NNP Inc._NN 's_POS chief_JJ financial_JJ officer_NN ,_, James_NNP McAlpine_NNP ,_, resigned_VBD and_CC its_PRP$ chairman_NN ,_, Frank_NNP Stronach_NNP ,_, is_VBZ stepping_VBG in_IN to_TO help_VB turn_VB the_DT automotive_JJ -_- parts_NNS manufacturer_NN around_IN ,_, the_DT company_NN said_VBD ._. 
+
+Mr._NN Stronach_NNP will_MD direct_VB an_DT effort_NN to_TO reduce_VB overhead_NN and_CC curb_VB capital_NN spending_NN "_'' until_IN a_DT more_RBR satisfactory_JJ level_NN of_IN profit_NN is_VBZ achieved_VBN and_CC maintained_VBN ,_, "_'' Magna_NNP said_VBD ._. 
+
+Stephen_NNP Akerfeldt_NNP ,_, currently_RB vice_NN president_NN finance_NN ,_, will_MD succeed_VB Mr._NN McAlpine_NNP ._. 
+
+An_DT ambitious_JJ expansion_NN has_VBZ left_VBN Magna_NNP with_IN excess_JJ capacity_NN and_CC a_DT heavy_JJ debt_NN load_NN as_IN the_DT automotive_JJ industry_NN enters_VBZ a_DT downturn_NN ._. 
+The_DT company_NN has_VBZ reported_VBN declines_NNS in_IN operating_NN profit_NN in_IN each_DT of_IN the_DT past_JJ three_CD years_NNS ,_, despite_IN steady_JJ sales_NNS growth_NN ._. 
+
+Magna_NNP recently_RB cut_VBP its_PRP$ quarterly_JJ dividend_NN in_IN half_NN and_CC the_DT company_NN 's_POS Class_NNP A_NNP shares_NNS are_VBP wallowing_VBG far_RB below_IN their_PRP$ 52_CD -_- week_NN high_NN of_IN 16.125_CD Canadian_JJ dollars_NNS (_( US_NNP $_$ 13.73_CD )_) ._. 
+On_IN the_DT Toronto_NNP Stock_NNP Exchange_NNP yesterday_NN ,_, Magna_NNP shares_NNS closed_VBD up_RB 37.5_CD Canadian_JJ cents_NNS to_TO C_NNP $_$ 9.625_CD ._. 
+
+Mr._NN Stronach_NNP ,_, founder_NN and_CC controlling_VBG shareholder_NN of_IN Magna_NNP ,_, resigned_VBD as_IN chief_JJ executive_NN officer_NN last_JJ year_NN to_TO seek_VB ,_, unsuccessfully_RB ,_, a_DT seat_NN in_IN Canada_NNP 's_POS Parliament_NNP ._. 
+
+Analysts_NNS said_VBD Mr._NN Stronach_NNP wants_VBZ to_TO resume_VB a_DT more_RBR influential_JJ role_NN in_IN running_VBG the_DT company_NN ._. 
+They_PRP expect_VBP him_PRP to_TO cut_VB costs_NNS throughout_IN the_DT organization_NN ._. 
+
+The_DT company_NN said_VBD Mr._NN Stronach_NNP will_MD personally_RB direct_VB the_DT restructuring_NN ,_, assisted_VBN by_IN Manfred_NNP Gingl_NNP ,_, president_NN and_CC chief_JJ executive_NN ._. 
+Neither_DT they_PRP nor_CC Mr._NN McAlpine_NNP could_MD be_VB reached_VBN for_IN comment_NN ._. 
+
+Magna_NNP said_VBD Mr._NN McAlpine_NNP resigned_VBD to_TO pursue_VB a_DT consulting_NN career_NN ,_, with_IN Magna_NNP as_IN one_CD of_IN his_PRP$ clients_NNS ._. 
+

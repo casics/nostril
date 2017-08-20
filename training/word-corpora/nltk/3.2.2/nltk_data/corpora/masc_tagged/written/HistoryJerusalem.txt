@@ -1,0 +1,153 @@
+A_DT Brief_NNP History_NN 
+
+Jerusalem_NNP s_VBZ recorded_VBN history_NN begins_VBZ with_IN its_PRP$ mention_NN in_IN Egyptian_JJ court_NN records_NNS 4,000_CD years_NNS ago_RB ,_, but_CC there_EX had_VBD been_VBN human_JJ settlements_NNS here_RB for_IN centuries_NNS ,_, probably_RB millennia_NN ,_, before_IN that_DT ._. 
+At_IN the_DT beginning_NN of_IN the_DT second_JJ millennium_NN b.c._NN ,_, Jerusalem_NNP was_VBD a_DT Canaanite_NNP mountain_NN stronghold_NN on_IN a_DT secondary_JJ trade_NN route_NN ,_, far_RB less_RBR important_JJ than_IN biblical_JJ cities_NNS such_JJ as_IN Hazor_NNP ,_, Megiddo_NNP ,_, Beth_NNP Shean_NNP ,_, and_CC Shechem_NNP ._. 
+The_DT earliest_JJS name_NN associated_VBN with_IN the_DT city_NN ,_, Ur_NNP usalim_NN ,_, perhaps_RB meant_VBN “_" city_NN of_IN Shalim_NNP ”_" or_CC “_" founded_VBN by_IN Shalim_NNP ._. ”_" 
+Scholars_NNP speculate_VB that_IN Shalim_NNP might_MD have_VB been_VBN an_DT ancient_JJ Semitic_NNP deity_NN of_IN peace_NN ,_, for_IN the_DT name_NN resembles_VBZ the_DT modern_JJ Hebrew_NNP and_CC Arabic_NNP words_NNS for_IN “_" peace_NN ”_" :_: shalom_NN and_CC salaam_NN ,_, respectively_RB ._. 
+If_IN true_JJ ,_, this_DT is_VBZ an_DT ironic_JJ name_NN for_IN a_DT city_NN that_WDT would_MD become_VB one_CD of_IN the_DT most_RBS constantly_RB and_CC bitterly_RB embattled_JJ places_NNS on_IN the_DT face_NN of_IN the_DT earth_NN ._. 
+
+Biblical_NNP Jerusalem_NNP 
+
+In_IN the_DT Bible_NNP ,_, Genesis_NNP 14:18_NN –_NN 20_CD records_NNS that_IN Abraham_NNP visited_VBD the_DT city_NN of_IN “_" Salem_NNP ”_" in_IN approximately_RB 1800_CD b.c._NN and_CC was_VBD blessed_VBN by_IN the_DT city_NN s_VBZ ruler_NN ,_, Melchzedik_NNP ,_, who_WP offered_VBD him_PRP bread_NN and_CC wine_NN ._. 
+The_DT city_NN is_VBZ not_RB mentioned_VBN again_RB in_IN the_DT Bible_NNP until_IN the_DT time_NN of_IN the_DT great_JJ poet_NN warrior_NN ,_, King_NNP David_NNP ,_, who_WP captured_VBD the_DT city_NN from_IN the_DT Jebusites_NNP in_IN about_IN 1000_CD b.c._NN 
+The_DT Bible_NNP describes_VBZ how_WRB David_NNP s_VBZ soldiers_NNS conquered_JJ Jerusalem_NNP by_IN discovering_VBG a_DT water_NN tunnel_NN under_IN the_DT walls_NNS and_CC using_VBG it_PRP to_TO take_VB the_DT city_NN by_IN surprise_NN ._. 
+Warren_NNP s_VBZ Shaft_NNP ,_, part_NN of_IN a_DT Canaanite_NNP water_NN system_NN discovered_VBN by_IN 19_CD th-century_JJ archaeologists_NNS and_CC open_JJ to_TO visitors_NNS ,_, might_MD be_VB the_DT very_JJ tunnel_NN infiltrated_VBN by_IN David_NNP s_VBZ army_NN ._. 
+
+Perhaps_RB because_IN Jerusalem_NNP was_VBD in_IN neutral_JJ territory_NN not_RB allotted_JJ to_TO any_DT of_IN the_DT twelve_CD rival_JJ tribes_NNS of_IN Israel_NNP ,_, David_NNP made_VBD it_PRP the_DT capital_NN of_IN his_PRP$ newly_RB formed_VBN kingdom_NN and_CC brought_VBD the_DT most_RBS talented_JJ artisans_NNS ,_, dedicated_VBN priests_NNS ,_, magical_JJ poets_NNS and_CC musicians_NNS ,_, and_CC the_DT most_RBS formidable_JJ soldiers_NNS from_IN each_DT of_IN the_DT tribes_NNS to_TO live_VB in_IN his_PRP$ city_NN ._. 
+He_PRP also_RB brought_VBD the_DT Ark_NNP of_IN the_DT Covenant_NNP ,_, the_DT portable_JJ tabernacle_NN containing_VBG the_DT Tablets_NNP of_IN the_DT Law_NNP received_VBD on_IN Mount_NNP Sinai_NNP ,_, to_TO the_DT Spring_NNP of_IN Gihon_NNP ,_, just_RB outside_IN the_DT walls_NNS of_IN Jerusalem_NNP ._. 
+There_EX the_DT Ark_NNP rested_VBD until_IN it_PRP was_VBD placed_VBN in_IN the_DT Temple_NNP ,_, built_VBN in_IN approximately_RB 960_CD b.c._NN on_IN Mt._NN Moriah_NNP ,_, the_DT high_JJ point_NN at_IN the_DT northern_JJ end_NN of_IN the_DT city_NN ._. 
+
+The_DT Temple_NNP (_( today_NN known_VBN as_IN the_DT “_" First_CD ”_" Temple_NNP )_) was_VBD completed_VBN by_IN David_NNP s_VBZ son_NN and_CC successor_NN ,_, King_NNP Solomon_NNP ._. 
+According_VBG to_TO biblical_JJ tradition_NN ,_, although_IN David_NNP bought_VBD the_DT land_NN for_IN the_DT Temple_NNP and_CC carefully_RB assembled_VBN its_PRP$ building_NN materials_NNS ,_, he_PRP was_VBD deemed_VBN unworthy_NN of_IN constructing_VBG the_DT Temple_NNP because_IN he_PRP was_VBD a_DT man_NN of_IN war_NN with_IN blood_NN on_IN his_PRP$ hands_NNS ._. 
+At_IN the_DT Temple_NNP s_VBZ dedication_NN ,_, Solomon_NNP addressed_VBD his_PRP$ God_NNP :_: “_" ._. ._. ._. the_DT Heavens_NNP ,_, even_RB the_DT Heaven_NNP of_IN the_DT Heavens_NNP ,_, cannot_NN contain_VB Thee_NNP ;_: how_WRB much_RB less_JJR this_DT House_NNP that_IN I_PRP have_VBP built_VBN ?_. ”_" 
+
+The_DT site_NN of_IN the_DT Temple_NNP eventually_RB became_VBD identified_VBN as_IN Mt._NN 
+Moriah_NNP ,_, on_IN which_WDT it_PRP stood_VBD ,_, where_WRB Abraham_NNP was_VBD called_VBN to_TO sacrifice_VB his_PRP$ son_NN Isaac_NNP ._. 
+Along_IN with_IN this_DT splendid_JJ house_NN of_IN worship_NN ,_, Solomon_NNP built_VBD a_DT royal_JJ palace_NN ,_, mansions_NNS for_IN his_PRP$ wives_NNS ,_, temples_NNS for_IN the_DT foreign_JJ gods_NNS worshipped_JJ by_IN the_DT princesses_NNS he_PRP had_VBD married_VBN ,_, and_CC towers_NNS for_IN the_DT defense_NN of_IN the_DT capital_NN ._. 
+Under_IN the_DT wise_JJ reign_NN of_IN Solomon_NNP ,_, the_DT city_NN flourished_VBN as_IN the_DT capital_NN of_IN an_DT empire_NN that_WDT stretched_VBD from_IN Damascus_NNP to_TO the_DT Red_NNP Sea_NNP and_CC controlled_VBD the_DT trade_NN routes_NNS from_IN Egypt_NNP to_TO Phoenicia_NNP ._. 
+The_DT Temple_NNP and_CC royal_JJ palace_NN were_VBD adorned_VBN with_IN gold_NN and_CC ivory_NN from_IN Africa_NNP and_CC with_IN cedar_NN from_IN Lebanon_NNP ;_: the_DT beauties_NNS and_CC glories_NNS of_IN Jerusalem_NNP under_IN Solomon_NNP have_VBP captivated_JJ readers_NNS of_IN the_DT Bible_NNP for_IN almost_RB 3,000_CD years_NNS ._. 
+But_CC with_IN his_PRP$ death_NN the_DT empire_NN collapsed_VBD ,_, and_CC the_DT Israelite_NNP kingdom_NN was_VBD divided_VBN into_IN two_CD separate_JJ ,_, impoverished_VBN ,_, often_RB warring_VBG nations_NNS :_: Israel_NNP ,_, with_IN its_PRP$ capital_NN at_IN Shechem_NNP in_IN the_DT north_NN ,_, ruled_VBN by_IN a_DT series_NN of_IN northern_JJ dynasties_NNS ;_: and_CC the_DT smaller_JJR kingdom_NN of_IN Judah_NNP ,_, with_IN its_PRP$ capital_NN at_IN Jerusalem_NNP ,_, from_IN which_WDT the_DT Davidic_NNP dynasty_NN continued_VBD to_TO rule_VB ._. 
+The_DT Bible_NNP tells_VBZ us_PRP that_IN the_DT cruelty_NN and_CC impiety_NN of_IN the_DT rulers_NNS of_IN both_DT kingdoms_NNS aroused_VBD the_DT fury_NN of_IN the_DT great_JJ Prophets_NNP ._. 
+
+In_IN 701_CD b.c._NN the_DT Assyrian_NNP armies_NNS of_IN Sennacherib_NNP destroyed_VBD Israel_NNP and_CC moved_VBD southward_NN to_TO besiege_NN Jerusalem_NNP ._. 
+Thanks_NNS to_TO King_NNP Hezekiah_NNP s_VBZ hidden_VBN water_NN tunnel_NN ,_, the_DT city_NN narrowly_RB escaped_VBD destruction_NN ._. 
+The_DT end_NN of_IN David_NNP s_VBZ dynasty_NN came_VBD in_IN 587_CD b.c._NN ,_, when_WRB Nebuchadnezzar_NNP ,_, King_NNP of_IN Babylon_NNP ,_, invaded_VBD Judah_NNP to_TO lay_VB siege_NN to_TO Jerusalem_NNP ._. 
+When_WRB it_PRP fell_VBD ,_, the_DT Temple_NNP and_CC all_PDT the_DT buildings_NNS were_VBD burned_VBN ._. 
+The_DT people_NNS of_IN the_DT once-glorious_JJ city_NN were_VBD forced_VBN into_IN an_DT exile_NN known_VBN as_IN “_" the_DT Babylonian_NNP Captivity_NNP ._. ”_" 
+
+In_IN time_NN ,_, the_DT kingdom_NN of_IN Babylon_NNP was_VBD overthrown_VBN and_CC the_DT Israelites_NNP were_VBD permitted_VBN to_TO return_VB to_TO Jerusalem_NNP in_IN 539_CD b.c._NN 
+The_DT city_NN was_VBD now_RB under_IN the_DT more_JJR tolerant_NN rule_NN of_IN the_DT Persians_NNP ,_, but_CC rebuilding_VBG was_VBD slow_JJ work_NN ._. 
+The_DT Second_NNP Temple_NNP was_VBD finished_VBN in_IN 515_CD b.c._NN ,_, but_CC much_JJ of_IN the_DT city_NN still_RB lay_VB in_IN ruins_NNS ._. 
+
+Jerusalem_NNP submitted_VBD peaceably_RB to_TO the_DT rule_NN of_IN the_DT Greeks_NNPS in_IN 332_CD b.c._NN under_IN Alexander_NNP the_DT Great_NNP and_CC ,_, subsequently_RB ,_, to_TO his_PRP$ Hellenistic_NNP successors_NNS as_RB well_RB as_IN the_DT Egyptian_NNP Ptolomeys_NNP and_CC the_DT Syrian_JJ Seleucids_NNP ._. 
+When_WRB Seleucid_NNP rulers_NNS outlawed_VBD Judaism_NNP ,_, Jews_NNPS led_VBN by_IN Judah_NNP Maccabee_NNP and_CC his_PRP$ brothers_NNS staged_VBD a_DT revolution_NN in_IN 167_CD b.c._NN and_CC ,_, against_IN all_DT odds_NNS ,_, restored_VBD the_DT primacy_NN of_IN Jewish_JJ religious_JJ life_NN in_IN Jerusalem_NNP ._. 
+The_DT Macabbees_NNP cleansed_VBD the_DT Temple_NNP of_IN Hellenistic_NNP idols_NNS and_CC the_DT blood_NN of_IN pagan_NN sacrifices_VBZ ;_: the_DT eight-day_JJ celebration_NN of_IN Hanukkah_NNP (_( Feast_NNP of_IN Dedication_NN )_) commemorates_NNS their_PRP$ victory_NN ._. 
+The_DT Hasmonean_NNP dynasty_NN ,_, descendants_NNS of_IN the_DT Maccabee_NNP family_NN ,_, ruled_VBD an_DT independent_JJ Jewish_NNP Commonwealth_NNP that_WDT stretched_VBD from_IN the_DT Negev_NNP to_TO the_DT Galilee_NNP ._. 
+Jerusalem_NNP grew_VBD ,_, surrounded_VBN with_IN a_DT formidable_JJ wall_NN and_CC defended_VBN by_IN towers_NNS beside_IN the_DT Jaffa_NNP Gate_NNP ._. 
+The_DT Hasmoneans_NNP ruled_VBD until_IN Pompey_NNP s_VBZ Roman_NNP legions_NNS arrived_VBD in_IN 63_CD b.c._NN 
+
+Roman_NNP Jerusalem_NNP 
+
+After_IN the_DT initial_JJ years_NNS of_IN Roman_NNP administration_NN and_CC political_JJ infighting_NN ,_, Rome_NNP installed_VBD Herod_NNP (_( scion_NN of_IN a_DT family_NN from_IN Idumea_NNP ,_, a_DT Jewish_JJ kingdom_NN in_IN the_DT desert_NN )_) as_IN King_NNP of_IN Judea_NNP ._. 
+He_PRP reigned_VBD from_IN 37_CD to_TO 4_CD b.c._NN ,_, during_IN which_WDT time_NN he_PRP fortified_VBN the_DT Hasmonean_NNP wall_NN and_CC rebuilt_VBN the_DT defense_NN towers_NNS beside_IN Jaffa_NNP Gate_NNP ,_, the_DT foundation_NN of_IN which_WDT still_RB stand_VB ._. 
+Several_JJ palaces_NNS were_VBD built_VBN and_CC a_DT water_NN system_NN installed_VBN ._. 
+Herod_NNP also_RB completely_RB rebuilt_VBN the_DT Temple_NNP ,_, making_VBG it_PRP one_CD of_IN the_DT most_RBS important_JJ religious_JJ centers_NNS in_IN the_DT Roman_NNP Empire_NNP ._. 
+The_DT courtyard_NN around_IN the_DT Temple_NNP was_VBD expanded_VBN to_TO accommodate_VB hundreds_NNS of_IN thousands_NNS of_IN pilgrims_NNS ,_, and_CC the_DT Temple_NNP Mount_NNP was_VBD shored_JJ up_RB by_IN retaining_VBG walls_NNS made_VBN with_IN great_JJ stone_NN blocks_NNS ._. 
+One_CD of_IN these_DT walls_NNS ,_, the_DT Western_NNP Wall_NNP ,_, is_VBZ today_NN a_DT major_JJ reminder_NN of_IN Jerusalem_NNP s_VBZ greatness_NN under_IN Herod_NNP ._. 
+A_DT massive_JJ fortress_NNS was_VBD built_VBN overlooking_VBG the_DT Temple_NNP Mount_NNP ,_, which_WDT Herod_NNP named_VBD “_" Antonia_NNP ”_" in_IN honor_NN of_IN his_PRP$ Roman_NNP friend_NN and_CC benefactor_NN ,_, Mark_NNP Antony_NNP ._. 
+
+For_IN all_DT his_PRP$ accomplishments_NNS ,_, Herod_NNP was_VBD nevertheless_RB hated_VBN by_IN his_PRP$ subjects_NNS ;_: he_PRP taxed_VBD ,_, he_PRP tortured_JJ ,_, and_CC he_PRP ordered_VBD the_DT massacre_NN of_IN male_JJ Jewish_JJ infants_NNS in_IN an_DT attempt_NN to_TO do_VB away_RB with_IN the_DT heralded_VBN Messiah_NNP ._. 
+When_WRB Jesus_NNP was_VBD born_VBN in_IN about_IN 4_CD b.c._NN ,_, Joseph_NNP and_CC Mary_NNP escaped_VBD Herod_NNP s_VBZ paranoia_NN by_IN fleeing_VBG into_IN Egypt_NNP with_IN the_DT new-born_JJ infant_NN ._. 
+They_PRP returned_VBD to_TO live_VB in_IN the_DT Galilee_NNP village_NN of_IN Nazareth_NNP ,_, making_VBG pilgrimages_NNS to_TO Jerusalem_NNP ._. 
+
+According_VBG to_TO biblical_JJ accounts_NNS ,_, Jesus_NNP spent_VBD his_PRP$ life_NN ministering_VBG in_IN the_DT Galilee_NNP Valley_NNP ._. 
+In_IN about_IN a.d._NN 30_CD he_PRP and_CC his_PRP$ followers_NNS went_VBD for_IN Passover_NNP to_TO Jerusalem_NNP ,_, which_WDT was_VBD in_IN unrest_NN at_IN this_DT time_NN ,_, dissatisfied_VBN with_IN Roman_NNP domination_NN ._. 
+Jesus_NNP s_VBZ entry_NN into_IN the_DT Temple_NNP caused_VBD a_DT commotion_NN ;_: after_IN the_DT Passover_NNP dinner_NN he_PRP was_VBD arrested_VBN by_IN the_DT temple_NN priests_NNS ,_, who_WP were_VBD under_IN direct_JJ Roman_NNP rule_NN ._. 
+Jesus_NNP was_VBD put_VBN on_IN trial_NN quickly_RB and_CC condemned_VBN to_TO crucifixion_NN ,_, a_DT Roman_NNP form_NN of_IN execution_NN for_IN political_JJ and_CC religious_JJ dissidents_NNS as_RB well_RB as_IN for_IN common_JJ criminals_NNS ._. 
+In_IN a_DT province_NN rife_JJ with_IN rebellion_NN and_CC retaliation_NN ,_, the_DT execution_NN in_IN Jerusalem_NNP of_IN yet_RB another_DT religious_JJ leader_NN from_IN the_DT Galilee_NNP did_VBD not_RB by_IN itself_PRP have_VBP an_DT immediate_JJ effect_NN on_IN history_NN ._. 
+
+After_IN Jesus_NNP s_VBZ crucifixion_NN ,_, harsh_JJ Roman_NNP rule_NN continued_VBD until_IN a.d._NN 66_CD ,_, when_WRB the_DT Jews_NNPS rebelled_VBD ._. 
+For_IN four_CD years_NNS Jewish_JJ zealots_NNS fought_VBD against_IN the_DT might_MD of_IN Rome_NNP ._. 
+At_IN the_DT end_NN ,_, the_DT Roman_NNP general_JJ Titus_NNP laid_VBD siege_NN to_TO Jerusalem_NNP in_IN a.d._NN 70_CD ,_, finally_RB attacking_VBG its_PRP$ starved_VBN and_CC weakened_VBN defenders_NNS ._. 
+Those_DT who_WP didn_NN t_NN escape_NN were_VBD executed_VBN or_CC sold_VBD into_IN slavery_NN ._. 
+The_DT Holy_NNP City_NNP and_CC the_DT Temple_NNP were_VBD destroyed_VBN ._. 
+The_DT last_NN of_IN the_DT zealots_NNS held_VBN out_IN for_IN another_DT three_CD years_NNS at_IN Masada_NNP (_( see_VB page_NN 76_CD )_) ._. 
+Half_PDT a_DT million_CD civilians_NNS died_VBD in_IN the_DT Galilee_NNP and_CC Judea_NNP as_IN a_DT result_NN of_IN this_DT first_JJ revolt_NN against_IN Rome_NNP ,_, a_DT number_NN unequaled_JJ in_IN ancient_JJ warfare_NN ._. 
+
+Christian_NNP and_CC Islamic_NNP Jerusalem_NNP 
+
+For_IN 60_CD years_NNS Jerusalem_NNP lay_VBD in_IN ruins_NNS ,_, until_IN the_DT Roman_NNP Emperor_NNP Hadrian_NNP ordered_VBD the_DT city_NN rebuilt_VBN as_IN a_DT Roman_NNP town_NN dedicated_VBN to_TO Jupiter_NNP ._. 
+In_IN outrage_NN ,_, the_DT Jews_NNPS began_VBD a_DT second_JJ revolt_NN against_IN Rome_NNP ,_, led_VBN by_IN Simon_NNP bar_NN Kochba_NNP ._. 
+The_DT ruins_NNS of_IN Jerusalem_NNP were_VBD briefly_NN liberated_VBD ,_, but_CC ,_, in_IN the_DT end_NN ,_, Jewish_JJ resistance_NN to_TO Rome_NNP was_VBD defeated_VBN with_IN great_JJ loss_NN of_IN life_NN ._. 
+The_DT planned_VBN new_JJ Roman_NNP city_NN ,_, Aelia_NNP Capitolina_NNP ,_, was_VBD built_VBN over_IN the_DT ruins_NNS of_IN Herodian_NNP Jerusalem_NNP ,_, and_CC Jews_NNPS were_VBD barred_VBN from_IN residing_VBG there_RB for_IN all_DT time_NN ._. 
+Jerusalem_NNP s_VBZ physical_JJ existence_NN as_IN a_DT spiritual_NN city_NN seemed_VBD finished_VBN ,_, but_CC its_PRP$ spiritual_NN power_NN for_IN Jews_NNPS ,_, and_CC for_IN the_DT struggling_VBG new_JJ Christian_NNP religion_NN ,_, remained_VBD ._. 
+For_IN the_DT next_JJ two_CD centuries_NNS Aelia_NNP Capitolina_NNP enjoyed_VBD an_DT innocuous_JJ history_NN ._. 
+
+But_CC the_DT Roman_NNP Empire_NNP became_VBD Christian_NNP in_IN the_DT fourth_JJ century_NN ,_, and_CC Jerusalem_NNP became_VBD a_DT center_NN of_IN religion_NN once_RB again_RB ._. 
+Queen_NNP Helena_NNP ,_, a_DT devout_JJ Christian_NNP and_CC the_DT mother_NN of_IN Emperor_NNP Constantine_NNP the_DT Great_NNP ,_, made_VBD a_DT pilgrimage_NN to_TO the_DT Holy_NNP Land_NNP in_IN 326_CD to_TO identify_VB the_DT sites_NNS associated_VBN with_IN Jesus_NNP s_VBZ life_NN ._. 
+She_PRP found_VBD that_IN the_DT city_NN s_VBZ most_RBS beautiful_JJ Roman_NNP temple_NN ,_, dedicated_VBN to_TO the_DT goddess_NN Aphrodite_NNP ,_, stood_VBD on_IN the_DT site_NN of_IN the_DT crucifixion_NN ._. 
+The_DT temple_NN was_VBD demolished_VBN and_CC a_DT vast_JJ ,_, Classical-style_NNP church_NN was_VBD built_VBN around_IN Golgotha_NNP (_( the_DT hill_NN where_WRB Jesus_NNP s_VBZ crucifixion_NN was_VBD believed_VBN to_TO have_VB taken_VBN place_NN )_) ._. 
+Throughout_IN Jerusalem_NNP ,_, other_JJ spots_NNS important_JJ to_TO Jesus_NNP s_VBZ life_NN were_VBD commemorated_VBD with_IN religious_JJ structures_NNS ._. 
+Pilgrims_NNP came_VBD from_IN all_DT over_IN the_DT Roman_NNP (_( and_CC ,_, later_RB ,_, Byzantine_JJ )_) Empire_NNP during_IN the_DT following_VBG centuries_NNS ,_, but_CC the_DT prosperity_NN they_PRP brought_VBD lasted_VBD only_RB until_IN 614_CD ,_, when_WRB Persian_NNP armies_NNS overtook_NN Judea_NNP and_CC reduced_VBN Jerusalem_NNP to_TO rubble_NN again_RB ._. 
+In_IN 629_CD ,_, Jerusalem_NNP was_VBD recaptured_JJ by_IN the_DT Byzantines_NNP ._. 
+
+Still_RB reeling_VBG from_IN the_DT effects_NNS of_IN the_DT Persian_NNP devastation_NN ,_, Jerusalem_NNP was_VBD conquered_JJ in_IN 638_CD by_IN the_DT forces_NNS of_IN Islam_NNP ._. 
+The_DT Temple_NNP Mount_NNP was_VBD identified_VBN in_IN Islamic_NNP tradition_NN as_IN “_" the_DT farthest_JJS spot_NN ”_" (_( in_IN Arabic_NNP ,_, el-aksa_JJ )_) ,_, the_DT site_NN to_TO which_WDT the_DT Prophet_NNP Muhammad_NNP was_VBD transported_VBN in_IN one_CD night_NN from_IN Mecca_NNP on_IN a_DT winged_JJ horse_NN ,_, as_IN described_VBN in_IN the_DT 17_CD th_NN chapter_NN of_IN the_DT Koran_NNP ._. 
+From_IN here_RB the_DT Prophet_NNP ascended_JJ to_TO the_DT heavens_NNS and_CC was_VBD permitted_VBN to_TO glimpse_NN paradise_NN ._. 
+The_DT rock_NN on_IN the_DT Temple_NNP Mount_NNP from_IN which_WDT he_PRP ascended_JJ ,_, at_IN or_CC close_RB to_TO the_DT site_NN of_IN the_DT ruined_VBN Temple_NNP ,_, was_VBD commemorated_VBD by_IN the_DT construction_NN of_IN the_DT Dome_NNP of_IN the_DT Rock_NNP in_IN 691_CD ._. 
+The_DT Dome_NNP of_IN the_DT Rock_NNP remains_VBZ Jerusalem_NNP s_VBZ most_RBS striking_JJ monument_NN ;_: it_PRP is_VBZ counted_VBN among_IN the_DT most_RBS beautiful_JJ buildings_NNS ever_RB created_VBN ._. 
+By_IN about_IN 715_CD ,_, the_DT El-_NNP Aksa_NNP Mosque_NNP ,_, third_JJ holiest_JJS place_NN of_IN prayer_NN in_IN Islam_NNP (_( after_IN Mecca_NNP and_CC Medina_NNP )_) ,_, had_VBD been_VBN built_VBN on_IN the_DT southern_JJ side_NN of_IN the_DT Temple_NNP Mount_NNP ._. 
+Jerusalem_NNP continued_VBD under_IN Islamic_NNP rule_NN for_IN the_DT next_JJ four_CD and_CC a_DT half_NN centuries_NNS ._. 
+In_IN 1099_CD ,_, under_IN their_PRP$ leaders_NNS Godfrey_NNP de_IN Bouillon_NNP and_CC Tancred_NNP ,_, the_DT Crusaders_NNPS captured_VBD the_DT Holy_NNP City_NNP for_IN Christendom_NNP by_IN slaughtering_VBG both_DT Muslims_NNPS and_CC Jews_NNPS ._. 
+
+Crusaders_NNPS ,_, Mamelukes_NNP ,_, and_CC Turks_NNPS 
+
+The_DT Crusaders_NNPS established_VBD a_DT feudal_JJ Christian_NNP state_NN with_IN Godfrey_NNP at_IN its_PRP$ head_NN ._. 
+They_PRP built_VBD many_JJ impressive_JJ churches_NNS during_IN the_DT term_NN of_IN the_DT first_JJ Latin_NNP Kingdom_NNP of_IN Jerusalem_NNP ,_, but_CC in_IN 1187_CD they_PRP were_VBD driven_VBN out_IN by_IN Muslim_NNP forces_NNS under_IN the_DT great_JJ warrior_NN Saladin_NNP ._. 
+During_IN the_DT Sixth_NNP Crusade_NN (_( 1228_CD –_NN 1229_CD )_) ,_, the_DT Holy_NNP Roman_NNP Emperor_NNP Frederick_NNP II_NNP managed_VBD to_TO secure_VB Jerusalem_NNP for_IN the_DT Christians_NNS by_IN negotiation_NN ._. 
+
+The_DT Christians_NNS ,_, however_RB ,_, could_MD not_RB hold_VB the_DT city_NN ._. 
+After_IN they_PRP lost_VBD Jerusalem_NNP ,_, a_DT Mongol_NNP invasion_NN swept_VBD through_IN ,_, and_CC in_IN 1244_CD the_DT Mameluke_NNP dynasty_NN of_IN Egypt_NNP took_VBD control_NN ,_, ruling_NN Jerusalem_NNP for_IN the_DT next_JJ 250_CD years_NNS ._. 
+The_DT city_NN struggled_VBD to_TO rebuild_VB from_IN Crusader_NNP wars_NNS and_CC invasions_NNS ._. 
+Much_JJ of_IN the_DT best_JJS Islamic_NNP architecture_NN in_IN the_DT city_NN was_VBD constructed_VBN in_IN the_DT Mameluke_NNP era_NN ,_, but_CC the_DT past_JJ thousand_CD years_NNS had_VBD taken_VBN their_PRP$ toll_NN :_: Jerusalem_NNP was_VBD unable_JJ to_TO regain_VB the_DT prosperity_NN it_PRP had_VBD enjoyed_VBN in_IN earlier_JJR times_NNS ._. 
+
+In_IN the_DT early_JJ 16_CD th_NN century_NN ,_, the_DT Ottoman_NNP Turkish_JJ Empire_NNP was_VBD advancing_VBG through_IN the_DT Middle_NNP East_NNP ._. 
+Jerusalem_NNP fell_VBD to_TO the_DT Ottomans_NNP in_IN 1517_CD ,_, remaining_VBG under_IN their_PRP$ control_NN for_IN 400_CD years_NNS ._. 
+Suleiman_NNP the_DT Magnificent_NNP rebuilt_VBN the_DT walls_NNS and_CC gates_NNS in_IN the_DT form_NN they_PRP retain_VBP to_TO this_DT day_NN ._. 
+Fountains_NNP ,_, inns_NNS ,_, religious_JJ schools_NNS ,_, and_CC barracks_NN were_VBD constructed_VBN ._. 
+But_CC when_WRB Suleiman_NNP died_VBD ,_, his_PRP$ empire_NN ,_, including_VBG Jerusalem_NNP ,_, began_VBD a_DT long_JJ period_NN of_IN decline_NN ._. 
+The_DT Holy_NNP City_NNP remained_VBD a_DT backwater_NN until_IN the_DT 19_CD th_NN century_NN ,_, when_WRB renewed_VBN interest_NN among_IN Christian_NNP pilgrims_NNS made_VBD it_PRP the_DT destination_NN of_IN thousands_NNS of_IN travelers_NNS each_DT year_NN ._. 
+
+19_CD th-_NN Century_NNP Aspirations_NNP 
+
+At_IN the_DT same_JJ time_NN ,_, many_JJ Jews_NNPS sought_VBD religious_JJ freedom_NN and_CC fulfillment_NN by_IN moving_VBG to_TO Palestine_NNP (_( as_IN the_DT Holy_NNP Land_NNP was_VBD traditionally_RB called_VBN )_) and_CC especially_RB to_TO Jerusalem_NNP ._. 
+In_IN the_DT 1890s_NN ,_, Theodor_NNP Herzl_NNP (_( 1860_CD –_NN 1904_CD )_) worked_VBD to_TO organize_VB a_DT movement_NN ,_, Zionism_NNP ,_, to_TO create_VB a_DT Jewish_JJ state_NN ._. 
+Chaim_NNP Weizmann_NNP (_( 1874_CD –_NN 1952_CD )_) ,_, a_DT scientist_NN born_VBN in_IN Russia_NNP but_CC later_RB a_DT British_JJ subject_NN ,_, did_VBD much_JJ to_TO put_VB Herzl_NNP s_VBZ hopes_VBZ into_IN practice_NN ._. 
+Weizmann_NNP was_VBD an_DT important_JJ figure_NN in_IN the_DT negotiations_NNS with_IN the_DT British_JJ government_NN that_WDT led_VBD to_TO the_DT Balfour_NNP Declaration_NNP of_IN 1917_CD ,_, supporting_VBG the_DT idea_NN of_IN a_DT Jewish_JJ “_" national_JJ home_NN ”_" in_IN Palestine_NNP that_IN also_RB respected_VBD the_DT rights_NNS of_IN existing_VBG non-_NN Jewish_JJ people_NNS already_RB living_VBG there_RB ._. 
+The_DT problem_NN was_VBD that_IN British_JJ strategists_NNS ,_, who_WP were_VBD fighting_VBG the_DT Ottoman_NNP Turks_NNPS in_IN 1917_CD ,_, had_VBD secretly_RB promised_VBN the_DT lands_NNS to_TO their_PRP$ World_NNP War_NNP I_PRP Arab_JJ allies_NNS ._. 
+
+In_IN 1922_CD the_DT League_NNP of_IN Nations_NNPS granted_VBD the_DT British_JJ a_DT mandate_NN to_TO administer_VB Palestine_NNP ._. 
+Jerusalem_NNP flourished_VBD during_IN the_DT early_JJ years_NNS of_IN the_DT Mandate_NNP ._. 
+Modern_NNP neighborhoods_NNS ,_, hospitals_NNS ,_, schools_NNS ,_, and_CC the_DT Hebrew_NNP University_NNP were_VBD built_VBN in_IN West_NNP Jerusalem_NNP ,_, the_DT new_JJ Jewish_JJ enclave_NN ._. 
+But_CC Arab_JJ opposition_NN to_TO new_JJ Jewish_JJ immigration_NN and_CC construction_NN in_IN Palestine_NNP led_VBD to_TO increasing_VBG strife_NN ;_: by_IN 1946_CD ,_, Jerusalem_NNP was_VBD an_DT armed_VBN camp_NN ._. 
+In_IN 1947_CD the_DT United_NNP Nations_NNPS voted_VBD for_IN the_DT partition_NN of_IN Palestine_NNP into_IN two_CD states_NNS ,_, one_CD Jewish_JJ and_CC one_CD Arab_JJ ,_, with_IN Jerusalem_NNP as_IN an_DT international_JJ city_NN that_WDT belonged_VBD to_TO neither_DT ._. 
+But_CC lacking_VBG the_DT means_NNS to_TO enforce_VB its_PRP$ decision_NN ,_, the_DT United_NNP Nations_NNPS was_VBD powerless_JJ to_TO halt_VB the_DT fighting_VBG that_WDT erupted_VBD as_IN the_DT British_JJ withdrew_VBD their_PRP$ troops_NNS in_IN 1948_CD ._. 
+
+Modern_NNP Israel_NNP 
+
+The_DT State_NNP of_IN Israel_NNP was_VBD declared_VBN during_IN this_DT difficult_JJ time_NN ._. 
+In_IN response_NN ,_, member_NN states_NNS of_IN the_DT Arab_NNP League_NNP sent_VBD troops_NNS to_TO help_VB the_DT Palestinian_NNP Arabs_NNPS ._. 
+West_NNP Jerusalem_NNP ,_, separated_JJ from_IN the_DT rest_NN of_IN the_DT new_JJ Jewish_JJ nation_NN ,_, held_VBN out_IN under_IN siege_NN for_IN several_JJ months_NNS until_IN Israeli_JJ forces_NNS secured_VBD a_DT land_NN corridor_NN connecting_VBG the_DT city_NN to_TO the_DT coastal_JJ areas_NNS ._. 
+Jews_NNS were_VBD evacuated_VBN from_IN the_DT Old_NNP City_NNP s_VBZ Jewish_JJ Quarter_NN ,_, and_CC thousands_NNS of_IN Arab_JJ families_NNS fled_VBD their_PRP$ homes_NNS in_IN West_NNP Jerusalem_NNP ._. 
+As_IN a_DT result_NN of_IN armistice_NN agreements_NNS in_IN 1949_CD ,_, Jerusalem_NNP was_VBD divided_VBN :_: West_NNP Jerusalem_NNP was_VBD to_TO be_VB under_IN Israeli_JJ control_NN ,_, and_CC East_NNP Jerusalem_NNP (_( including_VBG the_DT Old_NNP City_NNP ,_, with_IN its_PRP$ Jewish_JJ ,_, Muslim_NNP ,_, Christian_NNP ,_, and_CC Armenian_JJ quarters_NNS )_) came_VBD under_IN Jordanian_NNP authority_NN ._. 
+Free_JJ access_NN to_TO holy_JJ sites_NNS for_IN members_NNS of_IN all_DT religions_NNS was_VBD guaranteed_VBN by_IN the_DT armistice_NN agreements_NNS ._. 
+However_RB ,_, with_IN the_DT city_NN partitioned_JJ by_IN fortifications_NNS and_CC barbed_VBN wire_NN ,_, no_DT Israeli_JJ or_CC Jewish_JJ pilgrims_NNS were_VBD allowed_VBN to_TO visit_VB the_DT Western_NNP Wall_NNP or_CC other_JJ Jewish_JJ sites_NNS in_IN East_NNP Jerusalem_NNP ._. 
+
+For_IN the_DT next_JJ 19_CD years_NNS ,_, Jerusalem_NNP was_VBD two_CD cities_NNS ._. 
+Political_JJ and_CC religious_JJ boundaries_NNS were_VBD aggravated_VBN by_IN occasional_JJ incidents_NNS of_IN terrorism_NN or_CC sniping_NN until_IN the_DT Six_CD Day_NNP War_NNP in_IN June_NNP 1967_CD ._. 
+Within_IN three_CD days_NNS the_DT city_NN was_VBD completely_RB in_IN Israeli_JJ hands_NNS ,_, and_CC in_IN two_CD weeks_NNS it_PRP was_VBD physically_RB and_CC administratively_RB reunited_VBN ._. 
+Jerusalem_NNP s_VBZ mayor_NN ,_, Teddy_NNP Kollek_NNP ,_, spent_VBD the_DT next_JJ 25_CD years_NNS orchestrating_VBG a_DT vast_JJ program_NN of_IN development_NN ,_, adding_VBG new_JJ cultural_JJ institutions_NNS and_CC parks_NNS and_CC instituting_VBG neighborhood_NN restoration_NN projects_NNS while_IN tirelessly_RB me_PRP diating_VBG the_DT concerns_NNS of_IN Jerusalem_NNP s_VBZ many_JJ communities_NNS ._. 
+
+Today_NN ,_, as_IN always_RB ,_, Jerusalem_NNP is_VBZ a_DT city_NN of_IN controversies_NNS :_: religious_JJ Jews_NNPS in_IN conflict_NN with_IN secular_NN Jews_NNPS ;_: Palestinians_NNPS calling_VBG for_IN independence_NN ;_: many_JJ residents_NNS protesting_VBG a_DT wave_NN of_IN high-rise_JJ development_NN that_IN many_JJ claim_NN will_MD turn_VB the_DT Holy_NNP City_NNP into_IN a_DT holy_JJ megalopolis_NNS ._. 
+But_CC the_DT ideas_NNS and_CC mystique_NN that_WDT have_VBP always_RB made_VBN this_DT an_DT extraordinarily_RB special_JJ place_NN rise_NN above_IN the_DT ebbing_VBG and_CC flowing_VBG concerns_NNS of_IN present-day_JJ Jerusalem_NNP as_IN it_PRP continues_VBZ to_TO tug_NN at_IN the_DT world_NN s_VBZ attention_NN into_IN the_DT new_JJ millennium_NN ._. 
+

@@ -1,0 +1,23 @@
+DD_NNP Acquisition_NNP Corp_NNP ._. 
+,_, a_DT partnership_NN of_IN Unicorp_NNP Canada_NNP Corp_NNP ._. 
+'s_POS Kingsbridge_NNP Capital_NNP Group_NNP and_CC Cara_NNP Operations_NNP Ltd._NN 
+,_, extended_VBN to_TO Nov_NNP ._. 
+20_CD its_PRP$ $_$ 45_CD -_- a_DT -_- share_NN offer_NN for_IN all_DT Dunkin_NNP '_POS Donuts_NNP Inc._NN 
+shares_NNS outstanding_JJ ._. 
+
+The_DT offer_NN ,_, which_WDT was_VBD due_JJ to_TO expire_VB yesterday_NN ,_, is_VBZ conditional_JJ on_IN 50.1_CD 
+%_NN of_IN Dunkin_NNP '_POS common_JJ shares_NNS ,_, on_IN a_DT fully_RB diluted_VBN basis_NN ,_, being_VBG tendered_VBN and_CC on_IN the_DT withdrawal_NN of_IN the_DT company_NN 's_POS poison_NN pill_NN rights_NNS plan_NN ._. 
+
+DD_NNP Acquisition_NNP has_VBZ launched_VBN a_DT suit_NN in_IN a_DT Delaware_NNP court_NN seeking_VBG the_DT withdrawal_NN of_IN Dunkin_NNP 's_POS poison_NN pill_NN rights_NNS and_CC employee_NN stock_NN ownership_NN plans_NNS ,_, which_WDT it_PRP claims_VBZ were_VBD put_VBN in_IN place_NN to_TO deter_VB bidders_NNS ._. 
+
+DD_NNP Acquisition_NNP said_VBD 2.2_CD 
+million_CD shares_NNS ,_, or_CC about_IN 38.5_CD 
+%_NN of_IN the_DT shares_NNS outstanding_JJ ,_, have_VBP been_VBN tendered_VBN under_IN its_PRP$ offer_NN ._. 
+The_DT partners_NNS said_VBD they_PRP already_RB hold_VBP 15_CD %_NN of_IN all_DT shares_NNS outstanding_JJ ._. 
+
+Dunkin_NNP '_POS has_VBZ set_VBN Nov_NNP ._. 
+10_CD as_IN the_DT deadline_NN for_IN the_DT receipt_NN of_IN any_DT competing_VBG bids_NNS ._. 
+DD_NNP Acquisition_NNP said_VBD the_DT extension_NN is_VBZ to_TO allow_VB this_DT process_NN to_TO be_VB completed_VBN ._. 
+Dunkin_NNP '_POS is_VBZ based_VBN in_IN Randolph_NNP ,_, Mass_NNP ._. 
+Cara_NNP ,_, a_DT food_NN services_NNS chain_VBP operator_NN and_CC Unicorp_NNP ,_, a_DT holding_VBG company_NN ,_, are_VBP based_VBN in_IN Toronto_NNP ._. 
+

@@ -1,0 +1,32 @@
+June_NNP 21_CD ,_, 1999_CD 
+
+Name_NN Address_NNP City_NNP ,_, ST_NNP Zip_NNP 
+
+Dear_RB ,_, 
+
+Do_VBP you_PRP remember_VBP the_DT combination_NN of_IN elation_NN and_CC apprehension_NN you_PRP felt_VBD when_WRB you_PRP first_RB left_JJ home_NN ?_. 
+The_DT young_JJ adults_NNS who_WP leave_VBP Pleasant_NNP Run_NNP have_VBP those_DT same_JJ feelings_NNS ._. 
+Very_RB few_JJ have_VBP family_NN support_NN to_TO get_VB them_PRP started_VBD ._. 
+Many_JJ need_VBP furniture_NN ,_, linens_NNS and_CC other_JJ basic_JJ necessities_NNS to_TO begin_VB lives_NNS on_IN their_PRP$ own_JJ ._. 
+
+To_TO help_VB them_PRP establish_VB themselves_PRP in_IN the_DT community_NN ,_, the_DT Pleasant_NNP Run_NNP Emancipation_NNP fund_NN was_VBD begun_VBN in_IN 1993_CD by_IN private_JJ donors_NNS who_WP wanted_VBD to_TO provide_VB a_DT measure_NN of_IN financial_JJ support_NN for_IN those_DT leaving_VBG our_PRP$ programs_NNS ._. 
+
+Individuals_NNS who_WP are_VBP being_VBG emancipated_JJ are_VBP eligible_JJ to_TO receive_VB up_RP to_TO $500_NN from_IN the_DT Fund_NNP if_IN they_PRP formally_RB apply_VBP and_CC meet_VB four_CD requirements_NNS :_: 
+1_CD ._. Release_NNP by_IN the_DT courts_NNS 
+2_CD ._. Successful_JJ completion_NN of_IN all_DT life_NN skills_NNS tests_NNS 
+3_CD ._. Positive_JJ termination_NN of_IN his_PRP$ or_CC her_PRP$ Pleasant_NNP Run_NNP program_NN 
+4_CD ._. Possession_NNP of_IN a_DT high_JJ school_NN diploma_NN or_CC GED_NNP 
+
+Proof_NNP of_IN meeting_VBG these_DT ,_, two_CD staff_NN reference_NN letters_NNS and_CC an_DT essay_NN stating_VBG why_WRB they_PRP should_MD receive_VB a_DT grant_NN and_CC how_WRB it_PRP will_MD be_VB used_VBN are_VBP all_DT reviewed_VBN by_IN a_DT Pleasant_NNP Run_NNP panel_NN ,_, which_WDT determines_VBZ if_IN the_DT applicant_NN merits_NNS the_DT funds_NNS ._. 
+
+Such_JJ fund_NN are_VBP often_RB used_VBN for_IN college_NN tuition_NN ,_, vocational_NN training_NN or_CC a_DT deposit_NN on_IN an_DT apartment_NN ._. 
+
+Because_IN Pleasant_NNP Run_NNP is_VBZ the_DT only_RB "_'' family_NN "_'' for_IN so_RB many_JJ ,_, our_PRP$ Emancipation_NNP Fund_NNP is_VBZ one_CD way_NN we_PRP can_MD help_VB a_DT young_JJ person_NN take_VBP the_DT first_JJ steps_NNS into_IN his_PRP$ or_CC her_PRP$ new_JJ life_NN as_IN an_DT independent_JJ and_CC productive_JJ adult_NN ._. 
+
+Without_IN private_JJ donor_NN support_NN ,_, this_DT Fund_NNP does_VBZ n't_RB exist_VB ._. 
+Please_VB take_VB a_DT few_JJ minutes_NNS to_TO send_VB a_DT donation_NN to_TO help_VB one_CD or_CC more_JJR of_IN our_PRP$ children_NNS successfully_RB cross_VBP that_DT threshold_NN into_IN the_DT future_NN ._. 
+
+Sincerely_NNP ,_, 
+
+Mary_NNP Roth_NNP Executive_NNP Director_NNP 
+

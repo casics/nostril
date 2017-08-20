@@ -1,0 +1,215 @@
+Clean_NNP Joke_NNP Waiter_NNP :_: "_'' Tea_NNP or_CC coffee_NN ,_, gentlemen_NNS ?_. "_'' 
+1st_CD customer_NN :_: "_'' I_PRP 'll_MD have_VB tea_NN ._. "_'' 
+2nd_CD customer_NN :_: "_'' Me_PRP ,_, too_RB ._. 
+And_CC be_VB sure_JJ the_DT glass_NN is_VBZ clean_JJ !_. "_'' 
+(_( Waiter_NNP exits_NNS ,_, returns_NNS )_) 
+Waiter_NNP :_: "_'' Two_CD teas_NNS ._. 
+Now_RB which_WDT one_CD of_IN you_PRP gentlemen_NNS wanted_VBD the_DT clean_JJ glass_NN ?_. "_'' 
+
+That_DT 's_VBZ Easy_NNP !_. Q_NNP :_: How_WRB do_VBP you_PRP identify_VBP a_DT bald_JJ eagle_NN ?_. 
+A_DT :_: All_DT of_IN his_PRP$ feathers_NNS are_VBP combed_VBN to_TO one_CD side_NN ._. 
+
+Subject_NNP :_: Little_NNP Known_VBN Facts_NNP 1_CD ._. Barbie_NNP 's_POS full_JJ name_NN is_VBZ Barbara_NNP Millicent_NNP Roberts_NNP 
+2_CD ._. It_PRP is_VBZ impossible_JJ to_TO lick_NN your_PRP$ elbow_NN 
+3_CD ._. A_DT crocodile_NN ca_MD n't_RB stick_VB its_PRP$ tongue_NN out_IN 
+4_CD ._. A_DT shrimp_NN 's_POS heart_NN is_VBZ in_IN their_PRP$ head_NN 
+5_CD ._. People_NNS say_VBP "_'' Bless_NNP you_PRP "_'' when_WRB you_PRP sneeze_NN because_IN when_WRB you_PRP sneeze_NN ,_, your_PRP$ heart_NN stops_VBZ for_IN a_DT millisecond_NN 
+6_CD ._. In_IN a_DT study_NN of_IN 200,000_CD ostriches_NNS over_IN a_DT period_NN of_IN 80_CD years_NNS ,_, no_DT one_CD reported_VBD a_DT single_JJ case_NN where_WRB an_DT ostrich_NN buried_VBD its_PRP$ head_NN in_IN the_DT sand_NN (_( or_CC attempted_VBD to_TO do_VB so_RB )_) 
+7_CD ._. It_PRP is_VBZ physically_RB impossible_JJ for_IN pigs_NNS to_TO look_VB up_RP into_IN the_DT sky_NN 
+8_CD ._. A_DT pregnant_JJ goldfish_NN is_VBZ called_VBN a_DT twit_NN 
+9_CD ._. Between_IN 1937_CD and_CC 1945_CD Heinz_NNP produced_VBD a_DT version_NN of_IN Alphabetti_NNP Spaghetti_NNP especially_RB for_IN the_DT German_JJ market_NN that_WDT consisted_VBD solely_RB of_IN little_JJ pasta_NN swastikas_NNS 
+10_CD ._. By_IN law_NN ,_, every_DT child_NN in_IN Belgium_NNP must_MD take_VB harmonica_NN lessons_NNS at_IN Primary_JJ school_NN 
+11_CD ._. On_IN average_JJ ,_, a_DT human_JJ being_NN will_MD have_VB sex_NN more_JJR than_IN 3,000_CD times_NNS and_CC spend_VB two_CD weeks_NNS kissing_VBG in_IN their_PRP$ lifetime_NN 
+12_CD ._. More_JJR than_IN 50_CD %_NN of_IN the_DT people_NNS in_IN the_DT world_NN have_VBP never_RB made_VBN or_CC received_VBN a_DT telephone_NN call_NN 
+13_CD ._. Rats_NNP and_CC horses_NNS ca_MD n't_RB vomit_NN 
+14_CD ._. The_DT "_'' sixth_JJ sick_JJ sheik_NN 's_POS sixth_JJ sheep_NN 's_POS sick_JJ "_'' is_VBZ said_VBN to_TO be_VB the_DT toughest_JJS tongue_NN twister_NN in_IN the_DT English_NNP language_NN 
+15_CD ._. If_IN you_PRP sneeze_NN too_RB hard_JJ ,_, you_PRP can_MD fracture_NN a_DT rib_NN ._. If_IN you_PRP try_VBP to_TO suppress_VB a_DT sneeze_NN ,_, you_PRP can_MD rupture_NN a_DT blood_NN vessel_NN in_IN your_PRP$ head_NN or_CC neck_NN and_CC die_VB ._. If_IN you_PRP keep_VBP your_PRP$ eyes_NNS open_JJ by_IN force_NN ,_, they_PRP will_MD pop_VB out_IN 
+16_CD ._. Rats_NNP multiply_VB so_RB quickly_RB that_IN in_IN 18_CD months_NNS ,_, two_CD rats_NNS could_MD have_VB over_IN a_DT million_CD descendants_NNS 
+17_CD ._. Wearing_VBG headphones_NNS for_IN just_RB an_DT hour_NN will_MD increase_VB the_DT bacteria_NNS in_IN your_PRP$ ear_NN by_IN 700_CD times_NNS 
+18_CD ._. If_IN the_DT government_NN has_VBZ no_DT knowledge_NN of_IN aliens_NNS ,_, then_RB why_WRB does_VBZ Title_NNP 14_CD ,_, Section_NN 1211_CD of_IN the_DT Code_NNP of_IN Federal_NNP Regulations_NNPS ,_, implemented_VBN on_IN July_NNP 16_CD ,_, 1969_CD ,_, make_VBP it_PRP illegal_JJ for_IN U.S._NNP citizens_NNS to_TO have_VB any_DT contact_NN with_IN extraterrestrials_NNS or_CC their_PRP$ vehicles_NNS ?_. 
+19_CD ._. In_IN every_DT episode_NN of_IN Seinfeld_NNP there_EX is_VBZ a_DT Superman_NNP somewhere_RB 
+20_CD ._. The_DT cigarette_NN lighter_JJR was_VBD invented_VBN before_IN the_DT match_NN 
+21_CD ._. Thirty-five_CD percent_NN of_IN the_DT people_NNS who_WP use_VBP personal_JJ ads_NNS for_IN dating_VBG are_VBP already_RB married_VBN 
+22_CD ._. A_DT duck_NN 's_POS quack_UH does_VBZ n't_RB echo_VB anywhere_RB ,_, and_CC no_DT one_CD knows_VBZ why_WRB 
+23_CD ._. 23_CD %_NN of_IN all_DT photocopier_NN faults_NNS worldwide_NN are_VBP caused_VBN by_IN people_NNS sitting_VBG on_IN them_PRP and_CC photocopying_VBG their_PRP$ buttocks_NNS 
+24_CD ._. In_IN the_DT course_NN of_IN an_DT average_JJ lifetime_NN you_PRP will_MD ,_, while_IN sleeping_VBG ,_, eat_VB 70_CD assorted_JJ insects_NNS and_CC 10_CD spiders_NNS 
+25_CD ._. Most_JJS lipstick_NN contains_VBZ fish_NN scales_NNS 
+26_CD ._. Cat_NNP 's_POS urine_NN glows_NNS under_IN a_DT black_JJ light_JJ 
+27_CD ._. Like_IN fingerprints_NNS ,_, everyone_NN 's_POS tongue_NN print_NN is_VBZ different_JJ ._. 
+Now_RB ,_, when_WRB was_VBD the_DT last_JJ time_NN you_PRP left_VBD your_PRP$ tongue_NN print_NN someplace_NN ,_, or_CC tried_VBD to_TO lick_NN your_PRP$ elbow_NN ?_. 
+
+From_IN Ashes_NNP to_TO Ashes_NNP Two_CD widows_NNS were_VBD visiting_VBG in_IN the_DT lounge_NN of_IN the_DT Seniors_NNP '_POS Center_NNP ._. 
+"_'' Well_RB ,_, "_'' one_CD said_VBD ,_, "_'' Mary_NNP has_VBZ just_RB cremated_JJ her_PRP$ third_JJ husband_NN ._. "_'' 
+"_'' Yeah_UH ,_, that_DT 's_VBZ the_DT way_NN it_PRP goes_VBZ ,_, "_'' replied_VBD the_DT other_JJ widow_NN ._. 
+"_'' Some_DT of_IN us_PRP ca_MD n't_RB find_VB a_DT husband_NN ,_, and_CC others_NNS have_VBP husbands_NNS to_TO burn_VB !_. "_'' 
+
+How_WRB To_TO Wash_NNP the_DT Cat_NNP 1_CD ._. Thoroughly_NNP clean_VB the_DT toilet_NN ._. 
+2_CD ._. Lift_VB both_DT lids_NNS and_CC add_VB shampoo_NN ._. 
+3_CD ._. Find_VBP and_CC soothe_VB cat_NN as_IN you_PRP carry_VBP him_PRP to_TO the_DT bathroom_NN ._. 
+4_CD ._. In_IN one_CD swift_JJ move_NN ,_, place_NN cat_NN in_IN toilet_NN ,_, close_VBP both_DT lids_NNS and_CC stand_VB on_IN top_JJ so_IN cat_NN can_MD not_RB escape_VB ._. 
+5_CD ._. The_DT cat_NN will_MD self_NN agitate_NN and_CC produce_VB ample_JJ suds_NNS ._. 
+(_( Ignore_VB ruckus_JJ from_IN inside_IN toilet_NN ._. 
+Cat_NNP is_VBZ actually_RB enjoying_VBG this_DT )_) ._. 
+6_CD ._. Flush_JJ 3_CD or_CC 4_CD times_NNS ,_, this_DT provides_VBZ power_NN rinse_NN which_WDT is_VBZ quite_RB effective_JJ ._. 
+7_CD ._. Have_VBP someone_NN open_JJ outside_JJ door_NN ,_, stand_VB as_RB far_RB from_IN toilet_NN as_IN possible_JJ and_CC quickly_RB lift_VB both_DT lids_NNS ._. 
+8_CD ._. Clean_NNP cat_NN will_MD rocket_NN out_IN of_IN the_DT toilet_NN and_CC outdoors_RB ,_, where_WRB he_PRP will_MD air_VB dry_JJ ._. 
+Sincerely_NNP ,_, The_DT Dog_NNP 
+
+New_NNP Arrivals_NNP One_CD day_NN a_DT Pope_NNP and_CC a_DT lawyer_NN died_VBD and_CC went_VBD to_TO heaven_NN ._. 
+God_NNP came_VBD and_CC said_VBD ,_, "_'' Follow_VB me_PRP and_CC I_PRP will_MD give_VB you_PRP your_PRP$ rooms_NNS ._. "_'' 
+So_IN they_PRP both_DT followed_VBN ._. 
+First_CD God_NNP gave_VBD the_DT Pope_NNP his_PRP$ room_NN ;_: it_PRP was_VBD very_RB small_JJ with_IN a_DT small_JJ bed_NN and_CC a_DT small_JJ desk_NN ._. 
+"_'' Thank_VB you_PRP ,_, thank_VB you_PRP my_PRP$ lord_NN ,_, "_'' said_VBD The_DT Pope_NNP ._. 
+Then_RB God_NNP gave_VBD the_DT lawyer_NN his_PRP$ room_NN ;_: it_PRP was_VBD big_JJ room_NN with_IN a_DT big_JJ bed_NN and_CC a_DT big_JJ deck_NN with_IN a_DT pool_NN and_CC a_DT pretty_JJ woman_NN ._. 
+"_'' Mr._NN God_NNP ,_, why_WRB are_VBP you_PRP giving_VBG this_DT room_NN to_TO me_PRP and_CC the_DT other_JJ little_JJ one_CD to_TO The_DT Pope_NNP ?_. "_'' the_DT lawyer_NN asked_VBD ._. 
+"_'' Well_RB ,_, popes_NNS we_PRP get_VBP regular_JJ as_IN clockwork_NN ,_, but_CC you_PRP 're_VBP our_PRP$ first_JJ lawyer_NN ._. "_'' 
+
+Prezackly_NNP !_. A_DT Zen_NNP master_NN once_RB said_VBD to_TO me_PRP ,_, "_'' Do_VBP the_DT opposite_NN of_IN whatever_WDT I_PRP tell_VBP you_PRP ._. "_'' 
+So_IN I_PRP did_VBD n't_RB ._. 
+--_: Unknown_JJ 
+"_'' My_PRP$ doctor_NN tells_VBZ me_PRP I_PRP suffer_VBP from_IN extreme_JJ hypochondria_NN ._. 
+He_PRP prescribed_VBN a_DT strong_JJ placebo_NN ,_, but_CC I_PRP do_VBP n't_RB think_VB it_PRP 's_VBZ working_VBG ._. "_'' 
+-_: Fred_NNP Marcum_NNP 
+"_'' The_DT sooner_RBR you_PRP fall_VBP behind_IN ,_, the_DT more_JJR time_NN you_PRP 'll_MD have_VB to_TO catch_VB up_RP ._. "_'' 
+--_: Unknown_JJ 
+
+You_PRP Gotta_NNP be_VB Quick_NNP A_DT New_NNP Yorker_NNP was_VBD being_VBG shown_VBN around_IN the_DT back_NN country_NN of_IN Louisiana_NNP by_IN his_PRP$ cousin_NN ._. 
+"_'' Is_VBZ it_PRP true_JJ that_IN an_DT alligator_NN wo_MD n't_RB attack_VB you_PRP if_IN you_PRP carry_VBP a_DT flashlight_NN ?_. "_'' he_PRP asked_VBD ._. 
+The_DT cousin_NN smirked_JJ ,_, "_'' Well_RB thatall_NN depends_VBZ on_IN how_WRB fast_RB ya_PRP carry_VBP it_PRP ._. "_'' 
+
+Home_NNP on_IN the_DT Range_NNP Two_CD buffalo_NN were_VBD standing_VBG on_IN the_DT range_NN when_WRB a_DT passing_VBG tourist_NN said_VBD ,_, "_'' Those_DT are_VBP the_DT mangiest_NN ,_, scroungiest_NN ,_, most_RBS moth-eaten_JJ ,_, miserable_JJ beasts_NNS I_PRP have_VBP ever_RB seen_VBN ._. "_'' 
+One_CD of_IN the_DT buffalo_NN turned_VBD to_TO the_DT other_JJ and_CC said_VBD ,_, "_'' You_PRP know_VBP ,_, I_PRP think_VBP I_PRP just_RB heard_VBD a_DT discouraging_VBG word_NN ._. "_'' 
+
+Fast_NNP Thinking_NNP A_DT wild_JJ dog_NN is_VBZ running_VBG through_IN the_DT jungle_NN ._. 
+While_IN wandering_VBG about_IN he_PRP notices_NNS a_DT leopard_NN heading_VBG in_IN his_PRP$ direction_NN with_IN the_DT intention_NN of_IN having_VBG lunch_NN ._. 
+The_DT dog_NN thinks_VBZ ,_, "_'' Boy_NNP ,_, now_RB I_PRP 'm_VBP in_IN deep_JJ trouble_NN ._. "_'' 
+Then_RB he_PRP sees_VBZ some_DT bones_NNS on_IN the_DT ground_NN close_NN by_RB ,_, and_CC immediately_RB settles_VBZ down_RB to_TO chew_VB on_IN the_DT remains_NNS with_IN his_PRP$ back_RB to_TO the_DT approaching_VBG cat_NN ._. 
+Just_RB as_IN the_DT leopard_NN is_VBZ about_IN to_TO leap_VB ,_, the_DT dog_NN exclaims_VBZ loudly_RB ,_, "_'' Hey_NNP ,_, that_WDT was_VBD one_CD delicious_JJ leopard_NN ._. 
+I_PRP wonder_VBP if_IN there_EX are_VBP any_DT more_RBR like_IN that_DT around_IN here_RB ?_. "_'' 
+Hearing_VBG this_DT the_DT leopard_NN halts_VBZ his_PRP$ attack_NN in_IN mid_JJ stride_NN ,_, and_CC he_PRP slinks_NNS away_RB into_IN the_DT trees_NNS ._. 
+"_'' Whew_NNP "_'' ,_, says_VBZ the_DT leopard_NN ._. 
+"_'' That_DT was_JJ close_NN ._. 
+That_DT dog_NN could_MD 've_VB nearly_RB had_VBN me_PRP ._. "_'' 
+Meanwhile_RB ,_, a_DT monkey_NN who_WP had_VBD been_VBN watching_VBG all_PDT this_DT from_IN a_DT nearby_JJ tree_NN ,_, figures_NNS he_PRP can_MD put_VB this_DT knowledge_NN to_TO good_JJ use_NN and_CC trade_VB it_PRP for_IN protection_NN from_IN the_DT leopard_NN ._. 
+So_RB ,_, he_PRP goes_VBZ chasing_VBG after_IN the_DT leopard_NN ._. 
+But_CC the_DT dog_NN saw_VBD him_PRP heading_VBG after_IN the_DT leopard_NN with_IN great_JJ speed_NN ,_, and_CC figured_VBD that_DT something_NN must_MD be_VB up_RB ._. 
+The_DT monkey_NN soon_RB catches_VBZ up_RP with_IN the_DT leopard_NN ,_, spills_VBZ the_DT beans_NNS and_CC strikes_VBZ a_DT deal_NN for_IN himself_PRP with_IN the_DT leopard_NN ._. 
+The_DT cat_NN is_VBZ furious_JJ at_IN being_VBG made_VBD a_DT fool_NN of_IN and_CC says_VBZ ,_, "_'' Here_RB monkey_NN ,_, hop_NN on_IN my_PRP$ back_RB and_CC see_VB what_WP 's_VBZ going_VBG to_TO happen_VB to_TO that_DT smart_JJ aleck_NN dog_NN ._. "_'' 
+Now_RB the_DT dog_NN sees_VBZ the_DT leopard_NN coming_VBG with_IN the_DT monkey_NN on_IN his_PRP$ back_RB ,_, and_CC thinks_VBZ ,_, "_'' What_WP am_VBP I_PRP going_VBG to_TO do_VB now_RB ?_. "_'' 
+But_CC instead_RB of_IN running_VBG ,_, the_DT dog_NN sits_VBZ down_RB with_IN his_PRP$ back_RB to_TO his_PRP$ attackers_NNS pretending_VBG he_PRP has_VBZ n't_RB seen_VBN them_PRP yet_RB ._. 
+And_CC just_RB when_WRB they_PRP get_VBP close_VB enough_RB to_TO hear_VB ,_, the_DT dog_NN says_VBZ ,_, "_'' Where_WRB 's_POS that_IN cheeky_JJ monkey_NN ._. 
+I_PRP can_MD never_RB trust_VB him_PRP ._. 
+I_PRP sent_VBD him_PRP off_IN half_PDT an_DT hour_NN ago_IN to_TO bring_VB me_PRP a_DT fresh_JJ leopard_NN ,_, and_CC he_PRP 's_VBZ still_RB not_RB back_RB !_. "_'' 
+
+How_WRB it_PRP Pans_NNP Out_IN …_NN "_'' The_DT difference_NN between_IN involvement_NN and_CC commitment_NN is_VBZ like_IN a_DT ham_NN and_CC egg_NN breakfast_NN ._. 
+The_DT chicken_NN was_VBD involved_VBN ,_, but_CC the_DT pig_NN was_VBD really_RB committed_VBN !_. "_'' 
+
+High_NNP Strikes_NNS "_'' Opera_NNP is_VBZ when_WRB a_DT guy_NN gets_VBZ stabbed_VBN in_IN the_DT back_NN ,_, and_CC instead_RB of_IN bleeding_VBG ,_, he_PRP sings_VBZ ._. "_'' 
+-_: Ed_NNP Gardner_NNP 
+
+High_NNP Living_VBG A_DT man_NN goes_VBZ into_IN his_PRP$ local_JJ building_NN supply_NN store_NN and_CC orders_NNS 10,054_CD bricks_NNS ._. 
+"_'' May_NNP I_PRP ask_VBP what_WP you_PRP 're_VBP building_NN ?_. "_'' asks_VBZ the_DT man_NN behind_IN the_DT counter_NN ._. 
+"_'' It_PRP 's_VBZ going_VBG to_TO be_VB a_DT barbecue_NN ._. "_'' 
+"_'' Wow_UH ,_, that_DT 's_VBZ a_DT lot_NN of_IN bricks_NNS for_IN one_CD barbecue_NN ,_, "_'' 
+"_'' Not_RB really_RB ;_: 
+I_PRP live_VBP on_IN the_DT 12th_JJ floor_NN ._. "_'' 
+
+Word_NNP Pundit_NNP Says_VBZ …._. 1_CD ._. Marathon_NNP runners_NNS with_IN bad_JJ footwear_NN suffer_VBP an_DT agony_NN of_IN defeat_NN ._. 
+2_CD ._. What_WP 's_VBZ the_DT definition_NN of_IN a_DT will_MD ?_. 
+(_( It_PRP 's_VBZ a_DT dead_JJ giveaway_NN )_) ._. 
+3_CD ._. Time_NNP flies_VBZ like_IN an_DT arrow_NN ._. 
+Fruit_NNP flies_VBZ like_IN a_DT banana_NN ._. 
+4_CD ._. A_DT backwards_JJ poet_NN writes_VBZ inverse_NN ._. 
+5_CD ._. In_IN democracy_NN it_PRP 's_VBZ your_PRP$ vote_NN that_WDT counts_VBZ ._. 
+In_IN feudalism_NN it_PRP 's_VBZ your_PRP$ count_NN that_IN votes_NNS ._. 
+6_CD ._. She_PRP had_VBD a_DT boyfriend_NN with_IN a_DT wooden_JJ leg_NN ,_, but_CC broke_VBD it_PRP off_RP ._. 
+7_CD ._. A_DT chicken_NN crossing_VBG the_DT road_NN is_VBZ poultery_NN in_IN motion_NN ._. 
+8_CD ._. If_IN you_PRP do_VBP n't_RB pay_VB your_PRP$ exorcist_NN you_PRP get_VBP repossessed_JJ ._. 
+9_CD ._. With_IN her_PRP$ marriage_NN she_PRP got_VBD a_DT new_JJ name_NN and_CC a_DT dress_NN ._. 
+10_CD ._. Show_NNP me_PRP a_DT piano_NN falling_VBG down_RP a_DT mineshaft_NN and_CC I_PRP 'll_MD show_VB you_PRP A-_NNP flat_JJ minor_NN ._. 
+11_CD ._. When_WRB a_DT clock_NN is_VBZ hungry_JJ it_PRP goes_VBZ back_RB four_CD seconds_NNS ._. 
+12_CD ._. The_DT man_NN who_WP fell_VBD into_IN an_DT upholstery_NN machine_NN is_VBZ fully_RB recovered_VBN ._. 
+13_CD ._. A_DT bomb_NN in_IN a_DT French_JJ kitchen_NN would_MD result_VB in_IN Linoleum_NNP Blownapart_NNP ._. 
+14_CD ._. You_PRP feel_VBP stuck_VBN with_IN your_PRP$ debt_NN if_IN you_PRP ca_MD n't_RB budge_VB it_PRP ._. 
+15_CD ._. Local_NNP Area_NNP Network_NNP in_IN Australia_NNP :_: the_DT LAN_NNP down_RB under_IN ._. 
+16_CD ._. He_PRP often_RB broke_VBD into_IN song_NN because_IN he_PRP could_MD n't_RB find_VB the_DT key_NN ._. 
+17_CD ._. Every_DT calendar_NN 's_POS days_NNS are_VBP numbered_VBN ._. 
+18_CD ._. A_DT lot_NN of_IN money_NN is_VBZ tainted_VBN ._. 
+'_POS Taint_NNP yours_NNS and_CC '_POS taint_NN mine_NN ._. 
+19_CD ._. A_DT boiled_JJ egg_NN in_IN the_DT morning_NN is_VBZ hard_JJ to_TO beat_VB ._. 
+20_CD ._. He_PRP had_VBD a_DT photographic_JJ memory_NN but_CC it_PRP was_VBD never_RB developed_VBN ._. 
+21_CD ._. A_DT plateau_NN is_VBZ a_DT high_JJ form_NN of_IN flattery_NN ._. 
+22_CD ._. The_DT short_JJ fortuneteller_NN who_WP escaped_VBD from_IN prison_NN became_VBD a_DT small_JJ medium_NN at_IN large_JJ ._. 
+23_CD ._. Those_DT who_WP get_VBP too_RB big_JJ for_IN their_PRP$ britches_NNS will_MD be_VB exposed_VBN in_IN the_DT end_NN ._. 
+24_CD ._. Once_RB you_PRP 've_VBP seen_VBN one_CD shopping_NN center_NN you_PRP 've_VBP seen_VBN a_DT mall_NN ._. 
+25_CD ._. Those_DT who_WP jump_VBP off_IN a_DT Paris_NNP bridge_NN are_VBP in_IN Seine_NNP ._. 
+26_CD ._. When_WRB an_DT actress_NN saw_VBD her_PRP$ first_JJ strands_NNS of_IN grey_JJ hair_NN she_PRP thought_VBD she_PRP 'd_MD dye_NN ._. 
+27_CD ._. Bakers_NNP trade_NN bread_NN recipes_NNS on_IN a_DT knead_NN to_TO know_VB basis_NN ._. 
+28_CD ._. Santa_NNP 's_POS elves_NNS could_MD be_VB defined_VBN as_IN subordinate_JJ clauses_NNS ._. 
+
+Take_VB a_DT Bough_NNP Question_NNP ._. 
+"_'' If_IN trees_NNS could_MD scream_VB ,_, would_MD we_PRP be_VB quite_RB so_RB cavalier_JJ about_IN cutting_VBG them_PRP down_RB "_'' ?_. 
+Answer_NNP ._. 
+"_'' Well_RB if_IN they_PRP screamed_VBD all_PDT the_DT time_NN it_PRP would_MD definitely_RB make_VB life_NN a_DT lot_NN more_RBR comfortable_JJ to_TO cut_VB them_PRP all_DT down_JJ …_NN ._. "_'' 
+
+"_'' Hey_NNP ,_, Lady_NNP …_NN "_'' A_DT lady_NN was_VBD walking_VBG past_JJ a_DT pet_NN store_NN when_WRB a_DT parrot_NN said_VBD ,_, '_'' '_POS Hey_NNP ,_, lady_NN !_. 
+You_PRP 're_VBP really_RB ugly_JJ !_. "_'' 
+She_PRP was_VBD understandably_RB furious_JJ and_CC continued_VBD on_IN her_PRP$ way_NN ._. 
+On_IN the_DT way_NN home_NN ,_, she_PRP passed_VBN by_IN the_DT pet_NN store_NN again_RB and_CC the_DT parrot_NN once_RB more_JJR said_VBD "_'' Hey_NNP ,_, lady_NN !_. 
+You_PRP 're_VBP really_RB ugly_JJ !_. "_'' 
+She_PRP was_VBD really_RB ticked_VBN by_IN now_RB ,_, so_IN she_PRP went_VBD into_IN the_DT store_NN and_CC said_VBD that_IN she_PRP would_MD sue_VB the_DT store_NN owner_NN and_CC strangle_NN the_DT bird_NN ._. 
+The_DT store_NN manager_NN apologized_VBD profusely_RB and_CC promised_VBD he_PRP would_MD make_VB sure_JJ the_DT parrot_NN did_VBD n't_RB say_VB it_PRP again_RB ._. 
+The_DT next_JJ day_NN ,_, she_PRP deliberately_RB passed_VBN by_IN the_DT store_NN to_TO test_VB the_DT parrot_NN ._. 
+"_'' Hey_NNP ,_, lady_NN !_. "_'' it_PRP said_VBD ._. 
+"_'' Yes_UH ?_. "_'' 
+"_'' You_PRP know_VBP ._. "_'' 
+
+Reality_NN Check_VB A_DT student_NN comes_VBZ to_TO a_DT young_JJ professor_NN 's_POS office_NN after_IN hours_NNS ._. 
+She_PRP glances_NNS down_RP the_DT hall_NN ,_, closes_VBZ his_PRP$ door_NN ,_, and_CC kneels_NNS pleadingly_RB ._. 
+"_'' I_PRP would_MD do_VB anything_NN to_TO pass_VB this_DT exam_NN ._. "_'' 
+She_PRP leans_VBZ closer_JJR to_TO him_PRP ,_, flips_VBZ back_RP her_PRP$ hair_NN ,_, gazes_NNS meaningfully_RB into_IN his_PRP$ eyes_NNS ._. 
+"_'' I_PRP mean_VBP ..._... "_'' ,_, she_PRP whispers_NNS ,_, "_'' ..._... I_PRP would_MD do_VB ..._... ANYTHING_NNP ._. "_'' 
+He_PRP returns_VBZ her_PRP$ gaze_VBP ._. 
+"_'' Anything_NN ?_. "_'' 
+"_'' *_NN Anything_NN *_NN ._. "_'' 
+His_PRP$ voice_NN softens_VBZ ._. 
+"_'' Anything_NN ?_. "_'' 
+"_'' Anything_NN ._. "_'' 
+His_PRP$ voice_NN turns_VBZ to_TO a_DT husky_JJ whisper_NN ._. 
+"_'' Would_MD you_PRP ..........._. study_NN ?_. "_'' 
+
+Spectacular_NNP Job_NNP One_CD day_NN a_DT man_NN spotted_VBD a_DT lamp_NN by_IN the_DT roadside_NN ._. 
+He_PRP picked_VBD it_PRP up_RP ,_, rubbed_VBD it_PRP vigorously_RB ,_, and_CC a_DT genie_NN appeared_VBD ._. 
+"_'' I_PRP 'll_MD grant_VB you_PRP your_PRP$ fondest_JJS wish_VBP ,_, "_'' the_DT genie_NN said_VBD ._. 
+The_DT man_NN thought_VBD for_IN a_DT moment_NN ,_, then_RB said_VBD ,_, "_'' I_PRP want_VBP a_DT spectacular_JJ job_NN --_: a_DT job_NN that_IN no_DT man_NN has_VBZ ever_RB succeeded_VBN at_IN or_CC has_VBZ ever_RB even_RB dared_VBD try_VB ._. "_'' 
+"_'' That_DT 's_VBZ easy_JJ "_'' ,_, said_VBD the_DT genie_NN ._. 
+"_'' Poof_NNP !_. 
+You_PRP 're_VBP a_DT housewife_NN ._. "_'' 
+
+Wisdom_NNP from_IN the_DT Top_JJ "_'' It_PRP 's_VBZ not_RB me_PRP who_WP ca_MD n't_RB keep_VB a_DT secret_JJ it_PRP 's_VBZ the_DT people_NNS I_PRP tell_VBP that_WDT ca_MD n't_RB ._. "_'' 
+-_: Lincoln_NNP 
+"_'' I_PRP have_VBP found_VBN the_DT best_JJS way_NN to_TO give_VB advice_NN to_TO your_PRP$ children_NNS is_VBZ to_TO find_VB out_IN what_WP they_PRP want_VBP and_CC then_RB advise_VB them_PRP to_TO do_VB that_DT ._. "_'' 
+-_: Truman_NNP 
+"_'' There_EX 's_VBZ one_CD thing_NN about_IN being_VBG a_DT president_NN -_: nobody_NN can_MD tell_VB you_PRP when_WRB to_TO sit_VB down_RB ._. "_'' 
+-_: Eisenhower_NNP 
+"_'' Things_NNS are_VBP more_RBR like_IN they_PRP are_VBP now_RB than_IN they_PRP have_VBP ever_RB been_VBN before_RB ._. "_'' 
+-_: Eisenhower_NNP 
+
+Dead_NNP Horse_NNP The_DT tribal_NN wisdom_NN of_IN the_DT North_JJ American_NNP Indians_NNPS ,_, passed_VBN on_IN from_IN one_CD generation_NN to_TO the_DT next_JJ ,_, says_VBZ that_IN when_WRB you_PRP discover_VBP that_IN you_PRP are_VBP riding_VBG a_DT dead_JJ horse_NN ,_, the_DT best_JJS strategy_NN is_VBZ to_TO dismount_NN ._. 
+But_CC in_IN modern_JJ management_NN (_( and_CC organisations_NNS and_CC government_NN )_) ;_: because_IN of_IN the_DT heavy_JJ investment_NN of_IN time_NN ,_, money_NN and_CC energy_NN which_WDT has_VBZ gone_VBN into_IN the_DT establishment_NN and_CC maintenance_NN of_IN these_DT critters_NNS ;_: other_JJ strategies_NNS are_VBP often_RB tried_VBN with_IN these_DT dead_JJ horses_NNS ,_, including_VBG the_DT following_NN :_: 
+1_CD ._. Buying_VBG a_DT bigger_JJR ,_, stronger_JJR whip_NN ._. 
+2_CD ._. Changing_VBG riders_NNS ._. 
+3_CD ._. Threatening_NNP the_DT horse_NN with_IN termination_NN ._. 
+4_CD ._. Appointing_NNP various_JJ committees_NNS to_TO study_VB the_DT horse_NN ._. 
+5_CD ._. Arranging_NNP to_TO visit_VB other_JJ sites_NNS to_TO see_VB how_WRB they_PRP ride_VBP dead_JJ horses_NNS ._. 
+6_CD ._. Lowering_NNP the_DT standards_NNS so_IN that_IN dead_JJ horses_NNS can_MD be_VB included_VBN ._. 
+7_CD ._. Reclassifying_NNP the_DT dead_JJ horse_NN as_IN "_'' living-impaired_JJ ._. "_'' 
+8_CD ._. Hiring_NNP outside_JJ contractors_NNS to_TO ride_VB the_DT dead_JJ horse_NN ._. 
+9_CD ._. Harnessing_NNP two_CD or_CC more_RBR dead_JJ horses_NNS together_RB to_TO increase_VB speed_NN ._. 
+10_CD ._. Providing_NNP additional_JJ funding_NN and_CC /_NN or_CC training_NN to_TO increase_VB the_DT dead_JJ horse_NN 's_POS performance_NN ._. 
+11_CD ._. Doing_VBG a_DT productivity_NN study_NN to_TO see_VB if_IN lighter_JJR riders_NNS would_MD improve_VB the_DT dead_JJ horse_NN 's_POS performance_NN ._. 
+12_CD ._. Declaring_VBG that_IN the_DT dead_JJ horse_NN carries_VBZ lower_JJR overhead_NN and_CC therefore_RB contributes_VBZ more_JJR to_TO the_DT bottom_JJ line_NN then_RB younger_JJR ,_, more_RBR vigorous_JJ horses_NNS ._. 
+13_CD ._. Rewriting_NNP the_DT expected_JJ performance_NN requirements_NNS for_IN all_DT horses_NNS ._. 
+And_CC ,_, as_IN a_DT final_JJ strategy_NN :_: 
+14_CD ._. Promoting_NNP the_DT dead_JJ horse_NN to_TO a_DT supervisory_JJ position_NN ._. 
+

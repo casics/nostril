@@ -1,0 +1,11 @@
+RMS_NNP International_NNP Inc._NN ,_, Hasbrouk_NNP Heights_NNP ,_, N.J._NN ,_, facing_VBG a_DT cash-flow_JJ squeeze_NN ,_, said_VBD it_PRP is_VBZ seeking_VBG other_JJ financing_NN sources_NNS and_CC waivers_NNS from_IN debenture_NN holders_NNS ._. 
+
+The_DT company_NN said_VBD that_IN because_IN of_IN softening_VBG sales_NNS it_PRP is_VBZ n't_RB in_IN compliance_NN with_IN requirements_NNS that_IN it_PRP maintain_VBP $3_NN million_CD in_IN working_VBG capital_NN ._. 
+RMS_NNP distributes_VBZ electronic_JJ devices_NNS and_CC produces_VBZ power_NN supplies_NNS and_CC plastic_NN literature_NN displays_NNS ._. 
+
+RMS_NNP said_VBD it_PRP had_VBD a_DT loss_NN of_IN $158,666_NN ,_, or_CC 10_CD cents_NNS a_DT share_NN ,_, in_IN the_DT third_JJ quarter_NN ,_, compared_VBN with_IN a_DT year-earlier_JJ loss_NN of_IN $26,956_NN ,_, or_CC two_CD cents_NNS a_DT share_NN ._. 
+Sales_NNS rose_VBD to_TO $3_NN million_CD from_IN $2.9_NN million_CD ._. 
+
+For_IN the_DT nine_CD months_NNS ,_, the_DT company_NN reported_VBD a_DT net_JJ loss_NN of_IN $608,413_NN ,_, or_CC 39_CD cents_NNS a_DT share_NN ,_, compared_VBN with_IN year-earlier_JJ net_JJ income_NN of_IN $967,809_NN ,_, or_CC 62_CD cents_NNS a_DT share_NN ._. 
+Sales_NNS rose_VBD to_TO $9.8_NN million_CD from_IN $8.9_NN million_CD ._. 
+

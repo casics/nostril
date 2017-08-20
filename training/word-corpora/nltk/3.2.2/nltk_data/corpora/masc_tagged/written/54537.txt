@@ -1,0 +1,15 @@
+Message-ID_NNP :_: <_NN 24575622.1075863420436.JavaMail.evans@thyme_NN >_NN Date_NN :_: Tue_NNP ,_, 15_CD May_NNP 2001_CD 06:09:33_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: j.kaminski@enron.com_NN To_TO :_: steve.leppard@enron.com_NN Subject_NNP :_: RE_NNP :_: Final_NNP Research_NNP PRC_NNP Mime-Version_NNP :_: 1.0_CD Content-Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-Transfer-Encoding_NNP :_: 7_CD bit_NN Steve_NNP ,_, 
+
+It_PRP will_MD be_VB my_PRP$ pleasure_NN ._. 
+
+Vince_NNP 
+
+-----_SYM Original_NNP Message-----_NNP From_IN :_: Leppard_NNP ,_, Steve_NNP Sent_NNP :_: Tuesday_NNP ,_, May_NNP 15_CD ,_, 2001_CD 4:10_NN AM_NNP To_TO :_: Herbelot_NNP ,_, Olivier_NNP ;_: Lewis_NNP ,_, Richard_NNP ;_: Clarke_NNP ,_, Niamh_NNP ;_: Kaminski_NNP ,_, Vince_NNP J_NNP Subject_NNP :_: Final_NNP Research_NNP PRC_NNP 
+Hi_NNP all_DT 
+
+The_DT current_JJ PRC_NNP is_VBZ the_DT last_NN on_IN which_WDT I_PRP 'll_MD be_VB assessed_VBN as_IN a_DT Research_NNP guy_NN ,_, so_IN I_PRP 'd_MD like_VB to_TO ask_VB if_IN you_PRP 'd_MD be_VB prepared_VBN to_TO act_VB as_IN reviewers_NNS for_IN me_PRP ?_. 
+
+Thanks_NNS ,_, 
+
+Steve_NNP 
+

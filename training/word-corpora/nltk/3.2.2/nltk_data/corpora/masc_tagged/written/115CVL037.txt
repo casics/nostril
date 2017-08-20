@@ -1,0 +1,44 @@
+July_NNP 30_CD ,_, 1999_CD 
+
+Dear_RB Name_NN :_: 
+
+Question_NNP What_WP do_VBP you_PRP get_VBP in_IN 987,165_CD hours_NNS with_IN 291_CD people_NNS in_IN 15_CD locations_NNS ?_. 
+
+Answer_NNP 34,700_CD opportunities_NNS to_TO change_VB a_DT life_NN !_. 
+
+This_DT is_VBZ exactly_RB what_WP happened_VBD in_IN 1997_CD when_WRB Community_NNP Centers_NNPS of_IN Indianapolis_NNP provided_VBD its_PRP$ comprehensive_JJ ,_, neighborhood-based_JJ services_NNS to_TO individuals_NNS and_CC families_NNS all_DT over_IN Marion_NNP County_NNP ._. 
+And_CC we_PRP can_MD do_VB even_RB more_JJR in_IN 1999_CD with_IN your_PRP$ financial_JJ support_NN !_. 
+Just_RB look_VB at_IN the_DT range_NN of_IN services_NNS we_PRP offer_VBP :_: 
+
+70_CD ,_, 0001_CD career_NN assistance_NN for_IN youth_NN 
+Preschool_NNP for_IN young_JJ children_NNS 
+School_NNP Age_NNP Child_NNP Care_NNP for_IN and_CC children_NNS and_CC youth_NN 
+Access_NNP services_NNS such_JJ as_IN emergency_NN and_CC holiday_NN assistance_NN for_IN all_DT ages_NNS 
+Adult_NNP Day_NNP Care_NNP for_IN seniors_NNS 
+Senior_NNP Case_NNP Management_NNP Aids_NNP Education_NNP for_IN youth_NN and_CC adults_NNS 
+Senior_NNP Social_NNP Involvement_NNP Computer_NNP Training_NNP for_IN youth_NN ,_, adults_NNS and_CC seniors_NNS 
+Senior_NNP Nutrition_NNP meal_NN program_NN 
+Day_NNP Care_NNP for_IN young_JJ children_NNS 
+Social_NNP Development_NNP and_CC Recreation_NNP for_IN children_NNS ,_, youth_NN and_CC adults_NNS ._. 
+HIPPY_NNP (_( Home_NNP Instructional_NNP Program_NNP for_IN Preschool_NNP Youngsters_NNP )_) for_IN families_NNS ._. 
+Stopover_NNP crises_NNS counseling_VBG for_IN youth_NN ._. 
+In_IN Home_NNP Services_NNPS for_IN adults_NNS and_CC seniors_NNS ._. 
+Transportation_NNP for_IN youth_NN and_CC seniors_NNS 
+
+CCI_NNP is_VBZ a_DT federation_NN of_IN 13_CD neighborhood-based_JJ multi-service_JJ centers_NNS (_( plus_CC one_CD affiliate_NN )_) whose_WP$ mission_NN is_VBZ to_TO identify_VB and_CC meet_VB the_DT human_JJ service_NN needs_NNS of_IN the_DT greater_JJR Indianapolis_NNP community_NN in_IN the_DT most_RBS effective_JJ ,_, efficient_JJ and_CC comprehensive_JJ way_NN possible_JJ ._. 
+Better_NNP yet_RB ,_, most_JJS of_IN these_DT services_NNS occur_VBP in_IN cooperation_NN with_IN private_JJ and_CC public_JJ agencies_NNS from_IN all_DT over_IN the_DT city_NN -_: CICOA_NNP The_DT Access_NNP Network_NNP ,_, Goodwill_NNP Industries_NNPS ,_, Indianapolis_NNP Housing_NNP Agency_NNP ,_, City_NNP of_IN Indianapolis_NNP ,_, Indianapolis_NNP Private_NNP Industry_NNP Council_NNP ,_, Family_NNP and_CC Social_NNP Services_NNPS administration_NN ,_, OTC_NNP ,_, Indy_NNP Parks_NNP ,_, and_CC numerous_JJ community_NN development_NN corporations_NNS ,_, neighborhood_NN organizations_NNS ,_, and_CC churches_NNS ,_, to_TO name_VB just_RB a_DT few_JJ ._. 
+
+More_JJR than_IN 34,000_CD people_NNS benefited_VBD from_IN our_PRP$ services_NNS in_IN 1997_CD ,_, and_CC the_DT final_JJ count_NN for_IN 1998_CD could_MD be_VB even_RB higher_JJR ._. 
+We_PRP 're_VBP asking_VBG for_IN a_DT contribution_NN in_IN the_DT amount_NN of_IN because_IN you_PRP ca_MD n't_RB got_VB a_DT better_JJR bang_NN for_IN your_PRP$ buck_NN than_IN to_TO support_VB an_DT organization_NN that_IN impacts_NNS so_RB many_JJ lives_NNS in_IN so_RB many_JJ ways_NNS ._. 
+Your_PRP$ gift_NN will_MD enable_VB CCI_NNP to_TO provide_VB these_DT and_CC other_JJ necessary_JJ services_NNS at_IN a_DT neighborhood_NN level_NN ,_, face-to-face_JJ ,_, where_WRB it_PRP counts_VBZ ._. 
+
+Please_VB ,_, make_VBP a_DT tax_NN deductible_JJ gift_NN to_TO Community_NNP Centers_NNPS of_IN Indianapolis_NNP in_IN 1999_CD ,_, and_CC know_VB that_IN COMPANY_NNP is_VBZ playing_VBG an_DT important_JJ part_NN in_IN meeting_VBG the_DT needs_NNS of_IN its_PRP$ community_NN ._. 
+If_IN you_PRP have_VBP any_DT questions_NNS ,_, please_VB feel_VBP free_JJ to_TO give_VB us_PRP a_DT call_NN at_IN 638_CD -_: 3360_CD ._. 
+We_PRP thank_VBP you_PRP for_IN your_PRP$ consideration_NN ,_, and_CC look_VB forward_RB to_TO hearing_NN from_IN you_PRP ._. 
+
+Sincerely_NNP ,_, 
+
+Earline_NNP S._NN Moore_NNP President_NNP 
+
+Valery_NNP De_NNP Long_NNP Director_NNP of_IN Development_NNP 
+

@@ -1,0 +1,63 @@
+August_NNP 10_CD ,_, 1999_CD 
+
+Mr._NN Caring_NNP Philanthropy_NNP 01234_CD Giving_VBG Way_NNP Contribution_NNP ,_, USA_NNP 56789_CD 
+
+Dear_RB Mr._NN Philanthropy_NNP ,_, 
+
+"_'' The_DT urgency_NN you_PRP feel_VBP to_TO make_VB changes_NNS is_VBZ just_RB the_DT extent_NN that_DT change_NN will_MD be_VB made_VBN ._. 
+Do_VBP not_RB sit_VB this_DT one_CD out_RP ._. 
+Do_VBP not_RB play_VB it_PRP safe_JJ ._. 
+Understand_NNP the_DT world_NN and_CC change_VB it_PRP where_WRB it_PRP needs_VBZ to_TO be_VB changed_VBN ._. ._. ._. 
+Make_VB our_PRP$ society_NN better_RBR ._. 
+Make_VB a_DT world_NN worthy_JJ of_IN the_DT children_NNS that_IN your_PRP$ generation_NN will_MD bear_VB ._. "_'' 
+-_: -_: Carl_NNP Sagan_NNP 
+
+You_PRP can_MD help_VB make_VB positive_JJ changes_NNS in_IN the_DT lives_NNS of_IN at-risk_JJ youth_NN in_IN central_JJ Indiana_NNP ._. 
+We_PRP often_RB hear_VBP about_IN economic_JJ poverty_NN ,_, but_CC what_WP some_DT of_IN these_DT young_JJ people_NNS are_VBP growing_VBG up_RP with_IN is_VBZ emotional_JJ poverty-they_JJ have_VBP often_RB given_VBN up_RP on_IN hope_VBP and_CC the_DT possibility_NN of_IN a_DT successful_JJ future_NN ._. 
+With_IN your_PRP$ help_NN ,_, we_PRP can_MD change_VB that_DT ._. 
+
+Many_JJ Little_NNP Sisters_NNP are_VBP preparing_VBG to_TO go_VB back_RB to_TO school_VB this_DT fall_NN full_JJ of_IN hope_VBP and_CC with_IN a_DT positive_JJ outlook_NN ._. 
+Thanks_NNS to_TO our_PRP$ Big_NNP Sisters_NNP volunteers_NNS ,_, these_DT young_JJ people_NNS are_VBP self-confident_JJ ,_, believe_VBP in_IN themselves_PRP and_CC are_VBP beginning_VBG to_TO realize_VB their_PRP$ full_JJ potential_NN ._. 
+A_DT recent_JJ study_NN by_IN Public_NNP /_NN Private_NNP Ventures_NNPS (_( PPV_NNP )_) showed_VBD that_IN girls_NNS who_WP had_VBD a_DT Big_NNP Sister_NNP for_IN just_RB one_CD year_NN :_: 
+
+reduced_VBN first-time_JJ drug_NN use_NN by_IN 46_CD %_NN 
+lowered_VBD school_NN absenteeism_NN by_IN 52_CD %_NN 
+cut_NN violent_JJ behavior_NN by_IN 33_CD %_NN 
+enhanced_JJ school_NN performance_NN showed_VBD improved_VBN peer_VBP and_CC family_NN relationships_NNS 
+
+Former_NNP Little_NNP Sister_NNP Amy_NNP ,_, now_RB 18_CD -_: years_NNS old_JJ ,_, is_VBZ a_DT testament_NN to_TO the_DT Big_NNP Sisters_NNP program_NN ._. 
+
+"_'' I_PRP was_VBD matched_VBN with_IN my_PRP$ Big_NNP Sister_NNP in_IN June_NNP of_IN 1992_CD ._. 
+Since_IN then_RB ,_, she_PRP and_CC I_PRP have_VBP grown_VBN very_RB close_VB and_CC I_PRP have_VBP been_VBN able_JJ to_TO experience_VB lots_NNS of_IN new_JJ things_NNS ._. 
+We_PRP go_VBP to_TO movies_NNS ,_, dinner_NN ,_, concerts_NNS ,_, and_CC other_JJ stuff_NN like_IN that_DT ,_, but_CC I_PRP have_VBP also_RB been_VBN able_JJ to_TO participate_VB in_IN charity_NN events_NNS and_CC fundraiser_NN type_NN things_NNS ._. 
+
+Not_RB only_RB did_VBD I_PRP have_VB a_DT lot_NN of_IN fun_NN with_IN my_PRP$ Big_NNP Sister_NNP ,_, but_CC I_PRP learned_VBD a_DT lot_NN from_IN her_PRP$ too_RB ._. 
+I_PRP have_VBP become_VBN more_RBR open-minded_JJ ,_, more_RBR responsible_JJ ,_, and_CC ,_, most_RBS importantly_RB ,_, I_PRP have_VBP gained_VBN a_DT lot_NN more_JJR self-confidence_NN ._. 
+I_PRP am_VBP very_RB thankful_JJ to_TO the_DT Big_NNP Sisters_NNP program_NN for_IN allowing_VBG me_PRP this_DT very_RB special_JJ opportunity_NN ._. 
+
+In_IN 1998_CD ,_, Big_NNP Sisters_NNP served_VBD 972_CD young_JJ people_NNS through_IN its_PRP$ many_JJ programs_NNS ._. 
+But_CC the_DT need_NN is_VBZ still_RB great_JJ ._. 
+Over_IN 170_CD young_JJ people_NNS are_VBP still_RB waiting_VBG for_IN a_DT mentor_NN ._. 
+
+You_PRP are_VBP an_DT important_JJ part_NN in_IN making_VBG sure_JJ these_DT young_JJ people_NNS are_VBP matched_VBN with_IN caring_VBG adult_NN mentors_NNS ._. 
+Will_MD you_PRP make_VB a_DT financial_JJ gift_NN to_TO Big_NNP Sisters_NNP in_IN 1999_CD that_WDT will_MD ensure_VB that_IN more_RBR young_JJ people_NNS receive_VBP the_DT guidance_NN they_PRP need_VBP ,_, that_IN more_RBR young_JJ people_NNS stay_VBP in_IN school_NN ,_, stay_VB off_IN drugs_NNS and_CC make_VB good_JJ choices_NNS ?_. 
+
+Your_PRP$ contribution_NN will_MD be_VB used_VBN to_TO recruit_VB and_CC retain_VB quality_NN volunteers_NNS ._. 
+It_PRP will_MD also_RB be_VB used_VBN to_TO help_VB maintain_VB the_DT infrastructure_NN that_IN fosters_NNS and_CC supports_VBZ the_DT development_NN of_IN effective_JJ relationships_NNS ,_, including_VBG volunteer_NN orientation_NN and_CC training_NN and_CC ongoing_JJ supervision_NN and_CC support_NN by_IN a_DT professional_JJ staff_NN ._. 
+This_DT year_NN your_PRP$ gift_NN can_MD go_VB farther_RBR !_. 
+Gifts_NNP of_IN $100_NN or_CC more_JJR will_MD be_VB matched_VBN thanks_NNS to_TO a_DT special_JJ 25_CD th_NN Anniversary_NN $100,000_NN Challenge_NNP Grant_NNP and_CC will_MD be_VB placed_VBN in_IN the_DT Growth_NN For_IN Girls_NNP Fund_NNP ._. 
+This_DT fund_NN will_MD support_VB the_DT goal_NN of_IN having_VBG 550_CD mentoring_VBG relationships_NNS by_IN the_DT end_NN of_IN 1999_CD and_CC 1,200_CD by_IN the_DT end_NN of_IN 2004_CD ._. 
+
+If_IN you_PRP would_MD like_VB to_TO find_VB out_IN more_JJR about_IN the_DT Big_NNP Sisters_NNP program_NN ,_, please_VB call_NN us_PRP ,_, (_( 317_CD )_) 634_CD -_: 6102_CD and_CC ask_VB for_IN Ellen_NNP Robinson_NNP ._. 
+Thank_VB you_PRP very_RB much_RB for_IN your_PRP$ time_NN ,_, attention_NN and_CC consideration_NN ._. 
+
+Sincerely_NNP ,_, 
+
+Andrew_NNP T._NN Burns_NNP Patron_NNP Relations_NNPS Chairperson_NNP 
+
+P.S._NN 
+When_WRB you_PRP give_VBP to_TO Big_NNP Sisters_NNP ,_, you_PRP can_MD get_VB 50_CD %_NN back_RB !_. 
+For_IN a_DT minimum_JJ contribution_NN of_IN $250_NN ,_, you_PRP become_VBP eligible_JJ for_IN a_DT 50_CD %_NN Indiana_NNP state_NN tax_NN credit_NN through_IN the_DT Indiana_NNP Department_NNP of_IN Commerce_NNP Neighborhood_NNP Assistance_NNP Program_NNP (_( NAP_NNP )_) ._. 
+A_DT limited_JJ number_NN of_IN credits_NNS are_VBP available_JJ ._. 
+To_TO receive_VB an_DT application_NN form_NN ,_, check_NN the_DT NAP_NNP box_NN on_IN the_DT enclosed_VBN pledge_NN card_NN or_CC call_VB us_PRP ,_, (_( 317_CD )_) 634_CD -_: 6102_CD ,_, ext._NN 20_CD ._. 
+

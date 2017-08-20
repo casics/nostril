@@ -1,0 +1,10 @@
+Hadson_NNP Corp_NNP ._. said_VBD it_PRP expects_VBZ to_TO report_VB a_DT third_JJ -_- quarter_NN net_JJ loss_NN of_IN $17_NN million_CD to_TO $19_NN million_CD because_IN of_IN special_JJ reserves_NNS and_CC continued_VBD low_JJ natural_JJ -_- gas_NN prices_NNS ._. 
+
+The_DT Oklahoma_NNP City_NNP energy_NN and_CC defense_NN concern_NN said_VBD it_PRP will_MD record_VB a_DT $7.5_NN million_CD reserve_NN for_IN its_PRP$ defense_NN group_NN ,_, including_VBG a_DT $4.7_NN million_CD charge_NN related_VBN to_TO problems_NNS under_IN a_DT fixed_JJ -_- price_NN development_NN contract_NN and_CC $2.8_NN million_CD in_IN overhead_NN costs_NNS that_WDT wo_MD n't_RB be_VB reimbursed_VBN ._. 
+
+In_IN addition_NN ,_, Hadson_NNP said_VBD it_PRP will_MD write_VB off_RP about_IN $3.5_NN million_CD in_IN costs_NNS related_VBN to_TO international_JJ exploration_NN leases_NNS where_WRB exploration_NN efforts_NNS have_VBP been_VBN unsuccessful_JJ ._. 
+
+The_DT company_NN also_RB cited_VBD interest_NN costs_NNS and_CC amortization_NN of_IN goodwill_NN as_IN factors_NNS in_IN the_DT loss_NN ._. 
+
+A_DT year_NN earlier_RBR ,_, net_JJ income_NN was_VBD $2.1_NN million_CD ,_, or_CC six_CD cents_NNS a_DT share_NN ,_, on_IN revenue_NN of_IN $169.9_NN million_CD ._. 
+

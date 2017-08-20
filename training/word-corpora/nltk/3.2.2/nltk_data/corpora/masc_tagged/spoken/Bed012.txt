@@ -1,0 +1,1209 @@
+So_IN I_PRP guess_VBP this_DT is_VBZ more_JJR or_CC less_RBR now_RB just_RB to_TO get_VB you_PRP up_RP to_TO date_NN ,_, Johno_NNP ._. 
+
+
+
+
+
+This_DT is_VBZ what_WP ,_, uh_UH ,_, 
+This_DT is_VBZ a_DT meeting_NN for_IN me_PRP ._. 
+um_UH ,_, 
+Eva_NNP ,_, 
+Bhaskara_NNP ,_, and_CC I_PRP did_VBD ._. 
+Did_VBD you_PRP add_VBP more_JJR stuff_NN to_TO it_PRP ?_. later_RB ?_. 
+
+Um_NNP ._. Why_WRB ?_. 
+Um_NNP ._. 
+
+I_PRP do_VBP n't_RB know_VB ._. 
+There_EX were_VBD ,_, like_IN ,_, the_DT -_- you_PRP know_VBP ,_, and_CC all_DT that_DT stuff_NN ._. But_CC ._. 
+I_PRP thought_VBD you_PRP -_- you_PRP said_VBD you_PRP were_VBD adding_VBG stuff_NN but_CC I_PRP do_VBP n't_RB know_VB ._. 
+
+Uh_NNP ,_, no_UH ._. This_DT is_VBZ -_- 
+
+Um_NNP ,_, 
+Ha_NNP !_. 
+Very_RB nice_JJ ._. 
+Um_NNP ,_, so_IN we_PRP thought_VBD that_DT ,_, 
+
+We_PRP can_MD write_VB up_RB 
+uh_UH ,_, 
+an_DT element_NN ,_, 
+and_CC -_- for_IN each_DT of_IN the_DT situation_NN 
+nodes_NNS that_IN we_PRP observed_VBD in_IN the_DT Bayes_NNP -_- net_NN ?_. 
+So_RB ._. 
+What_WP 's_VBZ the_DT situation_NN like_IN at_IN the_DT entity_NN that_WDT is_VBZ mentioned_VBN ?_. if_IN we_PRP know_VBP anything_NN about_IN it_PRP ?_. Is_VBZ it_PRP under_IN construction_NN ?_. 
+Or_CC is_VBZ it_PRP 
+on_IN fire_NN or_CC something_NN happening_VBG to_TO it_PRP ?_. Or_CC is_VBZ it_PRP stable_JJ ?_. 
+and_CC so_RB forth_RB ,_, going_VBG all_PDT the_DT way_NN 
+um_UH ,_, 
+f-_NN 
+through_IN Parking_NNP ,_, 
+Location_NNP ,_, Hotel_NNP ,_, Car_NNP ,_, Restroom_NNP ,_, 
+
+Riots_NNP ,_, Fairs_NNP ,_, Strikes_NNS ,_, or_CC 
+Disasters_NNS ._. 
+So_RB is_VBZ -_- This_DT is_VBZ -_- A_DT situation_NN are_VBP -_- is_VBZ all_PDT the_DT things_NNS which_WDT can_MD be_VB happening_VBG right_RB now_RB ?_. 
+Or_CC ,_, what_WP is_VBZ the_DT situation_NN 
+type_NN ?_. 
+That_DT 's_VBZ basically_RB just_RB specifying_VBG the_DT -_- the_DT input_NN for_IN the_DT -_- w-_NN what_WP 's_VBZ 
+Oh_UH ,_, I_PRP see_VBP y-_NN Why_WRB are_VBP you_PRP specifying_VBG it_PRP in_IN X_M_L_NNP ?_. 
+Um_NNP ._. 
+Just_RB because_IN it_PRP forces_VBZ us_PRP to_TO be_VB specific_JJ about_IN the_DT values_NNS 
+here_RB ?_. 
+O_K_NNP ._. 
+And_CC ,_, also_RB ,_, I_PRP mean_VBP ,_, this_DT is_VBZ a_SYM -_- what_WP the_DT input_NN is_VBZ going_VBG to_TO be_VB ._. Right_RB ?_. 
+So_RB ,_, we_PRP will_MD ,_, uh_UH -_- 
+This_DT is_VBZ a_DT schema_NN ._. This_DT is_VBZ -_- 
+Well_RB ,_, yeah_UH ._. I_PRP just_RB do_VBP n't_RB know_VB if_IN this_DT is_VBZ th-_NN l-_NN what_WP the_DT -_- Does_VBZ -_- This_DT is_VBZ what_WP Java_NNP Bayes_NNP takes_VBZ ?_. as_IN a_DT 
+No_DT ,_, because_IN I_PRP mean_VBP if_IN we_PRP -_- 
+Bayes_NNP -_- net_NN spec_NN ?_. 
+I_PRP mean_VBP we_PRP 're_VBP sure_JJ gonna_VBG interface_NN to_TO -_- 
+We_PRP 're_VBP gonna_VBG get_VB an_DT X_M_L_NNP document_NN from_IN somewhere_RB ._. 
+Right_RB ?_. And_CC that_IN X_M_L_NNP document_NN will_MD say_VB 
+"_'' We_PRP are_VBP able_JJ to_TO -_- We_PRP were_VBD able_JJ to_TO observe_VB that_DT w-_NN the_DT element_NN ,_, 
+um_UH ,_, of_IN the_DT Location_NNP that_IN the_DT car_NN is_VBZ near_IN ._. "_'' 
+So_RB that_DT 's_VBZ gonna_VBG be_VB -_- 
+Um_NNP ._. 
+So_IN this_DT is_VBZ the_DT situational_NN context_NN ,_, everything_NN in_IN it_PRP ._. Is_VBZ that_IN what_WP Situation_NNP is_VBZ short_JJ for_IN ,_, shi-_NN situational_NN context_NN ?_. 
+Yep_NNP ._. 
+O_K_NNP ._. 
+So_IN this_DT is_VBZ just_RB ,_, 
+again_RB ,_, a-_NN an_DT X_M_L_NNP schemata_NN which_WDT defines_VBZ a_DT set_NN of_IN possible_JJ ,_, uh_UH ,_, permissible_JJ X_M_L_NNP 
+
+structures_NNS ,_, 
+which_WDT we_PRP view_VBP as_IN input_NN into_IN the_DT Bayes_NNP -_- net_NN ._. 
+Right_RB ?_. 
+And_CC then_RB we_PRP can_MD r-_NN uh_UH 
+possibly_RB run_VB one_CD of_IN them_PRP uh_UH 
+transformations_NNS ?_. 
+That_DT put_NN it_PRP into_IN the_DT format_NN that_IN the_DT Bayes_NNP n-_NN or_CC Java_NNP Bayes_NNP or_CC whatever_WDT wants_VBZ ?_. 
+Yea-_NNP Are_VBP you_PRP talking_VBG -_- are_VBP you_PRP talking_VBG about_IN the_DT -_- the_DT structure_NN ?_. 
+Well_RB it_PRP -_- 
+I_PRP mean_VBP when_WRB you_PRP observe_VBP a_DT node_NN ._. 
+When_WRB you_PRP -_- when_WRB you_PRP say_VBP 
+the_DT input_NN to_TO the_DT v-_NN Java_NNP Bayes_NNP ,_, 
+Um-hmm_NNP ._. 
+it_PRP takes_VBZ a_DT certain_JJ format_NN ,_, right_NN ?_. 
+Which_WDT I_PRP do_VBP n't_RB think_VB is_VBZ this_DT ._. 
+Although_IN I_PRP do_VBP n't_RB know_VB ._. 
+No_DT ,_, it_PRP 's_VBZ certainly_RB not_RB this_DT ._. 
+Nuh_NNP ._. 
+So_IN you_PRP could_MD just_RB -_- Could_MD n't_RB you_PRP just_RB run_VBP a_SYM -_- 
+X_S_L_NN ._. Yeah_UH ._. 
+Yeah_UH ._. 
+To_TO convert_VB it_PRP into_IN the_DT Java_NNP Bayes_NNP for-_NN format_NN ?_. 
+Yep_NNP ._. 
+O_K_NNP ._. 
+That_DT 's_VBZ -_- 
+That_DT 's_VBZ no_DT problem_NN ,_, but_RB 
+I_PRP even_RB think_VBP that_IN ,_, um_UH -_- 
+I_PRP mean_VBP ,_, once_RB -_- Once_RB you_PRP have_VBP this_DT sort_NN of_IN as_IN -_- running_VBG as_IN a_DT module_NN -_- 
+Right_RB ?_. What_WP you_PRP want_VBP is_VBZ -_- 
+You_PRP wanna_VBP say_VBP ,_, "_'' O_K_NNP ,_, give_VB me_PRP the_DT posterior_NN probabilities_NNS of_IN the_DT Go-there_NNP node_NN ,_, 
+when_WRB this_DT is_VBZ happening_VBG ._. "_'' 
+Right_RB ?_. When_WRB the_DT person_NN said_VBD this_DT ,_, the_DT car_NN is_VBZ there_RB ,_, it_PRP 's_VBZ raining_VBG ,_, and_CC this_DT is_VBZ happening_VBG ._. 
+And_CC with_IN this_DT you_PRP can_MD specify_VB the_DT -_- what_WP 's_VBZ happening_VBG in_IN the_DT situation_NN ,_, and_CC what_WP 's_VBZ happening_VBG 
+with_IN the_DT user_NN ._. 
+So_IN we_PRP get_VBP -_- 
+After_IN we_PRP are_VBP done_VBN ,_, through_IN the_DT Situation_NNP we_PRP get_VBP the_DT User_NNP Vector_NNP ._. 
+So_RB ,_, this_DT is_VBZ a_SYM -_- 
+So_IN this_DT is_VBZ just_RB a_DT specification_NN of_IN all_PDT the_DT possible_JJ inputs_NNS ?_. 
+Yep_NNP ._. 
+And_CC ,_, 
+all_PDT the_DT possible_JJ outputs_NNS ,_, too_RB ._. 
+O_K_NNP ._. 
+So_RB ,_, we_PRP have_VBP ,_, um_UH ,_, 
+for_IN example_NN ,_, the_DT ,_, uh_UH ,_, Go_VB -_- there_RB decision_NN node_NN 
+which_WDT has_VBZ two_CD 
+elements_NNS ,_, going_VBG -_- there_RB 
+and_CC its_PRP$ posterior_NN probability_NN ,_, 
+and_CC not_RB -_- going_VBG -_- there_RB and_CC its_PRP$ posterior_NN probability_NN ,_, 
+because_IN the_DT output_NN is_VBZ always_RB gonna_VBG be_VB 
+all_PDT the_DT decision_NN nodes_NNS and_CC all_PDT the_DT -_- the_DT -_- a-_NN all_PDT the_DT posterior_NN probabilities_NNS for_IN all_PDT the_DT values_NNS ._. 
+And_CC then_RB we_PRP would_MD just_RB look_VB at_IN the_DT ,_, eh_NN ,_, Struct_NNP that_IN we_PRP wanna_VBP look_VB at_IN in_IN terms_NNS of_IN if_IN -_- if_IN we_PRP 're_VBP only_RB asking_VBG about_IN one_CD of_IN the_DT -_- 
+So_RB like_IN ,_, if_IN I_PRP 'm_VBP just_RB interested_JJ in_IN the_DT going_VBG -_- there_RB node_NN ,_, 
+I_PRP would_MD just_RB pull_VB that_DT information_NN out_IN of_IN the_DT Struct_NNP 
+that_WDT gets_VBZ return-_NN that_WDT would_MD -_- that_IN Java_NNP Bayes_NNP would_MD output_NN ?_. 
+Um_NNP ,_, 
+pretty_RB much_JJ ,_, yes_UH ,_, but_RB 
+
+I_PRP think_VBP it_PRP 's_VBZ a_DT little_JJ bit_NN more_RBR complex_JJ ._. 
+As_IN ,_, if_IN I_PRP understand_VBP it_PRP correctly_RB ,_, it_PRP always_RB gives_VBZ you_PRP all_PDT the_DT posterior_NN probabilities_NNS for_IN all_PDT the_DT values_NNS of_IN all_DT decision_NN nodes_NNS ._. 
+So_RB ,_, when_WRB we_PRP 
+input_NN something_NN ,_, 
+we_PRP always_RB get_VBP the_DT ,_, uh_UH ,_, posterior_NN probabilities_NNS for_IN all_DT of_IN these_DT ._. Right_RB ?_. 
+O_K_NNP ._. 
+So_RB there_EX is_VBZ no_DT way_NN of_IN telling_VBG it_PRP t-_NN -_- 
+not_RB to_TO tell_VB us_PRP about_IN the_DT EVA_NNP values_NNS ._. 
+Yeah_UH ,_, wait_VB I_PRP agree_VBP ,_, that_DT 's_VBZ -_- yeah_UH ,_, use_NN -_- oh_UH ,_, uh_UH Yeah_UH ,_, O_K_NNP ._. 
+So_RB -_- so_IN we_PRP get_VBP this_DT whole_JJ 
+list_NN of_IN -_- of_IN ,_, um_UH ,_, 
+things_NNS ,_, and_CC the_DT question_NN is_VBZ 
+what_WP to_TO do_VB with_IN it_PRP ,_, 
+what_WP to_TO hand_VB on_IN ,_, 
+how_WRB to_TO interpret_VB it_PRP ,_, 
+in_IN a_DT sense_NN ._. 
+So_RB y-_NN you_PRP said_VBD if_IN you_PRP -_- "_'' I_PRP 'm_VBP only_RB interested_JJ in_IN whether_IN he_PRP wants_VBZ to_TO go_VB there_EX or_CC not_RB "_'' ,_, then_RB I_PRP just_RB look_VBP at_IN that_DT node_NN ,_, 
+look_VB which_WDT one_CD -_- 
+Look_VB at_IN that_DT Struct_NNP in_IN the_DT output_NN ,_, right_NN ?_. 
+Yep_NNP ._. 
+Look_VB at_IN that_DT Struct_NNP in_IN the_DT -_- the_DT output_NN ,_, even_RB though_IN 
+I_PRP would_MD n't_RB call_VB it_PRP a_DT "_'' Struct_NNP "_'' ._. But_CC ._. 
+Well_RB i-_NN well_RB ,_, it_PRP 's_VBZ an_DT X_M_L_NNP Structure_NNP that_DT 's_VBZ being_VBG res-_NN returned_VBD ,_, right_NN ?_. 
+Oh_UH ._. Mm-hmm_NNP ._. 
+So_IN every_DT part_NN of_IN a_DT structure_NN is_VBZ a_DT "_'' Struct_NNP "_'' ._. 
+Yeah_UH ._. 
+Yeah_UH ,_, I_PRP just_RB uh_UH -_- I_PRP just_RB was_VBD -_- abbreviated_JJ it_PRP 
+to_TO Struct_NNP in_IN my_PRP$ head_NN ,_, and_CC 
+
+started_VBD going_VBG with_IN that_DT ._. 
+That_DT element_NN or_CC object_VBP ,_, 
+I_PRP would_MD say_VB ._. 
+Not_RB a_DT C_Struct_NNP ._. That_DT 's_VBZ not_RB what_WP I_PRP was_VBD trying_VBG to_TO k-_NN though_IN yeah_UH ._. 
+Yeah_UH ._. 
+O_K_NNP ._. 
+And_CC ,_, um_UH ,_, 
+the_DT reason_NN is_VBZ -_- 
+why_WRB I_PRP think_VBP it_PRP 's_VBZ a_DT little_JJ bit_NN more_RBR complex_JJ or_CC why_WRB -_- why_WRB we_PRP can_MD even_RB think_VB about_IN it_PRP as_IN an_DT interesting_JJ problem_NN in_IN and_CC of_IN itself_PRP is_VBZ -_- 
+Um_NNP ._. 
+So_RB ._. 
+The_DT ,_, uh_UH -_- 
+Let_VB 's_PRP look_VB at_IN an_DT example_NN ._. 
+Well_RB ,_, w-_NN -_- would_MD n't_RB we_PRP just_RB take_VBP the_DT structure_NN that_WDT 's_VBZ outputted_JJ 
+and_CC then_RB run_VB another_DT transformation_NN on_IN it_PRP ,_, that_WDT would_MD just_RB dump_VB the_DT one_CD that_IN we_PRP wanted_VBD out_RP ?_. 
+
+Yeah_UH ._. w-_NN We_PRP 'd_MD need_VB to_TO prune_VB ._. 
+Right_RB ?_. 
+
+Throw_VB things_NNS away_RB ._. 
+Well_RB ,_, actually_RB ,_, you_PRP do_VBP n't_RB even_RB need_VB to_TO do_VB that_DT with_IN X_M_L_NNP ._. D-_NNP Ca_NNP n't_RB you_PRP just_RB look_VBP at_IN one_CD specific_JJ -_- 
+No-_NNP 
+
+Yeah_UH ,_, exactly_RB ._. The_DT -_- 
+Xerxes_NNP 
+allows_VBZ you_PRP to_TO say_VB ,_, u-_NN "_'' Just_RB give_VB me_PRP the_DT value_NN of_IN that_DT ,_, and_CC that_IN ,_, and_CC that_DT ._. "_'' 
+But_CC ,_, we_PRP do_VBP n't_RB really_RB know_VB what_WP we_PRP 're_VBP interested_JJ in_IN before_IN we_PRP look_VBP at_IN the_DT complete_JJ -_- at_IN -_- at_IN the_DT overall_JJ result_NN ._. 
+So_IN the_DT person_NN said_VBD ,_, 
+um_UH ,_, 
+"_'' Where_WRB is_VBZ X__NNP ?_. "_'' and_CC so_RB ,_, 
+
+we_PRP want_VBP to_TO know_VB ,_, 
+um_UH ,_, 
+is_VBZ -_- Does_VBZ he_PRP want_VBP 
+info_NN ?_. 
+o-_NN on_IN this_DT ?_. or_CC know_VB the_DT location_NN ?_. 
+Or_CC does_VBZ he_PRP want_VB to_TO go_VB there_RB ?_. 
+Let_VB 's_PRP assume_VB this_DT is_VBZ our_PRP$ -_- our_PRP$ question_NN ._. 
+Sure_RB ._. 
+Nuh_NNP ?_. 
+So_RB ._. 
+Um_NNP ._. 
+
+Do_VBP this_DT in_IN Perl_NNP ._. 
+
+So_IN we_PRP get_VBP -_- 
+
+O_K_NNP ._. 
+Let_VB 's_PRP assume_VB this_DT is_VBZ the_DT output_NN ._. 
+So_RB ._. 
+We_PRP should_MD con-_NN be_VB able_JJ to_TO conclude_VB from_IN that_DT that_DT -_- 
+I_PRP mean_VBP ._. It_PRP 's_VBZ always_RB gonna_VBG give_VB us_PRP a_DT value_NN of_IN 
+how_WRB likely_JJ we_PRP think_VBP i-_NN it_PRP is_VBZ that_IN he_PRP wants_VBZ to_TO go_VB there_EX and_CC does_VBZ n't_RB want_VB to_TO go_VB there_RB ,_, 
+or_CC how_WRB likely_JJ it_PRP is_VBZ that_IN he_PRP wants_VBZ to_TO 
+get_VB information_NN ._. 
+But_CC ,_, maybe_RB w-_NN we_PRP should_MD just_RB reverse_VB this_DT to_TO make_NN it_PRP a_DT little_JJ bit_NN more_RBR delicate_JJ ._. 
+So_RB ,_, does_VBZ he_PRP wanna_VB know_VB where_WRB it_PRP is_VBZ ?_. or_CC does_VBZ he_PRP wanna_VB go_VB there_RB ?_. 
+He_PRP wants_VBZ to_TO know_VB where_WRB it_PRP is_VBZ ._. 
+
+Right_RB ._. 
+I_PRP -_- I_PRP -_- I_PRP tend_VBP to_TO agree_VB ._. And_CC if_IN it_PRP 's_VBZ -_- 
+If_IN -_- 
+Well_RB now_RB ,_, y-_NN I_PRP mean_VBP ,_, you_PRP could_MD -_- 
+And_CC i-_NN if_IN there_EX 's_VBZ sort_NN of_IN a_DT clear_JJ winner_NN here_RB ,_, 
+and_CC ,_, um_UH -_- 
+and_CC this_DT is_VBZ pretty_RB ,_, uh_UH -_- 
+indifferent_JJ ,_, 
+
+
+
+
+then_RB we_PRP -_- then_RB we_PRP might_MD conclude_VB that_IN he_PRP actually_RB wants_VBZ to_TO 
+just_RB know_VB where_WRB ,_, uh_UH t-_NN uh_UH ,_, he_PRP does_VBZ want_VB to_TO go_VB there_RB ._. 
+Uh_NNP ,_, out_IN of_IN curiosity_NN ,_, is_VBZ there_EX a_DT reason_NN why_WRB we_PRP would_MD n't_RB 
+combine_VB 
+these_DT three_CD nodes_NNS ?_. 
+into_IN one_CD smaller_JJR subnet_NN ?_. 
+that_DT would_MD just_RB 
+basically_RB be_VB 
+the_DT question_NN for_IN -_- We_PRP have_VBP "_'' where_WRB is_VBZ X__NNP ?_. "_'' is_VBZ the_DT question_NN ,_, right_NN ?_. That_DT would_MD just_RB be_VB Info-on_NNP or_CC Location_NNP ?_. 
+Based_VBN upon_IN -_- 
+Or_CC Go_VB -_- there_RB ._. A_DT lot_NN of_IN people_NNS ask_VBP that_RB ,_, if_IN they_PRP actually_RB just_RB wanna_VBP go_VB there_RB ._. 
+People_NNS come_VBP up_IN to_TO you_PRP on_IN campus_NN and_CC say_VB ,_, "_'' Where_WRB 's_VBZ the_DT library_NN ?_. "_'' 
+You_PRP 're_VBP gonna_VBG say_VBP -_- y-_NN you_PRP 're_VBP gonna_VBG say_VBP ,_, g-_NN "_'' Go_VB down_RB that_DT way_NN ._. "_'' 
+You_PRP 're_VBP not_RB gonna_VBG say_VB "_'' It_PRP 's_VBZ -_- It_PRP 's_VBZ five_CD hundred_CD yards_NNS away_RB from_IN you_PRP "_'' or_CC "_'' It_PRP 's_VBZ north_RB of_IN you_PRP "_'' ,_, or_CC -_- 
+"_'' it_PRP 's_VBZ located_VBN -_- "_'' 
+Well_RB ,_, I_PRP mean_VBP -_- But_CC the_DT -_- there_EX 's_VBZ -_- So_IN you_PRP just_RB have_VBP three_CD 
+decisions_NNS for_IN the_DT final_JJ node_NN ,_, that_WDT would_MD link_VB thes-_NN these_DT three_CD nodes_NNS in_IN the_DT net_NN together_RB ._. 
+Um_NNP ._. 
+I_PRP do_VBP n't_RB know_VB whether_IN I_PRP understand_VBP what_WP you_PRP mean_VBP ._. But_CC ._. Again_RB ,_, in_IN this_DT -_- 
+Given_VBN this_DT input_NN ,_, we_PRP ,_, also_RB in_IN some_DT situations_NNS ,_, may_MD wanna_VB 
+postulate_NN an_DT opinion_NN whether_IN 
+that_DT person_NN wants_VBZ to_TO go_VB there_EX now_RB 
+the_DT nicest_NN way_NN ,_, use_NN a_DT cab_NN ,_, or_CC so_RB s-_NN 
+wants_VBZ to_TO know_VB it_PRP -_- wants_VBZ to_TO know_VB where_WRB it_PRP is_VBZ because_IN he_PRP wants_VBZ something_NN fixed_VBN there_RB ,_, because_IN he_PRP wants_VBZ to_TO 
+visit_NN t-_NN it_PRP or_CC whatever_WDT ._. 
+So_RB ,_, it_PRP -_- n-_NN I_PRP mean_VBP -_- a-_NN All_DT I_PRP 'm_VBP saying_VBG is_VBZ ,_, 
+whatever_WDT our_PRP$ input_NN is_VBZ ,_, we_PRP 're_VBP always_RB gonna_VBG get_VB the_DT full_JJ 
+output_NN ._. 
+And_CC some_DT -_- 
+some_DT things_NNS 
+will_MD always_RB be_VB sort_NN of_IN 
+too_RB -_- not_RB significant_JJ enough_RB ._. 
+Wha-_NNP 
+Or_CC i-_NN or_CC i-_NN it_PRP 'll_MD be_VB tight_JJ ._. You_PRP wo_MD n't_RB -_- it_PRP 'll_MD be_VB hard_JJ to_TO decide_VB ._. But_CC I_PRP mean_VBP ,_, I_PRP guess_VBP -_- I_PRP guess_VBP the_DT thing_NN is_VBZ ,_, 
+Yep_NNP ._. 
+uh_UH ,_, 
+this_DT is_VBZ another_DT ,_, smaller_JJR ,_, case_NN of_IN reasoning_NN in_IN the_DT case_NN of_IN an_DT uncertainty_NN ,_, which_WDT makes_VBZ me_PRP think_VBP Bayes_NNP -_- net_NN should_MD be_VB 
+the_DT way_NN to_TO solve_VB 
+these_DT things_NNS ._. So_RB if_IN you_PRP had_VBD -_- If_IN for_IN every_DT construction_NN ,_, right_NN ?_. 
+Oh_UH !_. 
+you_PRP could_MD say_VB ,_, "_'' Well_RB ,_, there_EX -_- Here_RB 's_VBZ the_DT Where-_NNP Is_VBZ construction_NN ._. "_'' 
+And_CC for_IN the_DT Where_WRB -_- Is_VBZ construction_NN ,_, we_PRP know_VBP we_PRP need_VBP to_TO l-_NN look_NN at_IN this_DT node_NN ,_, 
+
+that_IN merges_NNS these_DT three_CD things_NNS together_RB 
+Mm-hmm_NNP ._. 
+as_IN for_IN th-_NN to_TO decide_VB the_DT response_NN ._. And_CC since_IN we_PRP have_VBP a_DT finite_JJ number_NN of_IN constructions_NNS that_IN we_PRP can_MD deal_VB with_IN ,_, we_PRP could_MD have_VB a_DT finite_JJ number_NN of_IN nodes_NNS ._. 
+O_NNP __NN K._NN 
+Say_VB ,_, if_IN we_PRP had_VBD to_TO y-_NN deal_NN with_IN arbitrary_JJ language_NN ,_, it_PRP would_MD n't_RB make_VB any_DT sense_NN to_TO do_VB that_DT ,_, because_IN 
+Mm-hmm_NNP ._. 
+there_EX 'd_MD be_VB no_DT way_NN to_TO generate_VB the_DT nodes_NNS for_IN every_DT possible_JJ sentence_NN ._. 
+Mm-hmm_NNP ._. 
+But_CC since_IN we_PRP can_MD only_RB deal_VB with_IN a_DT finite_JJ amount_NN of_IN stuff_NN -_- 
+So_RB ,_, basically_RB ,_, the_DT idea_NN is_VBZ to_TO f-_NN -_- 
+to_TO feed_VB the_DT output_NN of_IN that_DT 
+
+belief_NN -_- net_NN into_IN another_DT belief_NN -_- net_NN ._. 
+Yeah_UH ,_, so_RB basically_RB take_VB these_DT three_CD things_NNS and_CC then_RB put_VB them_PRP into_IN another_DT belief_NN -_- net_NN ._. 
+But_CC ,_, why_WRB -_- why_WRB -_- why_WRB only_RB those_DT three_CD ?_. Why_WRB not_RB the_DT whol-_NN 
+Well_RB ,_, I_PRP mean_VBP ,_, d-_NN For_IN the_DT Where_WRB -_- Is_VBZ question_NN ._. 
+So_IN we_PRP 'd_MD have_VB a_DT node_NN for_IN the_DT Where_WRB -_- Is_VBZ question_NN ._. 
+Yeah_UH ._. But_CC we_PRP believe_VBP that_IN all_PDT the_DT decision_NN nodes_NNS are_VBP -_- can_MD be_VB relevant_JJ for_IN the_DT Where_WRB -_- Is_VBZ ,_, 
+and_CC the_DT Where_WRB -_- How_WRB -_- do_VBP -_- I_NNP -_- get_VBP -_- to_TO or_CC the_DT Tell_VB -_- me_PRP -_- something_NN -_- about_RB ._. 
+
+Is_VBZ food_NN not_RB allowed_VBD in_IN here_RB ?_. 
+You_PRP can_MD come_VB in_IN if_IN you_PRP want_VBP ._. 
+Yes_UH ,_, it_PRP is_VBZ allowed_VBN ._. 
+
+As_RB long_RB as_IN y-_NN you_PRP 're_VBP not_RB wearing_VBG your_PRP$ h-_NN your_PRP$ h-_NN headphones_NNS ._. 
+Alright_NNP ._. Just_RB a_DT second_NN ._. I_PRP 'll_MD be_VB back_RB ._. 
+
+
+
+
+Well_RB ,_, I_PRP do-_NN I_PRP -_- See_VB ,_, I_PRP do_VBP n't_RB know_VB if_IN this_DT is_VBZ a_DT good_JJ idea_NN or_CC not_RB ._. I_PRP 'm_VBP just_RB throwing_VBG it_PRP out_RP ._. 
+
+
+
+But_CC uh_UH ,_, it_PRP seems_VBZ like_IN we_PRP could_MD have_VB -_- I_PRP mea-_NN or_CC uh_UH we_PRP could_MD put_VB all_DT of_IN the-_NN all_DT of_IN the_DT r-_NN information_NN that_WDT could_MD also_RB be_VB relevant_JJ 
+into_IN the_DT Where_WRB -_- Is_VBZ node_NN answer_NN 
+Mm-hmm_NNP ._. 
+Yep_NNP ._. 
+node_NN 
+thing_NN 
+stuff_NN ._. 
+And_CC uh_UH -_- 
+
+O_K_NNP ._. 
+I_PRP mean_VBP -_- 
+
+Let_VB 's_PRP not_RB forget_VB we_PRP 're_VBP gonna_VBG get_VB some_DT very_RB strong_JJ input_NN from_IN these_DT sub-_NN dis-_NN from_IN these_DT discourse_NN things_NNS ,_, right_NN ?_. 
+
+
+So_RB ._. 
+"_'' Tell_VB me_PRP the_DT location_NN of_IN X__NNP ._. "_'' 
+
+
+Nuh_NNP ?_. 
+Or_CC "_'' Where_WRB is_VBZ X__NNP located_VBN 
+
+We_PRP u-_NN 
+at_RP ?_. "_'' Nuh_NNP ?_. 
+Yeah_UH ,_, I_PRP know_VBP ,_, but_CC the_DT Bayes_NNP -_- net_NN would_MD be_VB able_JJ to_TO -_- The_DT weights_NNS on_IN the_DT -_- 
+on_IN the_DT nodes_NNS in_IN the_DT Bayes_NNP -_- net_NN would_MD be_VB able_JJ to_TO do_VB all_DT that_IN ,_, would_MD n't_RB it_PRP ?_. 
+Mm-hmm_NNP ._. 
+Here_RB 's_VBZ a_DT k-_NN 
+
+Oh_UH !_. 
+Oh_UH ,_, I_PRP 'll_MD wait_VB until_IN you_PRP 're_VBP plugged_VBD in_IN ._. 
+Oh_UH ,_, do_VBP n't_RB sit_VB there_RB ._. Sit_NNP here_RB ._. 
+You_PRP know_VBP how_WRB you_PRP do_VBP n't_RB like_VB that_DT one_CD ._. It_PRP 's_VBZ O_K_NNP ._. 
+Oh_UH ,_, do_VBP I_PRP not_RB ?_. 
+That_DT 's_VBZ the_DT weird_JJ one_CD ._. 
+That_DT 's_VBZ the_DT one_CD that_DT 's_VBZ painful_JJ ._. That_DT hurts_VBZ ._. It_PRP hurts_VBZ so_RB bad_JJ ._. 
+
+
+
+I_PRP 'm_VBP h-_NN I_PRP 'm_VBP happy_JJ that_IN they_PRP 're_VBP recording_NN that_DT ._. 
+That_DT headphone_NN ._. The_DT headphone_NN that_IN you_PRP have_VBP to_TO put_VB on_IN backwards_JJ ,_, with_IN the_DT little_JJ -_- little_JJ thing_NN -_- and_CC the_DT little_JJ -_- little_JJ foam_NN block_NN on_IN it_PRP ?_. 
+
+It_PRP 's_VBZ a_DT painful_JJ ,_, painful_JJ microphone_NN ._. 
+I_PRP think_VBP it_PRP 's_VBZ th-_NN called_VBD "_'' the_DT Crown_NNP "_'' ._. 
+
+The_DT crown_NN ?_. 
+What_WP ?_. 
+Yeah_UH ,_, versus_CC "_'' the_DT Sony_NNP "_'' ._. 
+
+The_DT Crown_NNP ?_. 
+Is_VBZ that_IN the_DT actual_JJ name_NN ?_. 
+Mm-hmm_NNP ._. 
+O_K_NNP ._. 
+The_DT manufacturer_NN ._. 
+I_PRP do_VBP n't_RB see_VB a_DT manufacturer_NN on_IN it_PRP ._. 
+You_PRP w-_NN 
+Oh_UH ,_, wait_VB ,_, here_RB it_PRP is_VBZ ._. h-_NN This_DT thingy_NN ._. 
+Yeah_UH ,_, it_PRP 's_VBZ "_'' The_DT Crown_NNP "_'' ._. 
+The_DT crown_NN of_IN pain_NN !_. 
+
+
+Yes_UH ._. 
+You_PRP 're_VBP on_IN -_- line_NN ?_. 
+Are_VBP you_PRP -_- are_VBP your_PRP$ mike_NN o-_NN Is_VBZ your_PRP$ mike_NN on_RP ?_. O_K_NNP ._. 
+Indeed_RB ._. 
+So_IN you_PRP 've_VBP been_VBN working_VBG with_IN these_DT guys_NNS ?_. You_PRP know_VBP what_WP 's_VBZ going_VBG on_RP ?_. 
+Yes_UH ,_, I_PRP have_VBP ._. 
+
+And_CC ,_, I_PRP do_VBP ._. 
+Yeah_UH ,_, alright_NN ._. s-_NN So_RB where_WRB are_VBP we_PRP ?_. 
+Excellent_NNP !_. 
+We_PRP 're_VBP discussing_VBG this_DT ._. 
+I_PRP do_VBP n't_RB think_VB it_PRP can_MD handle_VB French_JJ ,_, but_CC anyway_RB ._. 
+
+
+So_RB ._. 
+Assume_VB we_PRP have_VBP something_NN coming_VBG in_IN ._. A_DT person_NN says_VBZ ,_, "_'' Where_WRB is_VBZ X__NNP ?_. "_'' ,_, and_CC we_PRP get_VBP a_DT certain_JJ -_- We_PRP have_VBP a_DT Situation_NNP vector_NN and_CC a_DT User_NNP vector_NN and_CC everything_NN is_VBZ fine_NN ?_. 
+
+
+
+
+An-_NNP an-_NN and_CC -_- and_CC our_PRP$ -_- and_CC our_PRP$ -_- 
+Did_VBD you_PRP just_RB sti-_NN Did_VBD you_PRP just_RB stick_VBP the_DT m-_NN the_DT -_- the_DT -_- the_DT microphone_NN actually_RB in_IN the_DT tea_NN ?_. 
+
+
+No._NN 
+
+
+And_CC ,_, um_UH ,_, 
+
+I_PRP 'm_VBP not_RB drinking_NN tea_NN ._. What_WP are_VBP you_PRP talking_VBG about_RP ?_. 
+Oh_UH ,_, yeah_UH ._. Sorry_JJ ._. 
+let_VB 's_PRP just_RB assume_VB our_PRP$ Bayes_NNP -_- net_NN just_RB has_VBZ three_CD decision_NN nodes_NNS for_IN the_DT time_NN being_VBG ._. 
+These_DT three_CD ,_, he_PRP wants_VBZ to_TO know_VB something_NN about_IN it_PRP ,_, he_PRP wants_VBZ to_TO know_VB where_WRB it_PRP is_VBZ ,_, he_PRP wants_VBZ to_TO go_VB there_RB ._. 
+
+In_IN terms_NNS of_IN ,_, these_DT would_MD be_VB wha-_NN how_WRB we_PRP would_MD answer_VB the_DT question_NN Where_WRB -_- ,_, right_NN ?_. 
+We_PRP u-_NN 
+
+This_DT is_VBZ -_- i-_NN That_DT 's_VBZ what_WP you_PRP s-_NN it_PRP seemed_VBD like_IN ,_, explained_VBD it_PRP to_TO me_PRP earlier_JJR w-_NN 
+We_PRP -_- we_PRP 're_VBP -_- we_PRP wanna_VBP know_VB how_WRB to_TO answer_VB the_DT question_NN "_'' Where_WRB is_VBZ X__NNP ?_. "_'' 
+Yeah_UH ,_, but_CC ,_, mmm_NN ._. 
+
+Yeah_UH ._. 
+No_DT ,_, I_PRP can_MD -_- I_PRP can_MD do_VB the_DT Timing_NN node_NN in_IN here_RB ,_, too_RB ,_, and_CC say_VB "_'' O_K_NNP ._. "_'' 
+Well_RB ,_, yeah_UH ,_, but_CC in_IN the_DT s-_NN uh_UH ,_, let_VB 's_POS just_RB deal_NN with_IN the_DT s-_NN the_DT simple_JJ case_NN of_IN we_PRP 're_VBP not_RB worrying_VBG about_IN timing_NN or_CC anything_NN ._. 
+We_PRP just_RB want_VBP to_TO know_VB how_WRB we_PRP should_MD answer_VB "_'' Where_WRB is_VBZ X__NNP ?_. "_'' 
+
+O_K_NNP ._. 
+And_CC ,_, um_UH ,_, 
+O_K_NNP ,_, and_CC ,_, 
+Go_VB -_- there_RB has_VBZ two_CD values_NNS ,_, right_NN ?_. ,_, Go_VB -_- there_RB and_CC not_RB -_- Go_VB -_- there_RB ._. Let_VB 's_PRP assume_VB those_DT are_VBP the_DT posterior_NN probabilities_NNS of_IN that_DT ._. 
+Mm-hmm_NNP ._. 
+Info_NN -_- on_IN has_VBZ True_JJ or_CC False_NNP and_CC Location_NNP ._. So_RB ,_, he_PRP wants_VBZ to_TO know_VB something_NN about_IN it_PRP ,_, and_CC he_PRP wants_VBZ to_TO know_VB something_NN -_- he_PRP wants_VBZ to_TO know_VB Where_WRB -_- -_- ,_, 
+
+Excuse_NNP me_PRP ._. 
+has_VBZ these_DT values_NNS ._. 
+
+And_CC ,_, um_UH ,_, 
+Oh_UH ,_, I_PRP see_VBP why_WRB we_PRP ca_MD n't_RB do_VB that_DT ._. 
+And_CC ,_, um_UH ,_, in_IN this_DT case_NN we_PRP would_MD probably_RB all_DT agree_VB that_DT 
+
+he_PRP wants_VBZ to_TO go_VB there_RB ._. Our_PRP$ belief_NN -_- net_NN thinks_VBZ he_PRP wants_VBZ to_TO go_VB there_RB ,_, right_NN ?_. In_IN the_DT ,_, uh_UH ,_, whatever_WDT ,_, if_IN we_PRP have_VBP something_NN like_IN 
+Yeah_UH ._. 
+Mm-hmm_NNP ._. 
+
+
+this_DT here_RB ,_, 
+and_CC 
+this_DT like_IN that_DT and_CC maybe_RB here_RB also_RB some_DT -_- 
+You_PRP should_MD probably_RB 
+make_VB them_PRP out_IN of_IN -_- Yeah_UH ._. 
+Well_RB ,_, it-_NN 
+something_NN like_IN that_DT ,_, 
+then_RB we_PRP would_MD guess_VB ,_, "_'' Aha_NNP !_. He_PRP ,_, our_PRP$ belief_NN -_- net_NN ,_, 
+
+has_VBZ s-_NN stronger_JJR beliefs_NNS that_IN he_PRP wants_VBZ to_TO know_VB where_WRB it_PRP is_VBZ ,_, than_IN actually_RB wants_VBZ to_TO go_VB there_RB ._. "_'' 
+
+
+Right_RB ?_. 
+That_DT it_PRP -_- Does_VBZ n't_RB this_DT assume_VB ,_, though_RB ,_, that_IN they_PRP 're_VBP evenly_RB weighted_JJ ?_. 
+True_JJ ._. 
+Like_IN -_- 
+I_PRP guess_VBP they_PRP are_VBP evenly_RB weighted_JJ ._. 
+The_DT different_JJ decision_NN nodes_NNS ,_, you_PRP mean_VBP ?_. 
+Yeah_UH ,_, the_DT Go_VB -_- there_RB ,_, the_DT Info_NN -_- on_IN ,_, and_CC the_DT Location_NNP ?_. 
+Well_RB ,_, d-_NN yeah_UH ,_, this_DT is_VBZ making_VBG the_DT assumption_NN ._. 
+Yes_UH ._. 
+Like_IN -_- 
+What_WP do_VBP you_PRP mean_VBP by_IN "_'' differently_RB weighted_JJ "_'' ?_. They_PRP do_VBP n't_RB feed_VB into_IN anything_NN really_RB anymore_RB ._. 
+Or_CC I_PRP jus-_NN 
+But_CC I_PRP mean_VBP ,_, why_WRB do_VBP we_PRP -_- 
+
+Le-_NNP 
+If_IN we_PRP trusted_VBD the_DT Go_VB -_- there_RB node_NN more_JJR th-_NN much_RB more_JJR than_IN we_PRP trusted_VBD the_DT other_JJ ones_NNS ,_, then_RB we_PRP would_MD conclude_VB ,_, even_RB in_IN this_DT situation_NN ,_, that_IN he_PRP wanted_VBD to_TO go_VB there_RB ._. 
+So_RB ,_, in_IN that_DT sense_NN ,_, we_PRP weight_NN them_PRP equally_RB 
+O_K_NNP ._. Makes_NNP sense_NN ._. Yeah_UH ._. 
+right_RB now_RB ._. 
+So_RB the-_NN But_CC I_PRP guess_VBP the-_NN k-_NN the_DT question_NN -_- 
+But_CC -_- 
+that_IN I_PRP was_VBD as-_NN er-_NN wondering_VBG or_CC maybe_RB Robert_NNP was_VBD proposing_VBG to_TO me_PRP 
+is_VBZ -_- 
+How_WRB do_VBP we_PRP d-_NN make_VBP the_DT decision_NN on_IN -_- as_IN to_TO -_- which_WDT one_CD to_TO listen_VB to_TO ?_. 
+Yeah_UH ,_, so_RB ,_, the_DT final_JJ d-_NN decision_NN is_VBZ the_DT combination_NN of_IN these_DT three_CD ._. So_RB again_RB ,_, it_PRP 's_VBZ -_- it_PRP 's_VBZ some_DT kind_NN of_IN ,_, uh_UH -_- 
+Bayes_NNP -_- net_NN ._. 
+Yeah_UH ,_, sure_JJ ._. 
+
+O_K_NNP so_RB ,_, then_RB ,_, the_DT question_NN i-_NN So_RB then_RB my_PRP$ question_NN is_VBZ t-_NN to_TO you_PRP then_RB ,_, would_MD be_VB -_- 
+
+So_RB is_VBZ the_DT only_JJ r-_NN reason_NN we_PRP can_MD make_VB all_PDT these_DT smaller_JJR Bayes_NNP -_- nets_NNS ,_, because_IN we_PRP know_VBP we_PRP can_MD only_RB deal_VB with_IN a_DT finite_JJ set_NN of_IN constructions_NNS ?_. 
+Cuz_NNP oth-_NN If_IN we_PRP 're_VBP just_RB taking_VBG arbitrary_JJ language_NN in_IN ,_, we_PRP could_MD n't_RB have_VB a_DT node_NN for_IN every_DT possible_JJ question_NN ,_, you_PRP know_VBP ?_. 
+
+
+
+
+A_DT decision_NN node_NN for_IN every_DT possible_JJ question_NN ,_, you_PRP mean_VBP ?_. 
+
+
+Well_RB ,_, I_PRP -_- like_IN ,_, in_IN the_DT case_NN of_IN -_- Yeah_UH ._. 
+In_IN the_DT ca-_NN Any_DT piece_NN of_IN language_NN ,_, we_PRP would_MD n't_RB be_VB able_JJ to_TO answer_VB it_PRP with_IN this_DT system_NN ,_, b-_NN if_IN we_PRP just_RB h-_NN 
+Cuz_NNP we_PRP would_MD n't_RB have_VB the_DT correct_JJ node_NN ._. Basically_RB ,_, w-_NN what_WP you_PRP 're_VBP s-_NN proposing_VBG is_VBZ a_DT n-_NN Where_WRB -_- Is_VBZ node_NN ,_, right_NN ?_. 
+Yeah_UH ._. 
+And_CC -_- and_CC if_IN we_PRP -_- And_CC if_IN someone_NN -_- says_VBZ ,_, you_PRP know_VBP ,_, uh_UH ,_, something_NN in_IN Mandarin_NNP 
+So_RB is_VBZ -_- 
+
+Yeah_UH ._. 
+to_TO the_DT system_NN ,_, we_PRP '_POS d-_NN would_MD n't_RB know_VB which_WDT node_NN to_TO look_VB at_IN to_TO answer_VB that_DT question_NN ,_, right_NN ?_. 
+
+
+
+Yeah_UH ._. 
+Mmm_NNP ?_. 
+So_RB ,_, but_CC -_- but_CC if_IN we_PRP have_VBP a_DT finite_JJ -_- What_WP ?_. 
+I_PRP do_VBP n't_RB see_VB your_PRP$ point_NN ._. What_WP -_- what_WP -_- what_WP I_PRP am_VBP thinking_VBG ,_, or_CC what_WP 
+we_PRP 're_VBP about_IN to_TO propose_VB here_RB is_VBZ 
+we_PRP 're_VBP always_RB gonna_VBG get_VB the_DT whole_JJ list_NN of_IN 
+values_NNS and_CC their_PRP$ posterior_NN probabilities_NNS ._. 
+And_CC now_RB we_PRP need_VBP an_DT expert_NN system_NN or_CC belief_NN -_- net_NN or_CC something_NN that_WDT interprets_VBZ that_DT ,_, 
+that_WDT looks_VBZ at_IN all_PDT the_DT 
+values_NNS and_CC says_VBZ ,_, 
+"_'' The_DT winner_NN is_VBZ 
+Timing_NN ._. Now_RB ,_, go_VB there_RB ._. "_'' 
+
+"_'' Uh_NNP ,_, go_VB there_RB ,_, Timing_NN ,_, now_RB ._. "_'' 
+
+Or_CC ,_, "_'' The_DT winner_NN is_VBZ Info_NN -_- on_IN ,_, 
+Function_NN -_- Off_RB ._. "_'' 
+So_RB ,_, he_PRP wants_VBZ to_TO know_VB something_NN about_IN it_PRP ,_, and_CC what_WP it_PRP does_VBZ ._. 
+Nuh_NNP ?_. 
+Uh_NNP ,_, regardless_RB of_IN -_- of_IN -_- of_IN the_DT input_NN ._. Wh-_NNP Regardle-_NNP 
+Yeah_UH ,_, but-_NN 
+But_CC how_WRB does_VBZ the_DT expert_NN -_- but_CC how_WRB does_VBZ the_DT expert_NN system_NN 
+know_VB -_- how-_NN who-_NN which_WDT one_CD to_TO declare_VB the_DT winner_NN ,_, if_IN it_PRP does_VBZ n't_RB know_VB the_DT question_NN it_PRP is_VBZ ,_, and_CC how_WRB that_DT question_NN should_MD be_VB answered_VBN ?_. 
+Based_VBN on_IN the_DT k-_NN what_WP the_DT question_NN was_VBD ,_, so_RB what_WP the_DT discourse_NN ,_, the_DT ontology_NN ,_, the_DT situation_NN and_CC the_DT user_NN model_NN gave_VBD us_PRP ,_, we_PRP came_VBD up_RB with_IN these_DT values_NNS for_IN these_DT decisions_NNS ._. 
+Yeah_UH I_PRP know_VBP ._. But_CC how_WRB do_VBP we_PRP weight_NN what_WP we_PRP get_VBP out_RP ?_. 
+As_IN ,_, which_WDT one_CD i-_NN Which_WDT ones_NNS are_VBP important_JJ ?_. 
+So_RB my_PRP$ i-_NN So_RB ,_, if_IN we_PRP were_VBD to_TO it_PRP with_IN a_DT Bayes_NNP -_- net_NN ,_, we_PRP 'd_MD have_VB to_TO have_VB a_DT node_NN -_- 
+
+for_IN every_DT question_NN that_IN we_PRP knew_VBD how_WRB to_TO deal_VB with_IN ,_, 
+that_WDT would_MD take_VB all_DT of_IN the_DT inputs_NNS and_CC weight_VB them_PRP appropriately_RB for_IN that_DT question_NN ._. 
+Mm-hmm_NNP ._. 
+Does_VBZ that_WDT make_VBP sense_NN ?_. 
+Yay_NNP ,_, nay_NN ?_. 
+Um_NNP ,_, I_PRP mean_VBP ,_, are_VBP you_PRP saying_VBG that_IN ,_, what_WP happens_VBZ if_IN you_PRP try_VBP to_TO scale_VB this_DT up_IN to_TO the_DT situation_NN ,_, or_CC are_VBP we_PRP just_RB dealing_VBG with_IN arbitrary_JJ language_NN ?_. 
+We_PRP -_- 
+Is_VBZ that_IN your_PRP$ point_NN ?_. 
+Well_RB ,_, no_UH ._. I_PRP -_- I_PRP guess_VBP my_PRP$ question_NN is_VBZ ,_, 
+Is_VBZ the_DT reason_NN that_IN we_PRP can_MD make_VB a_DT node_NN f-_NN or_CC -_- O_K_NNP ._. So_RB ,_, lemme_NN 
+see_VB if_IN I_PRP 'm_VBP confused_VBN ._. Are_VBP we_PRP going_VBG to_TO make_VB a_DT node_NN for_IN every_DT question_NN ?_. Does_VBZ that_WDT make_VBP sense_NN ?_. -_- Or_CC not_RB ._. 
+For_IN every_DT question_NN ?_. Like_IN -_- 
+Every_DT construction_NN ._. 
+Hmm_NNP ._. 
+I_PRP do_VBP n't_RB -_- Not_RB necessarily_RB ,_, I_PRP would_MD think_VB ._. I_PRP mean_VBP ,_, it_PRP 's_VBZ not_RB based_VBN on_IN constructions_NNS ,_, it_PRP 's_VBZ based_VBN on_IN things_NNS like_IN ,_, uh_UH ,_, there_EX 's_VBZ gonna_VBG be_VB a_DT node_NN for_IN Go_VB -_- there_RB or_CC not_RB ,_, and_CC there_EX 's_VBZ gonna_VBG be_VB a_DT node_NN for_IN Enter_VB ,_, View_NNP ,_, Approach_NNP ._. 
+Wel-_NNP 
+W-_NNP O_K_NNP ._. 
+So_RB ,_, someone_NN asked_VBD a_DT question_NN ._. 
+Yeah_UH ._. 
+How_WRB do_VBP we_PRP decide_VBP 
+how_WRB to_TO answer_VB it_PRP ?_. 
+
+
+Well_RB ,_, look_VB at_IN -_- 
+
+look_VB -_- 
+Face_NNP yourself_PRP with_IN this_DT pr-_NN -_- question_NN ._. You_PRP get_VBP this_DT -_- 
+You_PRP 'll_MD have_VB -_- y-_NN This_DT is_VBZ what_WP you_PRP get_VBP ._. 
+And_CC now_RB you_PRP have_VBP to_TO make_VB a_DT decision_NN ._. What_WP do_VBP we_PRP think_VBP ?_. 
+What_WP does_VBZ this_DT tell_VB us_PRP ?_. 
+
+And_CC not_RB knowing_VBG what_WP was_VBD asked_VBN ,_, and_CC what_WP happened_VBD ,_, and_CC whether_IN the_DT person_NN was_VBD a_DT tourist_NN or_CC a_DT local_NN ,_, because_IN all_DT of_IN these_DT factors_NNS have_VBP presumably_RB already_RB gone_VBN into_IN making_VBG these_DT 
+posterior_NN probabilities_NNS ._. 
+Yeah_UH ._. 
+What_WP -_- what_WP we_PRP need_VBP is_VBZ a_SYM -_- just_RB a_DT mechanism_NN that_DT says_VBZ ,_, 
+"_'' Aha_NNP !_. 
+There_EX is_VBZ -_- "_'' 
+I_PRP just_RB do_VBP n't_RB think_VB a_DT "_'' winner_NN -_- take_VB -_- all_DT "_'' type_NN of_IN thing_NN is_VBZ the_DT -_- 
+I_PRP mean_VBP ,_, in_IN general_JJ ,_, like_IN ,_, we_PRP wo_MD n't_RB just_RB have_VB those_DT three_CD ,_, right_NN ?_. We_PRP 'll_MD have_VB ,_, uh_UH ,_, like_IN ,_, many_JJ ,_, many_JJ nodes_NNS ._. 
+Yep_NNP ._. 
+So_IN we_PRP have_VBP to_TO ,_, like_IN -_- So_RB that_IN it_PRP 's_VBZ no_DT longer_RB possible_JJ to_TO just_RB look_VB at_IN the_DT nodes_NNS themselves_PRP and_CC figure_NN out_IN what_WP the_DT person_NN is_VBZ trying_VBG to_TO say_VB ._. 
+Because_IN there_EX are_VBP interdependencies_NNS ,_, right_NN ?_. 
+The_DT uh_UH -_- 
+Uh_NNP ,_, no_UH ._. So_RB if_IN -_- if_IN 
+for_IN example_NN ,_, the_DT Go_VB -_- there_RB posterior_NN possibility_NN is_VBZ so_RB high_JJ ,_, um_UH ,_, 
+uh_UH ,_, w-_NN if_IN it_PRP 's_VBZ -_- if_IN it_PRP has_VBZ reached_VBN -_- reached_VBD a_DT certain_JJ height_NN ,_, then_RB 
+
+
+all_DT of_IN this_DT becomes_VBZ irrelevant_JJ ._. So_RB ._. If_IN -_- even_RB if_IN -_- if_IN the_DT function_NN or_CC the_DT history_NN or_CC something_NN is_VBZ 
+scoring_VBG pretty_RB good_JJ on_IN the_DT true_JJ node_NN ,_, true_JJ value_NN -_- 
+Wel-_NNP 
+
+I_PRP do_VBP n't_RB know_VB about_IN that_DT ,_, cuz_IN that_DT would_MD suggest_VB that_IN -_- I_PRP mean_VBP -_- 
+He_PRP wants_VBZ to_TO go_VB there_EX and_CC know_VB something_NN about_IN it_PRP ?_. 
+Do_VBP they_PRP have_VB to_TO be_VB mutual-_NN 
+Yeah_UH ._. Do_VBP they_PRP have_VB to_TO be_VB mutually_RB exclusive_JJ ?_. 
+I_PRP think_VBP to_TO some_DT extent_NN they_PRP are_VBP ._. 
+Or_CC maybe_RB they_PRP 're_VBP not_RB ._. 
+Cuz_NNP I_PRP ,_, uh_UH -_- The_DT way_NN you_PRP describe_VBP what_WP they_PRP meant_VBD ,_, they_PRP were_VBD n't_RB mutu-_NN uh_UH ,_, they_PRP did_VBD n't_RB seem_VB mutually_RB exclusive_JJ to_TO me_PRP ._. 
+Well_RB ,_, if_IN he_PRP does_VBZ n't_RB want_VB to_TO go_VB there_RB ,_, 
+even_RB if_IN the_DT Enter_VB 
+posterior_NN proba-_NN So_RB ._. 
+Wel-_NNP 
+Go-there_NNP is_VBZ No._NN 
+Enter_VB is_VBZ High_NNP ,_, and_CC Info_NN -_- on_IN is_VBZ High_NNP ._. 
+Well_RB ,_, yeah_UH ,_, just_RB out_IN of_IN the_DT other_JJ three_CD ,_, though_RB ,_, that_IN you_PRP had_VBD in_IN the_DT -_- 
+Hmm_NNP ?_. 
+those_DT three_CD nodes_NNS ._. The-_NNP d-_NN They_PRP did_VBD n't_RB seem_VB like_IN they_PRP were_VBD mutually_RB exclusive_JJ ._. 
+No_DT ,_, there_EX 's_VBZ -_- No._NN But_CC -_- 
+It_PRP 's_VBZ through_IN the_DT -_- 
+So_RB th-_NN s-_NN so_RB ,_, yeah_UH ,_, but_CC some_DT -_- So_RB ,_, some_DT things_NNS would_MD drop_VB out_IN ,_, and_CC some_DT things_NNS would_MD still_RB be_VB important_JJ ._. 
+
+Mm-hmm_NNP ._. 
+But_CC I_PRP guess_VBP what_WP 's_VBZ confusing_JJ me_PRP is_VBZ ,_, if_IN we_PRP have_VBP a_DT Bayes_NNP -_- net_NN to_TO deal_VB w-_NN another_DT Bayes_NNP -_- net_NN to_TO deal_VB with_IN this_DT stuff_NN ,_, 
+
+
+Mm-hmm_NNP ._. 
+you_PRP know_VBP ,_, 
+
+uh_UH ,_, 
+is_VBZ the_DT only_JJ reason_NN -_- O_NNP __NN K_NNP ,_, so_RB ,_, 
+I_PRP guess_VBP ,_, 
+if_IN we_PRP have_VBP a_DT Ba-_NNP another_DT Bayes_NNP -_- net_NN to_TO deal_VB with_IN this_DT stuff_NN ,_, the_DT only_JJ r-_NN reason_NN 
+we_PRP can_MD design_VB it_PRP is_VBZ cuz_IN we_PRP know_VBP 
+what_WP each_DT question_NN is_VBZ asking_VBG ?_. 
+Yeah_UH ._. 
+I_PRP think_VBP that_DT 's_VBZ true_JJ ._. 
+And_CC then_RB ,_, so_RB ,_, the_DT only_JJ reason_NN -_- way_NN we_PRP would_MD know_VB what_WP question_NN he_PRP 's_VBZ asking_VBG is_VBZ based_VBN upon_IN -_- Oh_UH ,_, so_RB if_IN -_- Let_VB 's_POS say_NN I_PRP had_VBD a_DT construction_NN parser_NN ,_, and_CC I_PRP plug_VBP this_DT in_IN ,_, I_PRP would_MD know_VB what_WP each_DT construction_NN -_- the_DT communicative_JJ 
+intent_NN of_IN the_DT construction_NN was_VBD 
+Mm-hmm_NNP ._. 
+and_CC so_RB then_RB I_PRP would_MD know_VB how_WRB to_TO weight_VB the_DT nodes_NNS appropriately_RB ,_, in_IN response_NN ._. 
+So_IN no_DT matter_NN what_WP they_PRP said_VBD ,_, if_IN I_PRP could_MD map_VB it_PRP onto_IN a_DT Where_WRB -_- Is_VBZ construction_NN ,_, 
+Ge-_NNP 
+Mm-hmm_NNP ._. 
+I_PRP could_MD say_VB ,_, "_'' ah_NN !_. 
+well_RB the-_NN the_DT intent_NN ,_, here_RB ,_, was_VBD Where_WRB -_- Is_VBZ "_'' ,_, 
+O_K_NNP ,_, right_JJ ._. 
+and_CC I_PRP could_MD look_VB at_IN those_DT ._. 
+Yeah_UH ._. 
+Yes_UH ,_, I_PRP mean_VBP ._. Sure_RB ._. You_PRP do_VBP need_VBP to_TO know_VB -_- I_PRP mean_VBP ,_, to_TO have_VB that_DT kind_NN of_IN information_NN ._. 
+Hmm_NNP ._. 
+Yeah_UH ,_, I_PRP 'm_VBP also_RB agreeing_VBG that_DT a_DT simple_JJ 
+pru-_NN 
+Take_VB the_DT ones_NNS where_WRB we_PRP have_VBP a_DT clear_JJ winner_NN ._. 
+Forget_VB about_IN the_DT ones_NNS where_WRB it_PRP 's_VBZ all_DT sort_NN of_IN 
+middle_JJ ground_NN ._. 
+Prune_NNP those_DT out_IN and_CC just_RB hand_VB over_IN the_DT ones_NNS where_WRB we_PRP have_VBP a_DT winner_NN ._. 
+Yeah_UH ,_, because_IN that_DT would_MD be_VB the_DT easiest_JJS way_NN ._. 
+We_PRP just_RB compose_NN as_IN an_DT output_NN an_DT X_M_L_NNP mes-_NN message_NN that_DT says_VBZ ._. 
+"_'' Go_VB there_RB now_RB ._. "_'' 
+"_'' Enter_VB 
+historical_JJ information_NN ._. "_'' 
+And_CC not_RB care_VB whether_IN that_DT 's_VBZ consistent_JJ with_IN anything_NN ._. 
+Right_RB ?_. 
+
+But_CC in_IN this_DT case_NN if_IN we_PRP say_VBP ,_, "_'' definitely_RB he_PRP does_VBZ n't_RB want_VB to_TO go_VB there_RB ._. He_PRP just_RB wants_VBZ to_TO know_VB 
+where_WRB it_PRP is_VBZ ._. "_'' 
+or_CC let_VB 's_POS call_NN this_DT -_- this_DT "_'' Look_VB -_- At_RB -_- H-_NN "_'' 
+He_PRP wants_VBZ to_TO know_VB something_NN about_IN the_DT history_NN of_IN ._. So_IN he_PRP said_VBD ,_, 
+"_'' Tell_VB me_PRP something_NN about_IN the_DT history_NN of_IN that_DT ._. "_'' 
+Now_RB ,_, the_DT e-_NN But_CC for_IN some_DT reason_NN the_DT Endpoint_NNP -_- Approach_NNP 
+gets_VBZ a_DT really_RB high_JJ score_NN ,_, too_RB ._. 
+We_PRP ca_MD n't_RB expect_VB this_DT to_TO be_VB sort_NN of_IN at_IN O_NNP __NN point_NN 
+three_CD ,_, three_CD ,_, three_CD ,_, O_NNP __NN point_NN ,_, three_CD ,_, three_CD ,_, three_CD ,_, O_NNP __NN point_NN ,_, three_CD ,_, three_CD ,_, three_CD ._. Right_RB ?_. 
+Somebody_NN needs_VBZ to_TO zap_NN that_DT ._. 
+You_PRP know_VBP ?_. 
+Or_CC 
+know_VB -_- 
+There_EX needs_VBZ to_TO be_VB some_DT knowledge_NN that_DT -_- 
+We_PRP -_- 
+Yeah_UH ,_, but_CC ,_, the_DT Bayes_NNP -_- net_NN that_WDT would_MD merge_VB -_- 
+
+
+I_PRP just_RB realized_VBD that_IN I_PRP had_VBD my_PRP$ hand_NN in_IN between_IN my_PRP$ mouth_NN and_CC my_PRP$ micr-_NN er_UH ,_, my-_NN and_CC my_PRP$ microphone_NN ._. 
+
+
+So_RB then_RB ,_, 
+the_DT Bayes_NNP -_- net_NN that_DT would_MD merge_VB 
+there_RB ,_, that_WDT would_MD make_VB the_DT decision_NN between_IN Go_VB -_- there_RB ,_, Info_NN -_- on_IN ,_, and_CC Location_NNP ,_, 
+would_MD have_VB a_DT node_NN to_TO tell_VB you_PRP which_WDT one_CD of_IN those_DT three_CD you_PRP wanted_VBD ,_, and_CC based_VBN upon_IN that_DT node_NN ,_, then_RB you_PRP would_MD look_VB at_IN the_DT other_JJ stuff_NN ._. 
+
+Yep_NNP ._. 
+I_PRP mean_VBP ,_, it-_NN i-_NN 
+Yep_NNP ._. 
+Does_VBZ that_WDT make_VBP sense_NN ?_. 
+Yep_NNP ._. It_PRP 's_VBZ sort_NN of_IN one_CD of_IN those_DT ,_, that_DT 's_VBZ -_- It_PRP 's_VBZ more_RBR like_IN a_DT decision_NN tree_NN ,_, 
+if_IN -_- if_IN you_PRP want_VBP ._. 
+You_PRP first_JJ look_NN o-_NN at_IN the_DT lowball_NN ones_NNS ,_, and_CC then_RB -_- 
+Yeah_UH ,_, i-_NN 
+Yeah_UH ,_, I_PRP did_VBD n't_RB intend_VB to_TO say_VB that_IN every_DT possible_JJ -_- O_K_NNP ._. 
+There_EX was_VBD a_DT confusion_NN there_RB ,_, k-_NN I_PRP did_VBD n't_RB intend_VB to_TO say_VB every_DT possible_JJ thing_NN should_MD go_VB into_IN the_DT Bayes_NNP -_- net_NN ,_, because_IN some_DT of_IN the_DT things_NNS are_VBP n't_RB relevant_JJ in_IN the_DT Bayes_NNP -_- net_NN 
+for_IN a_DT specific_JJ question_NN ._. 
+
+Like_IN the_DT Endpoint_NNP 
+is_VBZ not_RB necessarily_RB relevant_JJ in_IN the_DT Bayes_NNP -_- net_NN for_IN Where_WRB -_- Is_VBZ until_IN after_IN you_PRP 've_VBP decided_VBN whether_IN you_PRP wanna_VBP go_VB there_EX or_CC not_RB ._. 
+Mm-hmm_NNP ._. 
+Right_RB ._. 
+
+Show_NNP us_PRP the_DT way_NN ,_, Bhaskara_NNP ._. 
+I_PRP guess_VBP the_DT other_JJ thing_NN is_VBZ that_IN um_UH ,_, yeah_UH ._. I_PRP mean_VBP ,_, when_WRB you_PRP 're_VBP asked_VBN a_DT specific_JJ question_NN and_CC you_PRP do_VBP n't_RB even_RB -_- 
+Like_IN ,_, if_IN you_PRP 're_VBP asked_VBN a_DT Where_WRB -_- question_NN ,_, you_PRP may_MD not_RB even_RB look_VB -_- like_IN ,_, ask_VB for_IN the_DT posterior_NN probability_NN of_IN the_DT ,_, uh_UH ,_, E_V_A_NNP node_NN ,_, right_NN ?_. 
+Cuz_NNP ,_, that_DT 's_VBZ what_WP -_- I_PRP mean_VBP ,_, in_IN the_DT Bayes_NNP -_- net_NN you_PRP always_RB ask_VBP for_IN the_DT posterior_NN probability_NN of_IN a_DT specific_JJ node_NN ._. So_RB ,_, I_PRP mean_VBP ,_, 
+you_PRP may_MD not_RB even_RB bother_VB to_TO compute_VB things_NNS you_PRP do_VBP n't_RB need_VB ._. 
+Um_NNP ._. 
+Are_VBP n't_RB we_PRP always_RB computing_VBG all_DT ?_. 
+No._NN 
+You_PRP can_MD compute_VB ,_, uh_UH ,_, the_DT posterior_NN probability_NN of_IN one_CD subset_NN of_IN the_DT nodes_NNS ,_, given_VBN 
+some_DT other_JJ nodes_NNS ,_, but_RB 
+totally_RB ignore_VB some_DT other_JJ nodes_NNS ,_, also_RB ._. 
+Basically_RB ,_, things_NNS you_PRP ignore_VBP get_VB marginalized_JJ over_IN ._. 
+Yeah_UH ,_, but_CC that_DT 's_VBZ -_- that_DT 's_VBZ just_RB shifting_VBG the_DT problem_NN ._. 
+Then_RB you_PRP would_MD have_VB to_TO make_VB a_DT decision_NN ,_, "_'' O_K_NNP ,_, if_IN it_PRP 's_VBZ a_DT Where_WRB -_- Is_VBZ question_NN ,_, which_WDT 
+Yeah_UH ._. So_IN you_PRP have_VBP to_TO make_VB -_- 
+Yeah_UH ._. 
+decision_NN nodes_NNS do_VBP I_PRP query_NN ?_. "_'' 
+Yes_UH ._. 
+That_DT 's_VBZ un-_NN 
+But_CC I_PRP would_MD think_VB that_DT 's_VBZ what_WP you_PRP want_VBP to_TO do_VB ._. Right_RB ?_. 
+Mmm_NNP ._. 
+Well_RB ,_, eventually_RB ,_, you_PRP still_RB have_VBP to_TO pick_VB out_IN which_WDT ones_NNS you_PRP look_VBP at_IN ._. So_IN it_PRP 's_VBZ pretty_RB much_RB the_DT same_JJ problem_NN ,_, is_VBZ n't_RB it_PRP ?_. 
+Yeah_UH ._. 
+Yeah_UH -_- it_PRP 's_VBZ -_- it_PRP 's_VBZ -_- it_PRP 's_VBZ apples_NNS and_CC oranges_NNS ._. Nuh_NNP ?_. 
+
+I_PRP mean_VBP ,_, maybe_RB it_PRP does_VBZ make_VB a_DT difference_NN in_IN terms_NNS of_IN performance_NN ,_, 
+computational_NN time_NN ._. So_RB either_RB you_PRP 
+Mm-hmm_NNP ._. 
+always_RB have_VBP it_PRP compute_VB all_PDT the_DT posterior_NN possibilities_NNS for_IN all_PDT the_DT values_NNS for_IN all_DT nodes_NNS ,_, and_CC then_RB prune_VB 
+Mmm_NNP ._. 
+the_DT ones_NNS you_PRP think_VBP that_DT are_VBP 
+irrelevant_JJ ,_, 
+or_CC you_PRP just_RB make_VBP a_DT p-_NN 
+
+a_DT priori_FW 
+estimate_NN of_IN what_WP you_PRP think_VBP might_MD be_VB relevant_JJ and_CC query_NN those_DT ._. 
+Yeah_UH ._. 
+
+
+So_RB basically_RB ,_, you_PRP 'd_MD have_VB a_DT decision_NN tree_NN query_NN ,_, Go_VB -_- there_RB ._. 
+
+If_IN k-_NN if_IN that_DT 's_VBZ false_JJ ,_, query_NN this_DT one_CD ._. If_IN that_DT 's_VBZ true_JJ ,_, query_NN that_DT one_CD ._. And_CC just_RB basically_RB do_VBP a_DT binary_JJ search_NN through_IN the_DT -_- ?_. 
+I_PRP do_VBP n't_RB know_VB if_IN it_PRP would_MD necessarily_RB be_VB that_RB ,_, uh_UH ,_, complicated_VBN ._. But_CC ,_, uh_UH -_- 
+I_PRP mean_VBP ,_, it_PRP w-_NN 
+Well_RB ,_, in_IN the_DT case_NN of_IN Go_VB -_- there_RB ,_, it_PRP would_MD be_VB ._. In_IN the_DT case_NN -_- Cuz_NNP if_IN you_PRP needed_VBD an-_NN If_IN y-_NN If_IN Go_VB -_- there_RB was_VBD true_JJ ,_, you_PRP 'd_MD wanna_VB know_VB what_WP endpoint_NN 
+was_VBD ._. And_CC if_IN it_PRP was_VBD false_JJ ,_, you_PRP 'd_MD wanna_VB d-_NN look_VB at_IN 
+either_CC Lo-_NNP Income_NNP Info_NN -_- on_IN or_CC History_NN ._. 
+Yeah_UH ._. 
+That_DT 's_VBZ true_JJ ,_, I_PRP guess_VBP ._. Yeah_UH ,_, so_RB ,_, in_IN a_DT way_NN you_PRP would_MD have_VB that_DT ._. 
+Also_RB ,_, I_PRP 'm_VBP somewhat_RB boggled_JJ by_IN that_DT Hugin_NNP software_NN ._. 
+O_K_NNP ,_, why_WRB 's_POS that_DT ?_. 
+I_PRP ca_MD n't_RB figure_VB out_IN how_WRB to_TO get_VB the_DT 
+probabilities_NNS into_IN it_PRP ._. 
+Like_IN ,_, I_PRP 'd_MD look_VB at_IN -_- 
+Mm-hmm_NNP ._. 
+It_PRP 's_VBZ somewha-_NN It_PRP 's_VBZ boggling_VBG me_PRP ._. 
+O_K_NNP ._. 
+Alright_NNP ._. 
+Well_RB ,_, hopefully_RB it_PRP 's_VBZ fixable_JJ ._. 
+Ju-_NNP 
+
+Oh_UH yeah_UH ,_, yeah_UH ._. I_PRP d-_NN I_PRP just_RB think_VBP I_PRP have_VBP n't_RB 
+It_PRP 's_VBZ -_- there_EX 's_VBZ a_SYM -_- 
+
+figured_VBD out_IN what_WP -_- the_DT terms_NNS in_IN Hugin_NNP mean_VB ,_, versus_CC what_WP Java_NNP Bayes_NNP terms_NNS are_VBP ._. 
+
+O_K_NNP ._. 
+
+Um_NNP ,_, by_IN the_DT way_NN ,_, are_VBP -_- Do_VBP we_PRP know_VBP whether_IN Jerry_NNP and_CC Nancy_NNP are_VBP coming_VBG ?_. Or_CC -_- ?_. 
+So_IN we_PRP can_MD figure_VB this_DT out_RP ._. 
+They_PRP should_MD come_VB when_WRB they_PRP 're_VBP done_VBN their_PRP$ stuff_NN ,_, basically_RB ,_, whenever_WRB that_DT is_VBZ ._. 
+So_RB ._. 
+What_WP d-_NN what_WP do_VBP they_PRP need_VBP to_TO do_VB left_VBN ?_. 
+Um_NNP ,_, 
+I_PRP guess_VBP ,_, 
+Jerry_NNP needs_VBZ to_TO enter_VB marks_NNS ,_, but_CC I_PRP do_VBP n't_RB know_VB if_IN he_PRP 's_VBZ gonna_VBG do_VBP that_DT now_RB or_CC later_RB ._. 
+But_CC ,_, uh_UH ,_, if_IN he_PRP 's_VBZ gonna_VBG enter_VB marks_NNS ,_, it_PRP 's_VBZ gonna_VBG take_NN him_PRP awhile_RB ,_, I_PRP guess_VBP ,_, and_CC he_PRP wo_MD n't_RB be_VB here_RB ._. 
+And_CC what_WP 's_VBZ Nancy_NNP doing_VBG ?_. 
+Nancy_NNP ?_. Um_NNP ,_, she_PRP was_VBD sorta_NN finishing_VBG up_RP the_DT ,_, uh_UH ,_, 
+calculation_NN of_IN marks_NNS and_CC assigning_VBG of_IN grades_NNS ,_, but_CC I_PRP do_VBP n't_RB know_VB if_IN she_PRP should_MD be_VB here_RB ._. 
+Well_RB -_- or_CC ,_, she_PRP should_MD be_VB free_JJ after_IN that_DT ,_, so_RB -_- 
+assuming_VBG she_PRP 's_VBZ coming_VBG to_TO this_DT meeting_NN ._. 
+I_PRP do_VBP n't_RB know_VB if_IN she_PRP knows_VBZ about_IN it_PRP ._. 
+She_PRP 's_VBZ on_IN the_DT email_NN list_NN ,_, right_NN ?_. 
+Is_VBZ she_PRP ?_. O_K_NNP ._. 
+Mm-hmm_NNP ._. 
+O_K_NNP ._. 
+Because_IN 
+
+basically_RB ,_, what_WP -_- 
+where_WRB we_PRP also_RB have_VBP decided_VBN ,_, prior_RB to_TO 
+this_DT meeting_NN is_VBZ that_DT 
+we_PRP would_MD have_VB a_DT rerun_NN of_IN the_DT three_CD of_IN us_PRP sitting_VBG together_RB 
+
+
+
+O_K_NNP ._. 
+sometime_RB this_DT week_NN again_RB 
+
+
+O_K_NNP ._. 
+and_CC finish_VB up_RP the_DT ,_, uh_UH ,_, values_NNS 
+of_IN 
+this_DT ._. 
+So_IN we_PRP have_VBP ,_, 
+
+uh_UH -_- 
+Believe_NNP it_PRP or_CC not_RB ,_, we_PRP have_VBP all_PDT the_DT bottom_NN ones_NNS here_RB ._. 
+
+Well_RB ,_, I_PRP -_- 
+You_PRP added_VBD a_DT bunch_NN of_IN nodes_NNS ,_, for_IN -_- ?_. 
+Yep_NNP ._. 
+O_K_NNP ._. 
+We_PRP -_- we_PRP -_- we_PRP have_VBP -_- Actually_RB what_WP we_PRP have_VBP is_VBZ this_DT line_NN ._. 
+
+Uh_NNP ,_, what_WP do_VBP the_DT ,_, uh_UH ,_, 
+Right_RB ?_. 
+structures_NNS 
+Hmm_NNP ?_. 
+do_VBP ?_. So_IN the_DT -_- the_DT -_- the_DT -_- 
+For_IN instance_NN ,_, this_DT Location_NNP node_NN 's_POS got_VBD two_CD inputs_NNS ,_, 
+that_IN one_CD you_PRP -_- 
+Four_CD inputs_NNS ._. 
+Hmm_NNP ._. 
+Four_CD ._. 
+Those_DT are_VBP -_- The_DT bottom_NN things_NNS are_VBP inputs_NNS ,_, also_RB ._. 
+Oh_UH ,_, I_PRP see_VBP ._. 
+Yeah_UH ._. 
+
+O_K_NNP ,_, that_DT was-_NN 
+O_K_NNP ._. 
+
+That_DT makes_VBZ a_DT lot_NN more_JJR sense_NN to_TO me_PRP now_RB ._. 
+Yep_NNP ._. 
+Cuz_NNP I_PRP thought_VBD it_PRP was_VBD like_IN ,_, that_DT 
+one_CD in_IN 
+Stuart_NNP 's_POS book_NN about_IN ,_, 
+you_PRP know_VBP ,_, the_DT -_- 
+Alarm_NNP in_IN the_DT dog_NN ?_. 
+U-_NNP Yeah_UH ._. 
+Yeah_UH ._. 
+Or_CC the_DT earthquake_NN and_CC the_DT alarm_NN ._. 
+
+Sorry_JJ ._. Yeah_UH ,_, I_PRP 'm_VBP confusing_JJ two_CD ._. 
+Yeah_UH ,_, there_EX 's_VBZ a_DT dog_NN one_CD ,_, too_RB ,_, but_CC that_DT 's_VBZ in_IN Java_NNP Bayes_NNP ,_, is_VBZ n't_RB it_PRP ?_. 
+Right_RB ._. 
+Maybe_RB ._. 
+But_CC there_EX 's_VBZ something_NN about_IN 
+bowel_NN problems_NNS or_CC something_NN with_IN the_DT dog_NN ._. 
+
+Yeah_UH ._. 
+And_CC we_PRP have_VBP all_PDT the_DT 
+
+top_JJ ones_NNS ,_, 
+all_PDT the_DT ones_NNS to_TO which_WDT no_DT arrows_NNS are_VBP pointing_VBG ._. 
+What_WP we_PRP 're_VBP missing_VBG are_VBP the_DT -_- 
+these_DT ,_, where_WRB arrows_NNS are_VBP pointing_VBG ,_, where_WRB we_PRP 're_VBP combining_VBG 
+top_JJ ones_NNS ._. 
+So_RB ,_, we_PRP have_VBP to_TO come_VB up_RP with_IN values_NNS for_IN this_DT ,_, and_CC 
+this_DT ,_, this_DT ,_, this_DT ,_, and_CC so_RB forth_RB ._. 
+And_CC maybe_RB 
+just_RB fiddle_NN around_IN with_IN it_PRP a_DT little_JJ bit_NN more_RBR ._. 
+And_CC ,_, um_UH ._. 
+And_CC then_RB it_PRP 's_VBZ just_RB ,_, uh_UH ,_, 
+edges_NNS ,_, 
+many_JJ of_IN 
+edges_NNS ._. 
+And_CC ,_, um_UH ,_, we_PRP wo_MD n't_RB meet_VB next_JJ Monday_NNP ._. 
+So_RB ._. 
+Cuz_NNP of_IN Memorial_NNP Day_NNP ?_. 
+Yep_NNP ._. 
+We_PRP 'll_MD meet_VB next_JJ Tuesday_NNP ,_, I_PRP guess_VBP ._. 
+Yeah_UH ._. 
+When_WRB 's_POS Jerry_NNP leaving_VBG for_IN -_- 
+Italia_NNP ?_. 
+On_IN -_- on_IN Friday_NNP ._. 
+Which_WDT Friday_NNP ?_. 
+This_DT -_- this_DT Friday_NNP ._. 
+O_K_NNP ._. 
+Oh_UH ._. This_DT Friday_NNP ?_. 
+Ugh_NNP ._. 
+This_DT Friday_NNP ._. 
+As_IN in_IN ,_, four_CD days_NNS ?_. 
+Yep_NNP ._. 
+Or_CC ,_, three_CD days_NNS ?_. 
+Is_VBZ he_PRP -_- How_WRB long_JJ is_VBZ he_PRP gone_VBN for_RP ?_. 
+Two_CD weeks_NNS ._. 
+Italy_NNP ,_, huh_NN ?_. 
+What_WP 's_VBZ ,_, uh_UH -_- what_WP 's_VBZ there_RB ?_. 
+
+
+
+Well_RB ,_, it_PRP 's_VBZ a_DT country_NN ._. 
+Buildings_NNS ._. 
+People_NNS ._. 
+But_CC it_PRP 's_VBZ not_RB a_DT conference_NN or_CC anything_NN ._. He_PRP 's_VBZ just_RB visiting_VBG ._. 
+Pasta_NNP ._. 
+Hmm_NNP ?_. 
+Right_RB ._. 
+Just_RB visiting_VBG ._. 
+Vacation_NN ._. 
+
+
+It_PRP 's_VBZ a_DT pretty_RB nice_JJ place_NN ,_, 
+
+in_IN my_PRP$ brief_JJ ,_, uh_UH ,_, encounter_VB with_IN it_PRP ._. 
+Do_VBP you_PRP guys_NNS -_- Oh_UH ,_, yeah_UH ._. So_RB ._. Part_NN of_IN what_WP we_PRP actually_RB want_VBP to_TO do_VB is_VBZ sort_NN of_IN schedule_NN out_IN what_WP we_PRP want_VBP to_TO surprise_VB him_PRP with_IN when_WRB -_- when_WRB he_PRP comes_VBZ back_RB ._. 
+Um_NNP ,_, so_RB -_- 
+Oh_UH ,_, I_PRP think_VBP we_PRP should_MD disappoint_VB him_PRP ._. 
+Yeah_UH ?_. You_PRP -_- or_CC have_VBP a_DT finished_VBN construction_NN parser_NN and_CC a_DT working_VBG belief_NN -_- net_NN ,_, and_CC uh_UH -_- 
+
+
+That_DT would_MD n't_RB be_VB disappointing_JJ ._. 
+I_PRP think_VBP w-_NN we_PRP should_MD do_VB absolutely_RB no_DT work_NN 
+
+for_IN the_DT two_CD weeks_NNS that_IN he_PRP 's_VBZ gone_VBN ._. 
+Well_RB ,_, that_DT 's_VBZ actually_RB what_WP I_PRP had_VBD planned_VBN ,_, personally_RB ._. I_PRP had_VBD -_- I_PRP -_- I_PRP had_VBD sort_NN of_IN scheduled_VBN out_IN in_IN my_PRP$ mind_NN that_IN you_PRP guys_NNS do_VBP a_DT lot_NN of_IN work_NN ,_, and_CC I_PRP do_VBP nothing_NN ._. 
+
+And_CC then_RB ,_, I_PRP sort_NN of_IN -_- 
+Oh_UH ,_, yeah_UH ,_, that_WDT sounds_VBZ good_JJ ,_, too_RB ._. 
+sort_NN of_IN bask_NN in_IN -_- in_IN your_PRP$ glory_NN ._. 
+
+But_CC ,_, uh_UH ,_, i-_NN do_VBP you_PRP guys_NNS have_VBP any_DT vacation_NN plans_NNS ,_, because_IN I_PRP myself_PRP am_VBP going_VBG to_TO be_VB ,_, 
+um_UH ,_, 
+gone_VBN ,_, but_RB 
+this_DT is_VBZ actually_RB not_RB really_RB important_JJ ._. Just_RB this_DT weekend_NN we_PRP 're_VBP going_VBG camping_VBG ._. 
+Yeah_UH ,_, I_PRP 'm_VBP wanna_VBP be_VB this_DT -_- gone_VBN this_DT weekend_NN ,_, too_RB ._. 
+Ah_UH ._. 
+But_CC we_PRP 're_VBP all_DT going_VBG to_TO be_VB here_RB on_IN Tuesday_NNP again_RB ?_. 
+Looks_NNP like_IN it_PRP ?_. 
+Yeah_UH ._. 
+O_K_NNP ,_, then_RB ._. Let_VB 's_PRP meet_VB -_- meet_VB again_RB next_JJ Tuesday_NNP ._. 
+And_CC ,_, um_UH ,_, 
+
+
+finish_VB up_RP this_DT Bayes_NNP -_- net_NN ._. 
+And_CC once_RB we_PRP have_VBP finished_VBN it_PRP ,_, 
+I_PRP guess_VBP we_PRP can_MD ,_, 
+um_UH -_- 
+and_CC that_DT 's_VBZ going_VBG to_TO be_VB more_RBR just_RB you_PRP and_CC me_PRP ,_, 
+because_IN Bhaskara_NNP is_VBZ doing_VBG probabilistic_JJ ,_, 
+recursive_JJ ,_, 
+structured_VBN ,_, 
+object_NN -_- oriented_JJ ,_, 
+
+uh_UH ,_, 
+Killing_NNP machines_NNS !_. 
+
+
+
+
+reasoning_NN machines_NNS ._. 
+Yes_UH ._. 
+And_CC ,_, um_UH -_- 
+Killing_NNP ,_, reasoning_NN ._. What_WP 's_VBZ the_DT difference_NN ?_. 
+Wait_VB ._. So_IN you_PRP 're_VBP saying_VBG ,_, next_JJ Tuesday_NNP ,_, is_VBZ it_PRP the_DT whole_JJ group_NN meeting_NN ,_, or_CC just_RB 
+Uh_NNP ._. 
+us_PRP three_CD working_VBG on_IN it_PRP ,_, or_CC -_- or_CC -_- ?_. 
+The_DT whole_JJ group_NN ._. 
+And_CC we_PRP present_JJ our_PRP$ results_NNS ,_, 
+our_PRP$ final_JJ ,_, 
+O_K_NNP ._. 
+definite_JJ -_- 
+So_RB ,_, when_WRB you_PRP were_VBD saying_VBG we_PRP need_VBP to_TO do_VB a_DT re-run_JJ 
+
+of_IN ,_, like_IN -_- 
+
+h-_NN What_WP ?_. 
+What_WP -_- Like_IN ,_, just_RB working_VBG out_RP the_DT rest_NN of_IN the_DT -_- 
+
+Yeah_UH ._. We_PRP should_MD do_VB this_DT th-_NN the_DT upcoming_JJ days_NNS ._. 
+This_DT week_NN ?_. 
+So_RB ,_, this_DT week_NN ,_, yeah_UH ._. 
+O_K_NNP ._. 
+When_WRB you_PRP say_VBP ,_, "_'' the_DT whole_JJ group_NN "_'' ,_, you_PRP mean_VBP 
+the_DT four_CD of_IN us_PRP ,_, and_CC Keith_NNP ?_. 
+
+And_CC ,_, Ami_NNP might_MD ._. 
+Ami_NNP might_MD be_VB here_RB ,_, and_CC it_PRP 's_VBZ possible_JJ that_IN Nancy_NNP 'll_MD be_VB here_RB ?_. 
+Yep_NNP ._. 
+So_RB ,_, 
+yeah_UH ._. 
+Because_IN ,_, th-_NN you_PRP know_VBP ,_, 
+once_RB we_PRP have_VBP the_DT belief_NN -_- net_NN done_VBN -_- 
+You_PRP 're_VBP just_RB gonna_VBG have_VBP to_TO 
+explain_VB it_PRP to_TO me_PRP ,_, then_RB ,_, on_IN Tuesday_NNP ,_, how_WRB it_PRP 's_VBZ all_DT gonna_VBG work_NN out_RP ._. 
+You_PRP know_VBP ._. 
+
+
+We_PRP will_MD ._. 
+O_K_NNP ._. Because_IN then_RB ,_, once_RB we_PRP have_VBP it_PRP sort_NN of_IN up_RB and_CC running_VBG ,_, then_RB we_PRP can_MD start_VB you_PRP know_VB ,_, 
+defining_VBG the_DT interfaces_NNS and_CC then_RB feed_VB stuff_NN into_IN it_PRP and_CC get_VB stuff_NN out_IN of_IN it_PRP ,_, and_CC then_RB 
+hook_NN it_PRP up_RP to_TO some_DT 
+fake_JJ construction_NN 
+parser_NN and_CC -_- 
+That_DT you_PRP will_MD have_VB in_IN about_IN 
+nine_CD months_NNS or_CC so_RB ._. Yeah_UH ._. 
+Yeah_UH ._. 
+
+And_CC ,_, um_UH ,_, 
+The_DT first_JJ bad_JJ version_NN 'll_MD be_VB done_VBN in_IN nine_CD months_NNS ._. 
+Yeah_UH ,_, I_PRP can_MD worry_VB about_IN the_DT ontology_NN interface_NN and_CC you_PRP can_MD -_- Keith_NNP can_MD worry_VB about_IN the_DT discourse_NN ._. I_PRP mean_VBP ,_, this_DT is_VBZ pretty_RB -_- Um_NNP ,_, I_PRP mean_VBP ,_, I_PRP -_- I_PRP -_- I_PRP hope_VBP everybody_NN uh_UH knows_VBZ that_DT 
+these_DT are_VBP just_RB going_VBG to_TO be_VB uh_UH dummy_JJ values_NNS ,_, right_NN ?_. 
+Which_WDT -_- 
+where_WRB the_DT -_- 
+Which_WDT ones_NNS ?_. 
+S-_NNP so_RB -_- _- so_RB if_IN the_DT endpoint_NN -_- if_IN the_DT Go_VB -_- there_RB is_VBZ Yes_UH and_CC No_DT ,_, then_RB Go_VB -_- there_RB -_- discourse_NN will_MD just_RB be_VB fifty_CD -_- fifty_CD ._. 
+Right_RB ?_. 
+Um_NNP ,_, what_WP do_VBP you_PRP mean_VBP ?_. If_IN the_DT Go_VB -_- there_RB says_VBZ No_DT ,_, then_RB the_DT Go_VB -_- there_RB is_VBZ -_- 
+I_PRP do_VBP n't_RB get_VB it_PRP ._. 
+I_PRP do_VBP n't_RB u-_NN understand_VB ._. 
+Um_NNP ._. 
+Like_IN ,_, the_DT Go_VB -_- there_RB depends_VBZ on_IN all_PDT those_DT four_CD things_NNS ._. 
+Yep_NNP ._. 
+Yeah_UH ._. 
+But_CC ,_, what_WP are_VBP the_DT values_NNS of_IN the_DT Go_VB -_- there_RB -_- discourse_NN ?_. 
+Well_RB ,_, it_PRP depends_VBZ on_IN the_DT situation_NN ._. If_IN the_DT discourse_NN is_VBZ strongly_RB indicating_VBG that_DT -_- 
+Yeah_UH ,_, but_CC ,_, uh_UH ,_, we_PRP have_VBP no_DT discourse_NN input_NN ._. 
+Oh_UH ,_, I_PRP see_VBP ._. The_DT d-_NN See_VB ,_, uh_UH ,_, specifically_RB in_IN our_PRP$ situation_NN ,_, D__NNP and_CC O__NNP are_VBP gonna_VBG be_VB ,_, uh_UH -_- Yeah_UH ._. Sure_RB ._. So_RB ,_, whatever_WDT ._. 
+So_RB ,_, so_RB far_RB we_PRP have_VBP -_- 
+Is_VBZ that_IN what_WP the_DT Keith_NNP node_NN is_VBZ ?_. 
+
+Yep_NNP ._. 
+O_K_NNP ._. And_CC you_PRP 're_VBP taking_VBG it_PRP out_RP ?_. for_IN now_RB ?_. Or_CC -_- ?_. 
+Well_RB ,_, this_DT is_VBZ 
+D__NNP -_- 
+O_K_NNP ,_, this_DT ,_, I_PRP can_MD -_- I_PRP can_MD get_VB it_PRP in_IN here_RB ._. 
+All_DT the_DT D__NNP 's_POS are_NN -_- 
+I_PRP can_MD get_VB it_PRP in_IN here_RB ,_, so_RB th-_NN We_PRP have_VBP the_DT ,_, uh_UH ,_, 
+um_UH ,_, 
+
+
+sk-_NN let_VB 's_POS -_- let_VB 's_POS call_NN it_PRP "_'' Keith_NNP -_- Johno_NNP 
+
+
+node_NN "_'' ._. 
+Johno_NNP ?_. 
+There_EX is_VBZ 
+an_DT H__NNP 
+somewhere_RB printed_VBN ._. 
+There_EX you_PRP go_VBP ._. 
+Yeah_UH ._. People_NNS have_VBP the_DT same_JJ problem_NN with_IN my_PRP$ name_NN ._. 
+Yeah_UH ._. 
+Oops_NNP ._. 
+
+And_CC ,_, um_UH ,_, 
+
+Does_VBZ th-_NN th-_NN does_VBZ the_DT H__NNP go_NN b-_NN before_IN the_DT A__DT or_CC after_IN the_DT A__DT ?_. 
+Oh_UH ,_, in_IN my_PRP$ name_NN ?_. Before_IN the_DT A__DT ._. 
+Yeah_UH ._. 
+O_K_NNP ,_, good_JJ ._. 
+Cuz_NNP you_PRP kn-_NN When_WRB you_PRP said_VBD people_NNS have_VBP the_DT same_JJ problem_NN ,_, I_PRP thought_VBD -_- Cuz_NNP my_PRP$ H__NNP goes_VBZ after_IN the_DT uh_UH e-_NN e-_NN e-_NN the_DT v-_NN 
+People_NNS have_VBP the_DT inverse_NN problem_NN with_IN my_PRP$ name_NN ._. 
+O_K_NNP ._. 
+I_PRP always_RB have_VBP to_TO check_VB ,_, 
+every_DT time_NN y-_NN I_PRP send_VBP you_PRP an_DT email_NN ,_, 
+a_DT past_JJ email_NN of_IN yours_NNS ,_, to_TO make_VB sure_JJ I_PRP 'm_VBP spelling_VBG your_PRP$ name_NN correctly_RB ._. 
+
+Yeah_UH ._. 
+That_DT 's_VBZ good_NN ._. 
+I_PRP worry_VBP about_IN you_PRP ._. 
+
+I_PRP appreciate_VBP that_DT ._. 
+
+
+
+But_CC ,_, when_WRB you_PRP abbreviate_NN yourself_PRP as_RB the_DT "_'' Basman_NNP "_'' ,_, you_PRP do_VBP n't_RB use_VB any_DT H__NNP 's_POS ._. 
+
+"_'' Basman_NNP "_'' ?_. Yeah_UH ,_, it_PRP 's_VBZ because_IN of_IN the_DT chessplayer_NN named_VBD Michael_NNP Basman_NNP ,_, who_WP is_VBZ my_PRP$ hero_NN ._. 
+O_K_NNP ._. 
+
+
+You_PRP 're_VBP a_DT geek_NN ._. 
+
+It_PRP 's_VBZ O__NNP K._NN I-_NNP 
+
+
+
+How_WRB do_VBP you_PRP pronou-_NN 
+O_K_NNP ._. 
+How_WRB do_VBP you_PRP pronounce_NN your_PRP$ name_NN ?_. 
+Eva_NNP ._. 
+Eva_NNP ?_. 
+Yeah_UH ._. 
+Not_RB Eva_NNP ?_. 
+What_WP if_IN I_PRP were_VBD -_- What_WP if_IN I_PRP were_VBD to_TO call_VB you_PRP Eva_NNP ?_. 
+I_PRP 'd_MD probably_RB still_RB respond_VB to_TO it_PRP ._. 
+
+I_PRP 've_VBP had_VBN people_NNS call_VBP me_PRP Eva_NNP ,_, but_CC I_PRP do_VBP n't_RB know_VB ._. 
+No_DT ,_, not_RB just_RB Eva_NNP ,_, Eva_NNP ._. Like_IN if_IN I_PRP u-_NN 
+
+take_VB the_DT V__NNP and_CC s-_NN pronounce_NN it_PRP like_VBP it_PRP was_VBD a_DT German_NNP V__NNP ?_. 
+Which_WDT is_VBZ F__NN ._. 
+Yeah_UH ._. 
+Um_NNP ,_, no_DT idea_NN then_RB ._. 
+Voiced_NNP ._. 
+What_WP ?_. 
+It_PRP sounds_VBZ like_IN an_DT F__NN ._. There_EX 's_VBZ also_RB an_DT F__NN in_IN German_JJ ,_, which_WDT is_VBZ why_WRB I_PRP -_- 
+I_PRP -_- 
+O_K_NNP ._. 
+Well_RB ,_, it_PRP 's_VBZ just_RB the_DT difference_NN between_IN voiced_VBN and_CC unvoiced_JJ ._. 
+O_K_NNP ._. 
+Yeah_UH ._. 
+
+As_RB long_RB as_IN that_DT 's_VBZ O__NNP K._NN I_PRP mean_VBP ,_, I_PRP might_MD slip_VB out_IN and_CC say_VB it_PRP accidentally_RB ._. That_DT 's_VBZ all_DT I_PRP 'm_VBP saying_VBG ._. 
+Um_NNP ._. 
+That_DT 's_VBZ fine_NN ._. 
+Yeah_UH ._. It_PRP does_VBZ n't_RB matter_VB what_WP those_DT nodes_NNS are_VBP ,_, anyway_RB ,_, because_IN we_PRP 'll_MD just_RB make_VB the_DT weights_NNS "_'' zero_CD "_'' for_IN now_RB ._. 
+Yep_NNP ._. 
+We_PRP 'll_MD make_VB them_PRP zero_CD for_IN now_RB ,_, 
+
+
+because_IN it_PRP -_- who_WP -_- who_WP knows_VBZ what_WP they_PRP come_VBP up_RB with_IN ,_, 
+what_WP 's_VBZ gonna_VBG come_VB in_IN there_RB ._. 
+O_K_NNP ._. 
+And_CC ,_, um_UH ,_, 
+then_RB 
+should_MD we_PRP start_VB on_IN Thursday_NNP ?_. 
+O_K_NNP ._. 
+And_CC not_RB meet_VB tomorrow_NN ?_. 
+Sure_RB ._. 
+O_K_NNP ._. 
+I_PRP 'll_MD send_VB an_DT email_NN ,_, 
+make_VB a_DT time_NN suggestion_NN ._. 
+Wait_VB ,_, maybe_RB it_PRP 's_VBZ O_K_NNP ,_, so_IN that_DT -_- 
+that_IN -_- that_IN we_PRP can_MD -_- that_IN we_PRP have_VBP one_CD node_NN per_IN construction_NN ._. 
+Cuz_NNP even_RB in_IN people_NNS ,_, like_IN ,_, they_PRP do_VBP n't_RB know_VB what_WP you_PRP 're_VBP talking_VBG about_IN if_IN you_PRP 're_VBP using_VBG some_DT sort_NN of_IN strange_JJ construction_NN ._. 
+Yeah_UH ,_, they_PRP would_MD still_RB c-_NN sort_NN of_IN get_VB the_DT closest_JJS ,_, best_JJS fit_VB ._. 
+Well_RB ,_, yeah_UH ,_, but_CC I_PRP mean_VBP ,_, the_DT -_- uh_UH ,_, I_PRP mean_VBP ,_, that_DT 's_VBZ what_WP the_DT construction_NN parser_NN would_MD do_VB ._. Uh_NNP ,_, I_PRP mean_VBP ,_, if_IN you_PRP said_VBD something_NN completely_RB arbitrary_JJ ,_, it_PRP would_MD f-_NN find_VBP the_DT 
+Mm-hmm_NNP ._. 
+closest_JJS construction_NN ,_, right_NN ?_. But_CC if_IN you_PRP said_VBD something_NN that_WDT was_VBD completel-_NN er_UH -_- h-_NN theoretically_RB the_DT construction_NN parser_NN would_MD do_VB that_DT -_- 
+O_K_NNP ._. 
+But_CC if_IN you_PRP said_VBD something_NN for_IN which_WDT there_EX was_VBD no_DT construction_NN whatsoever_RB ,_, 
+n-_NN people_NNS would_MD n't_RB have_VB any_DT idea_NN what_WP you_PRP were_VBD talking_VBG about_IN ._. 
+Mm-hmm_NNP ._. 
+Like_IN "_'' Bus_NN dog_NN fried_JJ egg_NN ._. "_'' I_PRP mean_VBP ._. 
+You_PRP know_VBP ._. 
+Or_CC ,_, if_IN even_RB something_NN Chinese_JJ ,_, for_IN example_NN ._. 
+
+Or_CC ,_, something_NN in_IN Mandarin_NNP ,_, yeah_UH ._. 
+Or_CC Cantonese_NNP ,_, as_IN the_DT case_NN may_MD be_VB ._. 
+What_WP do_VBP you_PRP think_VBP about_IN that_DT ,_, Bhaskara_NNP ?_. 
+
+I_PRP mean_VBP -_- 
+Well_RB -_- 
+But_CC how_WRB many_JJ constructions_NNS do_VBP -_- could_MD we_PRP possibly_RB have_VB 
+nodes_NNS for_RP ?_. 
+In_IN this_DT system_NN ,_, or_CC in_IN r-_NN 
+No_DT ,_, we_PRP ._. Like_IN ,_, when_WRB people_NNS do_VBP this_DT kind_NN of_IN thing_NN ._. 
+Oh_UH ,_, when_WRB p-_NN How_WRB many_JJ constructions_NNS do_VBP people_NNS have_VBP ?_. 
+Yeah_UH ._. 
+I_PRP have_VBP not_RB the_DT slightest_JJS idea_NN ._. 
+Is_VBZ it_PRP considered_VBD to_TO be_VB like_IN in_IN -_- are_VBP they_PRP considered_VBD to_TO be_VB like_IN very_RB ,_, uh_UH ,_, sort_NN of_IN s-_NN abstract_JJ things_NNS ?_. 
+Every_DT noun_NN is_VBZ a_DT construction_NN ._. 
+O_K_NNP ,_, so_IN it_PRP 's_VBZ like_IN in_IN the_DT thousands_NNS ._. 
+The_DT -_- Yeah_UH ._. 
+Any_DT -_- any_DT form-_NN meaning_VBG pair_NN ,_, to_TO my_PRP$ understanding_NN ,_, is_VBZ a_DT construction_NN ._. 
+O_K_NNP ._. 
+So_RB ._. 
+And_CC form_NN u-_NN starts_VBZ at_IN the_DT level_NN of_IN noun_NN -_- Or_CC actually_RB ,_, maybe_RB even_RB sounds_NNS ._. Yeah_UH ._. 
+Phoneme_NNP ._. Yep_NNP ._. 
+And_CC goes_VBZ upwards_NNS 
+until_IN you_PRP get_VBP 
+the_DT ditransitive_JJ construction_NN ._. 
+And_CC then_RB ,_, of_IN course_NN ,_, the_DT c-_NN -_- I_PRP guess_VBP ,_, maybe_RB there_EX can_MD be_VB the_DT -_- 
+S-_NNP 
+Can_MD there_EX be_VB combinations_NNS of_IN the_DT dit-_NN 
+Discourse_NN -_- level_NN 
+Yeah_UH ._. 
+constructions_NNS ._. 
+The_DT "_'' giving_VBG a_DT speech_NN "_'' construction_NN ,_, 
+Rhetorical_NNP constructions_NNS ._. Yeah_UH ._. 
+Yes_UH ._. 
+
+
+But_CC ,_, I_PRP mean_VBP ,_, 
+you_PRP know_VBP ,_, you_PRP can_MD probably_RB count_VB -_- 
+count_NN the_DT ways_NNS ._. 
+I_PRP mean_VBP ._. 
+It_PRP 's_VBZ probab-_NN Yeah_UH ,_, I_PRP would_MD s-_NN definitely_RB say_VB it_PRP 's_VBZ finite_JJ ._. 
+Yeah_UH ._. 
+And_CC at_IN least_JJS in_IN compilers_NNS ,_, that_DT 's_VBZ all_DT that_IN really_RB matters_VBZ ,_, as_RB long_RB as_IN your_PRP$ analysis_NN is_VBZ finite_JJ ._. 
+
+
+
+How_WRB 's_POS that_DT ?_. How_WRB it_PRP can_MD be_VB finite_JJ ,_, again_RB ?_. 
+
+Nah_NNP ,_, I_PRP ca_MD n't_RB think_VB of_IN a_DT way_NN it_PRP would_MD be_VB infinite_NN ._. 
+
+
+Well_RB ,_, you_PRP can_MD come_VB up_RB with_IN new_JJ constructions_NNS ._. 
+Yeah_UH ._. 
+If_IN the_DT -_- if_IN your_PRP$ -_- if_IN your_PRP$ brain_NN was_VBD totally_RB non-deterministic_JJ -_- ,_, 
+
+
+then_RB perhaps_RB there_EX 's_VBZ a_DT way_NN to_TO get_VB ,_, uh_UH ,_, 
+infin-_NN -_- an_DT infinite_NN number_NN of_IN constructions_NNS that_IN you_PRP 'd_MD have_VB to_TO worry_VB about_IN ._. 
+But_CC ,_, I_PRP mean_VBP ,_, in_IN the_DT practical_JJ sense_NN ,_, it_PRP 's_VBZ impossible_JJ ._. 
+Right_RB ._. Cuz_NNP if_IN we_PRP have_VBP a_DT fixed_VBN number_NN of_IN neurons_NNS -_- ?_. 
+Yeah_UH ._. 
+
+
+So_IN the_DT best_JJ -_- case_NN scenario_NN would_MD be_VB the_DT number_NN of_IN constructions_NNS -_- or_CC ,_, the_DT worst_JJ -_- case_NN scenario_NN is_VBZ the_DT number_NN of_IN constructions_NNS equals_VBZ the_DT number_NN of_IN neurons_NNS ._. 
+Well_RB ,_, two_CD to_TO the_DT power_NN of_IN the_DT number_NN of_IN neurons_NNS ._. 
+Right_RB ._. 
+But_CC still_RB 
+finite_JJ ._. 
+
+
+O_K_NNP ._. 
+No_DT ,_, wait_NN ._. Not_RB necessarily_RB ,_, is_VBZ it_PRP ?_. 
+We_PRP can_MD end_VB the_DT meeting_NN ._. I_PRP just_RB -_- 
+Ca_MD n't_RB you_PRP use_VBP different_JJ var-_NN different_JJ levels_NNS of_IN activation_NN ?_. 
+across_IN ,_, uh_UH -_- 
+Mm-hmm_NNP ._. 
+lots_NNS of_IN different_JJ neurons_NNS ,_, to_TO specify_VB different_JJ values_NNS ?_. 
+
+Um_NNP ,_, yeah_UH ,_, but_CC there_EX 's_VBZ ,_, like_IN ,_, a_DT certain_JJ level_NN of_IN -_- 
+
+There_EX 's_VBZ a_DT bandwidth_NN issue_NN ,_, right_NN ?_. Yeah_UH ._. 
+Bandw-_NNP Yeah_UH ,_, so_IN you_PRP ca_MD n't_RB do_VB better_JJR than_IN something_NN ._. 
+Turn_NN off_RP the_DT mikes_NNS ._. Otherwise_RB it_PRP gets_VBZ really_RB tough_JJ for_IN the_DT tr-_NN 
+
+
+
+
+
+

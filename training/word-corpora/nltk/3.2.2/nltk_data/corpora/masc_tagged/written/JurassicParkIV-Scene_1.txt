@@ -1,0 +1,37 @@
+EXT_NNP -_- CEMETERY_NN -_- DAY_NN EXT_NNP -_- A_DT LIGHT_JJ RAIN_NN IS_VBZ FALLING_VBG ON_IN A_DT CEMETERY_NN IN_IN CALIFORNIA_NNP ._. 
+-_- DAY_NN Start_VB with_IN a_DT wide_JJ shot_NN of_IN the_DT cemetery_NN ._. 
+Follow_VB a_DT single_JJ ,_, umbrella_NN -_- carrying_VBG individual_JJ up_RP the_DT hill_NN to_TO join_VB the_DT funeral_NN under_IN an_DT awning_VBG ._. 
+We_PRP ca_MD n't_RB see_VB his_PRP$ face_NN ,_, but_CC he_PRP makes_VBZ his_PRP$ way_NN over_IN to_TO two_CD other_JJ individuals_NNS standing_NN apart_RB from_IN the_DT main_JJ group_NN who_WP we_PRP only_RB see_VBP from_IN the_DT back_NN ._. 
+The_DT man_NN closes_VBZ and_CC shakes_VBZ off_IN his_PRP$ umbrella_NN ,_, it_PRP is_VBZ MALCOLM_NNP ._. 
+The_DT other_JJ two_CD people_NNS ,_, GRANT_NNP and_CC SATTLER_NNP turn_VBP to_TO look_VB at_IN him_PRP ._. 
+IAN_NNP MALCOLM_NNP >_NN (_( whispered_VBN )_) Dr._NN Grant_NNP ,_, Dr._NN Sattler_NNP ._. 
+ALAN_NNP GRANT_NNP >_NN (_( whispered_VBN )_) Dr._NN Malcolm_NNP ._. 
+ELLIE_NNP SATTLER_NNP >_NN (_( whispered_VBN )_) Hello_UH ,_, Ian_NNP ._. 
+ALAN_NNP GRANT_NNP Have_VBP any_DT trouble_NN getting_VBG in_RP ?_. 
+IAN_NNP MALCOLM_NNP Yeah_UH ,_, the_DT rain_NN delayed_VBD the_DT flight_NN ._. 
+FR_NNP ._. STRUG_NNP >_NN (_( from_IN the_DT head_NN of_IN the_DT congregation_NN )_) ..._... Let_VB us_PRP go_VB now_RB ,_, not_RB in_IN sadness_NNS ,_, but_CC rejoicing_VBG in_IN the_DT knowledge_NN that_IN our_PRP$ husband_NN ,_, our_PRP$ father_NN ,_, our_PRP$ grandfather_NN ,_, and_CC our_PRP$ friend_NN has_VBZ been_VBN granted_VBN eternal_JJ salvation_NN and_CC a_DT place_NN where_WRB he_PRP may_MD walk_VB with_IN the_DT angels_NNS in_IN Heaven_NNP ._. 
+Amen_UH ._. 
+The_DT congregation_NN responds_VBZ with_IN an_DT "_'' Amen_UH ,_, "_'' and_CC there_EX is_VBZ a_DT great_JJ shuffling_NN of_IN feet_NNS and_CC chairs_NNS as_IN the_DT mourners_NNS get_VBP up_IN to_TO leave_VB ._. 
+The_DT bagpiper_NN again_RB plays_VBZ "_'' Amazing_NNP Grace_NNP "_'' as_IN MALCOM_NNP walks_VBZ toward_IN the_DT casket_NN ._. 
+IAN_NNP MALCOLM_NNP >_NN (_( to_TO casket_NN )_) Well_RB ,_, John_NNP ,_, for_IN the_DT first_JJ time_NN in_IN a_DT long_JJ time_NN ,_, I_PRP do_VBP n't_RB know_VB what_WP to_TO say_VB ._. 
+You_PRP and_CC I_PRP have_VBP never_RB been_VBN on_IN particularly_RB good_JJ terms_NNS ,_, and_CC I_PRP regret_VBP not_RB burying_VBG that_DT hatchet_NN while_IN you_PRP were_VBD still_RB alive_JJ ,_, but_CC at_IN the_DT same_JJ time_NN ,_, I_PRP ca_MD n't_RB help_VB but_CC think_VBP that_IN your_PRP$ passing_VBG adds_VBZ a_DT sense_NN of_IN closure_NN to_TO twelve_CD years_NNS of_IN horror_NN ._. 
+Ah_UH ,_, that_DT 's_VBZ not_RB what_WP I_PRP meant_VBD to_TO say_VB ..._... Maybe_RB I_PRP 'd_MD better_RBR just_RB leave_VB it_PRP as_IN "_'' goodbye_UH "_'' ._. 
+Goodbye_UH ,_, John_NNP ._. 
+MALCOM_NNP takes_VBZ a_DT single_NN rose_VBD from_IN inside_IN of_IN his_PRP$ jacket_NN and_CC tosses_NNS on_IN the_DT coffin_NN ._. 
+He_PRP walks_VBZ back_RB toward_IN GRANT_NNP and_CC SATTLER_NNP ,_, but_CC the_DT camera_NN pans_NNS down_RB to_TO the_DT headstone_NN ,_, which_WDT reads_VBZ "_'' Jonathon_NNP Parker_NNP Hammond_NNP 1923_CD -_- 2004_CD "_'' ._. 
+ELLIE_NNP SATTLER_NNP >_NN (_( to_TO MALCOM_NNP )_) Saying_VBG your_PRP$ goodbyes_NNS ?_. 
+IAN_NNP MALCOLM_NNP It_PRP still_RB does_VBZ n't_RB seem_VB entirely_RB real_JJ ._. 
+ALAN_NNP GRANT_NNP It_PRP is_VBZ strange_JJ to_TO think_VB of_IN how_WRB many_JJ deaths_NNS that_IN he_PRP was_VBD partly_RB responsible_JJ for_IN ,_, and_CC it_PRP 's_VBZ only_RB catching_VBG up_RP to_TO him_PRP now_RB ._. 
+ELLIE_NNP SATTLER_NNP He_PRP never_RB really_RB wanted_VBD anyone_NN to_TO die_VB ._. 
+He_PRP was_VBD just_RB so_RB intent_NN on_IN making_VBG history_NN that_IN he_PRP forgot_VBD the_DT human_JJ cost_NN could_MD be_VB devastating_JJ ._. 
+SAMUEL_NNP PERKINS_NNP >_NN (_( Approaching_VBG from_IN behind_IN )_) Dr._NN Grant_NNP ,_, Dr._NN Sattler_NNP ,_, and_CC Dr._NN Malcolm_NNP ?_. 
+ALAN_NNP GRANT_NNP Yes_UH ,_, that_DT 's_VBZ us_PRP ._. 
+SAMUEL_NNP PERKINS_NNP Hi_UH ,_, I_PRP 'm_VBP Samuel_NNP Perkins_NNP ,_, executor_NN of_IN Mr._NN Hammond_NNP 's_POS estate_NN ._. 
+While_IN we_PRP were_VBD drawing_VBG up_RP his_PRP$ final_JJ will_MD ,_, he_PRP wanted_VBD me_PRP to_TO make_VB sure_JJ I_PRP contacted_VBD you_PRP in_IN person_NN ._. 
+IAN_NNP MALCOLM_NNP He_PRP left_VBD us_PRP something_NN ?_. 
+SAMUEL_NNP PERKINS_NNP A_DT message_NN ._. 
+ALAN_NNP GRANT_NNP What_WP is_VBZ it_PRP ?_. 
+SAMUEL_NNP PERKINS_NNP He_PRP recorded_VBD it_PRP a_DT few_JJ weeks_NNS before_IN his_PRP$ death_NN ,_, I_PRP 'm_VBP to_TO show_VB it_PRP to_TO the_DT three_CD of_IN you_PRP as_RB soon_RB as_IN possible_JJ ._. 
+PERKINS_NNP reaches_VBZ into_IN his_PRP$ coat_NN pocket_NN and_CC pulls_VBZ out_IN business_NN cards_NNS ._. 
+SAMUEL_NNP PERKINS_NNP (_( CONT'D_JJ )_) If_IN you_PRP 'd_MD like_VB to_TO stop_VB by_IN my_PRP$ office_NN tomorrow_NN ,_, and_CC I_PRP know_VBP you_PRP 're_VBP all_DT very_RB busy_JJ ,_, so_IN I_PRP 'd_MD be_VB more_JJR than_IN happy_JJ to_TO finish_VB this_DT up_RB as_RB soon_RB as_IN possible_JJ ._. 
+FADE_VB OUT_RB 

@@ -1,0 +1,79 @@
+docno_NN =_SYM "_'' lists-_NN 046_CD -_: 12122969_CD "_'' name_NN =_SYM "_'' Dave_NNP Raggett_NNP "_'' email_NN =_SYM "_'' dsr@w3.org_NN "_'' sent_VBD =_SYM "_'' Tue_NNP ,_, 04_CD Jun_NNP 1996_CD 11:58:23_NN -0400_CD "_'' id_NN =_SYM "_'' 199606041558.AA160953903@w3.org_NN "_'' subject_JJ =_SYM "_'' Minutes_NNPS June_NNP 3rd_CD "_'' To_TO :_: w3c-math-erb@w3.org_NN Present_NN :_: Dave_NNP Raggett_NNP Patrick_NNP Ion_NNP Robert_NNP Miner_NNP T._NN V._NN Raman_NNP (_( left_VBD early_JJ )_) Ralph_NNP Youngen_NNP Ron_NNP Whitney_NNP Bruce_NNP Smith_NNP Neil_NNP Soiffer_NNP 
+
+The_DT meeting_NN discussed_VBD Bruce_NNP 's_POS new_JJ proposal_NN ,_, see_VB :_: http://www.w3.org/pub/WWW/MarkUp/Math/WG/Smith-960531.html_NN 
+
+Dave_NNP asked_VBD about_IN lexical_JJ details_NNS ._. 
+For_IN instance_NN if_IN one_CD uses_VBZ an_DT SGML_NNP named_VBD character_NN entity_NN how_WRB does_VBZ the_DT tokenizer_NN know_VB whether_IN the_DT character_NN is_VBZ allowed_VBN as_IN part_NN of_IN an_DT identifier_NN ?_. 
+Bruce_NNP replied_VBD that_IN there_EX needs_VBZ to_TO be_VB a_DT large_JJ dictionary_JJ that_WDT specifies_VBZ properties_NNS such_JJ as_IN :_: 
+o_NN Whether_IN the_DT character_NN is_VBZ allowed_VBN as_IN the_DT first_JJ or_CC subsequent_JJ characters_NNS in_IN an_DT identifier_NN ._. 
+o_NN If_IN it_PRP is_VBZ an_DT operator_NN ,_, its_PRP$ types_NNS (_( prefix_NN /_NN infix_NN /_NN postfix_NN )_) and_CC the_DT associated_VBN left_VBD and_CC right_JJ precedences_NNS ._. 
+o_NN Whether_IN it_PRP can_MD be_VB used_VBN to_TO embellish_VB other_JJ operators_NNS ._. 
+
+Action_NNP :_: Bruce_NNP to_TO add_VB a_DT detailed_JJ schema_NN for_IN the_DT character_NN dictionary_JJ ._. 
+
+Dave_NNP also_RB suggested_VBD that_IN as_IN a_DT matter_NN of_IN principle_NN any_DT tag_NN names_NNS should_MD have_VB meaningful_JJ names_NNS ._. 
+Bruce_NNP said_VBD he_PRP wanted_VBD to_TO avoid_VB potential_JJ naming_NN conflicts_NNS with_IN other_JJ groups_NNS wishing_VBG to_TO define_VB new_JJ HTML_NNP tags_NNS ._. 
+Dave_NNP said_VBD that_IN this_DT was_VBD n't_RB a_DT big_JJ problem_NN ,_, given_VBN W_NNP 3_CD C_NNP 's_POS role_NN in_IN defining_VBG HTML_NNP ._. 
+
+Action_NNP :_: Dave_NNP to_TO post_VB a_DT proposal_NN for_IN the_DT HTML-math_NNP tag_NN names_NNS ._. 
+
+Robert_NNP added_VBD that_IN to_TO allow_VB him_PRP to_TO implement_VB the_DT proposal_NN he_PRP would_MD need_VB more_JJR detail_NN on_IN the_DT various_JJ layout_NN schema_NN ._. 
+Bruce_NNP will_MD work_VB on_IN this_DT ._. 
+
+Dave_NNP queried_VBN the_DT flat_JJ associativity_NN with_IN same_JJ precedences_NNS for_IN `_`` +_NN '_'' and_CC `_`` -_: '_'' ._. 
+Neil_NNP explained_VBD that_IN this_DT makes_VBZ it_PRP much_RB easier_JJR to_TO write_VB the_DT line_NN breaking_VBG algorithm_NN ._. 
+
+Macro_NNP definitions_NNS ._. 
+Bruce_NNP will_MD add_VB an_DT SGML_NNP element_NN to_TO represent_VB these_DT ._. 
+This_DT raises_VBZ the_DT issue_NN of_IN scoping_VBG and_CC how_WRB a_DT plug-in_JJ could_MD exploit_VB the_DT HTML_NNP parse_NN tree_NN ._. 
+In_IN the_DT short_JJ term_NN ,_, this_DT will_MD remain_VB a_DT problem_NN ._. 
+
+We_PRP discussed_VBD the_DT representation_NN for_IN arrays_NNS ._. 
+Dave_NNP explained_VBD that_IN the_DT HTML_NNP 3.0_CD proposal_NN borrowed_VBN from_IN LaTeX_NNP and_CC TeX_NNP ._. 
+See_NNP :_: http://www.w3.org/pub/WWW/MarkUp/html3/arrays.html_NN 
+
+It_PRP supports_VBZ :_: 
+o_NN setting_VBG position_NN of_IN array_NN relative_JJ to_TO preceding_VBG and_CC followng_NN expressions_NNS 
+o_NN column_NN specification_NN for_IN cell_NN alignment_NN 
+o_NN cells_NNS spanning_VBG multiple_JJ rows_NNS or_CC columns_NNS 
+o_NN "_'' +_NN "_'' ,_, "_'' -_: "_'' or_CC "_'' =_SYM "_'' characters_NNS as_IN column_NN separators_NNS 
+o_NN separation_NN of_IN first_JJ row_NN /_NN column_NN as_IN labels_NNS 
+o_NN setting_VBG left_VBN and_CC right_JJ bracket_NN symbols_NNS 
+o_NN filling_VBG a_DT cell_NN spanning_VBG several_JJ columns_NNS with_IN dots_NNS 
+
+The_DT features_NNS needed_VBN for_IN math_NN make_NN it_PRP inappropriate_JJ to_TO use_VB the_DT HTML_NNP table_NN tags_NNS ._. 
+
+We_PRP discussed_VBD what_WP HTML_NNP tags_NNS might_MD be_VB appropriate_JJ within_IN HTML-math_NNP ._. 
+The_DT current_JJ inability_NN to_TO call_VB the_DT browser_NN to_TO handle_VB such_JJ nested_JJ tags_NNS suggests_VBZ we_PRP need_VBP to_TO take_VB a_DT cautious_JJ approach_NN ._. 
+A_DT the_DT minimum_JJ we_PRP probably_RB need_VBP :_: 
+o_NN plain_JJ text_NN 
+o_NN simple_JJ kinds_NNS of_IN emphasis_NN (_( bold_JJ /_NN italic_JJ )_) 
+o_NN control_NN over_IN font_NN size_NN 
+o_NN hypertext_NN links_NNS 
+o_NN line_NN numbering_VBG 
+
+We_PRP could_MD further_RB allow_VB this_DT text_NN to_TO include_VB math_NN elements_NNS so_IN that_IN we_PRP get_VBP math_NN including_VBG text_NN including_VBG math_NN etc._NN 
+This_DT does_VBZ n't_RB seem_VB to_TO be_VB needed_VBN in_IN practice_NN though_IN ._. 
+
+The_DT current_JJ plug-in_JJ api_NN 's_POS are_NN inadequate_JJ ._. 
+For_IN instance_NN one_PRP would_MD like_VB to_TO know_VB the_DT current_JJ font_NN family_NN ,_, size_NN and_CC baseline_NN position_NN ,_, as_RB well_RB as_IN the_DT background_NN color_NN or_CC texture_NN tile_NN and_CC pattern_NN origin_NN ._. 
+One_PRP would_MD like_VB to_TO set_VB the_DT visible_JJ size_NN according_VBG to_TO the_DT expression_NN being_VBG displayed_VBN ,_, and_CC to_TO be_VB sent_VBN a_DT message_NN when_WRB relevant_JJ parameters_NNS are_VBP changed_VBN ._. 
+How_WRB can_MD CSS_NNP based_VBD style_NN sheets_NNS influence_VBP the_DT style_NN properties_NNS used_VBN within_IN plugins_NNS ?_. 
+Dave_NNP would_MD like_VB the_DT math-erb_JJ to_TO put_VB pressure_NN on_IN browser_NN vendors_NNS to_TO fix_VB these_DT problems_NNS ._. 
+
+Action_NNP :_: Neil_NNP to_TO investigate_VB Netscape_NNP Navigator_NNP 3.0_CD plug-in_JJ SDK_NNP to_TO see_VB what_WP improvements_NNS have_VBP been_VBN made_VBN to_TO the_DT api_NN ._. 
+
+One_CD short_JJ term_NN solution_NN would_MD be_VB to_TO add_VB parameters_NNS to_TO the_DT math_NN tags_NNS to_TO specify_VB the_DT context_NN in_IN which_WDT the_DT elements_NNS occur_VBP ,_, e.g._NN <_NN h_NN 1_CD >_NN ,_, or_CC ._. 
+The_DT control_NN panel_NN for_IN the_DT html-math_JJ plug-in_JJ would_MD allow_VB the_DT user_NN to_TO set_VB the_DT font_NN size_NN to_TO be_VB used_VBN in_IN these_DT contexts_NNS ._. 
+
+We_PRP discussed_VBD ideas_NNS for_IN folding_VBG and_CC unfolding_VBG expressions_NNS ._. 
+One_CD idea_NN is_VBZ to_TO allow_VB the_DT author_NN to_TO name_VB a_DT subexpression_NN and_CC then_RB to_TO use_VB that_DT name_NN in_IN place_NN of_IN further_JJ occurrences_NNS of_IN that_DT subexpression_NN ._. 
+When_WRB folded_VBD the_DT given_JJ name_NN would_MD be_VB shown_VBN in_IN place_NN of_IN the_DT subexpression_NN itself_PRP ._. 
+The_DT scope_NN for_IN such_JJ definitions_NNS should_MD n't_RB be_VB resticted_JJ to_TO a_DT single_JJ math_NN element_NN ._. 
+This_DT could_MD be_VB supported_VBN via_IN SGML_NNP tags_NNS and_CC attributes_VBZ ._. 
+
+Bruce_NNP talked_VBD through_IN the_DT case_NN where_WRB names_NNS for_IN subexpressions_NNS are_VBP generated_VBN automatically_RB at_IN browse-time_JJ ._. 
+This_DT does_VBZ n't_RB require_VB any_DT special_JJ markup_NN ,_, although_IN the_DT ability_NN to_TO give_VB the_DT same_JJ name_NN to_TO common_JJ subexpressions_NNS will_MD depend_VB on_IN the_DT ability_NN to_TO recognize_VB that_IN these_DT subexpressions_NNS are_VBP in_IN fact_NN semantically_RB identical_JJ ._. 
+In_IN a_DT previous_JJ discussion_NN Raman_NNP pointed_VBD out_RP that_IN it_PRP would_MD be_VB helpful_JJ if_IN the_DT user_NN is_VBZ allowed_VBN to_TO set_VB the_DT name_NN of_IN subexpressions_NNS as_IN this_DT makes_VBZ it_PRP easier_JJR to_TO remember_VB (_( important_JJ for_IN speech-base_JJ browsers_NNS )_) ._. 
+
+--_: Dave_NNP Raggett_NNP <_NN dsr@w3.org_NN >_NN tel_NN :_: +_NN 1_CD (_( 617_CD )_) 258_CD 5741_CD fax_NN :_: +_NN 1_CD (_( 617_CD )_) 258_CD 5999_CD World_NNP Wide_NNP Web_NNP Consortium_NNP ,_, 545_CD Technology_NNP Square_NNP ,_, Cambridge_NNP ,_, MA_NNP 02139_CD url_NN =_SYM http://www.w3.org/People/Raggett_NN 

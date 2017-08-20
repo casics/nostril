@@ -1,0 +1,29 @@
+March_NNP 29_CD ,_, 1999_CD 
+
+Name_NN Address_NNP City_NNP ,_, ST_NNP Zip_NNP 
+
+Dear_RB Name_NN :_: 
+
+The_DT 1999_CD Invest_NNP in_IN Youth_NNP Campaign_NNP is_VBZ in_IN full_JJ swing_NN ._. 
+As_IN a_DT former_JJ board_NN member_NN ,_, the_DT success_NN of_IN the_DT YMCA_NNP is_VBZ still_RB important_JJ to_TO me_PRP ._. 
+We_PRP must_MD be_VB able_JJ to_TO reach_VB all_DT youth_NN and_CC families_NNS interested_VBN in_IN values-based_JJ programs_NNS ._. 
+The_DT Invest_NNP in_IN Youth_NNP campaign_NN helps_VBZ insure_VB this_DT ._. 
+
+New_JJ initiatives_NNS in_IN the_DT inner-city_JJ are_VBP taking_VBG hold_NN ._. 
+The_DT Urban_NNP Mission_NNP Branch_NNP is_VBZ reaching_VBG out_IN to_TO middle_JJ school_NN youth_NN with_IN programs_NNS based_VBN on_IN caring_VBG ,_, honesty_NN ,_, respect_NN and_CC responsibility_NN for_IN themselves_PRP and_CC others_NNS ._. 
+For_IN some_DT ,_, these_DT are_VBP very_RB different_JJ messages_NNS from_IN the_DT ones_NNS heard_VBN in_IN the_DT street_NN ._. 
+They_PRP are_VBP learning_VBG to_TO make_VB positive_JJ choices_NNS concerning_VBG alcohol_NN ,_, tobacco_NN and_CC other_JJ drugs_NNS and_CC to_TO support_VB each_DT other_JJ when_WRB those_DT choices_NNS are_VBP challenged_VBN ._. 
+
+You_PRP have_VBP shared_VBN in_IN the_DT vision_NN and_CC the_DT leadership_NN of_IN the_DT YMCA_NNP of_IN Greater_NNP Indianapolis_NNP ._. 
+I_PRP now_RB invite_VB you_PRP to_TO continue_VB to_TO support_VB the_DT mission_NN and_CC the_DT message_NN that_WDT is_VBZ so_RB important_JJ to_TO building_VBG strong_JJ kids_NNS ,_, strong_JJ families_NNS and_CC strong_JJ communities_NNS ._. 
+Please_VB consider_VB joining_VBG the_DT Chairman_NNP 's_POS Roundtable_NNP with_IN a_DT gift_NN of_IN $1,000_NN ._. 
+I_PRP have_VBP enclosed_VBN a_DT pledge_NN card_NN for_IN your_PRP$ convenience_NN ._. 
+We_PRP would_MD like_VB to_TO announce_VB the_DT success_NN of_IN this_DT year_NN 's_POS campaign_NN at_IN the_DT Annual_JJ Meeting_VBG on_IN April_NNP 27_CD ,_, so_RB please_VB return_NN you_PRP pledge_NN or_CC gift_NN within_IN the_DT next_JJ 30_CD days_NNS ._. 
+
+Thank_VB you_PRP ._. 
+
+Sincerely_NNP ,_, 
+
+Richard_NNP H._NN Gilbert_NNP ,_, Jr_NNP ._. 
+Past_NNP Board_NNP Member_NNP YMCA_NNP of_IN Greater_NNP Indianapolis_NNP 
+

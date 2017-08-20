@@ -1,0 +1,48 @@
+NYT20020731.0050_NN 2002-07-31_NN 11:12_NN A4250_NN &_CC Cx1_NN f_SYM ;_: tab-z_JJ r_LS a_DT BC-PSYCHOLOGISTS-DRUGS-S_NNP 07_CD -_- 31_CD 0945_CD BC-PSYCHOLOGISTS-DRUGS-SCIAM-ART-NYTSF_NNP PRESCRIPTION_NNP PRIVILEGES_NNP MAKE_VB SOME_NNP PSYCHOLOGISTS_NNP ANXIOUS_NNP (_( FOR_IN IMMEDIATE_NNP RELEASE_NNP )_) (_( Includes_VBZ color_NN image_NN of_IN a_DT prescription_NN bottle_NN with_IN pills_NNS ._. )_) (_( ATTENTION_NNP EDITORS_NNP :_: This_DT article_NN is_VBZ for_IN use_NN by_IN clients_NNS of_IN The_DT New_NNP York_NNP Times_NNP Syndicate_NNP 's_POS SCIENTIFIC_NNP AMERICAN_NNP NEWS_NNP SERVICE_NNP ._. 
+For_IN information_NN about_IN becoming_VBG a_DT client_NN of_IN this_DT service_NN ,_, contact_NN the_DT New_NNP York_NNP Times_NNP Syndicate_NNP sales_NNS representatives_NNS listed_VBN at_IN the_DT end_NN of_IN the_DT text_NN ._. )_) 
+BY_NNP CHRISTINE_NNP SOARES_NNP c.2002_NN Scientific_NNP American_NNP 
+Intending_NNP to_TO ease_VB consumer_NN access_NN to_TO mental_JJ health_NN care_NN ,_, New_NNP Mexico_NNP legislators_NNS in_IN March_NNP passed_VBD a_DT law_NN allowing_VBG psychologists_NNS to_TO prescribe_VB psychotropic_JJ medications_NNS ,_, such_JJ as_IN antidepressants_NNS ._. 
+
+The_DT state_NN 's_POS action_NN ,_, the_DT first_JJ in_IN the_DT nation_NN ,_, has_VBZ the_DT blessing_NN of_IN the_DT American_NNP Psychological_NNP Association_NNP (_( APA_NNP )_) ,_, which_WDT considers_VBZ prescriptive_JJ authority_NN a_DT logical_JJ extension_NN of_IN psychologists_NNS '_POS role_NN as_IN health_NN -_- care_NN providers_NNS ._. 
+But_CC powerful_JJ groups_NNS ,_, including_VBG the_DT American_NNP Medical_NNP Association_NNP ,_, oppose_VBP the_DT idea_NN and_CC have_VBP a_DT surprising_JJ source_NN of_IN support_NN :_: psychologists_NNS themselves_PRP ,_, some_DT of_IN whom_WP call_NN it_PRP a_DT radical_JJ experiment_NN and_CC fear_NN that_IN the_DT most_RBS likely_JJ victim_NN will_MD be_VB the_DT science_NN of_IN psychology_NN ._. 
+
+"_'' I_PRP am_VBP concerned_VBN that_IN nonmedically_RB trained_VBN people_NNS as_IN legitimate_JJ prescribers_NNS of_IN drugs_NNS will_MD not_RB be_VB accepted_VBN by_IN the_DT American_JJ public_NN ,_, "_'' says_VBZ psychologist_NN Gerald_NNP C._NN Davison_NNP of_IN the_DT University_NNP of_IN Southern_NNP California_NNP ._. 
+
+The_DT APA_NNP has_VBZ spent_VBN more_JJR than_IN $1_NN million_CD to_TO help_VB state_VB psychological_JJ associations_NNS develop_VBP and_CC lobby_VB for_IN such_JJ prescription_NN privileges_NNS -_- -_- or_CC "_'' RxP_NNP "_'' -_- -_- legislation_NN ._. 
+A_DT total_NN of_IN 31_CD state_NN psychology_NN associations_NNS have_VBP task_NN forces_NNS dedicated_VBN to_TO developing_VBG and_CC lobbying_VBG for_IN prescription_NN -_- privileges_NNS legislation_NN ._. 
+
+The_DT version_NN endorsed_VBN by_IN the_DT APA_NNP would_MD license_VB doctoral_JJ -_- level_NN psychologists_NNS to_TO independently_RB prescribe_VB psychotropic_JJ drugs_NNS after_IN completing_VBG 300_CD hours_NNS of_IN classroom_NN instruction_NN in_IN neuroscience_NN ,_, physiology_NN and_CC pharmacology_NN ,_, followed_VBN by_IN four_CD months_NNS '_POS supervised_JJ treatment_NN of_IN 100_CD patients_NNS ._. 
+
+Critics_NNS say_VBP that_WDT is_VBZ not_RB nearly_RB enough_RB compared_VBN with_IN other_JJ prescribers_NNS ,_, such_JJ as_IN M.D._NN psychiatrists_NNS or_CC nurse_NN practitioners_NNS who_WP have_VBP at_IN least_JJS six_CD years_NNS '_POS medical_JJ education_NN and_CC clinical_JJ experience_NN ._. 
+
+Neither_DT Davison_NNP nor_CC most_RBS other_JJ RxP_NNP opponents_NNS doubt_VBP the_DT efficacy_NN of_IN medications_NNS ._. 
+Their_PRP$ greatest_JJS objection_NN is_VBZ to_TO the_DT notion_NN of_IN turning_VBG psychology_NN into_IN a_DT prescribing_VBG profession_NN ._. 
+
+In_IN a_DT field_NN that_WDT has_VBZ struggled_VBN long_JJ and_CC hard_JJ to_TO prove_VB that_DT mind_NN ,_, mood_NN and_CC behavior_NN can_MD be_VB studied_VBN empirically_RB ,_, the_DT past_JJ decade_NN ,_, Davison_NNP says_VBZ ,_, has_VBZ seen_VBN "_'' exciting_JJ developments_NNS "_'' that_WDT demonstrate_VBP the_DT validity_NN of_IN various_JJ psychotherapeutic_JJ interventions_NNS and_CC the_DT psychosocial_JJ -_- behavioral_JJ models_NNS on_IN which_WDT they_PRP are_VBP based_VBN ._. 
+
+"_'' The_DT timing_NN is_VBZ peculiar_JJ to_TO abandon_VB psychological_JJ science_NN or_CC to_TO convert_VB it_PRP to_TO a_DT medical_JJ science_NN ,_, "_'' explains_VBZ Elaine_NNP M._NN Heiby_NNP of_IN the_DT University_NNP of_IN Hawaii_NNP ,_, who_WP chairs_VBZ a_DT committee_NN of_IN the_DT 1,000_CD -_- member_NN American_NNP Association_NNP of_IN Applied_NNP and_CC Preventive_NNP Psychology_NNP that_WDT is_VBZ concerned_VBN about_IN the_DT medicalization_NN of_IN psychology_NN ._. 
+
+"_'' Making_VBG sure_JJ that_IN practicing_VBG psychologists_NNS are_VBP giving_VBG patients_NNS interventions_NNS based_VBN on_IN the_DT best_JJS available_JJ psychological_JJ science_NN should_MD be_VB the_DT APA_NNP 's_POS priority_NN ,_, "_'' argues_VBZ Emory_NNP University_NNP 's_POS Scott_NNP Lilienfeld_NNP ,_, president_NN of_IN the_DT Society_NNP for_IN a_DT Science_NNP of_IN Clinical_NNP Psychology_NNP (_( SSCP_NNP )_) ._. 
+
+More_JJR than_IN any_DT philosophical_JJ betrayal_NN of_IN psychology_NN ,_, RxP_NNP opponents_NNS fear_VBP that_IN the_DT movement_NN will_MD undermine_VB the_DT science_NN they_PRP love_VBP ._. 
+They_PRP believe_VBP that_IN if_IN prescriptive_JJ authority_NN becomes_VBZ the_DT norm_NN ,_, biomedical_JJ requirements_NNS will_MD inevitably_RB seep_NN into_IN the_DT psychology_NN curriculum_NN ,_, at_IN the_DT expense_NN of_IN traditional_JJ psychological_JJ science_NN and_CC methodology_NN ._. 
+
+Lilienfeld_NNP feels_VBZ that_IN many_JJ clinical_JJ psychologists_NNS already_RB receive_VBP inadequate_JJ training_NN in_IN fundamentals_NNS such_JJ as_IN research_NN design_NN and_CC evaluation_NN ._. 
+
+RxP_NNP opponents_NNS charge_VBP the_DT APA_NNP with_IN pushing_VBG its_PRP$ prescription_NN -_- privileges_NNS agenda_NN without_IN adequately_RB assessing_VBG support_NN for_IN it_PRP in_IN the_DT field_NN ._. 
+The_DT 300_CD -_- member_NN SSCP_NNP is_VBZ the_DT only_JJ group_NN within_IN the_DT APA_NNP to_TO have_VB taken_VBN a_DT formal_JJ stance_NN against_IN prescription_NN privileges_NNS ._. 
+
+The_DT APA_NNP has_VBZ scheduled_VBN 30_CD minutes_NNS at_IN its_PRP$ meeting_NN in_IN August_NNP for_IN an_DT RxP_NNP debate_NN ,_, but_CC its_PRP$ leadership_NN believes_VBZ it_PRP already_RB has_VBZ an_DT accurate_JJ sense_NN of_IN support_NN for_IN its_PRP$ RxP_NNP policy_NN ._. 
+
+"_'' Except_IN for_IN this_DT small_JJ vocal_JJ minority_NN ,_, we_PRP have_VBP just_RB not_RB gotten_VBN a_DT lot_NN of_IN groundswell_NN against_IN this_DT from_IN members_NNS ,_, "_'' says_VBZ APA_NNP president_NN Philip_NNP G._NN Zimbardo_NNP of_IN Stanford_NNP University_NNP ._. 
+
+With_IN prescription_NN privileges_NNS now_RB a_DT reality_NN in_IN one_CD state_NN ,_, some_DT RxP_NNP opponents_NNS concede_VBP that_IN it_PRP may_MD be_VB too_RB late_RB ._. 
+
+This_DT year_NN four_CD states_NNS besides_IN New_NNP Mexico_NNP -_- -_- Georgia_NNP ,_, Hawaii_NNP ,_, Illinois_NNP and_CC Tennessee_NNP -_- -_- have_VBP pending_VBG legislation_NN for_IN psychologist_NN prescription_NN privileges_NNS ._. 
+Over_IN the_DT past_JJ decade_NN ,_, 14_CD state_NN legislatures_NNS have_VBP considered_VBN such_JJ laws_NNS ._. 
+
+Between_IN 1991_CD and_CC 1997_CD ,_, a_DT U.S._NNP Department_NNP of_IN Defense_NNP psychopharmacology_NN demonstration_NN project_NN involving_VBG two_CD to_TO four_CD years_NNS '_POS training_NN produced_VBD 10_CD military_JJ psychologists_NNS who_WP can_MD write_VB prescriptions_NNS ._. 
+
+For_IN more_JJR information_NN on_IN the_DT topics_NNS covered_VBN in_IN the_DT Scientific_NNP American_NNP News_NNP Service_NNP ,_, visit_NN www_NN ._. sciam_NN ._. com_NN ._. 
+(_( Distributed_VBN by_IN New_NNP York_NNP Times_NNP Special_JJ Features_NNPS )_) EDITOR_NNP :_: Visit_NNP The_DT New_NNP York_NNP Times_NNP Syndicate_NNP Web_NNP site_NN at_IN http_NN :_: /_NN /_NN www_NN ._. nytimes_NNS ._. com_NN /_NN syndicate_NN for_IN more_JJR information_NN on_IN SCIENTIFIC_NNP AMERICAN_NNP NEWS_NNP SERVICE_NNP and_CC other_JJ features_NNS ._. 
+NONSUBSCRIBERS_NNP :_: To_TO subscribe_VB to_TO SCIENTIFIC_NNP AMERICAN_NNP NEWS_NNP SERVICE_NNP ,_, please_VB contact_NN the_DT following_VBG New_NNP York_NNP Times_NNP Syndicate_NNP sales_NNS representative_NN :_: -_- -_- NORTH_NNP AMERICA_NNP :_: Ana_NNP Pena_NNP at_IN 212_CD -_- 499_CD -_- 3333_CD ._. -_- -_- INTERNATIONAL_NNP :_: Claire_NNP Saint-_NNP Andre_NNP ,_, in_IN Paris_NNP ,_, 33_CD -_- 1_CD -_- 53_CD -_- 05_CD -_- 76_CD -_- 55_CD or_CC saint-andre_JJ (_( at_IN )_) fr_NN ._. inter_NN ._. net_JJ ._. -_- -_- LATIN_NNP AMERICA_NNP :_: Isabel_NNP Amorim_NNP Sicherle_NNP ,_, in_IN Sao_NNP Paulo_NNP ,_, 55_CD -_- 11_CD -_- 30233331_CD or_CC sicheia_NN (_( at_IN )_) nytimes_NNS ._. com_NN ._. NYT-07_NN -_- 31_CD -_- 02_CD 1112_CD EDT_NNP 

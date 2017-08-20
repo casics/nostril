@@ -1,0 +1,42 @@
+The_DT Entrepreneur_NNP Is_VBZ the_DT New_NNP Madonna_NNP 
+Dear_RB Joe_NNP ,_, 
+
+I_PRP know_VBP what_WP you_PRP mean_VBP about_IN being_VBG a_DT journalist_NN ._. 
+Almost_RB every_DT assignment_NN is_VBZ a_DT challenge_NN in_IN a_DT different_JJ way_NN and_CC it_PRP never_RB seems_VBZ to_TO get_VB easier_JJR ._. 
+I_PRP often_RB feel_VBP as_IN if_IN I_PRP only_RB get_VBP half_PDT the_DT story_NN sometimes_RB ,_, so_IN I_PRP typically_RB do_VBP a_DT massive_JJ amount_NN of_IN reporting_VBG that_WDT is_VBZ most_RBS often_RB much_RB more_JJR than_IN I_PRP will_MD ever_RB need_VB ._. 
+I_PRP think_VBP that_WDT is_VBZ why_WRB I_PRP welcomed_VBD doing_VBG a_DT book--it_JJ gives_VBZ one_CD the_DT ability_NN to_TO use_VB so_RB much_JJ of_IN what_WP is_VBZ left_VBN on_IN the_DT cutting_VBG room_NN floor_NN of_IN daily_JJ journalism_NN ._. 
+
+Think_VBP of_IN all_PDT the_DT good_JJ stuff_NN we_PRP all_DT collect_JJ daily_JJ in_IN our_PRP$ reporting_VBG that_IN we_PRP never_RB add_VBP to_TO stories_NNS ._. 
+Most_JJS often_RB reporters_NNS recount_NN these_DT tales_NNS with_IN each_DT other_JJ and_CC with_IN their_PRP$ sources_NNS rather_RB than_IN share_NN them_PRP with_IN the_DT general_JJ public_NN ._. 
+Much_JJ of_IN it_PRP ,_, of_IN course_NN ,_, using_VBG the_DT standards_NNS of_IN top_JJ newspapers_NNS ,_, cannot_NN be_VB used_VBN since_IN it_PRP is_VBZ largely_RB gossip_NN we_PRP are_VBP repeating_VBG ,_, although_IN it_PRP certainly_RB could_MD make_VB for_IN some_DT very_RB good_JJ stories_NNS ._. 
+I_PRP often_RB wonder_VBP when_WRB a_DT really_RB great_JJ fictional_JJ book_NN will_MD be_VB written_VBN about_IN this_DT era_NN (_( probably_RB decades_NNS and_CC decades_NNS hence_RB as_IN it_PRP is_VBZ too_RB close_VB )_) ._. 
+In_IN any_DT case_NN ,_, there_EX certainly_RB is_VBZ no_DT lack_NN of_IN information_NN available_JJ about_IN the_DT moguls_NNS of_IN technology_NN now_RB as_IN they_PRP all_DT become_VBP our_PRP$ current_JJ pop_NN icons_NNS ._. 
+I_PRP would_MD posit_NN that_IN Bill_NNP and_CC Michael_NNP and_CC Steve_NNP and_CC Jerry_NNP have_VBP become_VBN the_DT Madonnas_NNP of_IN the_DT current_JJ age_NN of_IN stock_NN market_NN mania_NN and_CC celebration_NN of_IN the_DT entrepreneur_NN ._. 
+
+So_IN the_DT shift_NN in_IN the_DT image_NN of_IN Gates_NNP has_VBZ been_VBN an_DT interesting_JJ one_CD for_IN me_PRP to_TO watch_VB ._. 
+The_DT smart-boy_JJ technologist_NN is_VBZ now_RB being_VBG painted_VBN as_IN the_DT whiny_NN bully_NN ._. 
+I_PRP personally_RB always_RB thought_VBD it_PRP was_VBD a_DT risk_NN to_TO pin_VB the_DT image_NN of_IN Microsoft_NNP on_IN just_RB one_CD man--at_JJ AOL_NNP ,_, for_IN example_NN ,_, there_EX was_VBD a_DT conscious_JJ effort_NN to_TO develop_VB other_JJ "_'' characters_NNS ,_, "_'' for_IN lack_NN of_IN a_DT better_JJR word_NN ._. 
+So_RB there_RB ,_, while_IN you_PRP think_VBP of_IN Case_NNP ,_, you_PRP also_RB think_VBP of_IN Pittman_NNP and_CC Leonsis_NNP and_CC increasingly_RB a_DT range_NN of_IN other_JJ executives_NNS ._. 
+Steve_NNP Ballmer_NNP ,_, of_IN course_NN ,_, is_VBZ now_RB getting_VBG a_DT lot_NN more_JJR attention_NN at_IN Microsoft_NNP ,_, but_CC it_PRP still_RB seems_VBZ to_TO be_VB Bill_NNP 's_POS show_NN over_IN there_RB ._. 
+
+While_IN I_PRP did_VBD not_RB attend_VB the_DT trial--_JJ I_PRP was_VBD lucky_JJ to_TO be_VB able_JJ to_TO read_VB your_PRP$ highly_RB amusing_JJ and_CC informative_JJ dispatches_NNS ,_, several_JJ of_IN which_WDT made_VBD me_PRP spit_NN up_RP my_PRP$ lunch_NN laughing--it_JJ certainly_RB seemed_VBD as_IN if_IN the_DT image_NN of_IN Bill_NNP Gates_NNP took_VBD a_DT beating_NN and_CC the_DT insular_NN culture_NN of_IN Microsoft_NNP did_VBD not_RB look_VB so_RB good_JJ ._. 
+That_DT 's_VBZ ironic_JJ ,_, since_IN I_PRP think_VBP it_PRP was_VBD just_RB that_DT insularity_NN that_WDT helped_VBD them_PRP ,_, much_JJ in_IN the_DT same_JJ way_NN that_IN AOL_NNP has_VBZ benefited_VBN from_IN being_VBG in_IN the_DT Virginia_NNP suburbs_NNS rather_RB than_IN in_IN Silicon_NNP Valley_NNP ._. 
+AOL_NNP would_MD never_RB have_VB existed_VBN if_IN it_PRP had_VBD been_VBN founded_VBN here_RB ,_, I_PRP am_VBP sure_JJ ,_, since_IN its_PRP$ employees_NNS would_MD have_VB been_VBN mocked_VBN into_IN obscurity_NN by_IN the_DT digerati_NN ._. 
+Out_IN in_IN the_DT D.C._NN area_NN ,_, they_PRP looked_VBD positively_RB exciting_JJ next_JJ to_TO all_DT the_DT government-oriented_JJ contractors_NNS ._. 
+I_PRP wonder_NN if_IN that_DT means_VBZ geography_NN is_VBZ destiny_NN ,_, and_CC it_PRP 's_VBZ still_RB location_NN ,_, location_NN ,_, location_NN ._. 
+
+From_IN where_WRB I_PRP am_VBP sitting_VBG ,_, I_PRP think_VBP the_DT Microsoft_NNP trial_NN has_VBZ been_VBN the_DT really_RB obvious_JJ turning_NN point_NN between_IN the_DT computer_NN era_NN and_CC the_DT digital_JJ age_NN ._. 
+I_PRP think_VBP it_PRP almost_RB does_VBZ not_RB matter_VB what_WP the_DT judge_NN does_VBZ since_IN it_PRP 's_VBZ clear_JJ that_IN the_DT balance_NN of_IN power_NN is_VBZ shifting_VBG again_RB ,_, although_IN it_PRP not_RB clear_JJ where_WRB it_PRP will_MD land_VB ._. 
+Will_MD the_DT strongman_NN of_IN the_DT era_NN be_VB AOL_NNP ,_, AT&T_NNP ,_, Microsoft_NNP ,_, or_CC one_CD of_IN the_DT big_JJ media_NNS companies_NNS ?_. 
+Or_CC will_MD it_PRP be_VB none_NN of_IN them_PRP because_IN the_DT Internet_NN allows_VBZ and_CC encourages_VBZ a_DT plethora_NN of_IN strong_JJ companies_NNS and_CC a_DT complex_JJ interconnection_NN of_IN businesses_NNS where_WRB none_NN are_VBP allowed_VBN to_TO dominate_VB ?_. 
+
+I_PRP always_RB use_VBP two_CD simple_JJ words_NNS when_WRB people_NNS tell_VBP me_PRP that_IN one_CD company--whether_JJ it_PRP is_VBZ AOL_NNP or_CC Microsoft_NNP or_CC Disney--is_NNP in_IN charge_NN of_IN all_DT our_PRP$ destinies_NNS :_: Babylon_NNP was_VBD ._. 
+That_DT incredible_JJ empire_NN dominated_VBD the_DT world_NN and_CC I_PRP imagine_VBP it_PRP did_VBD not_RB seem_VB possible_JJ to_TO people_NNS living_VBG then_RB that_DT anyone_NN could_MD loosen_VB that_DT empire_NN 's_POS grip_NN on_IN humanity_NN ._. 
+But_CC we_PRP all_DT know_VBP how_WRB that_DT story_NN turned_VBD out_RP ._. 
+
+Now_RB I_PRP am_VBP getting_VBG way_NN too_RB philosophical_JJ ,_, but_CC this_DT is_VBZ my_PRP$ final_JJ missive_JJ ,_, so_RB why_WRB not_RB ?_. 
+Perhaps_RB you_PRP could_MD hasten_VB a_DT prediction_NN of_IN where_WRB this_DT is_VBZ all_DT going_VBG ._. 
+As_IN for_IN me_PRP ,_, I_PRP 'll_MD stick_VB with_IN my_PRP$ philosophy_NN of_IN reporting_VBG and_CC ,_, I_PRP guess_VBP ,_, life--nobody_JJ knows_VBZ ._. 
+
+Cheers_NNP ,_, Kara_NNP 
+

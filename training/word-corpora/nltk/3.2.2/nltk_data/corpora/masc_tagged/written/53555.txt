@@ -1,0 +1,15 @@
+Message-ID_NNP :_: <_NN 18298171.1075840788676.JavaMail.evans@thyme_NN >_NN Date_NN :_: Tue_NNP ,_, 29_CD Jan_NNP 2002_CD 10:22:03_NN -_: 0800_CD (_( PST_NNP )_) From_IN :_: j.kaminski@enron.com_NN To_TO :_: vkaminski@aol.com_NN Subject_NNP :_: FW_NNP :_: Issues_NNS with_IN Exotica_NNP Library_NNP Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN -----_SYM Original_NNP Message-----_NNP From_IN :_: Rajan_NNP ,_, Karthik_NNP Sent_NNP :_: Monday_NNP ,_, January_NNP 28_CD ,_, 2002_CD 6:39_NN PM_NNP To_TO :_: Kaminski_NNP ,_, Vince_NNP J_NNP ;_: Yang_NNP ,_, Sean_NNP ;_: Stock_NNP ,_, Steve_NNP Subject_NNP :_: RE_NNP :_: Issues_NNS with_IN Exotica_NNP Library_NNP 
+Vince_NNP /_NN Sean_NNP ,_, I_PRP will_MD talk_VB to_TO you_PRP Zimin_NNP /_NN Tom_NNP tonight_NN at_IN their_PRP$ home_NN number_NN and_CC get_VB the_DT passwords_NNS as_RB well_RB as_IN the_DT security_NN feature_NN ._. 
+I_PRP will_MD drop_VB by_IN your_PRP$ (_( Sean_NNP )_) desk_NN first_RB thing_NN tomorrow_NN ._. 
+Sorry_JJ for_IN the_DT delay_NN ._. 
+
+Karthik_NNP ._. 
+
+-----_SYM Original_NNP Message-----_NNP From_IN :_: Kaminski_NNP ,_, Vince_NNP J_NNP Sent_NNP :_: Mon_NNP 1/28/2002_CD 11:27_NN AM_NNP To_TO :_: Yang_NNP ,_, Sean_NNP ;_: Rajan_NNP ,_, Karthik_NNP ;_: Stock_NNP ,_, Steve_NNP Cc_NNP :_: Subject_NNP :_: Re_NNP :_: Issues_NNS with_IN Exotica_NNP Library_NNP 
+Karthik_NNP ,_, 
+If_IN you_PRP can_MD not_RB find_VB the_DT answer_NN ,_, please_VB call_NN Zimin_NNP ._. 
+I_PRP shall_MD call_VB him_PRP at_IN home_NN tonight_NN as_RB well_RB ._. 
+
+Vince_NNP 
+
+--------------------------_SYM vince_NN kaminski_NN 

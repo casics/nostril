@@ -1,0 +1,14 @@
+The_DT White_NNP House_NNP said_VBD President_NNP Bush_NNP has_VBZ approved_VBN duty_NN -_- free_JJ treatment_NN for_IN imports_NNS of_IN certain_JJ types_NNS of_IN watches_NNS that_WDT are_VBP n't_RB produced_VBN in_IN "_'' significant_JJ quantities_NNS "_'' in_IN the_DT U.S._NNP ,_, the_DT Virgin_NNP Islands_NNP and_CC other_JJ U.S._NNP possessions_NNS ._. 
+
+The_DT action_NN came_VBD in_IN response_NN to_TO a_DT petition_NN filed_VBN by_IN Timex_NNP Inc._NN for_IN changes_NNS in_IN the_DT U.S._NNP Generalized_NNP System_NNP of_IN Preferences_NNPS for_IN imports_NNS from_IN developing_VBG nations_NNS ._. 
+Previously_RB ,_, watch_VB imports_NNS were_VBD denied_VBN such_JJ duty_NN -_- free_JJ treatment_NN ._. 
+
+Timex_NNP had_VBD requested_VBN duty_NN -_- free_JJ treatment_NN for_IN many_JJ types_NNS of_IN watches_NNS ,_, covered_VBN by_IN 58_CD different_JJ U.S._NNP tariff_NN classifications_NNS ._. 
+The_DT White_NNP House_NNP said_VBD Mr._NN Bush_NNP decided_VBD to_TO grant_VB duty_NN -_- free_JJ status_NN for_IN 18_CD categories_NNS ,_, but_CC turned_VBD down_RB such_JJ treatment_NN for_IN other_JJ types_NNS of_IN watches_NNS "_'' because_IN of_IN the_DT potential_NN for_IN material_NN injury_NN to_TO watch_VB producers_NNS located_VBN in_IN the_DT U.S._NNP and_CC the_DT Virgin_NNP Islands_NNP ._. "_'' 
+
+Timex_NNP is_VBZ a_DT major_JJ U.S._NNP producer_NN and_CC seller_NN of_IN watches_NNS ,_, including_VBG low_JJ -_- priced_JJ battery_NN -_- operated_JJ watches_NNS assembled_VBN in_IN the_DT Philippines_NNPS and_CC other_JJ developing_NN nations_NNS covered_VBN by_IN the_DT U.S._NNP tariff_NN preferences_NNS ._. 
+
+U.S._NNP trade_NN officials_NNS said_VBD the_DT Philippines_NNPS and_CC Thailand_NNP would_MD be_VB the_DT main_JJ beneficiaries_NNS of_IN the_DT president_NN 's_POS action_NN ._. 
+
+Imports_NNS of_IN the_DT types_NNS of_IN watches_NNS that_WDT now_RB will_MD be_VB eligible_JJ for_IN duty_NN -_- free_JJ treatment_NN totaled_VBD about_IN $37.3_NN million_CD in_IN 1988_CD ,_, a_DT relatively_RB small_JJ share_NN of_IN the_DT $1.5_NN billion_CD in_IN U.S._NNP watch_VB imports_NNS that_WDT year_NN ,_, according_VBG to_TO an_DT aide_NN to_TO U.S._NNP Trade_NNP Representative_NNP Carla_NNP Hills_NNP ._. 
+

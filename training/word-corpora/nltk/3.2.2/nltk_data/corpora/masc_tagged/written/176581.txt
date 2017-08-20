@@ -1,0 +1,30 @@
+Date_NN :_: Fri_NNP ,_, 6_CD Jul_NNP 2001_CD 00:41:00_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: steven.kean@enron.com_NN To_TO :_: george.wasaff@enron.com_NN Subject_NNP :_: Can_MD you_PRP help_VB me_PRP ?_. Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN X-From_NNP :_: Steven_NNP J_NNP Kean_NNP X-To_NNP :_: George_NNP Wasaff_NNP X-cc_NNP :_: X-bcc_NNP :_: X-Folder_NNP :_: \_NN Steven_NNP __NN Kean_NNP __NN Nov_NNP 2001_CD __NN 1_CD \_NN Notes_NNP Folders_NNP \_NN All_DT documents_NNS X-Origin_NNP :_: KEAN-S_NNP X-FileName_NNP :_: skean_NN ._. nsf_NN ----------------------_SYM Forwarded_NNP by_IN Steven_NNP J_NNP Kean_NNP /_NN NA_NNP /_NN Enron_NNP on_IN 07/06/2001_CD 07:40_NN AM_NNP ---------------------------_SYM 
+steve.knight@businesslayers.com_NN on_IN 06/25/2001_CD 12:57:25_NN PM_NNP To_TO :_: Steven_NNP J_NNP Kean_NNP /_NN NA_NNP /_NN Enron_NNP @_IN Enron_NNP cc_NN :_: 
+Subject_NNP :_: Can_MD you_PRP help_VB me_PRP ?_. 
+I_PRP am_VBP looking_VBG for_IN some_DT help_NN in_IN identifying_VBG the_DT right_JJ person_NN (_( s_VBZ )_) at_IN :_: Enron_NNP Corp_NNP ._. ,_, for_IN an_DT introduction_NN of_IN our_PRP$ software_NN solution_NN ._. 
+Steven_NNP ,_, if_IN you_PRP could_MD take_VB a_DT moment_NN and_CC point_VB me_PRP to_TO the_DT appropriate_JJ contact_NN I_PRP would_MD greatly_RB appreciate_VB it_PRP ._. 
+
+Summary_NNP of_IN eProvisioning_VBG :_: 
+
+eProvisioning_VBG radically_RB improves_VBZ people_NNS 's_POS Time-_NNP To-_NNP Productivity_NNP by_IN transforming_VBG the_DT disparate_JJ activities_NNS that_WDT allocate_VBP IT_PRP resources_NNS to_TO people_NNS into_IN a_DT secure_VB and_CC automatic_JJ process_NN ._. 
+Once_RB provisioned_JJ ,_, these_DT resources_NNS remain_VBP digitally_RB connected_VBN to_TO each_DT person_NN as_IN they_PRP move_VBP through_IN the_DT business_NN cycle_NN and_CC are_VBP dynamically_RB updated_VBN as_IN necessary_JJ ._. 
+At_IN the_DT appropriate_JJ time_NN ,_, they_PRP are_VBP systematically_RB ,_, securely_RB and_CC automatically_RB removed_VBN ._. 
+
+Organizations_NNS that_WDT employ_VBP eProvisioning_VBG gain_NN a_DT competitive_JJ edge_NN and_CC access_VB complete_JJ security_NN by_IN ensuring_VBG that_IN people_NNS are_VBP kept_VBN productive_JJ from_IN day_NN one_CD ,_, and_CC are_VBP prevented_VBN from_IN becoming_VBG counterproductive_JJ beyond_IN the_DT day_NN they_PRP leave_VBP ._. 
+In_IN addition_NN ,_, by_IN aligning_VBG their_PRP$ IT_PRP infrastructure_NN with_IN business_NN priorities_NNS ,_, organizations_NNS can_MD effectively_RB manage_VB change_NN across_IN the_DT extended_JJ enterprise_NN ,_, and_CC better_JJR respond_NN to_TO emerging_VBG market_NN requirements_NNS ._. 
+
+eProvision_NN Day_NNP One_CD provides_VBZ business_NN and_CC IT_PRP executives_NNS with_IN the_DT ability_NN to_TO quickly_RB identify_VB bottlenecks_NNS and_CC maintain_VB accountability_NN of_IN the_DT eProvisioning_VBG process_NN through_IN comprehensive_JJ reporting_NN and_CC tracking_VBG capabilities_NNS ._. 
+As_IN business_NN relationships_NNS between_IN organizations_NNS expand_VBP ,_, Business_NNP Layers_NNP technology_NN provides_VBZ the_DT framework_NN for_IN integration_NN and_CC interoperability_NN between_IN eProvisioning_VBG partners_NNS -_: suppliers_NNS and_CC service_NN providers_NNS ,_, devices_NNS and_CC applications_NNS -_: which_WDT are_VBP the_DT digital_JJ foundations_NNS of_IN the_DT Internet_NN economy_NN ._. 
+
+Please_VB ,_, if_IN you_PRP could_MD give_VB me_PRP a_DT few_JJ minutes_NNS of_IN your_PRP$ valuable_JJ time_NN or_CC guide_VB me_PRP to_TO the_DT right_JJ person_NN to_TO describe_VB the_DT significant_JJ benefits_NNS of_IN what_WP we_PRP offer_VBP ._. 
+"_'' 
+Web_NNP Site_NNP :_: http://www.businesslayers.com_NN 
+
+Demo-Site_NNP :_: http://demo.businesslayers.com_NN 
+User_NNP :_: blayers_NNS 
+Pass_NNP :_: blayers_NNS 
+
+Thank_VB you_PRP for_IN your_PRP$ time_NN ._. 
+
+Steve_NNP Knight_NNP SC_NNP Regional_NNP Sales_NNP Manager_NNP Business_NNP Layers_NNP ,_, Inc._NN 
+817_CD -_: 490_CD -_: 0170_CD 

@@ -1,0 +1,10 @@
+Heritage_NNP Media_NNP Corp_NNP ._. ,_, New_NNP York_NNP ,_, said_VBD it_PRP offered_VBD to_TO buy_VB the_DT shares_NNS of_IN POP_NNP Radio_NNP Corp_NNP ._. it_PRP does_VBZ n't_RB already_RB own_JJ in_IN a_DT stock_NN swap_NN ._. 
+
+Heritage_NNP ,_, which_WDT owns_VBZ 51_CD %_NN of_IN POP_NNP 's_POS 3.6_CD million_CD shares_NNS outstanding_JJ ,_, said_VBD it_PRP will_MD exchange_VB one_CD share_NN of_IN a_DT new_JJ preferred_VBN stock_NN for_IN each_DT POP_NNP common_JJ share_NN it_PRP does_VBZ n't_RB already_RB own_JJ ._. 
+Depending_VBG upon_IN how_WRB many_JJ warrants_NNS and_CC options_NNS are_VBP exercised_VBN prior_RB to_TO completion_NN of_IN the_DT transaction_NN ,_, Heritage_NNP would_MD issue_VB between_IN 1.8_CD million_CD and_CC 2.35_CD million_CD preferred_JJ shares_NNS ,_, a_DT Heritage_NNP spokesman_NN estimated_VBN ._. 
+In_IN national_JJ over_IN -_- the_DT -_- counter_NN trading_NN yesterday_NN ,_, POP_NNP plunged_VBD $4_NN to_TO $14.75_NN ._. 
+
+The_DT preferred_JJ stock_NN ,_, which_WDT would_MD have_VB a_DT dividend_NN rate_NN of_IN $1.76_NN a_DT year_NN ,_, would_MD be_VB convertible_JJ into_IN Heritage_NNP common_JJ at_IN a_DT rate_NN of_IN four_CD common_JJ shares_NNS for_IN each_DT preferred_JJ ._. 
+New_NNP York_NNP -_- based_JJ POP_NNP Radio_NNP provides_VBZ ,_, through_IN a_DT national_JJ ,_, in_IN -_- store_NN network_NN ,_, a_DT customized_VBN music_NN ,_, information_NN and_CC advertising_NN service_NN which_WDT simulates_VBZ live_VB radio_NN ._. 
+Heritage_NNP owns_VBZ and_CC operates_VBZ television_NN and_CC radio_NN stations_NNS and_CC in_IN -_- store_NN advertising_NN and_CC promotion_NN programs_NNS ._. 
+

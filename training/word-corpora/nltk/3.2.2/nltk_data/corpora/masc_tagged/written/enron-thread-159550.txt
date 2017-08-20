@@ -1,0 +1,53 @@
+Kim_NNP :_: 
+
+I_PRP have_VBP completed_VBN the_DT invoices_NNS for_IN April_NNP ,_, May_NNP and_CC June_NNP and_CC we_PRP owe_VBP Pasadena_NNP each_DT month_NN for_IN a_DT total_NN of_IN $3,615,910.62_NN ._. 
+I_PRP am_VBP waiting_VBG to_TO hear_VB back_RB from_IN Patti_NNP on_IN May_NNP and_CC June_NNP to_TO make_VB sure_JJ they_PRP are_VBP okay_JJ with_IN her_PRP ._. 
+Do_VBP you_PRP want_VB me_PRP to_TO pay_VB Pasadena_NNP on_IN Friday_NNP for_IN these_DT months_NNS or_CC do_VBP you_PRP want_VBP me_PRP to_TO hold_VB off_RP until_IN I_PRP finish_VBP July_NNP and_CC August_NNP ?_. 
+
+Again_RB ,_, I_PRP do_VBP not_RB have_VB all_DT of_IN the_DT information_NN for_IN July_NNP and_CC August_NNP ,_, so_IN I_PRP cannot_NN give_VB you_PRP any_DT numbers_NNS ._. 
+If_IN I_PRP go_VBP by_IN what_WP is_VBZ currently_RB in_IN the_DT system_NN as_IN a_DT guide_NN ,_, Pasadena_NNP would_MD owe_VB Enron_NNP a_DT little_JJ over_IN $1_NN mil_NN ._. 
+I_PRP need_VBP to_TO forecast_VB the_DT money_NN today_NN ,_, so_RB please_VB let_VB me_PRP know_VB what_WP you_PRP would_MD like_VB to_TO do_VB ._. 
+
+FYI-I_NNP will_MD be_VB out_IN of_IN the_DT office_NN all_DT next_JJ week_NN ._. 
+
+Megan_NNP 
+
+Subject_NNP :_: RE_NNP :_: City_NNP of_IN Pasadena_NNP 
+
+Thanks_NNS you_PRP so_RB much_JJ for_IN working_VBG on_IN these_DT as_RB fast_RB as_IN you_PRP have_VBP -_: there_EX was_VBD a_DT priority_NN in_IN getting_VBG them_PRP out_RP ._. 
+However_RB ,_, as_IN you_PRP know_VBP ,_, the_DT less_JJR cash_NN outlay_NN that_IN we_PRP have_VBP right_RB now_RB the_DT better_JJR ._. 
+Lets_NNP wait_VB and_CC try_VB to_TO offset_VB the_DT amount_NN we_PRP owe_VBP them_PRP with_IN what_WP they_PRP owe_VBP us_PRP -_: so_IN I_PRP say_VBP wait_VB until_IN you_PRP get_VBP July_NNP and_CC August_NNP done_VBN ._. 
+
+What_WP do_VBP you_PRP think_VBP the_DT time_NN frame_NN is_VBZ on_IN this_DT ?_. 
+
+And_CC when_WRB would_MD be_VB the_DT earliest_JJS that_IN we_PRP would_MD make_VB the_DT payment_NN ?_. 
+
+Thanks_NNS ,_, Kim_NNP 
+
+Subject_NNP :_: RE_NNP :_: City_NNP of_IN Pasadena_NNP 
+
+Patti_NNP is_VBZ the_DT one_CD with_IN the_DT details_NNS ,_, I_PRP 'm_VBP just_RB the_DT deal_NN maker_NN and_CC do_VBP n't_RB have_VB access_NN to_TO any_DT of_IN the_DT systems_NNS ._. 
+All_DT I_PRP know_VBP is_VBZ what_WP fixed_VBD priced_VBN baseload_NN deals_NNS we_PRP have_VBP ._. 
+I_PRP have_VBP no_DT idea_NN what_WP flows_NNS ._. 
+I_PRP hope_VBP Patti_NNP can_MD help_VB you_PRP soon_RB ._. 
+
+Let_VB me_PRP know_VB if_IN you_PRP do_VBP n't_RB hear_VB from_IN her_PRP$ today_NN ._. 
+
+
+Subject_NNP :_: RE_NNP :_: City_NNP of_IN Pasadena_NNP 
+
+If_IN I_PRP can_MD get_VB all_DT of_IN the_DT information_NN today_NN ,_, I_PRP can_MD tell_VB you_PRP this_DT afternoon_NN ._. 
+It_PRP does_VBZ n't_RB take_VB long_JJ to_TO create_VB the_DT calc_NN sheets_NNS ._. 
+I_PRP understand_VBP from_IN Janine_NNP that_IN you_PRP or_CC Patti_NNP can_MD provide_VB me_PRP with_IN the_DT detail_NN that_IN I_PRP need_VBP ._. 
+If_IN necessary_JJ ,_, I_PRP can_MD come_VB pick_VB it_PRP up_RP ._. 
+I_PRP have_VBP sent_VBN Patti_NNP a_DT list_NN ._. 
+
+For_IN payment_NN ,_, we_PRP have_VBP to_TO forecast_VB the_DT money_NN two_CD days_NNS out_RP ._. 
+So_RB ,_, if_IN I_PRP know_VBP today_NN ,_, I_PRP can_MD pay_VB on_IN Friday_NNP ._. 
+
+Megan_NNP 
+
+Subject_NNP :_: RE_NNP :_: City_NNP of_IN Pasadena_NNP 
+
+thats_NNS fine_NN -_: we_PRP ca_MD n't_RB pay_VB them_PRP anyway_RB 
+

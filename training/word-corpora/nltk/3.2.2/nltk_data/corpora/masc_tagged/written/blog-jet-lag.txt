@@ -1,0 +1,64 @@
+Jet_NNP Lag_NN :_: Pathophysiology_NNP and_CC Cures_NNP The_DT longest_JJS Monday_NNP of_IN my_PRP$ life_NN I_PRP recently_RB returned_VBD to_TO the_DT US_NNP from_IN Australia_NNP ._. 
+The_DT 14-hour_JJ flight_NN took_VBD me_PRP from_IN Monday_NNP morning_NN in_IN Sydney_NNP to_TO Monday_NNP morning_NN ,_, again_RB ,_, in_IN L.A._NNP Crossing_NNP the_DT date_NN line_NN messed_JJ up_RP my_PRP$ sense_NN of_IN time_NN enough_RB without_IN the_DT added_JJ bonus_NN of_IN thinking_VBG I_PRP should_MD be_VB heading_VBG to_TO bed_NN just_RB as_IN the_DT sun_NN began_VBD to_TO climb_VB into_IN the_DT California_NNP sky_NN ._. 
+
+You_PRP may_MD be_VB familiar_JJ with_IN the_DT concept_NN :_: Jet_NNP lag_NN ._. 
+The_DT catch-all_JJ name_NN for_IN circadian_NN misalignment_NN ,_, the_DT disruption_NN of_IN sleep_NN cycles_NNS and_CC circadian_NN rhythms_NNS ._. 
+If_IN you_PRP 've_VBP had_VBN the_DT pleasure_NN of_IN crossing_VBG time_NN zones_NNS in_IN a_DT jet_NN plane_NN ,_, whether_IN it_PRP was_VBD a_DT mere_JJ three-hour_JJ hop_NN from_IN one_CD coast_NN of_IN the_DT US_NNP to_TO the_DT other_JJ or_CC a_DT trip_NN to_TO another_DT continent_NN ,_, chances_NNS are_VBP ,_, you_PRP 've_VBP experienced_VBN some_DT amount_NN of_IN jet_NN lag_NN ._. 
+
+The_DT pathophysiology_NN of_IN jet_NN lag_NN Normally_RB ,_, two_CD systems--the_JJ homeostatic_JJ system_NN and_CC the_DT circadian_NN system--work_JJ together_RB to_TO produce_VB a_DT 24-hour_JJ sleep_NN cycle_NN ._. 
+During_IN the_DT day_NN ,_, the_DT homeostatic_JJ system_NN slowly_RB accumulates_NNS a_NNP '_POS sleep_NN drive_NN ,_, '_'' a_DT desire_NN to_TO sleep_VB that_IN increases_NNS as_IN a_DT function_NN of_IN time_NN spent_VBD awake_JJ ._. 
+The_DT circadian_NN system_NN generates_VBZ an_DT alerting_VBG signal_NN in_IN opposition_NN to_TO this_DT sleep_NN drive_NN ,_, which_WDT ,_, during_IN the_DT day_NN ,_, keeps_VBZ a_DT person_NN from_IN feeling_NN increasingly_RB sleepy_JJ ._. 
+An_DT hour_NN or_CC two_CD before_IN bedtime_NN ,_, this_DT signal_NN subsides_NNS ,_, and_CC s_VBZ /_NN he_PRP realizes_VBZ it_PRP 's_VBZ time_NN to_TO hit_VB the_DT pillow_NN ._. 
+The_DT sleep_NN drive_NN dissipates_VBZ as_IN a_DT person_NN sleeps_VBZ and_CC by_IN morning_NN (_( assuming_VBG a_DT full_JJ night_NN 's_POS rest_NN and_CC possibly_RB some_DT coffee_NN )_) ,_, s_VBZ /_NN he_PRP will_MD be_VB feeling_VBG alert_VB and_CC ready_JJ to_TO go_VB again_RB ._. 
+
+Robert_NNP Sack_NNP wrote_VBD a_DT delightful_JJ paper_NN [_NN PDF_NNP ]_NN on_IN jet_NN lag_NN ,_, by_IN the_DT way_NN ,_, which_WDT is_VBZ where_WRB I_PRP 'm_VBP getting_VBG much_JJ of_IN my_PRP$ information_NN ._. 
+
+So_IN we_PRP 've_VBP got_VBN a_DT nice_JJ cycle_NN of_IN sleep_NN ._. 
+Jet_NNP lag_NN is_VBZ what_WP happens_VBZ when_WRB the_DT homeostatic_JJ and_CC circadian_NN processes_NNS are_VBP misaligned_JJ ._. 
+For_IN example_NN ,_, the_DT circadian_NN system_NN may_MD signal_VB a_DT person_NN to_TO be_VB alert_VB when_WRB it_PRP 's_VBZ not_RB actually_RB morning_NN ,_, or_CC may_MD be_VB reduced_VBN during_IN daytime_JJ hours_NNS ,_, causing_VBG daytime_JJ sleepiness_NNS because_IN the_DT homeostatic_JJ sleep_NN drive_NN is_VBZ no_DT longer_RB cancelled_JJ out_RP ._. 
+
+But_CC I_PRP do_VBP n't_RB want_VB to_TO be_VB sleepy_JJ !_. How_WRB do_VBP you_PRP beat_VBP jet_NN lag_NN ?_. 
+Robert_NNP Sack_NNP lists_NNS three_CD primary_JJ approaches_NNS :_: 
+Reset_NNP the_DT body_NN clock_NN 
+Prescribed_NNP sleep_VB scheduling_NN 
+Medication_NNP to_TO counteract_VB daytime_JJ sleepiness_NNS or_CC insomnia_NN 
+
+Let_VB 's_PRP start_VB with_IN the_DT first_JJ one_CD ,_, as_IN it_PRP turns_VBZ out_IN to_TO be_VB the_DT most_RBS complicated_VBN ._. 
+
+Resetting_NNP the_DT body_NN clock_NN The_DT two_CD most_RBS effective_JJ ways_NNS to_TO reset_VB the_DT body_NN clock_NN are_VBP 1_CD )_) through_IN bright_JJ light_JJ exposure_NN ,_, and_CC 2_CD )_) timed_VBN melatonin_NN administration_NN ._. 
+
+Light_NNP is_VBZ one_CD of_IN the_DT most_RBS important_JJ cues_NNS about_IN time_NN of_IN day_NN and_CC has_VBZ the_DT greatest_JJS effect_NN on_IN circadian_NN timing_NN (_( much_RB smaller_JJR effects_NNS are_VBP seen_VBN from_IN regular_JJ activities_NNS and_CC meals_NNS ,_, for_IN example_NN )_) ._. 
+Studies_NNS have_VBP shown_VBN that_IN without_IN light_JJ cues_NNS ,_, totally_RB blind_JJ people_NNS tend_VBP to_TO have_VB free-running_JJ circadian_NN rhythms_NNS with_IN an_DT average_JJ period_NN of_IN 24.5_CD hours_NNS ,_, instead_RB of_IN the_DT usual_JJ 24_CD ._. 
+If_IN a_DT person_NN is_VBZ exposed_VBN to_TO bright_JJ light_JJ early_RB in_IN the_DT day_NN ,_, the_DT person_NN 's_POS internal_JJ clock_NN is_VBZ reset_NN to_TO an_DT earlier_JJR time_NN ;_: if_IN exposure_NN is_VBZ instead_RB in_IN the_DT evening_NN ,_, the_DT internal_JJ clock_NN is_VBZ reset_NN to_TO a_DT later_JJ time_NN ._. 
+Brighter_NNP light_NN has_VBZ more_JJR of_IN an_DT effect_NN (_( such_JJ as_IN the_DT sun_NN ,_, at_IN 3000_CD to_TO 10,000_CD lux_NN )_) ,_, though_IN lower_JJR intensities_NNS (_( e.g._NN ,_, 100_CD -_: 550_CD lux_NN )_) can_MD produce_VB changes_NNS ._. 
+
+Artificial_NNP light_JJ sources_NNS can_MD be_VB used_VBN to_TO supplement_VB daylight_NN ,_, to_TO help_VB reset_VB a_DT person_NN 's_POS internal_JJ clock_NN to_TO the_DT correct_JJ new_JJ time_NN zone_NN when_WRB traveling_VBG ._. 
+Alternatively_RB ,_, a_DT person_NN could_MD wear_VB very_RB dark_JJ glasses_NNS ,_, as_IN light_JJ avoidance_NN could_MD help_VB minimize_VB the_DT problems_NNS of_IN light_JJ exposure_NN at_IN the_DT wrong_JJ time_NN of_IN day_NN or_CC night_NN ._. 
+
+Resetting_NNP the_DT body_NN clock_NN ,_, Part_NN 2_CD :_: Melatonin_NNP Melatonin_NNP is_VBZ a_DT hormone_NN that_WDT has_VBZ been_VBN linked_VBN to_TO the_DT regulation_NN of_IN circadian_NN rhythms_NNS and_CC sleep_VB cycles_NNS [_NN PDF_NNP ]_NN ._. 
+Melatonin_NNP is_VBZ secreted_JJ by_IN the_DT pineal_NN gland_NN at_IN night_NN ;_: secretion_NN is_VBZ suppressed_VBN by_IN light_JJ exposure_NN ,_, and_CC as_IN such_JJ ,_, the_DT hormone_NN can_MD be_VB thought_VBN of_IN as_IN a_DT "_'' darkness_NNS signal_VBP ._. "_'' 
+If_IN doses_NNS of_IN melatonin_NN are_VBP administered_VBN in_IN the_DT morning_NN ,_, circadian_NN rhythms_NNS will_MD be_VB shifted_VBN later_RB ;_: evening_NN doses_NNS shift_VBP rhythms_NNS earlier_RBR ._. 
+Timing_NN of_IN the_DT doses_NNS is_VBZ more_RBR important_JJ than_IN amount_NN per_IN dose_NN ,_, though_IN it_PRP remains_VBZ to_TO be_VB seen_VBN what_WP the_DT optimal_NN dose_NN and_CC optimal_NN time_NN of_IN administration_NN is--trials_JJ have_VBP been_VBN done_VBN with_IN doses_NNS from_IN 0.5_CD to_TO 10_CD mg_NN ,_, at_IN times_NNS ranging_VBG from_IN three_CD days_NNS before_IN departure_NN to_TO five_CD days_NNS after_IN arrival_NN in_IN the_DT new_JJ time_NN zone_NN ._. 
+
+If_IN doses_NNS of_IN melatonin_NN are_VBP combined_VBN with_IN light_JJ exposure_NN ,_, the_DT results_NNS are_VBP what_WP you_PRP might_MD expect_VB :_: synergistic_JJ if_IN both_DT are_VBP administered_VBN to_TO produce_VB a_DT time_NN shift_NN in_IN the_DT same_JJ direction_NN (_( both_DT earlier_JJR or_CC both_DT later_RB )_) ;_: antagonistic_JJ otherwise_RB ._. 
+
+Sleep_VBP ,_, wake_NN ,_, sleep_VB ,_, wake_NN The_DT second_JJ way_NN to_TO beat_VB jet_NN lag_NN :_: Sleep_VBP at_IN weird_JJ times_NNS ._. 
+Slowly_NNP adjust_VB your_PRP$ sleep_NN schedule_NN to_TO match_VB that_IN of_IN your_PRP$ destination_NN ,_, or_CC keep_VB your_PRP$ home_NN sleep_NN schedule_NN for_IN a_DT while_NN after_IN you_PRP arrive_VBP ._. 
+The_DT problem_NN with_IN this_DT is_VBZ that_IN your_PRP$ sleep-wake_JJ schedule_NN wo_MD n't_RB match_VB up_RP with_IN that_DT of_IN the_DT people_NNS around_IN you_PRP ,_, and_CC if_IN you_PRP need_VBP to_TO be_VB awake_JJ for_IN breakfast_NN at_IN 7_CD am_VBP or_CC for_IN a_DT meeting_NN in_IN the_DT afternoon_NN ,_, your_PRP$ sleep_NN schedule_NN may_MD interfere_VB ._. 
+Use_NN this_DT method_NN at_IN your_PRP$ own_JJ risk_NN ._. 
+
+Drugs_NNS for_IN everything_NN Lastly_NNP ,_, we_PRP have_VBP sleep_VB medicines_NNS ._. 
+As_IN you_PRP might_MD guess_VB ,_, hypnotic_JJ medications_NNS combat_NN insomnia_NN and_CC stimulants_NNS fight_VBP off_RP daytime_JJ sleepiness_NNS pretty_RB well_RB ,_, because_IN by_IN definition_NN ,_, that_DT 's_VBZ what_WP they_PRP do_VBP ._. 
+Both_DT benzodiazepine_NN and_CC non-benzodiazepine_JJ drugs_NNS have_VBP been_VBN shown_VBN to_TO be_VB effective_JJ in_IN the_DT first_JJ case_NN ;_: for_IN the_DT latter_NN ,_, the_DT most_RBS common_JJ solution_NN is_VBZ to_TO consume_VB more_JJR coffee_NN [_NN PDF_NNP ]_NN ._. 
+This_DT works_NNS !_. 
+In_IN the_DT study_NN linked_VBD ,_, subjects_NNS were_VBD treated_VBN with_IN slow-release_JJ caffeine_NN or_CC with_IN melatonin_NN prior_RB to_TO a_DT long_RB eastward_RB flight_NN ;_: the_DT caffeine_NN subjects_NNS were_VBD less_RBR sleepy_JJ than_IN either_DT melatonin_NN or_CC placebo_NN ._. 
+Granted_NNP ,_, caffeine_NN subjects_NNS also_RB took_VBD longer_RBR to_TO fall_VB asleep_RB later_RB and_CC awoke_VBD more_RBR frequently_RB ,_, but_CC that_DT may_MD be_VB a_DT risk_NN you_PRP have_VBP to_TO take_VB ._. 
+
+Lagging_NNP behind_IN Light_NNP ,_, melatonin_NN ,_, drugs_NNS ,_, strange_JJ sleep_NN schedules_NNS ._. 
+Of_IN course_NN ,_, the_DT only_JJ solution_NN that_WDT will_MD always_RB work_VB is_VBZ time_NN ._. 
+The_DT homeostatic_JJ and_CC circadian_NN processes_NNS need_VBP to_TO realign_VB ,_, and_CC while_IN the_DT aforementioned_JJ ways_NNS of_IN beating_NN jet_NN lag_NN can_MD fast_RB track_VB the_DT process_NN ,_, it_PRP still_RB takes_VBZ time_NN ._. 
+
+UPDATE_NNP :_: ;_: I_PRP was_VBD alerted_VBD by_IN a_DT friend_NN of_IN the_DT existence_NN further_JJ research_NN of_IN which_WDT I_PRP was_VBD unaware_JJ :_: Another_DT way_NN to_TO reset_VB your_PRP$ sleep-wake_JJ cycle_NN is_VBZ to_TO stop_VB eating_VBG ._. 
+If_IN you_PRP fast_RB for_IN about_IN 12_CD to_TO 16_CD hours_NNS ,_, your_PRP$ body_NN clock_NN will_MD reset_VB ,_, with_IN whatever_WDT time_NN you_PRP break_VBP your_PRP$ fast_RB as_IN morning_NN ._. 
+The_DT Fuller_NNP ,_, Lu_NNP ,_, &_CC Saper_NNP paper_NN [_NN PDF_NNP ]_NN ,_, published_VBN in_IN Science_NNP ,_, discusses_NNS the_DT mechanism_NN ,_, though_IN a_DT more_RBR recent_JJ paper_NN argues_VBZ that_IN the_DT Fuller_NNP et_CC al._NN results_NNS are_VBP inconclusive_JJ ._. 
+

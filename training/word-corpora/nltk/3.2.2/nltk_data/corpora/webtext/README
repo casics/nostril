@@ -1,0 +1,13 @@
+Web Text Corpus
+
+This is a collection of diverse, contemporary text genres,
+collected by scraping publicly accessible archives of web postings.
+This data is disseminated in preference to publishing URLs for
+individuals to download and clean up (the usual model for web corpora).
+
+firefox.txt: Firefox support forum
+overheard.txt: Overheard in New York (partly censored) http://www.overheardinnewyork.com/ (2006)
+pirates.txt: Movie script from Pirates of the Caribbean: Dead Man's Chest http://www.imsdb.com/  (2006)
+grail.txt: Movie script from Monty Python and the Holy Grail http://www.textfiles.com/media/SCRIPTS/grail
+singles.txt: Singles ads  http://search.classifieds.news.com.au/
+wine.txt:  Fine Wine Diary http://www.finewinediary.com/ (2005-06)

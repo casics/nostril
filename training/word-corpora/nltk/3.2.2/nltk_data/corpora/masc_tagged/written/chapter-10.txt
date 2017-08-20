@@ -1,0 +1,358 @@
+WARTIME_NNP 
+After_IN the_DT attacks_NNS had_VBD occurred_VBN ,_, while_IN crisis_NN managers_NNS were_VBD still_RB sorting_VBG out_RP a_DT number_NN of_IN unnerving_VBG false_JJ alarms_NNS ,_, Air_NNP Force_NNP One_CD flew_VBD to_TO Barksdale_NNP Air_NNP Force_NNP Base_NNP in_IN Louisiana_NNP ._. 
+One_CD of_IN these_DT alarms_NNS was_VBD of_IN a_DT reported_VBN threat_NN against_IN Air_NNP Force_NNP One_CD itself_PRP ,_, a_DT threat_NN eventually_RB run_VB down_RB to_TO a_DT misunderstood_VBN communication_NN in_IN the_DT hectic_JJ White_NNP House_NNP Situation_NNP Room_NNP that_DT morning_NN ._. 
+
+While_IN the_DT plan_NN at_IN the_DT elementary_JJ school_NN had_VBD been_VBN to_TO return_VB to_TO Washington_NNP ,_, by_IN the_DT time_NN Air_NNP Force_NNP One_CD was_VBD airborne_JJ at_IN 9:55_NN A.M._NN the_DT Secret_NNP Service_NNP ,_, the_DT President_NNP 's_POS advisers_NNS ,_, and_CC Vice_NNP President_NNP Cheney_NNP were_VBD strongly_RB advising_VBG against_IN it_PRP ._. 
+President_NNP Bush_NNP reluctantly_RB acceded_VBD to_TO this_DT advice_NN and_CC ,_, at_IN about_IN 10:10_NN ,_, Air_NNP Force_NNP One_CD changed_VBN course_NN and_CC began_VBD heading_VBG due_JJ west_NN ._. 
+The_DT immediate_JJ objective_NN was_VBD to_TO find_VB a_DT safe_JJ location-not_JJ too_RB far_RB away-where_JJ the_DT President_NNP could_MD land_VB and_CC speak_VB to_TO the_DT American_JJ people_NNS ._. 
+The_DT Secret_NNP Service_NNP was_VBD also_RB interested_JJ in_IN refueling_VBG the_DT aircraft_NN and_CC paring_VBG down_RP the_DT size_NN of_IN the_DT traveling_VBG party_NN ._. 
+The_DT President_NNP 's_POS military_JJ aide_NN ,_, an_DT Air_NNP Force_NNP officer_NN ,_, quickly_RB researched_VBN the_DT options_NNS and_CC ,_, sometime_RB around_IN 10:20_NN ,_, identified_VBD Barksdale_NNP Air_NNP Force_NNP Base_NNP as_IN an_DT appropriate_JJ interim_JJ destination_NN ._. 
+
+When_WRB Air_NNP Force_NNP One_CD landed_VBD at_IN Barksdale_NNP at_IN about_IN 11:45_NN ,_, personnel_NNS from_IN the_DT local_JJ Secret_NNP Service_NNP office_NN were_VBD still_RB en_IN route_NN to_TO the_DT airfield_NN ._. 
+The_DT motorcade_NN consisted_VBD of_IN a_DT military_JJ police_NN lead_NN vehicle_NN and_CC a_DT van_NN ;_: the_DT proposed_VBN briefing_NN theater_NN had_VBD no_DT phones_NNS or_CC electrical_JJ outlets_NNS ._. 
+Staff_NNP scrambled_VBD to_TO prepare_VB another_DT room_NN for_IN the_DT President_NNP 's_POS remarks_NNS ,_, while_IN the_DT lead_JJ Secret_NNP Service_NNP agent_NN reviewed_VBD the_DT security_NN situation_NN with_IN superiors_NNS in_IN Washington_NNP ._. 
+The_DT President_NNP completed_VBD his_PRP$ statement_NN ,_, which_WDT for_IN security_NN reasons_NNS was_VBD taped_VBN and_CC not_RB broadcast_VB live_VB ,_, and_CC the_DT traveling_VBG party_NN returned_VBD to_TO Air_NNP Force_NNP One_CD ._. 
+The_DT next_JJ destination_NN was_VBD discussed_VBN :_: once_RB again_RB the_DT Secret_NNP Service_NNP recommended_VBD against_IN returning_VBG to_TO Washington_NNP ,_, and_CC the_DT Vice_NNP President_NNP agreed_VBD ._. 
+Offutt_NNP Air_NNP Force_NNP Base_NNP in_IN Nebraska_NNP was_VBD chosen_VBN because_IN of_IN its_PRP$ elaborate_VB command_NN and_CC control_NN facilities_NNS ,_, and_CC because_IN it_PRP could_MD accommodate_VB overnight_JJ lodging_VBG for_IN 50_CD persons_NNS ._. 
+The_DT Secret_NNP Service_NNP wanted_VBD a_DT place_NN where_WRB the_DT President_NNP could_MD spend_VB several_JJ days_NNS ,_, if_IN necessary_JJ ._. 
+
+Air_NNP Force_NNP One_CD arrived_VBD at_IN Offutt_NNP at_IN 2:50_NN P.M._NN 
+At_IN about_IN 3:15_NN ,_, President_NNP Bush_NNP met_VBD with_IN his_PRP$ principal_JJ advisers_NNS through_IN a_DT secure_JJ video_NN teleconference_NN ._. 
+
+Rice_NNP said_VBD President_NNP Bush_NNP began_VBD the_DT meeting_NN with_IN the_DT words_NNS ,_, "_'' We_PRP 're_VBP at_IN war_NN ,_, "_'' and_CC that_IN Director_NNP of_IN Central_NNP Intelligence_NNP George_NNP Tenet_NNP said_VBD the_DT agency_NN was_VBD still_RB assessing_VBG who_WP was_VBD responsible_JJ ,_, but_CC the_DT early_JJ signs_NNS all_DT pointed_VBD to_TO al_NN Qaeda_NNP ._. 
+That_DT evening_NN the_DT Deputies_NNS Committee_NNP returned_VBD to_TO the_DT pending_VBG presidential_JJ directive_NN they_PRP had_VBD labored_JJ over_IN during_IN the_DT summer_NN ._. 
+The_DT secretary_NN of_IN defense_NN directed_VBD the_DT nation_NN 's_POS armed_VBN forces_NNS to_TO Defense_NNP Condition_NNP 3_CD ,_, an_DT increased_VBN state_NN of_IN military_JJ readiness_NN ._. 
+
+For_IN the_DT first_JJ time_NN in_IN history_NN ,_, all_DT nonemergency_NN civilian_JJ aircraft_NN in_IN the_DT United_NNP States_NNPS were_VBD grounded_VBN ,_, stranding_VBG tens_NNS of_IN thousands_NNS of_IN passengers_NNS across_IN the_DT country_NN ._. 
+Contingency_NNP plans_VBZ for_IN the_DT continuity_NN of_IN government_NN and_CC the_DT evacuation_NN of_IN leaders_NNS had_VBD been_VBN implemented_VBN ._. 
+The_DT Pentagon_NNP had_VBD been_VBN struck_VBN ;_: the_DT White_NNP House_NNP or_CC the_DT Capitol_NNP had_VBD narrowly_RB escaped_VBN direct_JJ attack_NN ._. 
+Extraordinary_JJ security_NN precautions_NNS were_VBD put_VBN in_IN place_NN at_IN the_DT nation_NN 's_POS borders_NNS and_CC ports_NNS ._. 
+
+In_IN the_DT late_JJ afternoon_NN ,_, the_DT President_NNP overruled_VBD his_PRP$ aides_NNS '_POS continuing_VBG reluctance_NN to_TO have_VB him_PRP return_VBP to_TO Washington_NNP and_CC ordered_VBD Air_NNP Force_NNP One_CD back_RB to_TO Andrews_NNP Air_NNP Force_NNP Base_NNP ._. 
+He_PRP was_VBD flown_VBN by_IN helicopter_NN back_RB to_TO the_DT White_NNP House_NNP ,_, passing_VBG over_IN the_DT still-smoldering_JJ Pentagon_NNP ._. 
+At_IN 8:30_NN that_DT evening_NN ,_, President_NNP Bush_NNP addressed_VBD the_DT nation_NN from_IN the_DT White_NNP House_NNP ._. 
+After_IN emphasizing_VBG that_IN the_DT first_JJ priority_NN was_VBD to_TO help_VB the_DT injured_VBN and_CC protect_VB against_IN any_DT further_RBR attacks_NNS ,_, he_PRP said_VBD :_: "_'' We_PRP will_MD make_VB no_DT distinction_NN between_IN the_DT terrorists_NNS who_WP committed_VBD these_DT acts_NNS and_CC those_DT who_WP harbor_VBP them_PRP ._. "_'' 
+He_PRP quoted_VBD Psalm_NNP 23_CD -_: "_'' though_IN I_PRP walk_VBP through_IN the_DT valley_NN of_IN the_DT shadow_NN of_IN death_NN ._. ._. ._. "_'' No_DT American_NNP ,_, he_PRP said_VBD ,_, "_'' will_MD ever_RB forget_VB this_DT day_NN ._. "_'' 
+
+Following_VBG his_PRP$ speech_NN ,_, President_NNP Bush_NNP met_VBD again_RB with_IN his_PRP$ National_NNP Security_NNP Council_NNP (_( NSC_NNP )_) ,_, expanded_VBN to_TO include_VB Secretary_NNP of_IN Transportation_NNP Norman_NNP Mineta_NNP and_CC Joseph_NNP Allbaugh_NNP ,_, the_DT director_NN of_IN the_DT Federal_NNP Emergency_NNP Management_NNP Agency_NNP ._. 
+Secretary_NNP of_IN State_NNP Colin_NNP Powell_NNP ,_, who_WP had_VBD returned_VBN from_IN Peru_NNP after_IN hearing_VBG of_IN the_DT attacks_NNS ,_, joined_VBD the_DT discussion_NN ._. 
+They_PRP reviewed_VBD the_DT day_NN 's_POS events_NNS ._. 
+
+IMMEDIATE_NNP RESPONSES_NNP AT_NNP HOME_NNP 
+As_IN the_DT urgent_JJ domestic_JJ issues_NNS accumulated_VBN ,_, White_NNP House_NNP Deputy_NNP Chief_NNP of_IN Staff_NNP Joshua_NNP Bolten_NNP chaired_VBD a_DT temporary_JJ "_'' domestic_JJ consequences_NNS "_'' group_NN ._. 
+
+The_DT agenda_NN in_IN those_DT first_JJ days_NNS is_VBZ worth_JJ noting_VBG ,_, partly_RB as_IN a_DT checklist_NN for_IN future_JJ crisis_NN planners_NNS ._. 
+It_PRP began_VBD with_IN problems_NNS of_IN how_WRB to_TO help_VB victims_NNS and_CC stanch_VB the_DT flowing_VBG losses_NNS to_TO the_DT American_JJ economy_NN ,_, such_JJ as_IN 
+
+Organizing_NNP federal_JJ emergency_NN assistance_NN ._. 
+One_CD question_NN was_VBD what_WP kind_NN of_IN public_JJ health_NN advice_NN to_TO give_VB about_IN the_DT air_NN quality_NN in_IN Lower_JJR Manhattan_NNP in_IN the_DT vicinity_NN of_IN the_DT fallen_VBN buildings_NNS ._. 
+Compensating_NNP victims_NNS ._. 
+They_PRP evaluated_VBD legislative_JJ options_NNS ,_, eventually_RB setting_VBG up_RP a_DT federal_JJ compensation_NN fund_NN and_CC defining_VBG the_DT powers_NNS of_IN a_DT special_JJ master_NN to_TO run_VB it_PRP ._. 
+Determining_VBG federal_JJ assistance_NN ._. 
+On_IN September_NNP 13_CD ,_, President_NNP Bush_NNP promised_VBD to_TO provide_VB $20_NN billion_CD for_IN New_NNP York_NNP City_NNP ,_, in_IN addition_NN to_TO the_DT $20_NN billion_CD his_PRP$ budget_NN director_NN had_VBD already_RB guessed_VBD might_MD be_VB needed_VBN for_IN the_DT country_NN as_IN a_DT whole_NN ._. 
+Restoring_NNP civil_JJ aviation_NN ._. 
+On_IN the_DT morning_NN of_IN September_NNP 13_CD ,_, the_DT national_JJ airspace_NN reopened_VBD for_IN use_NN by_IN airports_NNS that_WDT met_VBD newly_RB improvised_VBD security_NN standards_NNS ._. 
+Reopening_NNP the_DT financial_JJ markets_NNS ._. 
+After_IN extraordinary_JJ emergency_NN efforts_NNS involving_VBG the_DT White_NNP House_NNP ,_, the_DT Treasury_NNP Department_NNP ,_, and_CC the_DT Securities_NNPS and_CC Exchange_NNP Commission_NNP ,_, aided_VBN by_IN unprecedented_JJ cooperation_NN among_IN the_DT usually_RB competitive_JJ firms_NNS of_IN the_DT financial_JJ industry_NN ,_, the_DT markets_NNS reopened_VBD on_IN Monday_NNP ,_, September_NNP 17_CD ._. 
+Deciding_VBG when_WRB and_CC how_WRB to_TO return_VB border_NN and_CC port_NN security_NN to_TO more_RBR normal_JJ operations_NNS ._. 
+Evaluating_VBG legislative_JJ proposals_NNS to_TO bail_VB out_RP the_DT airline_NN industry_NN and_CC cap_VB its_PRP$ liability_NN ._. 
+The_DT very_JJ process_NN of_IN reviewing_VBG these_DT issues_NNS underscored_VBD the_DT absence_NN of_IN an_DT effective_JJ government_NN organization_NN dedicated_VBN to_TO assessing_VBG vulnerabilities_NNS and_CC handling_VBG problems_NNS of_IN protection_NN and_CC preparedness_NN ._. 
+Though_IN a_DT number_NN of_IN agencies_NNS had_VBD some_DT part_NN of_IN the_DT task_NN ,_, none_NN had_VBD security_NN as_IN its_PRP$ primary_JJ mission_NN ._. 
+By_IN September_NNP 14_CD ,_, Vice_NNP President_NNP Cheney_NNP had_VBD decided_VBN to_TO recommend_VB ,_, at_IN least_JJS as_IN a_DT first_JJ step_NN ,_, a_DT new_JJ White_NNP House_NNP entity_NN to_TO coordinate_VB all_DT the_DT relevant_JJ agencies_NNS rather_RB than_IN tackle_VB the_DT challenge_NN of_IN combining_VBG them_PRP in_IN a_DT new_JJ department_NN ._. 
+This_DT new_JJ White_NNP House_NNP entity_NN would_MD be_VB a_DT homeland_NN security_NN adviser_NN and_CC Homeland_NN Security_NNP Council-paralleling_NNP the_DT National_NNP Security_NNP Council_NNP system_NN ._. 
+Vice_NNP President_NNP Cheney_NNP reviewed_VBD the_DT proposal_NN with_IN President_NNP Bush_NNP and_CC other_JJ advisers_NNS ._. 
+President_NNP Bush_NNP announced_VBD the_DT new_JJ post_NN and_CC its_PRP$ first_JJ occupant-_NN Pennsylvania_NNP governor_NN Tom_NNP Ridge-in_NNP his_PRP$ address_NN to_TO a_DT joint_JJ session_NN of_IN Congress_NNP on_IN September_NNP 20_CD ._. 
+
+Beginning_VBG on_IN September_NNP 11_CD ,_, Immigration_NNP and_CC Naturalization_NNP Service_NNP agents_NNS working_VBG in_IN cooperation_NN with_IN the_DT FBI_NNP began_VBD arresting_VBG individuals_NNS for_IN immigration_NN violations_NNS whom_WP they_PRP encountered_VBD while_IN following_VBG up_RP leads_VBZ in_IN the_DT FBI_NNP 's_POS investigation_NN of_IN the_DT 9/11_CD attacks_NNS ._. 
+Eventually_RB ,_, 768_CD aliens_NNS were_VBD arrested_VBN as_IN "_'' special_JJ interest_NN "_'' detainees_NNS ._. 
+Some_DT (_( such_JJ as_IN Zacarias_NNP Moussaoui_NNP )_) were_VBD actually_RB in_IN INS_NNP custody_NN before_IN 9/11_CD ;_: most_JJS were_VBD arrested_VBN after_IN ._. 
+Attorney_NNP General_NNP John_NNP Ashcroft_NNP told_VBD us_PRP that_IN he_PRP saw_VBD his_PRP$ job_NN in_IN directing_VBG this_DT effort_NN as_IN "_'' risk_NN minimization_NN ,_, "_'' both_DT to_TO find_VB out_IN who_WP had_VBD committed_VBN the_DT attacks_NNS and_CC to_TO prevent_VB a_DT subsequent_JJ attack_NN ._. 
+Ashcroft_NNP ordered_VBD all_DT special_JJ interest_NN immigration_NN hearings_NNS closed_VBD to_TO the_DT public_NN ,_, family_NN members_NNS ,_, and_CC press_NN ;_: directed_VBN government_NN attorneys_NNS to_TO seek_VB denial_NN of_IN bond_NN until_IN such_JJ time_NN as_IN they_PRP were_VBD "_'' cleared_VBD "_'' of_IN terrorist_JJ connections_NNS by_IN the_DT FBI_NNP and_CC other_JJ agencies_NNS ;_: and_CC ordered_VBD the_DT identity_NN of_IN the_DT detainees_NNS kept_VBD secret_JJ ._. 
+INS_NNP attorneys_NNS charged_VBN with_IN prosecuting_VBG the_DT immigration_NN violations_NNS had_VBD trouble_NN getting_VBG information_NN about_IN the_DT detainees_NNS and_CC any_DT terrorist_JJ connections_NNS ;_: in_IN the_DT chaos_NN after_IN the_DT attacks_NNS ,_, it_PRP was_VBD very_RB difficult_JJ to_TO reach_VB law_NN enforcement_NN officials_NNS ,_, who_WP were_VBD following_VBG up_RP on_IN other_JJ leads_NNS ._. 
+The_DT clearance_NN process_NN approved_VBN by_IN the_DT Justice_NNP Department_NNP was_VBD time-consuming_JJ ,_, lasting_VBG an_DT average_NN of_IN about_IN 80_CD days_NNS ._. 
+
+We_PRP have_VBP assessed_VBN this_DT effort_NN to_TO detain_NN aliens_NNS of_IN "_'' special_JJ interest_NN ._. "_'' 
+The_DT detainees_NNS were_VBD lawfully_RB held_VBN on_IN immigration_NN charges_NNS ._. 
+Records_NNPS indicate_VBP that_IN 531_CD were_VBD deported_VBD ,_, 162_CD were_VBD released_VBN on_IN bond_NN ,_, 24_CD received_VBD some_DT kind_NN of_IN immigration_NN benefits_NNS ,_, 12_CD had_VBD their_PRP$ proceedings_NNS terminated_VBD ,_, and_CC 8_CD -_: one_CD of_IN whom_WP was_VBD Moussaoui-were_NNP remanded_VBD to_TO the_DT custody_NN of_IN the_DT U.S._NN 
+Marshals_NNP Service_NNP ._. 
+The_DT inspector_NN general_NN of_IN the_DT Justice_NNP Department_NNP found_VBD significant_JJ problems_NNS in_IN the_DT way_NN the_DT 9/11_CD detainees_NNS were_VBD treated_VBN ._. 
+
+In_IN response_NN to_TO a_DT request_NN about_IN the_DT counterterrorism_NN benefits_NNS of_IN the_DT 9/11_CD detainee_NN program_NN ,_, the_DT Justice_NNP Department_NNP cited_VBD six_CD individuals_NNS on_IN the_DT special_JJ interest_NN detainee_NN list_NN ,_, noting_VBG that_IN two_CD (_( including_VBG Moussaoui_NNP )_) were_VBD linked_VBN directly_RB to_TO a_DT terrorist_JJ organization_NN and_CC that_IN it_PRP had_VBD obtained_VBN new_JJ leads_VBZ helpful_JJ to_TO the_DT investigation_NN of_IN the_DT 9/11_CD terrorist_JJ attacks_NNS ._. 
+
+A_DT senior_JJ al_NN Qaeda_NNP detainee_NN has_VBZ stated_VBN that_IN U.S._NN government_NN efforts_NNS after_IN the_DT 9/11_CD attacks_NNS to_TO monitor_VB the_DT American_JJ homeland_NN ,_, including_VBG review_NN of_IN Muslims_NNPS '_POS immigration_NN files_NNS and_CC deportation_NN of_IN nonpermanent_NN residents_NNS ,_, forced_VBN al_NN Qaeda_NNP to_TO operate_VB less_RBR freely_RB in_IN the_DT United_NNP States_NNPS ._. 
+
+The_DT government_NN 's_POS ability_NN to_TO collect_VB intelligence_NN inside_IN the_DT United_NNP States_NNPS ,_, and_CC the_DT sharing_NN of_IN such_JJ information_NN between_IN the_DT intelligence_NN and_CC law_NN enforcement_NN communities_NNS ,_, was_VBD not_RB a_DT priority_NN before_IN 9/11_CD ._. 
+Guidelines_NNS on_IN this_DT subject_JJ issued_VBN in_IN August_NNP 2001_CD by_IN Deputy_NNP Attorney_NNP General_NNP LarryThompson_NNP essentially_RB recapitulated_JJ prior_RB guidance_NN ._. 
+However_RB ,_, the_DT attacks_NNS of_IN 9/11_CD changed_VBN everything_NN ._. 
+Less_JJR than_IN one_CD week_NN after_IN September_NNP 11_CD ,_, an_DT early_JJ version_NN of_IN what_WP was_VBD to_TO become_VB the_DT Patriot_NNP Act_NNP (_( officially_RB ,_, the_DT USA_NNP PATRIOT_NNP Act_NNP )_) began_VBD to_TO take_VB shape_NN ._. 
+
+A_DT central_JJ provision_NN of_IN the_DT proposal_NN was_VBD the_DT removal_NN of_IN "_'' the_DT wall_NN "_'' on_IN information_NN sharing_VBG between_IN the_DT intelligence_NN and_CC law_NN enforcement_NN communities_NNS (_( discussed_VBN in_IN chapter_NN 3_LS )_) ._. 
+Ashcroft_NNP told_VBD us_PRP he_PRP was_VBD determined_VBN to_TO take_VB every_DT conceivable_JJ action_NN ,_, within_IN the_DT limits_NNS of_IN the_DT Constitution_NNP ,_, to_TO identify_VB potential_JJ terrorists_NNS and_CC deter_VB additional_JJ attacks_NNS ._. 
+
+The_DT administration_NN developed_VBD a_DT proposal_NN that_IN eventually_RB passed_VBD both_DT houses_NNS of_IN Congress_NNP by_IN large_JJ majorities_NNS and_CC was_VBD signed_VBN into_IN law_NN on_IN October_NNP 26_CD ._. 
+
+Flights_NNS of_IN Saudi_NNP Nationals_NNP Leaving_VBG the_DT United_NNP States_NNPS 
+Three_CD questions_NNS have_VBP arisen_VBN with_IN respect_NN to_TO the_DT departure_NN of_IN Saudi_NNP nationals_NNS from_IN the_DT United_NNP States_NNPS in_IN the_DT immediate_JJ aftermath_NN of_IN 9/11_CD :_: (_( 1_LS )_) Did_VBD any_DT flights_NNS of_IN Saudi_NNP nationals_NNS take_VBP place_NN before_IN national_JJ airspace_NN reopened_VBD on_IN September_NNP 13_CD ,_, 2001_CD ?_. 
+(_( 2_LS )_) Was_VBD there_EX any_DT political_JJ intervention_NN to_TO facilitate_VB the_DT departure_NN of_IN Saudi_NNP nationals_NNS ?_. 
+(_( 3_LS )_) Did_VBD the_DT FBI_NNP screen_NN Saudi_NNP nationals_NNS thoroughly_RB before_IN their_PRP$ departure_NN ?_. 
+
+First_LS ,_, we_PRP found_VBD no_DT evidence_NN that_IN any_DT flights_NNS of_IN Saudi_NNP nationals_NNS ,_, domestic_JJ or_CC international_JJ ,_, took_VBD place_NN before_IN the_DT reopening_VBG of_IN national_JJ airspace_NN on_IN the_DT morning_NN of_IN September_NNP 13_CD ,_, 2001_CD ._. 
+To_TO the_DT contrary_NN ,_, every_DT flight_NN we_PRP have_VBP identified_VBN occurred_VBN after_IN national_JJ airspace_NN reopened_VBD ._. 
+
+Second_JJ ,_, we_PRP found_VBD no_DT evidence_NN of_IN political_JJ intervention_NN ._. 
+We_PRP found_VBD no_DT evidence_NN that_DT anyone_NN at_IN the_DT White_NNP House_NNP above_IN the_DT level_NN of_IN Richard_NNP Clarke_NNP participated_VBD in_IN a_DT decision_NN on_IN the_DT departure_NN of_IN Saudi_NNP nationals_NNS ._. 
+The_DT issue_NN came_VBD up_RB in_IN one_CD of_IN the_DT many_JJ video_NN teleconferences_NNS of_IN the_DT interagency_NN group_NN Clarke_NNP chaired_VBD ,_, and_CC Clarke_NNP said_VBD he_PRP approved_VBD of_IN how_WRB the_DT FBI_NNP was_VBD dealing_VBG with_IN the_DT matter_NN when_WRB it_PRP came_VBD up_RP for_IN interagency_NN discussion_NN at_IN his_PRP$ level_NN ._. 
+Clarke_NNP told_VBD us_PRP ,_, "_'' I_PRP asked_VBD the_DT FBI_NNP ,_, Dale_NNP Watson_NNP ._. ._. ._. to_TO handle_VB that_RB ,_, to_TO check_VB to_TO see_VB if_IN that_DT was_VBD all_DT right_NN with_IN them_PRP ,_, to_TO see_VB if_IN they_PRP wanted_VBD access_NN to_TO any_DT of_IN these_DT people_NNS ,_, and_CC to_TO get_VB back_RB to_TO me_PRP ._. 
+And_CC if_IN they_PRP had_VBD no_DT objections_NNS ,_, it_PRP would_MD be_VB fine_NN with_IN me_PRP ._. "_'' 
+Clarke_NNP added_VBD ,_, "_'' I_PRP have_VBP no_DT recollection_NN of_IN clearing_NN it_PRP with_IN anybody_NN at_IN the_DT White_NNP House_NNP ._. "_'' 
+
+Although_IN White_NNP House_NNP Chief_NNP of_IN Staff_NNP Andrew_NNP Card_NNP remembered_VBD someone_NN telling_VBG him_PRP about_IN the_DT Saudi_JJ request_NN shortly_RB after_IN 9/11_CD ,_, he_PRP said_VBD he_PRP had_VBD not_RB talked_VBN to_TO the_DT Saudis_NNPS and_CC did_VBD not_RB ask_VB anyone_NN to_TO do_VB anything_NN about_IN it_PRP ._. 
+The_DT President_NNP and_CC Vice_NNP President_NNP told_VBD us_PRP they_PRP were_VBD not_RB aware_JJ of_IN the_DT issue_NN at_IN all_DT until_IN it_PRP surfaced_VBD much_JJ later_RB in_IN the_DT media_NNS ._. 
+None_NN of_IN the_DT officials_NNS we_PRP interviewed_VBD recalled_VBD any_DT intervention_NN or_CC direction_NN on_IN this_DT matter_NN from_IN any_DT political_JJ appointee_NN ._. 
+
+Third_NNP ,_, we_PRP believe_VBP that_IN the_DT FBI_NNP conducted_VBD a_DT satisfactory_JJ screening_NN of_IN Saudi_NNP nationals_NNS who_WP left_VBD the_DT United_NNP States_NNPS on_IN charter_NN flights_NNS ._. 
+
+The_DT Saudi_JJ government_NN was_VBD advised_VBN of_IN and_CC agreed_VBD to_TO the_DT FBI_NNP 's_POS requirements_NNS that_IN passengers_NNS be_VB identified_VBN and_CC checked_VBN against_IN various_JJ databases_NNS before_IN the_DT flights_NNS departed_VBD ._. 
+The_DT Federal_NNP Aviation_NNP Administration_NNP representative_NN working_VBG in_IN the_DT FBI_NNP operations_NNS center_VBP made_VBD sure_JJ that_IN the_DT FBI_NNP was_VBD aware_JJ of_IN the_DT flights_NNS of_IN Saudi_NNP nationals_NNS and_CC was_VBD able_JJ to_TO screen_VB the_DT passengers_NNS before_IN they_PRP were_VBD allowed_VBN to_TO depart_VB ._. 
+
+The_DT FBI_NNP interviewed_VBD all_DT persons_NNS of_IN interest_NN on_IN these_DT flights_NNS prior_RB to_TO their_PRP$ departures_NNS ._. 
+They_PRP concluded_VBD that_DT none_NN of_IN the_DT passengers_NNS was_VBD connected_VBN to_TO the_DT 9/11_CD attacks_NNS and_CC have_VBP since_IN found_VBN no_DT evidence_NN to_TO change_VB that_DT conclusion_NN ._. 
+Our_PRP$ own_JJ independent_JJ review_NN of_IN the_DT Saudi_NNP nationals_NNS involved_VBN confirms_VBZ that_IN no_DT one_CD with_IN known_VBN links_NNS to_TO terrorism_NN departed_VBD on_IN these_DT flights_NNS ._. 
+
+PLANNING_NNP FOR_IN WAR_NN 
+By_IN late_RB in_IN the_DT evening_NN of_IN September_NNP 11_CD ,_, the_DT President_NNP had_VBD addressed_VBN the_DT nation_NN on_IN the_DT terrible_JJ events_NNS of_IN the_DT day_NN ._. 
+Vice_NNP President_NNP Cheney_NNP described_VBD the_DT President_NNP 's_POS mood_NN as_IN somber_JJ ._. 
+The_DT long_JJ day_NN was_VBD not_RB yet_RB over_IN ._. 
+When_WRB the_DT larger_JJR meeting_NN that_WDT included_VBD his_PRP$ domestic_JJ department_NN heads_VBZ broke_VBD up_RB ,_, President_NNP Bush_NNP chaired_VBD a_DT smaller_JJR meeting_NN of_IN top_JJ advisers_NNS ,_, a_DT group_NN he_PRP would_MD later_RB call_VB his_PRP$ "_'' war_NN council_NN ._. "_'' 
+This_DT group_NN usually_RB included_VBD Vice_NNP President_NNP Cheney_NNP ,_, Secretary_NNP of_IN State_NNP Powell_NNP ,_, Secretary_NNP of_IN Defense_NNP Donald_NNP Rumsfeld_NNP ,_, General_NNP Hugh_NNP Shelton_NNP ,_, Vice_NNP Chairman_NNP of_IN the_DT Joint_NNP Chiefs_NNPS (_( later_RB to_TO become_VB chairman_NN )_) General_NNP Myers_NNP ,_, DCI_NNP Tenet_NNP ,_, Attorney_NNP General_NNP Ashcroft_NNP ,_, and_CC FBI_NNP Director_NNP Robert_NNP Mueller_NNP ._. 
+From_IN the_DT White_NNP House_NNP staff_NN ,_, National_NNP Security_NNP Advisor_NNP Condoleezza_NNP Rice_NNP and_CC Chief_NNP of_IN Staff_NNP Card_NNP were_VBD part_NN of_IN the_DT core_NN group_NN ,_, often_RB joined_VBN by_IN their_PRP$ deputies_NNS ,_, Stephen_NNP Hadley_NNP and_CC Joshua_NNP Bolten_NNP ._. 
+
+In_IN this_DT restricted_JJ National_NNP Security_NNP Council_NNP meeting_NN ,_, the_DT President_NNP said_VBD it_PRP was_VBD a_DT time_NN for_IN self-defense_JJ ._. 
+The_DT United_NNP States_NNPS would_MD punish_VB not_RB just_RB the_DT perpetrators_NNS of_IN the_DT attacks_NNS ,_, but_CC also_RB those_DT who_WP harbored_JJ them_PRP ._. 
+Secretary_NNP Powell_NNP said_VBD the_DT United_NNP States_NNPS had_VBD to_TO make_VB it_PRP clear_JJ to_TO Pakistan_NNP ,_, Afghanistan_NNP ,_, and_CC the_DT Arab_JJ states_NNS that_IN the_DT time_NN to_TO act_NN was_VBD now_RB ._. 
+He_PRP said_VBD we_PRP would_MD need_VB to_TO build_VB a_DT coalition_NN ._. 
+The_DT President_NNP noted_VBD that_IN the_DT attacks_NNS provided_VBD a_DT great_JJ opportunity_NN to_TO engage_VB Russia_NNP and_CC China_NNP ._. 
+Secretary_NNP Rumsfeld_NNP urged_VBD the_DT President_NNP and_CC the_DT principals_NNS to_TO think_VB broadly_RB about_IN who_WP might_MD have_VB harbored_JJ the_DT attackers_NNS ,_, including_VBG Iraq_NNP ,_, Afghanistan_NNP ,_, Libya_NNP ,_, Sudan_NNP ,_, and_CC Iran_NNP ._. 
+He_PRP wondered_VBD aloud_RB how_WRB much_JJ evidence_NN the_DT United_NNP States_NNPS would_MD need_NN in_IN order_NN to_TO deal_VB with_IN these_DT countries_NNS ,_, pointing_VBG out_RP that_IN major_JJ strikes_NNS could_MD take_VB up_IN to_TO 60_CD days_NNS to_TO assemble_VB ._. 
+
+President_NNP Bush_NNP chaired_VBD two_CD more_JJR meetings_NNS of_IN the_DT NSC_NNP on_IN September_NNP 12_CD ._. 
+In_IN the_DT first_JJ meeting_NN ,_, he_PRP stressed_VBD that_IN the_DT United_NNP States_NNPS was_VBD at_IN war_NN with_IN a_DT new_JJ and_CC different_JJ kind_NN of_IN enemy_NN ._. 
+The_DT President_NNP tasked_JJ principals_NNS to_TO go_VB beyond_IN their_PRP$ pre-_NN 9/11_CD work_NN and_CC develop_VB a_DT strategy_NN to_TO eliminate_VB terrorists_NNS and_CC punish_VB those_DT who_WP support_VBP them_PRP ._. 
+As_IN they_PRP worked_VBD on_IN defining_VBG the_DT goals_NNS and_CC objectives_NNS of_IN the_DT upcoming_JJ campaign_NN ,_, they_PRP considered_VBD a_DT paper_NN that_WDT went_VBD beyond_IN al_NN Qaeda_NNP to_TO propose_VB the_DT "_'' elimination_NN of_IN terrorism_NN as_IN a_DT threat_NN to_TO our_PRP$ way_NN of_IN life_NN ,_, "_'' an_DT aim_NN that_WDT would_MD include_VB pursuing_VBG other_JJ international_JJ terrorist_JJ organizations_NNS in_IN the_DT Middle_NNP East_NNP ._. 
+
+Rice_NNP chaired_VBD a_DT Principals_NNP Committee_NNP meeting_NN on_IN September_NNP 13_CD in_IN the_DT Situation_NNP Room_NNP to_TO refine_VB how_WRB the_DT fight_NN against_IN al_NN Qaeda_NNP would_MD be_VB conducted_VBN ._. 
+The_DT principals_NNS agreed_VBD that_IN the_DT overall_JJ message_NN should_MD be_VB that_DT anyone_NN supporting_VBG al_NN Qaeda_NNP would_MD risk_VB harm_NN ._. 
+The_DT United_NNP States_NNPS would_MD need_VB to_TO integrate_VB diplomacy_NN ,_, financial_JJ measures_NNS ,_, intelligence_NN ,_, and_CC military_JJ actions_NNS into_IN an_DT overarching_VBG strategy_NN ._. 
+The_DT principals_NNS also_RB focused_VBN on_IN Pakistan_NNP and_CC what_WP it_PRP could_MD do_VB to_TO turn_VB the_DT Taliban_NNP against_IN al_NN Qaeda_NNP ._. 
+They_PRP concluded_VBD that_IN if_IN Pakistan_NNP decided_VBD not_RB to_TO help_VB the_DT United_NNP States_NNPS ,_, it_PRP too_RB would_MD be_VB at_IN risk_NN ._. 
+
+The_DT same_JJ day_NN ,_, Deputy_NNP Secretary_NNP of_IN State_NNP Richard_NNP Armitage_NNP met_VBD with_IN the_DT Pakistani_JJ ambassador_NN to_TO the_DT United_NNP States_NNPS ,_, Maleeha_NNP Lodhi_NNP ,_, and_CC the_DT visiting_VBG head_NN of_IN Pakistan_NNP 's_POS military_JJ intelligence_NN service_NN ,_, Mahmud_NNP Ahmed_NNP ._. 
+Armitage_NNP said_VBD that_IN the_DT United_NNP States_NNPS wanted_VBD Pakistan_NNP to_TO take_VB seven_CD steps_NNS :_: 
+
+to_TO stop_VB al_NN Qaeda_NNP operatives_NNS at_IN its_PRP$ border_NN and_CC end_VB all_DT logistical_JJ support_NN for_IN Bin_NNP Ladin_NNP ;_: 
+to_TO give_VB the_DT United_NNP States_NNPS blanket_NN overflight_NN and_CC landing_NN rights_NNS for_IN all_DT necessary_JJ military_NN and_CC intelligence_NN operations_NNS ;_: 
+to_TO provide_VB territorial_NN access_NN to_TO U.S._NN and_CC allied_VBD military_JJ intelligence_NN and_CC other_JJ personnel_NNS to_TO conduct_VB operations_NNS against_IN al_NN Qaeda_NNP ;_: 
+to_TO provide_VB the_DT United_NNP States_NNPS with_IN intelligence_NN information_NN ;_: 
+to_TO continue_VB to_TO publicly_RB condemn_VB the_DT terrorist_JJ acts_NNS ;_: 
+to_TO cut_VB off_RP all_DT shipments_NNS of_IN fuel_NN to_TO the_DT Taliban_NNP and_CC stop_VB recruits_VBZ from_IN going_VBG to_TO Afghanistan_NNP ;_: and_CC ,_, 
+if_IN the_DT evidence_NN implicated_VBN bin_NN Ladin_NNP and_CC al_NN Qaeda_NNP and_CC the_DT Taliban_NNP continued_VBD to_TO harbor_NN them_PRP ,_, to_TO break_VB relations_NNS with_IN the_DT Taliban_NNP government_NN ._. 
+Pakistan_NNP made_VBD its_PRP$ decision_NN swiftly_RB ._. 
+That_DT afternoon_NN ,_, Secretary_NNP of_IN State_NNP Powell_NNP announced_VBD at_IN the_DT beginning_NN of_IN an_DT NSC_NNP meeting_NN that_IN Pakistani_NNP President_NNP Musharraf_NNP had_VBD agreed_VBN to_TO every_DT U.S._NN request_NN for_IN support_NN in_IN the_DT war_NN on_IN terrorism_NN ._. 
+The_DT next_JJ day_NN ,_, the_DT U.S._NN embassy_NN in_IN Islamabad_NNP confirmed_VBD that_IN Musharraf_NNP and_CC his_PRP$ top_JJ military_JJ commanders_NNS had_VBD agreed_VBN to_TO all_DT seven_CD demands_NNS ._. "_'' 
+Pakistan_NNP will_MD need_VB full_JJ US_NNP support_NN as_IN it_PRP proceeds_VBZ with_IN us_PRP ,_, "_'' the_DT embassy_NN noted_VBD ._. "_'' 
+Musharraf_NNP said_VBD the_DT GOP_NNP [_NN government_NN of_IN Pakistan_NNP ]_NN was_VBD making_VBG substantial_JJ concessions_NNS in_IN allowing_VBG use_NN of_IN its_PRP$ territory_NN and_CC that_IN he_PRP would_MD pay_VB a_DT domestic_JJ price_NN ._. 
+His_PRP$ standing_NN in_IN Pakistan_NNP was_VBD certain_JJ to_TO suffer_VB ._. 
+To_TO counterbalance_NN that_IN he_PRP needed_VBD to_TO show_VB that_IN Pakistan_NNP was_VBD benefiting_VBG from_IN his_PRP$ decisions_NNS ._. "_'' 
+
+At_IN the_DT September_NNP 13_CD NSC_NNP meeting_NN ,_, when_WRB Secretary_NNP Powell_NNP described_VBD Pakistan_NNP 's_POS reply_NN ,_, President_NNP Bush_NNP led_VBD a_DT discussion_NN of_IN an_DT appropriate_JJ ultimatum_NN to_TO the_DT Taliban_NNP ._. 
+He_PRP also_RB ordered_VBD Secretary_NNP Rumsfeld_NNP to_TO develop_VB a_DT military_JJ plan_NN against_IN the_DT Taliban_NNP ._. 
+The_DT President_NNP wanted_VBD the_DT United_NNP States_NNPS to_TO strike_VB the_DT Taliban_NNP ,_, step_NN back_RB ,_, wait_VB to_TO see_VB if_IN they_PRP got_VBD the_DT message_NN ,_, and_CC hit_VBD them_PRP hard_RB if_IN they_PRP did_VBD not_RB ._. 
+He_PRP made_VBD clear_JJ that_IN the_DT military_NN should_MD focus_VB on_IN targets_NNS that_WDT would_MD influence_VB the_DT Taliban_NNP 's_POS behavior_NN ._. 
+
+President_NNP Bush_NNP also_RB tasked_JJ the_DT State_NNP Department_NNP ,_, which_WDT on_IN the_DT following_VBG day_NN delivered_VBN to_TO the_DT White_NNP House_NNP a_DT paper_NN titled_VBN "_'' Game_NNP Plan_NNP for_IN a_DT Political-_NNP Military_NNP Strategy_NNP for_IN Pakistan_NNP and_CC Afghanistan_NNP ._. "_'' 
+The_DT paper_NN took_VBD it_PRP as_IN a_DT given_VBN that_IN Bin_NNP Ladin_NNP would_MD continue_VB to_TO act_VB against_IN the_DT United_NNP States_NNPS even_RB while_IN under_IN Taliban_NNP control_NN ._. 
+It_PRP therefore_RB detailed_JJ specific_JJ U.S._NN demands_NNS for_IN the_DT Taliban_NNP :_: surrender_VB Bin_NNP Ladin_NNP and_CC his_PRP$ chief_JJ lieutenants_NNS ,_, including_VBG Ayman_NNP al_NN Zawahiri_NNP ;_: tell_VB the_DT United_NNP States_NNPS what_WP the_DT Taliban_NNP knew_VBD about_IN al_NN Qaeda_NNP and_CC its_PRP$ operations_NNS ;_: close_VB all_DT terrorist_JJ camps_NNS ;_: free_VB all_DT imprisoned_VBN foreigners_NNS ;_: and_CC comply_VB with_IN all_DT UN_NNP Security_NNP Council_NNP resolutions_NNS ._. 
+
+The_DT State_NNP Department_NNP proposed_VBD delivering_VBG an_DT ultimatum_NN to_TO the_DT Taliban_NNP :_: produce_VB Bin_NNP Ladin_NNP and_CC his_PRP$ deputies_NNS and_CC shut_VBD down_RB al_NN Qaeda_NNP camps_NNS within_IN 24_CD to_TO 48_CD hours_NNS ,_, or_CC the_DT United_NNP States_NNPS will_MD use_VB all_DT necessary_JJ means_VBZ to_TO destroy_VB the_DT terrorist_JJ infrastructure_NN ._. 
+The_DT State_NNP Department_NNP did_VBD not_RB expect_VB the_DT Taliban_NNP to_TO comply_VB ._. 
+Therefore_RB ,_, State_NNP and_CC Defense_NNP would_MD plan_VB to_TO build_VB an_DT international_JJ coalition_NN to_TO go_VB into_IN Afghanistan_NNP ._. 
+Both_DT departments_NNS would_MD consult_VB with_IN NATO_NNP and_CC other_JJ allies_NNS and_CC request_NN intelligence_NN ,_, basing_VBG ,_, and_CC other_JJ support_NN from_IN countries_NNS ,_, according_VBG to_TO their_PRP$ capabilities_NNS and_CC resources_NNS ._. 
+Finally_RB ,_, the_DT plan_NN detailed_JJ a_DT public_JJ U.S._NN stance_NN :_: America_NNP would_MD use_VB all_DT its_PRP$ resources_NNS to_TO eliminate_VB terrorism_NN as_IN a_DT threat_NN ,_, punish_VB those_DT responsible_JJ for_IN the_DT 9/11_CD attacks_NNS ,_, hold_VB states_NNS and_CC other_JJ actors_NNS responsible_JJ for_IN providing_VBG sanctuary_NN to_TO terrorists_NNS ,_, work_NN with_IN a_DT coalition_NN to_TO eliminate_VB terrorist_JJ groups_NNS and_CC networks_NNS ,_, and_CC avoid_VB malice_NN toward_IN any_DT people_NNS ,_, religion_NN ,_, or_CC culture_NN ._. 
+
+President_NNP Bush_NNP recalled_VBD that_IN he_PRP quickly_RB realized_VBD that_IN the_DT administration_NN would_MD have_VB to_TO invade_VB Afghanistan_NNP with_IN ground_NN troops_NNS ._. 
+
+But_CC the_DT early_JJ briefings_NNS to_TO the_DT President_NNP and_CC Secretary_NNP Rumsfeld_NNP on_IN military_JJ options_NNS were_VBD disappointing_JJ ._. 
+Tommy_NNP Franks_NNP ,_, the_DT commanding_JJ general_NN of_IN Central_NNP Command_NNP (_( CENTCOM_NNP )_) ,_, told_VBD us_PRP that_IN the_DT President_NNP was_VBD dissatisfied_JJ ._. 
+The_DT U.S._NN military_JJ ,_, Franks_NNP said_VBD ,_, did_VBD not_RB have_VB an_DT off-the-shelf_JJ plan_NN to_TO eliminate_VB the_DT al_NN Qaeda_NNP threat_NN in_IN Afghanistan_NNP ._. 
+The_DT existing_VBG Infinite_NNP Resolve_NNP options_NNS did_VBD not_RB ,_, in_IN his_PRP$ view_NN ,_, amount_NN to_TO such_JJ a_DT plan_NN ._. 
+
+All_DT these_DT diplomatic_JJ and_CC military_JJ plans_NNS were_VBD reviewed_VBN over_IN the_DT weekend_NN of_IN September_NNP 15_CD -_: 16_CD ,_, as_IN President_NNP Bush_NNP convened_VBD his_PRP$ war_NN council_NN at_IN Camp_NNP David_NNP ._. 
+
+Present_VB were_VBD Vice_NNP President_NNP Cheney_NNP ,_, Rice_NNP ,_, Hadley_NNP ,_, Powell_NNP ,_, Armitage_NNP ,_, Rumsfeld_NNP ,_, Ashcroft_NNP ,_, Mueller_NNP ,_, Tenet_NNP ,_, Deputy_NNP Secretary_NNP of_IN Defense_NNP Paul_NNP Wolfowitz_NNP ,_, and_CC Cofer_NNP Black_NNP ,_, chief_NN of_IN the_DT DCI_NNP 's_POS Counterterrorist_NNP Center_NNP ._. 
+
+Tenet_NNP described_VBD a_DT plan_NN for_IN collecting_VBG intelligence_NN and_CC mounting_VBG covert_JJ operations_NNS ._. 
+He_PRP proposed_VBD inserting_VBG CIA_NNP teams_NNS into_IN Afghanistan_NNP to_TO work_VB with_IN Afghan_JJ warlords_NNS who_WP would_MD join_VB the_DT fight_NN against_IN al_NN Qaeda_NNP ._. 
+These_DT CIA_NNP teams_NNS would_MD act_VB jointly_RB with_IN the_DT military_NN 's_POS Special_JJ Operations_NNP units_NNS ._. 
+President_NNP Bush_NNP later_RB praised_VBD this_DT proposal_NN ,_, saying_VBG it_PRP had_VBD been_VBN a_DT turning_NN point_NN in_IN his_PRP$ thinking_VBG ._. 
+
+General_NNP Shelton_NNP briefed_VBD the_DT principals_NNS on_IN the_DT preliminary_JJ plan_NN for_IN Afghanistan_NNP that_IN the_DT military_NN had_VBD put_VBN together_RB ._. 
+It_PRP drew_VBD on_IN the_DT Infinite_NNP Resolve_NNP "_'' phased_VBN campaign_NN "_'' plan_NN the_DT Pentagon_NNP had_VBD begun_VBN developing_VBG in_IN November_NNP 2000_CD as_IN an_DT addition_NN to_TO the_DT strike_NN options_NNS it_PRP had_VBD been_VBN refining_VBG since_IN 1998_CD ._. 
+But_CC Shelton_NNP added_VBD a_DT new_JJ element-the_JJ possible_JJ significant_JJ use_NN of_IN ground_NN forces-_NN and_CC that_DT is_VBZ where_WRB President_NNP Bush_NNP reportedly_RB focused_VBD his_PRP$ attention_NN ._. 
+
+After_IN hearing_NN from_IN his_PRP$ senior_JJ advisers_NNS ,_, President_NNP Bush_NNP discussed_VBD with_IN Rice_NNP the_DT contents_NNS of_IN the_DT directives_NNS he_PRP would_MD issue_VB to_TO set_VB all_DT the_DT plans_NNS into_IN motion_NN ._. 
+Rice_NNP prepared_VBD a_DT paper_NN that_IN President_NNP Bush_NNP then_RB considered_VBD with_IN principals_NNS on_IN Monday_NNP morning_NN ,_, September_NNP 17_CD ._. 
+"_'' The_DT purpose_NN of_IN this_DT meeting_NN ,_, "_'' he_PRP recalled_VBD saying_VBG ,_, "_'' is_VBZ to_TO assign_VB tasks_NNS for_IN the_DT first_JJ wave_NN of_IN the_DT war_NN against_IN terrorism_NN ._. 
+It_PRP starts_VBZ today_NN ._. "_'' 
+
+In_IN a_DT written_VBN set_NN of_IN instructions_NNS slightly_RB refined_VBN during_IN the_DT morning_NN meeting_NN ,_, President_NNP Bush_NNP charged_VBD Ashcroft_NNP ,_, Mueller_NNP ,_, and_CC Tenet_NNP to_TO develop_VB a_DT plan_NN for_IN homeland_NN defense_NN ._. 
+President_NNP Bush_NNP directed_VBD Secretary_NNP of_IN State_NNP Powell_NNP to_TO deliver_VB an_DT ultimatum_NN to_TO the_DT Taliban_NNP along_IN the_DT lines_NNS that_IN his_PRP$ department_NN had_VBD originally_RB proposed_VBN ._. 
+The_DT State_NNP Department_NNP was_VBD also_RB tasked_JJ to_TO develop_VB a_DT plan_NN to_TO stabilize_VB Pakistan_NNP and_CC to_TO be_VB prepared_VBN to_TO notify_VB Russia_NNP and_CC countries_NNS near_IN Afghanistan_NNP when_WRB hostilities_NNS were_VBD imminent_JJ ._. 
+
+In_IN addition_NN ,_, Bush_NNP and_CC his_PRP$ advisers_NNS discussed_VBD new_JJ legal_JJ authorities_NNS for_IN covert_JJ action_NN in_IN Afghanistan_NNP ,_, including_VBG the_DT administration_NN 's_POS first_JJ Memorandum_NNP of_IN Notification_NNP on_IN Bin_NNP Ladin_NNP ._. 
+Shortly_RB thereafter_RB ,_, President_NNP Bush_NNP authorized_VBD broad_JJ new_JJ authorities_NNS for_IN the_DT CIA_NNP ._. 
+
+President_NNP Bush_NNP instructed_VBD Rumsfeld_NNP and_CC Shelton_NNP to_TO develop_VB further_VB the_DT Camp_NNP David_NNP military_JJ plan_NN to_TO attack_VB the_DT Taliban_NNP and_CC al_NN Qaeda_NNP if_IN the_DT Taliban_NNP rejected_VBD the_DT ultimatum_NN ._. 
+The_DT President_NNP also_RB tasked_JJ Rumsfeld_NNP to_TO ensure_VB that_IN robust_JJ measures_NNS to_TO protect_VB American_JJ military_JJ forces_NNS against_IN terrorist_JJ attack_NN were_VBD implemented_VBN worldwide_NN ._. 
+Finally_RB ,_, he_PRP directed_VBD Treasury_NNP Secretary_NNP Paul_NNP O_NNP '_POS Neill_NNP to_TO craft_VB a_DT plan_NN to_TO target_VB al_NN Qaeda_NNP 's_POS funding_NN and_CC seize_VB its_PRP$ assets_NNS ._. 
+
+NSC_NNP staff_NN members_NNS had_VBD begun_VBN leading_VBG meetings_NNS on_IN terrorist_JJ fund-raising_NN by_IN September_NNP 18_CD ._. 
+
+Also_RB by_IN September_NNP 18_CD ,_, Powell_NNP had_VBD contacted_VBN 58_CD of_IN his_PRP$ foreign_JJ counterparts_NNS and_CC received_VBD offers_NNS of_IN general_JJ aid_NN ,_, search-and-rescue_JJ equipment_NN and_CC personnel_NNS ,_, and_CC medical_JJ assistance_NN teams_NNS ._. 
+
+On_IN the_DT same_JJ day_NN ,_, Deputy_NNP Secretary_NNP of_IN State_NNP Armitage_NNP was_VBD called_VBN by_IN Mahmud_NNP Ahmed_NNP regarding_VBG a_DT two-day_JJ visit_NN to_TO Afghanistan_NNP during_IN which_WDT the_DT Pakistani_JJ intelligence_NN chief_NN had_VBD met_VBN with_IN Mullah_NNP Omar_NNP and_CC conveyed_VBD the_DT U.S._NN demands_NNS ._. 
+Omar_NNP 's_POS response_NN was_VBD "_'' not_RB negative_JJ on_IN all_PDT these_DT points_NNS ._. "_'' 
+But_CC the_DT administration_NN knew_VBD that_DT theTaliban_NN was_VBD unlikely_JJ to_TO turn_VB over_RP Bin_NNP Ladin_NNP ._. 
+
+The_DT pre-_NN 9/11_CD draft_NN presidential_JJ directive_NN on_IN al_NN Qaeda_NNP evolved_VBD into_IN a_DT new_JJ directive_NN ,_, National_NNP Security_NNP Presidential_NNP Directive_NNP 9_CD ,_, now_RB titled_VBN "_'' Defeating_NNP the_DT Terrorist_NNP Threat_NNP to_TO the_DT United_NNP States_NNPS ._. "_'' 
+The_DT directive_NN would_MD now_RB extend_VB to_TO a_DT global_JJ war_NN on_IN terrorism_NN ,_, not_RB just_RB on_IN al_NN Qaeda_NNP ._. 
+It_PRP also_RB incorporated_VBD the_DT President_NNP 's_POS determination_NN not_RB to_TO distinguish_VB between_IN terrorists_NNS and_CC those_DT who_WP harbor_VBP them_PRP ._. 
+It_PRP included_VBD a_DT determination_NN to_TO use_VB military_JJ force_NN if_IN necessary_JJ to_TO end_VB al_NN Qaeda_NNP 's_POS sanctuary_NN in_IN Afghanistan_NNP ._. 
+The_DT new_JJ directive-formally_JJ signed_VBN on_IN October_NNP 25_CD ,_, after_IN the_DT fighting_VBG in_IN Afghanistan_NNP had_VBD already_RB begun-included_JJ new_JJ material_NN followed_VBN by_IN annexes_NNS discussing_VBG each_DT targeted_VBN terrorist_JJ group_NN ._. 
+The_DT old_JJ draft_NN directive_NN on_IN al_NN Qaeda_NNP became_VBD ,_, in_IN effect_NN ,_, the_DT first_JJ annex_NN ._. 
+
+The_DT United_NNP States_NNPS would_MD strive_VBP to_TO eliminate_VB all_DT terrorist_JJ networks_NNS ,_, dry_JJ up_RP their_PRP$ financial_JJ support_NN ,_, and_CC prevent_VB them_PRP from_IN acquiring_VBG weapons_NNS of_IN mass_NN destruction_NN ._. 
+The_DT goal_NN was_VBD the_DT "_'' elimination_NN of_IN terrorism_NN as_IN a_DT threat_NN to_TO our_PRP$ way_NN of_IN life_NN ._. "_'' 
+
+"_'' PHASE_NNP TWO_CD "_'' AND_CC THE_DT QUESTION_NNP OF_IN IRAQ_NNP 
+President_NNP Bush_NNP had_VBD wondered_VBD immediately_RB after_IN the_DT attack_NN whether_IN Saddam_NNP Hussein_NNP 's_POS regime_NN might_MD have_VB had_VBD a_DT hand_NN in_IN it_PRP ._. 
+Iraq_NNP had_VBD been_VBN an_DT enemy_NN of_IN the_DT United_NNP States_NNPS for_IN 11_CD years_NNS ,_, and_CC was_VBD the_DT only_JJ place_NN in_IN the_DT world_NN where_WRB the_DT United_NNP States_NNPS was_VBD engaged_VBN in_IN ongoing_JJ combat_NN operations_NNS ._. 
+As_IN a_DT former_JJ pilot_NN ,_, the_DT President_NNP was_VBD struck_VBN by_IN the_DT apparent_JJ sophistication_NN of_IN the_DT operation_NN and_CC some_DT of_IN the_DT piloting_VBG ,_, especially_RB Hanjour_NNP 's_POS high-speed_JJ dive_NN into_IN the_DT Pentagon_NNP ._. 
+He_PRP told_VBD us_PRP he_PRP recalled_VBD Iraqi_JJ support_NN for_IN Palestinian_JJ suicide_NN terrorists_NNS as_RB well_RB ._. 
+Speculating_NNP about_IN other_JJ possible_JJ states_NNS that_WDT could_MD be_VB involved_VBN ,_, the_DT President_NNP told_VBD us_PRP he_PRP also_RB thought_VBD about_IN Iran_NNP ._. 
+
+Clarke_NNP has_VBZ written_VBN that_IN on_IN the_DT evening_NN of_IN September_NNP 12_CD ,_, President_NNP Bush_NNP told_VBD him_PRP and_CC some_DT of_IN his_PRP$ staff_NN to_TO explore_VB possible_JJ Iraqi_JJ links_NNS to_TO 9/11_CD ._. 
+"_'' See_VB if_IN Saddam_NNP did_VBD this_DT ,_, "_'' Clarke_NNP recalls_VBZ the_DT President_NNP telling_VBG them_PRP ._. "_'' 
+See_VB if_IN he_PRP 's_VBZ linked_VBN in_IN any_DT way_NN ._. "_'' 
+While_IN he_PRP believed_VBD the_DT details_NNS of_IN Clarke_NNP 's_POS account_NN to_TO be_VB incorrect_JJ ,_, President_NNP Bush_NNP acknowledged_VBD that_IN he_PRP might_MD well_RB have_VB spoken_VBN to_TO Clarke_NNP at_IN some_DT point_NN ,_, asking_VBG him_PRP about_IN Iraq_NNP ._. 
+
+Responding_VBG to_TO a_DT presidential_JJ tasking_VBG ,_, Clarke_NNP 's_POS office_NN sent_VBD a_DT memo_NN to_TO Rice_NNP on_IN September_NNP 18_CD ,_, titled_VBN "_'' Survey_NN of_IN Intelligence_NNP Information_NNP on_IN Any_DT Iraq_NNP Involvement_NNP in_IN the_DT September_NNP 11_CD Attacks_NNS ._. "_'' 
+Rice_NNP 's_POS chief_JJ staffer_NN on_IN Afghanistan_NNP ,_, Zalmay_NNP Khalilzad_NNP ,_, concurred_VBD in_IN its_PRP$ conclusion_NN that_IN only_RB some_DT anecdotal_JJ evidence_NN linked_VBD Iraq_NNP to_TO al_NN Qaeda_NNP ._. 
+The_DT memo_NN found_VBD no_DT "_'' compelling_JJ case_NN "_'' that_IN Iraq_NNP had_VBD either_CC planned_VBN or_CC perpetrated_VBN the_DT attacks_NNS ._. 
+It_PRP passed_VBD along_IN a_DT few_JJ foreign_JJ intelligence_NN reports_NNS ,_, including_VBG the_DT Czech_JJ report_NN alleging_VBG an_DT April_NNP 2001_CD Prague_NNP meeting_NN between_IN Atta_NNP and_CC an_DT Iraqi_JJ intelligence_NN officer_NN (_( discussed_VBN in_IN chapter_NN 7_CD )_) and_CC a_DT Polish_JJ report_NN that_IN personnel_NNS at_IN the_DT headquarters_NN of_IN Iraqi_JJ intelligence_NN in_IN Baghdad_NNP were_VBD told_VBN before_IN September_NNP 11_CD to_TO go_VB on_IN the_DT streets_NNS to_TO gauge_VB crowd_NN reaction_NN to_TO an_DT unspecified_JJ event_NN ._. 
+Arguing_VBG that_IN the_DT case_NN for_IN links_NNS between_IN Iraq_NNP and_CC al_NN Qaeda_NNP was_VBD weak_JJ ,_, the_DT memo_NN pointed_VBD out_RP that_IN Bin_NNP Ladin_NNP resented_VBD the_DT secularism_NN of_IN Saddam_NNP Hussein_NNP 's_POS regime_NN ._. 
+Finally_RB ,_, the_DT memo_NN said_VBD ,_, there_EX was_VBD no_DT confirmed_VBD reporting_VBG on_IN Saddam_NNP cooperating_VBG with_IN Bin_NNP Ladin_NNP on_IN unconventional_JJ weapons_NNS ._. 
+
+On_IN the_DT afternoon_NN of_IN 9/11_CD ,_, according_VBG to_TO contemporaneous_JJ notes_NNS ,_, Secretary_NNP Rumsfeld_NNP instructed_VBD General_NNP Myers_NNP to_TO obtain_VB quickly_RB as_IN much_JJ information_NN as_IN possible_JJ ._. 
+The_DT notes_NNS indicate_VBP that_IN he_PRP also_RB told_VBD Myers_NNP that_IN he_PRP was_VBD not_RB simply_RB interested_JJ in_IN striking_JJ empty_JJ training_NN sites_NNS ._. 
+He_PRP thought_VBD the_DT U.S._NN response_NN should_MD consider_VB a_DT wide_JJ range_NN of_IN options_NNS and_CC possibilities_NNS ._. 
+The_DT secretary_NN said_VBD his_PRP$ instinct_NN was_VBD to_TO hit_VB Saddam_NNP Hussein_NNP at_IN the_DT same_JJ time-not_JJ only_RB Bin_NNP Ladin_NNP ._. 
+Secretary_NNP Rumsfeld_NNP later_RB explained_VBD that_IN at_IN the_DT time_NN ,_, he_PRP had_VBD been_VBN considering_VBG either_CC one_CD of_IN them_PRP ,_, or_CC perhaps_RB someone_NN else_RB ,_, as_IN the_DT responsible_JJ party_NN ._. 
+
+According_VBG to_TO Rice_NNP ,_, the_DT issue_NN of_IN what_WP ,_, if_IN anything_NN ,_, to_TO do_VB about_IN Iraq_NNP was_VBD really_RB engaged_VBN at_IN Camp_NNP David_NNP ._. 
+Briefing_NNP papers_NNS on_IN Iraq_NNP ,_, along_IN with_IN many_JJ others_NNS ,_, were_VBD in_IN briefing_NN materials_NNS for_IN the_DT participants_NNS ._. 
+Rice_NNP told_VBD us_PRP the_DT administration_NN was_VBD concerned_VBN that_IN Iraq_NNP would_MD take_VB advantage_NN of_IN the_DT 9/11_CD attacks_NNS ._. 
+She_PRP recalled_VBD that_IN in_IN the_DT first_JJ Camp_NNP David_NNP session_NN chaired_VBN by_IN the_DT President_NNP ,_, Rumsfeld_NNP asked_VBD what_WP the_DT administration_NN should_MD do_VB about_IN Iraq_NNP ._. 
+Deputy_NNP Secretary_NNP Wolfowitz_NNP made_VBD the_DT case_NN for_IN striking_JJ Iraq_NNP during_IN "_'' this_DT round_NN "_'' of_IN the_DT war_NN on_IN terrorism_NN ._. 
+
+A_DT Defense_NNP Department_NNP paper_NN for_IN the_DT Camp_NNP David_NNP briefing_NN book_NN on_IN the_DT strategic_JJ concept_NN for_IN the_DT war_NN on_IN terrorism_NN specified_VBD three_CD priority_NN targets_NNS for_IN initial_JJ action_NN :_: al_NN Qaeda_NNP ,_, theTaliban_NN ,_, and_CC Iraq_NNP ._. 
+It_PRP argued_VBD that_IN of_IN the_DT three_CD ,_, al_NN Qaeda_NNP and_CC Iraq_NNP posed_VBD a_DT strategic_JJ threat_NN to_TO the_DT United_NNP States_NNPS ._. 
+Iraq_NNP 's_POS long-standing_JJ involvement_NN in_IN terrorism_NN was_VBD cited_VBN ,_, along_IN with_IN its_PRP$ interest_NN in_IN weapons_NNS of_IN mass_NN destruction_NN ._. 
+
+Secretary_NNP Powell_NNP recalled_VBD that_IN Wolfowitz-not_NNP Rumsfeld-argued_NNP that_IN Iraq_NNP was_VBD ultimately_RB the_DT source_NN of_IN the_DT terrorist_JJ problem_NN and_CC should_MD therefore_RB be_VB attacked_VBN ._. 
+
+Powell_NNP said_VBD that_IN Wolfowitz_NNP was_VBD not_RB able_JJ to_TO justify_VB his_PRP$ belief_NN that_IN Iraq_NNP was_VBD behind_IN 9/11_CD ._. 
+"_'' Paul_NNP was_VBD always_RB of_IN the_DT view_NN that_IN Iraq_NNP was_VBD a_DT problem_NN that_WDT had_VBD to_TO be_VB dealt_VBN with_IN ,_, "_'' Powell_NNP told_VBD us_PRP ._. "_'' 
+And_CC he_PRP saw_VBD this_DT as_IN one_CD way_NN of_IN using_VBG this_DT event_NN as_IN a_DT way_NN to_TO deal_VB with_IN the_DT Iraq_NNP problem_NN ._. "_'' 
+Powell_NNP said_VBD that_IN President_NNP Bush_NNP did_VBD not_RB give_VB Wolfowitz_NNP 's_POS argument_NN "_'' much_JJ weight_NN ._. "_'' 
+Though_IN continuing_VBG to_TO worry_VB about_IN Iraq_NNP in_IN the_DT following_VBG week_NN ,_, Powell_NNP said_VBD ,_, President_NNP Bush_NNP saw_VBD Afghanistan_NNP as_IN the_DT priority_NN ._. 
+
+President_NNP Bush_NNP told_VBD Bob_NNP Woodward_NNP that_IN the_DT decision_NN not_RB to_TO invade_VB Iraq_NNP was_VBD made_VBN at_IN the_DT morning_NN session_NN on_IN September_NNP 15_CD ._. 
+Iraq_NNP was_VBD not_RB even_RB on_IN the_DT table_NN during_IN the_DT September_NNP 15_CD afternoon_NN session_NN ,_, which_WDT dealt_VBD solely_RB with_IN Afghanistan_NNP ._. 
+
+Rice_NNP said_VBD that_IN when_WRB President_NNP Bush_NNP called_VBD her_PRP on_IN Sunday_NNP ,_, September_NNP 16_CD ,_, he_PRP said_VBD the_DT focus_NN would_MD be_VB on_IN Afghanistan_NNP ,_, although_IN he_PRP still_RB wanted_VBD plans_NNS for_IN Iraq_NNP should_MD the_DT country_NN take_VBP some_DT action_NN or_CC the_DT administration_NN eventually_RB determine_VB that_IN it_PRP had_VBD been_VBN involved_VBN in_IN the_DT 9/11_CD attacks_NNS ._. 
+
+At_IN the_DT September_NNP 17_CD NSC_NNP meeting_NN ,_, there_EX was_VBD some_DT further_JJ discussion_NN of_IN "_'' phase_NN two_CD "_'' of_IN the_DT war_NN on_IN terrorism_NN ._. 
+
+President_NNP Bush_NNP ordered_VBD the_DT Defense_NNP Department_NNP to_TO be_VB ready_JJ to_TO deal_VB with_IN Iraq_NNP if_IN Baghdad_NNP acted_VBD against_IN U.S._NN interests_NNS ,_, with_IN plans_NNS to_TO include_VB possibly_RB occupying_VBG Iraqi_JJ oil_NN fields_NNS ._. 
+
+Within_IN the_DT Pentagon_NNP ,_, Deputy_NNP Secretary_NNP Wolfowitz_NNP continued_VBD to_TO press_VB the_DT case_NN for_IN dealing_VBG with_IN Iraq_NNP ._. 
+Writing_VBG to_TO Rumsfeld_NNP on_IN September_NNP 17_CD in_IN a_DT memo_NN headlined_VBN "_'' Preventing_NNP More_JJR Events_NNS ,_, "_'' he_PRP argued_VBD that_IN if_IN there_EX was_VBD even_RB a_DT 10_CD percent_NN chance_NN that_IN Saddam_NNP Hussein_NNP was_VBD behind_IN the_DT 9/11_CD attack_NN ,_, maximum_NN priority_NN should_MD be_VB placed_VBN on_IN eliminating_VBG that_DT threat_NN ._. 
+Wolfowitz_NNP contended_VBD that_IN the_DT odds_NNS were_VBD "_'' far_RB more_JJR "_'' than_IN 1_CD in_IN 10_CD ,_, citing_VBG Saddam_NNP 's_POS praise_NN for_IN the_DT attack_NN ,_, his_PRP$ long_JJ record_NN of_IN involvement_NN in_IN terrorism_NN ,_, and_CC theories_NNS that_IN Ramzi_NNP Yousef_NNP was_VBD an_DT Iraqi_JJ agent_NN and_CC Iraq_NNP was_VBD behind_IN the_DT 1993_CD attack_NN on_IN the_DT World_NNP Trade_NNP Center_NNP ._. 
+The_DT next_JJ day_NN ,_, Wolfowitz_NNP renewed_VBD the_DT argument_NN ,_, writing_VBG to_TO Rumsfeld_NNP about_IN the_DT interest_NN of_IN Yousef_NNP 's_POS co-conspirator_JJ in_IN the_DT 1995_CD Manila_NNP air_NN plot_NN in_IN crashing_VBG an_DT explosives-laden_JJ plane_NN into_IN CIA_NNP headquarters_NN ,_, and_CC about_IN information_NN from_IN a_DT foreign_JJ government_NN regarding_VBG Iraqis_NNP '_POS involvement_NN in_IN the_DT attempted_VBN hijacking_VBG of_IN a_DT Gulf_NNP Air_NNP flight_NN ._. 
+Given_VBN this_DT background_NN ,_, he_PRP wondered_VBD why_WRB so_RB little_RB thought_NN had_VBD been_VBN devoted_VBN to_TO the_DT danger_NN of_IN suicide_NN pilots_NNS ,_, seeing_VBG a_DT "_'' failure_NN of_IN imagination_NN "_'' and_CC a_DT mind-set_NN that_WDT dismissed_VBD possibilities_NNS ._. 
+
+On_IN September_NNP 19_CD ,_, Rumsfeld_NNP offered_VBD several_JJ thoughts_NNS for_IN his_PRP$ commanders_NNS as_IN they_PRP worked_VBD on_IN their_PRP$ contingency_NN plans_NNS ._. 
+Though_IN he_PRP emphasized_VBD the_DT worldwide_NN nature_NN of_IN the_DT conflict_NN ,_, the_DT references_NNS to_TO specific_JJ enemies_NNS or_CC regions_NNS named_VBN only_RB the_DT Taliban_NNP ,_, al_NN Qaeda_NNP ,_, and_CC Afghanistan_NNP ._. 
+
+Shelton_NNP told_VBD us_PRP the_DT administration_NN reviewed_VBD all_PDT the_DT Pentagon_NNP 's_POS war_NN plans_NNS and_CC challenged_VBN certain_JJ assumptions_NNS underlying_VBG them_PRP ,_, as_IN any_DT prudent_JJ organization_NN or_CC leader_NN should_MD do_VB ._. 
+
+General_NNP Tommy_NNP Franks_NNP ,_, the_DT commanding_JJ general_NN of_IN Central_NNP Command_NNP ,_, recalled_VBD receiving_VBG Rumsfeld_NNP 's_POS guidance_NN that_IN each_DT regional_JJ commander_NN should_MD assess_VB what_WP these_DT plans_NNS meant_VBN for_IN his_PRP$ area_NN of_IN responsibility_NN ._. 
+He_PRP knew_VBD he_PRP would_MD soon_RB be_VB striking_VBG the_DT Taliban_NNP and_CC al_NN Qaeda_NNP in_IN Afghanistan_NNP ._. 
+But_CC ,_, he_PRP told_VBD us_PRP ,_, he_PRP now_RB wondered_VBD how_WRB that_DT action_NN was_VBD connected_VBN to_TO what_WP might_MD need_VB to_TO be_VB done_VBN in_IN Somalia_NNP ,_, Yemen_NNP ,_, or_CC Iraq_NNP ._. 
+
+On_IN September_NNP 20_CD ,_, President_NNP Bush_NNP met_VBD with_IN British_NNP Prime_NNP Minister_NNP Tony_NNP Blair_NNP ,_, and_CC the_DT two_CD leaders_NNS discussed_VBD the_DT global_JJ conflict_NN ahead_RB ._. 
+When_WRB Blair_NNP asked_VBD about_IN Iraq_NNP ,_, the_DT President_NNP replied_VBD that_IN Iraq_NNP was_VBD not_RB the_DT immediate_JJ problem_NN ._. 
+Some_DT members_NNS of_IN his_PRP$ administration_NN ,_, he_PRP commented_VBD ,_, had_VBD expressed_VBN a_DT different_JJ view_NN ,_, but_CC he_PRP was_VBD the_DT one_CD responsible_JJ for_IN making_VBG the_DT decisions_NNS ._. 
+
+Franks_NNP told_VBD us_PRP that_IN he_PRP was_VBD pushing_VBG independently_RB to_TO do_VB more_RBR robust_JJ planning_NN on_IN military_JJ responses_NNS in_IN Iraq_NNP during_IN the_DT summer_NN before_IN 9/11_CD -_: a_DT request_NN President_NNP Bush_NNP denied_VBD ,_, arguing_VBG that_IN the_DT time_NN was_VBD not_RB right_JJ ._. 
+(_( CENTCOM_NNP also_RB began_VBD dusting_VBG off_RP plans_NNS for_IN a_DT full_JJ invasion_NN of_IN Iraq_NNP during_IN this_DT period_NN ,_, Franks_NNP said_VBD ._. )_) 
+The_DT CENTCOM_NNP commander_NN told_VBD us_PRP he_PRP renewed_VBD his_PRP$ appeal_NN for_IN further_JJ military_JJ planning_NN to_TO respond_VB to_TO Iraqi_JJ moves_NNS shortly_RB after_IN 9/11_CD ,_, both_DT because_IN he_PRP personally_RB felt_VBD that_IN Iraq_NNP and_CC al_NN Qaeda_NNP might_MD be_VB engaged_VBN in_IN some_DT form_NN of_IN collusion_NN and_CC because_IN he_PRP worried_VBD that_IN Saddam_NNP might_MD take_VB advantage_NN of_IN the_DT attacks_NNS to_TO move_VB against_IN his_PRP$ internal_JJ enemies_NNS in_IN the_DT northern_JJ or_CC southern_JJ parts_NNS of_IN Iraq_NNP ,_, where_WRB the_DT United_NNP States_NNPS was_VBD flying_VBG regular_JJ missions_NNS to_TO enforce_VB Iraqi_JJ no-fly_JJ zones_NNS ._. 
+Franks_NNP said_VBD that_IN President_NNP Bush_NNP again_RB turned_VBD down_RP the_DT request_NN ._. 
+
+Having_VBG issued_VBN directives_NNS to_TO guide_VB his_PRP$ administration_NN 's_POS preparations_NNS for_IN war_NN ,_, on_IN Thursday_NNP ,_, September_NNP 20_CD ,_, President_NNP Bush_NNP addressed_VBD the_DT nation_NN before_IN a_DT joint_JJ session_NN of_IN Congress_NNP ._. "_'' 
+Tonight_RB ,_, "_'' he_PRP said_VBD ,_, "_'' we_PRP are_VBP a_DT country_NN awakened_VBN to_TO danger_NN ._. "_'' 
+The_DT President_NNP blamed_VBD al_NN Qaeda_NNP for_IN 9/11_CD and_CC the_DT 1998_CD embassy_NN bombings_NNS and_CC ,_, for_IN the_DT first_JJ time_NN ,_, declared_VBD that_DT al_NN Qaeda_NNP was_VBD "_'' responsible_JJ for_IN bombing_NN the_DT USS_NNP Cole_NNP ._. "_'' 
+He_PRP reiterated_VBD the_DT ultimatum_NN that_WDT had_VBD already_RB been_VBN conveyed_VBD privately_RB ._. "_'' 
+The_DT Taliban_NNP must_MD act_VB ,_, and_CC act_NN immediately_RB ,_, "_'' he_PRP said_VBD ._. "_'' 
+They_PRP will_MD hand_VB over_IN the_DT terrorists_NNS ,_, or_CC they_PRP will_MD share_VB in_IN their_PRP$ fate_NN ._. "_'' 
+The_DT President_NNP added_VBD that_IN America_NNP 's_POS quarrel_VB was_VBD not_RB with_IN Islam_NNP :_: "_'' The_DT enemy_NN of_IN America_NNP is_VBZ not_RB our_PRP$ many_JJ Muslim_NNP friends_NNS ;_: it_PRP is_VBZ not_RB our_PRP$ many_JJ Arab_JJ friends_NNS ._. 
+Our_PRP$ enemy_NN is_VBZ a_DT radical_JJ network_NN of_IN terrorists_NNS ,_, and_CC every_DT government_NN that_WDT supports_VBZ them_PRP ._. "_'' 
+Other_JJ regimes_NNS faced_VBD hard_JJ choices_NNS ,_, he_PRP pointed_VBD out_IN :_: "_'' Every_DT nation_NN ,_, in_IN every_DT region_NN ,_, now_RB has_VBZ a_DT decision_NN to_TO make_VB :_: Either_CC you_PRP are_VBP with_IN us_PRP ,_, or_CC you_PRP are_VBP with_IN the_DT terrorists_NNS ._. "_'' 
+
+President_NNP Bush_NNP argued_VBD that_IN the_DT new_JJ war_NN went_VBD beyond_IN Bin_NNP Ladin_NNP ._. 
+"_'' Our_PRP$ war_NN on_IN terror_NN begins_VBZ with_IN al_NN Qaeda_NNP ,_, but_CC it_PRP does_VBZ not_RB end_VB there_RB ,_, "_'' he_PRP said_VBD ._. 
+"_'' It_PRP will_MD not_RB end_VB until_IN every_DT terrorist_JJ group_NN of_IN global_JJ reach_NN has_VBZ been_VBN found_VBN ,_, stopped_VBD ,_, and_CC defeated_VBD ._. "_'' 
+The_DT President_NNP had_VBD a_DT message_NN for_IN the_DT Pentagon_NNP :_: "_'' The_DT hour_NN is_VBZ coming_VBG when_WRB America_NNP will_MD act_VB ,_, and_CC you_PRP will_MD make_VB us_PRP proud_JJ ._. "_'' 
+He_PRP also_RB had_VBD a_DT message_NN for_IN those_DT outside_IN the_DT United_NNP States_NNPS ._. 
+"_'' This_DT is_VBZ civilization_NN 's_POS fight_NN ,_, "_'' he_PRP said_VBD ._. 
+"_'' We_PRP ask_VBP every_DT nation_NN to_TO join_VB us_PRP ._. "_'' 
+
+President_NNP Bush_NNP approved_VBD military_JJ plans_NNS to_TO attack_VB Afghanistan_NNP in_IN meetings_NNS with_IN Central_NNP Command_NNP 's_POS General_NNP Franks_NNP and_CC other_JJ advisers_NNS on_IN September_NNP 21_CD and_CC October_NNP 2_CD ._. 
+Originally_RB titled_VBN "_'' Infinite_NNP Justice_NNP ,_, "_'' the_DT operation_NN 's_POS code_NN word_NN was_VBD changed-to_JJ avoid_VB the_DT sensibilities_NNS of_IN Muslims_NNPS who_WP associate_JJ the_DT power_NN of_IN infinite_NN justice_NN with_IN God_NNP alone-to_JJ the_DT operational_JJ name_NN still_RB used_VBD for_IN operations_NNS in_IN Afghanistan_NNP :_: "_'' Enduring_NNP Freedom_NNP ._. "_'' 
+
+The_DT plan_NN had_VBD four_CD phases_NNS ._. 
+
+In_IN Phase_NN One_CD ,_, the_DT United_NNP States_NNPS and_CC its_PRP$ allies_NNS would_MD move_VB forces_NNS into_IN the_DT region_NN and_CC arrange_VB to_TO operate_VB from_IN or_CC over_IN neighboring_VBG countries_NNS such_JJ as_IN Uzbekistan_NNP and_CC Pakistan_NNP ._. 
+This_DT occurred_VBD in_IN the_DT weeks_NNS following_VBG 9/11_CD ,_, aided_VBN by_IN overwhelming_JJ international_JJ sympathy_NN for_IN the_DT United_NNP States_NNPS ._. 
+In_IN Phase_NN Two_CD ,_, air_NN strikes_NNS and_CC Special_JJ Operations_NNP attacks_NNS would_MD hit_VB key_JJ al_NN Qaeda_NNP and_CC Taliban_NNP targets_NNS ._. 
+In_IN an_DT innovative_JJ joint_JJ effort_NN ,_, CIA_NNP and_CC Special_JJ Operations_NNP forces_NNS would_MD be_VB deployed_VBN to_TO work_VB together_RB with_IN each_DT major_JJ Afghan_JJ faction_NN opposed_VBN to_TO the_DT Taliban_NNP ._. 
+The_DT Phase_NN Two_CD strikes_NNS and_CC raids_NNS began_VBD on_IN October_NNP 7_CD ._. The_DT basing_VBG arrangements_NNS contemplated_VBN for_IN Phase_NN One_CD were_VBD substantially_RB secured-after_JJ arduous_JJ effort-by_JJ the_DT end_NN of_IN that_DT month_NN ._. 
+In_IN Phase_NN Three_CD ,_, the_DT United_NNP States_NNPS would_MD carry_VB out_IN "_'' decisive_JJ operations_NNS "_'' using_VBG all_DT elements_NNS of_IN national_JJ power_NN ,_, including_VBG ground_NN troops_NNS ,_, to_TO topple_VB the_DT Taliban_NNP regime_NN and_CC eliminate_VB al_NN Qaeda_NNP 's_POS sanctuary_NN in_IN Afghanistan_NNP ._. 
+Mazar-e-_NNP Sharif_NNP ,_, in_IN northern_JJ Afghanistan_NNP ,_, fell_VBD to_TO a_DT coalition_NN assault_NN by_IN Afghan_JJ and_CC U.S._NN forces_NNS on_IN November_NNP 9_CD ._. Four_CD days_NNS later_RB the_DT Taliban_NNP had_VBD fled_VBN from_IN Kabul_NNP ._. 
+By_IN early_JJ December_NNP ,_, all_DT major_JJ cities_NNS had_VBD fallen_VBN to_TO the_DT coalition_NN ._. 
+On_IN December_NNP 22_CD ,_, Hamid_NNP Karzai_NNP ,_, a_DT Pashtun_NNP leader_NN from_IN Kandahar_NNP ,_, was_VBD installed_VBN as_IN the_DT chairman_NN of_IN Afghanistan_NNP 's_POS interim_JJ administration_NN ._. 
+Afghanistan_NNP had_VBD been_VBN liberated_VBD from_IN the_DT rule_NN of_IN the_DT Taliban_NNP ._. 
+In_IN December_NNP 2001_CD ,_, Afghan_JJ forces_NNS ,_, with_IN limited_JJ U.S._NN support_NN ,_, engaged_VBN al_NN Qaeda_NNP elements_NNS in_IN a_DT cave_NN complex_JJ called_VBN Tora_NNP Bora_NNP ._. 
+In_IN March_NNP 2002_CD ,_, the_DT largest_JJS engagement_NN of_IN the_DT war_NN was_VBD fought_VBN ,_, in_IN the_DT mountainous_JJ Shah-i-_NNP Kot_NNP area_NN south_RB of_IN Gardez_NNP ,_, against_IN a_DT large_JJ force_NN of_IN al_NN Qaeda_NNP jihadists_NNS ._. 
+The_DT three-week_JJ battle_NN was_VBD substantially_RB successful_JJ ,_, and_CC almost_RB all_DT remaining_VBG al_NN Qaeda_NNP forces_NNS took_VBD refuge_NN in_IN Pakistan_NNP 's_POS equally_RB mountainous_JJ and_CC lightly_RB governed_VBN frontier_NN provinces_NNS ._. 
+As_IN of_IN July_NNP 2004_CD ,_, Bin_NNP Ladin_NNP and_CC Zawahiri_NNP are_VBP still_RB believed_VBN to_TO be_VB at_IN large_JJ ._. 
+
+In_IN Phase_NN Four_CD ,_, civilian_JJ and_CC military_JJ operations_NNS turned_VBD to_TO the_DT indefinite_JJ task_NN of_IN what_WP the_DT armed_VBN forces_NNS call_VBP "_'' security_NN and_CC stability_NN operations_NNS ._. "_'' 
+Within_IN about_IN two_CD months_NNS of_IN the_DT start_NN of_IN combat_NN operations_NNS ,_, several_JJ hundred_CD CIA_NNP operatives_NNS and_CC Special_JJ Forces_NNS soldiers_NNS ,_, backed_VBN by_IN the_DT striking_JJ power_NN of_IN U.S._NN aircraft_NN and_CC a_DT much_RB larger_JJR infrastructure_NN of_IN intelligence_NN and_CC support_NN efforts_NNS ,_, had_VBD combined_VBN with_IN Afghan_JJ militias_NNS and_CC a_DT small_JJ number_NN of_IN other_JJ coalition_NN soldiers_NNS to_TO destroy_VB theTaliban_NN regime_NN and_CC disrupt_VB al_NN Qaeda_NNP ._. 
+They_PRP had_VBD killed_VBN or_CC captured_VBN about_IN a_DT quarter_NN of_IN the_DT enemy_NN 's_POS known_VBN leaders_NNS ._. 
+Mohammed_NNP Atef_NNP ,_, al_NN Qaeda_NNP 's_POS military_JJ commander_NN and_CC a_DT principal_JJ figure_NN in_IN the_DT 9/11_CD plot_NN ,_, had_VBD been_VBN killed_VBN by_IN a_DT U.S._NN air_NN strike_NN ._. 
+According_VBG to_TO a_DT senior_JJ CIA_NNP officer_NN who_WP helped_VBD devise_VB the_DT overall_JJ strategy_NN ,_, the_DT CIA_NNP provided_VBD intelligence_NN ,_, experience_NN ,_, cash_NN ,_, covert_JJ action_NN capabilities_NNS ,_, and_CC entrée_NN to_TO tribal_NN allies_NNS ._. 
+In_IN turn_NN ,_, the_DT U.S._NN military_JJ offered_VBN combat_NN expertise_NN ,_, firepower_NN ,_, logistics_NNS ,_, and_CC communications_NNS ._. 
+
+With_IN these_DT initial_JJ victories_NNS won_VBN by_IN the_DT middle_NN of_IN 2002_CD ,_, the_DT global_JJ conflict_NN against_IN Islamist_NNP terrorism_NN became_VBD a_DT different_JJ kind_NN of_IN struggle_NN ._. 
+

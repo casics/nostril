@@ -1,0 +1,477 @@
+No._NN 01_CD -_: 618_CD 
+
+IN_IN THE_DT SUPREME_NNP COURT_NNP OF_IN ATTORNEY_NNP GENERAL_NNP ,_, Washington_NNP ,_, D.C._NN ,_, THE_DT UNITED_NNP STATES_NNS 
+Wednesday_NNP ,_, October_NNP 9_CD ,_, 2002_CD The_DT above-entitled_JJ matter_NN came_VBD on_IN for_IN oral_JJ argument_NN before_IN the_DT Supreme_NNP Court_NNP of_IN the_DT United_NNP States_NNPS at_IN 10:03_NN a.m._NN 
+
+APPEARANCES_NNP :_: LAWRENCE_NNP LESSIG_NNP ,_, ESQ_NNP ._. ,_, Stanford_NNP ,_, California_NNP ;_: on_IN behalf_NN of_IN the_DT Petitioners_NNP 
+._. 
+THEODORE_NNP B._NN OLSON_NNP ,_, ESQ_NNP ._. ,_, Solicitor_NNP General_NNP ,_, Department_NNP of_IN Justice_NNP ,_, Washington_NNP ,_, D.C._NN ;_: on_IN behalf_NN of_IN the_DT Respondent_NNP ._. 
+
+We_PRP 'll_MD hear_VB argument_NN now_RB in_IN Number_NNP 01_CD -_: 618_CD ,_, Eric_NNP Eldred_NNP v._NN John_NNP D._NN Ashcroft_NNP ._. Mr._NN Lessig_NNP ._. 
+ORAL_NNP ARGUMENT_NNP OF_IN LAWRENCE_NNP LESSIG_NNP ON_NNP BEHALF_NNP OF_IN THE_DT PETITIONERS_NNP 
+
+Mr._NN Chief_NNP Justice_NNP ,_, may_MD it_PRP please_VB the_DT Court_NNP :_: Petitioners_NNP are_VBP before_IN you_PRP this_DT morning_NN challenging_VBG Congress_NNP 's_POS 1998_CD Sonny_NNP Bono_NNP Copyright_NNP Term_NNP Extension_NNP Act_NNP ,_, which_WDT extended_VBD the_DT term_NN of_IN subsisting_VBG and_CC future_JJ copyrights_NNS by_IN 20_CD years_NNS ._. 
+Petitioners_NNP submit_VB such_PDT a_DT blanket_NN extension_NN of_IN existing_VBG terms_NNS exceeds_VBZ Congress_NNP 's_POS power_NN under_IN the_DT Copyright_NNP Clause_NN and_CC it_PRP violates_VBZ the_DT First_CD Amendment_NNP ._. 
+Now_RB ,_, the_DT Government_NNP has_VBZ responded_VBN to_TO petitioners_NNS '_POS argument_NN in_IN a_DT way_NN that_IN betrays_NNS a_DT simple_JJ but_CC fundamental_JJ confusion_NN ._. 
+The_DT Government_NNP has_VBZ argued_VBN as_IN if_IN petitioners_NNS had_VBD advanced_VBN a_DT general_JJ theory_NN of_IN the_DT Copyright_NNP Clause_NN ,_, or_CC a_DT general_JJ constraint_NN under_IN which_WDT Congress_NNP must_MD operate_VB ._. 
+That_DT is_VBZ a_DT mistake_NN ._. 
+This_DT case_NN is_VBZ about_IN limits_NNS to_TO an_DT enumerated_JJ power_NN ._. 
+It_PRP 's_VBZ not_RB about_IN general_JJ power_NN of_IN Congress_NNP to_TO exercise_VB its_PRP$ copyright_NN authority_NN ._. 
+Petitioners_NNP have_VBP advanced_VBN a_DT particular_JJ interpretation_NN of_IN the_DT only_RB express_VB limits_NNS in_IN the_DT Copyright_NNP Clause_NN designed_VBN to_TO give_VB those_DT limits_NNS meaning_VBG ._. 
+Mr._NN Lessig_NNP ,_, I_PRP 'll_MD tell_VB you_PRP what_WP bothers_NNS me_PRP about_IN your_PRP$ position_NN ,_, and_CC that_DT is_VBZ that_IN Congress_NNP has_VBZ extended_VBN the_DT term_NN so_RB often_RB through_IN the_DT years_NNS ,_, and_CC if_IN you_PRP are_VBP right_RB ,_, do_VBP n't_RB we_PRP run_VBP the_DT risk_NN of_IN upsetting_VBG previous_JJ extensions_NNS of_IN time_NN ?_. 
+I_PRP mean_VBP ,_, this_DT seems_VBZ to_TO be_VB a_DT practice_NN that_WDT began_VBD with_IN the_DT very_RB first_JJ act_NN ._. 
+Justice_NNP ,_, we_PRP do_VBP not_RB believe_VB that_IN the_DT very_RB first_JJ act_NN extended_VBD terms_NNS at_IN all_DT ._. 
+Speaking_VBG technically_RB ,_, which_WDT for_IN a_DT lawyer_NN means_VBZ speaking_VBG accurately_RB ,_, the_DT 1790_CD act_NN did_VBD not_RB extend_VB a_DT Federal_NNP term_NN ._. 
+The_DT 1790_CD act_NN granted_VBD a_DT term_NN for_IN works_VBZ that_IN already_RB existed_VBD in_IN precisely_RB the_DT pattern_NN that_IN the_DT English_NNP parliament_NN had_VBD done_VBN in_IN the_DT Statute_NNP of_IN Anne_NNP in_IN 1710_CD ,_, and_CC that_IN the_DT English_NNP parliament_NN did_VBD with_IN monopolies_NNS ,_, general_JJ monopolies_NNS in_IN the_DT statute_NN ._. 
+But_CC there_EX have_VBP been_VBN a_DT number_NN of_IN extensions_NNS since_IN ._. 
+That_DT 's_VBZ right_JJ ._. 
+Even_RB if_IN you_PRP can_MD get_VB over_IN the_DT first_JJ hurdle_NN ._. 
+That_DT 's_VBZ right_JJ ._. 
+That_DT 's_VBZ the_DT important_JJ hurdle_NN ,_, and_CC we_PRP 'd_MD like_VB to_TO jump_VB that_IN first_JJ ,_, but_CC the_DT other_JJ ones_NNS ,_, Justice_NNP ,_, you_PRP 're_VBP right_NN ,_, in_IN 1831_CD and_CC in_IN 1909_CD Congress_NNP extended_VBD terms_NNS in_IN a_DT way_NN that_WDT is_VBZ inconsistent_JJ with_IN the_DT strongest_JJS form_NN of_IN the_DT test_NN that_IN we_PRP have_VBP advanced_VBN ._. 
+Those_DT extensions_NNS ,_, however_RB ,_, were_VBD never_RB challenged_VBN in_IN any_DT court_NN and_CC certainly_RB not_RB considered_VBN by_IN this_DT Court_NNP ._. 
+Well_RB ,_, does_VBZ n't_RB that_IN itself_PRP mean_VBP something_NN ,_, Mr._NN Lessig_NNP ?_. 
+The_DT fact_NN that_IN they_PRP were_VBD never_RB challenged_VBN ,_, perhaps_RB most_JJS people_NNS ,_, and_CC perhaps_RB everybody_NN felt_VBD there_EX was_VBD no_DT basis_NN for_IN challenging_VBG them_PRP ._. 
+Well_RB ,_, Mr._NN Chief_NNP Justice_NNP ,_, it_PRP 's_VBZ absolutely_RB true_JJ that_IN this_DT case_NN is_VBZ here_RB because_IN of_IN a_DT fundamentally_RB important_JJ changed_VBN circumstance_NN that_WDT makes_VBZ the_DT Framers_NNP '_POS limitations_NNS on_IN the_DT Copyright_NNP Clause_NN much_RB more_RBR significant_JJ ._. 
+This_DT is_VBZ the_DT first_JJ time_NN I_PRP can_MD remember_VB where_WRB this_DT Court_NNP has_VBZ been_VBN pointed_VBN to_TO changed_JJ circumstances_NNS as_IN a_DT reason_NN to_TO reaffirm_VB the_DT Framers_NNP '_POS values_NNS ,_, because_IN for_IN most_JJS of_IN this_DT period_NN ,_, Mr._NN Chief_NNP Justice_NNP ,_, the_DT only_JJ people_NNS who_WP were_VBD regulated_VBN by_IN copyright_NN law_NN under_IN the_DT Copyright_NNP Act_NNP would_MD have_VB been_VBN commercial_JJ publishers_NNS ,_, primarily_RB ,_, and_CC now_RB for_IN the_DT first_JJ time_NN the_DT scope_NN of_IN this_DT exclusive_JJ right_NN has_VBZ expanded_VBN because_IN of_IN the_DT changed_JJ technology_NN of_IN the_DT Internet_NN to_TO reach_VB an_DT extraordinarily_RB broad_JJ range_NN of_IN creativity_NN that_IN never_RB would_MD have_VB been_VBN imagined_VBN before_RB ._. 
+Now_RB ,_, it_PRP 's_VBZ not_RB the_DT case_NN that_IN the_DT earlier_JJR extensions_NNS were_VBD not_RB questioned_VBN on_IN constitutional_JJ grounds_NNS ._. 
+In_IN fact_NN ,_, Melville_NNP Nimmer_NNP ,_, in_IN the_DT consideration_NN of_IN the_DT 1976_CD act_NN ,_, suggested_VBD they_PRP were_VBD plainly_RB under_IN --_: 
+Well_RB ,_, I_PRP 'm_VBP talking_VBG about_IN court_NN challenges_NNS ,_, not_RB academic_JJ challenges_NNS ._. 
+That_DT 's_VBZ right_NN ,_, there_EX is_VBZ no_DT court_NN challenge_NN ._. 
+Mr._NN 
+Lessig_NNP ,_, your_PRP$ theory_NN ,_, as_IN I_PRP understand_VBP it_PRP ,_, regardless_RB of_IN changed_VBN circumstances_NNS or_CC not_RB ,_, your_PRP$ basic_JJ theory_NN ,_, which_WDT on_IN your_PRP$ argument_NN would_MD have_VB been_VBN appropriate_JJ at_IN any_DT time_NN historically_RB ,_, is_VBZ that_IN there_RB has_VBZ at_IN least_JJS got_VBN to_TO be_VB the_DT possibility_NN of_IN a_DT kind_NN of_IN a_DT causal_NN connection_NN between_IN the_DT extension_NN and_CC the_DT promotion_NN or_CC inducement_NN for_IN the_DT creation_NN of_IN some_DT subsequent_JJ work_NN ,_, but_CC why_WRB is_VBZ that_IN any_DT more_RBR plausible_JJ a_DT reading_NN of_IN the_DT Promotion_NNP Clause_NN than_IN simply_RB a_DT reading_NN that_WDT says_VBZ the_DT Promotion_NNP Clause_NN requires_VBZ that_IN there_EX be_VB a_DT general_JJ scheme_NN in_IN place_NN ,_, which_WDT overall_JJ tends_VBZ to_TO promote_VB or_CC induce_VB ,_, and_CC part_NN of_IN one_CD aspect_NN of_IN that_DT scheme_NN can_MD be_VB that_IN the_DT --_: that_IN at_IN the_DT discretion_NN of_IN Congress_NNP the_DT period_NN of_IN protection_NN is_VBZ extended_VBN from_IN time_NN to_TO time_NN ?_. 
+Why_WRB do_VBP you_PRP require_VBP --_: why_WRB do_VBP you_PRP say_VBP the_DT clause_NN has_VBZ got_VBN to_TO be_VB read_VBN by_IN this_DT kind_NN of_IN specific_JJ causation_NN theory_NN as_IN opposed_VBN to_TO a_DT kind_NN of_IN systemic_JJ theory_NN of_IN promotion_NN ?_. 
+Justice_NNP Souter_NNP ,_, the_DT reason_NN is_VBZ exactly_RB related_VBN to_TO the_DT point_NN I_PRP began_VBD with_IN ,_, that_IN this_DT is_VBZ a_DT case_NN about_IN limits_NNS and_CC not_RB about_IN discretion_NN ._. 
+If_IN it_PRP 's_VBZ not_RB the_DT case_NN that_IN this_DT Court_NNP --_: 
+No_DT ,_, but_CC that_DT 's_VBZ --_: I_PRP mean_VBP ,_, that_DT 's_VBZ the_DT issue_NN in_IN the_DT alternative_JJ reading_NN ._. 
+That_DT 's_VBZ right_JJ ._. 
+And_CC why_WRB is_VBZ it_PRP a_DT limit_NN case_NN ,_, rather_RB than_IN a_DT discretion_NN within_IN a_DT general_JJ scheme_NN kind_NN --_: 
+That_DT 's_VBZ right_JJ ._. 
+--_: of_IN clause_NN ?_. 
+Because_IN if_IN this_DT Court_NNP does_VBZ not_RB adopt_VB a_DT reading_NN of_IN the_DT form_NN we_PRP 've_VBP offered_VBN ,_, then_RB there_EX is_VBZ no_DT limit_NN to_TO the_DT ability_NN of_IN Congress_NNP to_TO extend_VB subsisting_VBG terms_NNS ._. 
+Do_VBP you_PRP say_VB the_DT same_JJ thing_NN for_IN scope_NN ?_. 
+This_DT case_NN is_VBZ about_IN duration_NN ,_, but_CC Congress_NNP from_IN time_NN to_TO time_NN --_: in_IN fact_NN ,_, you_PRP mentioned_VBD --_: 
+Yes_UH ._. 
+--_: the_DT expanded_JJ applications_NNS of_IN copyright_NN ,_, and_CC Congress_NNP itself_PRP extends_VBZ the_DT scope_NN from_IN time_NN to_TO time_NN ._. 
+Would_MD you_PRP make_VB ,_, as_RB far_RB as_RB ,_, say_VB ,_, translation_NN rights_NNS that_WDT did_VBD n't_RB exist_VB before_RB ,_, the_DT same_JJ argument_NN ?_. 
+I_PRP --_: 
+Why_WRB --_: or_CC --_: and_CC if_IN you_PRP would_MD n't_RB ,_, why_WRB not_RB ?_. 
+I_PRP --_: no_DT ,_, Justice_NNP Ginsburg_NNP ,_, we_PRP would_MD not_RB ,_, and_CC the_DT reason_NN is_VBZ again_RB related_VBN to_TO the_DT method_NN we_PRP have_VBP adopted_VBN to_TO interpret_VB "_'' limited_JJ times_NNS ._. 
+"_'' We_PRP have_VBP not_RB said_VBN that_IN "_'' promote_VB the_DT progress_NN of_IN science_NN "_'' is_VBZ a_DT general_JJ and_CC independent_JJ constraint_NN on_IN the_DT Copyright_NNP Clause_NN authority_NN ._. 
+We_PRP 've_VBP said_VBN it_PRP must_MD be_VB looked_VBN to_TO to_TO interpret_VB the_DT scope_NN of_IN "_'' limited_JJ times_NNS ,_, "_'' and_CC unless_IN retrospective_NN extensions_NNS are_VBP forbidden_VBN ,_, it_PRP will_MD eviscerate_NN the_DT meaning_NN of_IN "_'' limited_JJ times_NNS ._. 
+"_'' That_DT does_VBZ not_RB occur_VB in_IN the_DT context_NN of_IN the_DT scope_NN of_IN exclusive_JJ right_NN ,_, nor_CC in_IN the_DT context_NN of_IN the_DT power_NN to_TO secure_VB ._. 
+If_IN that_DT 's_VBZ --_: 
+Could_MD we_PRP then_RB go_VBP back_RB to_TO Justice_NNP O_NNP '_POS Connor_NNP 's_POS question_NN ?_. 
+To_TO make_VB that_IN very_RB specific_JJ ,_, if_IN we_PRP agree_VBP with_IN you_PRP ,_, does_VBZ that_WDT mean_VBP that_IN we_PRP would_MD ,_, in_IN principle_NN ,_, have_VBP to_TO hold_VB the_DT 1976_CD extension_NN unconstitutional_JJ ?_. 
+I_PRP mean_VBP ,_, in_IN 1976_CD ,_, Congress_NNP extended_VBD the_DT term_NN from_IN 28_CD years_NNS renewable_JJ once_RB ,_, to_TO life_NN of_IN the_DT author_NN plus_CC 50_CD years_NNS ._. 
+Now_RB they_PRP 're_VBP extending_VBG it_PRP life_NN of_IN the_DT author_NN plus_CC 70_CD ._. 
+If_IN the_DT latter_NN is_VBZ unconstitutional_JJ on_IN your_PRP$ theory_NN ,_, how_WRB could_MD the_DT former_NN not_RB be_VB ?_. 
+And_CC if_IN the_DT former_NN is_VBZ ,_, the_DT chaos_NN that_WDT would_MD ensue_VB would_MD be_VB horrendous_JJ ._. 
+Justice_NNP Breyer_NNP ,_, under_IN our_PRP$ theory_NN as_IN we_PRP 've_VBP advanced_VBN it_PRP ,_, you_PRP 're_VBP right_NN ;_: the_DT 1976_CD act_NN would_MD be_VB unconstitutional_JJ ._. 
+Whether_IN this_DT Court_NNP would_MD apply_VB such_PDT a_DT holding_VBG in_IN this_DT case_NN to_TO that_DT act_NN is_VBZ a_DT question_NN that_WDT would_MD have_VB to_TO be_VB resolved_VBN under_IN the_DT retrospective_NN --_: 
+Maybe_RB we_PRP ought_MD to_TO find_VB another_DT theory_NN ,_, then_RB ._. 
+Is_VBZ there_EX any_DT --_: 
+Justice_NNP ,_, the_DT theory_NN ,_, which_WDT would_MD advance_VB the_DT aim_NN of_IN limiting_VBG times_NNS in_IN a_DT way_NN that_WDT is_VBZ enforceable_JJ ,_, is_VBZ only_RB applicable_JJ in_IN the_DT case_NN that_IN we_PRP brought_VBD before_IN you_PRP here_RB to_TO the_DT '_POS 98_CD act_NN ,_, and_CC would_MD not_RB necessarily_RB be_VB applicable_JJ under_IN the_NNP '_POS 76_CD act_NN for_IN the_DT reasons_VBZ the_DT Government_NNP has_VBZ offered_VBN ._. 
+We_PRP would_MD not_RB advance_VB this_DT argument_NN ,_, but_CC the_DT Government_NNP has_VBZ offered_VBN an_DT argument_NN in_IN a_DT parallel_JJ case_NN that_WDT suggests_VBZ a_DT distinction_NN between_IN the_NNP '_POS 76_CD act_NN and_CC this_DT case_NN ._. 
+That_DT 's_VBZ not_RB been_VBN briefed_VBN here_RB ._. 
+It_PRP 's_VBZ been_VBN grounded_VBN in_IN their_PRP$ claim_NN that_IN the_DT treaty_NN power_NN creates_VBZ some_DT special_JJ power_NN ._. 
+We_PRP would_MD n't_RB advance_VB that_DT claim_NN ,_, but_CC the_DT point_NN is_VBZ there_EX are_VBP a_DT number_NN of_IN issues_NNS that_IN the_NNP '_POS 76_CD act_NN --_: 
+In_IN essence_NN ,_, you_PRP think_VBP it_PRP 's_VBZ at_IN least_JJS arguable_JJ that_IN the_NNP '_POS 76_CD act_NN had_VBD various_JJ positive_JJ aspects_NNS to_TO it_PRP in_IN terms_NNS of_IN the_DT purpose_NN of_IN the_DT Copyright_NNP Clause_NN that_IN this_DT act_NN lacks_VBZ ?_. 
+That_DT 's_VBZ certainly_RB true_JJ ,_, and_CC we_PRP also_RB believe_VBP that_IN ,_, for_IN the_DT reasons_NNS averted_VBN to_TO by_IN amicus_JJ AOL_NNP in_IN this_DT case_NN and_CC the_DT reasons_NNS you_PRP 've_VBP just_RB suggested_VBN ,_, the_DT disruption_NN in_IN that_DT context_NN under_IN the_DT retrospectivity_NN cases_NNS Ryder_NNP and_CC Reynoldsville_NNP Casket_NNP Company_NNP would_MD be_VB sufficient_JJ to_TO fit_VB it_PRP within_IN the_DT ,_, quote_NN ,_, "_'' severe_JJ disruption_NN exception_NN "_'' to_TO the_DT retrospectivity_NN ._. 
+Well_RB ,_, I_PRP suppose_VBP implicit_JJ in_IN the_DT argument_NN that_IN the_NNP '_POS 76_CD act_NN ,_, too_RB ,_, should_MD have_VB been_VBN declared_VBN void_NN ,_, and_CC that_IN we_PRP might_MD leave_VB it_PRP alone_RB because_IN of_IN the_DT disruption_NN ,_, is_VBZ that_IN for_IN all_PDT these_DT years_NNS the_DT act_NN has_VBZ impeded_VBN progress_NN in_IN science_NN and_CC the_DT useful_JJ arts_NNS ._. 
+I_PRP just_RB do_VBP n't_RB see_VB any_DT empirical_JJ evidence_NN for_IN that_DT ._. 
+Justice_NNP ,_, we_PRP are_VBP not_RB making_VBG an_DT empirical_JJ claim_NN at_IN all_DT ._. 
+Nothing_NN in_IN our_PRP$ Copyright_NNP Clause_NN claim_NN hangs_VBZ upon_IN the_DT empirical_JJ assertion_NN about_IN impeding_VBG progress_NN ._. 
+Our_PRP$ only_RB argument_NN is_VBZ ,_, this_DT is_VBZ a_DT structural_JJ limit_NN necessary_JJ to_TO assure_VB that_IN what_WP would_MD be_VB an_DT effectively_RB perpetual_JJ term_NN not_RB be_VB permitted_VBN under_IN the_DT copyright_NN laws_NNS ._. 
+Well_RB ,_, perhaps_RB I_PRP misunderstood_VBN ._. 
+I_PRP thought_VBD the_DT whole_JJ thrust_NN of_IN your_PRP$ is_VBZ a_DT great_JJ First_CD Amendment_NNP force_NN silenced_VBN ,_, that_DT 's_VBZ being_VBG thwarted_VBN ._. 
+Well_RB ,_, the_DT thrust_NN certainly_RB --_: 
+I_PRP thought_VBD that_DT 's_VBZ the_DT whole_JJ underpinning_VBG of_IN your_PRP$ case_NN ._. 
+It_PRP 's_VBZ certainly_RB the_DT case_NN that_IN we_PRP are_VBP asserting_VBG ,_, in_IN light_NN of_IN the_DT changed_JJ circumstances_NNS ,_, that_IN the_DT opportunity_NN to_TO build_VB upon_IN works_VBZ within_IN the_DT public_JJ domain_NN is_VBZ a_DT fundamental_JJ First_CD Amendment_NNP interest_NN ,_, and_CC that_IN the_DT First_CD Amendment_NNP values_NNS ,_, vital_JJ speech_NN interest_NN at_IN stake_NN of_IN this_DT case_NN ,_, is_VBZ that_IN the_DT public_JJ domain_NN be_VB permitted_VBN as_IN a_DT source_NN for_IN cultivating_VBG work_NN about_IN our_PRP$ culture_NN without_IN unnecessary_JJ legal_JJ restriction_NN ._. 
+Well_RB ,_, but_CC you_PRP want_VBP more_JJR than_IN that_DT ._. 
+You_PRP want_VBP the_DT right_NN to_TO copy_VB verbatim_JJ other_JJ people_NNS 's_POS books_NNS ,_, do_VBP n't_RB you_PRP ?_. 
+We_PRP want_VBP the_DT right_NN to_TO copy_VB verbatim_JJ works_NNS that_WDT should_MD be_VB in_IN the_DT public_JJ domain_NN and_CC would_MD be_VB in_IN the_DT public_JJ domain_NN but_CC for_IN a_DT statute_NN that_WDT can_MD not_RB be_VB justified_JJ under_IN ordinary_JJ First_CD Amendment_NNP analysis_NN or_CC under_IN a_DT proper_JJ reading_NN of_IN the_DT limits_NNS built_VBN into_IN the_DT Copyright_NNP 16_CD Clause_NN ._. 
+Mr._NN Lessig_NNP ,_, on_IN your_PRP$ First_CD Amendment_NNP argument_NN I_PRP do_VBP n't_RB see_VB where_WRB the_DT retroactivity-prospectivity_JJ comes_VBZ in_IN ,_, because_IN --_: I_PRP follow_VBP your_PRP$ argument_NN under_IN the_DT Copyright_NNP Clause_NN ,_, but_CC if_IN you_PRP 're_VBP saying_VBG that_IN the_DT time_NN is_VBZ too_RB long_JJ ,_, the_DT public_JJ domain_NN should_MD get_VB this_DT stuff_NN sooner_RBR rather_RB than_IN later_RB ,_, would_MD you_PRP explain_VB to_TO me_PRP how_WRB your_PRP$ prospectivity-retrospective_JJ line_NN fits_VBZ into_IN your_PRP$ First_CD Amendment_NNP claim_NN ?_. 
+MR_NNP ._. LESSIG_NNP :_: Justice_NNP ,_, we_PRP 've_VBP argued_VBN that_IN it_PRP would_MD be_VB inappropriate_JJ in_IN this_DT case_NN for_IN the_DT Court_NNP to_TO consider_VB the_DT prospective_JJ line_NN until_IN they_PRP decide_VBP whether_IN the_DT case_NN ,_, whether_IN the_DT prospective_JJ and_CC retrospective_NN is_VBZ severable_JJ ,_, and_CC we_PRP submit_VBP it_PRP 's_VBZ an_DT easy_JJ case_NN to_TO show_VB that_IN it_PRP 's_VBZ not_RB ._. 
+On_IN the_DT First_CD Amendment_NNP --_: 
+Yes_UH ._. 
+--_: argument_NN you_PRP 're_VBP making_VBG that_IN as_IN ,_, I_PRP take_VBP it_PRP ,_, an_DT argument_NN independent_JJ of_IN ,_, it_PRP does_VBZ n't_RB hang_VB on_IN your_PRP$ Copyright_NNP Clause_NN argument_NN ._. 
+That_DT 's_VBZ right_JJ ._. 
+I_PRP --_: 
+That_DT 's_VBZ right_JJ ._. 
+And_CC so_RB let_VB 's_POS just_RB take_NN --_: let_VB 's_POS say_NN that_WDT was_VBD your_PRP$ only_RB argument_NN in_IN this_DT case_NN ._. 
+How_WRB does_VBZ that_WDT tie_NN into_IN a_DT retrospective-prospective_JJ distinction_NN ?_. 
+Well_RB ,_, the_DT strongest_JJS First_CD Amendment_NNP argument_NN is_VBZ about_IN the_DT retrospective_NN extension_NN ,_, because_IN of_IN a_DT fundamental_JJ change_NN that_WDT occurs_VBZ when_WRB Congress_NNP extends_VBZ subsisting_VBG copyrights_NNS ,_, rather_RB than_IN when_WRB Congress_NNP legislates_NNS prospectively_RB ._. 
+When_WRB Congress_NNP legislates_NNS prospectively_RB ,_, it_PRP has_VBZ no_DT way_NN to_TO know_VB who_WP 's_VBZ going_VBG to_TO benefit_VB from_IN its_PRP$ extension_NN ._. 
+It_PRP is_VBZ simply_RB evaluating_VBG what_WP the_DT term_NN should_MD be_VB prospectively_RB in_IN a_DT way_NN that_IN we_PRP presume_NN this_DT Court_NNP should_MD presume_NN is_VBZ legitimate_JJ under_IN the_DT First_CD Amendment_NNP ._. 
+When_WRB it_PRP legislates_NNS retrospectively_RB ,_, it_PRP is_VBZ ,_, in_IN effect_NN ,_, looking_VBG at_IN particular_JJ authors_NNS and_CC estates_NNS of_IN authors_NNS who_WP are_VBP before_IN Congress_NNP asking_VBG for_IN this_DT extension_NN ,_, and_CC it_PRP 's_VBZ choosing_VBG between_IN these_DT particular_JJ authors_NNS and_CC the_DT public_NN at_IN large_JJ ._. 
+Now_RB ,_, it_PRP may_MD be_VB that_IN in_IN exercising_VBG that_DT choice_NN in_IN this_DT case_NN ,_, Congress_NNP made_VBD an_DT objective_NN valuation_NN of_IN who_WP would_MD be_VB in_IN the_DT best_JJS position_NN to_TO advance_VB the_DT interests_NNS of_IN promoting_VBG the_DT progress_NN of_IN science_NN ,_, or_CC any_DT original_JJ --_: 
+But_CC you_PRP --_: under_IN your_PRP$ intermediate_JJ scrutiny_NN test_NN we_PRP would_MD not_RB be_VB hypothesizing_VBG what_WP might_MD have_VB been_VBN in_IN Congress_NNP 's_POS mind_NN ._. 
+Your_PRP$ First_CD Amendment_NNP test_NN is_VBZ a_DT stringent_JJ one_CD ._. 
+You_PRP have_VBP to_TO have_VB an_DT important_JJ purpose_NN ,_, and_CC the_DT means_NNS that_IN you_PRP use_VBP is_VBZ necessarily_RB tied_VBN to_TO that_DT purpose_NN ._. 
+If_IN you_PRP take_VBP that_DT position_NN ,_, I_PRP do_VBP n't_RB see_VB how_WRB you_PRP make_VBP the_DT retroactive-prospective_JJ line_NN work_NN ._. 
+Well_RB ,_, the_DT line_NN comes_VBZ from_IN deciding_VBG what_WP the_DT First_CD Amendment_NNP interest_NN is_VBZ ,_, and_CC if_IN this_DT Court_NNP heed_NN the_DT First_CD Amendment_NNP interest_NN off_RP of_IN this_DT difference_NN between_IN selecting_VBG who_WP gets_VBZ the_DT benefit_NN of_IN 20_CD years_NNS of_IN extension_NN and_CC just_RB simply_RB legislating_NN in_IN a_DT general_JJ way_NN prospectively_RB ,_, then_RB this_DT Court_NNP could_MD hold_VB ,_, with_IN respect_NN to_TO the_DT prospective_JJ ,_, that_IN it_PRP 's_VBZ not_RB even_RB necessary_JJ to_TO raise_VB the_DT intermediate_JJ scrutiny_NN in_IN that_DT context_NN ,_, but_CC again_RB ,_, for_IN Ashwander_NNP reasons_NNS we_PRP do_VBP n't_RB think_VB that_IN this_DT Court_NNP should_MD address_VB the_DT prospective_JJ aspect_NN of_IN the_DT CTEA_NNP even_RB under_IN the_DT First_CD Amendment_NNP ._. 
+Even_RB though_IN Congress_NNP 's_POS pattern_NN has_VBZ been_VBN to_TO treat_VB all_DT authors_NNS equally_RB ?_. 
+I_PRP mean_VBP ,_, the_DT reason_NN that_IN it_PRP 's_VBZ been_VBN prospective_JJ and_CC retrospective_NN is_VBZ that_IN people_NNS should_MD be_VB ,_, people_NNS who_WP hold_VBP copyrights_NNS should_MD be_VB subject_JJ to_TO the_DT same_JJ regime_NN and_CC not_RB have_VB some_DT people_NNS who_WP got_VBD their_PRP$ copyrights_NNS the_DT week_NN before_IN the_DT law_NN passed_VBN treated_VBN differently_RB than_IN people_NNS who_WP got_VBD it_PRP the_DT week_NN after_IN ._. 
+Well_RB ,_, Justice_NNP ,_, that_WDT certainly_RB is_VBZ the_DT reason_NN the_DT Government_NNP offers_VBZ for_IN this_DT pattern_NN ._. 
+It_PRP ,_, of_IN course_NN ,_, does_VBZ n't_RB explain_VB actually_RB what_WP Congress_NNP has_VBZ done_VBN and_CC ,_, even_RB in_IN this_DT case_NN ,_, when_WRB a_DT work_NN has_VBZ passed_VBN into_IN the_DT public_JJ domain_NN ,_, then_RB there_EX is_VBZ precisely_RB the_DT same_JJ week_NN before_IN /_NN week_NN after_IN problem_NN that_IN you_PRP advert_NN to_TO ,_, that_DT extension_NN does_VBZ not_RB extend_VB to_TO all_DT subsisting_VBG works_VBZ ,_, it_PRP only_RB extends_VBZ to_TO all_DT subsisting_VBG copyrights_NNS ._. 
+So_RB that_DT line_NN is_VBZ already_RB drawn_VBN in_IN the_DT practice_NN that_IN Congress_NNP has_VBZ adopted_VBN ,_, but_CC our_PRP$ point_NN is_VBZ ,_, the_DT only_JJ way_NN to_TO assure_VB --_: 
+But_CC Congress_NNP has_VBZ --_: or_CC ,_, you_PRP 're_VBP not_RB disputing_VBG that_IN Congress_NNP has_VBZ always_RB made_VBN these_DT extensions_NNS ,_, both_DT retroactive_JJ and_CC prospective_JJ ?_. 
+Well_RB ,_, in_IN 1831_CD it_PRP did_VBD not_RB ._. 
+In_IN 1831_CD it_PRP granted_VBD the_DT benefit_NN of_IN its_PRP$ extension_NN to_TO a_DT subset_NN of_IN all_DT subsisting_VBG copyright_NN holders_NNS ._. 
+Let_VB 's_POS stick_VB with_IN 1976_CD ._. 
+In_IN 1976_CD --_: 
+Because_IN that_DT was_VBD what_WP you_PRP said_VBD --_: that_DT 's_VBZ --_: the_DT pattern_NN under_IN the_DT CTEA_NNP is_VBZ identical_JJ to_TO the_DT one_CD in_IN the_NNP '_POS 76_CD act_NN ._. 
+That_DT 's_VBZ absolutely_RB right_NN ,_, yes_UH ._. 
+So_IN they_PRP have_VBP extended_VBN it_PRP to_TO both_DT ._. 
+But_CC our_PRP$ argument_NN is_VBZ ,_, unless_IN this_DT Court_NNP draws_VBZ a_DT line_NN about_IN this_DT extension_NN ,_, then_RB for_IN the_DT reasons_VBZ Judge_NNP Sentelle_NNP suggested_VBD below_IN ,_, there_EX will_MD be_VB no_DT limit_NN to_TO Congress_NNP 's_POS ability_NN to_TO --_: 
+Judge_NNP Sentelle_NNP did_VBD not_RB deal_VB with_IN the_DT First_CD Amendment_NNP ,_, as_RB far_RB as_IN I_PRP --_: 
+That_DT 's_VBZ right_JJ ._. 
+--_: recall_VB ._. 
+That_DT 's_VBZ right_JJ ._. 
+And_CC so_IN I_PRP 'm_VBP asking_VBG you_PRP --_: perhaps_RB I_PRP 'm_VBP missing_VBG it_PRP ._. 
+I_PRP have_VBP n't_RB seen_VBN where_WRB you_PRP get_VBP the_DT prospective-retrospective_JJ in_IN connection_NN with_IN your_PRP$ First_CD Amendment_NNP ._. 
+It_PRP seems_VBZ that_IN you_PRP 're_VBP just_RB saying_VBG there_RB that_IN 70_CD years_NNS is_VBZ an_DT unreasonable_JJ --_: is_VBZ not_RB necessary_JJ ._. 
+Yes_UH ._. 
+And_CC it_PRP does_VBZ n't_RB serve_VB an_DT important_JJ purpose_NN ._. 
+Precisely--actually_NNP ,_, we_PRP 're_VBP not_RB saying_VBG anything_NN about_IN the_DT 70_CD years_NNS in_IN this_DT case_NN even_RB under_IN the_DT First_CD Amendment_NNP ,_, because_IN we_PRP believe_VBP it_PRP 's_VBZ unseverable_JJ ,_, but_CC --_: 
+But_CC I_PRP thought_VBD you_PRP were_VBD saying_VBG that_IN if_IN you_PRP accept_VBP the_DT Copyright_NNP Clause_NN argument_NN ,_, then_RB you_PRP have_VBP a_DT way_NN ,_, in_IN effect_NN ,_, of_IN devaluing_VBG the_DT Government_NNP 's_POS claim_NN of_IN its_PRP$ important_JJ interest_NN and_CC important_JJ objective_NN when_WRB you_PRP get_VBP to_TO the_DT First_CD Amendment_NNP intermediate_JJ scrutiny_NN analysis_NN ._. 
+Whereas_IN if_IN you_PRP do_VBP n't_RB accept_VB the_DT Copyright_NNP Clause_NN claim_NN ,_, then_RB ,_, in_IN order_NN to_TO make_VB the_DT First_CD Amendment_NNP analysis_NN we_PRP 've_VBP simply_RB got_VBN to_TO say_VB ,_, well_RB ,_, gee_NN ,_, is_VBZ the_DT promotion_NN of_IN useful_JJ art_NN and_CC so_RB on_IN more_RBR important_JJ than_IN the_DT public_JJ domain_NN ,_, and_CC can_MD we_PRP say_VB that_IN that_DT allows_VBZ a_DT distinction_NN between_IN 50_CD years_NNS and_CC 70_CD years_NNS ?_. 
+We_PRP 're_VBP pretty_RB much_JJ at_IN sea_NN ,_, so_IN I_PRP thought_VBD your_PRP$ Copyright_NNP Clause_NN argument_NN was_VBD necessary_JJ to_TO give_VB us_PRP some_DT handle_VB with_IN which_WDT to_TO deal_VB with_IN the_DT First_CD Amendment_NNP ._. 
+Our_PRP$ Copyright_NNP Clause_NN argument_NN is_VBZ certainly_RB a_DT way_NN of_IN framing_VBG why_WRB extensions_NNS of_IN subsisting_VBG terms_NNS can_MD not_RB be_VB seen_VBN to_TO promote_VB the_DT First_CD Amendment_NNP interest_NN of_IN speech_NN at_IN all_DT ._. 
+Okay_UH ._. 
+Let_VB 's_POS assume_VB we_PRP do_VBP n't_RB --_: for_IN the_DT sake_NN of_IN argument_NN here_RB ,_, let_VB 's_POS assume_VB we_PRP do_VBP n't_RB accept_VB the_DT Copyright_NNP Clause_NN argument_NN ._. 
+Do_VBP you_PRP have_VB an_DT independent_JJ First_CD Amendment_NNP argument_NN in_IN your_PRP$ brief_JJ ?_. 
+Yes_UH ,_, of_IN course_NN we_PRP do_VBP ._. 
+Okay_UH ,_, and_CC it_PRP is_VBZ --_: tell_VB me_PRP in_IN a_DT sentence_NN or_CC two_CD what_WP it_PRP is_VBZ ._. 
+I_PRP mean_VBP ,_, at_IN that_DT point_NN I_PRP 'm_VBP where_WRB Justice_NNP Ginsburg_NNP is_VBZ ._. 
+Yes_UH ._. 
+The_DT First_CD Amendment_NNP argument_NN we_PRP 've_VBP argued_VBN in_IN our_PRP$ brief_JJ is_VBZ with_IN respect_NN to_TO the_DT retrospective_NN extension_NN ,_, and_CC the_DT First_CD Amendment_NNP argument_NN is_VBZ ,_, that_WDT needs_VBZ to_TO --_: 
+No_DT ,_, but_CC that_DT 's_VBZ the_DT Copyright_NNP Clause_NN argument_NN ,_, and_CC it_PRP seems_VBZ to_TO me_PRP you_PRP 're_VBP saying_VBG ,_, okay_JJ ,_, we_PRP then_RB apply_VBP that_IN in_IN First_CD Amendment_NNP analysis_NN ,_, which_WDT allows_VBZ us_PRP to_TO make_VB a_DT coherent_JJ intermediate_JJ scrutiny_NN argument_NN ._. 
+If_IN we_PRP do_VBP n't_RB accept_VB the_DT Copyright_NNP Clause_NN retrospectivity_NN argument_NN --_: 
+Yes_UH ._. 
+--_: then_RB what_WP is_VBZ your_PRP$ First_CD Amendment_NNP argument_NN ?_. 
+That_DT 's_VBZ right_NN ,_, I_PRP 'm_VBP sorry_JJ ,_, Justice_NNP ._. 
+What_WP I_PRP 'm_VBP saying_NN is_VBZ not_RB that_IN it_PRP 's_VBZ the_DT retrospectivity_NN that_WDT makes_VBZ the_DT First_CD Amendment_NNP argument_NN troubling_JJ --_: I_PRP mean_VBP ,_, that_IN drives_VBZ our_PRP$ First_CD Amendment_NNP argument_NN ._. 
+All_DT I_PRP 'm_VBP saying_VBG is_VBZ ,_, we_PRP have_VBP addressed_VBN the_DT retrospective_NN portion_NN of_IN CTEA_NNP ,_, and_CC so_IN I_PRP 'm_VBP saying_VBG in_IN the_DT retrospective_NN portion_NN of_IN CTEA_NNP you_PRP would_MD apply_VB ordinary_JJ ,_, intermediate_JJ First_CD Amendment_NNP review_NN ,_, and_CC you_PRP would_MD ask_VB --_: 
+Well_RB ,_, this_DT Court_NNP really_RB has_VBZ not_RB --_: if_IN you_PRP say_VBP that_IN the_DT Copyright_NNP Clause_NN is_VBZ not_RB violated_VBN ,_, I_PRP do_VBP n't_RB think_VB there_EX are_VBP examples_NNS where_WRB this_DT Court_NNP has_VBZ then_RB resorted_JJ to_TO First_CD Amendment_NNP analysis_NN to_TO invalidate_NN the_DT same_JJ act_NN ._. 
+Well_RB --_: 
+I_PRP mean_VBP ,_, this_DT would_MD be_VB quite_RB a_DT new_JJ proposition_NN ._. 
+Well_RB ,_, Justice_NNP O_NNP '_POS Connor_NNP ,_, the_DT First_CD Amendment_NNP is_VBZ always_RB an_DT independent_JJ limitation_NN on_IN what_WP otherwise_RB would_MD be_VB legitimate_JJ exercises_NNS of_IN congressional_JJ authority_NN ,_, so_IN this_DT --_: 
+Yes_UH ,_, but_CC the_DT Framers_NNP seem_VBP adopted_VBN these_DT two_CD things_NNS at_IN the_DT same_JJ time_NN --_: 
+That_DT 's_VBZ right_JJ ._. 
+--_: in_IN effect_NN ._. 
+That_DT 's_VBZ right_NN ,_, and_CC if_IN --_: 
+And_CC I_PRP think_VBP there_EX are_VBP not_RB to_TO have_VB examples_NNS that_IN I_PRP can_MD think_VB of_IN where_WRB we_PRP have_VBP said_VBN ,_, well_RB ,_, we_PRP 'll_MD analyze_VB it_PRP under_IN the_DT Copyright_NNP Clause_NN ,_, but_CC if_IN that_DT fails_VBZ we_PRP 'll_MD turn_RB to_TO the_DT First_CD Amendment_NNP ._. 
+Justice_NNP ,_, that_DT 's_VBZ right_JJ ._. 
+If_IN only_RB we_PRP had_VBD the_DT Framers_NNP '_POS copyright_NN before_IN us_PRP ,_, because_IN of_IN course_NN ,_, again_RB remember_VB ,_, the_DT exclusive_JJ right_NN the_DT Framers_NNP spoke_VBD of_IN was_VBD the_DT right_NN to_TO print_VB and_CC publish_VB ._. 
+It_PRP did_VBD n't_RB include_VB the_DT derivative_JJ rights_NNS ,_, it_PRP did_VBD n't_RB include_VB the_DT display_NN rights_NNS ,_, and_CC it_PRP certainly_RB --_: 
+Right_RB ._. 
+It_PRP has_VBZ expanded_VBN very_RB much_RB ,_, and_CC they_PRP also_RB envisioned_VBN a_DT very_RB short_JJ term_NN ,_, and_CC I_PRP can_MD find_VB a_DT lot_NN of_IN fault_NN with_IN what_WP Congress_NNP did_VBD here_RB --_: 
+That_DT 's_VBZ right_JJ ._. 
+--_: because_IN it_PRP does_VBZ take_VB a_DT lot_NN of_IN things_NNS out_IN of_IN the_DT public_JJ domain_NN that_IN one_PRP would_MD think_VB that_DT someone_NN in_IN Congress_NNP would_MD want_VB to_TO think_VB hard_RB about_IN ._. 
+That_DT 's_VBZ right_JJ ._. 
+But_CC having_VBG done_VBN that_IN ,_, it_PRP 's_VBZ very_RB difficult_JJ to_TO find_VB the_DT basis_NN in_IN the_DT Constitution_NNP for_IN saying_VBG it_PRP is_VBZ n't_RB a_DT limited_JJ term_NN ._. 
+It_PRP 's_VBZ longer_JJR than_IN one_PRP might_MD think_VB desirable_JJ --_: 
+Right_RB ._. 
+--_: but_CC is_VBZ it_PRP not_RB limited_JJ ?_. 
+Well_RB ,_, if_IN it_PRP is_VBZ limited_VBN ,_, then_RB there_EX is_VBZ no_DT limit_NN to_TO the_DT ability_NN of_IN Congress_NNP to_TO extend_VB subsisting_VBG terms_NNS ,_, and_CC that_WDT fundamentally_RB destroys_VBZ the_DT objective_NN that_IN the_DT --_: 
+The_DT rule_NN against_IN perpetuities_NNS might_MD jump_VB in_IN there_RB at_IN some_DT point_NN ._. 
+Right_RB ,_, and_CC we_PRP submit_VBP the_DT Framers_NNP had_VBD something_NN very_RB different_JJ in_IN mind_NN than_IN the_DT rule_NN against_IN perpetuities_NNS ._. 
+The_DT point_NN is_VBZ ,_, if_IN this_DT is_VBZ permitted_VBN ,_, then_RB there_EX is_VBZ no_DT limit_NN to_TO the_DT ability_NN to_TO extend_VB terms_NNS ,_, and_CC that_DT is_VBZ precisely_RB contrary_JJ to_TO what_WP the_DT Framers_NNP had_VBD in_IN mind_NN when_WRB they_PRP worried_VBD about_IN this_DT problem_NN originally_RB ._. 
+What_WP was_VBD the_DT problem_NN they_PRP were_VBD solving_VBG ?_. 
+It_PRP was_VBD ,_, as_IN this_DT Court_NNP stated_VBD in_IN Graham_NNP --_: 
+Well_RB ,_, I_PRP could_MD agree_VB with_IN you_PRP ,_, in_IN terms_NNS of_IN policy_NN ,_, that_IN this_DT flies_VBZ directly_RB in_IN the_DT face_NN of_IN what_WP the_DT Framers_NNP had_VBD in_IN mind_NN ,_, absolutely_RB ._. 
+But_CC does_VBZ it_PRP violate_VBP the_DT Constitution_NNP ?_. 
+Well_RB ,_, if_IN it_PRP flies_VBZ in_IN the_DT face_NN of_IN what_WP the_DT Framers_NNP had_VBD in_IN mind_NN ,_, then_RB the_DT question_NN is_VBZ ,_, is_VBZ there_EX a_DT way_NN of_IN interpreting_VBG their_PRP$ words_NNS that_WDT gives_VBZ effect_NN to_TO what_WP they_PRP had_VBD in_IN mind_NN ,_, and_CC the_DT answer_NN is_VBZ yes_UH ._. 
+Well_RB ,_, you_PRP know_VBP ,_, certainly_RB what_WP is_VBZ happening_VBG in_IN the_DT country_NN today_NN in_IN the_DT way_NN of_IN congressional_JJ --_: under_IN the_DT Commerce_NNP Clause_NN is_VBZ totally_RB different_JJ than_IN what_WP the_DT Framers_NNP had_VBD in_IN mind_NN ,_, but_CC we_PRP 've_VBP never_RB felt_VBN that_IN that_DT was_VBD the_DT criterion_NN ._. 
+What_WP the_DT Framers_NNP thought_VBD of_IN ,_, there_EX were_VBD n't_RB steamboats_NNS ,_, there_EX were_VBD n't_RB railroads_NNS ._. 
+That_DT 's_VBZ right_JJ ._. 
+We_PRP 've_VBP said_VBN there_EX was_VBD a_DT general_JJ grant_NN ,_, and_CC that_IN Congress_NNP was_VBD free_JJ to_TO run_VB with_IN it_PRP in_IN many_JJ respects_VBZ ._. 
+In_IN many_JJ respects_NNS ,_, Mr._NN Chief_NNP Justice_NNP ,_, but_CC ,_, as_IN this_DT Court_NNP has_VBZ also_RB said_VBN ,_, there_EX are_VBP limits_NNS to_TO what_WP Congress_NNP can_MD do_VB under_IN the_DT Commerce_NNP Clause_NN ._. 
+But_CC is_VBZ n't_RB --_: 
+Can_MD I_PRP ask_VB you_PRP about_IN one_CD of_IN the_DT limits_NNS ,_, just_RB focusing_VBG on_IN the_DT Copyright_NNP Clause_NN and_CC the_DT progress_NN of_IN science_NN and_CC useful_JJ arts_NNS ?_. 
+In_IN your_PRP$ view_NN ,_, does_VBZ that_IN --_: is_VBZ that_IN limited_VBN to_TO encouraging_VBG creativity_NN by_IN authors_NNS and_CC inventors_NNS ,_, or_CC does_VBZ it_PRP also_RB include_VBP the_DT distribution_NN of_IN materials_NNS that_WDT might_MD not_RB otherwise_RB be_VB distributed_VBN ,_, like_IN old_JJ films_NNS and_CC so_RB forth_RB ?_. 
+We_PRP 're_VBP happy_JJ to_TO adopt_VB a_DT broader_JJR interpretation_NN of_IN what_WP promote_VB the_DT progress_NN is_VBZ about_IN ,_, within_IN the_DT general_JJ framework_NN that_IN the_DT Framers_NNP established_VBD in_IN light_NN of_IN the_DT English_NNP practice_NN ,_, which_WDT was_VBD a_DT quid_NN pro_FW quo_NN ._. 
+The_DT ability_NN to_TO facilitate_VB distribution_NN --_: 
+So_RB that_IN if_IN the_DT quid_NN pro_FW quo_NN is_VBZ that_IN we_PRP can_MD facilitate_VB distribution_NN of_IN some_DT old_JJ film_NN by_IN an_DT additional_JJ monopoly_NN grant_NN ,_, you_PRP 'd_MD think_VB that_DT 's_VBZ permissible_NN ?_. 
+So_RB long_RB as_IN the_DT grant_NN is_VBZ conditioned_VBN upon_IN the_DT distribution_NN ._. 
+So_RB long_RB as_IN the_DT grant_NN --_: 
+In_IN other_JJ words_NNS you_PRP could_MD have_VB --_: right_RB now_RB ,_, if_IN Congress_NNP decides_VBZ to_TO have_VB a_DT law_NN ,_, and_CC this_DT law_NN is_VBZ going_VBG to_TO give_VB copyrights_NNS in_IN 1_CD )_) the_DT Bible_NNP ,_, 2_CD )_) Shakespeare_NNP ,_, 3_CD )_) Ben_NNP Jonson_NNP ,_, and_CC the_DT reason_NN they_PRP do_VBP it_PRP is_VBZ that_IN they_PRP think_VBP that_IN that_DT would_MD lead_VB publishers_NNS to_TO produce_VB those_DT and_CC distribute_VB them_PRP ,_, and_CC they_PRP 're_VBP right_NN ,_, they_PRP will_MD ,_, okay_JJ ?_. 
+In_IN your_PRP$ view_NN ,_, that_DT 's_VBZ perfectly_RB constitutional_JJ ?_. 
+No_DT ,_, that_DT 's_VBZ the_DT view_NN of_IN the_DT Government_NNP 's_POS ,_, Justice_NNP Breyer_NNP ._. 
+My_PRP$ view_NN is_VBZ --_: 
+Well_RB ,_, I_PRP thought_VBD that_WDT was_VBD the_DT question_NN you_PRP were_VBD getting_VBG ,_, and_CC I_PRP thought_VBD you_PRP were_VBD saying_VBG --_: I_PRP must_MD have_VB misunderstood_VBN ._. 
+I_PRP thought_VBD you_PRP were_VBD saying_VBG that_WDT was_VBD constitutional_JJ ._. 
+No._NN 
+What_WP we_PRP were_VBD saying_VBG is_VBZ ,_, if_IN Congress_NNP wants_VBZ to_TO permit_VB restoration_NN of_IN films_NNS ,_, for_IN example_NN ,_, an_DT issue_NN that_WDT 's_VBZ been_VBN well_RB briefed_VBN here_RB ,_, Congress_NNP can_MD say_VB ,_, if_IN you_PRP restore_VB the_DT film_NN ,_, then_RB the_DT restoration_NN gets_VBZ a_DT copyright_NN so_RB long_RB as_IN it_PRP satisfies_VBZ originality_NN as_IN outlined_VBN in_IN Feist_NNP ,_, and_CC it_PRP gets_VBZ a_DT copyright_NN for_IN a_DT period_NN of_IN time_NN ._. 
+But_CC this_DT Court_NNP 's_POS opinion_NN in_IN Graham_NNP and_CC in_IN Feist_NNP made_VBD clear_JJ that_IN it_PRP could_MD not_RB extend_VB copyrights_NNS to_TO works_VBZ in_IN the_DT public_JJ domain_NN ._. 
+The_DT Government_NNP does_VBZ n't_RB concede_VB that_IN ,_, but_CC we_PRP stand_VBP on_IN that_DT as_IN a_DT way_NN of_IN understanding_NN why_WRB this_DT Court_NNP --_: 
+So_RB your_PRP$ answer_NN to_TO Justice_NNP Stevens_NNP is_VBZ no_DT ,_, they_PRP can_MD not_RB give_VB a_DT copyright_NN purely_RB for_IN purposes_NNS of_IN dissemination_NN to_TO publishers_NNS ,_, is_VBZ that_DT right_NN ?_. 
+No._NN 
+Oh_UH ,_, all_DT right_JJ ._. 
+They_PRP can_MD not_RB give_VB a_DT copyright_NN purely_RB for_IN purposes_NNS of_IN distribution_NN to_TO publishers_NNS ._. 
+(_( They_PRP would_MD need_VB to_TO satisfy_VB all_DT of_IN the_DT implied_JJ limitations_NNS that_IN this_DT Court_NNP has_VBZ expressed_VBN in_IN the_DT context_NN of_IN this_DT ,_, the_DT most_RBS carefully_RB limited_JJ clause_NN in_IN Article_NNP I_PRP ,_, section_NN 8_CD ._. 
+It_PRP is_VBZ one_CD of_IN the_DT --_: 
+Mr._NN Lessig_NNP ,_, the_DT clause_NN says_VBZ ,_, Congress_NNP shall_MD ,_, and_CC suppose_VB Congress_NNP decides_VBZ in_IN this_DT expanded_JJ world_NN of_IN ours_PRP that_IN it_PRP 's_VBZ going_VBG to_TO make_VB certain_JJ changes_NNS and_CC other_JJ changes_NNS from_IN our_PRP$ treaty_NN partners_NNS ._. 
+Suppose_VB it_PRP well_RB ,_, the_DT Germans_NNPS led_VBD the_DT fight_NN for_IN 70_CD years_NNS in_IN the_DT European_NNP Union_NNP ,_, we_PRP 'll_MD go_VB with_IN that_DT ,_, but_CC we_PRP 're_VBP going_VBG demand_NN says_VBZ ,_, fair_JJ use_NN ._. 
+Now_RB ,_, why_WRB could_MD n't_RB that_WDT fit_VB within_IN the_DT promotion_NN of_IN knowledge_NN ?_. 
+Justice_NNP Ginsburg_NNP ,_, we_PRP have_VBP no_DT quarrel_VB with_IN the_DT objective_NN of_IN harmonization_NN fitting_JJ within_IN the_DT "_'' promote_VB the_DT progress_NN of_IN science_NN "_'' understanding_NN subject_JJ to_TO constitutional_JJ limitations_NNS ._. 
+If_IN France_NNP adopted_VBD a_DT rule_NN that_WDT said_VBD you_PRP could_MD n't_RB grant_VB copyrights_NNS to_TO hate_VB speech_NN ,_, we_PRP could_MD not_RB harmonize_NN with_IN that_DT rule_NN consistent_JJ with_IN our_PRP$ First_CD Amendment_NNP and_CC similarly_RB ,_, as_IN Mary_NNP Beth_NNP Peters_NNP testified_VBD before_IN Congress_NNP ,_, ours_PRP is_VBZ the_DT only_RB Constitution_NNP that_WDT has_VBZ an_DT express_JJ limitation_NN on_IN terms_NNS ._. 
+That_DT 's_VBZ got_VBD to_TO mean_VB something_NN ,_, and_CC if_IN it_PRP means_VBZ that_IN we_PRP are_VBP limited_VBN in_IN our_PRP$ ability_NN to_TO agree_VB with_IN the_DT Europeans_NNPS as_IN they_PRP continually_RB expand_VBP the_DT term_NN in_IN light_NN of_IN their_PRP$ own_JJ vision_NN of_IN what_WP copyright_NN is_VBZ about_IN ,_, then_RB that_DT 's_VBZ the_DT meaning_NN of_IN a_DT constitutional_JJ restriction_NN ._. 
+This_DT Court_NNP 's_POS interpretation_NN of_IN "_'' limited_JJ times_NNS "_'' could_MD ,_, of_IN course_NN ,_, eviscerate_NN that_DT term_NN of_IN any_DT meaning_NN ,_, but_CC under_IN the_DT principle_NN of_IN enumeration_NN as_IN this_DT Court_NNP has_VBZ articulated_JJ it_PRP ,_, this_DT Court_NNP should_MD interpret_VB that_DT clause_NN in_IN a_DT way_NN that_WDT gives_VBZ its_PRP$ terms_NNS effect_NN in_IN a_DT simple_JJ way_NN ._. 
+Just_RB as_IN a_DT limited_JJ addition_NN print_NN is_VBZ not_RB a_DT limited_JJ --_: is_VBZ not_RB limited_JJ if_IN each_DT time_NN a_DT customer_NN comes_VBZ in_IN a_DT new_JJ print_NN is_VBZ printed_VBN ,_, so_RB ,_, too_RB ,_, a_DT limited_JJ term_NN is_VBZ not_RB limited_JJ if_IN each_DT time_NN copyright_NN holders_NNS come_VBP to_TO Congress_NNP they_PRP can_MD extend_VB the_DT term_NN ._. 
+That_DT 's_VBZ right_JJ ._. 
+The_DT analogy_NN does_VBZ n't_RB seem_VB to_TO work_VB ._. 
+That_DT 's_VBZ right_JJ ._. 
+All_DT that_IN I_PRP 'm_VBP suggesting_VBG is_VBZ ,_, here_RB is_VBZ a_DT plain_JJ meaning_NN of_IN the_DT term_NN that_WDT gives_VBZ effect_NN to_TO the_DT constitutional_JJ limit_NN in_IN a_DT way_NN that_WDT assures_VBZ that_IN ,_, in_IN fact_NN ,_, the_DT limit_NN is_VBZ respected_VBN ,_, contrary_JJ to_TO the_DT Government_NNP 's_POS argument_NN ,_, which_WDT ,_, in_IN effect_NN ,_, permits_VBZ Congress_NNP the_DT power_NN perpetually_RB to_TO extend_VB terms_NNS ._. 
+If_IN I_PRP may_MD reserve_VB the_DT remainder_NN of_IN my_PRP$ time_NN ._. 
+Very_RB well_RB ,_, Mr._NN Lessig_NNP ._. 
+General_NNP Olson_NNP ,_, we_PRP 'll_MD hear_VB from_IN you_PRP ._. 
+ORAL_NNP ARGUMENT_NNP OF_IN THEODORE_NNP B._NN OLSON_NNP ON_NNP BEHALF_NNP OF_IN THE_DT RESPONDENT_NNP 
+
+Mr._NN Chief_NNP Justice_NNP ,_, and_CC may_MD it_PRP please_VB the_DT Court_NNP :_: The_DT questions_NNS today_NN ,_, especially_RB the_DT initial_JJ questions_NNS ,_, suggest_VBP one_CD of_IN the_DT many_JJ insurmountable_JJ obstacles_NNS to_TO petitioners_NNS '_POS petition_NN in_IN ,_, position_NN in_IN this_DT case_NN ._. 
+That_DT is_VBZ that_IN the_DT first_JJ Congress_NNP explicitly_RB gave_VBD copyright_NN protection_NN to_TO the_DT authors_NNS of_IN any_DT books_NNS already_RB printed_VBN as_RB well_RB as_IN explicitly_RB the_DT owners_NNS of_IN existing_VBG copyrights_NNS ._. 
+Thereafter_RB ,_, in_IN 1831_CD ,_, 1909_CD ,_, 1976_CD ,_, and_CC 1998_CD ,_, and_CC in_IN numerous_JJ private_JJ copyright_NN bills_NNS and_CC temporary_JJ extensions_NNS of_IN the_DT copyright_NN law_NN and_CC in_IN repeated_VBN patent_NN law_NN revisions_NNS ,_, Congress_NNP extended_VBD the_DT terms_NNS of_IN Federal_NNP copyright_NN and_CC patent_NN protection_NN of_IN subsisting_VBG works_VBZ ._. 
+As_IN this_DT Court_NNP explained_VBD 100_CD and_CC some_DT years_NNS ago_RB in_IN its_PRP$ Burrows-_NNP Giles_NNP opinion_NN ,_, such_JJ constructions_NNS are_VBP accorded_VBN very_RB great_JJ weight_NN and_CC ,_, as_IN that_DT Court_NNP went_VBD on_IN to_TO say_VB ,_, when_WRB consistent_JJ and_CC unchallenged_JJ for_IN over_IN a_DT century_NN are_NN almost_RB conclusive_JJ that_IN consistent_JJ construction_NN by_IN Congress_NNP of_IN its_PRP$ authority_NN under_IN the_DT Copyright_NNP and_CC Patent_NNP Clause_NN now_RB has_VBZ lasted_VBN from_IN the_DT 105th_CD --_: from_IN the_DT first_JJ through_IN the_DT 105th_CD Congress_NNP ._. 
+It_PRP has_VBZ been_VBN sustained_VBN by_IN Justices_NNPS of_IN this_DT Court_NNP and_CC early_JJ decisions_NNS of_IN this_DT Court_NNP ._. 
+It_PRP is_VBZ consistent_JJ with_IN what_WP the_DT law_NN of_IN England_NNP was_VBD from_IN the_DT Statute_NNP of_IN Anne_NNP --_: 
+Yes_UH ,_, but_CC take_VB one_CD of_IN the_DT early_JJ extensions_NNS ,_, just_RB extending_VBG a_SYM --_: an_DT already_RB granted_VBN patent_NN to_TO an_DT inventor_NN for_IN an_DT extra_JJ 10_CD years_NNS ._. 
+How_WRB can_MD that_WDT be_VB squared_VBN with_IN the_DT language_NN of_IN the_DT provision_NN ?_. 
+Maybe_RB Congress_NNP did_VBD it_PRP ,_, but_CC maybe_RB it_PRP acted_VBD improperly_RB when_WRB it_PRP did_VBD it_PRP ._. 
+Well_RB ,_, the_DT Congress_NNP --_: 
+And_CC that_DT 's_VBZ our_PRP$ question_NN ,_, really_RB ._. 
+Well_RB ,_, that_IN --_: it_PRP seems_VBZ to_TO me_PRP that_IN there_EX may_MD be_VB --_: this_DT is_VBZ --_: the_DT clause_NN itself_PRP is_VBZ a_DT very_RB ,_, very_RB broad_JJ grant_NN ._. 
+It_PRP says_VBZ the_DT --_: 
+Do_VBP you_PRP view_VBP it_PRP as_IN entirely_RB a_DT grant_NN ,_, or_CC do_VBP you_PRP think_VBP it_PRP also_RB contains_VBZ limitations_NNS ?_. 
+Well_RB ,_, I_PRP think_VBP that_IN to_TO the_DT extent_NN that_IN there_EX may_MD be_VB limitations_NNS ,_, Justice_NNP Stevens_NNP ,_, they_PRP are_VBP --_: require_VB considerable_JJ deference_NN by_IN this_DT Court_NNP to_TO the_DT judgment_NN of_IN Congress_NNP --_: 
+Well_RB ,_, I_PRP understand_VBP that_RB ,_, but_CC do_VBP you_PRP --_: I_PRP 'd_MD be_VB interested_JJ in_IN knowing_VBG ,_, do_VBP you_PRP think_VBP it_PRP does_VBZ contain_VB limitations_NNS ?_. 
+It_PRP contains_VBZ --_: the_DT clause_NN itself_PRP contains_VBZ limitations_NNS ,_, limited_JJ times_NNS ,_, authors_NNS ,_, exclusive_JJ rights_NNS and_CC things_NNS of_IN that_DT nature_NN ._. 
+I_PRP do_VBP n't_RB think_VB --_: and_CC the_DT petitioners_NNS expressly_RB disclaim_NN the_DT assertion_NN that_IN any_DT substantive_JJ limitations_NNS in_IN the_DT "_'' Promote_NNP the-_NN Clause_NN ._. 
+What_WP the_DT Framers_NNP were_VBD saying_VBG is_VBZ ,_, we_PRP want_VBP to_TO give_VB Congress_NNP the_DT authority_NN to_TO promote_VB the_DT progress_NN of_IN useful_JJ arts_NNS and_CC sciences_NNS ,_, and_CC --_: 
+How_WRB did_VBD the_DT example_NN we_PRP just_RB talked_VBD about_IN ,_, a_DT patentee_NN giving_VBG an_DT extra_JJ 10_CD years_NNS on_IN his_PRP$ --_: how_WRB does_VBZ that_WDT promote_VBP the_DT progress_NN of_IN science_NN ?_. 
+Well_RB ,_, it_PRP may_MD provide_VB additional_JJ incentives_NNS for_IN the_DT patentee_NN to_TO exploit_VB and_CC promote_VB and_CC disseminate_VB that_IN particular_JJ work_NN ._. 
+With_IN respect_NN to_TO creative_JJ works_NNS like_IN works_NNS of_IN art_NN ,_, books_NNS and_CC that_DT sort_NN of_IN thing_NN ,_, it_PRP 20_CD patentee_NN ,_, that_IN there_EX was_VBD a_DT bargain_NN in_IN effect_NN between_IN the_DT inventor_NN and_CC the_DT Government_NNP that_IN at_IN a_DT certain_JJ period_NN of_IN time_NN it_PRP would_MD become_VB part_NN of_IN the_DT public_JJ domain_NN ._. 
+It_PRP seems_VBZ to_TO me_PRP it_PRP 's_VBZ inconsistent_JJ with_IN that_DT ._. 
+I_PRP 'm_VBP just_RB concentrating_VBG on_IN our_PRP$ and_CC I_PRP 'm_VBP wondering_VBG how_WRB that_WDT fits_VBZ into_IN the_DT notion_NN 
+It_PRP is_VBZ n't_RB inconsistent_JJ ,_, I_PRP submit_VBP ,_, Justice_NNP Stevens_NNP ,_, for_IN the_DT Congress_NNP to_TO exercise_VB its_PRP$ juris_NNS --_: its_PRP$ responsibility_NN under_IN this_DT broad_JJ grant_NN of_IN power_NN to_TO determine_VB that_IN there_EX could_MD be_VB many_JJ ways_NNS in_IN which_WDT the_DT holder_NN of_IN an_DT existing_VBG right_NN may_MD benefit_VB the_DT public_NN by_IN continuing_VBG to_TO have_VB that_DT right_NN for_IN an_DT additional_JJ period_NN of_IN time_NN ,_, the_DT same_JJ reason_NN that_IN Congress_NNP --_: same_JJ reasons_NNS that_IN Congress_NNP had_VBD when_WRB it_PRP created_VBD the_DT right_NN in_IN the_DT first_JJ place_NN ._. 
+It_PRP 's_VBZ not_RB just_RB the_DT right_NN --_: 
+No_DT ,_, the_DT reason_NN for_IN the_DT right_NN in_IN the_DT first_JJ place_NN was_VBD to_TO encourage_VB invention_NN ._. 
+Well_RB ,_, but_CC I_PRP --_: we_PRP submit_VBP that_IN specifically_RB with_IN respect_NN to_TO the_DT Copyright_NNP Clause_NN ,_, but_CC I_PRP think_VBP it_PRP applies_VBZ to_TO the_DT patent_NN portion_NN of_IN the_DT clause_NN at_IN all_DT ,_, it_PRP is_VBZ n't_RB just_RB the_DT invention_NN ,_, it_PRP is_VBZ n't_RB just_RB the_DT writing_NN of_IN the_DT work_NN --_: and_CC this_DT relates_VBZ to_TO the_DT questions_NNS that_WDT were_VBD asked_VBN of_IN my_PRP$ colleague_NN a_DT moment_NN ago_RB ._. 
+It_PRP includes_VBZ the_DT dissemination_NN of_IN the_DT work_NN ,_, not_RB necessarily_RB --_: 
+Dissemination_NNP alone_RB ?_. 
+Not_RB necessarily_RB the_DT dissemination_NN alone_RB --_: 
+Well_RB ,_, no_DT ,_, not_RB --_: do_VBP n't_RB say_VB not_RB necessarily_RB ._. 
+I_PRP 'm_VBP --_: for_IN purposes_NNS of_IN my_PRP$ thinking_VBG about_IN it_PRP ,_, I_PRP 'd_MD like_VB to_TO know_VB ,_, imagine_VB we_PRP have_VBP just_RB dissemination_NN ._. 
+That_DT something_NN is_VBZ already_RB in_IN the_DT 
+That_DT 's_VBZ correct_JJ ._. 
+The_DT only_JJ justification_NN for_IN the_DT extension_NN ,_, there_EX is_VBZ no_DT other_JJ ,_, is_VBZ dissemination_NN of_IN a_DT work_NN that_WDT is_VBZ already_RB in_IN existence_NN ._. 
+I_PRP would_MD not_RB want_VB to_TO rule_VB that_IN out_IN ,_, Justice_NNP Breyer_NNP ,_, for_IN the_DT very_JJ reason_NN --_: 
+Well_RB ,_, I_PRP want_VBP to_TO say_VB ,_, do_VBP you_PRP think_VBP yes_UH or_CC no_UH ?_. 
+Well_RB ,_, I_PRP think_VBP that_IN it_PRP could_MD very_RB well_RB be_VB yes_UH ,_, for_IN the_DT reason_NN that_IN in_IN the_DT 1790_CD statute_NN the_DT Congress_NNP specifically_RB was_VBD aware_JJ of_IN --_: that_IN there_EX were_VBD State_NNP copyright_NN laws_NNS which_WDT did_VBD n't_RB last_JJ as_IN long_RB as_IN the_DT Federal_NNP statute_NN ._. 
+Several_JJ of_IN the_DT States_NNPS had_VBD n't_RB finished_VBN enacting_VBG those_DT copyright_NN laws_NNS ,_, and_CC a_DT couple_NN of_IN States_NNPS had_VBD n't_RB enacted_VBN them_PRP at_IN all_DT ._. 
+So_RB in_IN your_PRP$ opinion_NN ,_, in_IN my_PRP$ example_NN ,_, if_IN you_PRP recall_VBP it_PRP --_: 
+It_PRP 's_VBZ --_: 
+--_: your_PRP$ answer_NN would_MD be_VB ,_, if_IN Congress_NNP tomorrow_NN wants_VBZ to_TO give_VB a_DT copyright_NN to_TO a_DT publisher_NN solely_RB for_IN the_DT purpose_NN of_IN reproducing_VBG and_CC disseminating_VBG Ben_NNP Jonson_NNP ,_, Shakespeare_NNP ,_, it_PRP can_MD do_VB it_PRP ?_. 
+It_PRP may_MD --_: 
+I_PRP hate_VBP to_TO say_VB may_MD --_: 
+Well_RB --_: 
+--_: because_IN that_DT really_RB --_: that_DT 's_VBZ an_DT important_JJ question_NN ._. 
+Well_RB ,_, because_IN I_PRP do_VBP n't_RB think_VB that_IN a_DT per_IN --_: I_PRP do_VBP n't_RB think_VB there_EX is_VBZ a_DT per_IN se_FW rule_NN that_WDT should_MD apply_VB here_RB because_IN this_DT is_VBZ a_DT grant_NN of_IN Congress_NNP ,_, to_TO Congress_NNP to_TO exercise_VB its_PRP$ judgment_NN as_IN to_TO what_WP may_MD be_VB beneficial_JJ ._. 
+There_EX may_MD be_VB other_JJ constitutional_JJ provisions_NNS that_WDT come_VBP into_IN play_NN ,_, or_CC there_EX may_MD be_VB other_JJ existing_VBG --_: 
+All_DT right_NN ,_, let_VB me_PRP explain_VB to_TO you_PRP why_WRB it_PRP 's_VBZ important_JJ to_TO me_PRP ._. 
+I_PRP have_VBP a_DT list_NN ._. 
+This_DT is_VBZ an_DT economic_JJ statute_NN ._. 
+The_DT harms_VBZ that_WDT seem_VBP to_TO be_VB caused_VBN by_IN it_PRP ,_, the_DT extension_NN ,_, I_PRP 've_VBP listed_VBN as_IN follows_VBZ ,_, approximate_JJ numbers_NNS ,_, made_VBD up_RP ,_, but_CC magnitude_NN correct_JJ ._. 
+The_DT existing_VBG copyright_NN holders_NNS who_WP survive_VBP ,_, their_PRP$ copyright_NN survives_VBZ 70_CD years_NNS ,_, who_WP have_VBP already_RB been_VBN paid_VBN ,_, on_IN the_DT numbers_NNS that_WDT were_VBD given_VBN ,_, about_IN $24_NN billion_CD or_CC more_JJR ,_, will_MD receive_VB an_DT extra_JJ $6_NN billion_CD ._. 
+That_DT ,_, I_PRP take_VBP it_PRP ,_, is_VBZ a_DT harm_NN ._. 
+Their_PRP$ works_NNS have_VBP already_RB been_VBN created_VBN ._. 
+Harm_NNP number_NN 2_CD ._. 
+The_DT fact_NN that_IN people_NNS ,_, for_IN the_DT 99_CD percent_NN of_IN the_DT copyrights_NNS that_WDT have_VBP no_DT commercial_JJ value_NN after_IN 70_CD years_NNS ,_, have_VBP to_TO find_VB the_DT copyright_NN holder_NN to_TO put_VB them_PRP in_IN databases_NNS ._. 
+The_DT cost_NN of_IN that_DT ,_, on_IN my_PRP$ numbers_NNS in_IN here_RB ,_, made_VBD up_RP ,_, at_IN least_JJS a_DT billion_CD dollars_NNS ,_, or_CC they_PRP ca_MD n't_RB find_VB the_DT people_NNS at_IN all_DT and_CC get_VB permission_NN ,_, an_DT innumerable_JJ cost_NN ,_, un_NN --_: valuable_JJ cost_NN to_TO people_NNS who_WP want_VBP to_TO use_VB it_PRP ._. 
+Those_DT are_VBP costs_NNS ._. 
+On_IN the_DT plus_CC side_VB I_PRP see_VBP uniformity_NN ,_, dissemination_NN ,_, and_CC --_: now_RB ,_, you_PRP tell_VBP me_PRP ._. 
+Well_RB ,_, I_PRP also_RB see_VBP compliance_NN with_IN international_JJ competitive_JJ markets_NNS and_CC the_DT laws_NNS that_WDT are_VBP being_VBG adopted_VBN ,_, and_CC the_DT incentives_NNS --_: 
+Uniformity_NNP ._. 
+That_DT 's_VBZ uniformity_NN ._. 
+Well_RB ,_, that_DT 's_VBZ not_RB just_RB uniformity_NN ._. 
+It_PRP 's_VBZ providing_VBG incentive_NN to_TO people_NNS to_TO publish_VB here_RB ,_, as_IN opposed_VBN to_TO publish_VB in_IN Europe_NNP ,_, where_WRB longer_JJR terms_NNS might_MD be_VB available_JJ ._. 
+There_EX is_VBZ an_DT incentive_NN to_TO distribute_VB existing_VBG works_VBZ that_WDT may_MD be_VB necessary_JJ ._. 
+It_PRP 's_VBZ the_DT consistency_NN that_IN Congress_NNP is_VBZ promoting_VBG by_IN saying_VBG to_TO individuals_NNS ,_, as_IN they_PRP might_MD have_VB said_VBN when_WRB they_PRP enacted_VBD the_DT Copyright_NNP Clause_NN in_IN the_DT first_JJ place_NN ,_, we_PRP will_MD not_RB only_RB give_VB you_PRP 14_CD years_NNS ,_, but_CC if_IN we_PRP change_VBP our_PRP$ mind_NN tomorrow_NN ,_, and_CC think_VBP that_IN a_DT better_JJR ,_, a_DT longer_JJR period_NN is_VBZ necessary_JJ ,_, we_PRP 're_VBP --_: this_DT is_VBZ consistency_NN ,_, but_CC it_PRP 's_VBZ also_RB a_DT matter_NN of_IN fairness_NN ,_, and_CC it_PRP 's_VBZ --_: 
+Why_WRB --_: on_IN the_DT last_JJ point_NN ,_, it_PRP 's_VBZ --_: I_PRP 've_VBP counted_VBN that_IN as_IN zero_CD ._. 
+The_DT reason_NN I_PRP 've_VBP counted_VBN it_PRP as_IN zero_CD is_VBZ it_PRP seems_VBZ to_TO me_PRP that_IN the_DT added_JJ value_NN ,_, incentive_NN value_NN to_TO produce_VB between_IN life_NN plus_CC 50_CD ,_, or_CC life_NN plus_CC 70_CD ,_, is_VBZ zero_CD ._. 
+It_PRP 's_VBZ carried_VBD out_IN ,_, as_IN the_DT economists_NNS do_VBP ,_, to_TO three_CD decimal_JJ points_NNS ,_, divide_VBP by_IN 100_CD for_IN the_DT probability_NN of_IN your_PRP$ ever_RB having_VBG such_JJ a_DT work_NN ,_, and_CC you_PRP get_VBP virtually_RB zero_CD ,_, no_DT difference_NN between_IN this_DT and_CC a_DT perpetual_JJ copyright_NN ._. 
+Well_RB ,_, I_PRP think_VBP that_IN that_DT 's_VBZ a_DT very_RB good_JJ illustration_NN of_IN why_WRB the_DT authority_NN is_VBZ granted_VBN to_TO Congress_NNP ,_, because_IN if_IN you_PRP are_VBP an_DT 80_CD -_: year-old_JJ writer_NN ,_, that_WDT may_MD make_VB a_DT considerable_JJ difference_NN in_IN terms_NNS of_IN what_WP you_PRP decide_VBP to_TO do_VB ._. 
+How_WRB could_MD it_PRP ?_. 
+It_PRP may_MD --_: because_IN you_PRP may_MD --_: if_IN you_PRP have_VBP no_DT incentive_NN ,_, if_IN you_PRP know_VBP that_WDT go_VBP into_IN the_DT public_JJ domain_NN sooner_RBR rather_RB affect_VB your_PRP$ judgment_NN with_IN respect_NN to_TO --_: 
+In_IN --_: I_PRP --_: this_DT is_VBZ going_VBG to_TO than_IN later_RB ,_, it_PRP may_MD 
+It_PRP might_MD also_RB publisher_NN --_: what_WP the_DT publisher_NN pays_VBZ for_IN your_PRP$ prospective_JJ work_NN ,_, Justice_NNP Breyer_NNP ._. 
+We_PRP --_: the_DT Copyright_NNP Clause_NN incentive_NN provides_VBZ incentives_NNS not_RB just_RB for_IN --_: not_RB just_RB to_TO the_DT creators_NNS ,_, but_CC to_TO the_DT disseminators_NNS ,_, the_DT publishers_NNS ,_, the_DT broadcasters_NNS ,_, the_DT film_NN companies_NNS ._. 
+So_IN you_PRP think_VBP ,_, say_VB ,_, Verdi_NNP ,_, Othello_NNP ,_, Verdi_NNP ,_, Othello_NNP ,_, 80_CD years_NNS old_JJ ,_, the_DT prospect_NN of_IN an_DT extra_JJ 20_CD years_NNS way_NN down_RP the_DT pike_NN would_MD have_VB made_VBN a_DT difference_NN ?_. 
+Well_RB ,_, I_PRP think_VBP again_RB that_WDT illustrates_VBZ why_WRB the_DT authority_NN is_VBZ vested_VBN in_IN Congress_NNP to_TO make_VB these_DT judgments_NNS rather_RB than_IN in_IN courts_NNS to_TO make_VB these_DT affect_NN whether_IN the_DT judgments_NNS ,_, because_IN we_PRP 're_VBP not_RB talking_VBG about_IN the_DT effect_NN on_IN an_DT individual_JJ author_NN ,_, or_CC an_DT individual_JJ creator_NN ._. 
+What_WP the_DT Framers_NNP of_IN the_DT Constitution_NNP were_VBD concerned_VBN about_IN is_VBZ a_DT gross_JJ judgment_NN with_IN respect_NN to_TO what_WP might_MD generally_RB provide_VB incentives_NNS to_TO the_DT population_NN --_: 
+But_CC it_PRP is_VBZ hard_JJ to_TO understand_VB how_WRB ,_, if_IN the_DT overall_JJ purpose_NN of_IN the_DT Copyright_NNP Clause_NN is_VBZ to_TO encourage_VB creative_JJ work_NN ,_, how_WRB some_DT retroactive_JJ extension_NN could_MD possibly_RB do_VB that_DT ._. 
+I_PRP --_: one_CD wonders_VBZ what_WP was_VBD in_IN the_DT principle_NN 13_CD difficult_JJ principle_NN given_VBN to_TO Congress_NNP and_CC has_VBZ been_VBN exercised_VBN so_RB repeatedly_RB out_IN there_RB that_WDT would_MD ever_RB kick_VB in_RP ?_. 
+Well_RB ,_, that_DT 's_VBZ a_SYM --_: that_DT is_VBZ a_DT question_NN to_TO say_VB whether_IN there_EX is_VBZ any_DT limiting_VBG when_WRB such_JJ a_DT broad_JJ grant_NN of_IN power_NN ,_, authority_NN is_VBZ that_IN --_: 
+Well_RB ,_, if_IN it_PRP 's_VBZ a_DT limited_JJ term_NN ,_, as_IN the_DT Constitution_NNP says_VBZ ,_, is_VBZ there_EX indeed_RB any_DT limit_NN out_IN there_RB ?_. 
+What_WP I_PRP submit_VBP --_: well_RB ,_, first_NN of_IN all_DT ,_, even_RB the_DT petitioners_NNS acknowledge_VBP that_IN ,_, as_RB far_RB as_IN prospective_JJ limits_NNS are_VBP concerned_VBN ,_, that_WDT is_VBZ n't_RB a_DT judgment_NN that_IN this_DT Court_NNP is_VBZ being_VBG made_VBN to_TO ask_VB and_CC ,_, in_IN fact_NN ,_, the_DT petitioners_NNS acknowledge_VBP that_IN it_PRP is_VBZ n't_RB a_DT judgment_NN that_IN this_DT Court_NNP should_MD make_VB ,_, so_IN the_DT only_JJ point_NN that_IN the_DT petitioners_NNS --_: 
+Well_RB ,_, if_IN Congress_NNP says_VBZ we_PRP 're_VBP going_VBG to_TO grant_VB this_DT copyright_NN indefinitely_RB ,_, forever_RB --_: 
+That_DT would_MD seem_VB --_: 
+--_: that_DT violates_VBZ the_DT limited_JJ term_NN ,_, does_VBZ it_PRP not_RB ?_. 
+I_PRP acknowledge_VBP that_IN ._. 
+And_CC anything_NN that_IN --_: 
+In_IN Victorian_JJ England_NNP you_PRP could_MD buy_VB a_DT box_NN seat_NN for_IN 900_CD years_NNS ._. 
+There_EX was_VBD serene_JJ complacency_NN about_IN their_PRP$ culture_NN ,_, and_CC God_NNP bless_VB them_PRP ,_, but_CC --_: 
+--_: I_PRP really_RB think_VBP this_DT is_VBZ an_DT important_JJ question_NN and_CC ,_, as_IN Justice_NNP O_NNP '_POS Connor_NNP points_NNS out_IN ,_, if_IN we_PRP have_VBP to_TO ask_VB what_WP 's_VBZ the_DT most_RBS plausible_JJ explanation_NN for_IN this_DT rule_NN ,_, to_TO reward_VB existing_VBG vested_JJ interest_NN or_CC to_TO stimulate_VB former_JJ new_JJ works_NNS ,_, it_PRP seems_VBZ to_TO me_PRP that_IN it_PRP 's_VBZ probably_RB the_DT former_NN ._. 
+Well_RB --_: 
+I_PRP mean_VBP ,_, we_PRP know_VBP that_IN ._. 
+It_PRP is_VBZ --_: well_RB ,_, it_PRP --_: let_VB me_PRP say_VBP with_IN respond_NN --_: in_IN response_NN to_TO both_DT of_IN those_DT questions_NNS ,_, an_DT unlimited_JJ time_NN would_MD violate_VB the_DT Copyright_NNP Clause_NN ._. 
+Something_NN that_WDT was_VBD the_DT functional_JJ equivalent_NN of_IN an_DT unlimited_JJ time_NN would_MD violate_VB the_DT Copyright_NNP Clause_NN ,_, but_CC the_DT Framers_NNP specifically_RB did_VBD not_RB put_VB in_IN numbers_NNS ._. 
+They_PRP had_VBD the_DT opportunity_NN to_TO do_VB that_DT ._. 
+Thomas_NNP Jefferson_NNP suggested_VBD that_IN a_DT number_NN should_MD be_VB put_VBN in_IN ._. 
+We_PRP submit_VBP that_IN it_PRP would_MD be_VB --_: even_RB --_: since_IN the_DT petitioners_NNS do_VBP n't_RB suggest_VB that_IN it_PRP 's_VBZ an_DT appropriate_JJ function_NN of_IN this_DT Court_NNP ,_, certainly_RB in_IN this_DT case_NN ,_, to_TO pick_VB a_DT number_NN ,_, 133_CD years_NNS or_CC something_NN of_IN that_DT nature_NN ,_, but_CC it_PRP is_VBZ quite_RB clear_JJ that_IN Congress_NNP from_IN the_DT Statute_NNP of_IN Anne_NNP ,_, 1710_CD ,_, we_PRP have_VBP 300_CD years_NNS of_IN history_NN ,_, of_IN Congress_NNP thinking_VBG that_IN it_PRP continues_VBZ to_TO benefit_VB the_DT process_NN ,_, not_RB just_RB of_IN the_DT productivity_NN ,_, of_IN the_DT creation_NN of_IN the_DT work_NN itself_PRP ,_, but_CC the_DT dissemination_NN of_IN it_PRP to_TO provide_VB --_: 
+General_NNP Olson_NNP ,_, you_PRP say_VBP that_IN the_DT functional_JJ equivalent_NN of_IN an_DT unlimited_JJ time_NN would_MD be_VB a_DT violation_NN ,_, but_CC that_DT 's_VBZ precisely_RB the_DT argument_NN that_WDT 's_VBZ being_VBG made_VBN by_IN petitioners_NNS here_RB ,_, that_IN a_DT limited_JJ time_NN which_WDT is_VBZ extendable_JJ is_VBZ the_DT functionable_JJ ,_, functional_JJ equivalent_NN of_IN an_DT unlimited_JJ time_NN ,_, a_DT limited_JJ time_NN that_IN 10_CD years_NNS from_IN now_RB can_MD be_VB extended_VBN ,_, and_CC then_RB extended_VBN again_RB ,_, and_CC extended_VBD again_RB ._. 
+Why_WRB --_: their_PRP$ argument_NN is_VBZ precisely_RB that_RB ,_, a_DT limited_JJ time_NN does_VBZ n't_RB mean_VB anything_NN unless_IN it_PRP means_VBZ ,_, once_RB you_PRP have_VBP established_VBN the_DT limit_NN for_IN works_VBZ that_WDT have_VBP been_VBN created_VBN under_IN that_DT limit_NN ,_, that_DT 's_VBZ the_DT end_NN ._. 
+Well_RB ,_, the_DT Framers_NNP had_VBD an_DT opportunity_NN to_TO say_VB immutable_JJ ,_, unalterable_JJ ,_, unamendable_JJ ._. 
+They_PRP did_VBD n't_RB use_VB that_IN ._. 
+They_PRP used_VBD the_DT phrase_NN ,_, limited_JJ term_NN ,_, which_WDT means_VBZ then_RB ,_, meant_VBD then_RB and_CC means_VBZ now_RB ,_, a_DT certain_JJ specified_VBN --_: 
+Okay_UH ,_, assuming_VBG --_: 
+--_: number_NN of_IN years_NNS under_IN the_DT 5_CD statute_NN ._. 
+With_IN the_DT exception_NN of_IN a_DT limitation_NN which_WDT illustrates_VBZ the_DT distinction_NN between_IN forever_RB on_IN the_DT one_CD hand_NN and_CC a_DT definite_JJ number_NN on_IN the_DT other_JJ ,_, is_VBZ there_EX any_DT limitation_NN in_IN the_DT clause_NN ?_. 
+Does_VBZ the_DT promotion_NN ,_, does_VBZ the_DT preambular_NN recitation_NN of_IN promotion_NN as_IN such_JJ place_NN a_DT limit_NN on_IN it_PRP ?_. 
+I_PRP submit_VBP ,_, Justice_NNP Souter_NNP ,_, that_IN there_EX 's_VBZ no_DT per_IN se_FW limitation_NN ,_, that_IN if_IN there_EX is_VBZ ,_, as_IN Justice_NNP Scalia_NNP suggested_VBD ,_, for_IN --_: if_IN it_PRP is_VBZ true_JJ that_IN Congress_NNP ,_, having_VBG specified_VBN 14_CD years_NNS or_CC 28_CD years_NNS ,_, decides_VBZ that_WDT does_VBZ n't_RB work_VB very_RB well_RB because_IN of_IN the_DT economies_NNS of_IN other_JJ countries_NNS ,_, the_DT parade_NN of_IN constraints_NNS on_IN artists_NNS in_IN other_JJ countries_NNS ,_, the_DT reasons_NNS that_IN we_PRP want_VBP things_NNS to_TO be_VB preserved_VBN or_CC distributed_VBN ,_, it_PRP should_MD be_VB 2_CD more_JJR years_NNS ,_, or_CC 5_CD more_JJR years_NNS later_RB --_: 
+Yes_UH ,_, but_CC that_DT argument_NN would_MD apply_VB to_TO new_JJ copyrights_NNS ,_, but_CC to_TO extension_NN of_IN already_RB existing_VBG copyrights_NNS your_PRP$ argument_NN does_VBZ n't_RB apply_VB ._. 
+It_PRP does_VBZ apply_VB ,_, Justice_NNP Stevens_NNP ,_, because_IN --_: 
+The_DT work_NN has_VBZ already_RB been_VBN created_VBN ._. 
+The_DT work_NN has_VBZ already_RB been_VBN created_VBN ,_, but_CC the_DT artists_NNS that_WDT are_VBP creating_VBG works_VBZ day_NN in_IN and_CC day_NN out_IN take_NN into_IN consideration_NN the_DT fact_NN that_IN Congress_NNP has_VBZ decided_VBN ,_, there_EX 's_VBZ an_DT ease_NN of_IN administration_NN --_: 
+But_CC for_IN them_PRP ,_, they_PRP get_VBP the_DT benefit_NN of_IN the_DT longer_JJR term_NN if_IN you_PRP do_VBP n't_RB apply_VB it_PRP to_TO an_DT existing_VBG copyright_NN ._. 
+I_PRP mean_VBP ,_, if_IN you_PRP say_VBP you_PRP need_VBP 70_CD years_NNS because_IN of_IN changes_NNS in_IN the_DT economy_NN to_TO encourage_VB works_VBZ ,_, you_PRP grant_VBP 70_CD for_IN the_DT future_NN ,_, but_CC why_WRB does_VBZ that_IN ,_, making_VBG that_WDT apply_VBP to_TO somebody_NN provided_VBD him_PRP ?_. 
+We_PRP 're_VBP not_RB just_RB --_: because_IN we_PRP 're_VBP not_RB just_RB talking_VBG about_IN the_DT author_NN ._. 
+If_IN we_PRP --_: we_PRP 're_VBP talking_VBG about_IN --_: 
+The_DT Constitution_NNP refers_VBZ to_TO the_DT authors_NNS and_CC the_DT inventors_NNS ,_, does_VBZ n't_RB it_PRP ?_. 
+They_PRP 're_VBP certainly_RB the_DT prime_JJ actors_NNS in_IN this_DT scene_NN ,_, are_VBP n't_RB they_PRP ?_. 
+Yes_UH ,_, but_CC all_DT of_IN the_DT history_NN of_IN the_DT development_NN of_IN these_DT clauses_NNS suggests_VBZ that_IN --_: and_CC this_DT Court_NNP has_VBZ indicated_VBN in_IN its_PRP$ decisions_NNS with_IN respect_NN to_TO copyright_NN ,_, that_IN the_DT Framers_NNP were_VBD concerned_VBN and_CC the_DT Congress_NNP is_VBZ legitimately_RB concerned_VBN not_RB just_RB in_IN providing_VBG the_DT spark_NN of_IN creativity_NN ,_, but_CC to_TO make_VB sure_JJ that_IN that_DT 's_VBZ distributed_VBN widely_RB and_CC available_JJ ,_, and_CC there_EX may_MD be_VB many_JJ reasons_NNS why_WRB --_: we_PRP 're_VBP --_: we_PRP --_: 
+And_CC that_IN it_PRP gets_VBZ into_IN the_DT public_JJ the_DT expiration_NN of_IN the_DT term_NN ._. 
+That_DT was_VBD an_DT part_NN of_IN the_DT bargain_NN ._. 
+Yes_UH ,_, and_CC what_WP --_: but_CC the_DT definition_NN of_IN the_DT term_NN was_VBD a_DT responsibility_NN vested_JJ in_IN Congress_NNP ,_, because_IN it_PRP has_VBZ the_DT power_NN --_: the_DT legislative_JJ history_NN of_IN the_DT 1998_CD act_NN itself_PRP suggests_VBZ what_WP was_VBD going_VBG on_IN here_RB and_CC suggests_VBZ why_WRB the_DT Framers_NNP gave_VBD this_DT authority_NN to_TO Congress_NNP ._. 
+There_EX were_VBD numerous_JJ hearings_NNS ,_, there_EX were_VBD testimony_NN by_IN the_DT folks_NNS that_WDT represent_VBP the_DT same_JJ position_NN as_IN petitioners_NNS here_RB as_IN to_TO why_WRB this_DT should_MD n't_RB be_VB done_VBN ,_, why_WRB it_PRP should_MD be_VB that_IN this_DT done_VBN ._. 
+Congress_NNP weighed_VBD --_: as_IN this_DT Court_NNP ,_, the_DT phrase_NN Court_NNP used_VBD ,_, I_PRP think_VBP it_PRP was_VBD in_IN the_DT Feist_NNP case_NN ,_, the_DT delicate_JJ balance_NN that_WDT was_VBD so_RB difficult_JJ for_IN Congress_NNP to--_JJ 
+How_WRB --_: 
+Okay_UH ,_, but_CC you_PRP --_: 
+--_: what_WP weighs_VBZ in_IN that_DT balance_NN ,_, because_IN to_TO go_VB back_RB for_IN one_CD second_JJ ,_, in_IN practical_JJ ,_, economic_JJ terms_NNS I_PRP gather_VBP the_DT difference_NN between_IN a_DT copyright_NN that_WDT lasts_VBZ for_IN 100_CD years_NNS ,_, lasts_VBZ for_IN 1,000_CD years_NNS ,_, lasts_VBZ forever_RB ,_, is_VBZ probably_RB something_NN less_JJR than_IN 1,000_CD --_: on_IN $1,000_NN a_DT penny_NN ._. 
+I_PRP mean_VBP ,_, it_PRP 's_VBZ a_DT penny_NN on_IN 1,000_CD ,_, or_CC probably_RB a_DT lot_NN less_JJR than_IN that_DT ,_, frankly_RB ._. 
+So_IN I_PRP can_MD not_RB only_RB not_RB imagine_VB a_DT person_NN whose_WP$ decision_NN to_TO write_VB would_MD be_VB governed_VBN by_IN such_JJ a_DT thing_NN ,_, I_PRP can_MD not_RB imagine_VB a_DT European_JJ who_WP would_MD come_VB to_TO America_NNP to_TO copyright_NN his_PRP$ work_NN for_IN such_JJ a_DT reason_NN ._. 
+Indeed_RB ,_, I_PRP wonder_VBP why_WRB that_IN European_JJ would_MD n't_RB come_VB anyway_RB ,_, even_RB if_IN the_DT term_NN were_VBD 10_CD years_NNS ,_, because_IN if_IN he_PRP does_VBZ n't_RB come_VB ,_, he_PRP 's_VBZ not_RB going_VBG to_TO get_VB protection_NN ._. 
+Well_RB ,_, the_DT --_: 
+I_PRP mean_VBP ,_, who_WP are_VBP these_DT people_NNS that_WDT are_VBP going_VBG to_TO be_VB moved_VBN by_IN that_DT incentive_NN ?_. 
+The_DT --_: as_IN we_PRP described_VBD in_IN our_PRP$ brief_JJ ,_, in_IN pages_NNS 34_CD through_IN 36_CD ,_, I_PRP believe_VBP it_PRP is_VBZ in_IN our_PRP$ brief_JJ ,_, that_IN the_DT concerns_NNS about_IN the_DT limitation_NN on_IN exploitation_NN and_CC the_DT limitation_NN of_IN a_DT copyright_NN period_NN in_IN Europe_NNP is_VBZ based_VBN upon_IN the_DT country_NN of_IN origin_NN of_IN the_DT work_NN and_CC the_DT shortest_JJS time_NN available_JJ ._. 
+So_RB that_IN there_EX may_MD be_VB differences_NNS ,_, and_CC we_PRP describe_VBP that_RB ,_, but_CC that_DT illustrates_VBZ ,_, Justice_NNP Breyer_NNP ,_, the_DT difference_NN between_IN 1_CD cents_NNS and_CC 10_CD cents_NNS and_CC $100_NN with_IN respect_NN to_TO this_DT particular_JJ author_NN who_WP 's_VBZ this_DT particular_JJ age_NN ,_, or_CC a_DT particular_JJ author_NN like_IN Melville_NNP ,_, whose_WP$ works_NNS were_VBD n't_RB --_: were_VBD n't_RB --_: did_VBD n't_RB --_: or_CC Schubert_NNP ,_, whose_WP$ works_NNS were_VBD n't_RB properly_RB appreciated_VBN or_CC exploitable_JJ until_IN many_JJ years_NNS after_IN their_PRP$ death_NN ._. 
+All_DT of_IN these_DT variations_NNS are_VBP quintessentially_RB legislative_JJ judgments_NNS ._. 
+It_PRP would_MD be_VB very_RB difficult_JJ for_IN the_DT Framers_NNP to_TO have_VB eschewed_VBN deciding_VBG 14_CD years_NNS was_VBD a_DT constitutional_JJ limitation_NN ,_, and_CC for_IN this_DT Court_NNP to_TO say_VB 99_CD years_NNS is_VBZ ,_, and_CC again_RB ,_, even_RB the_DT petitioners_NNS are_VBP n't_RB asking_VBG the_DT Court_NNP to_TO make_VB that_DT judgment_NN ._. 
+The_DT petitioners_NNS are_VBP only_RB saying_VBG that_IN there_EX shall_MD be_VB a_DT per_IN se_FW rule_NN that_IN the_DT word_NN "_'' limited_JJ times_NNS ,_, "_'' means_VBZ unchangeable_JJ times_NNS ._. 
+But_CC there_EX has_VBZ to_TO be_VB a_DT limit_NN ,_, as_IN you_PRP acknowledge_VBP ._. 
+Perpetual_JJ copyright_NN is_VBZ not_RB permitted_VBN ._. 
+Who_WP is_VBZ the_DT judge_NN of_IN --_: within_IN that_DT line_NN ?_. 
+Who_WP is_VBZ the_DT judge_NN of_IN when_WRB it_PRP becomes_VBZ unlimited_JJ ?_. 
+Is_VBZ there_RB ,_, in_IN other_JJ words_NNS ,_, judicial_JJ review_NN and_CC ,_, if_IN there_EX is_VBZ ,_, what_WP standard_JJ would_MD this_DT Court_NNP apply_VBP to_TO determine_VB whether_IN something_NN short_JJ of_IN perpetual_JJ is_VBZ still_RB unlimited_JJ ?_. 
+Well_RB ,_, the_DT issue_NN before_IN this_DT Court_NNP ,_, I_PRP hasten_VB to_TO say_VB ,_, as_IN I_PRP said_VBD before_RB ,_, is_VBZ only_RB whether_IN ,_, once_RB the_DT Congress_NNP makes_VBZ that_DT judgment_NN ,_, it_PRP can_MD ever_RB change_VB it_PRP retrospectively_RB ._. 
+The_DT issue_NN before_IN this_DT Court_NNP is_VBZ not_RB whether_IN ,_, in_IN the_DT future_NN ,_, a_DT certain_JJ length_NN of_IN time_NN would_MD be_VB appropriate_JJ ._. 
+That_DT --_: but_CC the_DT answer_NN to_TO that_DT ,_, Justice_NNP Ginsburg_NNP ,_, I_PRP submit_VBP ,_, is_VBZ found_VBN in_IN the_DT Necessary_NNP and_CC Proper_JJ Clause_NN ,_, and_CC this_DT Court_NNP 's_POS interpretation_NN of_IN the_DT Necessary_NNP and_CC Proper_JJ Clause_NN as_IN to_TO the_DT extent_NN that_IN this_DT Court_NNP would_MD find_VB or_CC not_RB find_VB that_IN the_DT judgment_NN made_VBN by_IN Congress_NNP with_IN respect_NN to_TO the_DT implementation_NN of_IN this_DT very_RB broad_JJ power_NN is_VBZ convenient_JJ or_CC useful_JJ in_IN terms_NNS of_IN the_DT achievement_NN of_IN the_DT 2_CD goals_NNS ._. 
+Okay_UH ,_, and_CC is_VBZ your_PRP$ argument_NN that_IN we_PRP find_VBP and_CC hold_VB against_IN their_PRP$ retrospective_NN because_IN there_EX is_VBZ some_DT ,_, at_IN least_JJS plausible_JJ basis_NN should_MD so_RB argument_NN ,_, to_TO say_VB that_IN there_EX can_MD be_VB a_DT causal_NN connection_NN between_IN the_DT retrospective_NN extension_NN and_CC some_DT benefit_NN that_WDT can_MD be_VB traced_VBN to_TO those_DT particular_JJ works_NNS through_IN the_DT retrospective_NN extension_NN ,_, like_IN dissemination_NN ?_. 
+Is_VBZ that_IN your_PRP$ argument_NN ?_. 
+That_DT is_VBZ among_IN our_PRP$ arguments_NNS ,_, Justice_NNP Souter_NNP ._. 
+Is_VBZ it_PRP also_RB your_PRP$ argument_NN that_IN even_RB if_IN you_PRP can_MD not_RB trace_VB that_DT kind_NN ,_, or_CC at_IN least_JJS plausibly_RB argue_VBP that_IN there_EX could_MD be_VB that_DT kind_NN of_IN a_DT causal_NN benefit_NN ,_, that_IN it_PRP would_MD still_RB be_VB constitutional_JJ ,_, because_IN you_PRP should_MD judge_VB the_DT extension_NN simply_RB as_IN contributing_VBG to_TO a_DT general_JJ system_NN ,_, one_CD feature_NN of_IN which_WDT is_VBZ that_IN from_IN time_NN to_TO time_NN there_EX may_MD be_VB retrospective_NN extensions_NNS ,_, and_CC so_RB long_RB as_IN that_DT general_JJ system_NN induces_VBZ the_DT creation_NN of_IN works_NNS ,_, or_CC the_DT dissemination_NN of_IN works_NNS ,_, or_CC the_DT preservation_NN of_IN works_NNS ,_, so_RB long_RB as_IN the_DT general_JJ system_NN works_VBZ ,_, there_EX is_VBZ no_DT review_NN ,_, no_DT limitation_NN on_IN the_DT tinkering_NN that_WDT can_MD be_VB done_VBN ,_, even_RB retrospectively_RB ?_. 
+Is_VBZ that_IN also_RB your_PRP$ argument_NN ?_. 
+I_PRP think_VBP that_DT 's_VBZ a_DT fair_JJ statement_NN of_IN an_DT argument_NN that_IN we_PRP have_VBP made_VBN and_CC articulated_JJ in_IN the_DT brief_JJ --_: 
+Okay_UH ._. 
+--_: that_IN unless_IN there_EX is_VBZ a_SYM --_: the_DT Court_NNP is_VBZ --_: because_IN the_DT circumstances_NNS change_NN ,_, that_IN we_PRP are_VBP living_VBG in_IN an_DT era_NN now_RB where_WRB piracy_NN is_VBZ a_DT significant_JJ problem_NN ,_, there_EX 's_VBZ question_NN of_IN administrative_JJ ease_NN ,_, of_IN administering_VBG a_DT system_NN where_WRB copyrights_NNS may_MD be_VB different_JJ for_IN one_CD set_NN of_IN authors_NNS ,_, or_CC different_JJ for_IN another_DT set_NN of_IN authors_NNS ,_, there_EX 's_VBZ changes_NNS that_WDT are_VBP taking_VBG place_NN internationally_RB ,_, so_IN that_IN what_WP we_PRP 're_VBP saying_VBG is_VBZ that_IN not_RB only_RB could_MD this_DT Court_NNP conceive_VB of_IN reasons_NNS why_WRB Congress_NNP thought_VBD it_PRP was_VBD accomplishing_VBG the_DT objectives_NNS of_IN this_DT clause_NN ,_, but_CC that_IN there_EX are_VBP numerous_JJ objectives_NNS that_WDT are_VBP entirely_RB legitimate_JJ in_IN --_: 
+Do_VBP you_PRP also_RB argue_VBP that_IN the_DT Necessary_NNP and_CC Proper_JJ Clause_NN alone_RB will_MD justify_VB the_DT retroactive_JJ extension_NN simply_RB as_IN a_DT matter_NN of_IN equity_NN ?_. 
+Yes_UH ._. 
+That_DT is_VBZ ,_, that_IN the_DT Copyright_NNP Clause_NN justifies_VBZ the_DT extension_NN for_IN works_VBZ not_RB yet_RB created_VBN ,_, but_CC it_PRP would_MD be_VB enormously_RB inequitable_JJ to_TO have_VB other_JJ authors_NNS who_WP put_VBP in_IN the_DT same_JJ amount_NN of_IN work_NN get_VBP a_DT lesser_JJR protection_NN ,_, so_IN the_DT Necessary_NNP and_CC Proper_JJ Clause_NN now_RB allows_VBZ you_PRP to_TO do_VB the_DT 24_CD retrospective_NN ?_. 
+Yes_UH ,_, Justice_NNP Scalia_NNP ,_, and_CC the_DT examples_NNS that_WDT are_VBP --_: 
+Can_MD I_PRP ask_VB you_PRP ,_, why_WRB is_VBZ it_PRP enormously_RB inequitable_JJ if_IN they_PRP get_VBP exactly_RB what_WP they_PRP were_VBD entitled_VBN to_TO at_IN the_DT time_NN they_PRP made_VBD the_DT work_NN ?_. 
+The_DT implicit_JJ promise_NN that_IN --_: 
+I_PRP mean_VBP ,_, they_PRP have_VBP some_DT right_NN to_TO expect_VB that_IN they_PRP will_MD be_VB --_: you_PRP know_VBP ,_, an_DT additional_JJ grant_NN ,_, later_RB on_RP ?_. 
+I_PRP think_VBP that_DT 's_VBZ not_RB an_DT unreasonable_JJ expectation_NN at_IN all_DT ,_, Justice_NNP Stevens_NNP ,_, because_IN that_DT was_VBD the_DT premise_NN of_IN the_DT --_: 
+That_DT is_VBZ the_DT way_NN it_PRP 's_VBZ always_RB been_VBN done_VBN ._. 
+There_EX has_VBZ n't_RB been_VBN any_DT copyright_NN extension_NN that_WDT has_VBZ n't_RB applied_VBN to_TO subsisting_VBG work_NN ._. 
+That_DT 's_VBZ --_: 
+But_CC there_EX was_VBD one_CD --_: Justice_NNP Breyer_NNP brought_VBD up_RP Ben_NNP Jonson_NNP ,_, so_RB --_: this_DT case_NN does_VBZ n't_RB involve_VB works_VBZ that_WDT are_VBP already_RB in_IN the_DT public_JJ domain_NN ._. 
+That_DT is_VBZ correct_JJ ._. 
+This_DT is_VBZ subsisting_VBG copyrights_NNS ._. 
+That_DT is_VBZ correct_JJ ._. 
+So_RB --_: 
+But_CC why_WRB would_MD n't_RB it_PRP ?_. 
+Why_WRB ?_. 
+Why_WRB not_RB ?_. 
+Why_WRB would_MD n't_RB it_PRP ?_. 
+If_IN the_DT equity_NN argument_NN under_IN the_DT Necessary_NNP and_CC Proper_JJ Clause_NN justifies_VBZ extension_NN of_IN the_DT copyright_NN for_IN those_DT whose_WP$ copyright_NN will_MD expire_VB tomorrow_NN if_IN it_PRP 's_VBZ not_RB extended_VBN ,_, in_IN order_NN to_TO put_VB them_PRP on_IN parity_NN with_IN those_DT getting_VBG copyrights_NNS for_IN new_JJ works_NNS ,_, why_WRB does_VBZ n't_RB it_PRP apply_VBP to_TO the_DT copyright_NN ,_, the_DT holder_NN of_IN the_DT copyright_NN that_WDT expired_JJ yesterday_NN ?_. 
+You_PRP could_MD arguably_RB --_: you_PRP could_MD conceivably_RB make_VB that_DT argument_NN ,_, Justice_NNP Souter_NNP ,_, but_CC there_EX is_VBZ a_DT bright_JJ line_NN there_RB ._. 
+Something_NN that_WDT has_VBZ already_RB gone_VBN into_IN the_DT public_JJ domain_NN ,_, which_WDT other_JJ individuals_NNS or_CC companies_NNS or_CC entities_NNS may_MD then_RB have_VB acquired_VBN an_DT interest_NN in_IN ,_, or_CC rights_NNS to_TO ,_, or_CC be_VB involved_VBN in_IN disseminating_VBG --_: 
+And_CC if_IN you_PRP do_VBP n't_RB --_: 
+This_DT is_VBZ a_DT rational_JJ --_: 
+If_IN you_PRP do_VBP n't_RB draw_VB the_DT line_NN there_RB ,_, then_RB Ben_NNP Jonson_NNP certainly_RB gets_VBZ recopyrighted_JJ ._. 
+Well_RB ,_, the_DT difficulty_NN --_: 
+If_IN we_PRP 're_VBP just_RB looking_VBG for_IN a_DT bright_JJ line_NN ,_, the_DT line_NN that_IN they_PRP suggest_VBP between_IN unexpired_JJ patents_NNS and_CC copyrights_NNS and_CC brand_NN new_JJ ones_NNS is_VBZ also_RB just_RB as_IN bright_JJ ._. 
+Oh_UH ,_, I_PRP concede_VBP that_IN it_PRP 's_VBZ a_DT bright_JJ line_NN ,_, but_CC it_PRP 's_VBZ a_DT bright_JJ line_NN that_WDT would_MD have_VB --_: 
+Except_IN Congress_NNP chose_VBD this_DT one_CD and_CC did_VBD n't_RB choose_VB the_DT other_JJ one_CD ._. 
+That_DT 's_VBZ --_: 
+Congress_NNP --_: 
+Basically_RB you_PRP 're_VBP saying_VBG the_DT presumption_NN ought_MD to_TO be_VB in_IN the_DT congressional_JJ judgment_NN about_IN how_WRB to_TO draw_VB the_DT line_NN as_RB well_RB as_IN in_IN how_WRB long_JJ a_DT line_NN to_TO draw_VB ._. 
+I_PRP agree_VBP ,_, and_CC this_DT Court_NNP has_VBZ --_: we_PRP 're_VBP not_RB just_RB talking_VBG about_IN the_DT judgment_NN of_IN the_DT Congress_NNP of_IN the_DT --_: the_DT 105th_CD Congress_NNP in_IN 1998_CD ._. 
+This_DT is_VBZ the_DT way_NN the_DT Statute_NNP of_IN Anne_NNP was_VBD written_VBN ._. 
+This_DT is_VBZ the_DT way_NN the_DT State_NNP copyright_NN laws_NNS were_VBD written_VBN when_WRB this_DT country_NN became_VBD a_DT Nation_NNP ._. 
+This_DT is_VBZ the_DT way_NN the_DT 1790_CD copyright_NN statute_NN ,_, the_DT number_NN of_IN --_: 
+Well_RB ,_, of_IN course_NN ,_, the_DT original_JJ statute_NN was_VBD replacing_VBG a_DT bunch_NN of_IN State_NNP statutes_NNS or_CC State_NNP rules_NNS ,_, partly_RB common_JJ law_NN ,_, partly_RB statutory_JJ ,_, that_IN --_: they_PRP had_VBD kind_NN of_IN a_DT mixed_VBN up_RB legal_JJ situation_NN ,_, and_CC there_EX was_VBD an_DT interest_NN in_IN having_VBG one_CD uniform_NN rule_NN for_IN the_DT first_JJ time_NN around_RP ._. 
+Well_RB ,_, there_EX was_VBD an_DT interest_NN in_IN having_VBG a_DT uniform_NN rule_NN ,_, and_CC that_DT 's_VBZ precisely_RB why_WRB the_DT Framers_NNP created_VBD the_DT Copyright_NNP Clause_NN in_IN the_DT Constitution_NNP ,_, but_CC there_EX was_VBD copyright_NN protection_NN in_IN some_DT States_NNPS ,_, there_EX was_VBD n't_RB copyright_NN protection_NN in_IN other_JJ States_NNPS ,_, and_CC what_WP we_PRP know_VBP from_IN the_DT decision_NN of_IN this_DT Court_NNP in_IN the_DT Wheaton_NNP decision_NN is_VBZ that_IN there_EX was_VBD not_RB a_DT common_JJ law_NN copyright_NN in_IN existence_NN ._. 
+This_DT Court_NNP explicitly_RB held_VBD that_IN ._. 
+Now_RB ,_, the_DT petitioners_NNS make_VBP this_DT quid_NN pro_FW quo_NN to_TO draw_VB the_DT line_NN as_RB well_RB as_IN in_IN how_WRB long_JJ a_DT line_NN 
+I_PRP agree_VBP ,_, and_CC this_DT Court_NNP has_VBZ --_: just_RB talking_VBG about_IN the_DT judgment_NN of_IN the_DT Congress_NNP the_DT 105th_CD Congress_NNP in_IN 1998_CD ._. 
+This_DT is_VBZ the_DT way_NN the_DT argument_NN that_IN somehow_RB implicitly_RB the_DT initial_JJ 1790_CD copyright_NN statute_NN was_VBD saying_VBG to_TO people_NNS ,_, you_PRP get_VBP a_DT copyright_NN if_IN you_PRP exchange_VBP whatever_WDT existing_VBG rights_NNS you_PRP have_VBP ._. 
+That_DT simply_RB does_VBZ not_RB make_VB any_DT sense_NN ._. 
+There_EX is_VBZ no_DT language_NN ,_, and_CC it_PRP 's_VBZ a_DT relatively_RB late-discovered_JJ argument_NN ,_, because_IN it_PRP sees_VBZ its_PRP$ full_JJ --_: 
+I_PRP want_VBP you_PRP to_TO finish_VB that_RB ,_, but_CC I_PRP want_VBP you_PRP to_TO go_VB back_RB to_TO the_DT --_: I_PRP have_VBP one_CD question_NN on_IN the_DT equity_NN principle_NN ._. 
+Are_VBP you_PRP --_: I_PRP want_VBP you_PRP to_TO finish_VB ._. 
+I_PRP was_VBD n't_RB finished_VBN ,_, but_CC I_PRP 'm_VBP happy_JJ to_TO come_VB back_RB ._. 
+Go_VB ahead_RB ._. 
+No_DT ,_, no_DT ,_, you_PRP finish_VBP 
+Well_RB ,_, I_PRP was_VBD going_VBG to_TO say_VB no_DT language_NN whatsoever_RB of_IN preemption_NN ,_, abandonment_NN ,_, abrogation_NN ,_, or_CC exchange_NN in_IN the_DT 1790_CD copyright_NN ,_, but_CC compare_VB --_: Copyright_NNP Act_NNP ._. 
+But_CC compare_VB that_IN to_TO thefirst_NN ._. 
+there_EX 's_VBZ Patent_NNP Act_NNP under_IN the_DT same_JJ clause_NN ,_, where_WRB there_RB is_VBZ that_DT exchange_NN there_RB ._. 
+The_DT other_JJ thing_NN ,_, as_IN this_DT Court_NNP has_VBZ said_VBN ,_, there_EX is_VBZ no_DT implied_JJ abrogation_NN of_IN common_JJ law_NN rights_NNS which_WDT would_MD be_VB a_DT doctrine_NN which_WDT would_MD be_VB inconsistent_JJ with_IN what_WP the_DT petitioner_NN is_VBZ arguing_VBG ._. 
+Now_RB --_: 
+Why_WRB --_: I_PRP mean_VBP ,_, I_PRP think_VBP you_PRP have_VBP a_DT point_NN on_IN this_DT equity_NN principle_NN ._. 
+I_PRP wonder_VBP ,_, is_VBZ there_EX any_DT review_NN there_RB ?_. 
+That_DT is_VBZ ,_, suppose_VBP you_PRP have_VBP a_DT statute_NN ,_, as_IN this_DT one_CD arguably_RB is_VBZ ,_, where_WRB 99.9_CD percent_NN ,_, many_JJ billions_NNS of_IN dollars_NNS of_IN benefits_NNS ,_, are_VBP going_VBG to_TO the_DT existing_VBG holders_NNS of_IN copyright_NN on_IN grounds_NNS of_IN equity_NN ,_, and_CC the_DT effect_NN of_IN the_DT statute_NN in_IN eliciting_VBG new_JJ works_VBZ is_VBZ near_IN zero_CD ._. 
+I_PRP mean_VBP ,_, that_WDT would_MD seem_VB --_: where_WRB this_DT equity_NN idea_NN is_VBZ the_DT camel_NN and_CC the_DT production_NN idea_NN is_VBZ the_DT gnat_NN ,_, and_CC is_VBZ there_EX any_DT --_: can_MD we_PRP say_VB something_NN like_IN that_DT ,_, or_CC does_VBZ Congress_NNP have_VB total_JJ leeway_NN in_IN respect_NN to_TO --_: 
+Well_RB ,_, it_PRP --_: 
+--_: who_WP they_PRP want_VBP to_TO give_VB the_DT money_NN to_TO ,_, basically_RB ?_. 
+Justice_NNP Breyer_NNP ,_, it_PRP 's_VBZ conceivable_JJ that_IN the_DT Court_NNP might_MD do_VB that_DT if_IN that_DT situation_NN was_VBD present_JJ ,_, but_CC it_PRP 's_VBZ not_RB remotely_RB the_DT situation_NN here_RB ._. 
+We_PRP have_VBP the_DT adoption_NN of_IN copyright_NN terms_NNS which_WDT are_VBP consistent_JJ ,_, generally_RB speaking_VBG ,_, with_IN copyright_NN terms_NNS which_WDT exist_VBP in_IN the_DT European_NNP Union_NNP ,_, our_PRP$ principal_JJ competitor_NN ,_, and_CC in_IN connection_NN with_IN international_JJ treaties_NNS ._. 
+We_PRP have_VBP a_DT copyright_NN term_NN that_WDT 's_VBZ consistent_JJ with_IN the_DT concept_NN of_IN the_DT creator_NN plus_CC the_DT creator_NN 's_POS first_JJ generation_NN heirs_NNS ._. 
+We_PRP have_VBP a_DT copyright_NN term_NN ,_, remember_VB ,_, which_WDT supersedes_NNS the_DT earlier_JJR copyright_NN provisions_NNS that_WDT were_VBD added_VBN to_TO the_DT period_NN between_IN creation_NN and_CC publication_NN ,_, so_IN that_IN the_DT limited_JJ number_NN of_IN years_NNS in_IN the_DT first_JJ ,_, the_DT 1790_CD and_CC the_DT 1831_CD statute_NN were_VBD the_DT number_NN of_IN years_NNS plus_CC the_DT relatively_RB unlimited_JJ period_NN of_IN time_NN between_IN creation_NN and_CC publication_NN ,_, so_IN we_PRP do_VBP n't_RB have_VB anything_NN remotely_RB like_IN that_DT in_IN this_DT situation_NN ._. 
+We_PRP have_VBP a_DT process_NN which_WDT ,_, as_IN you_PRP suggested_VBD ,_, or_CC one_CD of_IN the_DT questions_NNS suggested_VBD ,_, is_VBZ --_: may_MD not_RB have_VB been_VBN the_DT policy_NN that_IN you_PRP as_IN a_DT Member_NNP of_IN Congress_NNP would_MD have_VB supported_VBN ._. 
+You_PRP might_MD have_VB made_VBN the_DT balance_NN ,_, that_IN delicate_JJ balance_NN that_IN this_DT Court_NNP has_VBZ referred_VBN to_TO ,_, in_IN another_DT way_NN ,_, but_CC that_DT is_VBZ something_NN that_IN Congress_NNP ,_, through_IN its_PRP$ ability_NN to_TO gather_VB facts_NNS and_CC make_VB balances_NNS ,_, is_VBZ quintessentially_RB capable_JJ of_IN doing_VBG ,_, and_CC that_DT is_VBZ where_WRB the_DT Framers_NNP vested_JJ the_DT responsibility_NN ,_, and_CC what_WP this_DT statute_NN does_VBZ is_VBZ to_TO favor_VB ,_, if_IN at_IN all_DT ,_, the_DT creator_NN with_IN respect_NN to_TO the_DT utilization_NN of_IN these_DT rights_NNS ,_, as_IN opposed_VBN to_TO the_DT person_NN who_WP wishes_VBZ to_TO copy_VB the_DT creator_NN ._. 
+That_DT 's_VBZ an_DT entirely_RB rational_JJ distinction_NN for_IN Congress_NNP to_TO make_VB ._. 
+Thank_VB you_PRP ._. 
+Thank_VB you_PRP ,_, General_NNP Olson_NNP ._. 
+Mr._NN Lessig_NNP ,_, you_PRP have_VBP 3_CD minutes_NNS remaining_VBG ._. 
+REBUTTAL_NNP ARGUMENT_NNP OF_IN LAWRENCE_NNP LESSIG_NNP ON_NNP BEHALF_NNP OF_IN THE_DT PETITIONERS_NNP 
+
+General_NNP Olson_NNP has_VBZ been_VBN perfectly_RB clear_JJ in_IN setting_VBG out_RP the_DT structure_NN of_IN the_DT Government_NNP 's_POS argument_NN ._. 
+It_PRP is_VBZ that_IN there_EX is_VBZ no_DT effective_JJ limit_NN on_IN Congress_NNP 's_POS power_NN under_IN the_DT Copyright_NNP Clause_NN ._. 
+Now_RB ,_, were_VBD this_DT the_DT first_JJ time_NN this_DT Court_NNP had_VBD considered_VBN Congress_NNP 's_POS copyright_NN authority_NN ,_, that_WDT might_MD be_VB a_DT plausible_JJ argument_NN ,_, but_CC the_DT very_RB first_JJ time_NN this_DT Court_NNP ever_RB struck_VBD down_RP a_DT law_NN of_IN Congress_NNP as_IN exceeding_VBG Article_NNP I_PRP ,_, section_NN 8_CD power_NN was_VBD in_IN the_DT context_NN of_IN the_DT Copyright_NNP Clause_NN ._. 
+We_PRP have_VBP 125_CD years_NNS of_IN history_NN of_IN this_DT Court_NNP making_VBG sure_JJ that_IN the_DT limits_NNS ,_, both_DT express_VB and_CC implied_VBN ,_, in_IN the_DT Copyright_NNP Clause_NN ,_, have_VBP some_DT meaning_VBG ._. 
+The_DT Feist_NNP opinion_NN very_RB clearly_RB sets_VBZ out_RP the_DT implied_JJ limits_NNS ,_, a_DT per_IN se_FW limit_NN for_IN originality_NN ,_, for_IN the_DT reasons_VBZ Justice_NNP Breyer_NNP was_VBD trying_VBG to_TO get_VB me_PRP to_TO say_VB ._. 
+The_DT Harper_NNP as_RB well_RB as_IN Graham_NNP set_VBD out_IN very_RB clear_JJ limits_NNS on_IN the_DT context_NN of_IN the_DT ability_NN to_TO extend_VB works_VBZ in_IN the_DT public_JJ domain_NN ._. 
+Those_DT limits_NNS make_VBP no_DT sense_NN under_IN the_DT reasoning_NN the_DT Government_NNP has_VBZ offered_VBN ._. 
+The_DT Government_NNP 's_POS reasoning_NN would_MD make_VB all_DT of_IN those_DT opinions_NNS irrelevant_JJ and_CC wrong_JJ ._. 
+Now_RB ,_, we_PRP offer_VBP a_DT simple_JJ way_NN to_TO make_VB this_DT clear_JJ ,_, express_VB limit_NN make_NN sense_NN ,_, and_CC that_DT is_VBZ precisely_RB the_DT understanding_NN we_PRP suggest_VBP that_WDT existed_VBN in_IN 1790_CD ._. 
+The_DT only_JJ precedents_NNS that_WDT existed_VBD in_IN 1790_CD were_VBD precedents_NNS of_IN setting_VBG a_DT term_NN ,_, and_CC then_RB when_WRB parliament_NN was_VBD asked_VBN in_IN 1735_CD ,_, '_'' 37_CD ,_, and_CC '_POS 39_CD to_TO extend_VB it_PRP ,_, they_PRP rejected_VBD it_PRP ,_, and_CC as_IN amicus_JJ historians_NNS said_VBD ,_, they_PRP rejected_VBD it_PRP because_IN ,_, as_IN a_DT pamphleteer_NN described_VBD it_PRP ,_, that_WDT would_MD be_VB effectively_RB a_DT perpetual_JJ term_NN ._. 
+Now_RB ,_, this_DT delicate_JJ balance_NN that_IN the_DT Government_NNP invokes_VBZ ,_, Justice_NNP Breyer_NNP ,_, let_VB me_PRP give_VB you_PRP the_DT numbers_NNS ._. 
+The_DT delicate_JJ balance_NN is_VBZ that_IN ,_, under_IN the_DT most_RBS reasonable_JJ assumptions_NNS of_IN copyright_NN royalty_NN income_NN and_CC under_IN our_PRP$ interest_NN rate_NN of_IN 7_CD percent_NN ,_, as_IN the_DT amicus_JJ economists_NNS note_VBP at_IN page_NN 6_CD ,_, note_NN 6_CD of_IN their_PRP$ brief_JJ ,_, the_DT current_JJ term_NN gives_VBZ authors_NNS 99.8_CD percent_NN of_IN the_DT value_NN of_IN a_DT perpetual_JJ term_NN ._. 
+Now_RB ,_, that_WDT might_MD be_VB a_DT delicate_JJ balance_NN ,_, that_IN they_PRP give_VBP the_DT author_NN 99.8_CD percent_NN and_CC the_DT public_NN .2_CD percent_NN ,_, but_CC in_IN my_PRP$ mind_NN ,_, that_DT 's_VBZ delicate_JJ in_IN a_DT very_RB different_JJ sense_NN of_IN that_DT term_NN ._. 
+Thank_VB you_PRP very_RB much_RB ._. 
+Thank_VB you_PRP ,_, Mr._NN Lessig_NNP ._. 
+The_DT case_NN is_VBZ submitted_VBN ._. 
+(_( Whereupon_NNP ,_, at_IN 11:01_NN a.m._NN ,_, the_DT case_NN in_IN the_DT above-entitled_JJ matter_NN was_VBD submitted_VBN ._. )_) 
+

@@ -1,0 +1,17 @@
+Date_NN :_: Mon_NNP ,_, 21_CD Aug_NNP 2000_CD 01:00:00_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: steven.kean@enron.com_NN To_TO :_: james.steffew@enron.com_NN Subject_NNP :_: Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN X-From_NNP :_: Steven_NNP J_NNP Kean_NNP X-To_NNP :_: james_NNS steffew_NN X-cc_NNP :_: X-bcc_NNP :_: X-Folder_NNP :_: \_NN Steven_NNP __NN Kean_NNP __NN Dec_NNP 2000_CD __NN 1_CD \_NN Notes_NNP Folders_NNP \_NN All_DT documents_NNS X-Origin_NNP :_: KEAN-S_NNP X-FileName_NNP :_: skean_NN ._. nsf_NN ----------------------_SYM Forwarded_NNP by_IN Steven_NNP J_NNP Kean_NNP /_NN NA_NNP /_NN Enron_NNP on_IN 08/21/2000_CD 08:00_NN AM_NNP ---------------------------_SYM From_IN :_: Mark_NNP E_NNP Haedicke_NNP @_IN ECT_NNP on_IN 08/15/2000_CD 01:37_NN PM_NNP To_TO :_: Steven_NNP J_NNP Kean_NNP /_NN NA_NNP /_NN Enron_NNP @_IN Enron_NNP cc_NN :_: 
+Subject_NNP :_: 
+
+Per_IN our_PRP$ conversation_NN on_IN coordination_NN of_IN our_PRP$ efforts_NNS on_IN California_NNP and_CC other_JJ jurisdictions_NNS ,_, we_PRP have_VBP developed_VBN the_DT following_VBG training_NN program_NN :_: 
+
+1_CD ._. Anti-trust_NNP --_: we_PRP have_VBP completed_VBN anti-trust_JJ training_NN in_IN Houston_NNP for_IN traders_NNS and_CC have_VBP scheduled_VBN it_PRP in_IN Portland_NNP and_CC Calgary_NNP ._. 
+
+2_CD ._. Sales_NNS Practices_NNPS --_: this_DT training_NN has_VBZ been_VBN completed_VBN in_IN Portland_NNP and_CC is_VBZ being_VBG scheduled_VBN in_IN Houston_NNP and_CC Calgary_NNP ._. 
+
+3_CD ._. Anti-manipulation_NNP --_: this_DT training_NN has_VBZ been_VBN completed_VBN in_IN Portland_NNP ,_, but_CC needs_VBZ to_TO be_VB expanded_VBN to_TO cover_VB local_JJ law_NN manipulation_NN issues_NNS ._. 
+It_PRP also_RB needs_VBZ to_TO be_VB scheduled_VBN in_IN Houston_NNP and_CC Calgary_NNP ._. 
+
+Also_RB ,_, the_DT above_JJ training_NN needs_VBZ to_TO be_VB supplemented_JJ with_IN training_NN on_IN local_JJ power_NN pool_NN rules_NNS ._. 
+There_EX is_VBZ a_DT similar_JJ program_NN being_VBG prepared_VBN in_IN London_NNP ._. 
+A_DT meeting_NN is_VBZ being_VBG scheduled_VBN so_IN we_PRP can_MD discuss_VB these_DT matters_NNS further_RB ._. 
+
+Mark_NNP Haedicke_NNP 

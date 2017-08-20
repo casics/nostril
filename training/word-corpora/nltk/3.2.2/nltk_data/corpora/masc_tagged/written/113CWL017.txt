@@ -1,0 +1,31 @@
+June_NNP 1_CD ,_, 1998_CD BOYS_NNP &_CC Girls_NNP Club_NNP OF_IN INDIANAPOLIS_NNP 
+
+Dear_RB Friend_NNP ,_, 
+
+It_PRP 's_VBZ summertime_NN ,_, so_IN it_PRP must_MD be_VB time_NN for_IN CAMP_NNP !_. 
+Yes_UH ,_, it_PRP 's_VBZ that_DT time_NN of_IN the_DT year_NN -_: -_: the_DT start_NN of_IN the_DT Boys_NNPS &_CC Girls_NNP clubs_NNS of_IN Indianapolis_NNP '_POS Camp_NNP ._. 
+Six_CD weeks_NNS of_IN learning_VBG and_CC exploring_VBG ,_, sports_NNS ,_, arts_NNS ,_, and_CC fellowship_NN ._. 
+A_DT time_NN for_IN a_DT youngster_NN to_TO enjoy_VB the_DT fun_NN and_CC benefits_NNS of_IN residential_JJ camp_NN living_NN ,_, dedicated_VBN staff_NN and_CC instruction_NN ,_, and_CC a_DT chance_NN to_TO make_VB special_JJ friends_NNS ._. 
+
+I_PRP know_VBP you_PRP 're_VBP committed_VBN to_TO ensuring_VBG today_NN 's_POS children_NNS have_VBP safe_JJ ,_, healthy_JJ ,_, and_CC positive_JJ summer_NN experiences_NNS ._. 
+That_DT 's_VBZ why_WRB I_PRP want_VBP you_PRP to_TO learn_VB more_JJR about_IN the_DT Super_NNP Summer_NNPS Safari_NNP Camp_NNP ._. 
+
+At_IN Super_NNP Summer_NNPS Safari_NNP Camp_NNP ,_, there_EX are_VBP daily_JJ sports_NNS ,_, nature_NN ,_, and_CC arts_NNS activities_NNS ._. 
+In_IN addition_NN to_TO the_DT fun_NN stuff_NN ,_, important_JJ life-skills_JJ such_JJ as_IN self-esteem_NN ,_, leadership_NN ,_, and_CC interpersonal_NN cooperation_NN are_VBP being_VBG developed_VBN ._. 
+Please_VB read_VB the_DT enclosed_VBN brochure_NN for_IN more_JJR information_NN on_IN the_DT wonderful_JJ Super_NNP Summer_NNPS Safari_NNP Camp_NNP !_. 
+
+It_PRP costs_VBZ $225_NN to_TO send_VB one_CD child_NN to_TO camp_NN ._. 
+Many_JJ members_NNS of_IN the_DT Boys_NNPS &_CC Girls_NNP Clubs_NNP of_IN Indianapolis_NNP ca_MD n't_RB afford_VB to_TO go_VB to_TO camp_NN without_IN financial_JJ assistance_NN ,_, and_CC that_DT 's_VBZ why_WRB we_PRP need_VBP you_PRP !_. 
+
+Please_VB make_VB camp_NN possible_JJ for_IN all_DT deserving_JJ Indianapolis_NNP children_NNS and_CC send_VB in_IN a_DT tax_NN deductible_JJ contribution_NN today_NN in_IN the_DT enclosed_VBN envelope_NN ._. 
+Consider_VB sponsoring_VBG 1_CD ,_, 2_CD ,_, or_CC 3_CD children_NNS ._. 
+No_DT matter_NN the_DT size_NN of_IN the_DT donation_NN ,_, please_VB know_VB that_IN your_PRP$ gift_NN will_MD be_VB appreciated_VBN and_CC make_VB a_DT difference_NN ._. 
+
+Sincerely_NNP ,_, 
+
+Richard_NNP Dickinson_NNP 
+
+P.S._NN 
+You_PRP can_MD make_VB a_DT difference_NN in_IN a_DT child_NN 's_POS life_NN ._. 
+Sponsor_NNP a_DT child_NN at_IN the_DT Boys_NNPS &_CC Girls_NNP Clubs_NNP of_IN Indianapolis_NNP '_POS summer_NN camp_NN today_NN !_. 
+

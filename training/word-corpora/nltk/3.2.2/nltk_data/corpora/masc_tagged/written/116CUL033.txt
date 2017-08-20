@@ -1,0 +1,25 @@
+January_NNP 5_CD ,_, 1997_CD 
+
+Name_NN Address_NNP City_NNP ,_, ST_NNP Zip_NNP 
+
+Dear_RB Bill_NNP :_: 
+
+This_DT is_VBZ the_DT time_NN of_IN year_NN when_WRB our_PRP$ thoughts_NNS turn_RB to_TO ways_NNS to_TO do_VB things_NNS differently_RB ,_, things_NNS that_WDT will_MD make_VB our_PRP$ lives_NNS better_RBR and_CC improve_VB the_DT quality_NN of_IN our_PRP$ life_NN ._. 
+As_IN you_PRP begin_VBP that_DT process_NN this_DT year_NN ,_, I_PRP would_MD like_VB to_TO ask_VB you_PRP to_TO consider_VB helping_VBG young_JJ people_NNS in_IN Marion_NNP County_NNP toward_IN more_RBR positive_JJ youth_NN development_NN by_IN becoming_VBG a_DT supporter_NN of_IN the_DT Marion_NNP County_NNP Commission_NNP on_IN Youth_NNP ,_, Inc._NN 
+
+MCCOY_NNP Inc._NN ,_, originally_RB founded_VBD as_IN a_DT government_NN agency_NN but_CC re-organized_JJ in_IN 1993_CD as_IN an_DT independent_JJ not-for-profit_JJ ,_, is_VBZ a_DT county-wide_JJ youth_NN services_NNS coordinating_VBG ,_, planning_NN ,_, and_CC convening_VBG agency_NN ._. 
+Its_PRP$ purpose_NN is_VBZ to_TO encourage_VB collaboration_NN and_CC cooperation_NN between_IN the_DT various_JJ agencies_NNS ,_, programs_NNS ,_, and_CC systems_NNS that_WDT serve_VBP our_PRP$ community_NN 's_POS youth_NN ._. 
+In_IN addition_NN to_TO that_DT behind-the-scenes_JJ role_NN ,_, MCCOY_NNP has_VBZ taken_VBN an_DT out-front_JJ role_NN in_IN developing_VBG a_DT Summer_NNPS Bus_NNP Pass_NNP ,_, neighborhood_NN youth_NN councils_NNS ,_, and_CC the_DT We_PRP Value_NNP Youth_NNP information_NN line_NN ._. 
+It_PRP is_VBZ our_PRP$ goal_NN that_IN every_DT young_JJ person_NN in_IN Marion_NNP County_NNP have_VBP access_NN to_TO the_DT programs_NNS and_CC services_NNS that_WDT can_MD best_JJS assist_VB them_PRP in_IN their_PRP$ growth_NN toward_IN a_DT positive_JJ adulthood_NN ._. 
+
+I_PRP am_VBP hopeful_JJ that_IN you_PRP as_IN an_DT individual_JJ and_CC Meridian_NNP Insurance_NNP as_IN a_DT corporation_NN might_MD consider_VB becoming_VBG sustaining_VBG supporters_NNS of_IN MCCOY_NNP ._. 
+I_PRP have_VBP enclosed_VBN a_DT packet_NN of_IN information_NN about_IN MCCOY_NNP and_CC its_PRP$ work_NN as_RB well_RB as_IN an_DT application_NN with_IN various_JJ options_NNS for_IN supporting_VBG the_DT youth_NN of_IN our_PRP$ community_NN ._. 
+
+I_PRP obviously_RB ca_MD n't_RB tell_VB the_DT whole_JJ story_NN of_IN MCCOY_NNP in_IN a_DT single_JJ letter_NN but_CC I_PRP hope_VBP this_DT provides_VBZ an_DT overview_NN of_IN the_DT scope_NN of_IN our_PRP$ work_NN ._. 
+I_PRP will_MD call_VB you_PRP in_IN a_DT few_JJ weeks_NNS to_TO discuss_VB your_PRP$ level_NN of_IN interest_NN ._. 
+Please_VB consider_VB joining_VBG together_RB with_IN your_PRP$ fellow_NN citizens_NNS in_IN support_NN of_IN the_DT work_NN of_IN the_DT Marion_NNP County_NNP Commission_NNP on_IN Youth_NNP ._. 
+
+Sincerely_NNP ,_, 
+
+John_NNP Brandon_NNP Executive_NNP Director_NNP 
+

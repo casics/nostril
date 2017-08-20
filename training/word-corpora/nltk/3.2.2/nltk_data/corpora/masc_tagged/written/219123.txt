@@ -1,0 +1,16 @@
+Message-ID_NNP :_: <_NN 4232569.1075852475436.JavaMail.evans@thyme_NN >_NN Date_NN :_: Sat_NNP ,_, 25_CD Aug_NNP 2001_CD 16:35:13_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: donk@prestongates.com_NN Subject_NNP :_: PRIVILEGED_NNP AND_CC CONFIDENTIAL_NNP -_: Scott_NNP Jones_NNP Draft_NNP Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Attached_NNP is_VBZ the_DT draft_NN testimony_NN of_IN Scott_NNP Jones_NNP ._. 
+
+Comments_NNS should_MD be_VB received_VBN no_RB later_RBR than_IN 3:00_NN PM_NNP EST_NNP on_IN Sunday_NNP ,_, August_NNP 26_CD ._. 
+All_DT comments_NNS and_CC suggestions_NNS need_VBP to_TO be_VB in_IN writing_VBG and_CC can_MD be_VB faxed_VBD (_( not_RB E-_NNP mailed_VBD )_) to_TO Dan_NNP Watkiss_NNP at_IN 202_CD -_: 857_CD -_: 2131_CD ._. 
+Also_RB ,_, if_IN your_PRP$ suggestion_NN is_VBZ a_DT proposed_JJ addition_NN ,_, please_VB write_VB out_RP the_DT exact_JJ language_NN you_PRP would_MD propose_VB we_PRP incorporate_VB into_IN the_DT testimony_NN and_CC where_WRB you_PRP would_MD place_VB the_DT addition_NN ._. 
+
+Donald_NNP A._NN Kaplan_NNP ,_, Esq._NN Preston_NNP Gates_NNP Ellis_NNP &_CC Rouvelas_NNP Meeds_NNP LLP_NNP Suite_NNP 500_CD 1735_CD New_NNP York_NNP Avenue_NNP ,_, N.W._NN Washington_NNP ,_, D.C._NN 20006_CD Ph_NNP :_: (_( 202_CD )_) 662_CD -_: 8466_CD Fax_NNP :_: (_( 202_CD )_) 331_CD -_: 1024_CD donk@prestongates.com_NN 
+(_( See_VB attached_VBN file_VB :_: TFG_NNP SJones_NNP Draft_NNP 8_CD -_: 25_CD -_: 01_CD ._. doc_NN )_) (_( See_VB attached_VBN file_VB :_: Exhibit_NN STJ-6.xls_NNS )_) (_( See_VB attached_VBN file_VB :_: Exhibit_NN STJ-3.xls_NNP )_) (_( See_VB attached_VBN file_VB :_: Exhibit_NN STJ-4.xls_NNP )_) (_( See_VB attached_VBN file_VB :_: Exhibit_NN STJ-5.xls_NNP )_) (_( See_VB attached_VBN file_VB :_: Exhibit_NN STJ-2.doc_NNP )_) 
+CONFIDENTIALITY_NNP NOTE_VB :_: This_DT email_NN message_NN is_VBZ intended_VBN solely_RB for_IN the_DT individual_JJ or_CC individuals_NNS named_VBN above_IN ._. 
+It_PRP may_MD contain_VB confidential_JJ attorney-client_JJ privileged_JJ information_NN and_CC /_NN or_CC attorney_NN work_NN product_NN ._. 
+If_IN the_DT reader_NN of_IN this_DT message_NN is_VBZ not_RB the_DT intended_VBN recipient_JJ ,_, you_PRP are_VBP requested_VBN not_RB to_TO read_VB ,_, copy_NN or_CC distribute_VB it_PRP or_CC any_DT of_IN the_DT information_NN it_PRP contains_VBZ ._. 
+Please_VB delete_VB it_PRP immediately_RB and_CC notify_VB the_DT sender_NN by_IN return_NN email_NN or_CC by_IN telephone_NN ._. 
+Thank_VB you_PRP ._. 
+
+<_NN <_NN TFG_NNP SJones_NNP Draft_NNP 8_CD -_: 25_CD -_: 01_CD ._. doc_NN >_NN >_NN <_NN <_NN Exhibit_NN STJ-6.xls_NNP >_NN >_NN <_NN <_NN Exhibit_NN STJ-3.xls_NNP >_NN >_NN <_NN <_NN Exhibit_NN STJ-4.xls_NNP >_NN >_NN <_NN <_NN Exhibit_NN STJ-5.xls_NNP >_NN >_NN <_NN <_NN Exhibit_NN STJ-2.doc_NNP >_NN >_NN 
+-_: TFG_NNP SJones_NNP Draft_NNP 8_CD -_: 25_CD -_: 01_CD ._. doc_NN -_: Exhibit_NN STJ-6.xls_NNP -_: Exhibit_NN STJ-3.xls_NNP -_: Exhibit_NN STJ-4.xls_NNP -_: Exhibit_NN STJ-5.xls_NNP -_: Exhibit_NN STJ-2.doc_NNP 

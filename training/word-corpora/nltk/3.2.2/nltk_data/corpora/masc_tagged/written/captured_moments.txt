@@ -1,0 +1,751 @@
+TUESDAY_NNP ,_, AUGUST_NNP 03_CD ,_, 2004_CD Captured_NNP Moments_NNP Published_VBN in_IN Double_RB Feature_NNP by_IN Emma_NNP Bull_NNP and_CC Will_MD Shetterly_NNP (_( NESFA_NNP Press_NNP ,_, 1994_CD )_) ._. 
+This_DT work_NN is_VBZ hereby_NN released_VBN into_IN the_DT Public_NNP Domain_NNP ._. 
+To_TO view_VB a_DT copy_NN of_IN the_DT public_JJ domain_NN dedication_NN ,_, visit_NN http_NN :_: /_NN /_NN creativecommons_NNS ._. org_NN /_NN licenses_NNS /_NN publicdomain_NN /_NN or_CC send_VB a_DT letter_NN to_TO Creative_NNP Commons_NNP ,_, 559_CD Nathan_NNP Abbott_NNP Way_NNP ,_, Stanford_NNP ,_, California_NNP 94305_CD ,_, USA_NNP ._. 
+Captured_NNP Moments_NNP by_IN Will_MD Shetterly_NNP I_PRP remember_VBP Papa_NN 's_POS stopbox_NN ,_, a_DT teal_NN blue_JJ Tiempo_NNP Capturado_NNP that_IN Mama_NNP brought_VBD home_NN for_IN his_PRP$ birthday_NN ._. 
+It_PRP was_VBD huge_JJ and_CC inefficient_JJ ,_, and_CC she_PRP should_MD never_RB have_VB spent_VBN so_RB many_JJ pesos_NNS on_IN a_DT toy_NN ,_, but_CC Papa_NN would_MD not_RB let_VB her_PRP$ return_NN it_PRP ._. 
+He_PRP used_VBD it_PRP to_TO preserve_VB baby_NN tomatoes_NNS ,_, cucumbers_NNS ,_, and_CC strawberries_NNS in_IN translucent_JJ cubes_NNS that_IN he_PRP stored_VBD in_IN the_DT pantry_NN for_IN spring_NN -_- time_NN meals_NNS in_IN the_DT middle_NN of_IN winter_NN ._. 
+Mama_NNP kept_VBD her_PRP$ mink_NN jacket_NN ,_, a_DT family_NN hand_VB -_- me_PRP -_- down_RB ,_, safe_JJ from_IN time_NN in_IN a_DT stopbox_NN ,_, and_CC lent_VBD the_DT capturador_NN to_TO my_PRP$ uncle_NN for_IN his_PRP$ stamp_NN collection_NN ._. 
+Sometimes_RB they_PRP would_MD let_VB us_PRP little_JJ ones_NNS to_TO seal_VB a_DT treasured_JJ toy_NN or_CC a_DT last_JJ piece_NN of_IN birthday_NN cake_NN until_IN we_PRP begged_VBN them_PRP for_IN its_PRP$ release_NN ,_, usually_RB a_DT few_JJ hours_NNS after_IN enclosing_VBG it_PRP ._. 
+
+When_WRB my_PRP$ father_NN died_VBD ,_, a_DT year_NN after_IN my_PRP$ mother_NN ,_, my_PRP$ sisters_NNS and_CC I_PRP cleaned_VBD out_RP their_PRP$ apartment_NN ._. 
+We_PRP found_VBD our_PRP$ baby_NN shoes_NNS protected_VBN in_IN stopboxes_NNS ._. 
+I_PRP took_VBD mine_NN home_NN ,_, where_WRB they_PRP sat_VBD above_IN my_PRP$ computer_NN while_IN I_PRP worked_VBD on_IN my_PRP$ first_JJ play_NN ._. 
+One_CD night_NN when_WRB I_PRP did_VBD not_RB believe_VB love_NN had_VBN ever_RB existed_VBN for_IN anyone_NN ,_, I_PRP used_VBD my_PRP$ own_JJ capturador_NN ,_, a_DT sleek_JJ titanium_NN Sanyo_NNP Tardar_NNP Ahora_NNP ,_, to_TO undo_VB the_DT stopbox_NN ._. 
+Bringing_NNP my_PRP$ face_NN close_RB to_TO the_DT shoes_NNS ,_, I_PRP breathed_VBD deeply_RB of_IN air_NN that_IN my_PRP$ parents_NNS had_VBD trapped_VBN while_IN closing_NN up_RB that_DT symbol_NN of_IN their_PRP$ love_NN for_IN me_PRP ._. 
+
+The_DT instant_JJ would_MD have_VB been_VBN improved_VBN had_VBN my_PRP$ baby_NN shoes_NNS been_VBN cleaned_VBN before_IN they_PRP were_VBD encased_JJ ._. 
+But_CC as_RB soon_RB as_IN I_PRP coughed_VBD ,_, I_PRP laughed_VBD ,_, and_CC I_PRP did_VBD not_RB try_VB to_TO kill_VB myself_PRP that_DT night_NN ._. 
+
+Let_VB me_PRP begin_VB again_RB ._. 
+
+I_PRP like_VBP life_NN on_IN the_DT resort_NN worlds_NNS -_- -_- always_RB have_VBP and_CC ,_, after_IN the_DT upcoming_JJ mindwipe_NN ,_, always_RB will_MD ._. 
+Last_JJ year_NN ,_, I_PRP rented_VBN a_DT small_JJ house_NN on_IN Vega_NNP IV_NNP ,_, a_DT sea_NN world_NN ,_, all_DT islands_NNS and_CC reefs_NNS and_CC archipelagos_NNS ,_, turquoise_NN waters_NNS and_CC aquamarine_NN skies_NNS ,_, sunrises_NNS like_IN symphonies_NNS and_CC sunsets_NNS like_IN stars_NNS gone_VBN supernova_NN ._. 
+There_EX 's_VBZ only_RB one_CD city_NN :_: called_VBN Nuevo_NNP Acapulco_NNP in_IN La_NNP Enciclopedia_NNP del_FW Empirio_NNP de_IN la_FW Humanidad_NNP ,_, it_PRP 's_VBZ N_NNP '_POS apulco_NN to_TO the_DT locals_NNS ._. 
+The_DT N_NNP '_POS apulcans_NNS are_VBP mostly_RB emigrants_NNS from_IN Polaris_NNP II_NNP ;_: the_DT only_JJ difference_NN between_IN them_PRP and_CC their_PRP$ Carribbean_NNP ancestors_NNS is_VBZ that_IN the_DT ancestors_NNS fleeced_VBN NorAm_NNP tourists_NNS ._. 
+Now_RB the_DT N_NNP '_POS apulcans_NNS profit_VBP from_IN their_PRP$ Hispanic_JJ siblings_NNS ._. 
+
+I_PRP do_VBP n't_RB mean_VB to_TO sound_VB cynical_JJ ._. 
+I_PRP suppose_VBP I_PRP wish_VBP to_TO show_VB that_IN I_PRP 'm_VBP still_RB capable_JJ of_IN a_DT certain_JJ authorial_NN distance_NN ,_, a_DT semblance_NN of_IN dispassionate_NN observation_NN ._. 
+The_DT following_VBG events_NNS may_MD indicate_VB otherwise_RB ._. 
+
+In_IN fine_NN tourist_NN tradition_NN ,_, most_JJS homes_NNS on_IN Vega_NNP IV_NNP are_VBP named_VBN ._. 
+Mine_NNP was_VBD The_DT Sleeping_NNP Flamingo_NNP ,_, and_CC its_PRP$ outer_JJ walls_NNS were_VBD coral_NN pink_JJ ._. 
+Were_VBD they_PRP mood_NN -_- sensitive_JJ ,_, they_PRP would_MD have_VB changed_VBN as_IN I_PRP first_RB viewed_VBN them_PRP ._. 
+The_DT rental_JJ agent_NN ,_, an_DT attractive_JJ N_NNP '_POS apulcan_NN named_VBD Tasha_NNP Cortez_NNP ,_, was_VBD not_RB mood_NN -_- sensitive_JJ either_RB ._. 
+She_PRP said_VBD ,_, "_'' It_PRP 's_VBZ beautiful_JJ ,_, is_VBZ n't_RB it_PRP ,_, Señor_NNP Flynn_NNP ?_. "_'' 
+
+My_PRP$ instinct_NN was_VBD to_TO gesture_NN curtly_RB with_IN a_DT cupped_JJ hand_NN that_IN she_PRP lift_VBP the_DT wind_NN boat_NN and_CC take_VB me_PRP elsewhere_RB ._. 
+But_CC she_PRP was_VBD young_JJ and_CC attractive_JJ (_( as_IN I_PRP have_VBP said_VBN and_CC may_MD say_VB again_RB )_) and_CC eager_JJ and_CC so_RB happy_JJ to_TO be_VB assisting_VBG the_DT infamous_JJ Bernardo_NNP Flynn_NNP that_IN I_PRP merely_RB raised_VBD an_DT eyebrow_NN in_IN mild_JJ scepticism_NN ._. 
+And_CC then_RB ,_, because_IN a_DT playwright_NN cannot_NN resist_VBP a_DT promising_JJ line_NN ,_, I_PRP said_VBD ,_, "_'' Your_PRP$ Sleeping_VBG Flamingo_NNP should_MD be_VB put_VBN to_TO sleep_VB ._. "_'' 
+
+To_TO say_VB her_PRP$ face_NN fell_VBD would_MD do_VB a_DT disservice_NN to_TO Tasha_NNP and_CC to_TO literature_NN ._. 
+(_( Allow_VB me_PRP my_PRP$ self_NN -_- indulgences_NNS as_IN you_PRP would_MD those_DT of_IN a_DT dying_VBG man_NN -_- -_- when_WRB I_PRP convince_VBP my_PRP$ mindsmith_NN to_TO permit_VB the_DT wipe_VB ,_, there_EX will_MD be_VB another_DT Bernardo_NNP Flynn_NNP ,_, one_CD who_WP knows_VBZ no_DT more_JJR of_IN Tasha_NNP Cortez_NNP or_CC Vega_NNP IV_NNP than_IN he_PRP reads_VBZ here_RB ._. )_) 
+Her_PRP$ brows_NNS drew_VBD together_RB ,_, creasing_VBG the_DT lovely_JJ ,_, caramel_JJ -_- colored_VBN skin_NN around_IN her_PRP$ eyes_NNS and_CC showing_VBG the_DT pattern_NN for_IN an_DT old_JJ woman_NN 's_POS wrinkles_NNS on_IN her_PRP$ forehead_NN ._. 
+Her_PRP$ lower_JJR lip_NN (_( a_DT trifle_RB too_RB narrow_JJ for_IN her_PRP$ face_NN ,_, perhaps_RB her_PRP$ only_RB physical_JJ flaw_NN )_) thrust_NN forward_RB slightly_RB as_IN she_PRP started_VBD to_TO speak_VB ._. 
+She_PRP caught_VBD herself_PRP ,_, slid_VBD her_PRP$ jaw_NN infinitesimally_RB back_RB into_IN place_NN ,_, and_CC said_VBD ,_, "_'' You_PRP do_VBP n't_RB like_VB it_PRP ?_. "_'' 
+
+I_PRP laughed_VBD ._. 
+What_WP could_MD I_PRP do_VB ?_. 
+I_PRP clapped_JJ her_PRP$ shoulder_NN to_TO show_VB I_PRP was_VBD not_RB laughing_VBG at_IN her_PRP ._. 
+"_'' Like_IN it_PRP ?_. 
+I_PRP hate_VBP it_PRP ,_, despise_VB it_PRP ,_, abhor_NN it_PRP !_. 
+It_PRP 's_VBZ gaudy_NN ,_, graceless_JJ ,_, pretentious_JJ -_- -_- That_DT house_NN is_VBZ an_DT affront_NN to_TO taste_VB and_CC intelligence_NN ._. 
+I_PRP should_MD buy_VB it_PRP to_TO raze_NN it_PRP ,_, but_CC I_PRP am_VBP not_RB so_RB kind_JJ -_- hearted_JJ ._. 
+I_PRP might_MD ,_, however_RB ,_, rent_NN it_PRP ._. "_'' 
+
+I_PRP think_VBP she_PRP only_RB heard_VBD the_DT last_JJ words_NNS of_IN my_PRP$ speech_NN ._. 
+"_'' You_PRP will_MD ?_. "_'' 
+
+"_'' It_PRP amuses_NNS me_PRP ._. 
+Show_NNP me_PRP around_IN ,_, and_CC then_RB I_PRP shall_MD decide_VB ._. "_'' 
+
+"_'' Of_IN course_NN ,_, Señor_NNP Flynn_NNP ._. "_'' 
+
+"_'' And_CC stop_VB calling_VBG me_PRP '_POS señor_NN '_'' ._. 
+Not_RB even_RB Los_NNP Mundos_NNP is_VBZ so_RB polite_JJ ._. 
+Call_VB me_PRP Bernardo_NNP ._. "_'' 
+
+"_'' If_IN you_PRP wish_VBP ._. "_'' 
+
+"_'' I_PRP beg_VB you_PRP ,_, change_NN the_DT color_NN of_IN the_DT walls_NNS ,_, at_IN the_DT very_RB least_JJS ._. "_'' 
+
+"_'' But_CC of_IN course_NN !_. "_'' 
+The_DT house_NN walls_NNS shifted_VBN from_IN pink_JJ to_TO lavender_NN ._. 
+
+I_PRP stared_VBD ._. 
+
+"_'' How_WRB 's_POS that_DT ?_. "_'' 
+
+I_PRP looked_VBD at_IN her_PRP ._. 
+
+"_'' Worse_JJR ?_. "_'' 
+
+I_PRP nodded_JJ ._. 
+"_'' I_PRP would_MD not_RB have_VB thought_VBN it_PRP possible_JJ ._. "_'' 
+
+She_PRP frowned_JJ ._. 
+"_'' It_PRP is_VBZ rather_RB ugly_JJ ._. "_'' 
+
+"_'' Thoroughly_NNP ugly_JJ ,_, "_'' I_PRP corrected_VBD with_IN smile_NN ._. 
+
+"_'' Obscenely_NNP ugly_JJ ,_, "_'' said_VBD she_PRP ,_, smiling_VBG too_RB ._. 
+
+"_'' No._NN "_'' 
+I_PRP pointed_VBD ._. 
+"_'' It_PRP has_VBZ no_DT tower_NN ._. "_'' 
+
+"_'' I_PRP can_MD fix_VB that_DT ._. "_'' 
+She_PRP reached_VBD for_IN another_DT dial_NN on_IN the_DT house_NN controls_NNS ._. 
+
+"_'' Do_VBP n't_RB you_PRP dare_VBP !_. "_'' 
+Her_PRP$ wrist_NN ,_, when_WRB I_PRP grabbed_VBD it_PRP ,_, was_VBD smooth_JJ and_CC strong_JJ and_CC warm_JJ in_IN my_PRP$ fingers_NNS ._. 
+"_'' I_PRP 'll_MD take_VB it_PRP ._. 
+Exactly_RB as_IN it_PRP is_VBZ ._. "_'' 
+
+"_'' You_PRP will_MD ?_. "_'' 
+
+"_'' I_PRP must_MD ._. 
+God_NNP knows_VBZ what_WP you_PRP might_MD do_VB to_TO it_PRP next_JJ ._. "_'' 
+Reluctantly_NNP ,_, I_PRP released_VBD her_PRP$ hand_NN ._. 
+
+The_DT interior_NN of_IN The_DT Flamingo_NNP was_VBD a_DT welcome_JJ surprise_NN ._. 
+Cloudwood_NNP had_VBD been_VBN used_VBN in_IN a_DT Mediterranean_NNP manner_NN ,_, making_VBG the_DT house_NN seem_VBP primitive_JJ and_CC civilized_JJ at_IN the_DT same_JJ time_NN ._. 
+The_DT kitchen_NN and_CC baths_NNS had_VBD every_DT convenience_NN that_IN I_PRP desired_VBD ._. 
+From_IN the_DT living_VBG room_NN ,_, the_DT view_NN of_IN the_DT beach_NN struck_VBD me_PRP with_IN such_JJ intensity_NN that_IN Tasha_NNP asked_VBD if_IN I_PRP felt_VBD ill_JJ ._. 
+All_DT I_PRP could_MD say_VB was_VBD ,_, "_'' No._NN 
+I_PRP 'm_VBP in_IN love_NN ._. "_'' 
+We_PRP both_DT thought_VBD I_PRP referred_VBD to_TO the_DT vista_NN ._. 
+
+It_PRP 's_VBZ strange_JJ how_WRB one_PRP can_MD write_VB delightedly_RB of_IN the_DT happier_JJR moments_NNS of_IN life_NN ,_, forgetting_VBG the_DT things_NNS that_IN one_PRP would_MD forget_VB by_IN remembering_VBG fully_RB the_DT things_NNS one_PRP would_MD remember_VB ,_, and_CC suddenly_RB the_DT forgotten_VBN ,_, in_IN revenge_NN ,_, rears_NNS up_IN to_TO savage_NN the_DT unwary_JJ ._. 
+So_IN it_PRP was_VBD as_IN I_PRP wrote_VBD the_DT preceding_VBG ._. 
+My_PRP$ heart_NN convulsed_JJ ,_, and_CC I_PRP left_VBD this_DT manuscript_NN for_IN a_DT three_CD -_- day_NN spree_NN ._. 
+Apparently_RB I_PRP was_VBD so_RB successful_JJ that_IN it_PRP lasted_VBD a_DT week_NN and_CC a_DT half_NN ._. 
+Not_RB bad_JJ for_IN an_DT eighty_CD -_- three_CD -_- year_NN -_- old_JJ ,_, even_RB for_IN one_CD who_WP has_VBZ his_PRP$ rejuve_NN every_DT month_NN ._. 
+And_CC if_IN I_PRP can_MD brag_VB and_CC digress_NNS so_RB easily_RB ,_, this_DT must_MD not_RB be_VB painful_JJ enough_RB to_TO merit_VB a_DT mindwipe_NN ,_, yes_UH ?_. 
+
+No._NN 
+I_PRP abandoned_VBD these_DT notes_NNS to_TO my_PRP$ future_JJ self_NN to_TO have_VB the_DT wipe_VB done_VBN immediately_RB ,_, thinking_VBG that_IN Bernardo_NNP Flynn_NNP should_MD receive_VB such_JJ services_NNS when_WRB he_PRP needed_VBD them_PRP ,_, even_RB should_MD the_DT need_NN arise_VB at_IN the_DT third_JJ hour_NN after_IN midnight_NN ._. 
+My_PRP$ mindsmith_NN is_VBZ not_RB so_RB understanding_NN ._. 
+She_PRP says_VBZ I_PRP am_VBP emotionally_RB a_DT child_NN ,_, to_TO which_WDT I_PRP reply_VB ,_, "_'' Of_IN course_NN ._. 
+Why_WRB else_RB would_MD I_PRP come_VB to_TO you_PRP ?_. "_'' 
+This_DT logic_NN does_VBZ not_RB soothe_VB her_PRP$ ;_: she_PRP says_VBZ I_PRP must_MD wait_VB three_CD weeks_NNS ._. 
+Three_CD !_. 
+._. 
+Such_JJ is_VBZ the_DT law_NN ._. 
+I_PRP say_VBP I_PRP do_VBP not_RB care_VB about_IN law_NN ,_, I_PRP care_VBP about_IN service_NN and_CC she_PRP should_MD care_VB about_IN money_NN ._. 
+Enough_JJ ._. 
+I_PRP went_VBD on_IN a_DT spree_NN ,_, and_CC it_PRP must_MD have_VB been_VBN a_DT good_JJ one_CD ._. 
+I_PRP hope_VBP the_DT wipe_VB is_VBZ as_IN successful_JJ with_IN my_PRP$ time_NN on_IN Vega_NNP IV_NNP as_IN my_PRP$ spree_NN was_VBD with_IN my_PRP$ time_NN here_RB ._. 
+I_PRP dimly_RB remember_VBP three_CD bedpartners_NNS who_WP were_VBD probably_RB human_JJ ,_, and_CC one_CD that_IN I_PRP hope_VBP was_VBD delirium_NN ._. 
+I_PRP will_MD not_RB answer_VB the_DT phone_NN for_IN a_DT week_NN ,_, no_DT matter_NN whose_WP$ face_NN appears_VBZ on_IN it_PRP ._. 
+
+I_PRP keep_VBP evading_VBG the_DT issue_NN ._. 
+But_CC which_WDT issue_VBP ?_. 
+The_DT issue_NN of_IN why_WRB I_PRP am_VBP evading_VBG the_DT issue_NN ,_, or_CC the_DT issue_NN itself_PRP ?_. 
+To_TO deal_VB with_IN the_DT first_JJ :_: it_PRP hurts_VBZ to_TO remember_VB ._. 
+If_IN I_PRP am_VBP capable_JJ of_IN love_NN ,_, I_PRP loved_VBD Tasha_NNP Cortez_NNP ._. 
+If_IN I_PRP am_VBP not_RB ,_, I_PRP had_VBD the_DT perfect_JJ mirror_VBP for_IN my_PRP$ narcissism_NN ._. 
+
+As_IN for_IN the_DT issue_NN itself_PRP ,_, I_PRP 'm_VBP no_DT longer_RB sure_JJ what_WP I_PRP want_VBP to_TO record_VB ._. 
+The_DT playwright_NN in_IN me_PRP wants_VBZ every_DT scene_NN of_IN our_PRP$ time_NN together_RB ._. 
+The_DT editor_NN says_VBZ no_DT ,_, only_RB those_DT that_WDT are_VBP relevant_JJ ._. 
+The_DT sufferer_NN says_VBZ no_DT ,_, only_RB those_DT which_WDT cause_VBP no_DT pain_NN ._. 
+And_CC the_DT artist_NN says_VBZ no_DT ,_, only_RB those_DT which_WDT cause_VBP the_DT most_JJS pain_NN ,_, for_IN those_DT would_MD be_VB the_DT truest_NN memories_NNS ._. 
+
+So_IN I_PRP shall_MD soothe_VB my_PRP$ quarreling_VBG selves_NNS with_IN a_DT compromise_NN ._. 
+I_PRP will_MD not_RB talk_VB of_IN the_DT first_JJ time_NN Tasha_NNP and_CC I_PRP tried_VBD any_DT act_NN of_IN sex_NN or_CC sport_NN together_RB ._. 
+I_PRP can_MD remember_VB similar_JJ things_NNS with_IN others_NNS ._. 
+Tasha_NNP 's_POS witchery_NN lay_VB in_IN making_VBG old_JJ acts_NNS new_JJ ._. 
+Is_VBZ that_DT love_NN ?_. 
+Probably_RB not_RB ._. 
+But_CC it_PRP is_VBZ something_NN marvelous_JJ and_CC rare_JJ ,_, which_WDT is_VBZ surely_RB a_DT sign_NN of_IN love_NN ._. 
+
+If_IN my_PRP$ love_NN for_IN her_PRP$ was_VBD the_DT only_RB important_JJ thing_NN ,_, I_PRP would_MD leave_VB a_DT holo_NN of_IN her_PRP with_IN a_DT note_NN :_: "_'' Dear_RB Future_NNP ,_, this_DT is_VBZ Tasha_NNP Cortez_NNP ._. 
+You_PRP loved_VBD her_PRP ._. 
+With_IN warmest_NN regards_VBZ ,_, Your_PRP$ Past_JJ ._. "_'' 
+
+Enough_JJ ._. 
+Tasha_NNP and_CC I_PRP walked_VBD through_IN The_DT Sleeping_VBG Flamingo_NNP together_RB ,_, and_CC I_PRP decided_VBD to_TO buy_VB it_PRP ._. 
+Then_RB -_- -_- 
+
+This_DT is_VBZ not_RB easy_JJ ._. 
+I_PRP stand_VBP up_RB ,_, I_PRP walk_VBP around_RB ,_, I_PRP pretend_VB someone_NN makes_VBZ a_DT vid_NN about_IN a_DT writer_NN and_CC I_PRP must_MD enact_VB every_DT cliche_NN ._. 
+I_PRP cannot_NN decide_VB what_WP 's_VBZ important_JJ ._. 
+But_CC I_PRP have_VBP learned_VBN something_NN :_: writing_VBG trivializes_NNS ._. 
+The_DT Tasha_NNP who_WP was_VBD is_VBZ not_RB the_DT Tasha_NNP in_IN this_DT file_NN ._. 
+The_DT Tasha_NNP in_IN this_DT file_NN is_VBZ not_RB even_RB the_DT Tasha_NNP I_PRP loved_VBD and_CC thought_VBD I_PRP knew_VBD ._. 
+The_DT Tasha_NNP in_IN this_DT file_NN would_MD walk_VB through_IN a_DT net_JJ show_NN in_IN half_PDT an_DT hour_NN ,_, including_VBG commercials_NNS ,_, and_CC just_RB before_IN an_DT ad_NN for_IN Figuero_NNP 's_POS Flash_NNP Diapers_NNP -_- -_- Keeps_NNP Baby_NNP Driest_NNP !_. 
+,_, she_PRP -_- -_- 
+
+Tasha_NNP is_VBZ not_RB the_DT whole_NN of_IN what_WP happened_VBD on_IN Vega_NNP IV_NNP ._. 
+I_PRP must_MD also_RB write_VB about_IN Emiliano_NNP Gabriel_NNP Malaquez_NNP ._. 
+
+Future_JJ Self_NN ,_, you_PRP know_VBP our_PRP$ style_NN well_RB enough_RB to_TO tell_VB that_DT time_NN has_VBZ passed_VBN between_IN the_DT last_JJ sentence_NN and_CC this_DT ._. 
+Not_RB another_DT spree_NN -_- -_- at_IN least_JJS ,_, not_RB like_IN the_DT other_JJ ._. 
+I_PRP have_VBP been_VBN re-reading_JJ all_DT our_PRP$ favorite_JJ books_NNS -_- -_- 
+
+But_CC neither_DT of_IN us_PRP care_VBP to_TO dwell_NN on_IN such_JJ boring_JJ subjects_NNS ,_, do_VBP we_PRP ?_. 
+
+I_PRP want_VBP to_TO pick_VB up_RP with_IN Tasha_NNP and_CC me_PRP walking_VBG about_IN The_DT Sleeping_VBG Flamingo_NNP ,_, and_CC then_RB ,_, for_IN the_DT sake_NN of_IN literary_JJ convenience_NN ,_, to_TO say_VB that_IN from_IN a_DT corner_NN of_IN the_DT yard_NN I_PRP saw_VBD a_DT neighboring_VBG house_NN ,_, and_CC the_DT sight_NN filled_VBD me_PRP with_IN darkest_NN forebodings_NNS ._. 
+But_CC the_DT truth_NN is_VBZ that_IN Tasha_NNP pointed_VBD it_PRP out_IN from_IN the_DT one_CD place_NN where_WRB it_PRP could_MD barely_RB be_VB seen_VBN ,_, and_CC I_PRP only_RB felt_VBD envy_NN that_IN it_PRP had_VBD been_VBN designed_VBN by_IN someone_NN with_IN understated_VBN good_JJ taste_NN ._. 
+"_'' Who_WP lives_NNS there_RB ?_. "_'' 
+I_PRP asked_VBD ._. 
+
+"_'' No_DT one_NN ,_, "_'' Tasha_NNP replied_VBD ._. 
+
+Truth_NNP is_VBZ always_RB more_RBR boring_JJ than_IN fiction_NN ._. 
+For_IN Malaquez_NNP did_VBD not_RB move_VB into_IN Dream_NN 's_POS End_NN until_IN four_CD or_CC five_CD months_NNS after_IN I_PRP -_- -_- we_PRP ?_. 
+how_WRB does_VBZ one_CD speak_VB to_TO one_CD 's_POS future_JJ self_NN ?_. 
+-_- -_- occupied_VBD The_DT Flamingo_NNP ._. 
+
+I_PRP do_VBP not_RB plan_VB to_TO write_VB a_DT book_NN :_: this_DT narrative_NN must_MD move_VB more_RBR quickly_RB ._. 
+Tasha_NNP and_CC I_PRP became_VBD lovers_NNS that_WDT evening_NN ,_, after_IN a_DT good_JJ dinner_NN of_IN paella_NN at_IN her_PRP$ apartment_NN ._. 
+I_PRP made_VBD some_DT small_JJ joke_NN afterward_RB ,_, about_IN approving_VBG of_IN her_PRP$ firm_NN 's_POS business_NN incentives_NNS ,_, and_CC she_PRP cried_JJ ._. 
+Consoling_NNP her_PRP$ ,_, I_PRP began_VBD to_TO suspect_VB I_PRP loved_VBD her_PRP ._. 
+I_PRP moved_VBD into_IN The_DT Flamingo_NNP the_DT next_JJ day_NN ;_: and_CC she_PRP gave_VBD up_RP her_PRP$ apartment_NN three_CD weeks_NNS later_RB to_TO join_VB me_PRP ._. 
+It_PRP was_VBD the_DT sort_NN of_IN romance_NN that_WDT happens_VBZ so_RB rarely_RB that_IN most_JJS people_NNS believe_VBP it_PRP does_VBZ not_RB happen_VB at_IN all_DT ,_, the_DT sort_NN of_IN romance_NN that_WDT sustains_VBZ the_DT hopeless_JJ billions_NNS who_WP regularly_RB watch_VBP A_DT Wandering_NNP Star_NNP Called_VBD Love_NN ._. 
+(_( Which_WDT is_VBZ to_TO say_VB ,_, you_PRP and_CC me_PRP ,_, Future_NNP Self_NN ._. )_) 
+
+Who_WP was_VBD Tasha_NNP Cortez_NNP ?_. 
+She_PRP was_VBD a_DT twenty_CD -_- four_CD -_- year_NN -_- old_JJ (_( Terran_NNP Standard_NNP )_) N_NNP '_POS Apulcan_NNP who_WP left_VBD university_NN training_NN in_IN hydroponics_NNS to_TO work_VB for_IN her_PRP$ aunt_NN 's_POS real_JJ estate_NN firm_NN ._. 
+Her_PRP$ family_NN said_VBD she_PRP did_VBD it_PRP to_TO support_VB her_PRP$ father_NN ,_, who_WP was_VBD dying_VBG of_IN a_DT particularly_RB painful_JJ degenerative_JJ disease_NN ._. 
+Tasha_NNP said_VBD she_PRP woke_VBD up_RB one_CD morning_NN convinced_VBN that_IN if_IN she_PRP spent_VBD another_DT day_NN studying_VBG vegetables_NNS ,_, she_PRP would_MD become_VB one_CD ._. 
+
+She_PRP did_VBD not_RB like_IN my_PRP$ plays_NNS ._. 
+I_PRP had_VBD impressed_VBN her_PRP because_IN I_PRP was_VBD famous_JJ and_CC amusing_JJ and_CC not_RB ,_, as_IN I_PRP had_VBD hoped_VBN ,_, because_IN I_PRP was_VBD a_DT great_JJ artist_NN ._. 
+That_DT bothered_VBN (_( yes_UH ,_, and_CC intrigued_VBN )_) me_PRP until_IN I_PRP realized_VBD that_IN she_PRP was_VBD bored_VBN by_IN most_JJS plays_VBZ ,_, movies_NNS ,_, and_CC vid_NN ._. 
+She_PRP did_VBD not_RB like_IN being_VBG a_DT spectator_NN ._. 
+I_PRP often_RB told_VBD her_PRP that_IN she_PRP should_MD have_VB a_DT bio-check_NN to_TO see_VB if_IN she_PRP suffered_VBD from_IN some_DT metabolic_JJ imbalance_NN ._. 
+I_PRP often_RB told_VBD her_PRP$ too_RB many_JJ things_NNS ._. 
+
+Search_NNP "_'' Emiliano_NNP Malaquez_NNP "_'' and_CC you_PRP 'll_MD find_VB he_PRP 's_VBZ a_DT master_NN of_IN the_DT "_'' captured_VBN moment_NN "_'' school_NN of_IN sculpture_NN ._. 
+Even_RB The_DT Terran_NNP Times_NNP has_VBZ only_RB praise_NN for_IN his_PRP$ work_NN ._. 
+To_TO compare_VB his_PRP$ pieces_NNS to_TO those_DT of_IN others_NNS is_VBZ to_TO compare_VB mannequins_NNS to_TO living_VBG models_NNS ._. 
+He_PRP accents_NNS the_DT illusion_NN of_IN reality_NN -_- -_- I_PRP paraphrase_VBP his_PRP$ entry_NN in_IN La_NNP Enciclopedia_NNP Humanica_NNP -_- -_- by_IN doing_VBG life_NN -_- size_NN scenes_NNS in_IN "_'' the_DT full_JJ round_NN ,_, "_'' never_RB the_DT easier_RBR frontal_JJ or_CC three_CD -_- quarters_NNS view_VBP ._. 
+Moreover_RB ,_, he_PRP never_RB did_VBD portraits_NNS of_IN famous_JJ people_NNS ;_: his_PRP$ works_NNS were_VBD therefore_RB the_DT reality_NN and_CC could_MD never_RB be_VB compared_VBN to_TO it_PRP ._. 
+As_IN is_VBZ typical_JJ of_IN his_PRP$ school_NN ,_, his_PRP$ pieces_NNS are_VBP sealed_VBN in_IN stopboxes_NNS ._. 
+The_DT shimmer_NN of_IN light_JJ on_IN their_PRP$ surfaces_VBZ always_RB reminds_VBZ us_PRP that_IN we_PRP 're_VBP looking_VBG at_IN an_DT instant_JJ snatched_VBN from_IN under_IN the_DT hooves_NNS of_IN time_NN ._. 
+They_PRP say_VBP the_DT cubes_NNS will_MD outlast_VB planets_NNS and_CC suns_NNS ,_, that_IN when_WRB the_DT universe_NN dies_VBZ ,_, the_DT works_NNS of_IN Malaquez_NNP and_CC his_PRP$ followers_NNS will_MD be_VB the_DT last_JJ things_NNS seen_VBN in_IN the_DT final_JJ wink_NN of_IN God_NNP 's_POS eye_NN ._. 
+
+Yes_UH ,_, Self_NN ,_, I_PRP am_VBP also_RB bothered_VBN that_IN this_DT observation_NN ignores_VBZ half_JJ -_- eaten_VBN cheese_NN sandwiches_NNS ,_, incomplete_JJ insect_NN collections_NNS ,_, and_CC locks_NNS of_IN infants_NNS '_POS hair_NN ,_, forgotten_VBN in_IN closets_NNS ,_, basements_NNS ,_, and_CC warehouses_NNS ._. 
+
+You_PRP see_VBP the_DT inspiration_NN for_IN my_PRP$ latest_JJS play_VB ,_, "_'' Captured_NNP Moments_NNP ._. "_'' 
+The_DT mindwipe_NN will_MD take_VB its_PRP$ creation_NN from_IN my_PRP$ future_JJ self_NN -_- -_- but_CC time_NN too_RB often_RB does_VBZ that_IN without_IN aid_NN ._. 
+The_DT play_NN 's_POS second_JJ act_NN concludes_VBZ with_IN the_DT last_JJ fight_NN between_IN Tasha_NNP and_CC me_PRP ._. 
+I_PRP have_VBP disguised_VBN us_PRP in_IN the_DT play_NN ,_, and_CC deleted_VBN one_CD brief_JJ melodramatic_JJ interchange_NN ._. 
+Now_RB I_PRP will_MD mention_VB it_PRP ,_, in_IN case_NN I_PRP /_NN You_PRP decide_VBP to_TO restore_VB it_PRP ._. 
+Shortly_RB before_IN she_PRP left_VBD ,_, Tasha_NNP said_VBD ,_, "_'' You_PRP steal_VBP from_IN life_NN for_IN art_NN ,_, Bernardo_NNP ._. 
+You_PRP 'll_MD impoverish_NN yourself_PRP ._. "_'' 
+I_PRP only_RB snarled_JJ at_IN her_PRP$ and_CC -_- -_- 
+
+My_PRP$ story_NN leaps_NNS ahead_RB of_IN itself_PRP ._. 
+Let_VB me_PRP retreat_NN and_CC retrench_VBP :_: 
+
+One_CD night_NN during_IN N_NNP '_POS apulco_NN 's_POS mild_JJ winter_NN ,_, Tasha_NNP returned_VBD to_TO The_DT Flamingo_NNP ,_, saying_VBG ,_, "_'' Nardo_NNP !_. 
+Nardo_NNP !_. 
+Guess_NNP what_WP ?_. "_'' 
+
+My_PRP$ mind_NN was_VBD on_IN other_JJ things_NNS ._. 
+"_'' You_PRP wish_VBP to_TO become_VB pregnant_JJ ?_. 
+I_PRP suppose_VBP I_PRP could_MD assist_VB a_DT friend_NN ._. 
+Purely_NNP for_IN the_DT sake_NN of_IN the_DT race_NN ,_, of_IN course_NN -_- -_- "_'' 
+
+"_'' Ever_RB the_DT altruist_NN ._. 
+Still_RB ,_, if_IN I_PRP do_VBP decide_VB ,_, we_PRP could_MD practice_VB -_- -_- "_'' 
+
+Later_RB ,_, I_PRP said_VBD ,_, "_'' You_PRP 've_VBP been_VBN chosen_VBN to_TO succeed_VB the_DT Emperor_NNP ._. "_'' 
+
+"_'' What_WP ?_. "_'' 
+
+"_'' My_PRP$ guess_VBP ._. "_'' 
+
+She_PRP batted_VBD at_IN my_PRP$ nose_NN like_IN a_DT cat_NN ._. 
+"_'' Silly_NNP Nardo_NNP ._. "_'' 
+
+"_'' Then_RB I_PRP give_VBP up_RB ._. "_'' 
+
+"_'' Emil_NNP Malaquez_NNP is_VBZ buying_VBG the_DT house_NN up_RP the_DT hill_NN ._. "_'' 
+
+"_'' Oh_UH ._. "_'' 
+
+"_'' You_PRP do_VBP n't_RB know_VB who_WP he_PRP is_VBZ ?_. "_'' 
+
+"_'' Well_RB ..._... "_'' 
+
+"_'' Nardo_NNP !_. "_'' 
+One_CD of_IN the_DT many_JJ things_NNS I_PRP liked_VBD about_IN her_PRP$ was_VBD that_IN she_PRP often_RB thought_VBD me_PRP shockingly_RB ignorant_NN ._. 
+
+"_'' That_DT 's_VBZ ,_, uh_UH ..._... "_'' 
+I_PRP am_VBP never_RB so_RB quick_JJ -_- witted_JJ in_IN person_NN as_IN I_PRP am_VBP on_IN the_DT page_NN ._. 
+Especially_RB when_WRB someone_NN thinks_VBZ me_PRP shockingly_RB ignorant_NN ._. 
+
+"_'' You_PRP know_VBP ,_, the_DT sculptor_NN ._. 
+He_PRP 's_VBZ had_VBD shows_VBZ in_IN Brazil_NNP and_CC New_NNP Madrid_NNP and_CC everywhere_RB !_. 
+He_PRP may_MD be_VB more_RBR famous_JJ than_IN you_PRP ._. "_'' 
+
+"_'' Imagine_VB that_DT ._. "_'' 
+I_PRP remembered_VBD an_DT article_NN in_IN The_DT Medusa_NNP and_CC a_DT photo_NN of_IN a_DT work_NN in_IN which_WDT 100_CD -_- peso_NN notes_NNS fell_VBD like_IN confetti_NN onto_IN a_DT small_JJ Undersider_NNP ,_, sexlessly_RB young_JJ in_IN grimy_NN ,_, oversized_JJ clothing_NN ._. 
+The_DT child_NN 's_POS face_NN was_VBD a_DT warground_NN for_IN wonder_VBP and_CC mistrust_NN ._. 
+Imprisoned_VBN light_JJ from_IN forgotten_VBN streetlamps_NNS snagged_VBN itself_PRP on_IN metal_NN threads_NNS in_IN the_DT fluttering_VBG pesos_NNS ._. 
+The_DT stars_NNS themselves_PRP might_MD have_VB fallen_VBN on_IN the_DT Undersider_NNP and_CC the_DT event_NN would_MD have_VB been_VBN no_DT less_RBR strange_JJ ,_, no_DT less_RBR miraculous_JJ ._. 
+"_'' A_DT great_JJ artist_NN will_MD grace_VB this_DT world_NN ,_, then_RB ?_. "_'' 
+
+"_'' Nardo_NNP !_. "_'' 
+She_PRP was_VBD never_RB tolerant_NN of_IN my_PRP$ ego_NN ._. 
+
+"_'' Well_RB ._. 
+What_WP 's_VBZ this_DT more_JJR -_- famous_JJ -_- than_IN -_- me_PRP person_NN like_IN ?_. "_'' 
+
+"_'' I_PRP did_VBD n't_RB meet_VB him_PRP ,_, jealous_JJ old_JJ one_CD ._. "_'' 
+
+"_'' Too_RB bad_JJ ._. 
+If_IN I_PRP thought_VBD he_PRP could_MD free_VB me_PRP from_IN you_PRP -_- -_- "_'' 
+
+"_'' Hah_NNP !_. "_'' 
+She_PRP wrapped_VBD her_PRP$ arms_NNS around_IN my_PRP$ stomach_NN ._. 
+"_'' You_PRP 'll_MD never_RB be_VB free_JJ of_IN me_PRP ,_, old_JJ man_NN !_. "_'' 
+
+The_DT next_JJ evening_NN ,_, she_PRP arrived_VBD with_IN a_DT stack_VB of_IN glistening_VBG stopboxes_NNS containing_VBG sushi_NN ,_, sashimi_NN ,_, oysters_NNS in_IN their_PRP$ shells_NNS ,_, and_CC Terran_NNP vegetables_NNS fresh_JJ plucked_VBN from_IN their_PRP$ hydroponic_JJ beds_NNS ._. 
+Wondering_NNP about_IN the_DT reason_NN for_IN her_PRP$ extravagance_NN ,_, I_PRP asked_VBD how_WRB work_NN had_VBD gone_VBN that_DT day_NN ._. 
+
+"_'' Emil_NNP came_VBD in_IN ._. 
+He_PRP 's_VBZ taking_VBG Dream_NN 's_POS End_NN ._. "_'' 
+
+"_'' Emil_NNP ?_. "_'' 
+
+"_'' You_PRP 've_VBP no_DT memory_NN left_VBD ,_, old_JJ one_CD ._. 
+Emil_NNP Malaquez_NNP ._. "_'' 
+
+"_'' Ah_UH ._. 
+You_PRP did_VBD that_IN to_TO test_VB my_PRP$ affections_NNS ._. "_'' 
+
+"_'' What_WP ?_. "_'' 
+
+"_'' Calling_VBG him_PRP by_IN his_PRP$ first_JJ name_NN ._. 
+I_PRP did_VBD that_IN in_IN a_DT comedy_NN once_RB ._. 
+'_POS Nights_NNPS with_IN Karl_NNP and_CC Groucho_NNP ._. '_POS 
+It_PRP was_VBD before_IN your_PRP$ time_NN ._. "_'' 
+
+"_'' Oh_UH ._. "_'' 
+
+"_'' The_DT critics_NNS liked_VBD it_PRP ._. "_'' 
+
+"_'' I_PRP 'm_VBP glad_JJ ._. "_'' 
+A_DT moment_NN later_RB :_: "_'' That_DT 's_VBZ not_RB why_WRB I_PRP called_VBD him_PRP '_POS Emil_NNP '_'' ._. "_'' 
+
+"_'' No_UH ?_. "_'' 
+
+"_'' No._NN 
+We_PRP lunched_JJ together_RB ._. 
+He_PRP 's_VBZ nice_JJ ._. "_'' 
+
+"_'' Oh_UH ._. "_'' 
+
+"_'' It_PRP was_VBD n't_RB like_VB that_DT ._. "_'' 
+
+"_'' You_PRP 're_VBP free_JJ ._. "_'' 
+
+"_'' Of_IN course_NN ._. 
+Still_RB ,_, it_PRP was_VBD n't_RB like_VB that_DT ._. 
+You_PRP think_VBP I_PRP sleep_VBP with_IN every_DT famous_JJ person_NN I_PRP meet_VBP ?_. "_'' 
+
+As_IN you_PRP may_MD have_VB guessed_VBD ,_, we_PRP had_VBD talked_VBN about_IN such_JJ things_NNS ._. 
+I_PRP do_VBP not_RB claim_VB ours_PRP was_VBD a_DT perfect_JJ affair_NN ,_, only_RB a_DT wonderful_JJ one_CD ._. 
+
+"_'' Tasha_NNP -_- -_- "_'' 
+
+"_'' Do_VBP you_PRP ?_. "_'' 
+
+"_'' No._NN "_'' 
+
+"_'' Good_JJ ._. 
+I_PRP invited_VBD him_PRP to_TO dinner_NN tomorrow_NN ._. "_'' 
+
+"_'' Oh_UH ?_. "_'' 
+
+"_'' He_PRP 'll_MD be_VB our_PRP$ neighbor_NN ._. 
+You_PRP say_VBP we_PRP 're_VBP becoming_VBG too_RB insular_NN ,_, that_IN we_PRP need_VBP to_TO socialize_VB -_- -_- "_'' 
+
+"_'' I_PRP 've_VBP socialized_JJ for_IN sixty_CD -_- three_CD years_NNS ._. "_'' 
+
+"_'' Nardo_NNP ?_. "_'' 
+
+"_'' Yes_UH ?_. "_'' 
+
+"_'' How_WRB should_MD I_PRP reply_VB ?_. "_'' 
+Her_PRP$ voice_NN had_VBD grown_VBN quiet_JJ ,_, and_CC I_PRP began_VBD to_TO feel_VB some_DT guilt_NN ._. 
+I_PRP had_VBD ,_, it_PRP is_VBZ true_JJ ,_, told_VBD her_PRP that_IN we_PRP needed_VBD other_JJ company_NN than_IN our_PRP$ own_JJ ._. 
+I_PRP said_VBD this_DT from_IN years_NNS of_IN learning_VBG that_IN romances_NNS consume_VBP themselves_PRP without_IN other_JJ fuel_NN ._. 
+But_CC knowing_VBG this_DT did_VBD not_RB mean_VB I_PRP wanted_VBD it_PRP ._. 
+
+I_PRP said_VBD ,_, "_'' Truthfully_NNP ._. "_'' 
+It_PRP was_VBD the_DT statement_NN of_IN a_DT younger_JJR and_CC crueler_NN man_NN than_IN I._NN 
+
+She_PRP screamed_VBD ,_, "_'' I_PRP have_VBP n't_RB socialized_JJ with_IN Terra_NNP 's_POS elite_NN for_IN most_JJS of_IN my_PRP$ life_NN !_. 
+I_PRP have_VBP n't_RB socialized_JJ with_IN hardly_RB anyone_NN for_IN hardly_RB any_DT of_IN my_PRP$ life_NN !_. 
+And_CC I_PRP invite_VB a_DT neighbor_NN ,_, one_CD nice_JJ ,_, lonely_JJ man_NN -_- -_- "_'' 
+
+"_'' I_PRP 'm_VBP sorry_JJ ._. "_'' 
+
+"_'' -_- -_- who_WP took_VBD me_PRP to_TO -_- -_- What_WP ?_. "_'' 
+
+"_'' I_PRP 'm_VBP sorry_JJ ._. 
+Truly_NNP ._. "_'' 
+
+"_'' Oh_UH ._. "_'' 
+She_PRP studied_VBD me_PRP as_IN a_DT suspicious_JJ puppy_NN might_MD ,_, then_RB said_VBD ,_, "_'' I_PRP 'm_VBP sorry_JJ ,_, too_RB ._. "_'' 
+
+"_'' I_PRP suppose_VBP I_PRP sound_VBP like_IN I_PRP 'm_VBP bragging_NN when_WRB I_PRP talk_NN of_IN the_DT things_NNS I_PRP 'm_VBP tired_JJ of_IN ._. "_'' 
+
+"_'' Only_RB because_IN you_PRP are_VBP ._. "_'' 
+She_PRP smiled_VBD ._. 
+
+I_PRP had_VBD to_TO grin_NN ,_, so_IN I_PRP did_VBD ._. 
+"_'' True_JJ ._. "_'' 
+
+"_'' He_PRP may_MD come_VB to_TO dinner_NN ?_. "_'' 
+
+"_'' If_IN you_PRP wish_VBP ,_, he_PRP may_MD be_VB dinner_NN ._. "_'' 
+
+"_'' I_PRP love_VBP you_PRP ._. "_'' 
+
+"_'' And_CC I_PRP ,_, you_PRP ._. "_'' 
+Months_NNS earlier_RBR ,_, we_PRP might_MD have_VB sought_VBN a_DT bed_NN ,_, a_DT couch_NN ,_, or_CC a_DT comfortable_JJ chair_NN at_IN this_DT point_NN ._. 
+Instead_RB ,_, I_PRP asked_VBD ,_, "_'' Is_VBZ he_PRP handsome_JJ ?_. "_'' 
+
+"_'' You_PRP 're_VBP jealous_JJ ._. "_'' 
+
+"_'' A_DT tiny_JJ bit_NN ._. 
+Extremely_NNP ._. "_'' 
+
+"_'' Content_NNP yourself_PRP ,_, old_JJ one_CD ._. 
+He_PRP 's_VBZ four_CD inches_NNS shorter_JJR than_IN I_PRP ,_, his_PRP$ nose_NN is_VBZ big_JJ and_CC broken_VBN ,_, and_CC -_- -_- "_'' 
+
+"_'' This_DT is_VBZ cosmetic_JJ ?_. "_'' 
+
+"_'' He_PRP 's_VBZ not_RB that_DT ugly_JJ ._. 
+I_PRP think_VBP they_PRP 're_VBP his_PRP$ natural_JJ features_NNS ._. "_'' 
+
+"_'' Interesting_JJ ._. "_'' 
+
+"_'' You_PRP could_MD write_VB a_DT play_NN about_IN someone_NN like_IN him_PRP ._. "_'' 
+
+"_'' Perhaps_RB ._. "_'' 
+
+"_'' I_PRP think_VBP his_PRP$ face_NN is_VBZ his_PRP$ form_NN of_IN vanity_NN ._. 
+It_PRP 's_VBZ the_DT reverse_NN of_IN you_PRP with_IN those_DT ridiculous_JJ stomach_NN muscles_NNS ._. 
+Old_JJ men_NNS should_MD be_VB fat_JJ ._. "_'' 
+
+"_'' Is_VBZ Emil_NNP ?_. "_'' 
+
+"_'' Yes_UH ._. "_'' 
+
+"_'' I_PRP am_VBP jealous_JJ ._. 
+I_PRP 'll_MD eat_VB two_CD dinners_NNS tonight_NN ._. 
+Five_CD deserts_NNS ._. "_'' 
+
+She_PRP giggled_JJ ._. 
+And_CC then_RB we_PRP did_VBD make_VB love_NN ._. 
+
+I_PRP 've_VBP been_VBN thinking_VBG about_IN the_DT mindwipe_NN ,_, now_RB two_CD days_NNS away_RB ._. 
+Who_WP said_VBD that_IN those_DT who_WP forget_VBP the_DT past_JJ are_VBP doomed_VBN to_TO repeat_VB it_PRP ?_. 
+I_PRP fear_VBP that_WDT may_MD be_VB true_JJ for_IN me_PRP ._. 
+Add_VB this_DT to_TO the_DT reasons_NNS I_PRP write_VBP now_RB :_: to_TO remember_VB something_NN ,_, perhaps_RB even_RB to_TO learn_VB -_- -_- 
+
+Emil_NNP Malaquez_NNP arrived_VBD after_IN sundown_NN ,_, carrying_VBG a_DT small_JJ package_NN wrapped_VBD in_IN what_WP looked_VBD like_IN real_JJ paper_NN ._. 
+His_PRP$ evening_NN dress_NN was_VBD formal_JJ ,_, expensive_JJ ,_, and_CC slightly_RB stained_JJ ,_, as_IN that_DT of_IN all_DT forgetful_JJ artists_NNS should_MD be_VB ._. 
+He_PRP was_VBD a_DT jovial_JJ man_NN with_IN an_DT easy_JJ laugh_NN ,_, and_CC even_RB uglier_NN than_IN Tasha_NNP had_VBD suggested_VBN ._. 
+I_PRP liked_VBD him_PRP immediately_RB ._. 
+
+"_'' Señor_NNP Malaquez_NNP ?_. "_'' 
+
+"_'' Please_VB ._. 
+Call_VB me_PRP Emil_NNP ._. 
+You_PRP must_MD be_VB Bernardo_NNP ._. 
+Tasha_NNP 's_POS told_VBD me_PRP much_RB about_IN you_PRP ._. "_'' 
+
+"_'' All_DT of_IN it_PRP outrageous_JJ praise_NN ?_. "_'' 
+
+"_'' All_DT of_IN it_PRP ._. "_'' 
+
+"_'' Ah_UH ,_, she_PRP is_VBZ wonderfully_RB perceptive_JJ ._. "_'' 
+
+He_PRP raised_VBD an_DT eyebrow_NN ,_, then_RB guffawed_JJ ._. 
+"_'' Has_VBZ she_PRP said_VBD as_IN much_RB about_IN me_PRP ?_. "_'' 
+
+"_'' She_PRP thinks_VBZ you_PRP are_VBP a_DT genius_NN ._. 
+Do_VBP come_VBN in_IN ._. "_'' 
+
+"_'' Thank_VB you_PRP ._. "_'' 
+Stepping_NNP into_IN the_DT living_VBG room_NN ,_, he_PRP said_VBD ,_, "_'' A_DT beautiful_JJ house_NN ._. "_'' 
+
+"_'' I_PRP 'm_VBP glad_JJ you_PRP came_VBD after_IN dark_NN ._. "_'' 
+
+Tasha_NNP ,_, by_IN accident_NN or_CC design_NN ,_, had_VBD found_VBN an_DT innocently_RB erotic_JJ posture_NN on_IN the_DT couch_NN ,_, where_WRB she_PRP lay_VBP with_IN a_DT book_NN of_IN M_NNP '_POS duvian_NN prints_NNS ._. 
+"_'' Emil_NNP !_. "_'' 
+She_PRP leapt_VBD up_RB ._. 
+"_'' I_PRP did_VBD not_RB expect_VB you_PRP -_- -_- "_'' 
+
+"_'' So_RB early_JJ ?_. "_'' 
+
+"_'' -_- -_- on_IN time_NN ._. 
+It_PRP 's_VBZ unforgiveable_JJ ,_, but_CC you_PRP 're_VBP forgiven_VBN ._. "_'' 
+She_PRP nodded_JJ at_IN the_DT package_NN ._. 
+"_'' What_WP 's_VBZ that_DT ?_. "_'' 
+
+"_'' For_IN your_PRP$ kindness_NN in_IN inviting_VBG a_DT stranger_NN into_IN your_PRP$ home_NN ._. "_'' 
+He_PRP held_VBD it_PRP out_IN ,_, and_CC with_IN a_DT delighted_JJ "_'' Oh_UH !_. "_'' 
+Tasha_NNP snatched_VBD it_PRP from_IN him_PRP to_TO rip_NN away_RB the_DT paper_NN ._. 
+
+I_PRP stopped_VBD writing_VBG ,_, and_CC only_RB the_DT thought_NN that_IN I_PRP might_MD miss_VB the_DT mindwipe_NN kept_VBD me_PRP from_IN another_DT spree_NN ._. 
+I_PRP went_VBD walking_VBG ,_, but_CC after_IN N_NNP '_POS apulco_NN ,_, Rio_NNP seems_VBZ no_DT fit_JJ abode_NN for_IN a_DT creature_NN of_IN flesh_NN ._. 
+I_PRP walked_VBD from_IN this_DT hotel_NN to_TO the_DT old_JJ city_NN ,_, past_JJ the_DT end_NN of_IN the_DT slidewalks_NNS and_CC softwalks_NNS to_TO the_DT hard_JJ ,_, cracked_VBN pavement_NN of_IN City_NNP Park_NNP ._. 
+But_CC Undersiders_NNP left_VBD me_PRP alone_RB ._. 
+Perhaps_RB they_PRP recognized_VBD a_DT fellow_NN ghost_NN ._. 
+So_IN I_PRP returned_VBD ,_, and_CC slept_VBD ,_, and_CC now_RB the_DT mindwipe_NN is_VBZ thirteen_NN hours_NNS away_RB ._. 
+
+The_DT side_NN of_IN Malaquez_NNP 's_POS parcel_NN gave_VBD way_NN to_TO reveal_VB a_DT greenmunk_NN caught_VBN in_IN a_DT sheen_NN of_IN solid_JJ air_NN ._. 
+Bits_NNP of_IN leaf_NN mold_NN flew_VBD from_IN under_IN his_PRP$ feet_NNS as_IN he_PRP ran_VBD to_TO greet_VB a_DT friend_NN or_CC a_DT bringer_NN of_IN food_NN ._. 
+Tasha_NNP oohed_JJ in_IN awe_NN ._. 
+I_PRP said_VBD ,_, "_'' Frodo_NNP 's_POS been_VBN visiting_VBG you_PRP ,_, eh_NN ?_. "_'' 
+
+Malaquez_NNP said_VBD ,_, "_'' Your_PRP$ pet_NN ?_. "_'' 
+
+"_'' Hardly_RB ._. 
+He_PRP lives_VBZ around_IN here_RB somewhere_RB ._. 
+I_PRP suppose_VBP he_PRP was_VBD attracted_VBN to_TO the_DT commotion_NN up_RP the_DT hill_NN ._. "_'' 
+
+"_'' Ah_UH ,_, "_'' Malaquez_NNP said_VBD ._. 
+"_'' Why_WRB '_POS Frodo_NNP '_'' ?_. "_'' 
+
+Tasha_NNP said_VBD ,_, "_'' A_DT little_JJ fellow_NN with_IN big_JJ ,_, furry_NN feet_NNS ._. 
+What_WP else_RB could_MD he_PRP be_VB called_VBN ?_. "_'' 
+She_PRP handed_VBD the_DT sculpture_NN to_TO me_PRP ._. 
+
+I_PRP almost_RB dropped_VBD it_PRP ;_: I_PRP expected_VBD it_PRP to_TO weigh_VB no_DT more_JJR than_IN a_DT holo_NN ._. 
+"_'' Heavy_NNP ,_, "_'' I_PRP said_VBD ,_, as_IN if_IN he_PRP might_MD not_RB have_VB known_VBN ._. 
+
+He_PRP laughed_VBD ._. 
+"_'' My_PRP$ last_JJ piece_NN was_VBD of_IN four_CD old_JJ Undersiders_NNP crouched_VBD around_IN a_DT trash_NN fire_NN ._. 
+Be_VB glad_JJ someone_NN did_VBD n't_RB toss_VB that_IN to_TO you_PRP ._. "_'' 
+He_PRP spoke_VBD of_IN his_PRP$ art_NN with_IN the_DT enthusiasm_NN of_IN a_DT seven_CD -_- year_NN -_- old_JJ ._. 
+"_'' Um_NNP ,_, I_PRP should_MD wait_VB to_TO importune_NN you_PRP ,_, but_CC ..._... "_'' 
+He_PRP grinned_JJ shyly_RB ._. 
+"_'' A_DT confession_NN ,_, and_CC then_RB a_DT request_NN ._. 
+And_CC then_RB you_PRP must_MD forgive_VB me_PRP for_IN being_VBG so_RB forward_RB ._. 
+It_PRP 's_VBZ not_RB easy_JJ for_IN me_PRP to_TO ask_VB a_DT favor_NN ._. "_'' 
+
+"_'' Relax_NNP ,_, "_'' I_PRP said_VBD ._. 
+"_'' It_PRP 's_VBZ easy_JJ for_IN me_PRP to_TO turn_VB one_CD down_RB ._. "_'' 
+
+He_PRP glanced_VBD at_IN me_PRP and_CC decided_VBD I_PRP was_VBD joking_VBG ._. 
+The_DT surprising_JJ thing_NN is_VBZ that_IN I_PRP was_VBD ._. 
+"_'' Good_JJ ._. 
+My_PRP$ last_JJ show_NN -_- -_- "_'' 
+
+"_'' -_- -_- was_VBD glorious_JJ !_. "_'' 
+Tasha_NNP said_VBD ._. 
+
+"_'' -_- -_- was_VBD kindly_RB received_VBN ,_, "_'' he_PRP said_VBD ._. 
+"_'' But_CC an_DT artist_NN who_WP would_MD stay_VB first_JJ among_IN his_PRP$ fellows_NNS can_MD tell_VB when_WRB he_PRP begins_VBZ to_TO fail_VB ._. "_'' 
+
+"_'' Oh_UH ?_. "_'' 
+I_PRP hoped_VBD no_DT one_PRP would_MD bring_VB up_RP my_PRP$ last_JJ three_CD plays_NNS ._. 
+
+"_'' I_PRP must_MD change_VB my_PRP$ subject_JJ matter_NN ._. 
+No_DT more_JJR urchins_NNS ,_, dopers_NNS ,_, vagrants_NNS ,_, or_CC whores_NNS ._. 
+I_PRP want_VBP to_TO do_VB more_RBR traditional_JJ portraits_NNS ._. "_'' 
+He_PRP spoke_VBD quickly_RB ,_, prepared_VBN to_TO be_VB rejected_VBN ._. 
+"_'' Would_MD you_PRP permit_VB me_PRP to_TO do_VB one_CD of_IN you_PRP ?_. 
+I_PRP would_MD pay_VB -_- -_- "_'' 
+
+"_'' Never_RB ,_, "_'' I_PRP said_VBD ._. 
+
+"_'' Ah_UH ._. "_'' 
+He_PRP shrugged_VBD lightly_RB ._. 
+
+"_'' Nardo_NNP !_. "_'' 
+Tasha_NNP said_VBD ._. 
+"_'' It_PRP 's_VBZ an_DT honor_NN -_- -_- "_'' 
+
+"_'' Of_IN course_NN ,_, "_'' I_PRP said_VBD ._. 
+"_'' That_DT 's_VBZ why_WRB I_PRP cannot_NN take_NN payment_NN ._. "_'' 
+
+"_'' Oh_UH ?_. 
+Oh_UH !_. 
+Thank_VB you_PRP !_. "_'' 
+Malaquez_NNP turned_VBD to_TO Tasha_NNP ._. 
+"_'' And_CC you_PRP as_RB well_RB ?_. 
+Perhaps_RB the_DT two_CD of_IN you_PRP together_RB ?_. "_'' 
+
+Her_PRP$ eyes_NNS became_VBD circles_NNS at_IN the_DT idea_NN of_IN being_VBG ,_, as_IN she_PRP undoubtedly_RB thought_VBD it_PRP ,_, immortalized_JJ by_IN Emil_NNP Malaquez_NNP ._. 
+Catching_VBG herself_PRP ,_, she_PRP said_VBD casually_RB ,_, "_'' Oh_UH ..._... "_'' And_CC then_RB she_PRP smiled_VBD ,_, laughed_VBD loudly_RB at_IN herself_PRP in_IN the_DT way_NN that_IN always_RB made_VBN me_PRP think_VBP how_WRB much_JJ I_PRP loved_VBD her_PRP$ ,_, and_CC said_VBD ,_, "_'' My_PRP$ God_NNP ,_, yes_UH ,_, yes_UH ,_, yes_UH !_. "_'' 
+For_IN a_DT perfect_JJ moment_NN ,_, Emil_NNP and_CC Tasha_NNP and_CC I_PRP were_VBD one_CD entity_NN ,_, laughing_VBG until_IN our_PRP$ lungs_NNS hurt_VBN ._. 
+
+This_DT is_VBZ torture_VBP ._. 
+I_PRP had_VBD not_RB considered_VBN that_IN I_PRP might_MD not_RB write_VB to_TO learn_VB ,_, but_CC to_TO punish_VB myself_PRP ._. 
+Let_VB me_PRP abuse_NN the_DT playwright_NN and_CC dismiss_VB the_DT penultimate_NN scene_NN in_IN a_DT few_JJ sentences_NNS :_: After_IN giving_VBG Emil_NNP full_JJ rights_NNS to_TO a_DT sculpture_NN of_IN Tasha_NNP and_CC me_PRP ,_, we_PRP had_VBD a_DT good_JJ dinner_NN of_IN curried_JJ clam_NN chowder_NN ,_, lobsters_NNS boiled_VBD on_IN Terra_NNP and_CC unstopped_JJ still_RB steaming_VBG on_IN N_NNP '_POS Apulco_NNP ,_, and_CC cinnamon_NN custard_NN for_IN desert_NN ._. 
+Then_RB we_PRP went_VBD out_IN for_IN a_DT late_JJ swim_VBP ._. 
+
+I_PRP had_VBD drunk_JJ too_RB much_JJ ,_, I_PRP confess_NNS ,_, though_IN we_PRP all_DT had_VBD ._. 
+Somehow_RB ,_, Tasha_NNP and_CC I_PRP began_VBD to_TO argue_VB the_DT worth_NN of_IN Solevgrad_NNP jazz_NN ,_, as_IN inconsequential_NN a_DT topic_NN as_IN I_PRP can_MD imagine_VB ._. 
+She_PRP had_VBD studied_VBN it_PRP in_IN school_NN ,_, so_IN she_PRP thought_VBD herself_PRP as_IN an_DT expert_NN ._. 
+I_PRP once_RB had_VBD a_DT neighbor_NN who_WP played_VBD it_PRP constantly_RB ,_, loudly_RB ,_, and_CC badly_RB ,_, so_IN I_PRP thought_VBD I_PRP knew_VBD it_PRP better_JJR ._. 
+Malaquez_NNP tried_VBD to_TO mediate_VB ,_, but_CC I_PRP saw_VBD him_PRP as_IN siding_NN with_IN Tasha_NNP ._. 
+So_RB ,_, I_PRP think_VBP ,_, did_VBD she_PRP ._. 
+The_DT subject_JJ shifted_VBN from_IN music_NN to_TO Tasha_NNP 's_POS obsession_NN with_IN fame_NN ,_, undoubtedly_RB by_IN a_DT leap_NN that_IN I_PRP made_VBD ._. 
+She_PRP had_VBD no_DT choice_NN but_CC to_TO follow_VB ._. 
+(_( I_NN do_VBP not_RB remember_VB any_DT of_IN this_DT well_RB ,_, just_RB now_RB ,_, nor_CC do_VBP I_PRP care_VBP to_TO ._. 
+Those_DT who_WP are_VBP truly_RB curious_JJ may_MD look_VB at_IN the_DT last_JJ act_NN of_IN "_'' Captured_NNP Moments_NNP ._. "_'' 
+)_) I_PRP remember_VBP suggesting_VBG ,_, with_IN characteristic_JJ tact_NN ,_, that_IN she_PRP add_VBP Emil_NNP to_TO her_PRP$ small_JJ list_NN of_IN major_JJ accomplishments_NNS ._. 
+
+Malaquez_NNP glanced_VBD away_RB ,_, embarrassed_JJ ._. 
+Tasha_NNP looked_VBD at_IN me_PRP as_IN if_IN to_TO say_VB ,_, "_'' I_PRP will_MD ._. "_'' 
+She_PRP said_VBD ,_, "_'' I_PRP feel_VBP sorry_JJ for_IN you_PRP ,_, Nardo_NNP ._. 
+I_PRP 'll_MD see_VB Emil_NNP home_NN ._. "_'' 
+
+"_'' Yes_UH ,_, "_'' I_PRP said_VBD ,_, "_'' Do_VBP that_IN ,_, "_'' and_CC did_VBD not_RB care_VB what_WP she_PRP did_VBD ,_, or_CC why_WRB ._. 
+
+Emil_NNP asked_VBD ,_, "_'' You_PRP 're_VBP all_DT right_NN ?_. "_'' 
+I_PRP muttered_JJ something_NN he_PRP must_MD have_VB interpreted_VBN as_IN assent_NN ._. 
+They_PRP both_DT walked_VBD up_IN to_TO Emil_NNP 's_POS home_NN while_IN I_PRP watched_VBD the_DT scarlet_JJ moonlight_NN ripple_NN on_IN distant_JJ waves_NNS ._. 
+Disgusted_VBN with_IN Tasha_NNP but_CC more_RBR disgusted_VBN with_IN myself_PRP ,_, I_PRP finally_RB realized_VBD she_PRP would_MD not_RB return_VB that_DT night_NN and_CC went_VBD into_IN The_DT Sleeping_VBG Flamingo_NNP to_TO drink_VB myself_PRP to_TO sleep_VB ._. 
+
+She_PRP had_VBD not_RB come_VB home_NN when_WRB I_PRP woke_VBD in_IN mid-morning_NN ._. 
+I_PRP waited_VBD ,_, and_CC drank_NN a_DT glass_NN of_IN MorningAfter_NNP and_CC three_CD cups_NNS of_IN coffee_NN ,_, and_CC wondered_VBD whether_IN our_PRP$ affair_NN could_MD survive_VB the_DT events_NNS of_IN the_DT night_NN ,_, and_CC whether_IN I_PRP wanted_VBD it_PRP to_TO ._. 
+Perhaps_RB I_PRP should_MD have_VB invited_VBN Emil_NNP to_TO stay_VB ,_, but_CC even_RB then_RB I_PRP knew_VBD that_DT sex_NN was_VBD not_RB the_DT problem_NN between_IN Tasha_NNP and_CC me_PRP ._. 
+The_DT problem_NN was_VBD that_IN I_PRP have_VBP trouble_NN distinguishing_VBG between_IN compromise_NN and_CC capitulation_NN ,_, between_IN symbols_NNS and_CC substance_NN ._. 
+Shortly_RB before_IN noon_NN ,_, I_PRP climbed_VBD the_DT sandy_JJ path_NN to_TO Dream_VB 's_POS End_NN ,_, rehearsing_VBG my_PRP$ apology_NN ,_, slowing_VBG only_RB to_TO pluck_VB burrs_NNS from_IN between_IN my_PRP$ sandals_NNS and_CC my_PRP$ feet_NNS ._. 
+
+Malaquez_NNP answered_VBD the_DT door_NN in_IN blood_NN -_- red_JJ pajamas_NNS and_CC a_DT black_JJ silk_NN robe_NN ._. 
+Sixty_CD years_NNS ago_RB in_IN a_DT similar_JJ situation_NN ,_, I_PRP had_VBD broken_VBN my_PRP$ knuckles_NNS on_IN someone_NN 's_POS face_NN ._. 
+I_PRP merely_RB said_VBD ,_, "_'' Is_VBZ Tasha_NNP here_RB ?_. "_'' 
+
+He_PRP pursed_JJ his_PRP$ lips_NNS slightly_RB ,_, then_RB nodded_JJ ._. 
+"_'' Yes_UH ._. "_'' 
+
+"_'' May_NNP I_PRP see_VBP her_PRP ?_. "_'' 
+When_WRB he_PRP hesitated_JJ ,_, I_PRP said_VBD ,_, "_'' Last_JJ night_NN was_VBD my_PRP$ fault_NN ._. 
+I_PRP hold_VBP it_PRP against_IN neither_DT of_IN you_PRP ._. 
+Please_VB ._. 
+Let_VB me_PRP talk_VBP to_TO her_PRP ._. "_'' 
+
+"_'' I_PRP -_- -_- "_'' 
+
+"_'' Please_VB ._. "_'' 
+
+He_PRP looked_VBD me_PRP and_CC at_IN last_RB said_VBD ,_, "_'' Very_RB well_RB ._. "_'' 
+
+We_PRP walked_VBD through_IN his_PRP$ house_NN in_IN silence_NN ._. 
+It_PRP was_VBD as_IN attractive_JJ and_CC as_RB impersonal_NN as_IN a_DT decorator_NN could_MD arrange_VB for_IN tenants_NNS of_IN unknown_JJ taste_NN ._. 
+A_DT tall_JJ ,_, narrow_JJ stopbox_NN stood_VBD in_IN the_DT center_NN of_IN one_CD room_NN ;_: sand_NN trickled_JJ forever_RB downward_JJ while_IN beads_NNS of_IN water_NN splashed_VBD across_IN the_DT sand_NN 's_POS path_NN ._. 
+If_IN that_DT was_VBD Malaquez_NNP 's_POS work_NN ,_, it_PRP was_VBD a_DT very_RB minor_JJ effort_NN ._. 
+But_CC then_RB ,_, I_PRP was_VBD in_IN no_DT mood_NN to_TO consider_VB art_NN ._. 
+I_PRP only_RB wanted_VBD to_TO despise_VB the_DT man_NN who_WP had_VBD slept_VBD with_IN my_PRP$ lover_NN ._. 
+That_DT was_VBD easier_JJR than_IN despising_VBG myself_PRP ._. 
+
+He_PRP paused_VBD before_IN a_DT bedroom_NN door_NN ._. 
+"_'' I_PRP should_MD go_VB in_IN first_NN ._. 
+To_TO prepare_VB her_PRP ._. "_'' 
+
+I_PRP smiled_VBD ._. 
+"_'' She_PRP handles_VBZ surprise_NN surprisingly_RB well_RB ._. "_'' 
+
+"_'' What_WP would_MD it_PRP hurt_VBD ?_. "_'' 
+
+"_'' True_JJ ._. 
+Go_VB ahead_RB ._. 
+Tell_VB her_PRP ..._... "_'' 
+I_PRP shrugged_VBD ._. 
+"_'' Tell_VB her_PRP$ I_PRP love_VBP her_PRP ._. "_'' 
+
+He_PRP studied_VBD me_PRP ,_, then_RB said_VBD ,_, "_'' I_PRP 'm_VBP sorry_JJ things_NNS happened_VBD this_DT way_NN ,_, Bernardo_NNP ._. 
+I_PRP did_VBD n't_RB anticipate_VB last_JJ night_NN -_- -_- "_'' _- 
+
+"_'' I_PRP 'm_VBP very_RB good_JJ at_IN making_VBG things_NNS happen_VBP this_DT way_NN ._. 
+But_CC if_IN Tasha_NNP will_MD forgive_VB me_PRP -_- -_- "_'' 
+
+He_PRP nodded_JJ ,_, repeated_VBN ,_, "_'' I_PRP am_VBP sorry_JJ ,_, "_'' then_RB slipped_VBD into_IN the_DT next_JJ room_NN ._. 
+I_PRP waited_VBD in_IN the_DT dark_NN ,_, carpeted_VBD hall_NN ._. 
+A_DT warm_JJ breeze_NN came_VBD from_IN silent_JJ vents_NNS above_IN me_PRP ._. 
+I_PRP heard_VBD no_DT voices_NNS until_IN Malaquez_NNP said_VBD ,_, "_'' Enter_VB ._. "_'' 
+
+I_PRP blinked_VBD when_WRB I_PRP opened_VBD the_DT door_NN ._. 
+Sunlight_NNP filled_VBD Malaquez_NNP 's_POS bedroom_NN ._. 
+Tasha_NNP lay_VBD sprawled_JJ nude_JJ on_IN a_DT rumpled_JJ bed_NN ._. 
+Her_PRP$ skin_NN seemed_VBD as_IN smooth_JJ and_CC as_RB polished_JJ as_IN the_DT bed_NN 's_POS teak_NN frame_NN ._. 
+She_PRP was_VBD looking_VBG slightly_RB to_TO my_PRP$ left_JJ ,_, smiling_VBG with_IN trust_NN and_CC satisfaction_NN like_IN one_CD sexually_RB content_NN ._. 
+Malaquez_NNP stood_VBD near_IN her_PRP$ ,_, pointing_VBG something_NN at_IN my_PRP$ chest_NN ._. 
+Though_IN the_DT morning_NN sun_NN shone_NN fully_RB on_IN both_DT of_IN them_PRP ,_, it_PRP shimmered_VBD around_IN Tasha_NNP ._. 
+
+The_DT part_NN of_IN my_PRP$ mind_NN that_WDT remembered_VBD four_CD months_NNS in_IN NorAm_NNP during_IN the_DT Great_NNP Cleaning_VBG sent_VBN me_PRP rolling_VBG across_IN the_DT floor_NN ._. 
+Malaquez_NNP was_VBD not_RB prepared_VBN for_IN me_PRP to_TO react_VB so_RB quickly_RB ,_, or_CC perhaps_RB he_PRP waited_VBD too_RB long_RB for_IN an_DT expression_NN I_PRP would_MD not_RB have_VB ,_, a_DT gesture_NN I_PRP would_MD not_RB make_VB ,_, a_DT poignant_JJ moment_NN of_IN repentence_NN ,_, wonder_VB ,_, despair_NN ,_, or_CC love_NN ._. 
+Had_VBD he_PRP been_VBN faster_RBR ,_, he_PRP could_MD have_VB had_VBN rage_NN ._. 
+I_PRP threw_VBD a_DT chair_NN at_IN him_PRP ._. 
+As_IN he_PRP fell_VBD ,_, I_PRP scrambled_VBD onto_IN him_PRP ,_, my_PRP$ knees_NNS pinning_VBG his_PRP$ arms_NNS ,_, my_PRP$ fingers_NNS probing_VBG his_PRP$ neck_NN ._. 
+
+I_PRP shouted_VBD ,_, "_'' Where_WRB is_VBZ she_PRP ?_. 
+Tell_VB me_PRP ,_, or_CC I_PRP 'll_MD kill_VB -_- -_- "_'' 
+
+He_PRP began_VBD to_TO cry_VB ._. 
+"_'' She_PRP left_VBD ._. 
+Earlier_RBR this_DT morning_NN -_- -_- "_'' 
+
+Her_PRP$ clothes_NNS lay_VBP by_IN the_DT cube_NN enclosing_VBG the_DT bed_NN ._. 
+I_PRP hit_VBD him_PRP with_IN the_DT back_NN of_IN my_PRP$ hand_NN ._. 
+"_'' Tell_VB me_PRP ,_, Malaquez_NNP ._. "_'' 
+
+"_'' She_PRP wanted_VBD to_TO be_VB famous_JJ ._. 
+She_PRP did_VBD !_. 
+Now_RB she_PRP will_MD be_VB ._. "_'' 
+
+He_PRP seemed_VBD to_TO expect_VB me_PRP to_TO understand_VB ._. 
+"_'' Where_WRB !_. "_'' 
+I_PRP demanded_VBD ,_, squeezing_VBG his_PRP$ throat_NN until_IN he_PRP began_VBD jerking_VBG his_PRP$ head_NN madly_RB at_IN the_DT sculpture_NN ._. 
+
+I_PRP stared_VBD at_IN the_DT naked_JJ Tasha_NNP ._. 
+Most_JJS of_IN his_PRP$ story_NN I_PRP have_VBP pieced_VBN together_RB since_RB ,_, but_CC I_PRP understood_VBD enough_RB as_IN I_PRP knelt_NN on_IN his_PRP$ chest_NN with_IN my_PRP$ hands_NNS tight_JJ on_IN his_PRP$ fleshy_NN throat_NN ._. 
+He_PRP had_VBD made_VBN his_PRP$ name_NN with_IN a_DT home_NN capturador_NN ._. 
+He_PRP began_VBD with_IN small_JJ animals_NNS and_CC moved_VBD on_IN to_TO derelicts_NNS and_CC Undersiders_NNP ,_, people_NNS who_WP would_MD never_RB be_VB missed_VBN ._. 
+Now_RB he_PRP had_VBD thought_VBN to_TO use_VB vacationers_NNS like_IN Tasha_NNP and_CC me_PRP ,_, and_CC when_WRB someone_NN came_VBD looking_VBG ,_, he_PRP would_MD say_VB we_PRP had_VBD gone_VBN island_NN -_- hopping_NN in_IN our_PRP$ windboat_NN ._. 
+Our_PRP$ boat_NN would_MD disappear_VB into_IN the_DT ocean_NN to_TO be_VB found_VBN or_CC not_RB as_IN the_DT wind_NN and_CC tides_NNS chose_VBD ._. 
+His_PRP$ story_NN would_MD stand_VB in_IN either_DT case_NN ._. 
+
+I_PRP wanted_VBD him_PRP to_TO tell_VB me_PRP more_JJR ,_, but_CC he_PRP babbled_JJ ,_, begging_VBG me_PRP to_TO forgive_VB him_PRP ,_, to_TO understand_VB ._. 
+I_PRP did_VBD not_RB listen_VB ._. 
+I_PRP took_VBD the_DT capturador_NN ,_, a_DT matte_NN black_JJ Tiempo_NNP Capturado_NNP ,_, from_IN his_PRP$ grip_NN and_CC studied_VBD it_PRP ,_, not_RB really_RB thinking_VBG about_IN it_PRP or_CC Malaquez_NNP or_CC Tasha_NNP ._. 
+I_PRP think_VBP I_PRP was_VBD wondering_VBG what_WP it_PRP meant_VBD to_TO say_VB that_IN a_DT thing_NN was_VBD art_NN ,_, so_IN we_PRP accepted_VBD it_PRP as_IN art_NN ._. 
+Or_CC perhaps_RB I_PRP was_VBD thinking_VBG about_IN the_DT things_NNS that_WDT humanity_NN made_VBN that_WDT would_MD outlive_JJ our_PRP$ species_NNS ._. 
+But_CC I_PRP was_VBD probably_RB only_RB looking_VBG at_IN my_PRP$ reflection_NN in_IN the_DT capturador_NN 's_POS lens_NN ._. 
+Had_VBD he_PRP said_VBD then_RB that_IN I_PRP should_MD use_VB it_PRP on_IN myself_PRP ,_, I_PRP might_MD have_VB ._. 
+
+That_DT moment_NN passed_VBN ._. 
+I_PRP looked_VBD at_IN Malaquez_NNP ._. 
+His_PRP$ eyes_NNS opened_VBD wider_JJR while_IN we_PRP watched_VBD each_DT other_JJ ._. 
+His_PRP$ lips_NNS contorted_JJ as_IN if_IN they_PRP had_VBD lost_VBN their_PRP$ ability_NN to_TO shape_VB sound_NN ._. 
+I_PRP turned_VBD to_TO touch_VB the_DT cube_NN that_WDT was_VBD Tasha_NNP 's_POS crypt_NN ._. 
+She_PRP smiled_VBD in_IN trust_NN or_CC pleasure_NN or_CC pride_NN ,_, an_DT erotic_JJ Mona_NNP Lisa_NNP who_WP would_MD smile_NN forever_RB ,_, and_CC I_PRP could_MD never_RB know_VB why_WRB ._. 
+
+The_DT controls_NNS of_IN the_DT capturador_NN were_VBD more_RBR complex_JJ than_IN those_DT of_IN a_DT kitchen_NN model_NN ,_, but_CC I_PRP recognized_VBD the_DT unstop_NN tab_NN ._. 
+I_PRP could_MD free_VB Tasha_NNP ._. 
+If_IN I_PRP did_VBD ,_, one_CD of_IN three_CD things_NNS would_MD happen_VB ._. 
+Most_JJS likely_JJ :_: she_PRP would_MD be_VB meat_NN -_- -_- there_EX is_VBZ a_DT reason_NN why_WRB stopboxes_NNS are_VBP most_RBS often_RB used_VBN in_IN kitchens_NNS ._. 
+Less_RBR likely_JJ :_: she_PRP would_MD live_VB the_DT rest_NN of_IN her_PRP$ days_NNS with_IN a_DT mind_NN as_IN free_JJ of_IN worry_VBP as_IN a_DT slug_NN 's_POS ._. 
+And_CC the_DT tiniest_JJS chance_NN of_IN all_DT :_: she_PRP would_MD blink_VB as_IN if_IN I_PRP had_VBD just_RB materialized_VBN in_IN Emil_NNP 's_POS bedroom_NN ,_, and_CC then_RB she_PRP would_MD laugh_VB and_CC tell_VB me_PRP that_IN she_PRP was_VBD going_VBG to_TO be_VB immortal_NN ._. 
+
+As_IN I_PRP put_VBP my_PRP$ hand_NN on_IN the_DT impervious_JJ surface_NN of_IN Tasha_NNP 's_POS stopbox_NN ,_, I_PRP heard_VBD Malaquez_NNP run_VBD for_IN the_DT door_NN ._. 
+
+It_PRP is_VBZ strange_JJ to_TO know_VB that_IN we_PRP can_MD do_VB acts_NNS of_IN unrepayable_JJ kindness_NN to_TO those_DT we_PRP should_MD hate_VB ._. 
+Know_VBP this_DT ,_, my_PRP$ future_JJ self_NN :_: Thanks_NNS to_TO us_PRP ,_, Emil_NNP Malaquez_NNP 's_POS name_NN will_MD live_VB as_RB long_RB as_IN his_PRP$ masterpiece_NN ,_, "_'' A_DT Self_NNP -_- Portrait_NNP _- _- :_: Anguish_NNP ,_, "_'' endures_NNS ._. 
+
+And_CC Tasha_NNP ?_. 
+I_PRP could_MD say_VB that_IN I_PRP did_VBD not_RB dare_VB to_TO take_VB responsibility_NN for_IN her_PRP$ fate_NN ._. 
+I_PRP could_MD say_VB that_IN I_PRP chose_VBD out_IN of_IN consideration_NN for_IN her_PRP$ desire_NN for_IN fame_NN ;_: some_DT critics_NNS already_RB say_VBP "_'' Waking_NNP With_IN Tasha_NNP "_'' is_VBZ Malaquez_NNP 's_POS finest_JJS work_NN ._. 
+If_IN science_NN finds_VBZ a_DT way_NN to_TO safely_RB free_VB the_DT subjects_NNS of_IN Emil_NNP 's_POS art_NN ,_, perhaps_RB the_DT I_PRP who_WP reads_VBZ this_DT file_NN will_MD know_VB that_IN my_PRP$ decision_NN is_VBZ wise_JJ ._. 
+But_CC I_PRP cannot_NN stop_NN thinking_VBG that_IN I_PRP was_VBD never_RB afraid_JJ of_IN losing_VBG Tasha_NNP to_TO brain_NN damage_NN or_CC death_NN ._. 
+My_PRP$ fear_NN is_VBZ that_IN she_PRP would_MD live_VB ,_, and_CC I_PRP would_MD learn_VB that_IN I_PRP had_VBD lost_VBN her_PRP$ long_JJ before_IN Emil_NNP Malaquez_NNP translated_VBN her_PRP into_IN a_DT thing_NN that_WDT can_MD be_VB kept_VBN ,_, admired_VBN ,_, and_CC loved_VBD ._. 
+
+For_IN in_IN my_PRP$ way_NN ,_, I_PRP have_VBP done_VBN the_DT same_JJ thing_NN ._. 
+
+I_PRP am_VBP ready_JJ for_IN the_DT mindwipe_NN now_RB ._. 
+

@@ -1,0 +1,491 @@
+SENATE_NNP ETHICS_NNP PANEL_NNP ADMONISHES_NNP NEW_NNP JERSEY_NNP SENATOR_NNP FOR_IN CONDUCT_NNP RELATED_NNP TO_TO GIFTS_NNP WASHINGTON_NNP The_DT Senate_NNP Ethics_NNP Committee_NNP on_IN Tuesday_NNP night_NN "_'' severely_RB admonished_JJ "_'' Sen._NN Robert_NNP G._NN Torricelli_NNP ,_, D-N.J_NNP ._. ,_, saying_VBG he_PRP had_VBD violated_VBN Senate_NNP rules_NNS by_IN accepting_VBG and_CC failing_VBG to_TO disclose_VB expensive_JJ gifts_NNS from_IN a_DT former_JJ contributor_NN to_TO whom_WP he_PRP repeatedly_RB gave_VBD help_VB ._. 
+
+On_IN the_DT basis_NN of_IN thousands_NNS of_IN pages_NNS of_IN information_NN developed_VBN in_IN an_DT earlier_JJR federal_JJ inquiry_NN into_IN Torricelli_NNP 's_POS activities_NNS ,_, the_DT committee_NN chastised_VBD him_PRP for_IN using_VBG poor_JJ judgment_NN and_CC disregarding_VBG Senate_NNP rules_NNS in_IN his_PRP$ dealings_NNS with_IN the_DT former_JJ donor_NN ,_, David_NNP Chang_NNP ._. 
+
+"_'' Your_PRP$ actions_NNS and_CC failure_NN to_TO act_VB led_VBN to_TO violations_NNS of_IN Senate_NNP rules_NNS (_( and_CC related_VBN statutes_NNS )_) and_CC created_VBN at_IN least_JJS the_DT appearance_NN of_IN impropriety_NN ,_, "_'' the_DT three_CD Democrats_NNPS and_CC three_CD Republicans_NNPS on_IN the_DT committee_NN said_VBD in_IN a_DT three-page_JJ letter_NN to_TO Torricelli_NNP ._. 
+
+The_DT ethics_NNS panel_NN also_RB ordered_VBD Torricelli_NNP to_TO pay_VB back_RB Chang_NNP --_: with_IN interest_NN --_: for_IN the_DT full_JJ value_NN of_IN a_DT large-screen_JJ television_NN set_VBN and_CC compact-disc_JJ player_NN ,_, and_CC for_IN expensive_JJ earrings_NNS that_IN Chang_NNP gave_VBD to_TO Torricelli_NNP 's_POS sister_NN ,_, to_TO one_CD of_IN his_PRP$ close_NN aides_NNS and_CC to_TO one_CD of_IN Torricelli_NNP 's_POS former_JJ girlfriends_NNS ._. 
+
+The_DT committee_NN 's_POS action_NN comes_VBZ six_CD months_NNS after_IN federal_JJ prosecutors_NNS ended_VBD a_DT lengthy_JJ criminal_JJ investigation_NN into_IN Torricelli_NNP 's_POS activities_NNS without_IN filing_VBG criminal_JJ charges_NNS ._. 
+
+The_DT ethics_NNS panel_NN ,_, to_TO which_WDT evidence_NN from_IN the_DT criminal_JJ case_NN was_VBD forwarded_JJ ,_, concluded_VBD its_PRP$ review_NN just_RB as_IN Torricelli_NNP is_VBZ gearing_VBG up_RP his_PRP$ campaign_NN for_IN re-election_NN against_IN the_DT Republican_JJ candidate_NN ,_, Douglas_NNP R._NN Forrester_NNP ._. 
+After_IN months_NNS in_IN which_WDT polls_NNS showed_VBD Torricelli_NNP well_RB ahead_RB of_IN his_PRP$ relatively_RB unknown_JJ Republican_NNP rival_NN ,_, the_DT contest_NN has_VBZ narrowed_VBN in_IN recent_JJ weeks_NNS ._. 
+
+It_PRP was_VBD the_DT first_JJ time_NN that_IN the_DT Senate_NNP Ethics_NNP Committee_NNP had_VBD voted_VBN to_TO take_VB action_NN against_IN a_DT senator_NN since_IN 1995_CD ,_, when_WRB it_PRP recommended_VBD that_IN Bob_NNP Packwood_NNP ,_, an_DT Oregon_NNP Republican_NNP ,_, be_VB expelled_VBN on_IN the_DT ground_NN of_IN sexual_JJ and_CC official_JJ misconduct_NN ._. 
+Packwood_NNP later_RB resigned_VBD ._. 
+
+Sen._NN Daniel_NNP K._NN Inouye_NNP ,_, D-Hawaii_NNP ,_, who_WP led_VBD the_DT ethics_NNS inquiry_NN ,_, said_VBD he_PRP believed_VBD the_DT investigation_NN was_VBD thorough_JJ and_CC fair_JJ but_CC would_MD not_RB offer_VB a_DT detailed_JJ description_NN of_IN the_DT committee_NN 's_POS secret_JJ deliberations_NNS ._. 
+"_'' The_DT document_NN speaks_VBZ for_IN itself_PRP ,_, "_'' said_VBD Inouye_NNP ,_, who_WP said_VBD that_IN he_PRP considered_VBD the_DT matter_NN closed_VBD with_IN the_DT letter_NN ._. 
+
+Within_IN minutes_NNS after_IN the_DT committee_NN released_VBD its_PRP$ letter_NN publicly_RB ,_, Torricelli_NNP took_VBD the_DT Senate_NNP floor_NN Tuesday_NNP night_NN to_TO apologize_VB to_TO the_DT people_NNS of_IN New_NNP Jersey_NNP for_IN allowing_VBG his_PRP$ seat_NN in_IN the_DT chamber_NN "_'' to_TO be_VB placed_VBN in_IN this_DT position_NN ._. "_'' 
+
+During_IN nearly_RB seven_CD hours_NNS of_IN sworn_JJ testimony_NN last_JJ week_NN before_IN the_DT members_NNS and_CC staff_NN of_IN the_DT ethics_NNS panel_NN ,_, Torricelli_NNP said_VBD that_IN he_PRP had_VBD not_RB taken_VBN any_DT gifts_NNS from_IN Chang_NNP ,_, and_CC that_IN what_WP items_NNS he_PRP had_VBD accepted_VBN from_IN the_DT businessman_NN he_PRP had_VBD later_RB paid_VBN Chang_NNP for_IN ,_, one_CD person_NN familiar_JJ with_IN his_PRP$ account_NN said_VBD ._. 
+
+Torricelli_NNP also_RB insisted_VBD that_IN he_PRP had_VBD not_RB done_VBN any_DT unusual_JJ favors_NNS for_IN Chang_NNP ,_, who_WP first_RB turned_VBD to_TO the_DT senator_NN in_IN 1995_CD for_IN help_NN in_IN winning_VBG the_DT repayment_NN of_IN some_DT $71_NN million_CD he_PRP said_VBD he_PRP was_VBD then_RB owed_VBN in_IN a_DT failed_JJ business_NN deal_NN with_IN the_DT North_NNP Korean_JJ government_NN ._. 
+
+The_DT Ethics_NNP Committee_NNP was_VBD unconvinced_JJ ._. 
+
+In_IN its_PRP$ letter_NN ,_, which_WDT was_VBD signed_VBN by_IN all_DT six_CD members_NNS ,_, the_DT panel_NN wrote_VBD that_IN it_PRP was_VBD "_'' troubled_VBN by_IN incongruities_NNS ,_, inconsistencies_NNS and_CC conflicts_NNS ,_, particularly_RB concerning_VBG actions_NNS taken_VBN by_IN you_PRP which_WDT were_VBD or_CC could_MD have_VB been_VBN of_IN potential_JJ benefit_NN to_TO Chang_NNP ._. "_'' 
+
+The_DT committee_NN criticized_VBD Torricelli_NNP for_IN maintaining_VBG a_DT "_'' personal_NN and_CC official_JJ relationship_NN with_IN Chang_NNP under_IN circumstances_NNS where_WRB you_PRP knew_VBD that_IN he_PRP was_VBD attempting_VBG to_TO ingratiate_VB himself_PRP ,_, in_IN part_NN through_IN a_DT pattern_NN of_IN attempts_NNS to_TO provide_VB you_PRP and_CC those_DT around_IN you_PRP with_IN gifts_NNS over_IN a_DT period_NN of_IN several_JJ years_NNS ._. "_'' 
+
+During_IN that_DT time_NN ,_, the_DT panel_NN said_VBD ,_, Torricelli_NNP and_CC members_NNS of_IN his_PRP$ Senate_NNP staff_NN took_VBD a_DT series_NN of_IN actions_NNS to_TO help_VB Chang_NNP ,_, contacting_VBG U.S._NNP government_NN officials_NNS ,_, writing_VBG letters_NNS to_TO foreign_JJ government_NN officials_NNS and_CC bringing_VBG Chang_NNP or_CC his_PRP$ business_NN representatives_NNS into_IN meetings_NNS with_IN foreign_JJ officials_NNS ._. 
+
+The_DT committee_NN did_VBD not_RB confirm_VB some_DT of_IN the_DT most_RBS serious_JJ allegations_NNS ,_, including_VBG Chang_NNP 's_POS claim_NN that_IN he_PRP gave_VBD Torricelli_NNP tens_NNS of_IN thousands_NNS of_IN dollars_NNS in_IN cash_NN ._. 
+
+The_DT committee_NN said_VBD it_PRP had_VBD weighed_VBN the_DT fact_NN that_IN Torricelli_NNP 's_POS principal_JJ accuser_NN in_IN the_DT case_NN had_VBD been_VBN Chang_NNP ,_, "_'' a_DT witness_NN whose_WP$ credibility_NN has_VBZ been_VBN called_VBN into_IN question_NN by_IN the_DT Department_NNP of_IN Justice_NNP ,_, a_DT United_NNP States_NNPS District_NNP judge_NN and_CC his_PRP$ own_JJ conduct_NN ._. "_'' 
+In_IN May_NNP ,_, that_DT judge_NN sentenced_VBN sentenced_VBN Chang_NNP to_TO 18_CD months_NNS '_POS imprisonment_NN for_IN obstructing_JJ justice_NN and_CC making_VBG $53,700_NN in_IN illegal_JJ campaign_NN contributions_NNS to_TO Torricelli_NNP 's_POS 1996_CD Senate_NNP campaign_NN ._. 
+
+But_CC at_IN the_DT time_NN of_IN Chang_NNP 's_POS sentencing_NN ,_, the_DT judge_NN ,_, Alfred_NNP M._NN Wolin_NNP ,_, also_RB said_VBD the_DT businessman_NN had_VBD cooperated_VBN closely_RB with_IN federal_JJ investigators_NNS ,_, providing_VBG them_PRP with_IN information_NN that_WDT was_VBD "_'' material_NN and_CC credible_JJ ._. "_'' 
+
+The_DT ethics_NNS committee_NN has_VBZ the_DT power_NN to_TO punish_VB lawmakers_NNS with_IN sanctions_NNS ranging_VBG from_IN public_NN or_CC private_JJ letters_NNS of_IN admonition_NN to_TO censure_NN or_CC expulsion_NN ._. 
+In_IN Torricelli_NNP 's_POS case_NN ,_, it_PRP acted_VBD without_IN conducting_VBG a_DT full_JJ investigation_NN ,_, saying_VBG the_DT case_NN had_VBD been_VBN exhaustively_RB scrutinized_VBN by_IN federal_JJ authorities_NNS ._. 
+
+A_DT lawyer_NN for_IN Chang_NNP ,_, Bradley_NNP D._NN Simon_NNP ,_, said_VBD Tuesday_NNP night_NN that_IN he_PRP was_VBD disappointed_VBN that_IN the_DT ethics_NNS panel_NN had_VBD confirmed_VBN only_RB a_DT handful_NN of_IN the_DT gifts_NNS he_PRP said_VBD his_PRP$ client_NN had_VBD given_VBN Torricelli_NNP ,_, and_CC that_IN the_DT panel_NN did_VBD not_RB deal_VB with_IN what_WP he_PRP said_VBD were_VBD actions_NNS by_IN Torricelli_NNP to_TO thwart_VB the_DT federal_JJ investigation_NN ._. 
+
+"_'' This_DT matter_NN was_VBD far_RB more_RBR serious_JJ than_IN what_WP the_DT committee_NN found_VBD ,_, "_'' Simon_NNP said_VBD ._. 
+
+According_VBG to_TO two_CD government_NN officials_NNS involved_VBN in_IN the_DT inquiry_NN ,_, the_DT Ethics_NNP Committee_NNP received_VBD a_DT vast_JJ amount_NN of_IN information_NN from_IN federal_JJ investigators_NNS ,_, some_DT of_IN it_PRP under_IN a_DT court_NN order_NN issued_VBN in_IN March_NNP ._. 
+
+That_DT information_NN included_VBD witness_NN statements_NNS ,_, store_NN receipts_NNS and_CC other_JJ documents_NNS indicating_VBG that_IN Chang_NNP had_VBD paid_VBN for_IN expensive_JJ items_NNS given_VBN to_TO Torricelli_NNP ,_, his_PRP$ sister_NN ,_, one_CD of_IN his_PRP$ longtime_JJ aides_NNS ,_, Roberta_NNP Stern_NNP ,_, and_CC one_CD of_IN Torricelli_NNP 's_POS former_JJ girlfriends_NNS ,_, Judy_NNP D._NN Balaban_NNP ._. 
+
+The_DT committee_NN 's_POS letter_NN did_VBD not_RB mention_VB Chang_NNP 's_POS reported_VBD gifts_NNS to_TO Torricelli_NNP of_IN an_DT $8,100_NN Rolex_NNP watch_VB ,_, about_IN a_DT dozen_NN Italian-made_NNP suits_NNS and_CC a_DT $3,816_NN antique_JJ grandfather_NN clock_NN ._. 
+Nor_CC did_VBD it_PRP cite_VB a_DT $1,590_NN Oriental_JJ carpet_NN that_IN Chang_NNP gave_VBD to_TO Torricelli_NNP 's_POS former_JJ wife_NN ,_, Susan_NNP Holloway_NNP Torricelli_NNP ._. 
+A_DT government_NN official_NN involved_VBN in_IN the_DT inquiry_NN said_VBD that_DT evidence_NN of_IN those_DT gifts_NNS was_VBD either_CC incomplete_JJ or_CC the_DT subject_NN of_IN conflicting_JJ accounts_NNS by_IN different_JJ witnesses_NNS ._. 
+
+The_DT committee_NN confirmed_VBD Torricelli_NNP 's_POS claims_NNS he_PRP had_VBD made_VBN partial_JJ repayments_NNS to_TO Chang_NNP for_IN two_CD gifts_NNS :_: a_DT large-screen_JJ television_NN and_CC a_DT stereo_NN compact-disc_JJ player_NN ._. 
+But_CC it_PRP said_VBD the_DT senator_NN had_VBD showed_VBN "_'' poor_JJ judgment_NN "_'' by_IN failing_VBG to_TO reimburse_VB him_PRP for_IN the_DT full_JJ market_NN value_NN of_IN the_DT gifts_NNS ._. 
+
+A_DT person_NN familiar_JJ with_IN Torricelli_NNP 's_POS testimony_NN to_TO the_DT committee_NN said_VBD he_PRP had_VBD told_VBN its_PRP$ members_NNS that_IN he_PRP repaid_VBD the_DT "_'' wholesale_JJ "_'' cost_NN of_IN the_DT appliances_NNS because_IN Chang_NNP told_VBD him_PRP that_WDT was_VBD what_WP he_PRP had_VBD paid_VBN ._. 
+
+The_DT ethics_NNS panel_NN also_RB criticized_VBD Torricelli_NNP for_IN taking_VBG two_CD bronze_NN statues_NNS on_IN loan_NN from_IN Chang_NNP ._. 
+The_DT statues_NNS ,_, the_DT existence_NN of_IN which_WDT had_VBD not_RB been_VBN publicly_RB known_VBN before_RB ,_, were_VBD displayed_VBN in_IN Torricelli_NNP 's_POS Senate_NNP office_NN ._. 
+
+Finally_RB ,_, the_DT committee_NN appeared_VBD to_TO have_VB discounted_VBN Torricelli_NNP 's_POS contention_NN that_IN he_PRP was_VBD not_RB responsible_JJ for_IN expensive_JJ earrings_NNS that_IN Chang_NNP had_VBD given_VBN as_IN Christmas_NNP gifts_NNS to_TO his_PRP$ sister_NN ,_, Stern_NNP and_CC Balaban_NNP ._. 
+The_DT senator_NN 's_POS belief_NN "_'' that_IN such_JJ items_NNS were_VBD of_IN little_JJ value_NN or_CC were_VBD not_RB gifts_NNS to_TO you_PRP under_IN the_DT circumstances_NNS "_'' displayed_VBN poor_JJ judgment_NN and_CC violated_VBD Senate_NNP gift_NN rules_NNS ,_, the_DT panel_NN found_VBD ._. 
+
+According_VBG to_TO a_DT government_NN official_NN involved_VBN in_IN the_DT inquiry_NN ,_, the_DT information_NN reviewed_VBN by_IN the_DT Ethics_NNP Committee_NNP also_RB included_VBD an_DT analysis_NN by_IN federal_JJ investigators_NNS showing_VBG that_IN during_IN the_DT period_NN in_IN which_WDT Chang_NNP claimed_VBD to_TO have_VB made_VBN numerous_JJ cash_NN payments_NNS to_TO Torricelli_NNP ,_, the_DT senator_NN spent_VBD thousands_NNS of_IN dollars_NNS more_JJR in_IN cash_NN than_IN investigators_NNS could_MD account_VB for_IN from_IN his_PRP$ bank_NN withdrawals_NNS and_CC other_JJ known_VBN sources_NNS of_IN income_NN ._. 
+
+The_DT analysis_NN ,_, which_WDT was_VBD assembled_VBN from_IN banking_NN and_CC credit_NN records_NNS ,_, income-tax_NN returns_NNS and_CC congressional_JJ financial-disclosure_JJ forms_NNS ,_, showed_VBN by_IN March_NNP of_IN 1998_CD ,_, Torricelli_NNP 's_POS cash_NN expenditures_NNS were_VBD more_JJR than_IN $22,000_NN in_IN excess_NN of_IN the_DT cash_NN he_PRP had_VBD generated_VBN from_IN checks_NNS and_CC automatic-teller_JJ machines_NNS ,_, an_DT official_NN who_WP has_VBZ reviewed_VBN the_DT document_NN said_VBD ._. 
+
+A_DT spokeswoman_NN for_IN Torricelli_NNP ,_, Debra_NNP DeShong_NNP ,_, said_VBD he_PRP had_VBD fully_RB accounted_VBN for_IN all_PDT the_DT money_NN he_PRP had_VBD spent_VBN ._. 
+
+"_'' Senator_NNP Torricelli_NNP provided_VBD the_DT committee_NN with_IN a_DT full_JJ explanation_NN of_IN sources_NNS of_IN income_NN and_CC any_DT funds_NNS used_VBN for_IN cash_NN purposes_NNS ,_, "_'' she_PRP said_VBD ._. 
+
+Even_RB after_IN the_DT ethics_NNS committee_NN admonished_JJ Torricelli_NNP on_IN Tuesday_NNP night_NN ,_, one_CD of_IN his_PRP$ most_RBS important_JJ political_JJ supporters_NNS ,_, Senate_NNP majority_NN leader_NN Tom_NNP Daschle_NNP ,_, D-S.D_NNP ._. ,_, continued_VBD to_TO defend_VB him_PRP ,_, stating_VBG that_IN the_DT panel_NN had_VBD found_VBN Chang_NNP "_'' a_DT witness_NN wholly_RB without_IN credibility_NN ._. "_'' 
+
+Moving_VBG quickly_RB to_TO make_VB a_DT campaign_NN issue_NN of_IN the_DT Senate_NNP letter_NN ,_, Bill_NNP Pascoe_NNP ,_, Forrester_NNP 's_POS campaign_NN manager_NN ,_, said_VBD the_DT findings_NNS were_VBD evidence_NN that_IN Torricelli_NNP had_VBD undertaken_VBN an_DT "_'' extensive_JJ campaign_NN of_IN misinformation_NN and_CC deceit_NN ,_, "_'' and_CC called_VBN on_IN him_PRP to_TO release_VB the_DT sworn_JJ testimony_NN he_PRP gave_VBD to_TO the_DT panel_NN ._. 
+
+Pascoe_NNP said_VBD ,_, "_'' Only_RB then_RB will_MD New_NNP Jersey_NNP voters_NNS be_VB able_JJ to_TO decide_VB Torricelli_NNP 's_POS fitness_NN for_IN office_NN ._. "_'' 
+
+POWELL_NNP IN_IN BRUNEI_NNP FOR_IN TERROR_NNP TALKS_VBZ ;_: BUT_CC HUMAN_NNP RIGHTS_NNS REMAINS_NNP PERSISTENT_NNP ISSUE_NNP BANDAR_NNP SERI_NNP BEGAWAN_NNP ,_, Brunei_NNP U.S._NNP Secretary_NNP of_IN State_NNP Colin_NNP Powell_NNP arrived_VBD here_RB on_IN Tuesday_NNP night_NN for_IN meetings_NNS with_IN fellow_NN foreign_JJ ministers_NNS aimed_VBN at_IN solidifying_VBG a_DT second_JJ front_NN ,_, in_IN Southeast_NNP Asia_NNP ,_, in_IN the_DT campaign_NN against_IN global_JJ terrorism_NN ._. 
+But_CC he_PRP has_VBZ had_VBN to_TO balance_VB that_DT goal_NN with_IN longstanding_JJ concerns_NNS about_IN human_JJ rights_NNS abuses_NNS in_IN the_DT region_NN ._. 
+
+In_IN meetings_NNS on_IN Tuesday_NNP in_IN Malaysia_NNP and_CC Singapore_NNP before_IN touching_VBG down_RB in_IN this_DT oil-producing_JJ sultanate_NN for_IN two_CD days_NNS of_IN talks_NNS with_IN members_NNS of_IN the_DT Association_NNP of_IN South_NNP East_NNP Asian_NNP Nations_NNPS ,_, Powell_NNP said_VBD he_PRP repeatedly_RB raised_VBD the_DT issue_NN ._. 
+"_'' We_PRP still_RB believe_VBP strongly_RB in_IN human_JJ rights_NNS ,_, and_CC that_DT everything_NN we_PRP do_VBP has_VBZ to_TO be_VB consistent_JJ with_IN universal_JJ standards_NNS of_IN human_JJ rights_NNS ,_, "_'' he_PRP said_VBD ._. 
+
+But_CC at_IN a_DT news_NN conference_NN in_IN Singapore_NNP ,_, Powell_NNP hinted_VBD that_IN the_DT Bush_NNP administration_NN was_VBD ready_JJ to_TO discuss_VB resuming_VBG military_JJ cooperation_NN with_IN Indonesia_NNP ,_, the_DT world_NN 's_POS most_RBS populous_JJ Muslim_NNP nation_NN and_CC a_DT sometimes_RB reluctant_JJ partner_NN in_IN the_DT efforts_NNS to_TO crack_VB down_RB on_IN militant_JJ Islamic_NNP groups_NNS ._. 
+The_DT United_NNP States_NNPS cut_VBP virtually_RB all_DT military_JJ links_NNS with_IN Indonesia_NNP in_IN 1999_CD after_IN its_PRP$ forces_NNS were_VBD implicated_VBN in_IN the_DT violence_NN that_WDT swept_VBD East_NNP Timor_NNP after_IN that_DT territory_NN voted_VBD for_IN independence_NN ._. 
+
+On_IN Thursday_NNP ,_, Powell_NNP and_CC representatives_NNS of_IN the_DT nations_NNS of_IN the_DT Asian_JJ group_NN ,_, including_VBG Indonesia_NNP ,_, are_VBP expected_VBN to_TO sign_VB a_DT declaration_NN promising_JJ cooperation_NN to_TO prevent_VB terrorism_NN by_IN sharing_VBG information_NN ,_, blocking_VBG funds_NNS ,_, tightening_VBG borders_NNS and_CC making_VBG it_PRP hard_JJ to_TO use_VB forged_VBN travel_NN papers_NNS ._. 
+
+"_'' We_PRP recognized_VBD that_DT terrorism_NN is_VBZ a_DT global_JJ threat_NN and_CC that_IN the_DT disturbing_JJ acts_NNS of_IN terrorism_NN and_CC transnational_JJ crimes_NNS ,_, which_WDT continue_VBP to_TO threaten_VB world_NN peace_NN and_CC stability_NN ,_, must_MD be_VB tackled_VBN by_IN the_DT international_JJ community_NN ,_, "_'' the_DT ministers_NNS said_VBD in_IN a_DT communique_NN on_IN Tuesday_NNP ._. 
+
+Powell_NNP is_VBZ among_IN the_DT representatives_NNS from_IN 13_CD nations_NNS outside_IN Southeast_NNP Asia_NNP ,_, including_VBG China_NNP ,_, Japan_NNP and_CC Russia_NNP ,_, that_WDT are_VBP taking_VBG part_NN in_IN the_DT annual_JJ meeting_NN of_IN the_DT group_NN 's_POS regional_JJ forum_NN ._. 
+
+Terrorism_NNP dominates_VBZ the_DT agenda_NN ,_, though_IN the_DT possibility_NN of_IN a_DT meeting_NN here_RB between_IN Powell_NNP and_CC his_PRP$ North_NNP Korean_JJ counterpart_NN ,_, Paek_NNP Nam_NNP Sun_NNP ,_, has_VBZ generated_VBN the_DT most_JJS news_NN ._. 
+It_PRP would_MD be_VB the_DT highest-level_JJ contact_NN between_IN the_DT United_NNP States_NNPS and_CC North_NNP Korea_NNP since_IN President_NNP Bush_NNP took_VBD office_NN ._. 
+
+Powell_NNP heads_VBZ to_TO Indonesia_NNP 's_POS capital_NN ,_, Jakarta_NNP ,_, late_RB on_IN Thursday_NNP before_IN finishing_VBG a_DT weeklong_JJ trip_NN through_IN the_DT region_NN in_IN the_DT Philippines_NNPS on_IN Saturday_NNP ._. 
+He_PRP said_VBD that_IN when_WRB he_PRP arrives_VBZ in_IN Jakarta_NNP ,_, he_PRP will_MD have_VB "_'' some_DT ideas_NNS and_CC some_DT initiatives_NNS "_'' to_TO present_VB to_TO President_NNP Megawati_NNP Sukarnoputri_NNP ._. 
+
+Indonesia_NNP is_VBZ already_RB receiving_VBG $400,000_NN in_IN the_DT current_JJ fiscal_JJ year_NN for_IN civilian_JJ training_NN programs_NNS and_CC is_VBZ to_TO receive_VB a_DT like_JJ amount_NN next_JJ year_NN ;_: and_CC the_DT United_NNP States_NNPS expects_VBZ to_TO provide_VB an_DT additional_JJ $16_NN million_CD this_DT year_NN to_TO train_VB police_NN officers_NNS in_IN counterterrorism_NN ._. 
+At_IN the_DT same_JJ time_NN ,_, the_DT Pentagon_NNP is_VBZ reviewing_VBG how_WRB to_TO allocate_VB another_DT $17_NN million_CD in_IN "_'' counterterrorism_NN fellowships_NNS ,_, "_'' some_DT of_IN which_WDT could_MD go_VB to_TO Indonesia_NNP ._. 
+
+But_CC a_DT senior_JJ State_NNP Department_NNP official_NN also_RB acknowledged_VBD that_IN some_DT in_IN the_DT administration_NN and_CC Congress_NNP are_VBP pushing_VBG for_IN more_RBR direct_JJ military_JJ cooperation_NN ,_, which_WDT would_MD require_VB congressional_JJ approval_NN ._. 
+
+"_'' I_PRP think_VBP they_PRP recognize_VBP the_DT danger_NN that_IN we_PRP all_DT face_NN and_CC I_PRP think_VBP they_PRP have_VBP been_VBN cooperating_VBG more_RBR fully_RB with_IN us_PRP as_IN time_NN goes_VBZ by_IN ,_, and_CC I_PRP 'm_VBP quite_RB sure_JJ that_IN Mrs._NN Megawati_NNP is_VBZ committed_VBN to_TO this_DT cause_NN ,_, "_'' Powell_NNP said_VBD in_IN Singapore_NNP ._. 
+He_PRP met_VBD there_RB with_IN Prime_NNP Minister_NNP Goh_NNP Chok_NNP Tong_NNP ,_, who_WP endorsed_VBD the_DT idea_NN of_IN renewed_JJ military_JJ ties_NNS between_IN the_DT United_NNP States_NNPS and_CC Indonesia_NNP as_IN an_DT important_JJ step_NN in_IN stabilizing_VBG that_DT country_NN ._. 
+
+Powell_NNP contended_VBD that_IN it_PRP was_VBD not_RB inconsistent_JJ to_TO want_VB to_TO foster_VB cooperation_NN even_RB with_IN an_DT organization_NN like_IN the_DT Indonesian_JJ military_NN ,_, which_WDT has_VBZ a_DT history_NN of_IN human_JJ rights_NNS abuses_NNS ._. 
+"_'' If_IN you_PRP get_VBP young_JJ officers_NNS ,_, expose_VB them_PRP to_TO a_DT military_JJ organization_NN that_WDT is_VBZ within_IN a_DT democratic_JJ political_JJ institution_NN ,_, such_JJ as_IN the_DT United_NNP States_NNPS ,_, then_RB that_WDT rubs_VBZ off_RP on_IN them_PRP ,_, "_'' he_PRP said_VBD ._. 
+
+In_IN Malaysia_NNP ,_, Powell_NNP met_VBD with_IN Prime_NNP Minister_NNP Mahathir_NNP Mohamad_NNP ,_, who_WP has_VBZ led_VBN the_DT country_NN since_IN 1981_CD ._. 
+The_DT Malaysian_JJ foreign_JJ minister_NN ,_, Syed_NNP Hamid_NNP Albar_NNP ,_, later_RB told_VBD local_JJ reporters_NNS that_IN Powell_NNP had_VBD proposed_VBN that_IN American_NNP and_CC Malaysian_JJ officials_NNS review_VBP the_DT idea_NN of_IN forming_VBG a_DT regional_JJ training_NN center_NN in_IN Malaysia_NNP to_TO coordinate_VB antiterrorism_NN activities_NNS ._. 
+
+His_PRP$ brief_JJ stop_NN in_IN Malaysia_NNP also_RB highlighted_VBD the_DT moral_JJ ambiguities_NNS of_IN the_DT effort_NN to_TO prevent_VB terrorism_NN and_CC its_PRP$ emphasis_NN on_IN cooperation_NN with_IN governments_NNS that_IN the_DT United_NNP States_NNPS has_VBZ often_RB criticized_VBN ._. 
+
+The_DT United_NNP States_NNPS once_RB distanced_JJ itself_PRP from_IN Mahathir_NNP for_IN strong-arm_JJ tactics_NNS with_IN political_JJ rivals_NNS ,_, and_CC human_JJ rights_NNS groups_NNS criticize_VBP him_PRP for_IN arresting_VBG and_CC jailing_VBG scores_NNS of_IN suspected_VBN militants_NNS ,_, including_VBG some_DT who_WP may_MD be_VB linked_VBN to_TO al-_NN Qaida_NNP ,_, without_IN trial_NN ._. 
+
+Powell_NNP said_VBD his_PRP$ discussions_NNS with_IN Mahathir_NNP "_'' touched_VBD on_IN the_DT case_NN "_'' of_IN his_PRP$ former_JJ deputy_NN ,_, Anwar_NNP Ibrahim_NNP ,_, who_WP is_VBZ serving_VBG a_DT 15_CD -_: year_NN sentence_NN on_IN charges_NNS of_IN sodomy_NN and_CC abuse_NN of_IN power_NN after_IN trials_NNS that_IN Powell_NNP said_VBD the_DT United_NNP States_NNPS had_VBD "_'' always_RB felt_VBD "_'' were_VBD flawed_VBN ._. 
+
+The_DT assistant_NN secretary_NN of_IN state_NN for_IN East_NNP Asian_JJ and_CC Pacific_NNP affairs_NNS ,_, James_NNP Kelly_NNP ,_, met_VBD on_IN Tuesday_NNP morning_NN with_IN Anwar_NNP 's_POS wife_NN ,_, Wan_NNP Azizah_NNP Wan_NNP Ismail_NNP ,_, for_IN what_WP she_PRP later_RB told_VBD Malaysian_JJ reporters_NNS was_VBD a_DT discussion_NN about_IN both_DT the_DT detention_NN of_IN her_PRP$ husband_NN and_CC six_CD supporters_NNS ,_, and_CC the_DT campaign_NN against_IN terrorism_NN ._. 
+
+MICROSOFT_NNP TEAMS_NNP WITH_IN AT&T_NNP TO_TO OFFER_NNP SOFTWARE_NNP FOR_IN WIRELESS_NNP DEVICES_NNP AND_CC SERVICES_NNP Microsoft_NNP plans_VBZ to_TO announce_VB on_IN Wednesday_NNP a_DT partnership_NN with_IN AT&T_NNP Wireless_NNP Services_NNPS to_TO offer_VB software_NN for_IN wireless_JJ devices_NNS and_CC services_NNS ,_, a_DT person_NN close_RB to_TO the_DT talks_NNS said_VBD Tuesday_NNP night_NN ._. 
+
+The_DT deal_NN would_MD be_VB part_NN of_IN Microsoft_NNP 's_POS drive_NN to_TO sign_VB up_RP wireless_JJ carriers_NNS to_TO use_VB its_PRP$ so-called_JJ smart_JJ phone_NN software_NN --_: a_DT pared-down_JJ version_NN of_IN the_DT Windows_NNP operating_VBG system_NN --_: and_CC services_NNS that_IN Microsoft_NNP is_VBZ developing_VBG as_IN part_NN of_IN its_PRP$ ._. Net_JJ Internet_NN strategy_NN ._. 
+
+Neither_DT Microsoft_NNP nor_CC AT&T_NNP Wireless_NNP would_MD comment_VB ._. 
+
+The_DT main_JJ market_NN for_IN the_DT Microsoft-_NNP AT&T_NNP partnership_NN is_VBZ expected_VBN to_TO be_VB business_NN customers_NNS ._. 
+Microsoft_NNP 's_POS efforts_NNS to_TO persuade_VB wireless_JJ carriers_NNS to_TO use_VB its_PRP$ cell_NN phone_NN operating_VBG system_NN have_VBP struggled_VBN ._. 
+It_PRP has_VBZ run_VBN into_IN particular_JJ opposition_NN from_IN companies_NNS aligned_VBN with_IN Nokia_NNP ,_, which_WDT has_VBZ developed_VBN a_DT competing_JJ software_NN ._. 
+
+But_CC Microsoft_NNP 's_POS potential_JJ advantage_NN ,_, analysts_NNS say_VBP ,_, is_VBZ its_PRP$ ability_NN to_TO link_VB its_PRP$ cell_NN phone_NN software_NN to_TO its_PRP$ desktop_NN PC_JJ software_NN ,_, a_DT Microsoft_NNP stronghold_NN ._. 
+Customers_NNS who_WP want_VBP access_NN to_TO Microsoft_NNP desktop_NN e-mail_JJ ,_, documents_NNS and_CC calendar_NN information_NN may_MD prefer_VB Microsoft_NNP 's_POS wireless_JJ technology_NN ._. 
+
+In_IN recent_JJ months_NNS ,_, Microsoft_NNP has_VBZ announced_VBN partnerships_NNS with_IN wireless_JJ carriers_NNS like_IN Verizon_NNP and_CC Sprint_NNP PCS_NNP ._. 
+
+MONTREAL_NNP TRADES_NNP FLOYD_NNP TO_TO RED_NNP SOX_NNP FOR_IN TWO_JJ PITCHERS_NNP Less_JJR than_IN three_CD weeks_NNS after_IN outfielder_NN Cliff_NNP Floyd_NNP was_VBD imported_VBN to_TO Montreal_NNP to_TO play_VB a_DT pivotal_JJ part_NN in_IN the_DT Expos_NNP '_POS playoff_NN plans_NNS ,_, he_PRP was_VBD traded_VBN to_TO Boston_NNP Tuesday_NNP night_NN to_TO try_VB his_PRP$ hand_NN in_IN what_WP the_DT Red_NNP Sox_NNP hope_VBP will_MD be_VB their_PRP$ postseason_NN plans_NNS ._. 
+
+Floyd_NNP did_VBD not_RB produce_VB the_DT kind_NN of_IN offense_NN the_DT Expos_NNP expected_VBD from_IN him_PRP ,_, so_RB Omar_NNP Minaya_NNP ,_, the_DT Expos_NNP '_POS aggressive_JJ rookie_NN general_JJ manager_NN ,_, turned_VBD around_IN and_CC sent_VBD him_PRP to_TO the_DT Red_NNP Sox_NNP in_IN exchange_NN two_CD South_NNP Korean_JJ pitchers_NNS and_CC a_DT player_NN yet_RB to_TO be_VB named_VBN ._. 
+
+The_DT teams_NNS made_VBD the_DT deal_NN less_JJR than_IN 24_CD hours_NNS before_IN Tuesday_NNP 's_POS 4_CD p.m._NN 
+deadline_NN for_IN making_VBG trades_NNS without_IN first_JJ getting_VBG waivers_NNS on_IN players_NNS ._. 
+Minaya_NNP obtained_VBD Floyd_NNP from_IN the_DT Florida_NNP Marlins_NNP on_IN July_NNP 11_CD ,_, only_RB two_CD weeks_NNS after_IN he_PRP stunned_VBD baseball_NN by_IN acquiring_VBG Bartolo_NNP Colon_NNP from_IN Cleveland_NNP ._. 
+
+Colon_NN has_VBZ won_VBN four_CD of_IN five_CD decisions_NNS for_IN the_DT Expos_NNP ,_, but_CC Floyd_NNP batted_VBD only_RB .208_CD for_IN them_PRP while_IN hitting_VBG three_CD home_NN runs_VBZ ,_, including_VBG one_CD Tuesday_NNP night_NN ,_, and_CC driving_VBG in_IN four_CD runs_NNS ._. 
+With_IN the_DT Marlins_NNP Floyd_NNP bated_JJ .287_CD ,_, hit_VBD 18_CD home_NN runs_VBZ and_CC drove_VBD in_IN 57_CD runs_NNS ._. 
+
+The_DT Expos_NNP ,_, who_WP had_VBD a_DT 46_CD -_: 41_CD record_NN when_WRB they_PRP made_VBD their_PRP$ first_JJ Floyd_NNP deal_NN ,_, had_VBD only_RB a_DT 7_CD -_: 12_CD record_NN with_IN him_PRP on_IN the_DT team_NN ,_, dropping_VBG from_IN 9_CD 1/2_CD games_NNS behind_IN Atlanta_NNP in_IN the_DT National_NNP League_NNP East_NNP to_TO as_RB many_JJ as_IN 16_CD games_NNS back_RB ._. 
+
+Floyd_NNP can_MD be_VB a_DT free_JJ agent_NN after_IN this_DT season_NN ,_, and_CC Minaya_NNP decided_VBD it_PRP would_MD be_VB more_RBR prudent_JJ to_TO trade_VB him_PRP and_CC get_VB value_NN in_IN return_NN than_IN have_VBP to_TO settle_VB for_IN a_DT draft_NN choice_NN or_CC two_CD as_IN compensation_NN when_WRB he_PRP signed_VBN with_IN another_DT team_NN as_IN a_DT free_JJ agent_NN ._. 
+
+The_DT Expos_NNP acquired_VBD Sun_NNP Woo-kim_NNP and_CC Seung_NNP Jun-song_NNP ._. 
+Kim_NNP ,_, 24_CD ,_, is_VBZ a_DT right-handed_JJ pitcher_NN from_IN Seoul_NNP ._. 
+The_DT Red_NNP Sox_NNP signed_VBD him_PRP in_IN 1997_CD ._. 
+Song_NN is_VBZ a_DT 22_CD -_: year-old_JJ right-hander_NN from_IN Pusan_NNP ._. 
+The_DT Red_NNP Sox_NNP signed_VBD him_PRP in_IN 1999_CD ._. 
+
+The_DT Red_NNP Sox_NNP wanted_VBD to_TO bolster_VB their_PRP$ offense_NN ._. 
+They_PRP led_VBD the_DT Yankees_NNPS for_IN most_JJS of_IN the_DT first_JJ three_CD months_NNS of_IN the_DT season_NN but_CC then_RB slipped_VBD behind_IN them_PRP in_IN the_DT American_NNP League_NNP East_NNP ._. 
+
+Earlier_RBR in_IN the_DT day_NN Tuesday_NNP ,_, one_CD member_NN of_IN the_DT Red_NNP Sox_NNP organization_NN was_VBD not_RB sure_JJ they_PRP would_MD be_VB able_JJ to_TO get_VB Floyd_NNP ._. 
+"_'' I_PRP do_VBP n't_RB know_VB that_IN he_PRP 's_VBZ that_IN serious_JJ about_IN moving_VBG him_PRP ,_, "_'' the_DT person_NN said_VBD of_IN Minaya_NNP ._. 
+
+But_CC as_IN the_DT day_NN wore_VBD on_IN ,_, the_DT Red_NNP Sox_NNP tried_VBD harder_RBR and_CC by_IN Tuesday_NNP night_NN were_VBD able_JJ to_TO get_VB the_DT player_NN they_PRP wanted_VBD for_IN their_PRP$ lineup_NN ._. 
+
+EX-HOG_NNP OFFERS_NNP JUMP-START_NNP AND_CC HELPS_NNP CHANGE_NNP LIVES_NNP WASHINGTON_NNP With_IN the_DT barrage_NN of_IN crack_NN cocaine-connected_JJ killings_NNS in_IN the_DT 1980s_NN came_VBD the_DT realization_NN that_IN young_JJ people_NNS were_VBD too_RB often_RB full-fledged_JJ players_NNS in_IN the_DT violence_NN ._. 
+
+That_DT was_VBD more_RBR evident_JJ here_RB than_IN in_IN any_DT other_JJ city_NN ,_, said_VBD George_NNP Starke_NNP ,_, who_WP after_IN his_PRP$ career_NN as_IN an_DT offensive_JJ tackle_VB with_IN the_DT Washington_NNP Redskins_NNP from_IN 1973_CD to_TO 1984_CD stuck_VBN around_IN and_CC decided_VBD to_TO make_VB this_DT place_NN more_JJR than_IN his_PRP$ home_NN ._. 
+
+"_'' There_EX was_VBD death_NN in_IN D.C._NN throughout_IN the_NNP '_POS 80_CD s_VBZ and_CC into_IN the_NNP '_POS 90_CD s_VBZ ,_, and_CC there_EX was_VBD death_NN everywhere_RB ,_, "_'' said_VBD Starke_NNP ,_, who_WP was_VBD reared_VBN in_IN New_NNP Rochelle_NNP N.Y._NN ,_, and_CC played_VBD at_IN Columbia_NNP ._. 
+"_'' It_PRP was_VBD n't_RB like_VB New_NNP York_NNP 's_POS or_CC Boston_NNP 's_POS organized_VBN crime_NN ._. 
+It_PRP was_VBD kids_NNS shooting_VBG kids_NNS ._. 
+It_PRP was_VBD a_DT 14_CD -_: year-old_JJ from_IN R_NNP Street_NNP who_WP got_VBD his_PRP$ crew_NN of_IN six_CD together_RB and_CC ran_VBD their_PRP$ drug_NN block_NN killing_VBG another_DT 14_CD -_: year-old_JJ and_CC his_PRP$ crew_NN from_IN a_DT block_NN away_RB ._. 
+And_CC from_IN the_DT beginning_NN I_PRP could_MD see_VB that_IN it_PRP was_VBD all_DT about_IN jobs_NNS ._. 
+I_PRP could_MD see_VB that_IN you_PRP needed_VBD the_DT private_JJ sector_NN involved_VBN ._. "_'' 
+
+Starke_NNP could_MD see_VB that_IN in_IN many_JJ instances_NNS these_DT were_JJ cases_NNS of_IN lost_JJ dignity_NN ._. 
+"_'' I_PRP had_VBD a_DT young_JJ man_NN come_VB up_IN to_TO me_PRP three_CD years_NNS ago_RB and_CC say_VB ,_, '_'' Mr._NN Starke_NNP ,_, I_PRP 'm_VBP tired_JJ of_IN going_VBG to_TO bed_NN at_IN night_NN with_IN a_DT Tech-_NNP 9_CD gun_NN under_IN my_PRP$ pillow_NN ._. "_'' '_POS 
+
+And_CC Starke_NNP was_VBD tired_JJ of_IN seeing_VBG Washington_NNP and_CC its_PRP$ young_JJ people_NNS suffer_VBP a_DT black_JJ eye_NN ._. 
+
+So_RB ,_, after_IN six_CD years_NNS of_IN planning_NN ,_, he_PRP opened_VBD the_DT Excel_NNP Institute_NNP Automotive_NNP Program_NNP ,_, a_DT two-year_JJ school_NN that_WDT gives_VBZ people_NNS a_DT chance_NN at_IN a_DT new_JJ life_NN as_IN an_DT auto_NN technician_NN or_CC in_IN another_DT job_NN related_VBN to_TO the_DT field_NN ._. 
+The_DT school_NN ,_, now_RB in_IN its_PRP$ third_JJ year_NN ,_, has_VBZ been_VBN so_RB successful_JJ that_IN it_PRP recently_RB received_VBD a_DT $2_NN million_CD grant_VB from_IN Congress_NNP ._. 
+The_DT program_NN is_VBZ being_VBG copied_VBN by_IN other_JJ cities_NNS and_CC has_VBZ attracted_VBN students_NNS from_IN all_DT walks_NNS of_IN life_NN ,_, ages_NNS 16_CD to_TO 68_CD ._. 
+
+The_DT program_NN is_VBZ coordinated_VBN with_IN the_DT University_NNP of_IN the_DT District_NNP of_IN Columbia_NNP ._. 
+Students_NNS learn_VBP automotive_JJ intricacies_NNS and_CC can_MD earn_VB a_DT a_DT high_JJ school_NN equivalency_NN diploma_NN ._. 
+Thanks_NNS to_TO Starke_NNP 's_POS vision_NN ,_, leadership_NN and_CC fund-raising_JJ ,_, they_PRP can_MD do_VB it_PRP all_DT free_JJ ._. 
+
+Starke_NNP ,_, 54_CD ,_, played_VBD in_IN two_CD Super_NNP Bowls_NNP and_CC won_VBD one_CD ._. 
+He_PRP played_VBD for_IN George_NNP Allen_NNP ,_, Jack_NNP Pardee_NNP and_CC Joe_NNP Gibbs_NNP ._. 
+In_IN 1973_CD ,_, he_PRP was_VBD young_JJ enough_RB to_TO be_VB a_DT part_NN of_IN the_DT Redskins_NNP '_POS Over_IN the_DT Hill_NNP Gang_NN ,_, and_CC in_IN 1981_CD he_PRP was_VBD old_JJ enough_RB to_TO be_VB one_CD of_IN the_DT team_NN 's_POS original_JJ Hogs_NNS ._. 
+He_PRP was_VBD recently_RB named_VBN one_CD of_IN the_DT 70_CD greatest_JJS Redskins_NNP ._. 
+He_PRP earned_VBD a_DT physics_NN degree_NN from_IN Columbia_NNP ,_, became_VBD a_DT Redskin_NNP ,_, studied_VBN drama_NN ,_, worked_VBD in_IN sports_NNS broadcasting_NN ,_, opened_VBD a_DT Washington_NNP restaurant_NN and_CC built_VBD his_PRP$ own_JJ home_NN here_RB when_WRB he_PRP thought_VBD he_PRP might_MD become_VB a_DT developer_NN ,_, "_'' just_RB so_IN I_PRP could_MD know_VB how_WRB the_DT business_NN worked_VBD from_IN the_DT ground_NN up_RB ,_, "_'' he_PRP said_VBD ._. 
+In_IN 1988_CD he_PRP bought_VBD a_DT Ford_NNP dealership_NN ._. 
+In_IN 1992_CD he_PRP sold_VBD it_PRP to_TO begin_VB work_NN on_IN the_DT Excel_NNP Institute_NNP ,_, putting_VBG up_RP $300,000_NN to_TO get_VB things_NNS started_VBD ._. 
+
+"_'' I_PRP saw_VBD a_DT lot_NN of_IN kids_NNS and_CC young_JJ men_NNS out_IN there_RB with_IN no_DT dads_NNS and_CC no_DT structure_NN who_WP could_MD n't_RB read_VB and_CC some_DT of_IN them_PRP were_VBD beginning_VBG to_TO realize_VB that_IN there_EX is_VBZ no_DT growing_VBG old_JJ as_IN a_DT crack_NN dealer_NN --_: you_PRP either_CC die_VB or_CC go_VB to_TO jail_NN ,_, "_'' he_PRP said_VBD ._. 
+"_'' My_PRP$ experience_NN in_IN the_DT automotive_JJ industry_NN was_VBD there_EX was_VBD a_DT dire_JJ shortage_NN of_IN auto_NN technicians_NNS not_RB only_RB in_IN America_NNP but_CC internationally_RB ._. "_'' 
+
+So_RB ,_, Starke_NNP matched_VBD a_DT problem_NN with_IN a_DT problem_NN and_CC found_VBD a_DT solution_NN ._. 
+
+The_DT institute_NN has_VBZ a_DT full-time_JJ staff_NN of_IN 18_CD ._. 
+Twelve_CD of_IN those_DT are_VBP teachers_NNS ._. 
+Seventy_CD students_NNS are_VBP participating_VBG in_IN summer_NN classes_NNS ._. 
+Forty_CD new_JJ students_NNS are_VBP expected_VBN for_IN fall_NN classes_NNS and_CC there_EX is_VBZ a_DT waiting_JJ list_NN of_IN at_IN least_JJS that_IN many_JJ ,_, Starke_NNP said_VBD ._. 
+
+Angela_NNP Nafis_NNP ,_, 47_CD ,_, of_IN Ecuador_NNP ,_, has_VBZ been_VBN in_IN the_DT school_NN for_IN a_DT year_NN ._. 
+She_PRP learned_VBD to_TO speak_VB English_NNP ,_, got_VBD a_DT driver_NN 's_POS license_NN and_CC earned_VBD her_PRP$ GED_NNP ._. 
+
+Charles_NNP Easterling_NNP ,_, 24_CD ,_, said_VBD he_PRP had_VBD been_VBN enrolled_VBN for_IN a_DT month_NN but_CC lived_VBD "_'' wherever_WRB ._. "_'' 
+
+"_'' I_PRP 'm_VBP homeless_JJ now_RB trying_VBG to_TO find_VB a_DT place_NN to_TO lay_VB my_PRP$ head_NN ,_, "_'' he_PRP said_VBD ._. 
+
+Starke_NNP said_VBD the_DT school_NN was_VBD helping_VBG Easterling_NNP find_VB housing_NN ._. 
+Easterling_NNP said_VBD he_PRP would_MD do_VB whatever_WDT it_PRP took_VBD to_TO become_VB stable_JJ ._. 
+
+John_NNP Orellana_NNP ,_, 22_CD ,_, just_RB got_VBD a_DT technician_NN 's_POS job_NN at_IN a_DT Jiffy_NNP Lube_NNP last_JJ week_NN ._. 
+Not_RB bad_JJ for_IN a_DT guy_NN who_WP was_VBD kicked_VBN out_IN of_IN high_JJ school_NN in_IN 1997_CD for_IN threatening_VBG a_DT teacher_NN ._. 
+
+"_'' I_PRP did_VBD a_DT lot_NN of_IN walking_VBG ,_, got_VBD an_DT interview_NN and_CC got_VBD a_DT job_NN and_CC an_DT opportunity_NN of_IN a_DT lifetime_NN ,_, "_'' Orellana_NNP said_VBD ._. 
+"_'' It_PRP shows_VBZ if_IN you_PRP have_VBP the_DT will_MD and_CC the_DT dedication_NN here_RB you_PRP can_MD learn_VB a_DT lot_NN and_CC be_VB something_NN ._. 
+It_PRP taught_VBD me_PRP maturity_NN ._. 
+This_DT school_NN is_VBZ like_IN a_DT big_JJ family_NN ._. "_'' 
+
+Edward_NNP Jewell_NNP ,_, 56_CD ,_, retired_VBD from_IN his_PRP$ job_NN as_IN a_DT copyright_NN assistant_NN at_IN the_DT Library_NNP of_IN Congress_NNP in_IN 1993_CD ._. 
+"_'' I_PRP 've_VBP been_VBN flapping_VBG my_PRP$ wings_NNS since_IN until_IN I_PRP found_VBD this_DT school_NN ,_, "_'' he_PRP said_VBD ._. 
+"_'' I_PRP needed_VBD a_DT new_JJ skill_NN ._. 
+This_DT has_VBZ been_VBN invaluable_JJ ,_, enriching_VBG ._. 
+I_PRP get_VBP up_RB and_CC come_VB down_RB here_RB at_IN 6_CD a.m._NN 
+every_DT day_NN full_JJ of_IN joy_NN and_CC energized_VBN ._. 
+I_PRP 'm_VBP grateful_JJ to_TO George_NNP Starke_NNP to_TO have_VB had_VBN the_DT vision_NN to_TO set_VB something_NN like_IN this_DT up_RB ,_, not_RB just_RB for_IN me_PRP but_CC for_IN all_PDT the_DT students_NNS ._. 
+George_NNP is_VBZ doing_VBG what_WP he_PRP 's_VBZ supposed_VBN to_TO be_VB doing_VBG because_IN God_NNP is_VBZ blessing_NN him_PRP and_CC he_PRP 's_VBZ sure_JJ blessing_NN me_PRP ._. 
+And_CC when_WRB I_PRP become_VBP a_DT technician_NN ,_, I_PRP will_MD help_VB the_DT poor_JJ and_CC needy_JJ by_IN giving_VBG them_PRP affordable_JJ rates_NNS ._. "_'' 
+
+Starke_NNP said_VBD the_DT school_NN would_MD move_VB to_TO a_DT building_NN near_IN the_DT city_NN 's_POS bus_NN depot_NN in_IN the_DT fall_NN ._. 
+The_DT city_NN has_VBZ talked_VBN with_IN Starke_NNP about_IN using_VBG his_PRP$ students_NNS for_IN some_DT vehicle_NN repairs_NNS ._. 
+He_PRP is_VBZ proud_JJ of_IN the_DT red_JJ Cobra_NNP 427_CD that_WDT sits_VBZ in_IN the_DT school_NN 's_POS workshop_NN ._. 
+It_PRP was_VBD rebuilt_VBN from_IN shell_NN to_TO finish_VB by_IN his_PRP$ first_JJ class_NN and_CC was_VBD included_VBN in_IN the_DT district_NN 's_POS millennium_NN celebrations_NNS ._. 
+
+His_PRP$ current_JJ class_NN is_VBZ rebuilding_VBG a_DT black_JJ one_CD ._. 
+This_DT one_PRP will_MD be_VB auctioned_VBN for_IN the_DT school_NN ._. 
+
+"_'' I_PRP just_RB wanted_VBD to_TO be_VB a_DT part_NN ,_, "_'' said_VBD Starke_NNP ,_, who_WP is_VBZ certain_JJ he_PRP is_VBZ the_DT lone_JJ Redskin_NNP ,_, past_JJ or_CC present_JJ ,_, who_WP lives_VBZ in_IN the_DT city_NN ._. 
+He_PRP has_VBZ lived_VBN here_RB for_IN 20_CD years_NNS ._. 
+"_'' A_DT lot_NN of_IN kids_NNS are_VBP afraid_JJ of_IN '_POS the_DT process_NN '_'' and_CC I_PRP wanted_VBD to_TO take_VB '_POS the_DT process_NN '_'' out_RP ._. 
+For_IN this_DT school_NN ,_, once_RB they_PRP are_VBP in_IN ,_, all_DT they_PRP have_VBP to_TO do_VB is_VBZ come_VB every_DT day_NN ,_, come_VB on_IN time_NN every_DT day_NN and_CC work_VB hard_JJ ._. 
+A_DT little_JJ more_JJR than_IN 50_CD percent_NN of_IN our_PRP$ kids_NNS make_VBP it_PRP through_IN ._. 
+I_PRP want_VBP it_PRP to_TO be_VB more_JJR ,_, but_CC my_PRP$ job_NN is_VBZ not_RB to_TO see_VB that_DT everybody_NN makes_VBZ it_PRP ;_: my_PRP$ job_NN is_VBZ to_TO see_VB that_DT everybody_NN has_VBZ the_DT opportunity_NN to_TO make_VB it_PRP ._. "_'' 
+
+RARE_NNP COIN_NNP FETCHES_NNP RECORD_NNP $7.59_NN MILLION_NNP AT_IN AUCTION_NNP NEW_NNP YORK_NNP The_DT 1933_CD double_JJ eagle_NN ,_, a_DT $20_NN gold_NN piece_NN with_IN a_DT mysterious_JJ history_NN that_WDT involves_VBZ a_DT president_NN ,_, a_DT king_NN and_CC a_DT Secret_NNP Service_NNP sting_NN operation_NN ,_, was_VBD auctioned_VBN Tuesday_NNP last_JJ night_NN for_IN a_DT record_NN price_NN for_IN a_DT coin_NN ,_, $7.59_NN million_CD ,_, nearly_RB double_VB the_DT previous_JJ record_NN ._. 
+
+The_DT anonymous_JJ buyer_NN ,_, believed_VBN to_TO be_VB an_DT individual_JJ collector_NN who_WP lives_VBZ in_IN the_DT United_NNP States_NNPS ,_, made_VBD the_DT winning_JJ bid_NN in_IN a_DT fiercely_RB contested_VBN nine-minute_JJ auction_NN at_IN Sotheby_NNP 's_POS in_IN Manhattan_NNP ._. 
+Eight_CD bidders_NNS were_VBD joined_VBN by_IN 500_CD coin_NN collectors_NNS and_CC dealers_NNS in_IN an_DT auction_NN house_NN audience_NN seemingly_RB devoid_JJ of_IN celebrity_NN bidders_NNS ,_, while_IN an_DT additional_JJ 534_CD observers_NNS followed_VBD the_DT bidding_NN on_IN eBay_NN ._. 
+
+As_IN auction_NN houses_NNS prepare_VBP for_IN their_PRP$ fall_NN seasons_NNS in_IN an_DT uncertain_JJ economy_NN ,_, the_DT sale_NN price_NN "_'' suggests_VBZ that_IN the_DT marketplace_NN for_IN important_JJ items_NNS is_VBZ enormously_RB strong_JJ ,_, "_'' said_VBD David_NNP Redden_NNP ,_, a_DT vice_NN chairman_NN at_IN Sotheby_NNP 's_POS ,_, who_WP was_VBD the_DT auctioneer_NN ._. 
+
+"_'' This_DT is_VBZ an_DT astonishing_JJ new_JJ record_NN for_IN a_DT coin_NN ,_, "_'' he_PRP said_VBD ._. 
+
+In_IN an_DT unprecedented_JJ move_NN ,_, the_DT auction_NN proceeds_NNS were_VBD split_VBN by_IN the_DT U.S._NNP Mint_NNP and_CC a_DT London_NNP coin_NN dealer_NN ,_, Stephen_NNP Fenton_NNP ,_, who_WP had_VBD won_VBN that_DT right_NN in_IN court_NN after_IN having_VBG been_VBN arrested_VBN by_IN Secret_NNP Service_NNP agents_NNS for_IN trying_VBG to_TO sell_VB the_DT coin_NN in_IN the_DT Waldorf-_NNP Astoria_NNP Hotel_NNP in_IN Manhattan_NNP in_IN 1996_CD ._. 
+
+Henrietta_NNP Holsman_NNP Fore_NNP ,_, the_DT director_NN of_IN the_DT U.S._NNP Mint_NNP ,_, who_WP witnessed_VBN the_DT sale_NN ,_, said_VBD ,_, "_'' The_DT monies_NNS we_PRP receive_VBP will_MD go_VB toward_IN helping_VBG to_TO pay_VB down_RP the_DT debt_NN and_CC to_TO fight_VB the_DT war_NN on_IN terrorism_NN ._. "_'' 
+
+Fenton_NNP commented_VBD that_IN the_DT double_JJ eagle_NN had_VBD been_VBN on_IN "_'' a_DT long_JJ historic_JJ journey_NN ,_, with_IN a_DT very_RB satisfying_VBG ending_VBG ._. "_'' 
+
+He_PRP added_VBD ,_, "_'' I_PRP am_VBP thrilled_VBN with_IN the_DT price_NN ._. "_'' 
+The_DT previous_JJ numismatic_JJ record_NN holder_NN was_VBD an_DT 1804_CD U.S._NNP silver_NN dollar_NN ,_, which_WDT sold_VBD for_IN $4.14_NN million_CD in_IN 1999_CD ._. 
+
+Sotheby_NNP 's_POS partner_NN in_IN the_DT one-lot_JJ auction_NN was_VBD Stack_NNP 's_POS Rare_JJ Coins_NNP ,_, with_IN which_WDT it_PRP shared_VBD the_DT customary_JJ 15_CD percent_NN commission_NN ._. 
+"_'' I_PRP have_VBP never_RB seen_VBN as_IN much_JJ interest_NN in_IN the_DT sale_NN of_IN any_DT coin_NN in_IN my_PRP$ 30_CD years_NNS in_IN the_DT business_NN ,_, "_'' said_VBD Lawrence_NNP R._NN Stack_NNP ,_, the_DT company_NN 's_POS managing_VBG director_NN ._. 
+
+"_'' This_DT is_VBZ the_DT Mona_NNP Lisa_NNP of_IN coins_NNS ,_, "_'' said_VBD Beth_NNP Deisher_NNP ,_, editor_NN of_IN Coin_NNP World_NNP ,_, the_DT largest_JJS weekly_JJ coin_NN publication_NN in_IN the_DT United_NNP States_NNPS ,_, with_IN a_DT circulation_NN of_IN 85,000_CD ._. 
+"_'' It_PRP is_VBZ unique_JJ ._. 
+Forbidden_NNP fruit_NN ._. "_'' 
+
+Collectors_NNS '_POS Web_NNP sites_NNS have_VBP surged_VBN with_IN speculation_NN about_IN the_DT sale_NN price_NN ,_, and_CC enthusiasts_NNS even_RB organized_VBN betting_VBG pools_NNS ._. 
+
+On_IN Tuesday_NNP night_NN ,_, Redden_NNP took_VBD the_DT podium_NN for_IN nine_CD minutes_NNS before_IN the_DT gavel_NN came_VBD down_RB ,_, recognizing_VBG bidders_NNS in_IN the_DT audience_NN and_CC on_IN the_DT telephone_NN ._. 
+The_DT tension_NN in_IN the_DT crowd_NN was_VBD broken_VBN with_IN a_DT burst_NN of_IN applause_NN after_IN the_DT $5_NN million_CD mark_NN ,_, and_CC a_DT louder_JJR explosion_NN at_IN $6_NN million_CD ._. 
+
+The_DT rumor_NN in_IN the_DT crowd_NN had_VBD been_VBN that_IN "_'' anything_NN under_IN $6_NN million_CD would_MD be_VB a_DT bargain_NN ,_, "_'' said_VBD Ute_NNP Wartenberg_NNP ,_, executive_JJ director_NN of_IN the_DT American_NNP Numismatic_NNP Society_NNP in_IN Manhattan_NNP ._. 
+Most_JJS bidders_NNS dropped_VBD out_IN after_IN that_DT price_NN ._. 
+The_DT gavel_NN sounded_VBD at_IN $6.6_NN million_CD after_IN a_DT Sotheby_NNP 's_POS senior_JJ vice_NN president_NN ,_, Selby_NNP Kiffer_NNP ,_, made_VBD the_DT final_JJ bid_NN for_IN the_DT anonymous_JJ buyer_NN on_IN the_DT telephone_NN ._. 
+The_DT sale_NN price_NN of_IN $6.6_NN million_CD ,_, when_WRB added_VBD to_TO the_DT commission_NN ,_, totaled_VBD $7.59_NN million_CD ._. 
+
+The_DT auction_NN attendance_NN was_VBD swelled_VBN by_IN coin_NN collectors_NNS who_WP had_VBD gathered_VBN on_IN the_DT eve_NN of_IN the_DT American_NNP Numismatic_NNP Association_NNP Convention_NNP ,_, the_DT largest_JJS coin_NN show_NN of_IN the_DT year_NN ,_, expected_VBN to_TO draw_VB more_JJR than_IN 10,000_CD people_NNS to_TO the_DT Marriott_NNP Marquis_NNP Hotel_NNP Wednesday_NNP ._. 
+"_'' So_IN the_DT auction_NN was_VBD almost_RB like_IN the_DT ribbon-cutting_JJ ceremony_NN for_IN the_DT convention_NN ,_, "_'' Stack_NNP said_VBD ._. 
+
+Fore_NNP of_IN the_DT mint_NN said_VBD the_DT high_JJ price_NN for_IN the_DT coin_NN was_VBD reached_VBN "_'' because_IN it_PRP is_VBZ one_CD of_IN a_DT kind_NN ,_, it_PRP is_VBZ beautiful_JJ and_CC it_PRP has_VBZ a_DT great_JJ story_NN ._. "_'' 
+
+The_DT coin_NN was_VBD the_DT only_RB 1933_CD double_JJ eagle_NN that_WDT has_VBZ ever_RB been_VBN legally_RB offered_VBN for_IN sale_NN ,_, and_CC its_PRP$ Maltese_JJ Falconesque_NNP history_NN only_RB recently_RB came_VBD to_TO light_VB ,_, thanks_NNS to_TO documents_NNS unearthed_VBD during_IN the_DT five-year_JJ legal_JJ battle_NN over_IN its_PRP$ ownership_NN ._. 
+
+In_IN 1792_CD ,_, it_PRP was_VBD deemed_VBN that_IN all_DT gold_NN and_CC silver_NN U.S._NNP coins_NNS would_MD bear_VB the_DT depiction_NN of_IN an_DT eagle_NN ,_, but_CC gold_JJ pieces_NNS were_VBD issued_VBN only_RB after_IN a_DT gold_NN rush_NN boom_NN in_IN 1850_CD ._. 
+They_PRP were_VBD called_VBN double_JJ eagles_NNS because_IN their_PRP$ face_NN value_NN was_VBD twice_RB that_IN of_IN the_DT original_JJ $10_NN gold_NN piece_NN ._. 
+
+Following_VBG the_DT suggestion_NN of_IN President_NNP Theodore_NNP Roosevelt_NNP ,_, the_DT sculptor_NN Augustus_NNP Saint-_NNP Gaudens_NNP redesigned_VBD the_DT coin_NN in_IN 1907_CD in_IN high_JJ relief_NN ,_, forever_RB after_IN giving_VBG the_DT coins_NNS the_DT designation_NN "_'' saints_NNS ._. "_'' 
+
+But_CC in_IN 1933_CD ,_, President_NNP Franklin_NNP D._NN Roosevelt_NNP took_VBD the_DT United_NNP States_NNPS off_IN the_DT gold_NN standard_JJ ,_, and_CC ordered_VBD all_PDT the_DT 1933_CD saints_NNS already_RB manufactured_VBN destroyed_VBN ,_, save_VB for_IN two_CD reserved_VBN for_IN the_DT Smithsonian_NNP Institution_NNP ._. 
+They_PRP were_VBD never_RB declared_VBN legal_JJ currency_NN ._. 
+
+Presumably_RB after_IN being_VBG stolen_VBN by_IN a_DT mint_NN employee_NN ,_, nine_CD double_JJ eagles_NNS surfaced_VBD during_IN the_DT mid-_NN 1940s_NN and_CC 1950s_NN ._. 
+They_PRP were_VBD seized_VBN by_IN the_DT Secret_NNP Service_NNP and_CC melted_JJ down_RB ._. 
+But_CC before_IN these_DT coins_NNS came_VBD to_TO light_VB ,_, the_DT royal_JJ legation_NN of_IN Egypt_NNP turned_VBD up_RB with_IN one_CD at_IN the_DT Department_NNP of_IN the_DT Treasury_NNP ,_, and_CC somehow_RB got_VBD an_DT official_NN to_TO issue_VB an_DT export_NN license_NN for_IN the_DT coin_NN to_TO enhance_VB the_DT collection_NN of_IN King_NNP Farouk_NNP ._. 
+By_IN the_DT time_NN that_DT blunder_NN was_VBD discovered_VBN ,_, the_DT coin_NN had_VBD left_VBN the_DT United_NNP States_NNPS ._. 
+
+In_IN 1954_CD ,_, after_IN the_DT king_NN was_VBD deposed_VBN ,_, his_PRP$ coins_NNS were_VBD sold_VBN at_IN auction_NN and_CC the_DT double_JJ eagle_NN vanished_VBN ._. 
+It_PRP went_VBD underground_JJ until_IN it_PRP came_VBD to_TO Fenton_NNP in_IN 1995_CD ._. 
+His_PRP$ arrest_NN in_IN Manhattan_NNP ,_, after_IN attempting_VBG to_TO sell_VB the_DT coin_NN for_IN $1.5_NN million_CD ,_, led_VBN to_TO a_DT court_NN battle_NN over_IN whether_IN --_: thanks_NNS to_TO the_DT Treasury_NNP 's_POS mistaken_VBN export_NN permission_NN in_IN 1944_CD --_: the_DT coin_NN could_MD be_VB legally_RB owned_VBN ._. 
+
+The_DT double_JJ eagle_NN came_VBD close_RB to_TO being_VBG melted_JJ down_RB many_JJ times_NNS ._. 
+The_DT coin_NN once_RB again_RB escaped_VBD destruction_NN when_WRB it_PRP was_VBD moved_VBN from_IN the_DT Treasury_NNP Department_NNP vault_NN in_IN 7_CD World_NNP Trade_NNP Center_NNP eight_CD months_NNS before_IN the_DT building_NN collapsed_VBD after_IN the_DT Sept_NNP ._. 11_CD terrorist_JJ attack_NN ._. 
+
+The_DT record_NN price_NN was_VBD seen_VBN as_IN a_DT gift_NN by_IN coin_NN collectors_NNS ._. 
+"_'' Many_JJ people_NNS believe_VBP that_IN our_PRP$ great_JJ coin_NN rarities_NNS are_VBP vastly_RB undervalued_VBN in_IN comparison_NN to_TO old_JJ master_NN paintings_NNS ,_, "_'' Deisher_NNP said_VBD ._. 
+
+In_IN a_DT ceremony_NN after_IN the_DT sale_NN ,_, Fore_NNP of_IN the_DT mint_NN declared_VBD the_DT coin_NN the_DT only_RB 1933_CD double_JJ eagle_NN ever_RB to_TO be_VB legally_RB issued_VBN by_IN the_DT U.S._NNP government_NN ._. 
+This_DT "_'' monetized_JJ "_'' the_DT coin_NN ,_, making_VBG it_PRP legal_JJ tender_NN ._. 
+The_DT buyer_NN will_MD receive_VB a_DT certificate_NN of_IN transfer_NN stating_VBG just_RB that_RB ,_, but_CC only_RB after_IN paying_VBG the_DT auction_NN price_NN and_CC a_DT fee_NN of_IN $20_NN for_IN the_DT face_NN value_NN of_IN the_DT coin_NN ._. 
+
+ETHICS_NNP COMMITTEE_NNP CITES_NNP TORRICELLI_NNP 'S_VBZ '_POS POOR_NNP JUDGMENT_NNP '_POS Following_VBG are_VBP excerpts_NNS from_IN the_DT findings_NNS of_IN the_DT Senate_NNP Ethics_NNP Committee_NNP 's_POS report_NN on_IN Sen._NN Robert_NNP G._NN Torricelli_NNP 's_POS dealings_NNS with_IN David_NNP Chang_NNP :_: 
+
+1_CD ._. Your_PRP$ acceptance_NN of_IN a_DT television_NN and_CC stereo_NN CD_JJ player_NN upon_IN payment_NN from_IN David_NNP Chang_NNP of_IN an_DT amount_NN you_PRP understood_VBD to_TO be_VB the_DT cost_VBN to_TO Mr._NN Chang_NNP ,_, rather_RB than_IN fair_JJ market_NN retail_JJ value_NN ,_, evidenced_VBN poor_JJ judgment_NN ,_, displayed_VBD a_DT lack_NN of_IN due_JJ regard_NN for_IN Senate_NNP rules_NNS and_CC resulted_VBD in_IN a_DT violation_NN of_IN the_DT Senate_NNP Gifts_NNP Rules_NNPS (_( 35_CD )_) and_CC ,_, consequently_RB ,_, a_DT violation_NN of_IN your_PRP$ public_JJ disclosure_NN obligations_NNS under_IN Senate_NNP rules_NNS ._. 
+
+2_CD ._. Your_PRP$ acceptance_NN on_IN loan_NN from_IN Mr._NN Chang_NNP of_IN bronze_NN statues_NNS (_( eagle_NN and_CC bronco_NN buster_NN )_) for_IN display_NN in_IN your_PRP$ Senate_NNP office_NN under_IN your_PRP$ office_NN 's_POS policy_NN of_IN accepting_VBG the_DT loan_NN of_IN home_NN state_NN artwork_NN was_VBD not_RB consistent_JJ with_IN Senate_NNP rules_NNS governing_VBG such_JJ loans_NNS ,_, evidenced_VBN poor_JJ judgment_NN ,_, displayed_VBD a_DT lack_NN of_IN due_JJ regard_NN for_IN the_DT Senate_NNP rules_NNS and_CC resulted_VBD in_IN a_DT violation_NN of_IN the_DT Senate_NNP Gifts_NNP Rule_NNP (_( 35_CD )_) and_CC ,_, consequently_RB ,_, a_DT violation_NN of_IN your_PRP$ public_JJ disclosure_NN obligations_NNS under_IN Senate_NNP rules_NNS ._. 
+
+3_CD ._. Your_PRP$ failure_NN to_TO act_VB to_TO prevent_VB the_DT acceptance_NN of_IN or_CC to_TO pay_VB for_IN gifts_NNS of_IN earrings_NNS from_IN Mr._NN Chang_NNP to_TO individuals_NNS (_( your_PRP$ sister_NN ,_, an_DT employee_NN and_CC a_DT friend_NN )_) in_IN your_PRP$ home_NN at_IN Christmas_NNP on_IN the_DT mistaken_JJ belief_NN that_IN such_JJ items_NNS were_VBD of_IN little_JJ value_NN or_CC were_VBD not_RB gifts_NNS to_TO you_PRP under_IN the_DT circumstances_NNS ,_, evidenced_VBN poor_JJ judgment_NN ,_, displayed_VBD a_DT lack_NN of_IN due_JJ regard_NN for_IN Senate_NNP rules_NNS and_CC resulted_VBD in_IN a_DT violation_NN of_IN the_DT Senate_NNP Gifts_NNP Rule_NNP (_( 35_CD )_) and_CC ,_, consequently_RB ,_, a_DT violation_NN of_IN your_PRP$ public_JJ disclosure_NN obligations_NNS under_IN Senate_NNP Rule_NNP 34_CD ._. 
+
+4_CD ._. Continuation_NNP of_IN a_DT personal_NN and_CC official_JJ relationship_NN with_IN Mr._NN Chang_NNP under_IN circumstances_NNS where_WRB you_PRP knew_VBD that_IN he_PRP was_VBD attempting_VBG to_TO ingratiate_VB himself_PRP ,_, in_IN part_NN through_IN a_DT pattern_NN of_IN attempts_NNS to_TO provide_VB you_PRP and_CC those_DT around_IN you_PRP with_IN gifts_NNS over_IN a_DT period_NN of_IN several_JJ years_NNS when_WRB you_PRP and_CC your_PRP$ Senate_NNP Office_NNP were_VBD taking_VBG official_JJ actions_NNS of_IN benefit_NN to_TO Mr._NN Chang_NNP (_( contacting_VBG United_NNP States_NNS Government_NNP officials_NNS ,_, writing_VBG letters_NNS to_TO foreign_JJ government_NN officials_NNS and_CC involving_VBG Mr._NN Chang_NNP of_IN his_PRP$ representatives_NNS in_IN situations_NNS where_WRB you_PRP were_VBD meeting_VBG with_IN officials_NNS of_IN foreign_JJ governments_NNS )_) evidenced_VBN poor_JJ judgment_NN ._. 
+
+5_CD ._. The_DT committee_NN has_VBZ also_RB considered_VBN that_IN the_DT principal_JJ source_NN of_IN the_DT allegations_NNS against_IN you_PRP is_VBZ David_NNP Chang_NNP ,_, a_DT witness_NN whose_WP$ credibility_NN has_VBZ been_VBN called_VBN into_IN question_NN by_IN the_DT Department_NNP of_IN Justice_NNP ,_, a_DT United_NNP States_NNPS district_NN judge_NN and_CC his_PRP$ own_JJ conduct_NN ._. 
+In_IN court_NN documents_NNS ,_, the_DT government_NN noted_VBD that_IN Chang_NNP could_MD not_RB be_VB trusted_VBN ._. 
+On_IN May_NNP 23_CD ,_, 2002_CD ,_, Mr._NN Chang_NNP was_VBD convicted_VBN of_IN attempting_VBG to_TO corruptly_RB persuade_VB a_DT witness_NN to_TO give_VB false_JJ testimony_NN ,_, a_DT conspiracy_NN to_TO violate_VB the_DT federal_JJ election_NN law_NN and_CC four_CD violations_NNS of_IN the_DT federal_JJ election_NN law_NN ._. 
+
+6_CD ._. After_IN evaluating_VBG the_DT extensive_JJ body_NN of_IN evidence_NN before_IN it_PRP and_CC your_PRP$ testimony_NN ,_, the_DT committee_NN is_VBZ troubled_VBN by_IN incongruities_NNS ,_, inconsistencies_NNS and_CC conflicts_NNS ,_, particularly_RB concerning_VBG actions_NNS taken_VBN by_IN you_PRP which_WDT were_VBD or_CC could_MD have_VB been_VBN of_IN potential_JJ benefit_NN to_TO Mr._NN Chang_NNP ._. 
+
+Therefore_RB ,_, the_DT committee_NN . . ._... expresses_VBZ its_PRP$ determination_NN that_IN your_PRP$ actions_NNS and_CC failure_NN to_TO act_VB led_VBN to_TO violations_NNS of_IN Senate_NNP rules_NNS (_( and_CC related_VBN statutes_NNS )_) and_CC created_VBN at_IN least_JJS the_DT appearance_NN of_IN impropriety_NN ,_, and_CC you_PRP are_VBP hereby_NN severely_RB admonished_JJ ._. 
+
+Further_RB ,_, the_DT committee_NN notes_NNS section_NN 1_CD (_( c_SYM )_) (_( 1_CD )_) of_IN the_DT Senate_NNP Gift_NNP Rule_NNP (_( 35_CD )_) concerning_VBG anything_NN which_WDT is_VBZ paid_VBN for_IN at_IN market_NN value_NN or_CC returned_VBD . . ._... as_RB well_RB as_IN your_PRP$ commitment_NN to_TO pay_VB for_IN any_DT item_NN which_WDT the_DT committee_NN might_MD conclude_VB were_VB in_IN violation_NN of_IN the_DT rules_NNS ,_, and_CC has_VBZ further_RBR concluded_VBN that_IN you_PRP must_MD pay_VB Chang_NNP an_DT amount_NN sufficient_JJ to_TO bring_VB the_DT total_NN to_TO fair_JJ market_NN retail_JJ value_NN of_IN the_DT TV_NN and_CC CD_JJ player_NN ,_, as_RB well_RB as_IN the_DT fair_JJ market_NN retail_JJ value_NN of_IN the_DT earrings_NNS given_VBN to_TO the_DT three_CD individuals_NNS at_IN your_PRP$ home_NN ,_, with_IN appropriate_JJ interest_NN ._. 
+The_DT committee_NN understands_VBZ that_IN you_PRP have_VBP previously_RB delivered_VBN the_DT bronze_NN statues_NNS to_TO the_DT Department_NNP of_IN Justice_NNP ,_, from_IN whence_NN they_PRP should_MD be_VB returned_VBN to_TO Chang_NNP ._. 
+
+MCCALL_NNP AD_NNP LONG_NNP ON_IN INTRODUCTION_NNP By_IN SHAILA_NNP K._NN DEWAN_NNP NEW_NNP YORK_NNP This_DT 30_CD -_: second_JJ commercial_NN is_VBZ the_DT first_JJ in_IN H._NN Carl_NNP McCall_NNP 's_POS campaign_NN for_IN the_DT Democratic_JJ nomination_NN for_IN governor_NN and_CC will_MD be_VB broadcast_VBN upstate_JJ in_IN major_JJ broadcast_NN markets_NNS ,_, and_CC on_IN cable_NN in_IN New_NNP York_NNP City_NNP ,_, starting_VBG today_NN ._. 
+
+ON_IN THE_DT SCREEN_NNP The_DT words_NNS "_'' His_PRP$ resume_NN is_VBZ an_DT American_JJ dream_NN ,_, "_'' a_DT quotation_NN from_IN Time_NNP magazine_NN ,_, appear_VB on_IN the_DT screen_NN ._. 
+A_DT series_NN of_IN snapshots_NNS and_CC images_NNS are_VBP then_RB a_DT visual_JJ resume_NN for_IN McCall_NNP ._. 
+They_PRP show_VBP him_PRP as_IN an_DT Army_NNP lieutenant_NN ,_, at_IN his_PRP$ swearing-in_NN as_IN a_DT state_NN senator_NN ,_, as_IN ambassador_NN to_TO the_DT United_NNP Nations_NNPS ,_, surrounded_VBN by_IN children_NNS as_IN New_NNP York_NNP City_NNP school_NN board_NN president_NN ,_, and_CC at_IN other_JJ jobs_NNS ,_, leading_VBG up_RP to_TO his_PRP$ current_JJ position_NN ,_, state_NN comptroller_NN ._. 
+A_DT photograph_NN of_IN the_DT candidate_NN standing_NN in_IN his_PRP$ Army_NNP uniform_NN next_JJ to_TO his_PRP$ mother_NN is_VBZ shown_VBN ,_, then_RB the_DT advertisement_NN shifts_NNS to_TO McCall_NNP talking_VBG about_IN education_NN ,_, while_IN images_NNS of_IN the_DT candidate_NN looking_VBG at_IN a_DT computer_NN screen_NN with_IN a_DT small_JJ child_NN and_CC of_IN him_PRP surrounded_VBN by_IN children_NNS appear_VBP ._. 
+The_DT action_NN then_RB shifts_VBZ to_TO him_PRP in_IN an_DT office_NN ,_, speaking_VBG to_TO the_DT camera_NN ,_, as_IN the_DT words_NNS "_'' Experience_NN ._. 
+Excellence_NNP ._. 
+Carl_NNP McCall_NNP "_'' appear_VB on_IN the_DT screen_NN ._. 
+
+THE_DT SCRIPT_NNP A_DT male_JJ voice_NN says_VBZ ,_, "_'' Time_NNP Magazine_NNP called_VBD his_PRP$ life_NN an_DT American_JJ dream_NN ._. 
+Carl_NNP McCall_NNP ,_, Army_NNP lieutenant_NN ,_, state_NN senator_NN ,_, ambassador_NN to_TO the_DT United_NNP Nations_NNPS ,_, school_NN board_NN president_NN ,_, Citibank_NNP vice_NN president_NN ,_, and_CC one_CD of_IN the_DT most_RBS effective_JJ comptrollers_NNS in_IN New_NNP York_NNP history_NN ._. "_'' 
+
+The_DT candidate_NN says_VBZ :_: "_'' I_PRP grew_VBD up_RB poor_JJ with_IN a_DT single_JJ mother_NN ._. 
+She_PRP said_VBD education_NN 's_VBZ a_DT sledgehammer_NN ._. 
+It_PRP can_MD open_VB doors_NNS to_TO opportunity_NN ._. 
+That_DT 's_VBZ what_WP education_NN did_VBD for_IN me_PRP ._. 
+As_IN governor_NN ,_, I_PRP 'll_MD make_VB sure_JJ that_IN every_DT kid_NN in_IN New_NNP York_NNP has_VBZ the_DT same_JJ opportunity_NN I_PRP had_VBD ,_, to_TO get_VB a_DT good_JJ education_NN ._. "_'' 
+
+ACCURACY_NNP This_DT advertisement_NN is_VBZ long_RB on_IN introductions_NNS and_CC short_JJ on_IN claims_NNS of_IN merit_NN ._. 
+Thus_RB ,_, most_JJS of_IN the_DT facts_NNS presented_VBN are_VBP a_DT matter_NN of_IN record_NN ._. 
+He_PRP had_VBD the_DT title_NN of_IN ambassador_NN when_WRB he_PRP was_VBD at_IN the_DT United_NNP Nations_NNPS ,_, but_CC he_PRP was_VBD not_RB the_DT chief_NN of_IN the_DT American_JJ mission_NN ._. 
+And_CC Time_NNP magazine_NN actually_RB called_VBD his_PRP$ resume_NN ,_, not_RB his_PRP$ life_NN ,_, an_DT American_JJ dream_NN ,_, but_CC it_PRP also_RB followed_VBD that_IN up_RB with_IN a_DT reference_NN to_TO his_PRP$ life_NN ,_, saying_VBG he_PRP was_VBD one_CD of_IN six_CD children_NNS and_CC raised_VBD on_IN welfare_NN ._. 
+As_IN for_IN the_DT claim_NN about_IN his_PRP$ success_NN as_IN comptroller_NN ,_, where_WRB he_PRP controls_VBZ the_DT state_NN pension_NN funds_NNS ,_, there_EX is_VBZ no_DT disputing_VBG the_DT funds_NNS '_POS growth_NN during_IN his_PRP$ terms_NNS ,_, but_CC some_DT critics_NNS say_VBP it_PRP had_VBD more_JJR to_TO do_VB with_IN the_DT buoyancy_NN of_IN the_DT stock_NN market_NN in_IN the_DT 1990s_NN than_IN skilled_JJ management_NN ._. 
+
+SCORECARD_NNP The_DT advertisement_NN attempts_NNS to_TO make_VB several_JJ points_NNS and_CC reach_VB several_JJ different_JJ constituencies_NNS ._. 
+For_IN one_CD ,_, it_PRP counters_NNS the_DT high_JJ name_NN recognition_NN of_IN Andrew_NNP M._NN Cuomo_NNP ,_, McCall_NNP 's_POS opponent_NN ,_, by_IN offering_VBG voters_NNS a_DT straightforward_JJ introduction_NN to_TO the_DT candidate_NN ,_, emphasizing_VBG his_PRP$ long_JJ list_NN of_IN high-level_JJ jobs_NNS in_IN both_DT the_DT public_NN and_CC private_JJ sector_NN ._. 
+It_PRP also_RB emphasizes_VBZ leadership_NN ,_, an_DT important_JJ campaign_NN issue_NN after_IN Sept_NNP ._. 11_CD ._. 
+At_IN the_DT same_JJ time_NN it_PRP gives_VBZ McCall_NNP a_DT chance_NN to_TO intertwine_NN his_PRP$ boot-straps_JJ story_NN with_IN the_DT broader_JJR issue_NN of_IN children_NNS and_CC education_NN ,_, a_DT priority_NN of_IN many_JJ Democratic_JJ voters_NNS ._. 
+
+NEW_NNP JERSEY_NNP SUPREME_NNP COURT_NNP OVERTURNS_NNP TRANSSEXUAL_NNP 'S_VBZ DEATH_NNP SENTENCE_NNP By_IN LAURA_NNP MANSNERUS_NNP TRENTON_NNP N.J._NN The_DT New_NNP Jersey_NNP Supreme_NNP Court_NNP on_IN Tuesday_NNP overturned_VBD the_DT death_NN sentence_NN of_IN Leslie_NNP Ann_NNP Nelson_NNP ,_, a_DT transsexual_NN go-go_JJ dancer_NN who_WP killed_VBD a_DT police_NN officer_NN and_CC an_DT investigator_NN with_IN an_DT AK-47_NN rifle_NN ._. 
+
+The_DT court_NN ,_, vacating_VBG Nelson_NNP 's_POS death_NN sentence_NN for_IN the_DT second_JJ time_NN ,_, ruled_VBD on_IN two_CD grounds_NNS :_: that_IN the_DT jury_NN could_MD have_VB been_VBN confused_VBN by_IN instructions_NNS on_IN the_DT verdict_NN sheet_NN and_CC that_IN the_DT prosecutor_NN made_VBD improper_JJ accusations_NNS in_IN his_PRP$ closing_NN argument_NN ._. 
+Nelson_NNP ,_, 44_CD ,_, had_VBD been_VBN the_DT only_JJ woman_NN of_IN 14_CD people_NNS on_IN New_NNP Jersey_NNP 's_POS death_NN row_NN ._. 
+
+The_DT ruling_NN ,_, which_WDT does_VBZ not_RB affect_VB Nelson_NNP 's_POS guilty_JJ plea_NN ,_, sends_VBZ the_DT case_NN back_RB to_TO the_DT trial_NN court_NN for_IN resentencing_VBG ._. 
+The_DT state_NN attorney_NN general_NN 's_POS office_NN has_VBZ not_RB decided_VBN whether_IN to_TO seek_VB the_DT death_NN penalty_NN again_RB ,_, a_DT spokesman_NN ,_, Peter_NNP Aseltine_NNP ,_, said_VBD Tuesday_NNP ._. 
+
+The_DT court_NN upheld_VBD the_DT sentence_NN of_IN another_DT death_NN row_NN inmate_NN ,_, Robert_NNP O._NN Marshall_NNP ,_, convicted_VBN of_IN arranging_VBG the_DT murder_NN of_IN his_PRP$ wife_NN at_IN a_DT picnic_NN area_NN on_IN the_DT Garden_NNP State_NNP Parkway_NNP ._. 
+
+In_IN its_PRP$ 5_CD -_: to-_NN 0_CD decision_NN in_IN the_DT Nelson_NNP case_NN ,_, the_DT court_NN showed_VBD continuing_VBG uneasiness_NN with_IN the_DT death_NN penalty_NN ,_, as_IN it_PRP has_VBZ done_VBN even_RB since_IN adopting_VBG a_DT voluminous_JJ set_NN of_IN review_NN procedures_NNS in_IN 1999_CD to_TO govern_VB capital_NN cases_NNS ._. 
+New_NNP Jersey_NNP has_VBZ not_RB had_VBN an_DT execution_NN since_IN 1963_CD ._. 
+
+Justice_NNP James_NNP R._NN Zazzali_NNP and_CC Justice_NNP Virginia_NNP Long_NNP said_VBD in_IN a_DT separate_JJ opinion_NN that_IN in_IN addition_NN to_TO the_DT reasons_NNS given_VBN in_IN the_DT majority_NN opinion_NN ,_, also_RB written_VBN by_IN Zazzali_NNP ,_, they_PRP believed_VBD the_DT death_NN penalty_NN would_MD constitute_VB cruel_JJ and_CC unusual_JJ punishment_NN because_IN of_IN Nelson_NNP 's_POS history_NN of_IN emotional_JJ disturbance_NN ._. 
+Zazzali_NNP and_CC Long_NNP had_VBD expressed_VBN similar_JJ reservations_NNS in_IN June_NNP 2001_CD when_WRB the_DT court_NN overturned_VBD the_DT death_NN sentence_NN of_IN Thomas_NNP J._NN Koskovich_NNP ,_, who_WP was_VBD 18_CD when_WRB he_PRP killed_VBD two_CD pizza_NN deliverymen_NN in_IN an_DT ambush_NN ._. 
+
+The_DT majority_NN opinion_NN Tuesday_NNP said_VBD the_DT court_NN would_MD impose_VB higher_JJR standards_NNS in_IN capital_NN cases_NNS when_WRB reviewing_VBG prosecutors_NNS '_POS conduct_NN and_CC possibly_RB ambiguous_JJ jury_NN instructions_NNS ._. 
+
+While_IN all_DT five_CD members_NNS of_IN the_DT majority_NN found_VBD the_DT instructions_NNS to_TO the_DT jury_NN on_IN weighing_JJ aggravating_JJ and_CC mitigating_JJ factors_NNS to_TO be_VB confusing_JJ ,_, two_CD of_IN those_DT justices_NNS wrote_VBD in_IN a_DT partial_JJ dissent_NN that_IN the_DT prosecutor_NN 's_POS statements_NNS in_IN his_PRP$ summation_NN about_IN the_DT defense_NN 's_POS expert_NN witnesses_NNS were_VBD within_IN the_DT bounds_NNS of_IN acceptable_JJ argument_NN ._. 
+
+Two_CD of_IN the_DT court_NN 's_POS members_NNS ,_, Chief_NNP Justice_NNP Deborah_NNP T._NN Poritz_NNP and_CC Justice_NNP Peter_NNP G._NN Verniero_NNP ,_, did_VBD not_RB participate_VB in_IN the_DT Nelson_NNP case_NN because_IN both_DT are_VBP former_JJ attorneys_NNS general_JJ ._. 
+
+Nelson_NNP ,_, born_VBN Glenn_NNP Nelson_NNP ,_, had_VBD severe_JJ psychological_JJ problems_NNS and_CC a_DT history_NN of_IN reclusive_JJ behavior_NN into_IN adulthood_NN ,_, and_CC was_VBD convicted_VBN on_IN a_DT weapons_NNS charge_VBP in_IN 1988_CD ._. 
+After_IN undergoing_VBG sex_NN change_NN surgery_NN in_IN 1992_CD ,_, she_PRP pursued_VBD a_DT career_NN as_IN an_DT exotic_JJ dancer_NN ._. 
+
+In_IN April_NNP 1995_CD ,_, while_IN she_PRP was_VBD living_VBG with_IN her_PRP$ parents_NNS in_IN Haddon_NNP Heights_NNP ,_, outside_IN Philadelphia_NNP ,_, law_NN enforcement_NN officers_NNS arrived_VBD at_IN the_DT house_NN with_IN a_DT warrant_NN for_IN Nelson_NNP 's_POS arrest_NN on_IN another_DT weapons_NNS charge_VBP ._. 
+During_IN a_DT 14_CD -_: hour_NN standoff_NN ,_, she_PRP killed_VBD a_DT patrolman_NN and_CC an_DT investigator_NN from_IN the_DT Camden_NNP County_NNP prosecutor_NN 's_POS office_NN ._. 
+
+She_PRP pleaded_VBD guilty_JJ to_TO murder_NN and_CC was_VBD sentenced_VBN to_TO death_NN by_IN a_DT jury_NN in_IN 1997_CD ._. 
+The_DT Supreme_NNP Court_NNP overturned_VBD that_DT sentence_NN in_IN July_NNP 1998_CD ,_, ruling_NN that_IN the_DT prosecution_NN had_VBD failed_VBN to_TO disclose_VB important_JJ information_NN to_TO the_DT jury_NN ._. 
+
+A_DT second_JJ jury_NN sentenced_VBD Nelson_NNP to_TO death_NN in_IN March_NNP 2001_CD ._. 
+
+In_IN Marshall_NNP 's_POS case_NN ,_, the_DT 5_CD -_: 1_CD decision_NN upheld_VBD a_DT lower_JJR court_NN 's_POS dismissal_NN of_IN his_PRP$ petition_NN for_IN further_JJ review_NN of_IN his_PRP$ 1986_CD murder_NN conviction_NN ._. 
+Marshall_NNP ,_, an_DT insurance_NN agent_NN from_IN Toms_NNP River_NNP ,_, was_VBD convicted_VBN of_IN hiring_VBG a_DT man_NN to_TO kill_VB his_PRP$ wife_NN while_IN the_DT couple_NN were_VBD going_VBG home_NN after_IN an_DT evening_NN of_IN dining_NN and_CC gambling_NN in_IN Atlantic_NNP City_NNP ._. 
+The_DT case_NN was_VBD the_DT subject_NN of_IN Joe_NNP McGinniss_NNP '_POS best-selling_JJS book_NN "_'' Blind_NNP Faith_NNP ._. "_'' 
+
+EDITORIAL_NNP :_: THE_DT SHAME_NNP OF_IN EGYPT_NNP The_DT New_NNP York_NNP Times_NNP said_VBD in_IN an_DT editorial_NN for_IN Wednesday_NNP ,_, July_NNP 31_CD :_: 
+
+President_NNP Hosni_NNP Mubarak_NNP of_IN Egypt_NNP describes_VBZ himself_PRP as_IN America_NNP 's_POS leading_VBG Arab_JJ ally_NN ._. 
+Yet_RB his_PRP$ anti-democratic_JJ behavior_NN is_VBZ an_DT embarrassment_NN to_TO Washington_NNP and_CC an_DT affront_NN to_TO his_PRP$ own_JJ people_NNS ._. 
+The_DT latest_JJS example_NN is_VBZ Monday_NNP 's_POS re-sentencing_JJ of_IN Saad_NNP Eddin_NNP Ibrahim_NNP ,_, a_DT sociologist_NN and_CC human_JJ rights_NNS activist_NN ,_, to_TO seven_CD years_NNS in_IN prison_NN for_IN his_PRP$ efforts_NNS to_TO register_VB voters_NNS ,_, monitor_VB elections_NNS and_CC report_NN attacks_NNS on_IN Egypt_NNP 's_POS Coptic_NNP Christians_NNS ._. 
+
+Ibrahim_NNP ,_, who_WP holds_VBZ dual_JJ United_NNP States_NNPS and_CC Egyptian_JJ citizenship_NN ,_, is_VBZ 63_CD years_NNS old_JJ and_CC ailing_VBG ._. 
+The_DT verdict_NN should_MD be_VB annulled_JJ ,_, not_RB just_RB on_IN humanitarian_JJ grounds_NNS but_CC because_IN his_PRP$ prosecution_NN is_VBZ an_DT abrogation_NN of_IN the_DT most_RBS basic_JJ standards_NNS of_IN justice_NN ._. 
+Ibrahim_NNP 's_POS harsh_JJ punishment_NN sends_VBZ a_DT chilling_JJ message_NN to_TO Egyptians_NNP yearning_NN for_IN a_DT more_RBR accountable_JJ and_CC tolerant_NN society_NN ._. 
+
+Egyptian_JJ courts_NNS are_VBP neither_DT fair_JJ nor_CC independent_JJ ._. 
+Like_IN every_DT other_JJ government_NN institution_NN ,_, they_PRP hew_NN closely_RB to_TO Mubarak_NNP 's_POS wishes_NNS ._. 
+That_DT is_VBZ especially_RB true_JJ of_IN the_DT State_NNP Security_NNP Court_NNP that_WDT ruled_VBD in_IN this_DT case_NN ._. 
+Ibrahim_NNP might_MD never_RB have_VB been_VBN tried_VBN had_VBN he_PRP not_RB written_VBN an_DT article_NN taking_VBG note_NN of_IN Mubarak_NNP 's_POS efforts_NNS to_TO create_VB a_DT presidential_JJ dynasty_NN ._. 
+Nor_CC is_VBZ it_PRP likely_JJ his_PRP$ sentence_NN would_MD have_VB been_VBN reaffirmed_VBD if_IN Mubarak_NNP believed_VBD that_IN convicting_VBG an_DT American_JJ citizen_NN for_IN promoting_VBG democracy_NN and_CC human_JJ rights_NNS might_MD jeopardize_VB his_PRP$ own_JJ standing_NN with_IN the_DT Bush_NNP administration_NN and_CC the_DT $2_NN billion_CD annual_JJ American_JJ subsidy_NN that_WDT keeps_VBZ his_PRP$ government_NN afloat_RB ._. 
+
+That_DT aid_NN bonanza_NN was_VBD granted_VBN to_TO reward_VB Mubarak_NNP 's_POS predecessor_NN ,_, Anwar_NNP Sadat_NNP ,_, for_IN signing_VBG a_DT peace_NN treaty_NN with_IN Israel_NNP ._. 
+Washington_NNP has_VBZ never_RB demanded_VBN good_JJ governance_NN and_CC democracy_NN from_IN Cairo_NNP in_IN return_NN ._. 
+In_IN recent_JJ months_NNS President_NNP Bush_NNP has_VBZ spoken_VBN of_IN the_DT need_NN to_TO promote_VB democracy_NN in_IN the_DT Arab_JJ world_NN ._. 
+But_CC so_RB far_RB he_PRP has_VBZ pushed_VBN the_DT point_NN only_RB with_IN the_DT Palestinians_NNPS ._. 
+It_PRP is_VBZ time_NN to_TO extend_VB this_DT policy_NN to_TO Egypt_NNP ._. 
+
+While_IN hardly_RB the_DT worst_JJS example_NN of_IN dictatorship_NN in_IN the_DT Middle_NNP East_NNP ,_, Egypt_NNP is_VBZ one_CD of_IN the_DT saddest_NN ._. 
+It_PRP is_VBZ a_DT country_NN with_IN a_DT long_JJ and_CC glorious_JJ history_NN ,_, a_DT substantial_JJ middle_JJ class_NN ,_, a_DT peace_NN treaty_NN with_IN Israel_NNP and_CC large_JJ quantities_NNS of_IN American_JJ aid_NN ._. 
+Under_IN Mubarak_NNP it_PRP has_VBZ squandered_VBN economic_JJ and_CC diplomatic_JJ opportunities_NNS and_CC relentlessly_RB stifled_JJ political_JJ debate_NN ._. 
+Its_PRP$ official_JJ media_NNS are_VBP awash_RB in_IN anti-_NN American_NNP and_CC anti-_NN Semitic_NNP propaganda_NN ._. 
+
+The_DT State_NNP Department_NNP and_CC American_JJ officials_NNS in_IN Cairo_NNP have_VBP issued_VBN diplomatically_RB phrased_JJ protests_NNS of_IN Ibrahim_NNP 's_POS trial_NN and_CC sentence_NN ._. 
+This_DT is_VBZ entirely_RB insufficient_JJ ._. 
+What_WP is_VBZ needed_VBN is_VBZ a_DT message_NN delivered_VBN personally_RB by_IN Bush_NNP and_CC other_JJ top_JJ officials_NNS not_RB only_RB about_IN the_DT inexcusable_JJ treatment_NN of_IN Ibrahim_NNP but_CC of_IN the_DT contemptuous_JJ approach_NN to_TO democratic_JJ values_NNS ._. 
+
+EDITORIAL_NNP :_: GOVERNOR_NNP PATAKI_NNP WEIGHS_NNP IN_IN The_DT New_NNP York_NNP Times_NNP said_VBD in_IN an_DT editorial_NN for_IN Wednesday_NNP ,_, July_NNP 31_CD :_: 
+
+Responding_VBG to_TO a_DT wave_NN of_IN public_JJ dismay_NN over_IN the_DT first_JJ designs_NNS for_IN rebuilding_VBG Lower_JJR Manhattan_NNP ,_, Gov._NN George_NNP Pataki_NNP has_VBZ sent_VBN word_NN that_IN it_PRP 's_VBZ time_NN to_TO go_VB back_RB to_TO the_DT drawing_JJ board_NN ._. 
+It_PRP is_VBZ the_DT right_NN message_NN ,_, sent_VBD while_IN it_PRP is_VBZ still_RB early_JJ enough_RB to_TO do_VB something_NN constructive_JJ about_IN the_DT disappointing_JJ quality_NN of_IN the_DT work_NN so_RB far_RB ._. 
+The_DT governor_NN ,_, like_IN Mayor_NNP Michael_NNP Bloomberg_NNP ,_, now_RB seems_VBZ committed_VBN to_TO creating_VBG a_DT better_JJR mix_NN of_IN uses_NNS for_IN ground_NN zero_CD ,_, and_CC a_DT 24_CD -_: hour_NN community_NN in_IN Manhattan_NNP 's_POS downtown_NN ._. 
+
+While_IN rethinking_VBG the_DT plans_NNS will_MD delay_VB the_DT original_JJ rebuilding_NN schedule_NN slightly_RB ,_, it_PRP does_VBZ not_RB need_VB to_TO stall_VB progress_NN if_IN the_DT governor_NN keeps_VBZ the_DT pressure_NN on_IN the_DT Lower_JJR Manhattan_NNP Development_NNP Corp_NNP ._. 
+and_CC the_DT Port_NNP Authority_NNP of_IN New_NNP York_NNP and_CC New_NNP Jersey_NNP ._. 
+New_NNP York_NNP cannot_NN afford_VB to_TO have_VB a_DT gaping_JJ hole_NN that_IN mocks_NNS the_DT city_NN and_CC its_PRP$ process_NN for_IN rebuilding_VBG what_WP was_VBD destroyed_VBN ._. 
+
+Pataki_NNP openly_RB questioned_VBD the_DT Port_NNP Authority_NNP 's_POS requirement_NN that_IN any_DT plan_NN for_IN the_DT site_NN replace_VBP all_PDT the_DT office_NN ,_, hotel_NN and_CC retail_JJ square_JJ footage_NN lost_VBD in_IN the_DT attack_NN on_IN Sept_NNP ._. 11_CD ._. 
+More_JJR than_IN anything_NN else_RB ,_, that_DT specification_NN limited_VBD the_DT designs_NNS to_TO the_DT undistinguished_JJ options_NNS presented_VBD two_CD weeks_NNS ago_RB ._. 
+Renegotiating_NNP that_DT issue_NN with_IN the_DT World_NNP Trade_NNP Center_NNP leaseholders_NNS should_MD begin_VB immediately_RB ._. 
+Opening_NN the_DT process_NN to_TO other_JJ designers_NNS ,_, both_DT here_RB and_CC internationally_RB ,_, will_MD help_VB separate_VB this_DT urban_JJ plan_NN from_IN the_DT ordinary_JJ ._. 
+
+The_DT city_NN also_RB needs_VBZ to_TO begin_VB openly_RB discussing_VBG what_WP happens_VBZ underground_JJ ,_, in_IN particular_JJ with_IN the_DT transportation_NN network_NN ._. 
+At_IN this_DT point_NN ,_, planners_NNS have_VBP focused_VBN on_IN short-term_JJ repair_NN of_IN PATH_NNP and_CC subway_NN lines_NNS ,_, with_IN medium-range_JJ proposals_NNS being_VBG shopped_VBN in_IN Washington_NNP that_WDT could_MD untangle_NN the_DT disorganized_JJ web_NN of_IN subway_NN lines_NNS downtown_NN ._. 
+Within_IN the_DT next_JJ few_JJ weeks_NNS the_DT Lower_JJR Manhattan_NNP Development_NNP Corp_NNP ._. 
+and_CC the_DT Port_NNP Authority_NNP should_MD offer_VB some_DT bigger_JJR ideas_NNS about_IN how_WRB to_TO connect_VB the_DT downtown_NN area_NN better_JJR to_TO the_DT rest_NN of_IN the_DT region_NN ._. 
+
+Lowering_NNP West_NNP Street_NNP alongside_IN the_DT World_NNP Trade_NNP Center_NNP site_NN and_CC building_VBG a_DT park_NN or_CC esplanade_NN on_IN top_NN is_VBZ another_DT option_NN that_WDT has_VBZ been_VBN popular_JJ with_IN those_DT reviewing_VBG the_DT first_JJ six_CD public_JJ proposals_NNS ._. 
+But_CC it_PRP would_MD be_VB expensive_JJ ,_, and_CC the_DT governor_NN ,_, the_DT mayor_NN and_CC their_PRP$ friends_NNS in_IN Washington_NNP will_MD have_VB to_TO look_VB at_IN long-range_JJ ways_NNS to_TO pay_VB the_DT bill_NN ._. 
+
+Pataki_NNP 's_POS recent_JJ remarks_NNS are_VBP a_DT sign_NN that_IN he_PRP understands_VBZ how_WRB central_JJ the_DT rebuilding_NN of_IN Lower_JJR Manhattan_NNP will_MD be_VB to_TO his_PRP$ own_JJ political_JJ legacy_NN ._. 
+Now_RB he_PRP needs_VBZ to_TO follow_VB through_IN with_IN action_NN ,_, to_TO keep_VB demonstrating_VBG that_IN his_PRP$ core_NN concern_NN is_VBZ coming_VBG up_RP with_IN the_DT best_JJS possible_JJ plan_NN ,_, not_RB simply_RB keeping_VBG the_DT issue_NN on_IN hold_NN until_IN after_IN this_DT fall_NN 's_POS election_NN ._. 
+
+EDITORIAL_NNP :_: A_DT PALLID_NNP CLEAN_NNP AIR_NNP PLAN_NN The_DT New_NNP York_NNP Times_NNP said_VBD in_IN an_DT editorial_NN for_IN Wednesday_NNP ,_, July_NNP 31_CD :_: 
+
+President_NNP Bush_NNP has_VBZ now_RB unveiled_VBN his_PRP$ long-awaited_JJ "_'' Clear_NNP Skies_NNPS "_'' proposal_NN ,_, which_WDT he_PRP promises_VBZ will_MD simplify_VB and_CC strengthen_VB the_DT Clean_NNP Air_NNP Act_NNP without_IN crippling_JJ American_JJ industry_NN ._. 
+A_DT debate_NN on_IN how_WRB to_TO make_VB the_DT 32_CD -_: year-old_JJ Clean_NNP Air_NNP Act_NNP a_DT stronger_JJR and_CC more_RBR efficient_JJ instrument_NN is_VBZ surely_RB long_JJ overdue_JJ ._. 
+But_CC the_DT Bush_NNP plan_NN falls_VBZ well_RB short_JJ of_IN the_DT only_RB other_JJ credible_JJ proposal_NN on_IN the_DT table_NN ,_, a_DT bill_NN sponsored_VBN by_IN Sen._NN James_NNP Jeffords_NNP ,_, Independent_NNP of_IN Vermont_NNP ._. 
+
+Like_IN Jeffords_NNP ,_, the_DT president_NN calls_VBZ for_IN substantial_JJ reductions_NNS in_IN three_CD major_JJ pollutants_NNS --_: the_DT nitrogen_NN oxides_NNS that_WDT produce_VBP smog_NN ,_, sulfur_NN dioxide_NN ,_, which_WDT causes_VBZ acid_NN rain_NN ,_, and_CC mercury_NN ._. 
+But_CC he_PRP ignores_VBZ emissions_NNS of_IN carbon_NN dioxide_NN ,_, the_DT main_JJ global_JJ warming_NN gas_NN ._. 
+That_DT is_VBZ a_DT huge_JJ omission_NN ._. 
+Even_RB for_IN the_DT pollutants_NNS he_PRP addresses_VBZ ,_, Bush_NNP 's_POS timetable_NN is_VBZ too_RB leisurely_JJ ._. 
+He_PRP aims_VBZ to_TO reduce_VB all_DT three_CD by_IN 70_CD percent_NN by_IN 2018_CD ._. 
+The_DT Jeffords_NNP proposal_NN would_MD make_VB the_DT same_JJ sizable_JJ reductions_NNS by_IN 2008_CD ._. 
+Finally_RB ,_, the_DT Bush_NNP proposal_NN would_MD roll_VB back_RB key_JJ provisions_NNS of_IN the_DT existing_VBG Clean_NNP Air_NNP Act_NNP that_IN Jeffords_NNP would_MD keep_VB ._. 
+
+Bush_NNP argues_VBZ that_IN the_DT regulatory_JJ mechanisms_NNS he_PRP has_VBZ in_IN mind_NN for_IN reaching_VBG Clear_NNP Skies_NNPS '_POS goals_NNS ,_, chiefly_RB a_DT market-based_JJ emissions_NNS trading_NN scheme_NN ,_, will_MD be_VB so_RB effective_JJ that_IN the_DT need_NN for_IN many_JJ existing_VBG rules_NNS will_MD disappear_VB ._. 
+This_DT page_NN has_VBZ long_RB embraced_VBN emissions_NNS trading_VBG as_IN an_DT essential_JJ tool_NN for_IN reducing_VBG pollution_NN at_IN manageable_JJ cost_NN ._. 
+We_PRP also_RB agree_VBP that_IN the_DT law_NN needs_VBZ streamlining_VBG ._. 
+But_CC some_DT regulations_NNS ,_, aimed_VBN at_IN specific_JJ regional_JJ problems_NNS that_IN nationwide_JJ trading_NN alone_RB is_VBZ unable_JJ to_TO address_VB ,_, cannot_NN lightly_RB be_VB abandoned_VBN ._. 
+
+Among_IN these_DT are_VBP rules_NNS governing_VBG emissions_NNS that_WDT limit_NN visibility_NN in_IN the_DT national_JJ parks_NNS ,_, and_CC rules_NNS governing_VBG pollution_NN that_IN drifts_NNS eastward_RB from_IN Midwestern_JJ power_NN plants_NNS ._. 
+Indeed_RB ,_, Bush_NNP has_VBZ already_RB made_VBN clear_JJ his_PRP$ intention_NN to_TO roll_VB back_RB one_CD of_IN the_DT most_RBS important_JJ of_IN these_DT regulations_NNS ,_, a_DT provision_NN known_VBN as_IN new_JJ source_NN review_NN that_WDT compels_VBZ utilities_NNS to_TO install_VB modern_JJ pollution_NN controls_NNS whenever_WRB they_PRP significantly_RB upgrade_VB older_JJR plants_NNS ._. 
+
+The_DT 1970_CD Clean_NNP Air_NNP Act_NNP is_VBZ a_DT landmark_NN statute_NN ,_, deserving_JJ of_IN thoughtful_JJ improvement_NN ._. 
+The_DT Bush_NNP bill_NN ,_, as_IN written_VBN ,_, is_VBZ not_RB the_DT way_NN to_TO get_VB there_RB ._. 
+

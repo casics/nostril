@@ -1,0 +1,6 @@
+To_TO :_: undisclosed-recipients_JJ :_: ;_: From_IN :_: Quah_NNP Seok_NNP Whee_NNP <_NN seokwhee.quah@ri.edu.sg_NN >_NN Date_NN :_: Tue_NNP ,_, 8_CD Feb_NNP 2011_CD 17:50:24_NN +_NN 0800_CD Subject_NNP :_: Important_NNP :_: Database_NNP Maintenance_NNP Update_NNP !_. !_. !_. A_DT Computer_NNP Database_NNP Maintenance_NNP is_VBZ currently_RB going_VBG on_IN our_PRP$ Webmail_NNP Message_NNP Center_NNP ._. 
+Our_PRP$ Message_NNP Center_NNP needs_VBZ to_TO be_VB re-set_JJ because_IN of_IN the_DT high_JJ amount_NN of_IN Spam_NNP mails_NNS we_PRP receive_VBP daily_RB ._. 
+A_DT Quarantine_NNP Maintenance_NNP will_MD help_VB us_PRP prevent_VB this_DT everyday_JJ dilemma_NN ._. 
+To_TO re-validate_JJ your_PRP$ mailbox_NN Please_VB Click_NNP on_IN the_DT link_NN below_IN :_: http://upgradearea.com/secured/index.php_NN 
+Failure_NN to_TO re-validate_JJ your_PRP$ mailbox_NN will_MD render_VB your_PRP$ e-mail_JJ in-active_JJ from_IN our_PRP$ database_NN ._. 
+Thanks_NNS Susan_NNP Barch_NNP System_NNP Administrator_NNP ._. 

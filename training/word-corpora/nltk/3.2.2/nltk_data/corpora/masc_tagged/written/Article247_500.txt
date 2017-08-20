@@ -1,0 +1,41 @@
+Fashioning_NNP Paula_NNP 
+USA_NNP Today_NNP leads_VBZ with_IN Texas_NNP '_POS settlement_NN of_IN its_PRP$ product-liability_NN lawsuit_NN against_IN the_DT leading_VBG tobacco_NN companies_NNS ._. 
+The_DT top_JJ nonlocal_NN story_NN at_IN the_DT Washington_NNP Post_NNP is_VBZ the_DT latest_JJS development_NN in_IN the_DT Indonesian_JJ economic_JJ crisis--a_JJ rare_JJ and_CC boosterish_NN Suharto_NNP press_NN conference_NN in_IN contrast_NN to_TO a_DT further_JJ plunging_NN stock_NN market_NN and_CC food_NN riots_NNS in_IN outlying_JJ towns_NNS ._. 
+The_DT New_NNP York_NNP Times_NNP leads_VBZ with_IN a_DT comprehensive_JJ poll_NN about_IN American_JJ attitudes_NNS concerning_VBG abortion_NN ._. 
+
+In_IN the_DT Texas_NNP case_NN ,_, reports_NNS USAT_NNP ,_, the_DT defendant_NN companies_NNS have_VBP agreed_VBN to_TO pay_VB about_IN $15_NN billion_CD over_IN 25_CD years_NNS to_TO reimburse_VB the_DT state_NN for_IN expenses_NNS it_PRP incurred_VBD in_IN the_DT treatment_NN of_IN smoking-related_JJ illnesses_NNS ._. 
+That_DT makes_VBZ Texas_NNP the_DT third_JJ state_NN to_TO settle_VB such_PDT a_DT case_NN ,_, joining_VBG Florida_NNP and_CC Mississippi_NNP ._. 
+There_EX are_VBP ,_, says_VBZ the_DT paper_NN ,_, a_DT total_NN of_IN 40_CD such_JJ suits_NNS on_IN file_NN ,_, with_IN Minnesota_NNP 's_POS turn_NN coming_VBG next_JJ week_NN ._. 
+
+The_DT Wall_NNP Street_NNP Journal_NNP states_NNS that_IN the_DT plaintiffs_NNS '_POS lawyers_NNS hired_VBN by_IN Texas_NNP to_TO try_VB the_DT case_NN will_MD receive_VB as_IN part_NN of_IN the_DT deal_NN almost_RB $2_NN ._. 2_LS billion_CD in_IN fees_NNS ._. 
+
+The_DT NYT_NNP abortion_NN survey_NN ,_, the_DT first_JJ conducted_VBN by_IN the_DT paper_NN since_IN 1989_CD ,_, was_VBD based_VBN on_IN telephone_NN interviews_NNS of_IN 1,101_CD people_NNS and_CC detects_NNS "_'' a_DT notable_JJ shift_NN from_IN general_JJ acceptance_NN "_'' of_IN having_VBG the_DT procedure_NN :_: from_IN 40_CD percent_NN to_TO 32_CD percent_NN ._. 
+And_CC the_DT pollsters_NNS also_RB detected_VBD an_DT increasingly_RB acute_JJ sensitivity_NN to_TO abortion_NN timing_NN :_: Sixty-one_NNP percent_NN of_IN those_DT polled_VBN thought_VBD abortions_NNS should_MD be_VB permitted_VBN during_IN the_DT first_JJ trimester_NN ,_, but_CC only_RB 15_CD percent_NN in_IN the_DT second_JJ and_CC just_RB 7_CD percent_NN in_IN the_DT third_JJ ._. 
+(_( The_DT piece_NN notes_NNS that_IN this_DT last_JJ stat_NN helps_VBZ explain_VB why_WRB a_DT focus_NN on_IN partial-birth_JJ abortions_NNS has_VBZ proven_VBN politically_RB advantageous_JJ for_IN abortion_NN foes_NNS ._. )_) 
+Nearly_RB 45_CD percent_NN of_IN those_DT asked_VBN to_TO state_VB the_DT present_JJ law_NN on_IN abortion_NN could_MD not_RB give_VB the_DT correct_JJ answer_NN ._. 
+
+The_DT WSJ_NNP notes_NNS that_IN the_DT just-concluded_JJ football_NN /_NN TV_NN deal_NN will_MD probably_RB mean_VB even_RB steeper_JJR cable_NN bills_NNS in_IN the_DT near_JJ future_NN ._. 
+Some_DT local_JJ cable_NN companies_NNS ,_, the_DT paper_NN says_VBZ ,_, expect_VBP the_DT fees_NNS they_PRP 'll_MD pay_VB ESPN_NNP to_TO go_VB up_RP more_JJR than_IN 20_CD percent_NN ._. 
+And_CC they_PRP 're_VBP in_IN the_DT habit_NN of_IN passing_VBG expenses_NNS along_IN to_TO Joe_NNP Remote_NNP ._. 
+Even_RB nonsports_NNS fans_NNS will_MD be_VB affected_VBN ,_, notes_NNS the_DT Journal_NNP ,_, because_IN ESPN_NNP is_VBZ usually_RB part_NN of_IN basic_JJ cable_NN service_NN ._. 
+(_( Which_WDT raises_VBZ the_DT question_NN :_: Has_VBZ n't_RB technology_NN progressed_VBN to_TO a_DT point_NN that_WDT would_MD allow_VB cafeteria-style_JJ programming_NN choices_NNS by_IN subscribers_NNS ?_. )_) 
+
+A_DT scan_VB of_IN the_DT headlines_NNS found_VBD cheek-by-jowl_JJ on_IN the_DT WP_NNP 's_POS Page_NNP A_DT 6_CD provides_VBZ an_DT interesting_JJ snapshot_NN of_IN the_DT life_NN of_IN the_DT modern_JJ Cabinet_NNP officer_NN :_: "_'' [_NN Ex-_NNP HUD_NNP Secretary_NNP ]_NN Cisneros_NNP 's_POS Ex-_NNP Mistress_NNP Pleads_NNP Guilty_NNP ,_, "_'' "_'' [_NN Labor_NNP Secretary_NNP ]_NN Herman_NNP Denies_NNP Allegations_NNP of_IN Influence-_NNP Selling_NNP Scheme_NNP ,_, "_'' and_CC "_'' Two_CD Tyson_NNP Foods_NNP Executive_NNP Indicted_NNP Over_IN Gifts_NNP to_TO [_NN Ex-_NNP Agriculture_NNP Secretary_NNP ]_NN Espy_NNP ._. "_'' 
+
+The_DT WSJ_NNP reports_NNS that_IN ,_, according_VBG to_TO an_DT MIT_NNP survey_NN ,_, Americans_NNPS are_VBP twice_RB as_IN likely_JJ to_TO back_VB a_DT tax_NN increase_NN going_VBG toward_IN the_DT search_NN for_IN extraterrestrials_NNS than_IN one_CD for_IN gene-cloning_JJ research_NN ._. 
+
+The_DT NYT_NNP reports_NNS that_WDT today_NN 's_POS issue_NN of_IN the_DT journal_NN Science_NNP will_MD describe_VB an_DT experiment_NN in_IN which_WDT people_NNS 's_POS biological_JJ clocks_NNS were_VBD reset_NN three_CD hours_NNS by_IN shining_VBG a_DT bright_JJ light_NN on_IN the_DT back_NN of_IN their_PRP$ knees_NNS ._. 
+The_DT finding_NN ,_, if_IN it_PRP holds_VBZ up_RB ,_, says_VBZ the_DT Times_NNP ,_, may_MD lead_VB to_TO a_DT simple_JJ way_NN for_IN airline_NN travelers_NNS to_TO fight_VB jet_NN lag_NN ._. 
+
+Yesterday_NN 's_POS Los_NNP Angeles_NNP Times_NNP ran_VBD a_DT story_NN under_IN the_DT headline_NN "_'' Paula_NNP Jones_NNP Works_NNP on_IN Her_PRP$ Court_NNP Appearance_NNP ,_, "_'' which_WDT ,_, illustrated_VBN by_IN pictures_NNS of_IN Jones_NNP ,_, was_VBD all_DT about_IN the_DT various_JJ looks_VBZ she_PRP 's_VBZ had_VBD since_IN stepping_VBG on_IN the_DT public_JJ stage_NN ._. 
+The_DT piece_NN concluded_VBD that_IN she_PRP 's_VBZ finally_RB graduated_VBD to_TO an_DT image_NN that_WDT 's_VBZ "_'' sophisticated_JJ yet_RB soft_JJ ._. "_'' 
+Today_NN 's_POS WP_NNP "_'' Style_NN "_'' section_NN (_( that_DT 's_VBZ the_DT opposite_NN of_IN substance_NN ,_, remember_VB )_) picks_VBZ up_RB that_DT ball_NN and_CC runs_VBZ with_IN it_PRP ,_, with_IN a_DT lengthy_JJ discourse_NN on_IN the_DT new_JJ PJ_NNP ._. 
+"_'' It_PRP is_VBZ ,_, "_'' hyperventilates_NNS the_DT Post_NNP ,_, one_CD of_IN the_DT most_RBS jaw-dropping_JJ public_JJ make-overs_JJ ever_RB ._. "_'' 
+Jones_NNP apparently_RB has_VBZ "_'' smoothed_VBN the_DT frizzy_NN mane_NN of_IN curls_NNS that_WDT once_RB reached_VBN to_TO such_JJ dazzling_JJ heights_NNS ._. 
+Her_PRP$ makeup_NN is_VBZ now_RB subtle_JJ and_CC based_VBN on_IN natural_JJ ,_, not_RB neon_NN ,_, hues_NNS ._. 
+Her_PRP$ clothing_NN is_VBZ inspired_VBN by_IN the_DT boardroom_NN instead_RB of_IN the_DT secretarial_JJ pool_NN ._. 
+She_PRP has_VBZ embraced_VBN the_DT markers_NNS of_IN dignity_NN ,_, refinement_NN and_CC power_NN ._. "_'' 
+In_IN true_JJ newspaper_NN overkill_NN fashion_NN ,_, the_DT piece_NN backs_VBZ this_DT up_RB by_IN consulting_VBG Cynde_NNP Watson_NNP ,_, national_JJ makeup_NN artist_NN for_IN Bobbi_NNP Brown_NNP Essentials_NNP ,_, and_CC Steven_NNP Zdatny_NNP ,_, a_DT historian_NN at_IN West_NNP Virginia_NNP University_NNP specializing_VBG in_IN the_DT aesthetics_NNS and_CC politics_NNS of_IN hair_NN ._. 
+
+The_DT placement_NN of_IN these_DT two_CD pieces_NNS is_VBZ a_DT PR_NNP triumph_NN ,_, but_CC one_CD carrying_VBG the_DT seeds_NNS of_IN its_PRP$ own_JJ destruction_NN :_: If_IN people_NNS know_VBP all_PDT this_DT work_NN is_VBZ going_VBG into_IN making_VBG Paula_NNP Jones_NNP seem_VBP a_DT certain_JJ someone_NN ,_, does_VBZ n't_RB that_IN just_RB make_VB it_PRP obvious_JJ that_IN she_PRP 's_VBZ really_RB somebody_NN else_RB ?_. 
+

@@ -1,0 +1,57 @@
+December_NNP 7_CD ,_, 2000_CD 
+FirstName_NNP LastName_NNP 
+StreetNumber_NNP StreetName_NNP ,_, 
+CityName_NNP ,_, StateName_NNP ,_, ZipCode_NNP 
+Dear_RB Friend_NNP ,_, 
+
+As_IN a_DT member_NN of_IN World_NNP Wildlife_NNP Fund_NNP ,_, you_PRP know_VBP that_IN our_PRP$ efforts_NNS are_VBP essential_JJ to_TO preserving_VBG the_DT astonishing_JJ ,_, yet_RB desperately_RB threatened_VBN diversity_NN of_IN life_NN here_RB on_IN Earth_NNP ._. 
+
+I_PRP ’m_VBP also_RB hoping_VBG you_PRP know_VBP that_IN you_PRP play_VBP a_DT vital_JJ role_NN in_IN achieving_VBG our_PRP$ conservation_NN goals_NNS around_IN the_DT globe_NN ._. 
+
+That’s_DT why_WRB I_PRP want_VBP to_TO extend_VB my_PRP$ appreciation_NN for_IN your_PRP$ last_JJ membership_NN contribution_NN of_IN $500_NN ._. 
+And_CC why_WRB I_PRP ’m_VBP writing_VBG you_PRP today_NN to_TO ask_VB you_PRP to_TO renew_VB your_PRP$ support_NN for_IN the_DT pivotal_JJ year_NN ahead_RB ._. 
+
+In_IN fact_NN ,_, I_PRP want_VBP to_TO urge_VB you_PRP to_TO strengthen_VB your_PRP$ dedication_NN to_TO saving_VBG life_NN on_IN Earth_NNP —_: by_IN sending_VBG a_DT generous_JJ leadership_NN gift_NN of_IN $750_NN and_CC becoming_VBG a_DT member_NN of_IN World_NNP Wildlife_NNP Funds_NNPS prestigious_JJ Living_VBG Planet_NNP Society_NNP ._. 
+
+With_IN your_PRP$ increased_JJ commitment_NN ,_, we_PRP can_MD move_VB forward_RB to_TO thwart_VB the_DT most_RBS serious_JJ threats_NNS to_TO endangered_VBN ecosystems_NNS ._. 
+After_IN all_DT ,_, conservation_NN begins_VBZ with_IN saving_VBG those_DT at-risk_JJ places_NNS -—_: our_PRP$ forests_NNS and_CC deserts_NNS ,_, wetlands_NNS and_CC oceans_NNS ,_, mangroves_NNS and_CC coral_NN reefs_NNS —_: that_WDT provide_VBP a_DT lifeline_NN for_IN precious_JJ animals_NNS and_CC plants_NNS ._. 
+
+To_TO this_DT end_NN ,_, we_PRP ’ve_VBP designated_VBN some_DT 200_CD ecoregions_NNS ,_, those_DT with_IN the_DT most_RBS outstanding_JJ and_CC diverse_JJ habitats_NNS ,_, as_IN our_PRP$ Global_NNP 200_CD ._. 
+We_PRP ’re_VBP now_RB creating_VBG model_NN projects_NNS in_IN 25_CD of_IN these_DT high-priority_JJ areas_NNS --_: in_IN order_NN to_TO balance_VB conservation_NN with_IN people’s_NNS need_VBP to_TO use_VB natural_JJ resources_NNS to_TO sustain_VB their_PRP$ livelihoods_NNS ._. 
+
+With_IN your_PRP$ increased_JJ commitment_NN ,_, we_PRP can_MD intensify_VB our_PRP$ campaigns_NNS to_TO protect_VB species_NNS that_WDT are_VBP in_IN grave_JJ peril_NN by_IN both_DT the_DT loss_NN of_IN habitat_NN and_CC the_DT illegal_JJ trading_NN in_IN animal_NN parts_NNS ._. 
+
+Quite_RB simply_RB ,_, WWF_NNP must_MD do_VB even_RB more_JJR to_TO safeguard_VB the_DT tigers_NNS ,_, rhinos_NNS ,_, pandas_NNS ._. whales_NNS ,_, and_CC other_JJ creatures_NNS that_WDT still_RB remain_VB in_IN the_DT wild_JJ ._. 
+While_IN we_PRP still_RB have_VBP the_DT chance_NN ._. 
+
+So_RB in_IN addition_NN to_TO our_PRP$ efforts_NNS to_TO conserve_VB wildlife_NN preserves_VBZ ,_, we_PRP ’ll_MD escalate_VB our_PRP$ trailblazing_JJ program_NN to_TO find_VB alternatives_NNS for_IN traditional_JJ tiger-based_JJ medicines_NNS ..._. rescue_NN more_JJR rhinos_NNS in_IN Kenya_NNP and_CC Nepal_NNP through_IN our_PRP$ ambitious_JJ translocation_NN projects_NNS ..._... complete_VB the_DT first_JJ survey_NN of_IN China’s_PRP$ pandas_NNS in_IN over_IN a_DT decade_NN ..._. and_CC fight_NN to_TO halt_VB all_DT commercial_JJ whaling_VBG ,_, as_RB well_RB as_IN the_DT whale_NN meat_NN trade_NN ._. 
+
+We_PRP ’ll_MD also_RB award_NN more_RBR small_JJ grants_NNS through_IN our_PRP$ Species_NNP Action_NNP Fund_NNP to_TO help_VB a_DT wide_JJ range_NN of_IN animals_NNS ,_, including_VBG whooping_JJ cranes_NNS ,_, giant_JJ river_NN otters_NNS ,_, and_CC Tibetan_NNP antelopes_NNS ._. 
+
+And_CC with_IN your_PRP$ increased_JJ commitment_NN ,_, we_PRP can_MD battle_VB against_IN destructive_JJ global_JJ forces_NNS that_WDT transcend_NN regional_JJ and_CC national_JJ boundaries_NNS ._. 
+Overfishing_NN ,_, deforestation_NN ,_, climate_NN change_NN ,_, and_CC the_DT proliferation_NN of_IN toxic_JJ chemicals_NNS top_VB the_DT list_NN ._. 
+
+For_IN instance_NN ,_, our_PRP$ innovative_JJ “_NN Forests_NNP for_IN Life_NNP Campaign_NNP ”_NN establishes_VBZ an_DT international_JJ network_NN of_IN parks_NNS and_CC reserves_NNS ._. 
+This_DT will_MD protect_VB at_IN least_JJS 10_CD %_NN of_IN each_DT different_JJ type_NN of_IN forest_NN found_VBD in_IN every_DT country_NN ._. 
+Another_DT WWF_NNP goal_NN ?_. 
+To_TO end_VB government_NN subsidies_NNS that_WDT promote_VBP overfishing_VBG and_CC to_TO encourage_VB new_JJ markets_NNS for_IN sustainably_RB managed_VBN fisheries_NNS ._. 
+
+The_DT challenges_NNS we_PRP face_VBP are_VBP daunting_JJ ,_, to_TO be_VB sure_JJ ._. 
+However_RB ,_, I_PRP ’m_VBP confident_JJ that_IN by_IN joining_VBG together_RB again_RB ,_, we_PRP can_MD make_VB exciting_JJ progress_NN in_IN the_DT year_NN ahead_RB ._. 
+I_PRP want_VBP to_TO ask_VB you_PRP ,_, therefore_RB ,_, to_TO renew_VB your_PRP$ valued_VBN World_NNP Wildlife_NNP Fund_NNP membership_NN and_CC ,_, hopefully_RB ,_, at_IN the_DT Living_VBG Planet_NNP Society_NNP level_NN of_IN $750_NN ._. 
+
+When_WRB you_PRP do_VBP ,_, you_PRP ’ll_MD extend_VB your_PRP$ commitment_NN as_IN an_DT esteemed_JJ partner_NN with_IN WWF_NNP --_: the_DT largest_JJS and_CC most_RBS effective_JJ international_JJ conservation_NN group_NN in_IN existence_NN ._. 
+
+Now_RB ,_, with_IN your_PRP$ increased_JJ commitment_NN ,_, we_PRP can_MD save_VB more_JJR of_IN our_PRP$ planet’s_NN cherished_VBN wild_JJ species_NNS and_CC their_PRP$ irreplaceable_JJ habitats_NNS ..._. as_IN we_PRP strive_VBP to_TO ensure_VB a_DT healthy_JJ and_CC thriving_VBG future_NN for_IN our_PRP$ extraordinary_JJ natural_JJ world_NN ._. 
+
+Once_RB again_RB ,_, please_VB accept_VB my_PRP$ warmest_NN gratitude_NN for_IN your_PRP$ past_JJ support_NN And_CC please_VB ,_, take_VBP a_DT moment_NN today_NN to_TO renew_VB your_PRP$ critically_RB important_JJ WWF_NNP annual_JJ membership_NN ._. 
+Thank_VB you_PRP ._. 
+
+Sincerely_NNP ,_, 
+Kathryn_NNP S._NN Fuller_NNP 
+President_NNP 
+
+P.S._NN As_IN a_DT Living_VBG Planet_NNP Society_NNP member_NN ,_, you_PRP ’ll_MD receive_VBP the_DT wonderful_JJ array_NN of_IN benefits_NNS described_VBD in_IN the_DT enclosed_JJ brochure_NN ._. 
+Plus_NNP ,_, to_TO acknowledge_VB your_PRP$ increased_JJ gift_NN of_IN $750_NN ,_, we_PRP ’ll_MD send_VB you_PRP a_DT free_JJ copy_NN of_IN our_PRP$ stunning_JJ coffee-table_JJ photography_NN book_NN ,_, Living_VBG Planet_NNP Preserving_NNP Edens_NNP of_IN the_DT Earth_NNP ._. 
+Please_VB let_VB it_PRP be_VB a_DT constant_JJ reminder_NN of_IN all_DT you_PRP ’re_VBP doing_VBG to_TO preserve_VB our_PRP$ endangered_JJ wildlife_NN !_. 
+

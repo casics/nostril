@@ -1,0 +1,24 @@
+docno_NN =_SYM "_'' lists-_NN 046_CD -12146425_CD "_'' name_NN =_SYM "_'' Ron_NNP Whitney_NNP "_'' email_NN =_SYM "_'' RFW@math.ams.org_NN "_'' sent_VBD =_SYM "_'' Wed_NNP ,_, 05_CD Jun_NNP 1996_CD 10:05:48_NN -_: 0400_CD (_( EDT_NNP )_) "_'' inreplyto_NN =_SYM "_'' 199606050741.JAA03224@thorin.elsevier.nl_NN "_'' *_NN Mail-_NNP System-_NNP Version_NNP :_: id_NN =_SYM "_'' 833983548.437563.RFW@MATH.AMS.ORG_NN "_'' subject_JJ =_SYM "_'' Re_NNP :_: more_JJR comments_NNS on_IN HTML-Math_NNP proposal_NN "_'' To_TO :_: w3c-math-erb@w3.org_NN Nico_NNP commented_VBD recently_RB :_: 
+>_NN I_PRP also_RB had_VBD the_DT feeling_NN for_IN some_DT time_NN ,_, and_CC the_DT same_JJ feeling_NN exists_VBZ in_IN >_NN the_DT SGML_NNP community_NN ,_, that_IN the_DT developments_NNS of_IN HTML-Math_NNP and_CC of_IN HTML_NNP >_NN in_IN general_NN were_VBD suffering_VBG from_IN a_DT NIH_NNP syndrome_NN ._. 
+
+I_PRP understand_VBP such_JJ perceptions_NNS ,_, think_VBP it_PRP 's_VBZ wise_JJ for_IN this_DT committee_NN to_TO keep_VB good_JJ citizenship_NN in_IN mind_NN ,_, and_CC agree_VBP that_IN we_PRP should_MD be_VB receptive_JJ to_TO reaction_NN and_CC criticism_NN from_IN elsewhere_RB ._. 
+My_PRP$ own_JJ perceptions_NNS of_IN this_DT committee_NN 's_POS work_NN to_TO date_NN follow_VB ._. 
+
+While_IN the_DT immediate_JJ goal_NN of_IN an_DT HTML-Math_NNP capability_NN might_MD have_VB been_VBN to_TO simply_RB render_VB math_NN visually_RB (_( and_CC perhaps_RB this_DT was_VBD the_DT goal_NN of_IN HTML-Math_NNP 3_CD )_) ,_, that_DT goal_NN has_VBZ been_VBN considerably_RB expanded_VBN as_IN we_PRP look_VBP at_IN issues_NNS now_RB ._. 
+Insofar_RB as_IN the_DT work_NN of_IN the_DT ISO_NNP 12083_CD Math_NNP Committee_NNP stopped_VBD short_JJ of_IN recommending_VBG ways_NNS to_TO handle_VB "_'' semantic_JJ "_'' aspects_NNS of_IN math_NN markup_NN ,_, recognizing_VBG that_IN the_DT issues_NNS were_VBD many_JJ and_CC difficult_JJ ,_, the_DT work_NN of_IN this_DT committee_NN in_IN that_DT regard_NN feels_VBZ to_TO me_PRP a_DT welcome_JJ addition_NN to_TO the_DT overall_JJ discussion_NN of_IN those_DT sorts_NNS of_IN problems_NNS ._. 
+And_CC as_IN the_DT semantics_NNS of_IN any_DT formal_JJ discipline_NN lies_VBZ rather_RB closer_JJR to_TO form_VB than_IN I_PRP 've_VBP heard_VBN many_JJ SGML_NNP diehards_NNS acknowledge_VBP ,_, I_PRP also_RB welcome_VB this_DT committee_NN 's_POS efforts_NNS to_TO examine_VB a_DT more_RBR primitive_JJ notational_NN base_NN for_IN the_DT standard_NN ._. 
+This_DT effort_NN ,_, in_IN some_DT sense_NN competing_VBG with_IN Roy_NNP Pike_NNP 's_POS ,_, seems_VBZ very_RB healthy_JJ to_TO me_PRP ._. 
+Pike_NNP appears_VBZ undissuadable_JJ in_IN my_PRP$ view_NN ._. 
+
+The_DT Wolfram_NNP proposal_NN certainly_RB acknowledges_VBZ the_DT need_NN to_TO accommodate_VB SGML_NNP entities_NNS and_CC supports_VBZ and_CC SGML_NNP style_NN of_IN markup_NN ._. 
+In_IN my_PRP$ recent_JJ list_NN of_IN questions_NNS and_CC comments_NNS to_TO Bruce_NNP ,_, I_PRP made_VBD reference_NN to_TO the_DT fact_NN that_IN I_PRP felt_VBD ISO_NNP 12083_CD Math_NNP gave_VBD a_DT good_JJ basis_NN for_IN the_DT fundamental_JJ layout_NN schemata_NN and_CC might_MD better_JJR be_VB used_VBN than_IN TeX_NNP for_IN HTML-math_NNP ._. 
+I_PRP was_VBD hoping_VBG ,_, and_CC still_RB do_VBP ,_, that_IN formal_JJ support_NN such_JJ as_IN this_DT would_MD give_VB a_DT direct_JJ means_NNS of_IN filtering_VBG ISO_NNP 12083_CD math_NN into_IN HTML-math_NNP ._. 
+Support_NN in_IN this_DT way_NN gives_VBZ strong_JJ acknowledgement_NN to_TO prior_RB SGML_NNP work_NN ._. 
+
+And_CC then_RB there_EX may_MD be_VB the_DT feeling_NN that_IN WRI_NNP is_VBZ pushing_VBG a_DT standard_NN of_IN its_PRP$ own_JJ ._. 
+While_IN Stephen_NNP himself_PRP broadcasts_VBZ at_IN a_DT very_RB powerful_JJ wattage_NN ,_, I_PRP 've_VBP found_VBN the_DT committee_NN members_NNS from_IN WRI_NNP quite_RB accommodating_VBG and_CC undogmatic_JJ ._. 
+I_PRP view_VBP their_PRP$ contributions_NNS as_RB wholly_RB positive_JJ ._. 
+I_PRP 'm_VBP certain_JJ that_IN Nico_NNP was_VBD *_NN not_RB *_NN asserting_VBG otherwise_RB ,_, but_CC I_PRP would_MD communicate_VB this_DT to_TO others_NNS from_IN outside_IN the_DT committee_NN if_IN a_DT perception_NN of_IN a_DT WRI-centric_NNP "_'' standard_JJ "_'' is_VBZ misapprehended_JJ ._. 
+This_DT is_VBZ a_DT quiet_JJ statement_NN ,_, not_RB a_DT defensive_JJ one_CD ._. 
+
+-_: Ron_NNP 

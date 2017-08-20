@@ -1,0 +1,22 @@
+October_NNP 27_CD ,_, 1998_CD 
+
+Dear_RB Name_NN :_: 
+
+Join_NNP us_PRP for_IN the_DT "_'' Sale_NN of_IN the_DT Century_NNP "_'' at_IN JCC_NNP Auction_NNP '_POS 99_CD ,_, on_IN Saturday_NNP ,_, November_NNP 13_CD ,_, 1999_CD ._. 
+The_DT 9_CD th_NN annual_JJ JCC_NNP Auction_NNP will_MD benefit_VB the_DT numerous_JJ scholarship_NN programs_NNS of_IN the_DT Jewish_NNP Community_NNP Center_NNP of_IN Indianapolis_NNP ,_, a_DT United_NNP Way_NNP agency_NN ._. 
+Because_IN you_PRP are_VBP an_DT organization_NN that_WDT cares_VBZ ,_, you_PRP are_VBP invited_VBN once_RB again_RB to_TO be_VB an_DT integral_JJ part_NN of_IN this_DT fabulous_JJ event_NN as_IN a_DT corporate_JJ sponsor_NN for_IN JCC_NNP Auction_NNP '_POS 99_CD ._. 
+
+We_PRP are_VBP so_RB grateful_JJ for_IN your_PRP$ generous_JJ contribution_NN to_TO last_VB year_NN 's_POS auction_NN ._. 
+Your_PRP$ continued_JJ participation_NN is_VBZ very_RB important_JJ to_TO the_DT JCC_NNP ,_, as_IN we_PRP work_VBP to_TO build_VB partnerships_NNS between_IN businesses_NNS and_CC our_PRP$ not-for-profit_JJ agency_NN ._. 
+As_IN a_DT sponsor_NN ,_, you_PRP and_CC your_PRP$ guests_NNS will_MD have_VB a_DT special_JJ evening_NN ,_, knowing_VBG that_IN your_PRP$ tax_NN deductible_JJ contribution_NN will_MD help_VB support_VB preschool_JJ ,_, childcare_NN ,_, senior_NN and_CC resettlement_NN services_NNS ,_, as_RB well_RB as_IN quality_NN cultural_JJ events_NNS in_IN our_PRP$ community_NN ._. 
+
+Enclosed_NNP is_VBZ a_DT corporate_JJ sponsorship_NN package_NN that_WDT includes_VBZ a_DT sample_NN of_IN your_PRP$ ad_NN from_IN last_JJ year_NN 's_POS auction_NN book_NN ,_, current_JJ JCC_NNP market_NN statistics_NNS and_CC an_DT overview_NN of_IN the_DT many_JJ JCC_NNP programs_NNS that_WDT will_MD be_VB preserved_VBN and_CC strengthened_VBN through_IN your_PRP$ generous_JJ support_NN ._. 
+
+One_CD of_IN us_PRP will_MD call_VB you_PRP to_TO discuss_VB how_WRB your_PRP$ company_NN can_MD continue_VB to_TO be_VB an_DT important_JJ ,_, highly_RB visible_JJ partner_NN with_IN the_DT JCC_NNP in_IN support_NN of_IN our_PRP$ scholarship_NN programs_NNS ._. 
+If_IN you_PRP have_VBP any_DT questions_NNS ,_, please_VB feel_VBP free_JJ to_TO call_VB Myrna_NNP Weinberger_NNP at_IN 251_CD -_: 9467_CD ,_, ext._NN 256_CD ._. 
+Thank_VB you_PRP in_IN advance_NN for_IN your_PRP$ consideration_NN ._. 
+
+Sincerely_NNP ,_, 
+
+Judy_NNP Laikin_NNP ,_, Chair_NNP Auction_NNP '_POS 99_CD Sponsor_NNP Committee_NNP 
+

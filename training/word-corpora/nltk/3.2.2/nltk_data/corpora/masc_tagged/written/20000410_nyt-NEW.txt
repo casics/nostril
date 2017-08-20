@@ -1,0 +1,22 @@
+Iraq_NNP clears_VBZ visit_NN by_IN Ohio_NNP official_NN 
+
+By_IN Scott_NNP Montgomery_NNP Washington_NNP 
+
+The_DT Iraqi_JJ government_NN has_VBZ agreed_VBN to_TO let_VB U.S._NN Rep._NN Tony_NNP Hall_NNP visit_NN the_DT country_NN next_JJ week_NN to_TO assess_VB a_DT humanitarian_JJ crisis_NN that_WDT has_VBZ festered_JJ since_IN the_DT Gulf_NNP War_NNP of_IN 1990_CD ,_, Hall_NNP 's_POS office_NN said_VBD Monday_NNP ._. 
+
+The_DT Dayton_NNP Democrat_NNP ,_, who_WP has_VBZ traveled_VBN to_TO other_JJ crisis_NN points_NNS including_VBG Sierra_NNP Leone_NNP and_CC North_NNP Korea_NNP ,_, will_MD spend_VB three_CD days_NNS visiting_VBG hospitals_NNS and_CC other_JJ facilities_NNS to_TO seek_VB understanding_NN why_WRB aid_NN has_VBZ been_VBN ineffective_JJ in_IN stemming_VBG malnourishment_NN and_CC other_JJ medical_JJ problems_NNS ._. 
+
+Iraq_NNP has_VBZ been_VBN under_IN economic_JJ sanctions_NNS since_IN the_DT war_NN ended_VBD ,_, which_WDT some_DT say_VBP have_VBP thwarted_VBN the_DT country_NN 's_POS ability_NN to_TO recover_VB from_IN the_DT devastation_NN of_IN the_DT bombing_NN campaign_NN ._. 
+
+The_DT Persian_NNP Gulf_NNP War_NNP destroyed_VBD much_JJ of_IN the_DT country_NN 's_POS medical_JJ infrastructure_NN ,_, according_VBG to_TO a_DT report_NN by_IN the_DT World_NNP Health_NNP Organization_NNP ._. 
+In_IN 1996_CD the_DT WHO_WP found_VBD that_IN much_RB of_IN the_DT population_NN existed_VBD in_IN a_DT state_NN of_IN `_`` `_`` semi_NN starvation_NN ._. '_POS '_POS 
+
+Hall_NNP will_MD be_VB only_RB the_DT second_JJ member_NN of_IN Congress_NNP to_TO travel_VB in_IN Iraq_NNP since_IN the_DT war_NN ,_, according_VBG to_TO Hall_NNP 's_POS office_NN ._. 
+The_DT last_JJ visitor_NN was_VBD then-_NN U.S._NN Rep._NN Bill_NNP Richardson_NNP of_IN New_NNP Mexico_NNP ,_, who_WP went_VBD to_TO help_VB a_DT pair_NN of_IN U.S._NN oilmen_NN in_IN diplomatic_JJ trouble_NN ._. 
+
+Hall_NNP flies_VBZ to_TO Amman_NNP ,_, Jordan_NNP ,_, on_IN Friday_NNP ,_, where_WRB he_PRP 'll_MD spend_VB the_DT night_NN before_IN driving_VBG to_TO Iraq_NNP ._. 
+Flights_NNS are_VBP not_RB permitted_VBN into_IN Iraq_NNP ._. 
+Hall_NNP is_VBZ to_TO return_VB to_TO Washington_NNP on_IN April_NNP 22_CD ._. 
+
+Story_NNP Filed_NNP By_IN Cox_NNP Newspapers_NNS 
+

@@ -1,0 +1,264 @@
+REPORT_NNP TO_TO THE_DT CONGRESS_NNP :_: AUTHORITY_NNP OF_IN THE_DT UNITED_NNP STATES_NNS POSTAL_NNP SERVICE_NNP TO_TO INTRODUCE_NNP NEW_JJ PRODUCTS_NNS AND_CC SERVICES_NNS AND_CC TO_TO ENTER_NNP INTO_NNP RATE_NNP AND_CC SERVICE_NNP AGREEMENTS_NNP WITH_IN INDIVIDUAL_NNP CUSTOMERS_NNP OR_NNP GROUPS_NNP OF_IN CUSTOMERS_NNP 
+
+UNITED_NNP STATES_NNS OF_IN AMERICA_NNP POSTAL_NNP RATE_NNP COMMISSION_NNP 
+February_NNP 11_CD ,_, 2002_CD POSTAL_NNP RATE_NNP COMMISSION_NNP Memorandum_NNP 
+February_NNP 11_CD ,_, 2002_CD 
+TO_TO :_: Senate_NNP Committee_NNP on_IN Appropriations_NNP House_NNP Committee_NNP on_IN Appropriations_NNP Senate_NNP Committee_NNP on_IN Governmental_NNP Affairs_NNPS House_NNP Committee_NNP on_IN Government_NNP Reform_NNP 
+SUBJECT_NNP :_: Report_NNP to_TO the_DT Congress_NNP on_IN Authority_NNP of_IN the_DT United_NNP States_NNPS Postal_NNP Service_NNP to_TO Introduce_NNP Innovative_JJ Products_NNPS and_CC Services_NNPS and_CC to_TO Enter_VB into_IN Rate_NNP and_CC Service_NNP Agreements_NNP 
+
+In_IN accordance_NN with_IN the_DT direction_NN of_IN the_DT Joint_NNP Committee_NNP of_IN Conference_NNP concerning_VBG the_DT 2002_CD appropriation_NN for_IN the_DT Postal_NNP Service_NNP ,_, the_DT Postal_NNP Rate_NNP Commission_NNP hereby_NN transmits_NNS its_PRP$ report_NN on_IN the_DT scope_NN of_IN existing_VBG authority_NN of_IN the_DT United_NNP States_NNPS Postal_NNP Service_NNP under_IN current_JJ postal_JJ laws_NNS and_CC regulations_NNS to_TO introduce_VB new_JJ products_NNS and_CC services_NNS and_CC to_TO enter_VB into_IN negotiated_VBN service_NN agreements_NNS with_IN individual_JJ customers_NNS or_CC groups_NNS of_IN customers_NNS ._. 
+
+RESPECTFULLY_NNP SUBMITTED_NNP ,_, 
+George_NNP A._NN Omas_NNP ,_, Chairman_NNP 
+Ruth_NNP Y._NN Goldway_NNP ,_, Vice_NNP Chairman_NN 
+Dana_NNP B._NN Covington_NNP ,_, Sr_NNP ._. ,_, Commissioner_NNP 
+REPORT_NNP TO_TO THE_DT CONGRESS_NNP :_: 
+APPENDIX_NNP 
+Postal_NNP Service_NNP Product_NNP Innovations_NNP and_CC Special-Purpose_NNP Mail_NNP Classification_NNP Changes_NNS Reviewed_NNP by_IN the_DT Postal_NNP Rate_NNP Commission_NNP Since_IN January_NNP 1_CD ,_, 2000_CD 
+I._NN SUMMARY_NNP This_DT report_NN provides_VBZ an_DT analysis_NN of_IN the_DT United_NNP States_NNPS Postal_NNP Service_NNP 's_POS current_JJ legal_JJ authority_NN to_TO :_: (_( 1_CD )_) introduce_VB and_CC provide_VB new_JJ products_NNS and_CC services_NNS ;_: and_CC (_( 2_CD )_) enter_VB into_IN negotiated_VBN service_NN agreements_NNS with_IN individual_JJ customers_NNS ._. 
+This_DT report_NN also_RB includes_VBZ background_NN on_IN the_DT use_NN of_IN such_JJ authority_NN within_IN the_DT past_JJ two_CD years_NNS ._. 
+
+The_DT Commission_NNP 's_POS analysis_NN of_IN existing_VBG postal_JJ law_NN yields_VBZ the_DT following_JJ conclusions_NNS :_: 
+
+•_NN The_DT Postal_NNP Reorganization_NNP Act_NNP of_IN 1970_CD gives_VBZ the_DT United_NNP States_NNPS Postal_NNP Service_NNP a_DT clear_JJ mandate_NN to_TO innovate_VB by_IN developing_VBG effective_JJ and_CC efficient_JJ services_NNS adapted_VBN to_TO the_DT needs_NNS of_IN the_DT Nation_NNP 's_POS mail_NN users_NNS ._. 
+•_NN The_DT mechanism_NN for_IN implementing_VBG innovations_NNS in_IN domestic_JJ mail_NN services_NNS is_VBZ the_DT joint_JJ authority_NN shared_VBN by_IN the_DT Postal_NNP Service_NNP and_CC the_DT Postal_NNP Rate_NNP Commission_NNP to_TO adopt_VB new_JJ mail_NN classifications_NNS under_IN 39_CD U.S.C._NNP §_NN §_NN 3623_CD through_IN 3625_CD ._. 
+•_NN The_DT Postal_NNP Rate_NNP Commission_NNP has_VBZ developed_VBN specialized_JJ procedural_JJ rules_NNS that_WDT provide_VBP for_IN expeditious_JJ consideration_NN of_IN proposed_VBN service_NN innovations_NNS in_IN a_DT manner_NN consistent_JJ with_IN the_DT due_JJ process_NN rights_NNS of_IN other_JJ interested_JJ persons_NNS ._. 
+•_NN Negotiated_NNP Service_NNP Agreements_NNP (_( NSAs_NNP )_) or_CC "_'' niche_NN classifications_NNS "_'' are_VBP rate_NN and_CC service_NN adjustments_NNS arranged_VBN by_IN the_DT Postal_NNP Service_NNP and_CC potential_JJ users_NNS that_WDT are_VBP legally_RB permissible_JJ ,_, provided_VBN that_IN :_: 
+❶_CD The_DT proposal_NN is_VBZ reviewed_VBN in_IN a_DT public_JJ proceeding_NN ,_, as_IN the_DT Reorganization_NNP Act_NNP requires_VBZ ;_: 
+
+❷_CD The_DT agreed-upon_JJ rate_NN and_CC service_NN changes_NNS will_MD work_VB to_TO the_DT mutual_JJ benefit_NN of_IN mail_NN users_NNS and_CC the_DT postal_JJ system_NN as_IN a_DT whole_JJ ;_: and_CC 
+
+❸_CD The_DT negotiated_VBN rate-and-service_JJ package_NN is_VBZ made_VBN available_JJ on_IN the_DT same_JJ terms_NNS to_TO other_JJ potential_JJ users_NNS willing_JJ to_TO meet_VB the_DT same_JJ conditions_NNS of_IN service_NN ._. 
+
+II_NNP ._. BACKGROUND_NNP AND_CC SCOPE_NNP OF_IN ANALYSIS_NNP In_IN joint_JJ deliberations_NNS on_IN appropriations_NNS for_IN the_DT United_NNP States_NNPS Postal_NNP Service_NNP and_CC certain_JJ other_JJ agencies_NNS and_CC departments_NNS for_IN Fiscal_JJ Year_NN 2002_CD ,_, the_DT committee_NN of_IN conference_NN directed_VBD both_DT the_DT Postal_NNP Service_NNP and_CC the_DT Postal_NNP Rate_NNP Commission_NNP to_TO prepare_VB reports_NNS on_IN particular_JJ areas_NNS of_IN the_DT Postal_NNP Service_NNP 's_POS authority_NN under_IN existing_VBG law_NN .1_CD 
+Specifically_RB ,_, the_DT conferees_NNS directed_VBN :_: 
+
+…_NN both_DT the_DT United_NNP States_NNPS Postal_NNP Service_NNP and_CC the_DT Postal_NNP Rate_NNP Commission_NNP to_TO independently_RB report_VB ,_, 90_CD days_NNS after_IN enactment_NN of_IN this_DT Act_NNP ,_, on_IN the_DT scope_NN of_IN existing_VBG authority_NN of_IN the_DT US_NNP Postal_NNP Service_NNP ,_, under_IN title_NN 39_CD ,_, United_NNP States_NNPS Code_NNP ,_, and_CC title_NN 39_CD ,_, Code_NNP of_IN Federal_NNP Regulations_NNPS ,_, to_TO introduce_VB and_CC provide_VB new_JJ products_NNS and_CC services_NNS (_( including_VBG the_DT introduction_NN and_CC provision_NN of_IN new_JJ products_NNS and_CC service_NN on_IN an_DT experimental_JJ or_CC market_NN test_NN basis_NN )_) and_CC to_TO enter_VB into_IN negotiated_VBN service_NN agreements_NNS with_IN individual_JJ customers_NNS or_CC groups_NNS of_IN customers_NNS ._. 
+Such_JJ reports_NNS shall_MD include_VB background_NN on_IN the_DT use_NN of_IN such_JJ authority_NN within_IN the_DT past_JJ 24_CD months_NNS and_CC shall_MD be_VB provided_VBN to_TO the_DT Committees_NNS on_IN Appropriations_NNP ,_, the_DT Senate_NNP Committee_NNP on_IN Governmental_NNP Affairs_NNP ,_, and_CC the_DT House_NNP Committee_NNP on_IN Government_NNP Reform_NNP ._. 
+
+H._NN R._NN CONF_NNP ._. REP_NNP ._. NO_UH ._. 107_CD -_: 253_CD ,_, 107th_CD Cong_NNP ._. ,_, 1st_CD Sess_NNP ._. 59_CD (_( 2001_CD )_) ._. As_IN directed_VBN ,_, the_DT Commission_NNP submits_VBZ this_DT report_NN to_TO the_DT Senate_NNP and_CC House_NNP of_IN Representatives_NNPS Committees_NNS on_IN Appropriations_NNP ,_, the_DT Senate_NNP Committee_NNP on_IN Governmental_NNP Affairs_NNP ,_, and_CC the_DT House_NNP Committee_NNP on_IN Government_NNP Reform_NNP ._. 
+
+The_DT report_NN is_VBZ presented_VBN in_IN three_CD sections_NNS ._. 
+The_DT first_JJ outlines_VBZ the_DT Postal_NNP Service_NNP 's_POS current_JJ legal_JJ authority_NN to_TO introduce_VB new_JJ products_NNS and_CC services_NNS ,_, the_DT role_NN of_IN the_DT Postal_NNP Rate_NNP Commission_NNP in_IN that_DT process_NN ,_, and_CC the_DT procedural_JJ mechanisms_NNS available_JJ for_IN expedited_VBN approval_NN of_IN such_JJ innovations_NNS ._. 
+The_DT second_JJ section_NN addresses_VBZ the_DT same_JJ topics_NNS in_IN connection_NN with_IN Negotiated_NNP Service_NNP Agreements_NNP (_( NSAs_NNP )_) ,_, so-called_JJ "_'' niche_NN classifications_NNS ,_, "_'' which_WDT are_VBP special_JJ service_NN and_CC rate_NN arrangements_NNS negotiated_VBN between_IN the_DT Postal_NNP Service_NNP and_CC a_DT particular_JJ mailer_NN or_CC groups_NNS of_IN mailers_NNS with_IN features_NNS tailored_VBN to_TO their_PRP$ use_NN of_IN the_DT postal_JJ system_NN ._. 
+Finally_RB ,_, an_DT appendix_NN to_TO the_DT report_NN summarizes_NNS recent_JJ 
+
+1_CD The_DT amended_JJ bill_NN produced_VBN by_IN the_DT conference_NN committee_NN was_VBD enacted_VBN as_IN Pub_NNP ._. L._NN No._NN 107_CD -_: 67_CD ,_, 115_CD Stat_NNP ._. 514_CD (_( 2001_CD )_) ._. 
+
+Commission_NNP proceedings_NNS in_IN which_WDT the_DT Postal_NNP Service_NNP has_VBZ sought_VBN to_TO introduce_VB service_NN innovations-some_JJ of_IN them_PRP customized_VBN for_IN particular_JJ groups_NNS of_IN mailers-on_JJ an_DT expedited_JJ basis_NN ._. 
+
+III_NNP ._. POSTAL_NNP SERVICE_NNP AUTHORITY_NNP TO_TO DEVELOP_NNP ,_, INTRODUCE_NNP AND_CC PROVIDE_NNP NEW_JJ PRODUCTS_NNS AND_CC SERVICES_NNS 
+A._NN Innovation_NNP under_IN the_DT Postal_NNP Reorganization_NNP Act_NNP While_IN pre-existing_JJ law_NN afforded_VBN limited_JJ opportunities_NNS for_IN postal_JJ innovation_NN ,_, 2_CD the_DT Postal_NNP Reorganization_NNP Act_NNP of_IN 1970_CD gave_VBD the_DT newly-created_JJ United_NNP States_NNPS Postal_NNP Service_NNP a_DT clear_JJ mandate_NN to_TO innovate_VB by_IN developing_VBG effective_JJ and_CC efficient_JJ services_NNS adapted_VBN to_TO the_DT needs_NNS of_IN the_DT Nation_NNP 's_POS mail_NN users_NNS ._. 
+Section_NN 101_CD (_( a_DT )_) of_IN Title_NNP 39_CD establishes_VBZ the_DT Postal_NNP Service_NNP 's_POS paramount_JJ obligation_NN "_'' to_TO provide_VB postal_JJ services_NNS to_TO bind_NN the_DT Nation_NNP together_RB through_IN the_DT personal_JJ ,_, educational_JJ ,_, literary_JJ ,_, and_CC business_NN correspondence_NN of_IN the_DT people_NNS ._. "_'' 
+The_DT same_JJ section_NN establishes_VBZ the_DT performance_NN criterion_NN that_IN the_DT Postal_NNP Service_NNP is_VBZ expected_VBN to_TO achieve_VB as_IN a_DT matter_NN of_IN postal_JJ policy_NN :_: "_'' It_PRP shall_MD provide_VB prompt_VB ,_, reliable_JJ ,_, and_CC efficient_JJ services_NNS to_TO patrons_NNS in_IN all_DT areas_NNS and_CC . . ._... all_DT communities_NNS ._. "_'' 
+Similarly_RB ,_, §_NN 403_CD (_( a_DT )_) assigns_VBZ the_DT Postal_NNP Service_NNP the_DT duty_NN to_TO "_'' plan_NN ,_, develop_VB ,_, promote_VB ,_, and_CC provide_VB adequate_JJ and_CC efficient_JJ postal_JJ services_NNS at_IN fair_JJ and_CC reasonable_JJ rates_NNS and_CC fees_NNS ._. "_'' 
+The_DT Act_NNP fosters_NNS service_NN innovation_NN by_IN assigning_VBG the_DT Postal_NNP Service_NNP responsibility_NN "_'' to_TO provide_VB types_NNS of_IN mail_NN service_NN to_TO meet_VB the_DT needs_NNS of_IN different_JJ categories_NNS of_IN mail_NN and_CC mail_NN users_NNS [_NN ._. ]_NN "_'' 39_CD 
+U.S.C._NNP §_NN 403_CD (_( b_SYM )_) (_( 2_CD )_) ._. 
+
+The_DT Reorganization_NNP Act_NNP grants_VBZ the_DT Postal_NNP Service_NNP specific_JJ powers_NNS that_WDT serve_VBP as_IN the_DT operational_JJ tools_NNS of_IN service_NN innovation_NN ._. 
+Section_NN 404_CD of_IN Title_NNP 39_CD grants_NNS the_DT Postal_NNP Service_NNP plenary_JJ authority_NN over_IN custody_NN of_IN the_DT mail_NN and_CC its_PRP$ movement_NN [_NN §_NN 404_CD (_( a_DT )_) (_( 1_CD )_) ]_NN ;_: over_IN the_DT deployment_NN of_IN post_NN offices_NNS ,_, other_JJ facilities_NNS ,_, and_CC equipment_NN [_NN §_NN 404_CD (_( a_DT )_) (_( 3_CD )_) ]_NN ;_: and_CC over_IN the_DT means_NNS by_IN which_WDT stamps_NNS and_CC other_JJ postage_NN are_VBP sold_VBN [_NN §_NN 404_CD (_( a_DT )_) (_( 4_CD )_) and_CC (_( 5_CD )_) ]_NN ._. 
+The_DT same_JJ section_NN also_RB authorizes_VBZ the_DT Postal_NNP Service_NNP "_'' to_TO provide_VB ,_, establish_VB ,_, change_NN ,_, or_CC abolish_VB special_JJ nonpostal_NN or_CC similar_JJ services_NNS [_NN ._. ]_NN "_'' 39_CD U.S.C._NNP §_NN 404_CD (_( a_DT )_) (_( 6_CD )_) ._. 
+
+Conclusion_NNP :_: The_DT Postal_NNP Reorganization_NNP Act_NNP of_IN 1970_CD clearly_RB mandates_VBZ that_IN the_DT Postal_NNP Service_NNP innovate_VB by_IN developing_VBG effective_JJ and_CC efficient_JJ postal_JJ services_NNS adapted_VBN to_TO the_DT needs_NNS of_IN the_DT Nation_NNP 's_POS mail_NN users_NNS ._. 
+
+2_CD Former_NNP 39_CD U.S.C._NNP §_NN 504_CD (_( a_DT )_) authorized_VBD the_DT Postmaster_NNP General_NNP to_TO maintain_VB a_DT research_NN and_CC development_NN program_NN ,_, and_CC to_TO conduct_VB experiments_NNS to_TO enhance_VB the_DT operational_JJ efficiency_NN and_CC economy_NN of_IN the_DT postal_JJ system_NN ._. 
+
+B._NN Commission_NNP Review_NNP of_IN Proposed_NNP Changes_NNS in_IN Domestic_NNP Mail_NNP Classifications_NNP Prior_RB to_TO 1970_CD ,_, the_DT array_NN of_IN mail_NN services_NNS provided_VBN by_IN the_DT Post_NNP Office_NNP Department_NNP was_VBD codified_VBN as_IN part_NN of_IN Title_NNP 39.3_CD The_DT Reorganization_NNP Act_NNP replaced_VBD this_DT statutory_JJ codification_NN of_IN postal_JJ services_NNS with_IN an_DT administrative_JJ process_NN in_IN which_WDT the_DT Governors_NNS of_IN the_DT Postal_NNP Service_NNP establish_VB ,_, and_CC the_DT Postal_NNP Rate_NNP Commission_NNP reviews_NNS proposed_VBD changes_NNS in_IN ,_, the_DT terms_NNS and_CC conditions_NNS of_IN postal_JJ services_NNS ,_, which_WDT are_VBP compiled_VBN as_IN the_DT Domestic_NNP Mail_NNP Classification_NNP Schedule_NNP (_( or_CC "_'' DMCS_NNP "_'' )_) 
+.4_CD 
+
+Section_NN 3621_CD of_IN Title_NNP 39_CD provides_VBZ that_IN "_'' the_DT Governors_NNS are_VBP authorized_VBN to_TO establish_VB reasonable_JJ and_CC equitable_JJ classes_NNS of_IN mail_NN .
+. ._... in_IN accordance_NN with_IN the_DT provisions_NNS of_IN this_DT chapter_NN ._. "_'' 
+Section_NN 3623_CD (_( a_DT )_) directs_VBZ the_DT Postal_NNP Service_NNP to_TO file_VB a_DT request_NN with_IN the_DT Postal_NNP Rate_NNP Commission_NNP for_IN a_DT recommended_JJ decision_NN on_IN establishing_VBG a_DT mail_NN classification_NN schedule_NN within_IN two_CD years_NNS of_IN the_DT Reorganization_NNP Act_NNP 's_POS effective_JJ date_NN ._. 
+The_DT Postal_NNP Service_NNP complied_VBD with_IN this_DT requirement_NN early_RB in_IN 1973_CD ,_, and_CC a_DT Domestic_NNP Mail_NNP Classification_NNP Schedule_NNP recommended_VBN by_IN the_DT Commission_NNP became_VBD effective_JJ on_IN July_NNP 6_CD ,_, 1976.5_CD 
+
+Following_VBG establishment_NN of_IN this_DT initial_JJ mail_NN classification_NN schedule_NN ,_, §_NN 3623_CD (_( b_SYM )_) provides_VBZ that_IN the_DT Postal_NNP Service_NNP "_'' may_MD from_IN time_VB to_TO time_NN request_NN that_IN the_DT Commission_NNP submit_VB ,_, or_CC the_DT Commission_NNP may_MD submit_VB to_TO the_DT Governors_NNS on_IN its_PRP$ own_JJ initiative_NN ,_, a_DT recommended_JJ decision_NN on_IN changes_NNS in_IN the_DT mail_NN classification_NN schedule_NN ._. "_'' 
+Deliberations_NNP on_IN proposed_VBN mail_NN classification_NN changes_NNS follow_VBP proceedings_NNS in_IN which_WDT an_DT opportunity_NN for_IN on_IN the_DT record_NN hearings_NNS is_VBZ afforded_VBN to_TO mail_VB users_NNS and_CC an_DT officer_NN of_IN the_DT Commission_NNP required_VBD to_TO represent_VB the_DT interests_NNS of_IN the_DT general_JJ public_NN ._. 
+39_CD U.S.C._NNP §_NN 3624_CD (_( a_DT )_) ._. 
+The_DT Commission_NNP 's_POS procedural_JJ rules_NNS governing_VBG proposed_VBN changes_NNS in_IN the_DT mail_NN classification_NN schedule_NN are_VBP contained_VBN in_IN Subpart_NNP C_NNP of_IN title_NN 39_CD of_IN the_DT Code_NNP of_IN Federal_NNP Regulations_NNPS ,_, 39_CD 
+C.F.R._NN §_NN 3001.61_CD et_CC seq._NN 
+
+3_CD See_VB former_JJ Title_NNP 39_CD ,_, Part_NNP IV-Mail_NNP Matter_NNP ._. 
+
+4_CD The_DT text_NN of_IN the_DT Domestic_NNP Mail_NNP Classification_NNP Schedule_NNP is_VBZ published_VBN as_IN Appendix_NNP A_DT to_TO Subpart_NNP C_NNP of_IN 39_CD C.F.R._NN Part_NN 3001_CD ,_, following_VBG 39_CD C.F.R._NN §_NN 3001.68_CD 
+
+5_CD Docket_NNP No._NN MC_NNP 73_CD -_: 1_CD ,_, Phase_NN I_PRP ,_, Opinion_NNP and_CC Recommended_NNP Decision_NNP ,_, April_NNP 15_CD ,_, 1976_CD ;_: accepted_VBD in_IN Decision_NNP of_IN the_DT Governors_NNS of_IN the_DT United_NNP States_NNPS Postal_NNP Service_NNP on_IN Establishing_VBG a_DT Mail_NNP Classification_NNP 
+Schedule_NNP ,_, June_NNP 2_CD ,_, 1976_CD ._. 
+Over_IN the_DT past_JJ 25_CD years_NNS ,_, the_DT Postal_NNP Service_NNP has_VBZ filed_VBN many_JJ such_JJ mail_NN classification_NN requests_NNS with_IN the_DT Commission_NNP ,_, seeking_VBG either_CC to_TO establish_VB new_JJ postal_JJ products_NNS or_CC to_TO reconfigure_NN pre-existing_JJ services_NNS ._. 
+Less_RBR frequently_RB ,_, the_DT Commission_NNP has_VBZ begun_VBN proceedings_NNS on_IN its_PRP$ own_JJ initiative_NN ,_, most_RBS commonly_RB in_IN response_NN to_TO a_DT mail_NN user_NN 's_POS request_NN to_TO do_VB so_RB ._. 
+Both_DT forms_NNS of_IN proceeding_VBG have_VBP proven_VBN to_TO offer_VB useful_JJ opportunities_NNS to_TO introduce_VB innovations_NNS in_IN postal_JJ services_NNS ._. 
+
+Conclusion_NNP :_: The_DT joint_JJ authority_NN shared_VBN by_IN the_DT Postal_NNP Service_NNP and_CC the_DT Postal_NNP Rate_NNP Commission_NNP under_IN the_DT Reorganization_NNP Act_NNP to_TO adopt_VB new_JJ mail_NN classifications_NNS is_VBZ the_DT mechanism_NN for_IN implementing_VBG innovations_NNS in_IN domestic_JJ mail_NN service_NN ._. 
+
+C._NN Commission_NNP Procedures_NNP Adapted_VBN to_TO the_DT Expeditious_NNP Consideration_NNP of_IN Proposed_NNP Service_NNP Innovations_NNP 
+
+Recognizing_NNP that_IN certain_JJ types_NNS of_IN proposed_VBN service_NN innovations_NNS merit_VBP consideration_NN under_IN specialized_JJ procedures_NNS ,_, the_DT Commission_NNP has_VBZ adopted_VBN several_JJ sets_NNS of_IN rules_NNS that_WDT are_VBP customized_VBN for_IN defined_VBN categories_NNS of_IN Postal_NNP Service_NNP requests_NNS ._. 
+The_DT rules_NNS depart_VBP from_IN those_DT generally_RB applicable_JJ to_TO proposed_VBN mail_NN classification_NN changes_NNS by_IN reducing_VBG the_DT amount_NN of_IN supporting_VBG evidence_NN the_DT Postal_NNP Service_NNP is_VBZ required_VBN to_TO produce_VB ,_, and_CC by_IN expediting_VBG the_DT Commission_NNP 's_POS procedural_JJ schedule_NN for_IN considering_VBG the_DT particular_JJ form_NN of_IN proposed_VBN change_NN ._. 
+
+The_DT Commission_NNP determined_VBD almost_RB twenty_CD years_NNS ago_RB that_IN there_EX was_VBD a_DT need_NN for_IN specialized_JJ rules_NNS to_TO facilitate_VB Postal_NNP Service_NNP mail_NN classification_NN requests_NNS involving_VBG proposed_VBN new_JJ services_NNS ,_, or_CC changes_NNS in_IN existing_VBG services_NNS ,_, that_WDT were_VBD intended_VBN to_TO serve_VB as_IN experiments_NNS ._. 
+The_DT rules_NNS ,_, contained_VBD in_IN 39_CD C.F.R._NN §_NN §_NN 3001.67_CD through_IN .67_CD d_SYM ,_, provide_VBP a_DT mechanism_NN for_IN limiting_VBG the_DT issues_NNS on_IN which_WDT a_DT trial-type_JJ hearing_NN is_VBZ required_VBN ;_: allow_VB the_DT Postal_NNP Service_NNP to_TO explain_VB the_DT unavailability_NN of_IN data_NNS that_WDT would_MD otherwise_RB have_VB to_TO be_VB filed_VBN ;_: and_CC provide_VB for_IN data_NNS collection_NN for_IN the_DT duration_NN of_IN the_DT experiment_NN ._. 
+The_DT experimental_JJ rules_NNS also_RB incorporate_VB a_DT procedural_JJ time_NN limit_NN of_IN 150_CD days_NNS from_IN the_DT Commission_NNP 's_POS determination_NN that_IN the_DT proposed_JJ change_NN is_VBZ experimental_JJ in_IN nature_NN ._. 
+
+These_DT rules_NNS were_VBD not_RB used_VBN extensively_RB ._. 
+A_DT joint_JJ Postal_NNP Service-_NNP Postal_NNP Rate_NNP Commission_NNP task_NN force_NN suggested_VBD a_DT number_NN of_IN areas_NNS where_WRB additional_JJ special_JJ rules_NNS might_MD further_RB encourage_VB Postal_NNP Service_NNP innovation_NN .6_CD 
+The_DT Postal_NNP Service_NNP petitioned_VBD the_DT Commission_NNP in_IN 1995_CD to_TO adopt_VB rules_NNS to_TO implement_VB some_DT of_IN the_DT task_NN force_NN 's_POS recommendations_NNS ._. 
+The_DT Commission_NNP conducted_VBD a_DT rulemaking_VBG to_TO consider_VB the_DT rules_NNS proposed_VBN in_IN the_DT Service_NNP 's_POS petition_NN ,_, and_CC after_IN considering_VBG the_DT comments_NNS of_IN interested_JJ parties_NNS ,_, implemented_VBD four_CD of_IN the_DT proposed_JJ initiatives_NNS ,_, albeit_IN in_IN revised_VBN form_NN ._. 
+
+Three_CD of_IN the_DT new_JJ sets_NNS of_IN rules_NNS prescribe_VBP expedited_VBN procedures_NNS for_IN particular_JJ categories_NNS of_IN Postal_NNP Service_NNP requests_NNS ._. 
+The_DT fourth_RB set_VBN specifies_VBZ conditions_NNS under_IN which_WDT the_DT Service_NNP may_MD use_VB multi-year_JJ test_NN periods_NNS to_TO demonstrate_VB that_IN a_DT proposed_VBN new_JJ service_NN will_MD become_VB compensatory_JJ over_IN time_NN ._. 
+
+The_DT first_JJ set_NN of_IN these_DT new_JJ procedural_JJ rules_NNS ,_, incorporated_VBN into_IN the_DT Commission_NNP 's_POS rules_NNS of_IN practice_NN as_IN sections_NNS 161_CD through_IN 166_CD ,_, 7_CD establish_VB expedited_VBN procedures_NNS for_IN consideration_NN of_IN Postal_NNP Service_NNP proposed_VBD market_NN tests_NNS of_IN potential_JJ new_JJ services_NNS ._. 
+The_DT rules_NNS specify_VB the_DT limited_JJ information_NN the_DT Service_NNP is_VBZ required_VBN to_TO file_VB in_IN support_NN of_IN a_DT proposed_JJ market_NN test_NN ,_, including_VBG a_DT plan_NN for_IN testing_VBG the_DT proposed_VBN new_JJ service_NN and_CC associated_VBN data_NNS collection_NN and_CC reporting_VBG requirements_NNS ._. 
+They_PRP also_RB streamline_VB public_JJ notice_NN and_CC hearing_NN procedures_NNS ,_, and_CC provide_VB for_IN issuance_NN of_IN a_DT "_'' yes_UH or_CC no_DT "_'' Commission_NNP decision_NN on_IN the_DT proposed_JJ market_NN test_NN within_IN 90_CD days_NNS ,_, consistent_JJ with_IN the_DT procedural_JJ due_JJ process_NN rights_NNS of_IN interested_JJ persons_NNS ._. 
+The_DT Postal_NNP Service_NNP 's_POS innovative_JJ Mailing_NNP Online_NNP service_NN ,_, for_IN which_WDT a_DT three-year_JJ experimental_JJ trial_NN was_VBD requested_VBN and_CC approved_VBD in_IN Docket_NNP No._NN MC_NNP 2000_CD -_: 2_CD ,_, was_VBD initially_RB considered_VBN and_CC recommended_VBN by_IN the_DT Commission_NNP under_IN the_DT market_NN test_NN rules_NNS ._. 
+See_VB the_DT Appendix_NNP to_TO this_DT report_NN under_IN the_DT heading_VBG for_IN Docket_NNP No._NN MC_NNP 2000_CD -_: 2_CD ._. 
+
+The_DT second_RB set_NN of_IN rules_NNS ,_, 8_CD apply_VB to_TO Postal_NNP Service_NNP proposals_NNS to_TO implement_VB new_JJ services_NNS that_WDT would_MD supplement_VB ,_, but_CC not_RB alter_VB ,_, existing_VBG mail_NN classifications_NNS and_CC rates_NNS on_IN a_DT provisional_JJ basis_NN for_IN a_DT limited_JJ time_NN ._. 
+As_IN in_IN the_DT market_NN test_NN rules_NNS ,_, the_DT provisional_JJ service_NN rules_NNS identify_VBP the_DT supporting_VBG information_NN to_TO be_VB provided_VBN by_IN the_DT Postal_NNP Service_NNP ;_: in_IN addition_NN ,_, they_PRP allow_VBP the_DT Service_NNP to_TO explain_VB why_WRB it_PRP should_MD not_RB be_VB required_VBN to_TO provide_VB 
+
+6_CD See_VB Postal_NNP Ratemaking_NNP in_IN a_DT Time_NNP of_IN Change_NNP :_: A_DT Report_NNP by_IN the_DT Joint_NNP Task_NNP Force_NNP on_IN Postal_NNP Ratemaking_NNP ,_, June_NNP 1_CD ,_, 1992_CD ._. 
+
+7_CD 39_CD C.F.R._NN §_NN §_NN 3001.161_CD -_: .166_CD ._. 
+8_CD 39_CD C.F.R._NN §_NN §_NN 3001.171_CD -_: .176_CD ._. 
+information_NN called_VBN for_IN in_IN the_DT Commission_NNP 's_POS general_JJ rules_NNS for_IN mail_NN classification_NN proposals_NNS ._. 
+The_DT rules_NNS likewise_RB expedite_VB public_JJ notice_NN and_CC procedural_JJ scheduling_NN ,_, providing_VBG for_IN a_DT "_'' yes_UH or_CC no_DT "_'' Commission_NNP decision_NN within_IN 90_CD days_NNS ,_, consistent_JJ with_IN the_DT due_JJ process_NN rights_NNS of_IN other_JJ parties_NNS ._. 
+
+A_DT third_JJ set_NN of_IN rules_NNS ,_, adopted_VBN as_IN sections_NNS 69_CD through_IN 69_CD c_SYM of_IN the_DT rules_NNS of_IN practice_NN ,_, 9_CD applies_VBZ to_TO Postal_NNP Service_NNP requests_NNS for_IN permanent_JJ mail_NN classification_NN changes_NNS that_WDT are_VBP minor_JJ in_IN character_NN ._. "_'' 
+Minor_NNP "_'' classification_NN changes_NNS are_VBP defined_VBN as_IN those_DT that_WDT would_MD not_RB change_VB any_DT existing_VBG rate_NN or_CC fee_NN ;_: would_MD not_RB impose_VB any_DT new_JJ restriction_NN on_IN eligibility_NN for_IN mailing_NN ;_: and_CC would_MD not_RB significantly_RB increase_VB or_CC decrease_VB the_DT estimated_JJ contribution_NN of_IN the_DT affected_JJ mail_NN subclass_NNS or_CC service_NN category_NN to_TO the_DT institutional_JJ costs_NNS of_IN the_DT Postal_NNP Service_NNP ._. 
+The_DT rules_NNS specify_VB limited_JJ required_VBN supporting_VBG information_NN ,_, allow_VBP the_DT Service_NNP to_TO explain_VB the_DT unavailability_NN of_IN otherwise_RB required_VBN data_NNS ,_, and_CC also_RB streamline_VB procedural_JJ scheduling_NN ._. 
+Under_IN these_DT rules_NNS for_IN minor_JJ classification_NN proposals_NNS ,_, the_DT procedural_JJ deadline_NN for_IN rendering_VBG a_DT Commission_NNP decision_NN is_VBZ 90_CD days_NNS from_IN the_DT filing_NN of_IN the_DT Postal_NNP Service_NNP request_NN if_IN no_DT hearings_NNS are_VBP held_VBN ,_, and_CC 120_CD days_NNS if_IN hearings_NNS are_VBP scheduled_VBN in_IN the_DT case_NN ._. 
+
+Finally_RB ,_, the_DT fourth_RB set_NN of_IN rules_NNS ,_, contained_VBD in_IN sections_NNS 181_CD and_CC 182_CD of_IN the_DT rules_NNS of_IN practice_NN ,_, 10_CD applies_VBZ to_TO Postal_NNP Service_NNP requests_NNS for_IN new_JJ services_NNS that_IN it_PRP believes_VBZ can_MD not_RB recover_VB all_DT their_PRP$ associated_JJ costs_NNS in_IN the_DT first_JJ full_JJ fiscal_JJ year_NN of_IN their_PRP$ operation_NN ._. 
+In_IN such_JJ instances_NNS ,_, the_DT Service_NNP 's_POS request_NN must_MD be_VB supported_VBN by_IN testimony_NN of_IN a_DT Postal_NNP Service_NNP witness_NN that_WDT explains_VBZ the_DT rationale_NN for_IN the_DT proposed_VBN multi-year_JJ test_NN period_NN ._. 
+The_DT request_NN should_MD also_RB provide_VB Return_NN on_IN Investment_NNP projections_NNS ,_, other_JJ available_JJ financial_JJ analyses_NNS ,_, and_CC cost_NN ,_, revenue_NN ,_, and_CC volume_NN estimates_NNS for_IN the_DT new_JJ service_NN for_IN the_DT entire_JJ proposed_VBN test_NN period_NN ._. 
+The_DT rules_NNS establish_VB a_DT policy_NN standard_JJ that_WDT allows_VBZ test_NN periods_NNS of_IN up_IN to_TO five_CD fiscal_JJ years_NNS for_IN the_DT purpose_NN of_IN determining_VBG breakeven_NN for_IN newly_RB introduced_VBN postal_JJ services_NNS ._. 
+
+The_DT Commission_NNP adopted_VBD these_DT four_CD sets_NNS of_IN rules_NNS in_IN 1996_CD ,_, to_TO be_VB effective_JJ for_IN a_DT period_NN of_IN five_CD years_NNS ._. 
+In_IN light_NN of_IN their_PRP$ apparent_JJ workability_NN in_IN several_JJ Commission_NNP proceedings_NNS and_CC their_PRP$ continuing_VBG usefulness_NN for_IN affording_VBG procedural_JJ flexibility_NN to_TO the_DT 
+9_CD 39_CD C.F.R._NN §_NN §_NN 3001.69_CD -_: 69_CD c_SYM ._. 10_CD 39_CD C.F.R._NN §_NN §_NN 3001.181_CD -_: .182_CD ._. 
+Postal_NNP Service_NNP ,_, the_DT Commission_NNP extended_VBD their_PRP$ application_NN for_IN an_DT additional_JJ five-year_JJ period_NN in_IN a_DT recent_JJ rulemaking_VBG .11_CD 
+
+Conclusion_NNP :_: Specialized_NNP Postal_NNP Rate_NNP Commission_NNP rules_NNS of_IN procedure_NN are_VBP currently_RB available_JJ for_IN use_NN by_IN the_DT Postal_NNP Service_NNP to_TO provide_VB expeditious_JJ consideration_NN of_IN proposed_VBN service_NN innovations_NNS in_IN a_DT manner_NN consistent_JJ with_IN the_DT due_JJ process_NN rights_NNS of_IN all_DT interested_JJ persons_NNS ._. 
+
+11_CD Docket_NNP No._NN RM_NNP 2001_CD -_: 3_CD ,_, Order_NNP No._NN 1322_CD ,_, 66_CD Fed_NNP ._. Reg_NNP ._. 54436_CD (_( 2001_CD )_) ._. 
+IV_NNP ._. POSTAL_NNP SERVICE_NNP AUTHORITY_NNP TO_TO ENTER_NNP INTO_NNP NEGOTIATED_NNP RATE_NNP AND_CC SERVICE_NNP AGREEMENTS_NNP WITH_IN INDIVIDUAL_NNP CUSTOMERS_NNP OR_NNP GROUPS_NNP OF_IN CUSTOMERS_NNP TO_TO PROVIDE_NNP SERVICES_NNS 
+
+For_IN a_DT number_NN of_IN years_NNS ,_, some_DT mailers_NNS have_VBP pursued_VBN the_DT idea_NN of_IN establishing_VBG customized_VBN postal_JJ rates_NNS and_CC /_NN or_CC terms_NNS of_IN service_NN through_IN negotiation_NN with_IN the_DT Postal_NNP Service_NNP ._. 
+Depending_VBG on_IN their_PRP$ respective_JJ objectives_NNS and_CC features_NNS ,_, contractual_JJ arrangements_NNS of_IN this_DT kind_NN have_VBP been_VBN labeled_VBN "_'' contract_NN rates_NNS ,_, "_'' "_'' negotiated_VBN service_NN agreements_NNS ,_, "_'' or_CC more_RBR recently_RB ,_, "_'' niche_NN classifications_NNS ._. "_'' 
+In_IN addressing_VBG the_DT consistency_NN of_IN these_DT various_JJ approaches_NNS with_IN current_JJ law_NN ,_, it_PRP is_VBZ important_JJ to_TO identify_VB and_CC consider_VB all_DT of_IN their_PRP$ characteristics_NNS ._. 
+For_IN example_NN ,_, the_DT legality_NN of_IN an_DT agreement_NN may_MD be_VB dependent_JJ on_IN whether_IN the_DT contract_NN is_VBZ agreed_VBN upon_IN and_CC performed_VBN without_IN any_DT regulatory_JJ scrutiny_NN ,_, or_CC instead_RB submitted_VBN for_IN some_DT form_NN of_IN review_NN by_IN the_DT Postal_NNP Rate_NNP Commission_NNP prior_RB to_TO its_PRP$ effectiveness_NN ._. 
+
+A._NN Statutory_NNP Bases_NNP of_IN Potential_JJ Authority_NNP 
+No_DT provision_NN in_IN existing_VBG law_NN explicitly_RB authorizes_VBZ or_CC prohibits_VBZ the_DT Postal_NNP Service_NNP from_IN entering_VBG into_IN rate_NN or_CC service_NN agreements_NNS with_IN mail_NN users_NNS ._. 
+Section_NN 401_CD (_( 3_CD )_) of_IN Title_NNP 39_CD generally_RB empowers_VBZ the_DT Service_NNP "_'' to_TO enter_VB into_IN and_CC perform_VB contracts_NNS ,_, "_'' and_CC there_EX is_VBZ no_DT prohibition_NN elsewhere_RB against_IN the_DT Postal_NNP Service_NNP and_CC mail_NN users_NNS negotiating_VBG and_CC reaching_VBG consensus_NN as_IN to_TO how_WRB rates_NNS or_CC conditions_NNS of_IN service_NN should_MD be_VB changed_VBN ._. 
+However_RB ,_, other_JJ provisions_NNS in_IN Title_NNP 39_CD cast_NN into_IN doubt_NN the_DT conclusion_NN that_IN the_DT Service_NNP 's_POS authority_NN under_IN §_NN 401_CD (_( 3_CD )_) is_VBZ sufficiently_RB broad_JJ to_TO encompass_VB changes_NNS in_IN rates_NNS or_CC mail_NN classifications_NNS by_IN agreement_NN alone_RB ._. 
+
+The_DT obstacles_NNS to_TO this_DT conclusion_NN are_VBP both_DT procedural_JJ and_CC substantive_JJ ._. 
+From_IN a_DT procedural_JJ perspective_NN ,_, the_DT legal_JJ soundness_NN of_IN rate_NN or_CC mail_NN classification_NN changes_NNS by_IN contract_NN alone_RB is_VBZ doubtful_JJ because_IN the_DT only_RB means_NNS of_IN making_VBG such_JJ changes_NNS recognized_VBN in_IN the_DT Reorganization_NNP Act_NNP are_VBP the_DT procedures_NNS prescribed_VBN in_IN Chapter_NN 36_CD of_IN Title_NNP 39_CD ._. 
+These_DT provisions_NNS require_VBP that_DT rate_NN or_CC mail_NN classification_NN changes_NNS desired_VBN by_IN the_DT Postal_NNP Service_NNP must_MD be_VB filed_VBN as_IN a_DT request_NN with_IN the_DT Postal_NNP Rate_NNP Commission_NNP ,_, allowing_VBG for_IN public_JJ scrutiny_NN and_CC deliberations_NNS by_IN the_DT Commission_NNP and_CC the_DT Governors_NNS of_IN the_DT Postal_NNP Service_NNP ._. 
+
+Failure_NN to_TO abide_VB by_IN the_DT procedural_JJ requirements_NNS of_IN Chapter_NN 36_CD has_VBZ been_VBN recognized_VBN as_IN a_DT sufficient_JJ legal_JJ basis_NN for_IN voiding_VBG the_DT intended_JJ change_NN .12_CD 
+
+Negotiated_NNP rate_NN or_CC service_NN changes_NNS also_RB may_MD run_VB afoul_NN of_IN the_DT substantive_JJ standards_NNS prescribed_VBN for_IN rates_NNS and_CC mail_NN classifications_NNS in_IN the_DT Reorganization_NNP Act_NNP ._. Section_NN 403_CD (_( c_SYM )_) of_IN Title_NNP 39_CD directs_VBZ that_IN :_: 
+
+In_IN providing_VBG services_NNS and_CC in_IN establishing_VBG classifications_NNS ,_, rates_NNS ,_, and_CC fees_NNS under_IN this_DT title_NN ,_, the_DT Postal_NNP Service_NNP shall_MD not_RB ,_, except_IN as_RB specifically_RB authorized_VBD in_IN this_DT title_NN ,_, make_VBP any_DT undue_JJ or_CC unreasonable_JJ discrimination_NN among_IN users_NNS of_IN the_DT mails_NNS ,_, nor_CC shall_MD it_PRP grant_VB any_DT undue_JJ or_CC unreasonable_JJ preferences_NNS to_TO any_DT such_JJ user_NN ._. 
+
+Sections_NNP 3622_CD and_CC 3623_CD similarly_RB specify_VB fairness_NN and_CC equity_NN ,_, together_RB with_IN other_JJ criteria_NNS ,_, as_IN considerations_NNS to_TO be_VB observed_VBN in_IN making_VBG rate_NN and_CC mail_NN classification_NN changes_NNS ._. 
+Without_IN public_JJ scrutiny_NN and_CC review_NN of_IN the_DT terms_NNS of_IN a_DT given_JJ rate_NN or_CC service_NN agreement_NN between_IN the_DT Postal_NNP Service_NNP and_CC a_DT customer_NN ,_, there_EX could_MD be_VB no_DT assurance_NN that_IN these_DT substantive_JJ criteria_NNS would_MD be_VB satisfied_VBN ._. 
+
+However_RB ,_, assuming_VBG the_DT procedural_JJ requirements_NNS of_IN Chapter_NN 36_CD are_VBP met_VBN ,_, changes_NNS negotiated_VBN by_IN the_DT Postal_NNP Service_NNP and_CC a_DT mail_NN user_NN for_IN their_PRP$ mutual_JJ benefit_NN may_MD merit_VB recommendation_NN under_IN the_DT applicable_JJ statutory_JJ standards_NNS ._. 
+Section_NN 3623_CD (_( c_SYM )_) directs_VBZ the_DT Commission_NNP to_TO consider_VB "_'' the_DT desirability_NN and_CC justification_NN for_IN special_JJ classifications_NNS and_CC services_NNS of_IN mail_NN "_'' [_NN §_NN 3623_CD (_( c_SYM )_) (_( 2_CD )_) ]_NN and_CC "_'' the_DT desirability_NN of_IN special_JJ classifications_NNS from_IN the_DT point_NN of_IN view_NN of_IN both_DT the_DT user_NN and_CC of_IN the_DT Postal_NNP Service_NNP "_'' [_NN §_NN 3623_CD (_( c_SYM )_) (_( 5_CD )_) ]_NN ._. 
+Regarding_VBG rates_NNS ,_, §_NN 3622_CD (_( b_SYM )_) (_( 6_CD )_) establishes_VBZ "_'' the_DT degree_NN of_IN preparation_NN of_IN mail_NN for_IN delivery_NN into_IN the_DT postal_JJ system_NN performed_VBN by_IN the_DT mailer_NN and_CC its_PRP$ effect_NN upon_IN reducing_VBG costs_NNS to_TO the_DT Postal_NNP Service_NNP "_'' as_IN a_DT factor_NN to_TO be_VB considered_VBN in_IN connection_NN with_IN a_DT proposed_JJ change_NN ._. 
+In_IN combination_NN with_IN other_JJ factors_NNS and_CC the_DT policies_NNS of_IN the_DT Reorganization_NNP Act_NNP ,_, these_DT 
+12_CD United_NNP Parcel_NNP Service_NNP v._NN U. S._NNP Postal_NNP Service_NNP ,_, 455_CD F._NN Supp_NNP ._. 857_CD (_( E.D._NN Pa_NNP ._. 1978_CD )_) ,_, affirmed_VBD ,_, 604_CD F_NN .2_CD d_SYM 1370_CD (_( 3_CD d_SYM Cir_NNP ._. 1979_CD )_) ,_, cert_NN ._. denied_VBD ,_, 446_CD U.S._NNP 957_CD (_( 1980_CD )_) ._. 
+considerations_NNS could_MD support_VB recommendation_NN of_IN rate_NN and_CC classification_NN changes_NNS tailored_VBN to_TO the_DT capabilities_NNS and_CC needs_NNS of_IN particular_JJ mailers_NNS ._. 
+
+Conclusion_NNP :_: Rate_NNP and_CC service_NN agreements_NNS negotiated_VBN by_IN the_DT Postal_NNP Service_NNP and_CC mail_NN users_NNS are_VBP permissible_JJ under_IN current_JJ law_NN if_IN the_DT procedural_JJ and_CC substantive_JJ requirements_NNS of_IN the_DT Postal_NNP Reorganization_NNP Act_NNP are_VBP satisfied_VBN ._. 
+
+B._NN Problematical_NNP "_'' Contract_NN Rates_NNS "_'' In_IN a_DT rulemaking_VBG proceeding_VBG conducted_VBN in_IN the_DT late_JJ 1980s_NN at_IN the_DT request_NN of_IN a_DT mailer_NN ,_, the_DT Commission_NNP addressed_VBD the_DT question_NN of_IN the_DT Postal_NNP Service_NNP 's_POS authority_NN to_TO negotiate_VB rate_NN changes_NNS in_IN the_DT form_NN of_IN a_DT proposal_NN to_TO recognize_VB "_'' contract_NN rates_NNS ._. "_'' 
+After_IN considering_VBG comments_NNS of_IN the_DT Postal_NNP Service_NNP and_CC other_JJ participants_NNS ,_, the_DT Commission_NNP found_VBD the_DT proposal_NN problematical_JJ ,_, and_CC declined_VBD to_TO pursue_VB it_PRP ._. 
+
+The_DT initial_JJ proposal_NN ,_, considered_VBN in_IN Docket_NNP No._NN RM_NNP 89_CD -_: 5_CD ,_, included_VBD two_CD variants_NNS :_: 
+
+1_CD ._. The_DT Commission_NNP might_MD ,_, after_IN considering_VBG cost_NN and_CC other_JJ relevant_JJ evidence_NN ,_, establish_VB a_DT range_NN of_IN permissible_JJ rates_NNS for_IN particular_JJ subclasses_NNS ,_, with_IN the_DT Postal_NNP Service_NNP and_CC individual_JJ mailers_NNS free_JJ thereafter_RB to_TO negotiate_VB rates_NNS within_IN this_DT range_NN ;_: or_CC 
+2_CD ._. The_DT Postal_NNP Service_NNP and_CC one_CD or_CC more_JJR mailers_NNS would_MD negotiate_VB a_DT rate_NN and_CC service_NN package_NN which_WDT would_MD then_RB (_( i_NNP )_) be_VB submitted_VBN to_TO the_DT Commission_NNP for_IN a_DT review_NN ,_, and_CC (_( ii_NN )_) thereafter_RB be_VB available_JJ on_IN the_DT same_JJ terms_NNS to_TO all_DT potential_JJ users_NNS ._. 
+The_DT Commission_NNP solicited_VBD two_CD rounds_NNS of_IN comments_NNS on_IN the_DT proposal_NN from_IN interested_JJ parties_NNS ._. 
+The_DT proponent_NN and_CC one_CD other_JJ mailer_NN took_VBD the_DT position_NN that_IN the_DT Postal_NNP Service_NNP is_VBZ authorized_VBN to_TO enter_VB into_IN such_JJ contracts_NNS ,_, provided_VBD the_DT procedural_JJ requirement_NN of_IN review_NN under_IN Chapter_NN 36_CD is_VBZ observed_VBN ._. 
+Other_JJ commenters-including_JJ the_DT Commission_NNP 's_POS Office_NNP of_IN Consumer_NNP Advocate-expressed_NNP doubts_NNS regarding_VBG the_DT legal_JJ soundness_NN of_IN one_CD or_CC both_DT of_IN the_DT proposed_JJ variants_NNS of_IN such_JJ agreements_NNS ._. 
+The_DT Postal_NNP Service_NNP commented_VBD that_IN ,_, in_IN its_PRP$ view_NN ,_, legal_JJ constraints_NNS would_MD not_RB preclude_VB a_DT contract_NN mechanism_NN in_IN principle_NN ,_, but_CC that_IN no_DT such_JJ arrangement_NN would_MD be_VB permissible_JJ without_IN the_DT Commission_NNP 's_POS participation_NN in_IN accordance_NN with_IN 39_CD U.S.C._NNP §_NN §_NN 3622_CD through_IN 3625_CD ._. 
+
+Upon_IN consideration_NN of_IN the_DT initial_JJ comments_NNS it_PRP received_VBD ,_, the_DT Commission_NNP declined_VBD to_TO pursue_VB the_DT contract_NN rate_NN proposal_NN ,_, but_CC solicited_VBD further_JJ comments_NNS on_IN several_JJ broad_JJ issues_NNS concerning_VBG possible_JJ changes_NNS in_IN the_DT mail_NN classification_NN system_NN ._. 
+The_DT Commission_NNP explained_VBD that_IN its_PRP$ reluctance_NN to_TO pursue_VB the_DT concept_NN of_IN contract_NN rates_NNS was_VBD based_VBN on_IN substantial_JJ uncertainty_NN regarding_VBG the_DT legal_JJ sufficiency_NN of_IN examining_VBG agreed-upon_JJ rates_NNS after_IN the_DT fact_NN ,_, rather_RB than_IN in_IN a_DT prior_JJ review_NN ._. 
+It_PRP also_RB raised_VBD the_DT potential_JJ problems_NNS of_IN unreasonable_JJ discrimination_NN that_IN such_JJ contracts_NNS might_MD cause_VB ,_, in_IN contravention_NN of_IN 39_CD 
+U.S.C._NNP §_NN 403_CD (_( c_SYM )_) ,_, and_CC the_DT preservation_NN of_IN fair_JJ contributions_NNS to_TO the_DT Postal_NNP Service_NNP 's_POS institutional_JJ costs_NNS by_IN mail_NN volumes_NNS .13_CD 
+Such_JJ problems_NNS might_MD well_RB arise_VB if_IN the_DT Service_NNP were_VBD to_TO negotiate_VB "_'' discounted_VBN "_'' rates-unaccompanied_JJ by_IN a_DT change_NN in_IN service_NN conditions_NNS that_WDT provided_VBD cost_NN or_CC revenue_NN justification_NN ._. 
+
+Conclusion_NNP :_: Negotiated_NNP rates-unaccompanied_JJ by_IN a_DT change_NN in_IN service_NN conditions_NNS that_WDT provides_VBZ cost_VBN justification-are_JJ a_DT problematical_JJ approach_NN to_TO introducing_VBG additional_JJ flexibility_NN into_IN Postal_NNP Service_NNP business_NN practices_NNS ._. 
+
+C._NN Negotiated_NNP Service_NNP Agreements_NNP and_CC Specialized_NNP "_'' Niche_NNP Classifications_NNP "_'' Following_VBG publication_NN of_IN the_DT report_NN of_IN the_DT joint_JJ Postal_NNP Service-_NNP Postal_NNP Rate_NNP Commission_NNP task_NN force_NN on_IN ratemaking_VBG ,_, the_DT Postal_NNP Service_NNP petitioned_VBD the_DT Commission_NNP to_TO adopt_VB rules_NNS to_TO implement_VB some_DT of_IN the_DT report_NN 's_POS recommendations_NNS ._. 
+One_CD recommendation_NN included_VBN in_IN the_DT Service_NNP 's_POS petition_NN was_VBD adoption_NN of_IN Commission_NNP rules_NNS for_IN reviewing_VBG on_IN an_DT expedited_JJ basis_NN "_'' service_NN agreements_NNS with_IN postal_JJ customers_NNS ,_, varying_VBG from_IN the_DT general_JJ rate_NN and_CC classifications_NNS schedules_NNS in_IN ways_NNS which_WDT add_VBP value_NN both_DT for_IN the_DT customer_NN and_CC for_IN the_DT postal_JJ system_NN as_IN a_DT whole_NN ._. "_'' 
+14_CD 
+The_DT proposal_NN in_IN the_DT Postal_NNP Service_NNP 's_POS petition_NN would_MD have_VB established_VBN Negotiated_NNP Service_NNP Agreements_NNP as_IN a_DT new_JJ form_NN of_IN mail_NN classification_NN ,_, with_IN individual_JJ agreements_NNS to_TO be_VB reviewed_VBN by_IN the_DT Commission_NNP within_IN 60_CD days_NNS ._. 
+In_IN the_DT Commission_NNP 's_POS Notice_NNP of_IN Proposed_NNP Rulemaking_NNP ,_, it_PRP deferred_VBN consideration_NN of_IN the_DT NSA_NNP proposal_NN ,_, citing_VBG legal_JJ uncertainty_NN regarding_VBG the_DT consistency_NN of_IN negotiated_VBN rates_NNS with_IN the_DT Reorganization_NNP Act_NNP 's_POS 
+
+13_CD Docket_NNP No._NN RM_NNP 89_CD -_: 5_CD ,_, Further_RB Invitation_NNP for_IN Comments_NNS ,_, 54_CD Fed_NNP ._. Reg_NNP ._. 47223_CD (_( 1989_CD )_) ._. 14_CD Postal_NNP Ratemaking_NNP in_IN a_DT Time_NNP of_IN Change_NNP ,_, supra_NN ,_, at_IN 54_CD ._. 
+ratemaking_VBG provisions_NNS ._. 
+However_RB ,_, the_DT Commission_NNP also_RB expressed_VBD a_DT general_JJ willingness_NN to_TO address_VB the_DT concept_NN in_IN a_DT subsequent_JJ rulemaking_VBG ._. 
+
+Since_IN then_RB ,_, the_DT Commission_NNP has_VBZ conducted_VBN several_JJ mail_NN classification_NN proceedings_NNS under_IN the_DT other_JJ expedited_VBN procedures_NNS adopted_VBN in_IN that_DT rulemaking_VBG ._. 
+These_DT procedures_NNS have_VBP been_VBN shown_VBN to_TO be_VB well_RB suited_VBN to_TO the_DT consideration_NN of_IN "_'' niche_NN classification_NN "_'' proposals_NNS ._. 
+Niche_NNP classifications_NNS are_VBP specialized_JJ mail_NN classifications-_NN including_VBG reduced_VBN ,_, but_CC cost-justified_JJ rates_NNS or_CC fees-that_JJ have_VBP been_VBN developed_VBN by_IN the_DT Postal_NNP Service_NNP in_IN direct_JJ consultation_NN with_IN its_PRP$ customers_NNS ,_, to_TO meet_VB the_DT needs_NNS and_CC capabilities_NNS of_IN a_DT mailer_NN or_CC group_NN of_IN mailers_NNS ._. 
+For_IN example_NN ,_, the_DT Commission_NNP approved_VBD a_DT two-year_JJ experiment_NN of_IN a_DT program_NN that_WDT enabled_VBD users_NNS of_IN bulk_NN ,_, nonletter-size_JJ Business_NNP Reply_NNP Mail_NNP such_JJ as_IN photofinishers_NNS that_WDT could_MD reliably_RB determine_VB postage_NN and_CC fees_NNS due_JJ ,_, to_TO obtain_VB earlier_JJR access_NN to_TO their_PRP$ mail_NN at_IN revised_VBN fees_NNS .15_CD 
+The_DT Commission_NNP subsequently_RB granted_VBD a_DT requested_JJ extension_NN of_IN the_DT experiment_NN ,_, 16_CD and_CC ultimately_RB approved_VBD a_DT request_NN to_TO make_VB the_DT experimental_JJ program_NN a_DT permanent_JJ mail_NN classification_NN .17_CD 
+More_RBR recently_RB ,_, in_IN Docket_NNP No._NN MC_NNP 2001_CD -_: 1_CD ,_, the_DT Commission_NNP recommended_VBD three_CD new_JJ worksharing-based_JJ discounted_VBN Priority_NNP Mail_NNP categories_NNS after_IN negotiating_VBG with_IN mailers_NNS who_WP were_VBD willing_JJ to_TO presort_NN their_PRP$ mail_NN in_IN new_JJ ways_NNS that_WDT could_MD reduce_VB the_DT Postal_NNP Service_NNP 's_POS costs_NNS .18_CD 
+Such_JJ "_'' niche_NN classification_NN "_'' proposals_NNS are_VBP essentially_RB Negotiated_NNP Service_NNP Agreements_NNP ,_, without_IN any_DT associated_VBN legal_JJ uncertainties_NNS or_CC additional_JJ administrative_JJ barriers_NNS ._. 
+
+Conclusion_NNP :_: Rate_NNP and_CC service_NN adjustments_NNS agreed_VBD upon_IN by_IN the_DT Postal_NNP Service_NNP and_CC mailers_NNS are_VBP legally_RB authorized_VBN if_IN three_CD conditions_NNS are_VBP satisfied_VBN :_: 
+
+❶_CD The_DT proposal_NN is_VBZ reviewed_VBN in_IN a_DT public_JJ proceeding_NN ,_, as_IN the_DT Reorganization_NNP Act_NNP requires_VBZ ;_: 
+
+❷_CD The_DT agreed-upon_JJ rate_NN and_CC service_NN changes_NNS will_MD work_VB to_TO the_DT mutual_JJ benefit_NN of_IN mail_NN users_NNS and_CC the_DT postal_JJ system_NN as_IN a_DT whole_JJ ;_: and_CC 
+
+15_CD Docket_NNP No._NN MC_NNP 97_CD -_: 1_CD ,_, Opinion_NNP and_CC Recommended_NNP Decision_NNP ,_, April_NNP 2_CD ,_, 1997_CD ._. 
+16_CD Docket_NNP No._NN MC_NNP 99_CD -_: 1_CD ,_, Opinion_NNP and_CC Recommended_NNP Decision_NNP Approving_NNP Revised_VBN Stipulation_NNP and_CC Agreement_NNP ,_, May_NNP 14_CD ,_, 1998_CD ._. 
+17_CD Docket_NNP No._NN MC_NNP 99_CD -_: 2_CD ,_, Opinion_NNP and_CC Recommended_NNP Decision_NNP Approving_NNP Stipulation_NNP and_CC Agreement_NNP ,_, July_NNP 14_CD ,_, 1999_CD ._. 
+18_CD See_VB the_DT description_NN of_IN this_DT proceeding_VBG in_IN the_DT Appendix_NNP ._. 
+❸_CD The_DT negotiated_VBN rate-and-service_JJ package_NN is_VBZ made_VBN available_JJ on_IN the_DT same_JJ terms_NNS to_TO other_JJ potential_JJ users_NNS willing_JJ to_TO meet_VB the_DT same_JJ conditions_NNS of_IN service_NN ._. 
+
+Examples_NNS of_IN "_'' niche_NN classification_NN "_'' proposals_NNS recommended_VBD in_IN recent_JJ Commission_NNP proceedings_NNS ,_, and_CC Postal_NNP Service_NNP product_NN innovations_NNS considered_VBN in_IN other_JJ cases_NNS ,_, are_VBP described_VBN in_IN the_DT Appendix_NNP to_TO this_DT report_NN ._. 
+
+Report_NNP To_TO The_DT Congress_NNP Appendix_NNP Feb_NNP ._. 11_CD ,_, 2002_CD Page_NNP 1_CD of_IN 2_CD 
+Postal_NNP Service_NNP Product_NNP Innovations_NNP and_CC Special-_NNP Purpose_NNP Mail_NNP Classification_NNP Changes_NNS Reviewed_NNP by_IN the_DT Postal_NNP Rate_NNP Commission_NNP Since_IN January_NNP 1_CD ,_, 2000_CD 
+Docket_NNP No._NN MC_NNP 2001_CD -_: 1_CD -_: Experimental_NNP Presorted_NNP Priority_NNP Mail_NNP Rate_NNP Categories_NNP •_NN Nature_NNP of_IN service_NN or_CC change_NN :_: Experimental_NNP trial_NN of_IN three_CD new_JJ presorted_JJ rate_NN categories_NNS of_IN Priority_NNP Mail_NNP ._. 
+•_NN Target_NNP users_NNS :_: Mailers_NNP who_WP can_MD meet_VB minimum_JJ quantity_NN ,_, mail_NN preparation_NN and_CC containerization_NN requirements_NNS for_IN presorting_VBG their_PRP$ Priority_NNP Mail_NNP shipments_NNS ._. 
+•_NN Rate_NNP (_( s_VBZ )_) and_CC justification_NN :_: Three_CD levels_NNS of_IN presort_NN discounts_NNS based_VBN on_IN processing_NN costs_NNS bypassed_JJ because_IN of_IN worksharing_VBG by_IN mailers_NNS ._. 
+•_NN Procedural_NNP history_NN :_: Request_NNP filed_VBN by_IN Postal_NNP Service_NNP on_IN March_NNP 7_CD ,_, 2001_CD ._. 
+Settlement_NNP agreement_NN among_IN parties_NNS filed_VBN on_IN May_NNP 17_CD ,_, 2001_CD ._. 
+PRC_NNP decision_NN approving_VBG settlement_NN agreement_NN transmitted_VBD to_TO Postal_NNP Service_NNP Governors_NNS on_IN May_NNP 25_CD ,_, 2001_CD ._. 
+Governors_NNS approved_VBD PRC_NNP decision_NN on_IN June_NNP 4_CD ,_, 2001_CD ._. 
+Docket_NNP No._NN MC_NNP 2000_CD -_: 1_CD -_: Experimental_NNP "_'' Ride-_NNP Along_IN "_'' Classification_NNP Change_NNP for_IN Periodicals_NNP •_NN Nature_NNP of_IN service_NN or_CC change_NN :_: Experiment_NNP allowing_VBG one_CD piece_NN of_IN advertising_NN matter_NN to_TO "_'' ride-along_JJ "_'' in_IN a_DT Periodicals_NNP publication_NN for_IN a_DT flat_JJ additional_JJ ten-cent_JJ rate_NN ._. 
+•_NN Target_NNP users_NNS :_: Publishers_NNPS who_WP wish_VBP to_TO include_VB innovative_JJ advertisements_NNS in_IN their_PRP$ periodicals_NNS at_IN a_DT more_RBR affordable_JJ rate_NN than_IN Standard_NNP A_DT postage_NN ._. 
+•_NN Rate_NNP (_( s_VBZ )_) and_CC justification_NN :_: Flat_JJ ten-cent_JJ rate_NN available_JJ only_RB for_IN "_'' ride-along_JJ "_'' pieces_NNS that_WDT do_VBP not_RB cause_VB any_DT significant_JJ additional_JJ mail_NN processing_NN or_CC delivery_NN costs_NNS ._. 
+•_NN Procedural_NNP history_NN :_: Request_NNP filed_VBN by_IN Postal_NNP Service_NNP on_IN September_NNP 27_CD ,_, 1999_CD ._. 
+Settlement_NNP agreement_NN among_IN parties_NNS filed_VBN on_IN December_NNP 20_CD ,_, 1999_CD ._. 
+PRC_NNP decision_NN approving_VBG settlement_NN agreement_NN transmitted_VBD to_TO Postal_NNP Service_NNP Governors_NNS on_IN February_NNP 3_CD ,_, 2000_CD ._. 
+Governors_NNS approved_VBD PRC_NNP decision_NN on_IN February_NNP 8_CD ,_, 2000_CD ._. 
+➨_NN Update_NNP :_: Postal_NNP Service_NNP request_NN for_IN permanent_JJ authority_NN filed_VBD September_NNP 24_CD ,_, 2001_CD in_IN Docket_NNP No._NN R_NN 2001_CD -_: 1_CD ._. 
+Action_NNP by_IN Commission_NNP is_VBZ pending_VBG ._. 
+Postal_NNP Service_NNP Request_NNP for_IN extension_NN of_IN experiment_NN filed_VBN in_IN Docket_NNP No._NN 
+MC_NNP 2001_CD -_: 3_CD on_IN September_NNP 28_CD ,_, 2001_CD ._. 
+PRC_NNP decision_NN approving_VBG request_NN transmitted_VBD to_TO Postal_NNP Service_NNP Governors_NNS on_IN January_NNP 11_CD ,_, 2002_CD ._. 
+
+Report_NNP To_TO The_DT Congress_NNP Appendix_NNP Feb_NNP ._. 11_CD ,_, 2002_CD Page_NNP 2_CD of_IN 2_CD 
+Docket_NNP No._NN MC_NNP 2000_CD -_: 2_CD -_: Mailing_NNP Online_NNP Experiment_NNP •_NN Nature_NNP of_IN service_NN or_CC change_NN :_: Experimental_NNP service_NN enabling_VBG computer_NN users_NNS to_TO transmit_VB documents_NNS in_IN electronic_JJ form_NN to_TO Postal_NNP Service_NNP for_IN printing_NN ,_, processing_NN ,_, and_CC delivery_NN as_IN Express_NNP Mail_NNP ,_, First-_NNP Class_NNP Mail_NNP or_CC Standard_NNP A_DT Mail_NNP ._. 
+•_NN Target_NNP users_NNS :_: Single-piece_NNP mailers_NNS and_CC small_JJ office_NN /_NN home_NN office_NN (_( SOHO_NNP )_) operators_NNS who_WP have_VBP difficulty_NN taking_VBG advantage_NN of_IN traditional_JJ mail_NN service_NN providers_NNS ._. 
+•_NN Rate_NNP (_( s_VBZ )_) and_CC justification_NN :_: Applicable_NNP bulk_NN mailing_NN rate_NN plus_CC fee_NN to_TO recover_VB costs_NNS of_IN printing_NN ,_, technological_JJ resources_NNS ,_, advertising_NN and_CC other_JJ program-related_JJ expenses_NNS ._. 
+•_NN Procedural_NNP history_NN :_: Market_NNP test_NN of_IN same_JJ service_NN approved_VBN by_IN PRC_NNP in_IN Docket_NNP No._NN MC_NNP 98_CD -_: 1_CD ._. 
+Request_NNP for_IN three-year_JJ experiment_NN filed_VBN by_IN Postal_NNP Service_NNP on_IN November_NNP 16_CD ,_, 1999_CD ._. 
+Hearings_NNS held_VBD December_NNP ,_, 1999_CD through_IN February_NNP ,_, 2000_CD ._. 
+PRC_NNP decision_NN approving_VBG proposal_NN ,_, with_IN recommended_JJ fee_NN modifications_NNS ,_, on_IN June_NNP 21_CD ,_, 2000_CD ._. 
+Governors_NNS approved_VBD PRC_NNP decision_NN on_IN August_NNP 7_CD ,_, 2000_CD ._. 
+Docket_NNP No._NN MC_NNP 2001_CD -_: 2_CD -_: Experimental_NNP Seasonal_NNP Delivery_NN Confirmation_NNP Fee_NN •_NN Nature_NNP of_IN service_NN or_CC change_NN :_: Experiment_NNP to_TO provide_VB manual_JJ delivery_NN confirmation_NN without_IN charge_NN to_TO retail_VB Priority_NNP Mail_NNP users_NNS during_IN two_CD weeks_NNS before_IN the_DT peak_NN of_IN the_DT holiday_NN mailing_NN season_NN ._. 
+•_NN Target_NNP users_NNS :_: Small_JJ volume_NN mailers_NNS that_WDT might_MD be_VB made_VBN more_RBR inclined_JJ to_TO mail_VB before_IN the_DT holiday_NN peak_NN ,_, and_CC that_IN also_RB might_MD ,_, as_IN a_DT result_NN of_IN the_DT test_NN ,_, increase_NN their_PRP$ purchases_NNS of_IN delivery_NN confirmation_NN service_NN in_IN the_DT future_NN ._. 
+•_NN Rate_NNP (_( s_VBZ )_) and_CC justification_NN :_: Delivery_NN confirmation_NN to_TO be_VB available_JJ at_IN no_DT charge_NN to_TO retail_VB Priority_NNP Mail_NNP users_NNS during_IN the_DT early_JJ stages_NNS of_IN the_DT holiday_NN season_NN ._. 
+•_NN Procedural_NNP History_NN :_: Request_NNP Filed_NNP by_IN Postal_NNP Service_NNP September_NNP 20_CD ,_, 2001_CD ._. 
+Postal_NNP Service_NNP withdrew_VBD request_NN on_IN November_NNP 5_CD ,_, 2001_CD because_IN the_DT disruption_NN of_IN other_JJ events_NNS made_VBD conducting_VBG the_DT experiment_NN inadvisable_JJ ._. 

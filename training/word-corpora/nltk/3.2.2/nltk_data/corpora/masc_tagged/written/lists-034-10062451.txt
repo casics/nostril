@@ -1,0 +1,22 @@
+docno_NN =_SYM "_'' lists-_NN 034_CD -_: 10062451_CD "_'' name_NN =_SYM "_'' Tom_NNP Stephens_NNP "_'' email_NN =_SYM "_'' tomste@microsoft.com_NN "_'' sent_VBD =_SYM "_'' Fri_NNP ,_, 19_CD Apr_NNP 1996_CD 19:32:07_NN -_: 0700_CD "_'' subject_JJ =_SYM "_'' RE_NNP :_: Merged_NNP Transport_NNP Layer_NNP Protocol_NNP Development_NNP "_'' To_TO :_: "_'' '_' ietf-tls@w3.org_NN '_' "_'' <_NN ietf-tls@w3.org_NN >_NN Cc_NNP :_: "_'' '_' tls-draft@w3.org_NN '_' "_'' <_NN tls-draft@w3.org_NN >_NN Tls-draft_NNP was_VBD created_VBN specifically_RB as_IN a_DT forum_NN for_IN the_DT discussion_NN of_IN the_DT Microsoft_NNP STLP_NNP strawman_NN document_NN ._. 
+The_DT reason_NN for_IN this_DT is_VBZ that_IN the_DT STLP_NNP strawman_NN document_NN is_VBZ not_RB an_DT official_JJ IETF_NNP document_NN ._. 
+Win_NNP Treese_NNP ,_, Microsoft_NNP and_CC Netscape_NNP did_VBD not_RB want_VB this_DT document_NN to_TO be_VB confused_VBN in_IN any_DT way_NN with_IN the_DT actual_JJ spec_NN that_WDT is_VBZ being_VBG developed_VBN by_IN the_DT working_VBG group_NN ._. 
+
+However_RB ,_, since_IN the_DT consensus_NN of_IN the_DT emails_NNS is_VBZ to_TO discuss_VB the_DT STLP_NNP strawman_NN document_NN on_IN ietf-tls_JJ ,_, then_RB Microsoft_NNP does_VBZ not_RB object_VB ._. 
+To_TO facilitate_VB the_DT discussion_NN ,_, you_PRP can_MD find_VB the_DT STLP_NNP strawman_NN document_NN at_IN :_: http://pct.microsoft.com/stlp._NN 
+
+Tom_NNP Stephens_NNP 
+>_NN ----------_: >_NN From_IN :_: Eric_NNP Murray[SMTP:ericm@lne.com]_NN >_NN Sent_NNP :_: Friday_NNP ,_, April_NNP 19_CD ,_, 1996_CD 3:18_NN PM_NNP >_NN To_TO :_: Tom_NNP Stephens_NNP >_NN Cc_NNP :_: ietf-tls@w3.org_NN >_NN Subject_NNP :_: Re_NNP :_: Merged_NNP Transport_NNP Layer_NNP Protocol_NNP Development_NNP >_NN Tom_NNP Stephens_NNP writes_VBZ :_: 
+>_NN >_NN >_NN >_NN David_NNP made_VBD some_DT excellent_JJ points_NNS regarding_VBG STLP_NNP ._. 
+These_DT points_NNS and_CC >_NN >_NN others_NNS will_MD be_VB discussed_VBN in_IN some_DT detail_NN on_IN tls-draft@w3.org_NN -_: as_IN that_DT is_VBZ >_NN >_NN the_DT alias_NNS for_IN discussion_NN of_IN the_DT STLP_NNP strawman_NN document_NN ._. 
+If_IN you_PRP are_VBP not_RB >_NN >_NN a_DT member_NN of_IN that_DT alias_NNS ,_, I_PRP would_MD strongly_RB encourage_VB you_PRP to_TO join_VB and_CC >_NN >_NN >_NN participate_VB in_IN the_DT discussion_NN ._. 
+To_TO join_VB the_DT tls-draft_JJ alias_NNS ,_, send_VBP an_DT >_NN >_NN >_NN mail_NN to_TO tls-draft-request@w3.org_NN with_IN the_DT word_NN "_'' subscribe_VB "_'' in_IN the_DT >_NN >_NN subject_JJ line_NN ._. 
+
+>_NN Perhaps_RB I_PRP do_VBP n't_RB understand_VB IETF_NNP procedure_NN ,_, but_CC I_PRP am_VBP puzzled_VBN as_IN to_TO why_WRB >_NN there_EX is_VBZ now_RB a_DT second_JJ mailing_NN list_NN ._. 
+It_PRP 's_VBZ not_RB like_IN the_DT original_JJ >_NN TLS_NNP list_NN is_VBZ getting_VBG too_RB much_JJ traffic_NN ._. 
+
+>_NN In_IN fact_NN ,_, it_PRP 's_VBZ not_RB getting_VBG enough_JJ traffic_NN ..._... for_IN one_CD ,_, I_PRP ca_MD n't_RB find_VB any_DT >_NN reference_NN to_TO any_DT mail_NN that_WDT included_VBD the_DT URL_NNP for_IN the_DT STLP_NNP "_'' strawman_NN "_'' ._. 
+
+>_NN Where_WRB is_VBZ it_PRP ?_. 
+
+>_NN --_: >_NN Eric_NNP Murray_NNP ericm@lne.com_NN ericm@motorcycle.com_NN >_NN http://www.lne.com/ericm_NN >_NN PGP_NNP keyid_NN :_: E_NNP 03_CD F_NN 65_CD E_NNP 5_CD fingerprint_NN :_: 50_CD B_NNP 0_CD A_DT 2_CD 4_CD C_NNP 7_CD D_NNP 86_CD FC_NNP 03_CD 92_CD E_NNP 8_CD AC_NNP E_NNP 6_CD 7_CD E_NNP >_NN 27_CD 29_CD AF_NNP 

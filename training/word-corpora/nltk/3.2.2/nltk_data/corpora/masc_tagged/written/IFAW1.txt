@@ -1,0 +1,73 @@
+IFAW_NNP 
+ANIMAL_NNP 
+SANCTUARY_NNP 
+FUND_NNP 
+Your_PRP$ donation_NN will_MD help_VB give_VB an_DT animal_NN a_DT safe_JJ home_NN !_. 
+Dear_RB Ms._NN LastName_NNP 
+I_PRP wanted_VBD to_TO personally_RB write_VB you_PRP and_CC give_VB you_PRP our_PRP$ 2001_CD Collectible_NNP Calendar_NNP and_CC talk_NN about_IN animals_NNS in_IN danger_NN -_: a_DT cause_NN we_PRP both_DT care_NN deeply_RB about_IN ._. 
+
+Please_VB take_VB a_DT moment_NN to_TO look_VB over_IN the_DT enclosed_VBN 2001_CD Animal_NNP Sanctuary_NNP Calendar_NNP ._. 
+Be_VB sure_JJ to_TO write_VB me_PRP back_RB to_TO let_VB me_PRP know_VB your_PRP$ 2001_CD Calendar_NNP has_VBZ arrived_VBN m_NN good_JJ order_NN ._. 
+I_PRP ’m_VBP sure_JJ you_PRP will_MD want_VB to_TO keep_VB it_PRP and_CC prominently_RB display_VB it_PRP to_TO enjoy_VB these_DT striking_JJ wildlife_NN images_NNS ._. 
+
+Don_NNP ’_NN t_NN you_PRP agree_VBP that_IN the_DT lion_NN and_CC baby_NN seal_NN are_VBP looking_VBG right_NN into_IN your_PRP$ eyes_NNS ?_. 
+The_DT mother_NN elephant_NN has_VBZ a_DT watchful_JJ eye_NN on_IN her_PRP$ young_JJ calf_NN ._. 
+And_CC if_IN you_PRP have_VBP ever_RB experienced_VBN to_TO sight_NN of_IN a_DT diving_JJ dolphin_NN ,_, you_PRP will_MD be_VB brought_VBN instantly_RB back_RB to_TO that_DT exciting_JJ moment_NN when_WRB turning_VBG to_TO our_PRP$ August_NNP image_NN ._. 
+
+Can_MD you_PRP imagine_VB the_DT lion_NN on_IN our_PRP$ calendar_NN cover_NN being_VBG cruelly_RB killed_VBN for_IN a_DT hunter_NN ’_NN s_VBZ trophy_NN ?_. 
+
+Can_MD you_PRP imagine_VB the_DT baby_NN seal_NN crying_VBG out_IN for_IN fear_NN as_IN a_DT sealer_NN raises_VBZ his_PRP$ club_NN ?_. 
+
+Can_MD you_PRP picture_VBP the_DT baby_NN elephant_NN and_CC mother_NN with_IN no_DT place_NN safe_JJ to_TO rest_VB and_CC find_VB water_NN ?_. 
+
+Many_JJ of_IN our_PRP$ critics_NNS say_VBP that_IN you_PRP and_CC I_PRP who_WP love_VBP animals_NNS attribute_VBP intelligent_JJ and_CC sensitive_JJ qualities_NNS to_TO “_NN stupid_JJ ,_, non-feeling_JJ ”_NN animals_NNS ._. 
+But_CC our_PRP$ ability_NN to_TO feel_VB the_DT fear_NN and_CC know_VB the_DT pain_NN that_IN animals_NNS experience_VBP is_VBZ no_DT “_NN error_NN in_IN judgement_NN ”_NN nor_CC “_NN overblown_JJ sentimentality_NN ”_NN …_NN it_PRP is_VBZ real_JJ ._. 
+It_PRP is_VBZ humane_NN ._. 
+
+The_DT International_NNP Fund_NNP for_IN Animal_NNP Welfare_NNP is_VBZ one_CD of_IN the_DT largest_JJS ,_, most_RBS effective_JJ animal_NN welfare_NN organizations_NNS in_IN the_DT world_NN with_IN a_DT special_JJ mission_NN to_TO save_VB animals_NNS ’_NN lives_NNS ,_, prevent_VB cruelty_NN ,_, and_CC protect_VB natural_JJ habitat_NN for_IN wildlife_NN to_TO live_VB and_CC enjoy_VB life_NN in_IN harmony_NN with_IN man_NN ._. 
+
+Too_RB ,_, too_RB often_RB ,_, man_NN has_VBZ not_RB been_VBN a_DT good_JJ neighbor_NN to_TO animals_NNS ._. 
+Whether_IN we_PRP talk_VBP about_IN clubbing_VBG baby_NN seals_NNS to_TO death_NN for_IN their_PRP$ beautiful_JJ pelts_NNS ,_, or_CC butchering_VBG elephants_NNS with_IN hacksaws_NNS for_IN their_PRP$ ivory_NN ,_, or_CC trapping_VBG animals_NNS in_IN steel-jaw_JJ leghold_NN traps_NNS where_WRB the_DT pain_NN is_VBZ so_RB excruciating_VBG they_PRP have_VBP been_VBN known_VBN to_TO chew_VB off_RP a_DT leg_NN to_TO escape_VB ,_, we_PRP stand_VBP guard_NN for_IN all_DT animals_NNS ._. 
+
+All_DT animals_NNS need_VBP a_DT place_NN to_TO “_NN get_VB to_TO ”_NN in_IN order_NN to_TO be_VB safe_JJ from_IN bullets_NNS ,_, cruelty_NN ,_, traps_NNS and_CC clubs_NNS ._. 
+
+IFAW_NNP ’_NN P.O._NN Box_NNP I_PRP 93_CD Yarmouth_NNP Port_NNP ,_, MA_NNP 02615-01_CD ‘_NN www.lfaw.org_NN 
+IFAW_NNP is_VBZ now_RB launching_VBG our_PRP$ year_NN 2001_CD Animal_NNP Sanctuary_NNP Fund_NNP to_TO provide_VB safe_JJ places_NNS for_IN animals_NNS to_TO live_VB out_IN of_IN the_DT danger_NN tat_NN comes_VBZ from_IN humans_NNS and_CC loss_NN of_IN habitat_NN ._. 
+This_DT is_VBZ a_DT new_JJ ,_, special_JJ project_NN that_WDT has_VBZ been_VBN expanded_VBN into_IN a_DT permanent_JJ program_NN ._. 
+
+Whether_IN it_PRP is_VBZ to_TO fund_VB additional_JJ land_NN for_IN the_DT Addo_NNP elephant_NN park_NN in_IN South_NNP Africa_NNP where_WRB 29_CD calves_NNS were_VBD born_VBN this_DT year_NN or_CC our_PRP$ partnership_NN with_IN Future_NNP Generations_NNP to_TO save_VB vital_JJ habitat_NN for_IN moon_NN bears_VBZ ,_, bengal_NN tigers_NNS and_CC other_JJ animals_NNS ,_, or_CC our_PRP$ response_NN to_TO move_VB orphaned_VBN lions_NNS to_TO 500_CD acres_NNS of_IN protected_VBN African_JJ bush_NN where_WRB they_PRP will_MD live_VB safely_RB for_IN the_DT rest_NN of_IN their_PRP$ lives_NNS …_NN we_PRP are_VBP committed_VBN to_TO the_DT concept_NN of_IN ANIMAL_NNP SANCTUARIES_NNP ._. 
+
+I_PRP ’m_VBP positive_JJ you_PRP agree_VBP with_IN this_DT most_RBS basic_JJ ,_, humane_NN approach_NN ._. 
+I_PRP won_VBD ’_NN t_NN even_RB ask_VB if_IN you_PRP support_VBP this_DT program_NN ._. 
+but_CC rather_RB ,_, I_PRP must_MD ask_VB how_WRB much_JJ you_PRP can_MD afford_VB to_TO support_VB this_DT Animal_NNP Sanctuary_NNP Fund_NNP today_NN ?_. 
+
+I_PRP do_VBP not_RB like_IN to_TO ask_VB for_IN money_NN No_DT one_NN does_VBZ ._. 
+But_CC money_NN gives_VBZ us_PRP the_DT POWER_NNP TO_TO PROTECT_NNP AND_CC DEFEND_NNP THE_DT VOICELESS_NNP ._. 
+
+Will_MD you_PRP please_VB join_VB with_IN me_PRP today_NN to_TO help_VB save_VB animals_NNS from_IN pain_NN ,_, suffering_VBG ,_, hunger_NN ,_, hunting_NN and_CC abuse_NN ?_. 
+
+Your_PRP$ gift_NN will_MD help_VB give_VB an_DT animal_NN a_DT safe_JJ home_NN ._. 
+
+Be_VB absolutely_RB sure_JJ ,_, your_PRP$ donations_NNS do_VBP save_VB lives_NNS ._. 
+For_IN 31_CD years_NNS ,_, our_PRP$ name_NN has_VBZ been_VBN associated_VBN throughout_IN the_DT world_NN wit_NN saving_VBG innocent_JJ animals_NNS ._. 
+Many_JJ people_NNS know_VBP us_PRP as_IN the_DT Save_VB the_DT Seals_NNP people_NNS and_CC we_PRP have_VBP saved_VBN thousands_NNS of_IN animals_NNS -_: seals_NNS ,_, elephants_NNS ,_, cats_NNS ,_, dogs_NNS ,_, bears_VBZ ,_, whales_NNS ._. 
+This_DT new_JJ program_NN will_MD be_VB a_DT huge_JJ success_NN with_IN your_PRP$ help_NN ._. 
+
+I_PRP thought_VBD you_PRP would_MD enjoy_VB our_PRP$ 2001_CD Animal_NNP Sanctuary_NNP Calendar_NNP ._. 
+It_PRP is_VBZ a_DT unique_JJ gift_NN to_TO you_PRP for_IN taking_VBG your_PRP$ time_NN to_TO hear_VB my_PRP$ vision_NN of_IN new_JJ safety_NN for_IN the_DT world_NN ’_NN s_VBZ animals_NNS and_CC my_PRP$ request_NN for_IN your_PRP$ hard-earned_JJ money_NN 
+The_DT simple_JJ fact_NN is_VBZ we_PRP can_MD not_RB continue_VB without_IN your_PRP$ generous_JJ gifts_NNS ._. 
+Gifts_NNP of_IN $100_NN ,_, $25_NN ,_, and_CC $15_NN all_DT are_VBP important_JJ to_TO keep_VB our_PRP$ Animal_NNP Sanctuary_NNP Fund_NNP operating_VBG ._. 
+
+Please_VB rush_NN me_PRP your_PRP$ generous_JJ gift_NN of_IN $100_NN or_CC $15_NN today_NN while_IN these_DT endangered_JJ animals_NNS are_VBP on_IN your_PRP$ mind_NN and_CC in_IN your_PRP$ heart_NN ._. 
+
+Animals_NNS don_VB ’_NN t_NN ask_VB for_IN much_JJ of_IN us_PRP ._. 
+All_DT they_PRP need_VBP is_VBZ safe_JJ homeland_NN and_CC freedom_NN from_IN pain_NN and_CC fear_NN ._. 
+Your_PRP$ donation_NN today_NN could_MD save_VB a_DT life_NN tomorrow_NN 
+
+For_IN the_DT animals_NNS ,_, 
+Fred_NNP ORegan_NNP 
+President_NNP 
+
+PS_NNP ._. Please_VB enjoy_VB the_DT photographs_NNS of_IN the_DT animals_NNS you_PRP are_VBP so_RB generously_RB befriending_VBG ._. 
+And_CC please_VB use_NN the_DT enclosed_VBN 2001_CD Calendar_NNP Reply_NNP when_WRB writing_VBG me_PRP back_RB ._. 
+

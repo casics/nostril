@@ -1,0 +1,10 @@
+docno_NN =_SYM "_'' lists-_NN 034_CD -_: 10066763_CD "_'' name_NN =_SYM "_'' Holger_NNP Reif_NNP "_'' email_NN =_SYM "_'' Holger.Reif@prakinf.tu-ilmenau.de_NN "_'' sent_VBD =_SYM "_'' Mon_NNP ,_, 22_CD Apr_NNP 96_CD 08:02:05_NN +_NN 0200_CD "_'' subject_JJ =_SYM "_'' RE_NNP :_: Merged_NNP Transport_NNP Layer_NNP Protocol_NNP Development_NNP "_'' To_TO :_: tomste@microsoft.com_NN Cc_NNP :_: tls-draft@w3.org_NN >_NN strawman_NN document_NN is_VBZ not_RB an_DT official_JJ IETF_NNP document_NN ._. 
+Win_NNP Treese_NNP ,_, >_NN Microsoft_NNP and_CC Netscape_NNP did_VBD not_RB want_VB this_DT document_NN to_TO be_VB confused_VBN in_IN any_DT >_NN way_NN with_IN the_DT actual_JJ spec_NN that_WDT is_VBZ being_VBG developed_VBN by_IN the_DT working_VBG group_NN ._. 
+
+I_PRP 'm_VBP yet_RB to_TO read_VB the_DT document_NN in_IN detail_NN but_CC this_DT sounds_VBZ like_IN we_PRP are_VBP going_VBG to_TO have_VB a_DT IETF-Standard_NNP and_CC an_DT a_DT separate_JJ NS_NNP /_NN MS_NNP standard_NN ?_. ?_. ?_. 
+
+This_DT is_VBZ not_RB a_DT good_JJ thing_NN ._. 
+
+read_VB you_PRP later_RB -_: Holger_NNP Reif_NNP 
+
+----------------------------------------_: Signaturprojekt_NNP Deutsche_NNP Einheit_NNP TU_NNP Ilmenau_NNP -_: Informatik_NNP -_: Telematik_NNP (_( Verdamp_NNP lang_NN her_PRP$ )_) Holger.Reif@PrakInf.TU-Ilmenau.DE_NN Alt_NNP wie_NN ein_NN Baum_NNP werden_NN ,_, um_UH ueber_NN http://Remus.PrakInf.TU-Ilmenau.DE/Reif/_NN alle_NN 7_CD Bruecken_NNP gehen_NN zu_NN koennen_NN 

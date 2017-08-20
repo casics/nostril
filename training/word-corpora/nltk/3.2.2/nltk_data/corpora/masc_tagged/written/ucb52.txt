@@ -1,0 +1,19 @@
+From_IN :_: "_'' BOA@service.net_NNP "_'' <_NN bankofamerica@service.net_NN >_NN Subject_NNP :_: Please_VB Sign_NNP In_IN to_TO your_PRP$ account_NN as_RB soon_RB as_IN possible_JJ !_. Date_NN :_: Tue_NNP ,_, 25_CD Sep_NNP 2007_CD 20:06:36_NN -_: 0400_CD We_PRP regret_VBP to_TO inform_VB you_PRP that_IN your_PRP$ Bank_NNP of_IN America_NNP online_NN banking_NN account_NN has_VBZ been_VBN suspended_VBN ._. 
+
+Please_VB understand_VB that_IN this_DT drastic_JJ measure_NN was_VBD taken_VBN in_IN order_NN to_TO protect_VB your_PRP$ online_NN privacy_NN ._. 
+
+Bank_NNP of_IN America_NNP tracks_VBZ all_DT online_NN activity_NN ._. 
+This_DT tracking_JJ system_NN tells_VBZ us_PRP ,_, among_IN others_NNS ,_, if_IN you_PRP are_VBP using_VBG your_PRP$ account_NN from_IN a_DT different_JJ computer_NN (_( s_VBZ )_) than_IN the_DT one_CD you_PRP registered_VBD on_IN ._. 
+We_PRP recently_RB noticed_VBD that_IN your_PRP$ account_NN has_VBZ been_VBN accessed_JJ from_IN several_JJ foreign_JJ IP_NNP addresses_NNS ._. 
+
+If_IN you_PRP were_VBD traveling_VBG and_CC you_PRP accessed_JJ your_PRP$ account_NN from_IN a_DT foreign_JJ country_NN we_PRP are_VBP sorry_JJ for_IN the_DT inconvenience_NN ,_, regardless_RB ,_, such_JJ suspicious_JJ action_NN was_VBD treated_VBN as_IN an_DT attempt_NN to_TO obtain_VB your_PRP$ personal_JJ information_NN ._. 
+
+Please_VB Sign_NNP In_IN to_TO your_PRP$ account_NN as_RB soon_RB as_IN possible_JJ and_CC verify_VB your_PRP$ identity_NN in_IN order_NN to_TO unlock_VBP your_PRP$ account_NN 
+
+Follow_VB this_DT link_NN to_TO the_DT login_NN page_NN :_: https://www.bankofamerica.com/index.jsp_NN 
+
+Thank_VB you_PRP for_IN your_PRP$ understanding_NN and_CC patience_NN in_IN these_DT matter_NN ._. 
+
+©_NN 2007_CD Bank_NNP of_IN America_NNP Corporation_NNP ._. 
+All_DT rights_NNS reserved_VBN ._. 
+

@@ -1,0 +1,12 @@
+From_IN :_: "_'' Bank_NNP of_IN America_NNP "_'' <_NN security@bankofamerica.com_NN >_NN Subject_NNP :_: All_DT accounts_NNS have_VBP been_VBN temporarly_RB suspended_VBN !_. Date_NN :_: Tue_NNP ,_, 25_CD Sep_NNP 2007_CD 10:43:17_NN -_: 0400_CD You_PRP have_VBP 1_CD new_JJ message_NN alert_NN 
+
+Currently_RB we_PRP are_VBP trying_VBG to_TO upgrade_VB our_PRP$ on-line_JJ security_NN measures_NNS ._. 
+All_DT accounts_NNS have_VBP been_VBN temporarly_RB suspended_VBN untill_NN each_DT person_NN completes_VBZ our_PRP$ secure_VB online_NN form_NN ._. 
+For_IN this_DT operation_NN you_PRP will_MD be_VB required_VBN to_TO pass_VB trough_NN a_DT series_NN of_IN authentifications_NNS ._. 
+To_TO begin_VB unlocking_VBG your_PRP$ Online_NNP Internet_NNP Banking_NNP account_NN please_VB click_NN the_DT link_NN below_IN :_: 
+https://www.bankofamerica.com/index.jsp_NN 
+
+
+©_NN 2007_CD Bank_NNP of_IN America_NNP Corporation_NNP ._. 
+All_DT rights_NNS reserved_VBD ©_NN 2007_CD 
+

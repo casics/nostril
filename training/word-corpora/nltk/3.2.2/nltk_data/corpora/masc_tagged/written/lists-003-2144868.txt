@@ -1,0 +1,5 @@
+docno_NN =_SYM "_'' lists-_NN 003_CD -_: 2144868_CD "_'' received_VBD =_SYM "_'' Tue_NNP May_NNP 18_CD 20:20:31_NN 1993_CD EST_NNP "_'' sent_VBD =_SYM "_'' Wed_NNP ,_, 19_CD May_NNP 1993_CD 12:17:09_NN +_NN 0900_CD (_( JST_NNP )_) "_'' name_NN =_SYM "_'' Masataka_NNP Ohta_NNP "_'' email_NN =_SYM "_'' mohta@necom830.cc.titech.ac.jp_NN "_'' subject_JJ =_SYM "_'' Re_NNP :_: CHARSET_NNP considerations_NNS "_'' id_NN =_SYM "_'' 9305190317.AA01493@necom830.cc.titech.ac.jp_NN "_'' inreplyto_NN =_SYM "_'' 01GYBXHRZVEA8Y5JAE@INNOSOFT.COM_NN "_'' To_TO :_: TROTH@ricevm1.rice.edu_NN (_( Rick_NNP Troth_NNP )_) Cc_NNP :_: scs@adam.mit.edu_NN ,_, pine-info@cac.washington.edu_NN ,_, ietf-charsets@INNOSOFT.COM_NN ,_, I_PRP do_VBP n't_RB know_VB what_WP pine_VBP is_VBZ ._. 
+
+But_CC ,_, could_MD you_PRP please_VB discuss_VB on_IN pine_VBP specific_JJ features_NNS in_IN pine_VBP ML_NNP only_RB ?_. 
+
+Masataka_NNP Ohta_NNP 

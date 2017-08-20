@@ -1,0 +1,48 @@
+October_NNP 7_CD ,_, 1996_CD 
+
+Name_NN Address_NNP City_NNP ,_, ST_NNP Zip_NNP 
+
+Dear_RB Name_NN :_: 
+
+In_IN the_DT summer_NN of_IN 1993_CD ,_, the_DT Marion_NNP County_NNP Commission_NNP on_IN Youth_NNP began_VBD what_WP can_MD best_JJS be_VB described_VBN as_RB a_DT "_'' new_JJ era_NN "_'' in_IN its_PRP$ history_NN ._. 
+MCCOY_NNP was_VBD reorganized_VBN as_IN an_DT independent_JJ ,_, not-for-profit_JJ agency_NN ,_, separate_JJ from_IN local_JJ government_NN ._. 
+It_PRP retained_VBD ,_, however_RB ,_, the_DT same_JJ mission_NN with_IN which_WDT it_PRP had_VBD been_VBN charged_VBN from_IN its_PRP$ inception_NN :_: to_TO serve_VB as_IN a_DT catalyst_NN for_IN effective_JJ ,_, coordinated_VBN ,_, and_CC collaborative_JJ service_NN delivery_NN to_TO youth_NN in_IN our_PRP$ community_NN ._. 
+
+For_IN the_DT past_JJ three_CD years_NNS ,_, MCCOY_NNP has_VBZ been_VBN actively_RB engaged_VBN in_IN accomplishing_VBG this_DT declared_VBN mission_NN in_IN cooperation_NN with_IN many_JJ others_NNS :_: youth_NN service_NN providers_NNS ,_, youth_NN ,_, funding_NN bodies_NNS ,_, and_CC interested_JJ citizens_NNS to_TO name_VB a_DT few_JJ ._. 
+
+We_PRP have_VBP met_VBN with_IN a_DT number_NN of_IN successes_NNS along_IN the_DT way_NN ,_, most_RBS notably_RB the_DT Summer_NNPS Fun_NNP Line_NNP ,_, the_DT Metro_NNP Summer_NNPS Bus_NNP Pass_NNP ,_, and_CC the_DT development_NN of_IN ten_CD neighborhood_NN youth_NN councils_NNS ._. 
+A_DT Providers_NNP Council_NNP and_CC a_DT Youth_NNP Coalition_NNP are_VBP building_VBG relationships_NNS that_WDT will_MD hopefully_RB bear_VB great_JJ fruit_NN in_IN the_DT years_NNS to_TO come_VB ._. 
+The_DT formation_NN of_IN The_DT Community_NNP Academy_NNP ,_, a_DT pilot_NN project_NN directed_VBN at_IN expelled_VBN students_NNS from_IN local_JJ school_NN systems_NNS ,_, has_VBZ come_VBN about_IN as_IN a_DT result_NN of_IN MCCOY_NNP 's_POS efforts_NNS to_TO mobilize_VB community_NN agencies_NNS in_IN response_NN to_TO a_DT pressing_VBG issue_NN ._. 
+
+McCoy_NNP is_VBZ actively_RB represented_VBN and_CC working_VBG with_IN numerous_JJ community_NN collaborations_NNS where_WRB we_PRP regularly_RB raise_VBP our_PRP$ voice_NN to_TO speak_VB out_IN for_IN the_DT inclusion_NN of_IN young_JJ people_NNS in_IN both_DT decision-making_NN and_CC program_NN planning_NN processes_NNS ._. 
+One_CD concrete_JJ example_NN is_VBZ a_DT joint_JJ project_NN undertaken_VBN in_IN the_DT United_NNP Northwest_NNP Area_NNP in_IN partnership_NN with_IN The_DT Junior_NNP League_NNP of_IN Indianapolis_NNP and_CC Community_NNP Partnerships_NNS with_IN Youth_NNP from_IN Fort_NNP Wayne_NNP ,_, Indiana_NNP ._. 
+As_IN a_DT team_NN ,_, these_DT three_CD organizations_NNS are_VBP working_VBG with_IN neighborhood_NN youth_NN and_CC adults_NNS to_TO build_VB a_DT "_'' Caring_NNP Neighborhood_NNP with_IN Youth_NNP "_'' ,_, mobilizing_VBG the_DT assets_NNS of_IN young_JJ people_NNS and_CC adults_NNS as_IN partners_NNS to_TO build_VB a_DT better_JJR neighborhood_NN for_IN all_DT ._. 
+
+Since_IN its_PRP$ re-organization_JJ ,_, MCCOY_NNP has_VBZ established_VBN its_PRP$ unique_JJ niche_NN within_IN the_DT community_NN by_IN refraining_VBG from_IN direct_JJ service_NN programming_NN and_CC focusing_VBG on_IN what_WP it_PRP does_VBZ best_JJS :_: helping_VBG to_TO identify_VB youth_NN needs_VBZ ,_, convening_VBG groups_NNS of_IN individuals_NNS and_CC organizations_NNS which_WDT can_MD address_VB those_DT needs_VBZ ,_, and_CC moving_VBG toward_IN collaborative_JJ solutions_NNS ._. 
+McCoy_NNP has_VBZ only_RB one_CD interest_NN :_: the_DT well_NN being_NN of_IN Marion_NNP County_NNP 's_POS young_JJ people_NNS ._. 
+
+McCoy_NNP invites_VBZ the_DT support_NN of_IN The_DT __NN __NN Company_NNP Foundation_NNP in_IN the_DT amount_NN of_IN $10,000.00_NN to_TO support_VB such_JJ activities_NNS as_IN :_: 
+
+-_: -_: -_: -_: the_DT co-ordination_JJ of_IN youth_NN leadership_NN training_NN and_CC youth_NN empowerment_NN efforts_NNS at_IN the_DT neighborhood_NN level_NN by_IN means_NNS of_IN neighborhood-based_JJ youth_NN councils_NNS ;_: 
+-_: -_: -_: -_: the_DT promotion_NN of_IN youth_NN employment_NN opportunities_NNS ;_: 
+-_: -_: -_: -_: the_DT facilitation_NN of_IN ongoing_JJ discussions_NNS regarding_VBG effective_JJ and_CC efficient_JJ youth_NN service_NN delivery_NN ;_: 
+-_: -_: -_: -_: the_DT provision_NN of_IN technical_JJ assistance_NN and_CC guidance_NN to_TO neighborhoods_NNS which_WDT seek_VBP positive_JJ youth-adult_JJ relationships_NNS ;_: 
+-_: -_: -_: -_: the_DT development_NN of_IN community-wide_JJ supports_NNS for_IN the_DT positive_JJ growth_NN of_IN all_DT Marion_NNP County_NNP young_JJ people_NNS ._. 
+
+In_IN the_DT last_JJ several_JJ years_NNS ,_, the_DT business_NN and_CC corporate_JJ community_NN has_VBZ recognized_VBN that_IN the_DT positive_JJ development_NN of_IN youth_NN is_VBZ directly_RB related_VBN to_TO the_DT development_NN of_IN a_DT competent_JJ workforce_NN ._. 
+Youth_NNP who_WP are_VBP supported_VBN and_CC encouraged_VBN by_IN both_DT a_DT family_NN and_CC a_DT society_NN that_DT values_NNS Them_NNP have_VBP a_DT much_RB greater_JJR likelihood_NN of_IN becoming_VBG productive_JJ and_CC contributing_VBG members_NNS of_IN adult_NN society_NN ._. 
+While_IN we_PRP have_VBP made_VBN significant_JJ inroads_NNS ,_, there_EX remains_VBZ much_JJ to_TO be_VB done_VBN and_CC it_PRP is_VBZ clear_JJ that_IN we_PRP cannot_NN do_VBP it_PRP alone_RB ._. 
+We_PRP seek_VBP the_DT financial_JJ support_NN of_IN the_DT Foundation_NNP to_TO help_VB us_PRP be_VB successful_JJ in_IN creating_VBG the_DT atmosphere_NN in_IN our_PRP$ community_NN where_WRB young_JJ people_NNS can_MD grow_VB and_CC develop_VB well_RB ._. 
+Your_PRP$ contribution_NN will_MD enable_VB us_PRP to_TO both_DT continue_VB and_CC expand_VB the_DT good_JJ work_NN we_PRP have_VBP begun_VBN in_IN making_VBG Indianapolis_NNP a_DT city_NN famous_JJ for_IN its_PRP$ commitment_NN to_TO youth_NN and_CC families_NNS ._. 
+
+In_IN our_PRP$ fund_NN raising_VBG efforts_NNS to_TO date_NN ,_, we_PRP have_VBP received_VBN the_DT support_NN of_IN local_JJ government_NN ,_, foundations_NNS ,_, and_CC corporations_NNS as_RB well_RB as_IN the_DT personal_JJ financial_JJ commitments_NNS of_IN individual_JJ MCCOY_NNP Board_NNP members_NNS ._. 
+We_PRP believe_VBP there_EX is_VBZ no_DT more_RBR appropriate_JJ time_NN to_TO have_VB a_DT coordinated_VBN and_CC collaborative_JJ effort_NN to_TO financially_RB support_VB the_DT services_NNS MCCOY_NNP offers_VBZ to_TO the_DT community_NN as_IN a_DT whole_NN ._. 
+
+Thanking_NNP you_PRP in_IN advance_NN for_IN your_PRP$ support_NN ,_, we_PRP remain_VBP ,_, 
+
+Sincerely_NNP ,_, 
+
+John_NNP T._NN Neighbours_NNP Philip_NNP B._NN Roby_NNP President_NNP Treasurer_NNP 
+
+John_NNP F._NN Brandon_NNP Executive_NNP Director_NNP 
+

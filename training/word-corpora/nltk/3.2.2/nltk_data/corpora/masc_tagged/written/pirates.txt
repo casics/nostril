@@ -1,0 +1,2095 @@
+PIRATES_NNP OF_IN THE_DT CARRIBEAN_NNP :_: DEAD_JJ MAN_NN 'S_VBZ CHEST_NNP 
+by_IN Ted_NNP Elliott_NNP &_CC Terry_NNP Rossio_NNP [_NN view_NN looking_VBG straight_JJ down_RB at_IN rolling_VBG swells_NNS ,_, sound_NN of_IN wind_NN and_CC thunder_NN ,_, then_RB a_DT low_JJ heartbeat_NN 
+]_NN Scene_NN :_: PORT_NNP ROYAL_NNP [_NN teacups_NNS on_IN a_DT table_NN in_IN the_DT rain_NN 
+]_NN [_NN sheet_NN music_NN on_IN music_NN stands_VBZ in_IN the_DT rain_NN 
+]_NN [_NN bouquet_NN of_IN white_JJ orchids_NNS ,_, Elizabeth_NNP sitting_VBG in_IN the_DT rain_NN holding_VBG the_DT bouquet_NN 
+]_NN [_NN men_NNS rowing_NN ,_, men_NNS on_IN horseback_NN ,_, to_TO the_DT sound_NN of_IN thunder_NN 
+]_NN [_NN EITC_NNP logo_NN on_IN flag_NN blowing_VBG in_IN the_DT wind_NN 
+]_NN [_NN many_JJ rowboats_NNS are_VBP entering_VBG the_DT harbor_NN 
+]_NN [_NN Elizabeth_NNP sitting_VBG alone_RB ,_, at_IN a_DT distance_NN 
+]_NN [_NN marines_NNS running_VBG ,_, kick_VBP a_DT door_NN in_IN 
+]_NN [_NN a_DT mule_NN is_VBZ seen_VBN on_IN the_DT left_VBN in_IN the_DT barn_NN where_WRB the_DT marines_NNS enter_VBP 
+]_NN [_NN Liz_NNP looking_VBG over_IN her_PRP$ shoulder_NN 
+]_NN [_NN Elizabeth_NNP drops_VBZ her_PRP$ bouquet_NN 
+]_NN [_NN Will_NNP is_VBZ in_IN manacles_NNS ,_, being_VBG escorted_JJ by_IN red_JJ coats_NNS 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Will_NNP ..._... !_. 
+[_NN Elizabeth_NNP runs_VBZ to_TO Will_NNP 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Why_WRB is_VBZ this_DT happening_VBG ?_. 
+WILL_NNP TURNER_NNP :_: I_PRP do_VBP n't_RB know_VB ._. 
+You_PRP look_VBP beautiful_JJ ._. 
+ELIZABETH_NNP SWANN_NNP :_: I_PRP think_VBP it_PRP 's_VBZ bad_JJ luck_NN for_IN the_DT groom_NN to_TO see_VB the_DT bride_NN before_IN the_DT wedding_NN ._. 
+[_NN marines_NNS cross_VBP their_PRP$ long_JJ axes_NNS to_TO bar_VB Governor_NNP from_IN entering_VBG 
+]_NN [_NN Beckett_NNP ,_, in_IN white_JJ hair_NN and_CC curls_NNS ,_, is_VBZ standing_VBG with_IN Mercer_NNP 
+]_NN LORD_NNP CUTLER_NNP BECKETT_NNP :_: Governor_NNP Weatherby_NNP Swann_NNP ,_, it_PRP 's_VBZ been_VBN too_RB long_JJ ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: His_PRP$ Lord_NNP now_RB ..._... actually_RB ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: In_IN fact_NN ,_, I_PRP *_NN do_VBP *_NN ._. 
+Mister_NNP Mercer_NNP !_. 
+The_DT warrant_NN for_IN the_DT arrest_NN of_IN one_CD William_NNP Turner_NNP ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: Oh_UH ,_, is_VBZ it_PRP ?_. 
+That_DT 's_VBZ annoying_JJ ._. 
+My_PRP$ mistake_NN ._. 
+Arrest_NN her_PRP ._. 
+ELIZABETH_NNP SWANN_NNP :_: On_IN what_WP charges_NNS ?_. 
+WILL_NNP TURNER_NNP :_: No_UH !_. 
+[_NN Beckett_NNP takes_VBZ another_DT document_NN from_IN Mercer_NNP ,_, who_WP is_VBZ standing_VBG with_IN Beckett_NNP ,_, craggy_NN face_NN and_CC pony_NN tail_NN 
+]_NN LORD_NNP CUTLER_NNP BECKETT_NNP :_: Ah_UH -_- ha_UH !_. 
+Here_RB 's_VBZ the_DT one_CD for_IN William_NNP Turner_NNP ._. 
+And_CC I_PRP have_VBP another_DT one_CD for_IN a_DT Mister_NNP James_NNP Norrington_NNP ._. 
+Is_VBZ he_PRP present_JJ ?_. 
+ELIZABETH_NNP SWANN_NNP :_: *_NN What_WP are_VBP the_DT charges_NNS ?_. *_NN 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: I_PRP do_VBP n't_RB believe_VB that_DT 's_VBZ the_DT answer_NN to_TO the_DT question_NN I_PRP asked_VBD ._. 
+WILL_NNP TURNER_NNP :_: Lord_NNP Beckett_NNP !_. 
+In_IN the_DT category_NN of_IN questions_NNS *_NN not_RB *_NN answered_VBN ..._... 
+ELIZABETH_NNP SWANN_NNP :_: We_PRP are_VBP under_IN the_DT jurisdiction_NN of_IN the_DT King_NN 's_POS governor_NN of_IN Port_NNP Royal_NNP ,_, and_CC you_PRP will_MD tell_VB us_PRP what_WP we_PRP are_VBP charged_VBN with_IN ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: For_IN which_WDT the_DT punishment_NN ,_, regrettably_RB ,_, is_VBZ *_NN also_RB *_NN death_NN ._. 
+Perhaps_RB you_PRP remember_VBP a_DT certain_JJ pirate_NN named_VBD Jack_NNP Sparrow_NNP ._. 
+ELIZABETH_NNP SWANN_NNP :_: *_NN Captain_NNP *_NN Jack_NNP Sparrow_NNP ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: Captain_NNP Jack_NNP Sparrow_NNP ._. 
+Yes_UH ,_, I_PRP thought_VBD you_PRP might_MD ._. 
+Scene_NN :_: BLACK_NNP PEARL_NNP [_NN views_NNS of_IN rigging_VBG ropes_NNS and_CC blocks_NNS aboard_IN a_DT ship_NN at_IN night_NN 
+]_NN [_NN Gibbs_NNP walks_VBZ the_DT deck_NN alone_RB at_IN night_NN ,_, singing_VBG and_CC drinking_VBG from_IN a_DT bottle_NN 
+]_NN GIBBS_NNP :_: Fifteen_CD men_NNS on_IN a_DT dead_JJ man_NN 's_POS chest_NN ._. 
+Yo_UH ho_NN ho_NN ,_, and_CC a_DT *_NN bottle_NN *_NN of_IN rum_NN ._. 
+Drink_NN and_CC the_DT devil_NN had_VBD done_VBN for_IN the_DT rest_NN ._. 
+Yo_UH ho_NN ho_NN ,_, and_CC a_DT *_NN bottle_NN *_NN of_IN rum_NN ._. 
+Ha_UH -_- _UH ha_UH -_- ha_UH -_- ha_UH -_- ha_UH !_. 
+[_NN a_DT bell_NN tolls_NNS ,_, Gibbs_NNP is_VBZ interrupted_VBN from_IN his_PRP$ drinking_NN by_IN the_DT sound_NN 
+]_NN [_NN Gibbs_NNP looks_VBZ up_IN to_TO see_VB a_DT flock_NN of_IN crows_VBZ flying_VBG in_IN the_DT foggy_JJ night_NN sky_NN 
+]_NN Scene_NN :_: TURKISH_NNP PRISON_NNP [_NN tolling_VBG of_IN bells_NNS ,_, camera_NN pans_NNS to_TO show_VB the_DT crows_VBZ flying_VBG toward_IN a_DT coastal_JJ island_NN 
+]_NN [_NN pinnacle_NN -_- like_IN island_NN off_IN the_DT coast_NN at_IN night_NN ,_, connected_VBN to_TO the_DT mainland_NN by_IN thin_JJ ,_, lighted_VBN bridge_NN 
+]_NN [_NN cages_NNS with_IN men_NNS inside_IN line_NN the_DT bridge_NN 
+]_NN [_NN prisoners_NNS are_VBP being_VBG marched_VBN across_IN the_DT bridge_NN 
+]_NN [_NN a_DT male_JJ prisoner_NN with_IN bloody_JJ legs_NNS is_VBZ muttering_VBG ,_, and_CC is_VBZ dragged_VBN across_IN the_DT bridge_NN by_IN guards_NNS 
+]_NN [_NN a_DT crow_NN is_VBZ seen_VBN reflected_VBN in_IN the_DT eye_NN of_IN one_CD male_JJ prisoner_NN in_IN a_DT cage_NN ,_, the_DT crow_NN attacks_NNS and_CC pecks_NNS his_PRP$ eye_NN out_IN ,_, he_PRP screams_VBZ 
+]_NN [_NN the_DT prisoner_NN who_WP was_VBD being_VBG dragged_VBN is_VBZ taken_VBN down_RP a_DT hatch_NN -_- like_IN door_NN in_IN the_DT ground_NN ,_, he_PRP also_RB screams_VBZ 
+]_NN [_NN rocky_JJ shoreline_NN ,_, lit_VBD with_IN torches_NNS 
+]_NN [_NN men_NNS toss_VB caskets_NNS into_IN the_DT sea_NN 
+]_NN [_NN numerous_JJ caskets_NNS are_VBP floating_VBG out_IN to_TO sea_NN ,_, vertical_JJ streaks_NNS in_IN the_DT distant_JJ clouds_NNS are_VBP seen_VBN 
+]_NN [_NN a_DT crow_NN lands_NNS on_IN one_CD casket_NN ,_, begins_VBZ pecking_VBG at_IN the_DT top_JJ 
+]_NN [_NN sudden_JJ gunblast_NN from_IN inside_IN the_DT casket_NN blows_NNS the_DT crow_NN away_RB ,_, along_IN with_IN much_JJ wood_NN 
+]_NN [_NN hand_NN holding_VBG flintlock_NN pistol_NN emerges_VBZ ,_, pans_NNS about_IN ,_, points_NNS it_PRP at_IN audience_NN for_IN a_DT moment_NN 
+]_NN [_NN Jack_NNP breaks_NNS out_IN of_IN the_DT top_NN of_IN the_DT casket_NN ,_, puts_VBZ his_PRP$ captain_NN 's_POS hat_NN on_IN 
+]_NN JACK_NNP SPARROW_NNP :_: Sorry_JJ ,_, mate_NN ._. 
+[_NN Jack_NNP breaks_VBZ the_DT skeleton_NN 's_POS leg_NN off_IN 
+]_NN JACK_NNP SPARROW_NNP :_: Mind_VB if_IN we_PRP make_VBP a_DT little_JJ side_NN trip_NN ?_. 
+I_PRP did_VBD n't_RB think_VB so_RB ._. 
+[_NN Jack_NNP uses_VBZ the_DT skeleton_NN leg_NN as_IN an_DT oar_NN ,_, rows_NNS toward_IN the_DT full_JJ moon_NN and_CC a_DT waiting_VBG ship_NN in_IN the_DT distance_NN to_TO the_DT right_NN of_IN the_DT moon_NN 
+]_NN Scene_NN :_: BLACK_NNP PEARL_NNP [_NN Jack_NNP arrives_VBZ at_IN the_DT Black_NNP Pearl_NNP in_IN his_PRP$ coffin_NN rowboat_NN 
+]_NN [_NN Gibbs_NNP holds_VBZ out_RP his_PRP$ hand_NN to_TO help_VB Jack_NNP aboard_IN ,_, Jack_NNP puts_VBZ the_DT skeleton_NN leg_NN in_IN Gibbs_NNP '_POS hand_NN 
+]_NN [_NN Cotton_NNP drapes_NNS a_DT coat_NN onto_IN Jack_NNP 's_POS back_RB 
+]_NN GIBBS_NNP :_: Not_RB *_NN quite_RB *_NN according_VBG to_TO plan_NN ._. 
+JACK_NNP SPARROW_NNP :_: Complications_NNP arose_VBD ,_, ensued_VBD ,_, were_VBD overcome_VBN ._. 
+GIBBS_NNP :_: You_PRP got_VBD what_WP you_PRP went_VBD in_IN for_IN ,_, then_RB ?_. 
+JACK_NNP SPARROW_NNP :_: Mm_UH -_- hmm_UH !_. 
+GIBBS_NNP :_: Captain_NNP ,_, I_PRP think_VBP the_DT crew_NN ,_, meaning_VBG me_PRP as_IN well_RB ,_, were_VBD expecting_VBG something_NN a_DT bit_NN more_RBR ..._... *_NN shiny_JJ *_NN ._. 
+What_WP with_IN the_DT Isla_NNP de_IN Muerta_NNP going_VBG all_DT pear_NN shaped_VBN ,_, reclaimed_VBN by_IN the_DT sea_NN ,_, and_CC the_DT treasure_NN with_IN it_PRP ._. 
+LEECH_NNP :_: And_CC the_DT Royal_NNP Navy_NNP chasing_VBG us_PRP all_DT around_IN the_DT Atlantic_NNP ._. 
+MARTY_NNP :_: And_CC the_DT hurricane_NN !_. 
+Aye_UH ._. 
+CREW_NN :_: Aye_UH ._. 
+Aye_UH ._. 
+GIBBS_NNP :_: All_DT in_IN all_DT ,_, it_PRP 's_VBZ seems_VBZ some_DT time_NN since_IN we_PRP did_VBD a_DT speck_NN of_IN honest_JJ pirating_VBG ._. 
+JACK_NNP SPARROW_NNP :_: Shiny_JJ ?_. 
+GIBBS_NNP :_: Aye_UH ,_, shiny_JJ ._. 
+JACK_NNP SPARROW_NNP :_: Is_VBZ that_IN how_WRB you_PRP 're_VBP all_DT feeling_NN ,_, then_RB ?_. 
+Perhaps_RB dear_RB old_JJ Jack_NNP is_VBZ not_RB serving_VBG your_PRP$ best_JJS interests_NNS as_IN captain_NN ?_. 
+COTTON_NN 'S_VBZ PARROT_NNP :_: Awk_UH !_. 
+Walk_VBP the_DT plank_NN !_. 
+[_NN Jack_NNP grabs_NNS his_PRP$ pistol_NN and_CC points_NNS it_PRP at_IN the_DT bird_NN 
+]_NN JACK_NNP SPARROW_NNP :_: What_WP did_VBD the_DT bird_NN say_VBP ?_. 
+LEECH_NNP :_: Do_VBP not_RB blame_VB the_DT bird_NN ._. 
+Show_VB us_PRP what_WP is_VBZ on_IN that_DT piece_NN of_IN cloth_NN there_RB ._. 
+[_NN the_DT monkey_NN snarls_NNS ,_, seizes_NNS the_DT cloth_NN ,_, scampers_NNS off_IN with_IN it_PRP 
+]_NN JACK_NNP SPARROW_NNP :_: Ohhh_UH !_. 
+[_NN Jack_NNP attempts_NNS to_TO shoot_VB the_DT monkey_NN with_IN his_PRP$ pistol_NN ,_, his_PRP$ pistol_NN misfires_NNS 
+]_NN [_NN Jack_NNP grabs_NNS a_DT pistol_NN from_IN another_DT crewman_NN and_CC blasts_NNS the_DT monkey_NN while_IN it_PRP 's_VBZ on_IN the_DT deck_NN 
+]_NN [_NN the_DT monkey_NN drops_VBZ the_DT cloth_NN ,_, but_CC is_VBZ unharmed_JJ ,_, and_CC scurries_NNS into_IN the_DT rigging_VBG 
+]_NN GIBBS_NNP :_: Know_VBP that_WDT do_VBP n't_RB do_VB no_DT good_NN ._. 
+JACK_NNP SPARROW_NNP :_: It_PRP does_VBZ me_PRP ._. 
+[_NN Marty_NNP picks_VBZ up_RP the_DT cloth_NN that_IN the_DT monkey_NN dropped_VBD 
+]_NN MARTY_NNP :_: It_PRP 's_VBZ a_DT key_NN !_. 
+JACK_NNP SPARROW_NNP :_: No_UH !_. 
+Much_JJ more_JJR better_JJR ._. 
+It_PRP is_VBZ a_DT *_NN drawing_VBG *_NN of_IN a_DT key_NN ._. 
+[_NN Jack_NNP holds_VBZ up_RP the_DT cloth_NN ,_, the_DT crew_NN crowd_NN forward_RB 
+]_NN [_NN Among_IN the_DT crew_NN :_: Chinese_JJ man_NN ,_, black_JJ man_NN with_IN a_DT black_JJ beard_NN ,_, white_JJ bearded_JJ man_NN with_IN large_JJ black_JJ hat_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Gentlemen_NN ,_, what_WP do_VBP keys_NNS do_VBP ?_. 
+LEECH_NNP :_: Keys_NNS ..._... unlock_VBP ..._... *_NN things_NNS *_NN ?_. 
+GIBBS_NNP :_: And_CC whatever_WDT this_DT key_JJ unlocks_VBZ ,_, *_NN inside_IN *_NN there_EX 's_VBZ something_NN valuable_JJ ._. 
+So_RB ,_, we_PRP 're_VBP setting_VBG out_IN to_TO find_VB whatever_WDT this_DT key_JJ unlocks_VBZ !_. 
+JACK_NNP SPARROW_NNP :_: No_UH !_. 
+If_IN we_PRP do_VBP n't_RB have_VB the_DT key_NN ,_, we_PRP ca_MD n't_RB open_VB whatever_WDT it_PRP is_VBZ we_PRP do_VBP n't_RB have_VB that_IN it_PRP unlocks_VBZ ._. 
+So_RB what_WP purpose_NN would_MD be_VB served_VBN in_IN finding_VBG whatever_WDT need_VBP be_VB unlocked_VBD ,_, which_WDT we_PRP do_VBP n't_RB have_VB ,_, without_IN first_JJ having_VBG found_VBN the_DT key_JJ what_WP unlocks_VBZ it_PRP ?_. 
+GIBBS_NNP :_: So_RB -_- We_PRP 're_VBP going_VBG after_IN this_DT key_NN !_. 
+JACK_NNP SPARROW_NNP :_: You_PRP 're_VBP not_RB making_VBG any_DT sense_NN at_IN all_DT 
+._. Any_DT more_JJR questions_NNS ?_. 
+MARTY_NNP :_: So_RB ..._... 
+Do_VBP we_PRP have_VB a_DT heading_VBG ?_. 
+JACK_NNP SPARROW_NNP :_: Hah_UH !_. A_DT heading_VBG ._. 
+Set_VB sail_NN in_IN a_DT ..._... mmm_UH ..._... a_DT general_NN ..._... in_IN *_NN that_DT *_NN way_NN -_- direction_NN ._. 
+GIBBS_NNP :_: Cap_NNP '_POS n_NN ?_. 
+JACK_NNP SPARROW_NNP :_: Come_VBN on_IN ,_, snap_NN to_TO and_CC make_VB sail_NN ,_, you_PRP know_VBP how_WRB this_DT works_NNS ._. 
+Come_VBN on_IN ,_, oy_UH /_NN quick_JJ ,_, oy_UH /_NN quick_JJ ,_, hey_UH !_. 
+[_NN Marty_NNP and_CC Gibbs_NNP gather_VBP alone_RB by_IN the_DT railing_NN 
+]_NN MARTY_NNP :_: Have_VBP you_PRP noticed_VBD lately_RB ..._... 
+The_DT captain_NN seems_VBZ to_TO be_VB actin_NN '_'' a_DT bit_NN strange_JJ ..._... -_- er_UH ._. 
+GIBBS_NNP :_: Settin_VBG '_POS sail_NN without_IN knowing_VBG his_PRP$ own_JJ headin_NN '_'' ?_. 
+Somethin_NN 's_POS got_VBD Jack_NNP vexed_JJ ._. 
+Mark_VB my_PRP$ words_NNS ,_, what_WP bodes_VBZ ill_JJ for_IN Jack_NNP Sparrow_NNP bodes_VBZ ill_JJ for_IN us_PRP all_DT ._. 
+[_NN the_DT Black_NNP Pearl_NNP is_VBZ shown_VBN at_IN night_NN in_IN a_DT thunderstorm_NN 
+]_NN Scene_NN :_: PORT_NNP ROYAL_NNP :_: EITC_NNP HEADQUARTERS_NNP [_NN a_DT painter_NN is_VBZ painting_VBG a_DT detail_NN on_IN a_DT mural_NN of_IN a_DT world_NN map_NN 
+]_NN [_NN a_DT guard_NN brings_VBZ Will_NNP in_IN manacles_NNS into_IN Beckett_NNP 's_POS office_NN 
+]_NN GUARD_NNP :_: Lord_NNP Beckett_NNP ._. 
+The_DT prisoner_NN as_IN ordered_VBN ,_, Sir_NNP ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: Those_DT wo_MD n't_RB be_VB necessary_JJ ._. 
+[_NN Will_NNP 's_POS manacles_NNS are_VBP removed_VBN 
+]_NN [_NN Beckett_NNP pours_VBZ some_DT liquor_NN 
+]_NN LORD_NNP CUTLER_NNP BECKETT_NNP :_: The_DT East_NNP India_NNP Trading_NNP Company_NN has_VBZ need_NN of_IN your_PRP$ services_NNS ._. 
+We_PRP wish_VBP for_IN you_PRP to_TO act_VB as_IN our_PRP$ agent_NN in_IN a_DT business_NN transaction_NN with_IN our_PRP$ mutual_JJ friend_NN :_: Captain_NNP Sparrow_NNP ._. 
+WILL_NNP TURNER_NNP :_: More_JJR acquaintance_NN than_IN friend_NN ._. 
+How_WRB do_VBP you_PRP know_VBP him_PRP ?_. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: We_PRP 've_VBP had_VBN dealings_NNS in_IN the_DT past_NN ._. 
+And_CC we_PRP 've_VBP each_DT left_VBN our_PRP$ mark_NN ..._... on_IN the_DT other_JJ ._. 
+WILL_NNP TURNER_NNP :_: What_WP mark_NN did_VBD he_PRP leave_VBP on_IN you_PRP ?_. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: By_IN your_PRP$ efforts_NNS Jack_NNP Sparrow_NNP was_VBD set_VBN free_JJ ._. 
+I_PRP would_MD like_VB you_PRP to_TO go_VB to_TO him_PRP ,_, and_CC recover_VB a_DT certain_JJ property_NN in_IN his_PRP$ possession_NN ._. 
+WILL_NNP TURNER_NNP :_: Recover_NNP ._. 
+At_IN the_DT point_NN of_IN a_DT sword_NN ?_. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: *_NN Bargain_NN *_NN !_. 
+[_NN Beckett_NNP goes_VBZ over_IN to_TO a_DT wooden_JJ box_NN on_IN a_DT table_NN and_CC opens_VBZ it_PRP 
+]_NN LORD_NNP CUTLER_NNP BECKETT_NNP :_: Letters_NNS of_IN Marque_NNP ._. 
+You_PRP will_MD offer_VB what_WP amounts_NNS to_TO a_DT full_JJ pardon_NN ._. 
+Jack_NNP will_MD be_VB free_JJ ,_, a_DT privateer_NN in_IN the_DT employ_VB of_IN England_NNP ._. 
+WILL_NNP TURNER_NNP :_: Somehow_RB I_PRP doubt_VBP Jack_NNP will_MD consider_VB employment_NN the_DT same_JJ as_IN being_VBG free_JJ ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: Freedom_NN ._. 
+Jack_NNP Sparrow_NNP is_VBZ a_DT dying_VBG breed_NN ._. 
+The_DT world_NN is_VBZ shrinking_VBG ,_, the_DT blank_JJ pages_NNS of_IN the_DT map_NN filled_VBN in_IN ._. 
+Jack_NNP must_MD find_VB his_PRP$ place_NN in_IN the_DT new_JJ world_NN or_CC perish_NN ._. 
+Not_RB unlike_IN you_PRP ,_, Mister_NNP Turner_NNP ._. 
+You_PRP and_CC your_PRP$ fiancÈe_NN face_NN the_DT hangman_NN 's_POS noose_NN ._. 
+WILL_NNP TURNER_NNP :_: So_IN you_PRP get_VBP both_DT Jack_NNP *_NN and_CC *_NN the_DT Black_NNP Pearl_NNP ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: The_DT Black_NNP Pearl_NNP ?_. 
+WILL_NNP TURNER_NNP :_: The_DT property_NN you_PRP want_VBP that_IN he_PRP possesses_VBZ ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: A_DT ship_NN ?_. 
+Hardly_RB ._. 
+The_DT item_NN in_IN question_NN 's_POS considerably_RB smaller_JJR and_CC far_RB more_RBR valuable_JJ ._. 
+Something_NN Sparrow_NNP keeps_VBZ on_IN his_PRP$ person_NN at_IN all_DT times_NNS ._. 
+A_DT compass_NNS ._. 
+Ah_UH ,_, you_PRP know_VBP it_PRP ._. 
+Bring_VB back_RB that_IN Compass_NNP ,_, or_CC there_EX 's_VBZ no_DT deal_NN ._. 
+Scene_NN :_: BLACK_NNP PEARL_NNP [_NN Jack_NNP is_VBZ using_VBG calipers_NNS on_IN a_DT map_NN ,_, using_VBG his_PRP$ left_JJ hand_NN ,_, a_DT "_'' P_NN "_'' brand_NN mark_NN is_VBZ seen_VBN on_IN his_PRP$ right_JJ arm_NN 
+]_NN [_NN an_DT hourglass_NNS is_VBZ in_IN the_DT background_NN ,_, Jack_NNP taps_NNS the_DT Compass_NNP 
+]_NN [_NN Jack_NNP looks_VBZ in_IN his_PRP$ bottle_NN ,_, turns_VBZ the_DT bottle_NN upside_RB -_- down_IN ,_, only_RB a_DT few_JJ drops_NNS spill_NN out_IN 
+]_NN JACK_NNP SPARROW_NNP :_: Why_WRB is_VBZ the_DT rum_NN always_RB gone_VBN ?_. 
+[_NN Jack_NNP rises_VBZ to_TO his_PRP$ feet_NNS ,_, staggers_NNS 
+]_NN [_NN Jack_NNP picks_VBZ up_RP his_PRP$ hat_NN off_RP the_DT top_NN of_IN a_DT globe_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Oh_UH !_. 
+*_NN That_DT 's_VBZ *_NN why_WRB ._. 
+[_NN Jack_NNP walks_VBZ past_JJ the_DT crew_NN sleeping_VBG on_IN hammocks_NNS ,_, Jack_NNP is_VBZ carrying_VBG a_DT lantern_NN 
+]_NN [_NN some_DT of_IN the_DT crew_NN are_VBP snoring_VBG ,_, and_CC Cotton_NNP is_VBZ among_IN those_DT sleeping_VBG 
+]_NN JACK_NNP SPARROW_NNP :_: As_IN you_PRP were_VBD ,_, gents_NNS ._. 
+[_NN Jack_NNP goes_VBZ downstairs_NN to_TO the_DT hold_NN ,_, an_DT animal_NN bleats_NNS ,_, Jack_NNP unlocks_VBZ the_DT door_NN ,_, goes_VBZ in_IN 
+]_NN [_NN Jack_NNP sees_VBZ eerie_JJ filter_NN feeder_NN creatures_NNS festooning_VBG a_DT beam_NN of_IN wood_NN 
+]_NN [_NN Jack_NNP spots_VBZ a_DT rack_NN of_IN bottles_NNS ,_, with_IN the_DT bottles_NNS stored_VBD sideways_RB like_IN in_IN a_DT wine_NN rack_NN ]_NN 
+JACK_NNP SPARROW_NNP :_: Ah_UH !_. 
+[_NN Jack_NNP pulls_VBZ a_DT sideways_JJ bottle_NN from_IN the_DT rack_NN 
+]_NN [_NN Jack_NNP pours_VBZ sand_NN out_IN of_IN the_DT bottle_NN 
+]_NN [_NN Jack_NNP drops_NNS bottle_NN of_IN rum_NN in_IN fright_NN ,_, the_DT bottle_NN breaks_NNS on_IN the_DT floor_NN 
+]_NN [_NN Jack_NNP walks_VBZ over_IN to_TO see_VB who_WP spoke_VBD 
+]_NN JACK_NNP SPARROW_NNP :_: Bootstrap_NNP ._. 
+Bill_NNP Turner_NNP ._. 
+[_NN Bootstrap_NNP looks_VBZ up_RB from_IN where_WRB he_PRP 's_VBZ sitting_VBG on_IN a_DT barrel_NN ,_, crabs_NNS scuttle_VB across_IN his_PRP$ face_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Is_VBZ this_DT a_DT dream_NN ?_. 
+JACK_NNP SPARROW_NNP :_: I_PRP thought_VBD not_RB ._. 
+If_IN it_PRP were_VBD ,_, there_EX 'd_MD be_VB rum_NN ._. 
+[_NN Bootstrap_NNP immediately_RB hands_VBZ Jack_NNP a_DT bottle_NN of_IN rum_NN 
+]_NN [_NN Jack_NNP pries_NNS the_DT bottle_NN from_IN Bootstrap_NNP 's_POS hand_NN with_IN a_DT crackling_VBG sound_NN 
+]_NN JACK_NNP SPARROW_NNP :_: I_PRP had_VBD some_DT help_NN retrieving_VBG the_DT Pearl_NNP ,_, by_IN the_DT way_NN ._. 
+[_NN Jack_NNP tinks_NNS the_DT lip_NN of_IN the_DT bottle_NN with_IN his_PRP$ fingers_NNS ,_, then_RB blows_NNS across_IN the_DT top_NN of_IN the_DT bottle_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Your_PRP$ son_NN ._. 
+[_NN Jack_NNP takes_VBZ a_DT drink_NN from_IN the_DT bottle_NN 
+]_NN JACK_NNP SPARROW_NNP :_: And_CC to_TO what_WP do_VBP I_PRP owe_VBP the_DT pleasure_NN of_IN your_PRP$ carbuncle_NN ?_. 
+JACK_NNP SPARROW_NNP :_: Who_WP ?_. 
+JACK_NNP SPARROW_NNP :_: Ah_UH ._. 
+So_IN it_PRP 's_VBZ you_PRP ,_, then_RB ._. 
+He_PRP shanghaied_JJ you_PRP into_IN service_NN ,_, eh_NN ?_. 
+[_NN a_DT small_JJ hermit_NN crab_NN scuttles_NNS by_IN Bootstrap_NNP ,_, on_IN top_NN of_IN the_DT barrel_NN where_WRB Bootstrap_NNP sits_VBZ 
+]_NN [_NN Bootstrap_NNP grabs_NNS the_DT hermit_NN crab_NN ,_, pops_VBZ it_PRP into_IN his_PRP$ mouth_NN ,_, and_CC crunches_NNS on_IN it_PRP 
+]_NN [_NN Jack_NNP moves_VBZ his_PRP$ mouth_NN ,_, jaw_NN ,_, and_CC tongue_NN around_IN in_IN revulsion_NN while_IN watching_VBG 
+]_NN [_NN Jack_NNP hands_VBZ the_DT bottle_NN back_RB to_TO Bootstrap_NNP 
+]_NN JACK_NNP SPARROW_NNP :_: It_PRP 's_VBZ funny_JJ what_WP a_DT man_NN will_MD do_VB to_TO forestall_NN his_PRP$ final_JJ judgment_NN -_- 
+[_NN Jack_NNP starts_VBZ to_TO walk_VB off_RP ,_, but_CC Bootstrap_NNP stands_VBZ up_RB at_IN the_DT same_JJ time_NN and_CC intercepts_NNS Jack_NNP ,_, blocking_VBG him_PRP 
+]_NN JACK_NNP SPARROW_NNP :_: Technic_JJ -_- 
+JACK_NNP SPARROW_NNP :_: Yes_UH ,_, but_CC the_DT Flying_NNP Dutchman_NNP already_RB *_NN has_VBZ *_NN a_DT captain_NN ,_, so_RB there_EX 's_VBZ re_NN -_- 
+JACK_NNP SPARROW_NNP :_: Any_DT idea_NN when_WRB Jones_NNP might_MD release_NN said_VBD terrible_JJ beastie_NN ?_. 
+[_NN Jack_NNP looks_VBZ at_IN the_DT palm_NN of_IN his_PRP$ left_JJ hand_NN ,_, where_WRB a_DT black_JJ spot_NN boils_VBZ into_IN view_NN 
+]_NN [_NN Jack_NNP looks_VBZ up_RB ,_, but_CC Bootstrap_NNP has_VBZ disappeared_VBN 
+]_NN Scene_NN :_: BLACK_NNP PEARL_NNP :_: ON_IN DECK_NN [_NN Jack_NNP runs_VBZ across_IN a_DT wooden_JJ deck_NN that_WDT has_VBZ a_DT shallow_JJ covering_NN of_IN water_NN 
+]_NN JACK_NNP SPARROW_NNP :_: On_IN deck_NN all_DT hands_NNS !_. 
+Make_VB fast_RB the_DT bunt_NN gasket_NN !_. 
+On_IN deck_NN !_. 
+Scurry_VB !_. 
+Scurry_VB -_- on_IN /_NN Marty_NNP ,_, I_PRP want_VBP movement_NN !_. 
+JACK_NNP SPARROW_NNP :_: *_NN I_PRP want_VBP movement_NN !_. *_NN 
+GIBBS_NNP :_: Lift_VB the_DT skin_NN up_RB !_. 
+JACK_NNP SPARROW_NNP :_: All_DT on_IN deck_NN !_. 
+Run_VB !_. 
+And_CC keep_VB running_VBG !_. 
+Run_VB as_IN if_IN the_DT devil_NN himself_PRP and_CC itself_PRP is_VBZ upon_IN us_PRP !_. 
+GIBBS_NNP :_: Do_VBP we_PRP have_VB a_DT heading_VBG ?_. 
+JACK_NNP SPARROW_NNP :_: Ah_UH !_. 
+Ooh_UH !_. 
+Run_VB !_. 
+Land_NN ._. 
+[_NN Jack_NNP rises_VBZ from_IN where_WRB he_PRP was_VBD ducked_JJ behind_IN the_DT base_NN of_IN the_DT mast_NN ,_, sees_VBZ Gibbs_NNP again_RB 
+]_NN JACK_NNP SPARROW_NNP :_: Oh_UH !_. 
+Euh_UH !_. 
+GIBBS_NNP :_: Which_WDT port_NN ?_. 
+JACK_NNP SPARROW_NNP :_: Did_VBD n't_RB say_VB port_NN ._. 
+I_PRP said_VBD land_NN ._. 
+Any_DT land_NN ._. 
+[_NN the_DT monkey_NN in_IN skeleton_NN form_NN swings_NNS down_RB ,_, grabs_NNS Jack_NNP 's_POS hat_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Agh_UH` !_. 
+[_NN the_DT monkey_NN snarls_NNS at_IN Jack_NNP ,_, Jack_NNP snarls_NNS back_RB at_IN the_DT monkey_NN ,_, in_IN imitation_NN 
+]_NN [_NN the_DT monkey_NN throws_VBZ Jack_NNP 's_POS hat_NN overboard_RB 
+]_NN GIBBS_NNP :_: Jack_NNP 's_POS hat_NN !_. 
+Bring_VB '_POS er_UH about_IN !_. 
+JACK_NNP SPARROW_NNP :_: No_DT no_UH !_. 
+Leave_VB it_PRP !_. 
+Run_VB !_. 
+GIBBS_NNP :_: Back_RB to_TO your_PRP$ stations_NNS !_. 
+The_DT lot_NN o_NN '_'' ya_PRP !_. 
+[_NN Jack_NNP stands_VBZ stiffly_RB in_IN the_DT shadows_NNS under_IN some_DT steps_NNS ,_, between_IN two_CD lighted_VBN windows_NNS 
+]_NN [_NN Gibbs_NNP walks_VBZ up_IN to_TO Jack_NNP 
+]_NN GIBBS_NNP :_: Jack_NNP ?_. 
+JACK_NNP SPARROW_NNP :_: Shhh_UH !_. 
+GIBBS_NNP :_: For_IN the_DT love_NN of_IN mother_NN and_CC child_NN ,_, Jack_NNP ,_, what_WP 's_VBZ coming_VBG after_IN us_PRP ?_. 
+JACK_NNP SPARROW_NNP :_: Nothing_NN ._. 
+Scene_NN :_: small_JJ fishing_NN vessel_NN [_NN Jack_NNP 's_POS hat_NN floats_VBZ toward_IN a_DT small_JJ fishing_NN vessel_NN around_IN sunrise_NN 
+]_NN [_NN a_DT Turkish_JJ crewmember_NN pulls_VBZ Jack_NNP 's_POS hat_NN out_IN of_IN the_DT water_NN with_IN a_DT hook_NN 
+]_NN [_NN the_DT first_JJ sailor_NN tries_VBZ the_DT hat_NN on_IN ,_, jokingly_RB pretending_VBG to_TO be_VB a_DT captain_NN 
+]_NN TURKISH_NNP FISHERMAN_NNP :_: Heh_UH -_- heh_UH -_- heh_UH ._. tupayHey_FW !_. 
+Fo_FW pes_FW sa_FW kapazun_FW kapitan_FW de_IN la_FW mezande_NN ,_, huh_NN ?_. 
+GREEK_NNP FISHERMAN_NNP :_: Etora_FW ._. 
+Fetsoran_FW ipitos_FW ._. 
+Ferinte_FW ._. 
+arrive_FW ,_, huh_NN ?_. 
+[_NN the_DT Greek_JJ sailor_NN takes_VBZ the_DT hat_NN ,_, tries_VBZ it_PRP on_IN next_JJ ]_NN GREEK_NNP FISHERMAN_NNP :_: Ah_UH !_. 
+Vangas_FW da_FW eroro_FW 
+#_# #_# #_# [_NN a_DT large_JJ object_NN is_VBZ seeing_VBG moving_VBG underwater_JJ toward_IN their_PRP$ vessel_NN ,_, creating_VBG a_DT disturbance_NN on_IN the_DT ocean_NN surface_NN as_IN it_PRP moves_VBZ 
+]_NN kapitan_NN 
+#_# #_# #_# Scene_NN :_: #_# #_# #_# [_NN a_DT loud_JJ thumping_VBG sound_NN occurs_VBZ ,_, the_DT two_CD sailors_NNS freeze_NN in_IN fright_NN 
+]_NN [_NN a_DT third_JJ sailor_NN sleeps_VBZ on_IN deck_NN 
+]_NN [_NN one_CD sailor_NN presses_NNS the_DT hat_NN against_IN the_DT other_JJ 's_POS chest_NN ,_, indicating_VBG he_PRP does_VBZ n't_RB want_VB it_PRP anymore_RB 
+]_NN Scene_NN :_: Port_NNP Royal_NNP prison_NN [_NN Will_NNP and_CC the_DT governor_NN rapidly_RB descend_NN stone_NN steps_NNS into_IN the_DT prison_NN 
+]_NN [_NN the_DT guard_NN at_IN the_DT bottom_NN of_IN the_DT steps_NNS holds_VBZ a_DT long_JJ gun_NN with_IN a_DT bayonette_NN on_IN the_DT end_NN 
+]_NN CARRUTHERS_NNP :_: Here_RB now_RB ._. 
+He_PRP ca_MD n't_RB be_VB here_RB ._. 
+CARRUTHERS_NNP :_: Mister_NNP Swann_NNP ,_, -_- 
+ELIZABETH_NNP SWANN_NNP :_: Jack_NNP 's_POS Compass_NNP ._. 
+What_WP does_VBZ Beckett_NNP want_VB with_IN that_DT ?_. 
+WILL_NNP TURNER_NNP :_: Does_VBZ it_PRP matter_VBP ?_. 
+I_PRP 'm_VBP to_TO find_VB Jack_NNP and_CC convince_VB him_PRP to_TO return_VB to_TO Port_NNP Royal_NNP ._. 
+In_IN exchange_NN the_DT charges_NNS against_IN us_PRP will_MD be_VB dropped_VBN ._. 
+WILL_NNP TURNER_NNP :_: Is_VBZ that_DT lack_NN of_IN faith_NN in_IN Jack_NNP ,_, or_CC in_IN me_PRP ?_. 
+ELIZABETH_NNP SWANN_NNP :_: I_PRP have_VBP faith_NN in_IN you_PRP ._. 
+Both_DT of_IN you_PRP ._. 
+Where_WRB will_MD you_PRP find_VB him_PRP ?_. 
+WILL_NNP TURNER_NNP :_: Tortuga_NNP ._. 
+I_PRP 'll_MD start_VB there_RB ,_, and_CC I_PRP wo_MD n't_RB stop_VB searching_VBG 'til_IN I_PRP find_VBP him_PRP ._. 
+And_CC then_RB I_PRP intend_VBP to_TO return_VB here_RB ,_, to_TO marry_VB you_PRP ._. 
+ELIZABETH_NNP SWANN_NNP :_: Properly_JJ ?_. 
+WILL_NNP TURNER_NNP :_: Eagerly_RB ,_, if_IN you_PRP 'll_MD still_RB have_VB me_PRP ._. 
+ELIZABETH_NNP SWANN_NNP :_: If_IN it_PRP were_VBD n't_RB for_IN these_DT bars_NNS I_PRP 'd_MD have_VB you_PRP already_RB ._. 
+[_NN the_DT governor_NN accidentally_RB knocks_VBZ a_DT candleholder_NN off_IN the_DT wall_NN 
+]_NN [_NN the_DT governor_NN tosses_NNS the_DT candleholder_NN aside_RB ,_, onto_IN the_DT floor_NN 
+]_NN ELIZABETH_NNP SWANN_NNP :_: I_PRP 'll_MD wait_VB for_IN you_PRP ._. 
+WILL_NNP TURNER_NNP :_: Keep_VB a_DT weather_NN eye_NN on_IN the_DT horizon_NN ._. 
+[_NN Will_NNP walks_VBZ back_RB up_RP the_DT prison_NN steps_NNS 
+]_NN Scene_NN :_: Tortuga_NNP WEATHERED_NNP SAILOR_NNP :_: *_NN Captain_NNP *_NN Jack_NNP Sparrow_NNP ?_. 
+Owes_VBZ me_PRP four_CD dubloons_NNS ._. 
+Heard_VBN he_PRP was_VBD dead_JJ ._. 
+HALF_DT -_- BLIND_JJ FISHERMAN_NNP :_: Singapore_NNP ._. 
+That_DT 's_VBZ what_WP I_PRP heard_VBD ._. 
+Drunk_JJ with_IN a_DT smile_NN on_IN his_PRP$ face_NN ._. 
+Sure_RB as_IN the_DT tide_NN ,_, Jack_NNP Sparrow_NNP ..._... will_MD turn_VB up_RB in_IN Singapore_NNP ._. 
+[_NN Scarlett_NNP is_VBZ a_DT redhead_NN ,_, Giselle_NNP is_VBZ a_DT blonde_JJ ,_, both_DT are_VBP standing_VBG together_RB ,_, answering_VBG Will_NNP 's_POS questions_NNS 
+]_NN GISELLE_NNP :_: Jack_NNP Sparrow_NNP !_. 
+SCARLETT_NNP :_: I_PRP have_VBP n't_RB seen_VBN '_POS im_NN in_IN a_DT month_NN ._. 
+GISELLE_NNP :_: When_WRB you_PRP find_VBP him_PRP ,_, will_MD you_PRP give_VB him_PRP a_DT message_NN ?_. 
+[_NN Giselle_NNP slaps_VBZ Will_NNP in_IN the_DT face_NN 
+]_NN [_NN a_DT black_JJ man_NN who_WP is_VBZ a_DT shrimper_NN is_VBZ sitting_VBG on_IN a_DT dock_NN ,_, mending_VBG his_PRP$ nets_NNS 
+]_NN [_NN in_IN the_DT background_NN is_VBZ a_DT bunch_NN of_IN bananas_NNS on_IN the_DT dock_NN ,_, and_CC a_DT goat_NN being_VBG loaded_VBN aboard_IN a_DT ship_NN 
+]_NN SHRIMPER_NNP :_: Cannot_MD say_VBP about_IN Jack_NNP Sparrow_NNP ._. 
+But_CC dere_NN 's_VBZ a_DT island_NN ,_, just_RB south_RB of_IN de_IN straits_NNS ,_, where_WRB I_PRP trade_VBP spice_NN for_IN ..._... mmm_UH ..._... delicious_JJ long_JJ pork_NN ._. 
+Cannot_MD say_VBP about_IN Jack_NNP ._. 
+But_CC you_PRP find_VBP a_DT ship_NN dere_NN ._. 
+A_DT ship_NN wit_NN '_'' black_JJ sails_NNS ._. 
+Scene_NN :_: CANNIBAL_NN ISLAND_NNP :_: beach_NN [_NN Black_NNP Pearl_NNP seen_VBN stranded_VBN on_IN a_DT beach_NN ,_, through_IN a_DT spyglass_NN 
+]_NN SHRIMPER_NNP :_: My_PRP$ brother_NN will_MD take_VB you_PRP ashore_RB ._. 
+[_NN the_DT shrimper_NN 's_POS brother_NN is_VBZ rowing_NN Will_NNP toward_IN the_DT shore_VB 
+]_NN [_NN the_DT rower_NN stops_VBZ rowing_NN 
+]_NN WILL_NNP TURNER_NNP :_: What_WP 's_VBZ wrong_NN ?_. 
+The_DT beach_NN is_VBZ right_NN there_RB ._. 
+SHRIMPER_NNP 'S_VBZ BROTHER_NNP :_: ?_. :_: Ne_FW bougeais_FW pas_FW ,_, c_FW '_POS est_FW trop_FW dangereux_FW ._. 
+WILL_NNP TURNER_NNP :_: What_WP ?_. 
+SHRIMPER_NNP 'S_VBZ BROTHER_NNP :_: ?_. :_: Je_FW ne_FW peux_FW ,_, c_FW '_POS est_FW trop_FW dangereux_FW ,_, j_FW '_'' avais_FW le_FW dit_FW ._. 
+Bon_FW voyage_FW ,_, monsieur_FW ._. 
+[_NN Will_NNP jumps_NNS off_IN the_DT rowboat_NN ,_, swims_NNS ashore_RB ,_, wearing_VBG his_PRP$ sword_NN 
+]_NN [_NN aerial_JJ view_NN ,_, flying_VBG over_IN jungle_NN toward_IN beach_NN ,_, showing_VBG Will_NNP wading_VBG ashore_RB 
+]_NN [_NN Will_NNP walks_VBZ alongside_IN the_DT Black_NNP Pearl_NNP ,_, which_WDT is_VBZ tied_VBN with_IN ropes_NNS to_TO stakes_NNS in_IN the_DT sand_NN 
+]_NN WILL_NNP TURNER_NNP :_: Jack_NNP !_. 
+Jack_NNP Sparrow_NNP !_. 
+WILL_NNP TURNER_NNP :_: Marty_NNP !_. 
+Cotton_NNP !_. 
+Anybody_NN ?_. 
+[_NN Will_NNP wanders_VBZ into_IN the_DT palm_NN jungle_NN bordering_VBG the_DT beach_NN 
+]_NN [_NN Cotton_NNP 's_POS parrot_NN flutters_NNS up_RB and_CC lands_NNS atop_IN a_DT palm_NN stump_NN 
+]_NN COTTON_NN 'S_VBZ PARROT_NNP :_: Awk_UH !_. 
+WILL_NNP TURNER_NNP :_: Ah_UH !_. 
+A_DT familiar_JJ face_NN !_. 
+COTTON_NN 'S_VBZ PARROT_NNP :_: Rawk_UH !_. 
+Do_VBP n't_RB eat_VB me_PRP !_. 
+WILL_NNP TURNER_NNP :_: I_PRP 'm_VBP not_RB gonna_VBG eat_VB you_PRP ._. 
+COTTON_NN 'S_VBZ PARROT_NNP :_: Do_VBP n't_RB eat_VB me_PRP !_. 
+No_UH !_. 
+Do_VBP n't_RB eat_VB me_PRP !_. 
+Akkk_UH !_. 
+[_NN Will_NNP finds_VBZ Gibbs_NNP '_POS husk_NN canteen_NN hanging_VBG on_IN a_DT plant_NN ,_, trailing_VBG a_DT long_JJ string_NN 
+]_NN WILL_NNP TURNER_NNP :_: Gibbs_NNP ._. 
+[_NN Will_NNP follows_VBZ the_DT string_NN attached_VBN to_TO the_DT canteen_NN ,_, over_IN toward_IN a_DT large_JJ tree_NN 
+]_NN [_NN human_JJ eyes_NNS open_JJ in_IN the_DT background_NN ,_, from_IN a_DT man_NN camouflaged_VBN against_IN a_DT nearby_JJ tree_NN 
+]_NN [_NN the_DT camouflaged_VBN cannibal_NN shouts_VBZ and_CC jumps_VBZ out_IN from_IN the_DT tree_NN at_IN Will_NNP 
+]_NN [_NN Will_NNP is_VBZ yanked_VBN back_RB by_IN a_DT snare_VB ,_, and_CC dangles_NNS upside_RB -_- down_RB from_IN a_DT rope_NN 
+]_NN [_NN cannibals_NNS charge_VBP out_IN of_IN the_DT bushes_NNS from_IN all_DT directions_NNS ,_, Will_NNP keeps_VBZ them_PRP at_IN bay_NN with_IN his_PRP$ sword_NN 
+]_NN WILL_NNP TURNER_NNP :_: Euh_UH !_. 
+Unh_UH !_. 
+Ya_UH !_. 
+Come_VBN on_IN !_. 
+Let_VB 's_PRP go_VB !_. 
+Euh_UH !_. 
+Ya_UH !_. _UH 
+Come_VBN on_IN !_. 
+Who_WP wants_VBZ it_PRP ?_. 
+Unh_UH !_. 
+I_PRP could_MD do_VB this_DT all_DT day_NN !_. 
+Euh_UH !_. 
+Euh_UH !_. 
+Hah_UH !_. 
+[_NN a_DT cannibal_NN with_IN a_DT bone_NN through_IN his_PRP$ nose_NN uses_VBZ a_DT blowgun_NN to_TO shoot_VB a_DT dart_NN into_IN Will_NNP 's_POS neck_NN 
+]_NN [_NN Will_NNP drops_VBZ his_PRP$ sword_NN to_TO the_DT ground_NN 
+]_NN Scene_NN :_: CANNIBAL_NN ISLAND_NNP :_: throne_NN [_NN aerial_JJ view_NN of_IN flying_VBG over_IN the_DT island_NN 's_POS mountaintops_NNS ,_, toward_IN hilltop_NN throne_NN area_NN 
+]_NN [_NN Will_NNP is_VBZ carried_VBN while_IN hung_VBD from_IN a_DT bamboo_NN pole_NN ,_, his_PRP$ head_NN hanging_VBG back_RB 
+]_NN [_NN human_JJ skulls_NNS line_VBP the_DT path_NN along_IN which_WDT Will_NNP is_VBZ taken_VBN 
+]_NN [_NN Will_NNP is_VBZ carried_VBN over_IN a_DT roap_NN bridge_NN 
+]_NN [_NN one_CD cannibal_NN is_VBZ wearing_VBG an_DT English_NNP white_JJ wig_NN and_CC using_VBG a_DT Western_JJ style_NN fan_NN 
+]_NN ?_. :_: Hurry_VB -_- hurry_VB tan_NN daga_NN !_. 
+[_NN Will_NNP is_VBZ brought_VBN before_IN Jack_NNP ,_, who_WP sits_VBZ on_IN a_DT throne_NN 
+]_NN [_NN the_DT music_NN stops_VBZ ,_, Jack_NNP pops_VBZ his_PRP$ eyes_NNS open_JJ ,_, revealing_VBG that_IN his_PRP$ closed_JJ eyelids_NNS were_VBD painted_VBN to_TO look_VB like_IN open_JJ eyes_NNS 
+]_NN WILL_NNP TURNER_NNP :_: Jack_NNP ?_. 
+Jack_NNP Sparrow_NNP !_. 
+I_PRP can_MD honestly_RB say_VB I_PRP 'm_VBP glad_JJ to_TO see_VB you_PRP !_. 
+[_NN Jack_NNP says_VBZ nothing_NN ,_, arises_VBZ from_IN his_PRP$ throne_NN ,_, walks_VBZ over_IN to_TO Will_NNP 
+]_NN [_NN Jack_NNP pushes_VBZ one_CD finger_NN into_IN Will_NNP 's_POS shoulder_VB ,_, as_IN if_IN testing_NN how_WRB much_JJ meat_NN Will_NNP has_VBZ on_IN him_PRP 
+]_NN WILL_NNP TURNER_NNP :_: Jack_NNP !_. 
+It_PRP 's_VBZ me_PRP !_. 
+Will_NNP Turner_NNP !_. 
+JACK_NNP SPARROW_NNP :_: ?_. :_: Wa_FW -_- say_FW kohn_NN ._. 
+?_. :_: Een_FW dah_FW -_- lah_FW ._. 
+Eeseepi_FW ._. 
+CANNIBAL_NNP CROWD_NN :_: Eeseepi_FW ._. 
+WILL_NNP TURNER_NNP :_: Tell_VB 'em_PRP to_TO let_VB me_PRP down_RB ._. 
+JACK_NNP SPARROW_NNP :_: Kay_FW -_- lay_FW lam_NN ._. 
+Lam_FW piki_FW -_- piki_FW ._. 
+Lam_FW eensy_FW weensy_FW ._. 
+Lam_FW say_FW -_- say_FW ..._... eunuchy_JJ ._. 
+Snip_VB -_- snip_VB ._. 
+CANNIBAL_NNP CROWD_NN :_: Ahhh_UH ..._... eunuchy_JJ !_. 
+[_NN Jack_NNP begins_VBZ to_TO walk_VB away_RB ,_, as_IN if_IN disinterested_JJ ,_, his_PRP$ Compass_NNP hangs_VBZ from_IN his_PRP$ waist_NN 
+]_NN WILL_NNP TURNER_NNP :_: Jack_NNP !_. 
+The_DT Compass_NNP !_. 
+That_DT 's_VBZ all_DT I_PRP need_VBP ,_, Elizabeth_NNP is_VBZ in_IN danger_NN ._. 
+We_PRP were_VBD arrested_VBN for_IN trying_VBG to_TO help_VB *_NN you_PRP *_NN ._. 
+She_PRP faces_VBZ the_DT gallows_NNS !_. 
+[_NN Jack_NNP halts_NNS ,_, pauses_VBZ ,_, turns_VBZ around_IN and_CC casually_RB walks_VBZ back_RB 
+]_NN JACK_NNP SPARROW_NNP :_: Say_FW -_- say_FW lam_FW shoop_FW -_- shoop_FW sha_FW smalay_FW -_- lama_FW shoo_FW -_- koo_FW ._. 
+Savvy_VB ?_. 
+Ball_NN licky_VB -_- licky_VB ._. 
+Ball_NN licky_VB -_- licky_VB !_. 
+CANNIBAL_NN CROWD_NNP :_: Ball_NN licky_VB -_- licky_VB !_. 
+[_NN the_DT cannibals_NNS begin_VBP chanting_VBG ,_, repetitiously_RB 
+]_NN CANNIBAL_NN CROWD_NNP :_: Boom_FW -_- shoo_FW -_- boom_FW ,_, boom_FW -_- shoo_FW -_- boom_FW ,_, boom_FW -_- shoo_FW -_- boom_FW ..._... 
+JACK_NNP SPARROW_NNP :_: Save_VB me_PRP !_. 
+WILL_NNP TURNER_NNP :_: Jack_NNP ,_, what_WP did_VBD you_PRP tell_VBP them_PRP ?_. 
+No_UH !_. 
+What_WP about_IN Elizabeth_NNP ?_. 
+*_NN Jack_NNP ..._... !_. *_NN 
+[_NN Will_NNP is_VBZ carried_VBN across_IN a_DT rope_NN bridge_NN ,_, still_RB hanging_VBG underneath_IN the_DT bamboo_NN pole_NN 
+]_NN Port_NNP Royal_NNP [_NN Elizabeth_NNP sits_VBZ alone_RB in_IN her_PRP$ prison_NN cell_NN ,_, male_JJ prisoners_NNS in_IN the_DT next_JJ cell_NN whistle_VBP and_CC beckon_NN her_PRP$ 
+]_NN PRISONERS_NNP :_: ..._... we_PRP do_VBP n't_RB bite_VB ..._... Come_VBN on_IN ..._... 
+Prisoners_NNS :_: Where_WRB you_PRP goin_NN '_'' ..._... ?_. 
+)_) ELIZABETH_NNP SWANN_NNP :_: Why_WRB do_VBP n't_RB you_PRP tell_VBP me_PRP what_WP 's_VBZ happening_VBG ?_. 
+ELIZABETH_NNP SWANN_NNP :_: No_UH !_. 
+Will_NNP has_VBZ gone_VBN to_TO find_VB Jack_NNP !_. 
+ELIZABETH_NNP SWANN_NNP :_: He_PRP 's_VBZ a_DT better_JJR man_NN than_IN you_PRP give_VBP him_PRP credit_VBP for_IN ._. 
+[_NN a_DT horse_NN and_CC carriage_NN are_VBP waiting_VBG ,_, the_DT governor_NN opens_VBZ the_DT door_NN to_TO the_DT carriage_NN for_IN Elizabeth_NNP 
+]_NN ELIZABETH_NNP SWANN_NNP :_: A_DT fair_JJ trial_NN for_IN Will_NNP ends_VBZ in_IN a_DT hanging_VBG ._. 
+[_NN the_DT horse_NN and_CC carriage_NN quickly_RB ride_NN off_IN 
+]_NN [_NN the_DT horse_NN and_CC carriage_NN arrive_VB at_IN a_DT dock_NN 
+]_NN [_NN Captain_NNP Hawkins_NNP stands_VBZ silently_RB on_IN the_DT dock_NN facing_VBG out_IN to_TO sea_NN 
+]_NN [_NN the_DT captain_NN 's_POS body_NN soon_RB falls_VBZ ,_, revealing_VBG Mercer_NNP ,_, who_WP was_VBD standing_VBG behind_IN the_DT body_NN ,_, long_JJ knife_NN in_IN hand_NN 
+]_NN MERCER_NNP :_: Evening_NN ,_, Governor_NNP ._. 
+Shame_NN ,_, huh_NN ?_. 
+He_PRP was_VBD carryin_NN '_'' this_DT ._. 
+It_PRP 's_VBZ a_DT letter_NN to_TO the_DT King_NNP ._. 
+It_PRP 's_VBZ from_IN *_NN you_PRP *_NN ._. 
+[_NN horses_NNS and_CC soldiers_NNS arrive_VBP to_TO cut_VB off_RP the_DT governor_NN from_IN fleeing_VBG from_IN the_DT dock_NN 
+]_NN [_NN the_DT carriage_NN door_NN is_VBZ opened_VBN ,_, but_CC the_DT carriage_NN is_VBZ empty_JJ ,_, Elizabeth_NNP is_VBZ gone_VBN ]_NN 
+MERCER_NNP :_: Where_WRB is_VBZ she_PRP ?_. 
+[_NN Mercer_NNP grabs_NNS the_DT governor_NN by_IN the_DT lapels_NNS ,_, pushes_VBZ him_PRP up_RP against_IN the_DT side_NN of_IN the_DT carriage_NN 
+]_NN PORT_NNP ROYAL_NNP :_: EITC_NNP headquarters_NN [_NN darkened_JJ room_NN ]_NN [_NN Beckett_NNP walks_VBZ in_IN from_IN the_DT balcony_NN ,_, carrying_VBG a_DT lantern_NN 
+]_NN [_NN Beckett_NNP walks_VBZ to_TO a_DT table_NN ,_, opens_VBZ a_DT wooden_JJ box_NN ,_, finds_VBZ the_DT Letters_NNS of_IN Marque_NNP missing_VBG 
+]_NN LORD_NNP CUTLER_NNP BECKETT_NNP :_: No_DT doubt_NN you_PRP 've_VBP discovered_VBN that_DT loyalty_NN is_VBZ no_RB longer_RB the_DT currency_NN of_IN the_DT realm_NN ,_, as_IN your_PRP$ father_NN believes_VBZ ._. 
+[_NN Elizabeth_NNP slips_VBZ into_IN the_DT dark_JJ room_NN from_IN an_DT interior_JJ door_NN ,_, hands_NNS held_VBN behind_IN her_PRP$ 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Then_RB what_WP is_VBZ ?_. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: I_PRP 'm_VBP afraid_JJ that_DT *_NN currency_NN *_NN is_VBZ the_DT currency_NN of_IN the_DT realm_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: I_PRP expect_VBP then_RB that_IN we_PRP can_MD come_VB to_TO some_DT sort_NN of_IN understanding_NN ._. 
+I_PRP 'm_VBP here_RB to_TO negotiate_VB ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: I_PRP 'm_VBP listening_VBG ._. 
+[_NN Elizabeth_NNP pulls_VBZ a_DT pistol_NN ,_, points_NNS it_PRP at_IN Beckett_NNP 's_POS head_NN 
+]_NN LORD_NNP CUTLER_NNP BECKETT_NNP :_: I_PRP 'm_VBP listening_VBG *_NN intently_RB *_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: These_DT Letters_NNS of_IN Marque_NNP ,_, they_PRP are_VBP signed_VBN by_IN the_DT King_NNP ?_. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: Yes_UH ,_, and_CC they_PRP 're_VBP not_RB valid_JJ until_IN they_PRP bear_VBP my_PRP$ signature_NN and_CC my_PRP$ seal_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: Or_CC else_RB I_PRP would_MD not_RB still_RB be_VB here_RB ._. 
+You_PRP sent_VBD Will_NNP to_TO get_VB you_PRP the_DT Compass_NNP owned_VBN by_IN Jack_NNP Sparrow_NNP ._. 
+It_PRP will_MD do_VB you_PRP no_DT good_NN ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: Do_VBP explain_VB ._. 
+ELIZABETH_NNP SWANN_NNP :_: I_PRP have_VBP been_VBN to_TO Isla_NNP de_IN Muerta_NNP ,_, I_PRP have_VBP seen_VBN the_DT treasure_NN myself_PRP ._. 
+There_EX is_VBZ something_NN you_PRP need_VBP to_TO know_VB ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: Ah_UH ,_, I_PRP see_VBP ._. 
+*_NN You_PRP *_NN think_VBP the_DT Compass_NNP leads_VBZ only_RB to_TO the_DT Isla_NNP de_IN Muerta_NNP ,_, and_CC so_IN you_PRP hope_VBP to_TO *_NN save_VB *_NN me_PRP from_IN an_DT evil_JJ fate_NN ._. 
+But_CC you_PRP must_MD n't_RB worry_VB ._. 
+I_PRP care_VBP not_RB for_IN cursed_VBD Aztec_JJ gold_NN ._. 
+My_PRP$ desires_NNS are_VBP not_RB so_RB provincial_JJ ._. 
+There_EX 's_VBZ more_JJR than_IN one_CD chest_NN of_IN value_NN in_IN these_DT waters_NNS ._. 
+So_RB perhaps_RB you_PRP may_MD wish_VB to_TO enhance_VB your_PRP$ offer_NN ._. 
+[_NN Elizabeth_NNP cocks_NNS her_PRP$ pistol_NN 
+]_NN [_NN Beckett_NNP signs_VBZ the_DT document_NN 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Consider_VB into_IN your_PRP$ calculations_NNS that_IN you_PRP robbed_VBN me_PRP of_IN my_PRP$ wedding_NN night_NN ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: So_IN I_PRP did_VBD ._. 
+A_DT marriage_NN interrupted_VBN ._. 
+Or_CC fate_NN intervenes_NNS ._. 
+You_PRP make_VBP great_JJ efforts_NNS to_TO ensure_VB Jack_NNP Sparrow_NNP 's_POS freedom_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: These_DT are_VBP n't_RB going_VBG to_TO Jack_NNP ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: Oh_UH really_RB ._. 
+To_TO ensure_VB Mister_NNP Turner_NNP 's_POS freedom_NN ,_, then_RB ?_. 
+I_PRP 'll_MD still_RB want_VB that_DT Compass_NNP ._. 
+Consider_VB that_IN in_IN your_PRP$ calculations_NNS ._. 
+Longboat_NN [_NN Ragetti_NNP appears_VBZ to_TO be_VB reading_VBG a_DT Bible_NNP in_IN the_DT back_NN of_IN the_DT longboat_NN ,_, but_CC the_DT Bible_NNP is_VBZ upside_RB -_- down_RB 
+]_NN RAGETTI_NNP :_: Well_RB I_PRP say_VBP it_PRP was_VBD divine_NN providence_NN what_WP escaped_VBD us_PRP from_IN jail_NN ._. 
+PINTEL_NNP :_: And_CC I_PRP say_VBP ..._... it_PRP was_VBD me_PRP bein_NN '_'' *_NN clever_JJ *_NN ._. 
+Ai_VBZ n't_RB that_DT right_NN ,_, poochie_NN ?_. 
+[_NN the_DT dog_NN goes_VBZ to_TO the_DT bow_NN ,_, looking_VBG forward_RB ,_, keys_NNS in_IN its_PRP$ mouth_NN 
+]_NN RAGETTI_NNP :_: ?_. :_: Well_RB how_WRB '_POS dya_NN know_VB it_PRP were_VBD n't_RB /_NN was_VBD n't_RB divine_NN providence_NN what_WP inspired_VBD you_PRP to_TO *_NN be_VB *_NN clever_JJ ?_. 
+Anyways_RB ,_, I_PRP ai_VBZ n't_RB stealin_NN '_'' no_DT ship_NN ._. 
+PINTEL_NNP :_: It_PRP ai_VBZ n't_RB stealin_NN '_'' ._. 
+It_PRP 's_VBZ *_NN salvagin_NN '_'' *_NN !_. 
+And_CC since_IN when_WRB did_VBD you_PRP care_VBP ?_. 
+RAGETTI_NNP :_: Since_IN we_PRP 're_VBP not_RB immortal_NN no_DT more_JJR ._. 
+We_PRP gotta_NN take_NN care_NN of_IN our_PRP$ immortal_NN souls_NNS ._. 
+PINTEL_NNP :_: You_PRP know_VBP you_PRP ca_MD n't_RB read_VB ._. 
+RAGETTI_NNP :_: It_PRP 's_VBZ the_DT Bible_NNP ._. 
+You_PRP get_VBP credit_NN for_IN trying_VBG ._. 
+PINTEL_NNP :_: Pretendin_VBG '_POS to_TO read_NN the_DT Bible_NNP 's_VBZ a_DT *_NN lie_NN *_NN !_. 
+*_NN That_DT 's_VBZ *_NN a_DT mark_NN against_IN ya_PRP !_. 
+Look_VB !_. 
+There_EX it_PRP is_VBZ !_. 
+[_NN the_DT dog_NN jumps_NNS overboard_RB and_CC swims_NNS toward_IN shore_NN 
+]_NN RAGETTI_NNP :_: What_WP 's_VBZ got_VBD into_IN *_NN '_'' im_NN *_NN ?_. 
+PINTEL_NNP :_: Must_MD 've_VB seen_VBN a_DT catfish_NN ._. 
+Heh_UH -_- heh_UH -_- heh_UH -_- heh_UH -_- heh_UH -_- heh_UH ._. 
+[_NN both_DT laugh_NN ,_, the_DT dog_NN reaches_VBZ shore_VB and_CC looks_VBZ back_RB at_IN them_PRP 
+]_NN RAGETTI_NNP :_: Stupid_JJ mongrel_NN !_. 
+[_NN the_DT dog_NN on_IN shore_NN shakes_VBZ off_IN water_NN ,_, looks_VBZ back_RB at_IN them_PRP ,_, still_RB holding_VBG keys_NNS in_IN its_PRP$ mouth_NN 
+]_NN [_NN their_PRP$ boat_NN capsizes_NNS in_IN a_DT wave_NN ,_, they_PRP wade_VB ashore_RB ]_NN 
+Scene_NN :_: CANNIBAL_NN ISLAND_NNP :_: beach_NN PINTEL_NNP :_: Come_VBN on_IN !_. 
+Ha_UH -_- ha_UH -_- ha_UH -_- ha_UH -_- ha_UH -_- ha_UH ._. 
+Ha_UH -_- ha_UH -_- _UH _UH ha_UH -_- ha_UH ..._... 
+#_# #_# #_# PINTEL_NNP :_: It_PRP 's_VBZ ours_PRP for_IN the_DT taking_VBG !_. 
+RAGETTI_NNP :_: Tide_NN 's_POS comin_NN '_'' ,_, that_WDT should_MD help_VB ._. 
+Well_RB ,_, salvagin_NN '_'' is_VBZ saving_VBG ,_, in_IN a_DT manner_NN of_IN speaking_VBG ._. 
+PINTEL_NNP :_: There_EX 's_VBZ the_DT truth_NN of_IN *_NN it_PRP *_NN !_. 
+#_# #_# #_# [_NN cannibal_NN drums_NNS sound_VBP ]_NN RAGETTI_NNP :_: Suppose_VB we_PRP be_VB '_POS er_UH ..._... save_VB it_PRP as_RB soon_RB as_IN we_PRP can_MD ._. 
+What_WP with_IN our_PRP$ souls_NNS in_IN such_JJ a_DT vulnerable_JJ state_NN ,_, and_CC all_DT ._. 
+PINTEL_NNP :_: Amen_UH to_TO that_DT ._. 
+[_NN the_DT dog_NN barks_NNS ]_NN Scene_NN :_: CANNIBAL_NN ISLAND_NNP :_: throne_NN [_NN cannibal_NN drums_NNS are_VBP pounding_VBG 
+]_NN [_NN Jack_NNP is_VBZ on_IN the_DT throne_NN ,_, a_DT cannibal_NN hands_NNS Jack_NNP a_DT necklace_NN of_IN human_JJ toes_NNS 
+]_NN JACK_NNP SPARROW_NNP :_: Thank_VB you_PRP ._. 
+[_NN Jack_NNP looks_VBZ at_IN the_DT toe_NN ,_, bites_VBZ off_IN part_NN of_IN the_DT nail_NN to_TO trim_VB it_PRP 
+]_NN [_NN Jack_NNP spits_NNS out_RP the_DT piece_NN of_IN nail_NN ,_, reexamines_NNS the_DT toe_NN 
+]_NN Scene_NN :_: CANNIBAL_NN ISLAND_NNP :_: cages_NNS [_NN two_CD spherical_JJ cages_NNS of_IN six_CD Black_NNP Pearl_NNP crewmen_NN apiece_RB hang_VB from_IN ropes_NNS over_IN a_DT deep_JJ chasm_NN 
+]_NN [_NN Will_NNP is_VBZ in_IN the_DT same_JJ cage_NN with_IN Gibbs_NNP ,_, Cotton_NNP ,_, Marty_NNP ,_, and_CC two_CD others_NNS 
+]_NN WILL_NNP TURNER_NNP :_: Why_WRB would_MD he_PRP do_VB this_DT to_TO us_PRP ?_. 
+If_IN Jack_NNP is_VBZ their_PRP$ chief_JJ ._. 
+GIBBS_NNP :_: Aye_UH ,_, the_DT Pelegostos_NNP made_VBD Jack_NNP their_PRP$ chief_JJ ._. 
+But_CC he_PRP only_RB remains_VBZ chief_JJ as_IN long_RB as_IN he_PRP *_NN acts_NNS *_NN like_IN a_DT chief_NN ._. 
+WILL_NNP TURNER_NNP :_: So_IN he_PRP had_VBD no_DT choice_NN ._. 
+He_PRP 's_VBZ a_DT captive_NN then_RB as_RB much_JJ as_IN the_DT rest_NN of_IN us_PRP ._. 
+GIBBS_NNP :_: Worse_JJR ..._... as_IN it_PRP turns_VBZ out_RP ._. 
+See_VB ,_, the_DT Pelegostos_NNP believe_VBP that_IN Jack_NNP is_VBZ a_DT *_NN god_NN *_NN in_IN human_JJ form_NN ,_, and_CC they_PRP intend_VBP to_TO do_VB him_PRP the_DT honor_NN of_IN releasing_VBG him_PRP from_IN his_PRP$ fleshy_NN prison_NN ._. 
+[_NN Cotton_NNP bites_VBZ Gibbs_NNP '_POS fingers_NNS to_TO illustrate_VB 
+]_NN GIBBS_NNP :_: Argh_UH !_. 
+They_PRP 'll_MD roast_NN him_PRP and_CC eat_VB him_PRP ._. 
+WILL_NNP TURNER_NNP :_: Where_WRB 's_VBZ the_DT rest_NN of_IN the_DT crew_NN ?_. 
+GIBBS_NNP :_: These_DT cages_NNS we_PRP 're_VBP in_IN ..._... were_VBD n't_RB built_VBN 'til_IN *_NN after_IN *_NN we_PRP got_VBD here_RB ._. 
+[_NN Will_NNP was_VBD gripping_VBG the_DT bars_NNS made_VBN of_IN human_JJ bones_NNS ,_, but_CC quickly_RB pulls_VBZ his_PRP$ hand_NN away_RB 
+]_NN GIBBS_NNP :_: The_DT feast_NN is_VBZ about_IN to_TO begin_VB ._. 
+Jack_NNP 's_POS life_NN will_MD end_VB ..._... when_WRB the_DT drums_NNS stop_VBP ._. 
+WILL_NNP TURNER_NNP :_: Well_RB ,_, we_PRP ca_MD n't_RB just_RB sit_VB here_RB and_CC wait_VB then_RB ,_, can_MD we_PRP ?_. 
+Scene_NN :_: CANNIBAL_NN ISLAND_NNP :_: throne_NN [_NN cannibal_NN drums_NNS are_VBP pounding_VBG ]_NN JACK_NNP SPARROW_NNP :_: No_DT /_NN Oup_UH !_. 
+No_DT no_UH !_. 
+Oy_UH !_. 
+/_NN Wait_VB !_. 
+No_DT no_UH !_. 
+More_JJR wood_NN !_. 
+Big_JJ fire_NN !_. 
+*_NN Big_JJ *_NN fire_NN !_. 
+I_PRP am_VBP chief_JJ !_. 
+Want_VB big_JJ fire_NN !_. 
+Come_VBN on_IN !_. 
+JACK_NNP SPARROW_NNP :_: Oy_UH !_. /_NN Boy_NN !_. 
+Maboogie_FW snickel_FW -_- snickel_FW ._. 
+Tout_FW de_FW suite_FW !_. 
+Come_VBN on_IN !_. 
+More_JJR wood_NN !_. 
+[_NN the_DT cannibal_NN standing_NN next_JJ to_TO Jack_NNP leaves_VBZ to_TO put_VB more_JJR wood_NN on_IN the_DT fire_NN 
+]_NN [_NN the_DT cannibals_NNS put_VBP large_JJ pieces_NNS of_IN wood_NN on_IN the_DT fire_NN 
+]_NN [_NN the_DT cannibals_NNS turn_VBP around_RP to_TO find_VB that_IN Jack_NNP is_VBZ gone_VBN 
+]_NN Scene_NN :_: CANNIBAL_NN ISLAND_NNP :_: Jack_NNP [_NN Jack_NNP is_VBZ running_VBG across_IN a_DT foot_NN bridge_NN 
+]_NN [_NN Jack_NNP runs_VBZ up_IN to_TO a_DT cliff_NN edge_NN ,_, totters_NNS at_IN the_DT edge_NN ,_, looking_VBG down_RB 
+]_NN [_NN Jack_NNP examines_VBZ a_DT length_NN of_IN bamboo_NN pole_NN he_PRP finds_VBZ lying_VBG there_EX 
+]_NN [_NN Jack_NNP goes_VBZ into_IN a_DT hut_NN ,_, sees_VBZ various_JJ supplies_NNS ,_, the_DT sound_NN of_IN buzzing_VBG flies_VBZ is_VBZ heard_VBN 
+]_NN [_NN Jack_NNP picks_VBZ up_RP a_DT rope_NN ,_, starts_VBZ to_TO exit_VB ,_, halts_NNS ,_, looks_VBZ back_RB inside_IN 
+]_NN [_NN Jack_NNP goes_VBZ back_RB in_RB ,_, picks_VBZ up_RP a_DT can_MD of_IN paprika_NN with_IN the_DT EITC_NNP logo_NN on_IN the_DT bottom_JJ 
+]_NN [_NN Jack_NNP walks_VBZ outside_IN the_DT hut_NN ,_, the_DT entire_JJ tribe_NN is_VBZ waiting_VBG silently_RB outside_RB ,_, staring_VBG at_IN him_PRP 
+]_NN JACK_NNP SPARROW_NNP :_: Oh_UH bugger_UH ._. 
+[_NN Jack_NNP drops_VBZ his_PRP$ coil_NN of_IN rope_NN ,_, sprinkles_VBZ paprika_NN on_IN his_PRP$ armpits_NNS 
+]_NN JACK_NNP SPARROW_NNP :_: Little_JJ seasoning_VBG ._. 
+Eh_UH ?_. 
+[_NN Jack_NNP is_VBZ now_RB tied_VBN up_RP to_TO a_DT bamboo_NN pole_NN and_CC hanging_VBG face_NN down_RB over_IN a_DT pile_NN of_IN wood_NN 
+]_NN [_NN cannibals_NNS are_VBP dancing_VBG wildly_RB 
+]_NN JACK_NNP SPARROW_NNP :_: Well_RB done_VBN ._. 
+Scene_NN :_: CANNIBAL_NN ISLAND_NNP :_: cages_NNS [_NN the_DT men_NNS begin_VBP swinging_VBG the_DT cages_NNS with_IN increasingly_RB wide_JJ arcs_NNS ]_NN 
+[_NN both_DT cages_NNS finally_RB come_VBP within_IN reach_NN of_IN the_DT cliff_NN ,_, they_PRP grab_VBP vines_NNS and_CC hang_VB on_IN to_TO the_DT cliff_NN 
+]_NN GIBBS_NNP :_: Put_VB your_PRP$ legs_NNS through_IN ,_, start_VB to_TO climb_VB !_. 
+Agh_UH` !_. 
+WILL_NNP TURNER_NNP :_: Come_VBN on_IN men_NNS !_. 
+It_PRP 'll_MD take_VB all_DT of_IN -_- us_NN /_NN the_DT -_- rest_NN to_TO crew_NN the_DT Black_NNP Pearl_NNP !_. 
+LEECH_NNP :_: Actually_RB ,_, you_PRP wo_MD n't_RB need_VB everyone_NN ._. 
+'_POS Bout_RB six_CD would_MD do_VB !_. 
+Ohhh_UH ..._... dear_RB ._. 
+[_NN Gibbs_NNP nods_VBZ ]_NN WILL_NNP TURNER_NNP :_: Hurry_VB !_. 
+[_NN each_DT cage_NN group_NN begins_VBZ racing_VBG against_IN each_DT other_JJ up_RP the_DT cliff_NN 
+]_NN Come_VBN on_IN !_. 
+Go_VB !_. 
+Go_VB !_. 
+Go_VB !_. 
+Come_VBN on_IN !_. 
+Give_VB it_PRP all_DT you_PRP got_VBD !_. 
+[_NN a_DT cannibal_NN crosses_VBZ the_DT rope_NN bridge_NN 
+]_NN Hey_UH !_. 
+Hey_UH 
+#_# #_# #_# WILL_NNP TURNER_NNP :_: Stop_VB !_. 
+Stop_VB !_. 
+Stop_VB !_. 
+Shhh_UH !_. 
+Shhh_UH !_. 
+[_NN the_DT cannibal_NN crosses_VBZ rope_NN bridge_NN 
+]_NN LEECH_NNP :_: Shhh_UH !_. 
+[_NN one_CD cage_NN group_NN decides_VBZ to_TO take_VB the_DT risk_NN of_IN climbing_VBG ,_, despite_IN the_DT nearby_JJ cannibal_NN 
+]_NN What_WP 's_VBZ he_PRP doing_VBG ?_. 
+LEEECH_NNP :_: Stop_VB !_. 
+..._... [_NN one_CD of_IN the_DT men_NNS in_IN the_DT climbing_VBG cage_NN grabs_NNS a_DT coral_NN snake_NN from_IN the_DT cliff_NN instead_RB of_IN a_DT vine_NN 
+]_NN [_NN p._NN 50_CD ]_NN [_NN when_WRB the_DT man_NN holding_VBG the_DT snake_NN lets_VBZ go_VB ,_, their_PRP$ cage_NN falls_VBZ ,_, the_DT rope_NN breaks_NNS ,_, and_CC their_PRP$ cage_NN falls_VBZ to_TO the_DT bottom_JJ 
+]_NN WILL_NNP TURNER_NNP :_: Move_VB !_. 
+CANNIBAL_NN ISLAND_NNP :_: throne_NN [_NN drums_NNS pounding_VBG ,_, a_DT cannibal_NN crosses_VBZ a_DT bridge_NN to_TO the_DT bonfire_NN area_NN 
+]_NN Ahhh_UH !_. 
+Fye_FW -_- fye_FW !_. 
+CANNIBAL_NN CROWD_NNP :_: Ahhh_UH !_. 
+Fye_FW -_- _FW _FW fye_FW !_. 
+[_NN the_DT cannibal_NN from_IN the_DT bridge_NN arrives_VBZ to_TO tell_VB the_DT tribe_NN of_IN the_DT men_NNS in_IN cages_NNS escaping_VBG 
+]_NN Da_FW latazo_FW !_. 
+Da_FW litozo_FW !_. 
+Hay_FW la_FW paka_FW say_FW -_- say_FW ._. 
+[_NN the_DT crowd_NN stands_VBZ silently_RB ,_, not_RB knowing_VBG whether_IN to_TO stay_VB or_CC to_TO chase_VB the_DT escapees_NNS 
+]_NN JACK_NNP SPARROW_NNP :_: Well_RB ,_, go_VB on_IN !_. 
+Go_VB get_VB them_PRP !_. 
+Hay_FW ala_FW !_. 
+CANNIBAL_NN CROWD_NNP :_: Hay_FW ala_FW !_. 
+Ala_FW ,_, ala_FW !_. 
+[_NN cannibals_NNS run_VBP off_IN to_TO chase_VB after_IN men_NNS who_WP escaped_VBD from_IN cages_NNS 
+]_NN [_NN in_IN their_PRP$ haste_NN one_CD cannibal_NN drops_VBZ a_DT lighted_VBN torch_NN need_VBP the_DT pile_NN of_IN wood_NN under_IN Jack_NNP 
+]_NN JACK_NNP SPARROW_NNP :_: No_UH !_. 
+No_DT no_UH !_. 
+Oy_UH !_. 
+No_DT no_UH !_. 
+[_NN the_DT edges_NNS of_IN the_DT wood_NN begin_VB to_TO catch_VB fire_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Not_RB good_JJ ._. 
+[_NN Jack_NNP blows_NNS futilely_RB at_IN the_DT igniting_VBG wood_NN 
+]_NN Scene_NN :_: CANNIBAL_NN ISLAND_NNP :_: cage_NN [_NN the_DT remaining_VBG cage_NN reaches_VBZ the_DT top_NN of_IN the_DT cliff_NN 
+]_NN WILL_NNP TURNER_NNP :_: Cut_VB it_PRP loose_JJ !_. 
+Find_VBP a_DT rock_NN !_. 
+[_NN Will_NNP manages_VBZ to_TO sever_VB the_DT cage_NN 's_POS cable_NN by_IN hammering_VBG it_PRP with_IN a_DT rock_NN 
+]_NN [_NN the_DT men_NNS in_IN Will_NNP 's_POS cage_NN are_VBP unable_JJ to_TO the_DT cage_NN open_JJ in_IN time_NN before_IN the_DT cannibals_NNS will_MD reach_VB them_PRP 
+]_NN WILL_NNP TURNER_NNP :_: Roll_VB the_DT cage_NN !_. 
+[_NN the_DT cage_NN rolls_NNS down_RP the_DT hill_NN 
+]_NN [_NN the_DT cage_NN falls_VBZ over_IN the_DT edge_NN of_IN a_DT tiny_JJ cliff_NN 
+]_NN 
+[_NN the_DT cage_NN rolls_NNS down_RP the_DT hill_NN ,_, rolls_NNS up_RP a_DT coconut_NN palm_NN trunk_NN ,_, crashes_VBZ to_TO the_DT ground_NN ,_, unbroken_JJ 
+]_NN WILL_NNP TURNER_NNP :_: Lift_VB the_DT cage_NN !_. 
+Hurry_VB !_. 
+GIBBS_NNP :_: Come_VBN on_IN ,_, men_NNS !_. 
+Lift_VB it_PRP like_VBP a_DT lady_NN 's_POS skirt_NN !_. 
+[_NN the_DT men_NNS begin_VBP running_VBG with_IN their_PRP$ legs_NNS protruding_VBG from_IN the_DT cage_NN ,_, holding_VBG up_RP the_DT cage_NN 
+]_NN [_NN Marty_NNP 's_POS short_JJ legs_NNS make_VBP a_DT running_VBG motion_NN but_CC are_VBP unable_JJ to_TO reach_VB the_DT ground_NN 
+]_NN Come_VBN on_IN !_. 
+Scene_NN :_: CANNIBAL_NN _NN ISLAND_NNP :_: hut_NN [_NN Jack_NNP is_VBZ running_VBG off_RP with_IN the_DT bamboo_NN pole_NN tied_VBN to_TO his_PRP$ back_RB 
+]_NN [_NN Jack_NNP encounters_VBZ the_DT cannibal_NN boy_NN ,_, standing_NN silently_RB with_IN a_DT fork_VB and_CC a_DT knife_NN ,_, one_CD in_IN each_DT hand_NN 
+]_NN [_NN Jack_NNP grabs_NNS the_DT knife_NN from_IN the_DT boy_NN ,_, and_CC begins_VBZ cutting_VBG his_PRP$ rope_NN off_IN 
+]_NN [_NN two_CD cannibal_NN women_NNS appear_VBP 
+]_NN [_NN Jack_NNP charges_NNS ,_, but_CC the_DT bamboo_NN pole_NN on_IN his_PRP$ back_RB spears_NNS a_DT coconut_NN in_IN a_DT pile_NN near_IN the_DT cliff_NN edge_NN 
+]_NN [_NN Jack_NNP turns_VBZ suddenly_RB ,_, which_WDT flings_NNS the_DT coconut_NN off_IN the_DT end_NN of_IN the_DT pole_NN into_IN a_DT cannibal_NN 's_POS face_NN 
+]_NN [_NN the_DT cannibal_NN slowly_RB lifts_VBZ the_DT dripping_VBG coconut_NN off_IN his_PRP$ face_NN ,_, scowling_VBG at_IN Jack_NNP 
+]_NN Scene_NN :_: CANNIBAL_NN ISLAND_NNP :_: cage_NN [_NN the_DT cage_NN rolls_NNS over_IN a_DT ledge_NN into_IN a_DT small_JJ chasm_NN holding_VBG a_DT river_NN 
+]_NN [_NN cannibals_NNS throw_VBP spears_NNS and_CC shoot_VB arrows_NNS at_IN the_DT men_NNS in_IN the_DT water_NN ,_, the_DT men_NNS swim_VBP underwater_JJ 
+]_NN GIBBS_NNP :_: This_DT way_NN ,_, lads_NNS !_. 
+Scene_NN :_: CANNIBAL_NN ISLAND_NNP :_: Jack_NNP [_NN the_DT two_CD cannibal_NN women_NNS throw_VBP numerous_JJ fruits_NNS at_IN Jack_NNP while_IN the_DT pole_NN is_VBZ still_RB on_IN his_PRP$ back_RB 
+]_NN [_NN several_JJ of_IN the_DT fruits_NNS become_VBP impaled_JJ along_IN the_DT pole_NN ,_, making_VBG Jack_NNP look_VB like_IN he_PRP 's_VBZ part_NN of_IN a_DT shish_NN -_- ka_NN -_- bob_NN 
+]_NN CANNIBAL_NN BOY_NN :_: Da_FW litozo_FW !_. 
+Da_FW litozo_FW !_. 
+[_NN Jack_NNP pole_NN vaults_NNS across_IN the_DT chasm_NN ,_, barely_RB lands_NNS on_IN the_DT other_JJ edge_NN safely_RB 
+]_NN [_NN but_CC the_DT fruit_NN slides_NNS down_RB to_TO the_DT end_NN of_IN his_PRP$ pole_NN ,_, putting_VBG weight_NN on_IN the_DT end_NN over_IN the_DT chasm_NN 
+]_NN [_NN Jack_NNP falls_VBZ into_IN the_DT chasm_NN ,_, screaming_VBG 
+]_NN [_NN Jack_NNP 's_POS pole_NN catches_VBZ between_IN the_DT two_CD walls_NNS of_IN a_DT chasm_NN 
+]_NN [_NN two_CD native_JJ women_NNS watch_VBP Jack_NNP fall_NN into_IN the_DT chasm_NN ,_, with_IN disinterest_NN 
+]_NN CANNIBAL_NN _NN WOMAN_NNP :_: A_FW -_- geev_FW -_- nee_FW ._. 
+Uh_UH -_- boogie_FW ?_. 
+[_NN the_DT two_CD cannibal_NN women_NNS walk_VBP off_RP ,_, disinterested_JJ 
+]_NN JACK_NNP SPARROW_NNP :_: Bugger_UH ._. 
+[_NN Jack_NNP 's_POS pole_NN slips_VBZ loose_JJ ,_, he_PRP falls_VBZ into_IN the_DT chasm_NN ,_, screaming_VBG 
+]_NN [_NN As_IN Jack_NNP falls_VBZ through_IN the_DT first_JJ rope_NN bridge_NN ,_, the_DT rope_NN comes_VBZ undone_VBN but_CC is_VBZ still_RB attached_VBN to_TO the_DT bamboo_NN pole_NN and_CC to_TO Jack_NNP 
+]_NN [_NN Jack_NNP is_VBZ hung_VBN upside_RB -_- down_RB in_IN the_DT chasm_NN when_WRB the_DT bamboo_NN pole_NN catches_VBZ 
+]_NN [_NN Jack_NNP falls_VBZ through_IN a_DT total_NN of_IN six_CD rope_NN bridges_NNS 
+]_NN [_NN Jack_NNP lands_NNS on_IN his_PRP$ back_RB on_IN grass_NN 
+]_NN [_NN bamboo_NN pole_NN comes_VBZ down_RB at_IN him_PRP ,_, spears_NNS the_DT ground_NN near_IN his_PRP$ head_NN 
+]_NN [_NN fruits_NNS tumble_NN down_RB afterwards_RB 
+]_NN Scene_NN :_: CANNIBAL_NN ISLAND_NNP :_: beach_NN [_NN only_RB Ragetti_NNP and_CC Cotton_NNP 's_POS parrot_NN are_VBP aboard_IN the_DT Black_NNP Pearl_NNP ,_, Pintel_NNP is_VBZ on_IN the_DT beach_NN below_IN 
+]_NN PINTEL_NNP :_: Pull_VB -_- loose_VB /_NN Unloose_VB the_DT mooring_VBG lines_NNS !_. 
+The_DT mooring_VBG lines_NNS !_. 
+[_NN the_DT monkey_NN chatters_NNS ,_, grabs_NNS Ragetti_NNP 's_POS wooden_JJ eye_NN 
+]_NN RAGETTI_NNP :_: Thief_NN /_NN Thing_NN !_. 
+Little_JJ hairy_JJ thief_NN /_NN thing_NN !_. 
+Give_VB it_PRP back_RB !_. 
+Do_VBP n't_RB bite_VB it_PRP !_. 
+PINTEL_NNP :_: Unloose_VB the_DT mooring_VBG lines_NNS !_. 
+RAGETTI_NNP :_: He_PRP 's_VBZ got_VBD me_PRP eye_NN !_. 
+He_PRP wo_MD n't_RB give_VB it_PRP back_RB !_. 
+PINTEL_NNP :_: Well_RB ,_, how_WRB 'd_MD you_PRP get_VB it_PRP back_RB last_JJ time_NN ?_. 
+GIBBS_NNP :_: Excellent_JJ work_NN !_. 
+Work_NN 's_POS half_NN done_VBN !_. 
+PINTEL_NNP :_: We_PRP done_VBN it_PRP for_IN you_PRP !_. 
+Knowin'_VBG you_PRP 'd_MD be_VB comin'_VBD back_RB for_IN us_PRP ._. 
+GIBBS_NNP :_: Make_VB /_NN Making_VBG ready_JJ to_TO sail_VB /_NN cast_VB -_- off_RB #_# #_# #_# ,_, boy_NN ._. 
+WILL_NNP TURNER_NNP :_: What_WP about_IN Jack_NNP ?_. 
+I_PRP wo_MD n't_RB leave_VB without_IN him_PRP ._. 
+JACK_NNP SPARROW_NNP :_: Hey_UH !_. 
+[_NN Jack_NNP appears_VBZ at_IN a_DT distance_NN ,_, running_VBG down_RP the_DT beach_NN toward_IN the_DT crew_NN and_CC ship_NN 
+]_NN [_NN a_DT crowd_NN of_IN cannibals_NNS suddenly_RB run_VBP down_RB on_IN the_DT beach_NN behind_IN Jack_NNP ,_, pursuing_VBG him_PRP 
+]_NN WILL_NNP TURNER_NNP :_: Time_NN to_TO go_VB ._. 
+GIBBS_NNP :_: *_NN Cast_VBN off_RP those_DT lines_NNS !_. *_NN 
+[_NN Jack_NNP screams_VBZ while_IN running_VBG down_RP the_DT beach_NN 
+]_NN GIBBS_NNP :_: Make_VB ready_JJ to_TO cast_VB off_RP !_. 
+#_# #_# #_# !_. [_NN the_DT dog_NN is_VBZ down_RP the_DT beach_NN with_IN Jack_NNP ,_, barking_VBG at_IN him_PRP 
+]_NN JACK_NNP SPARROW_NNP :_: Good_JJ doggie_NN !_. 
+Doggie_NN ._. 
+[_NN Jack_NNP grabs_NNS ahold_NN of_IN rigging_VBG on_IN the_DT side_NN of_IN the_DT departing_VBG ship_NN 
+]_NN JACK_NNP SPARROW_NNP :_: *_NN Alas_UH *_NN ,_, my_PRP$ children_NNS !_. 
+This_DT is_VBZ the_DT day_NN you_PRP shall_MD always_RB remember_VB as_IN the_DT day_NN that_IN you_PRP almost_RB -_- 
+[_NN big_JJ wave_NN splashes_NNS Jack_NNP from_IN behind_IN 
+]_NN JACK_NNP SPARROW_NNP :_: ..._... Captain_NNP Jack_NNP ..._... Sparrow_NNP ._. 
+[_NN the_DT crowd_NN of_IN cannibals_NNS falls_VBZ silent_JJ as_IN the_DT ship_NN leaves_VBZ 
+]_NN [_NN the_DT dog_NN barks_NNS excitedly_RB at_IN the_DT departing_VBG ship_NN 
+]_NN [_NN all_DT heads_VBZ in_IN the_DT crowd_NN of_IN cannibals_NNS turn_VBP toward_IN the_DT dog_NN 
+]_NN [_NN the_DT dog_NN falls_VBZ silent_JJ ,_, whimpers_NNS ,_, then_RB flees_NNS back_RB down_RP the_DT beach_NN 
+]_NN [_NN the_DT cannibals_NNS chase_NN the_DT dog_NN ,_, shouting_VBG 
+]_NN Scene_NN :_: Black_NNP Pearl_NNP GIBBS_NNP :_: Let_VB 's_NN put_VB some_DT distance_NN between_IN us_PRP and_CC this_DT island_NN ,_, and_CC head_NN out_IN to_TO open_VB sea_NN ._. 
+JACK_NNP SPARROW_NNP :_: Yes_UH to_TO the_DT first_JJ ,_, yes_UH to_TO the_DT second_NN ,_, but_CC only_RB insofar_RB as_IN we_PRP keep_VBP to_TO the_DT shallows_NNS as_RB much_RB as_IN possible_JJ ._. 
+GIBBS_NNP :_: Uh_UH ,_, _UH that_WDT seems_VBZ a_DT bit_NN contradictory_JJ ,_, Captain_NNP ._. 
+JACK_NNP SPARROW_NNP :_: I_PRP have_VBP every_DT faith_NN in_IN your_PRP$ reconciliatory_NN navigational_NN skills_NNS ,_, Master_NNP Gibbs_NNP ,_, now_RB where_WRB is_VBZ that_DT monkey_NN ?_. 
+I_PRP want_VBP to_TO shoot_VB *_NN something_NN *_NN ._. 
+[_NN the_DT monkey_NN screams_VBZ ,_, drops_VBZ Ragetti_NNP 's_POS eye_NN ,_, Ragetti_NNP grabs_NNS his_PRP$ eye_NN ,_, spits_NNS on_IN it_PRP ,_, rubs_VBZ the_DT spit_NN around_IN on_IN it_PRP 
+]_NN [_NN the_DT monkey_NN chatters_NNS and_CC climbs_VBZ into_IN the_DT rigging_VBG ]_NN 
+[_NN Jack_NNP is_VBZ ready_JJ to_TO shoot_VB the_DT monkey_NN with_IN his_PRP$ pistol_NN 
+]_NN WILL_NNP TURNER_NNP :_: Jack_NNP ._. 
+JACK_NNP SPARROW_NNP :_: Ah_UH ._. 
+WILL_NNP TURNER_NNP :_: Elizabeth_NNP is_VBZ in_IN danger_NN ._. 
+JACK_NNP SPARROW_NNP :_: Have_VBP you_PRP considered_VBD keeping_VBG a_DT more_RBR watchful_JJ eye_NN on_IN '_POS er_UH ?_. 
+Maybe_RB just_RB lock_VB her_PRP$ up_RB somewhere_RB ._. 
+WILL_NNP TURNER_NNP :_: She_PRP *_NN is_VBZ *_NN locked_VBN up_RP ,_, in_IN a_DT prison_NN ,_, bound_VBN to_TO hang_VB for_IN helping_VBG *_NN you_PRP *_NN !_. 
+JACK_NNP SPARROW_NNP :_: There_EX comes_VBZ a_DT time_NN when_WRB one_PRP must_MD take_VB responsibility_NN for_IN one_CD 's_POS mistakes_NNS ._. 
+[_NN Will_NNP pulls_VBZ a_DT sword_NN from_IN the_DT waistband_NN of_IN a_DT pirate_NN who_WP is_VBZ turned_VBN around_IN ,_, points_NNS it_PRP at_IN Jack_NNP 
+]_NN WILL_NNP TURNER_NNP :_: I_PRP need_NN that_IN Compass_NNP of_IN yours_NNS ,_, Jack_NNP 
+._. I_PRP must_MD trade_VB it_PRP for_IN her_PRP$ freedom_NN ._. 
+[_NN Jack_NNP pushes_VBZ Will_NNP 's_POS sword_NN aside_RB 
+]_NN JACK_NNP SPARROW_NNP :_: Mister_NNP Gibbs_NNP !_. 
+GIBBS_NNP :_: Cap_NNP '_POS n_NN ._. 
+JACK_NNP SPARROW_NNP :_: We_PRP have_VBP a_DT need_NN to_TO travel_VB upriver_NN ._. 
+GIBBS_NNP :_: By_IN need_VBP ,_, d_SYM '_POS you_PRP mean_NN a_DT ..._... trifling_VBG need_VBP ,_, uh_UH /_NN a_DT ..._... fleeting_JJ ,_, as_IN in_IN say_VBP in_IN a_DT passing_VBG fancy_JJ ?_. 
+JACK_NNP SPARROW_NNP :_: No_DT ,_, a_DT ..._... resolute_NN and_CC unyielding_VBG need_VBP ._. 
+WILL_NNP TURNER_NNP :_: What_WP we_PRP need_VBP to_TO do_VB is_VBZ make_VB sail_NN for_IN Port_NNP Royal_NNP with_IN all_DT haste_NN ._. 
+JACK_NNP SPARROW_NNP :_: William_NNP ..._... I_PRP shall_MD trade_VB you_PRP the_DT Compass_NNP ,_, if_IN you_PRP will_MD help_VB me_PRP ..._... to_TO find_VB *_NN this_DT *_NN ._. 
+WILL_NNP TURNER_NNP :_: You_PRP want_VBP me_PRP to_TO find_VB this_DT ?_. 
+JACK_NNP SPARROW_NNP :_: No._NN 
+*_NN You_PRP *_NN want_VBP you_PRP to_TO find_VB this_DT ._. 
+Because_IN the_DT finding_VBG this_DT finds_VBZ you_PRP incapacitorially_RB finding_VBG and_CC /_NN or_CC locating_VBG and_CC your_PRP$ discovering_VBG the_DT detecting_VBG of_IN a_DT way_NN to_TO save_VB your_PRP$ dolly_RB /_NN dotty_NN belle_FW ol_NN '_'' ..._... what_WP 's_VBZ -_- her_PRP -_- face_NN ._. 
+Savvy_VB ?_. 
+WILL_NNP TURNER_NNP :_: This_DT ..._... is_VBZ going_VBG to_TO save_VB Elizabeth_NNP ?_. 
+JACK_NNP SPARROW_NNP :_: How_WRB much_JJ do_VBP you_PRP know_VBP about_IN Davy_NNP Jones_NNP ?_. 
+WILL_NNP TURNER_NNP :_: Not_RB much_JJ ._. 
+JACK_NNP SPARROW_NNP :_: Yeah_UH ,_, it_PRP 's_VBZ gonna_VBG save_VB Elizabeth_NNP ._. 
+Scene_NN :_: Edinburgh_NNP Trader_NNP [_NN a_DT crewman_NN swabbing_VBG the_DT deck_NN happens_VBZ to_TO notice_VB a_DT white_JJ dress_NN tucked_VBN in_IN a_DT corner_NN ,_, pulls_VBZ it_PRP out_IN 
+]_NN [_NN the_DT crewmen_NN are_VBP arguing_VBG loudly_RB about_IN the_DT newfound_NN dress_NN 
+]_NN BELLAMY_NNP :_: What_WP 's_VBZ all_PDT this_DT ?_. 
+If_IN you_PRP both_DT fancy_JJ the_DT dress_NN ,_, you_PRP 'll_MD just_RB have_VB to_TO share_VB ,_, and_CC wear_VB it_PRP one_CD after_IN the_DT other_JJ ._. 
+BURSAR_NNP :_: It_PRP 's_VBZ not_RB like_IN that_DT ,_, Sir_NNP ._. 
+This_DT ship_NN is_VBZ haunted_VBN ._. 
+BELLAMY_NNP :_: Is_VBZ it_PRP now_RB ?_. 
+'N_CC '_POS you_PRP ?_. 
+QUARTERMASTER_NNP :_: The_DT ..._... female_JJ presence_NN ..._... amongst_IN us_PRP ,_, yes_UH ..._... all_PDT the_DT men_NNS ..._... they_PRP can_MD feel_VB it_PRP ._. 
+The_DT ghost_NN of_IN a_DT lady_NN ,_, widowed_VBN before_IN her_PRP$ marriage_NN ,_, I_PRP figure_VBP it_PRP ._. 
+Searching_NNP for_IN her_PRP$ husband_NN ,_, lost_VBD at_IN sea_NN ._. 
+A_DT virgin_JJ ,_, too_RB ,_, likely_JJ as_IN not_RB ._. 
+And_CC that_DT bodes_VBZ ill_JJ by_IN all_DT accounts_NNS ._. 
+BURSAR_NNP :_: I_PRP say_VBP ..._... that_IN we_PRP throw_VBP the_DT dress_NN overboard_RB ,_, and_CC we_PRP hope_VBP the_DT spirit_NN finds_VBZ it_PRP ._. 
+QUARTERMASTER_NNP :_: No_UH !_. 
+That_DT -_- that_WDT will_MD just_RB anger_NN the_DT spirit_NN ,_, Sir_NNP ._. 
+What_WP we_PRP need_VBP to_TO do_VB is_VBZ find_VB out_IN what_WP the_DT spirit_NN needs_VBZ ,_, and_CC then_RB just_RB get_VB it_PRP back_RB !_. 
+BELLAMY_NNP :_: Enough_JJ !_. 
+Enough_JJ !_. 
+You_PRP 're_VBP a_DT pair_NN of_IN superstitious_JJ goats_NNS and_CC it_PRP 's_VBZ got_VBD the_DT best_JJS of_IN you_PRP ._. 
+Now_RB this_DT appears_VBZ to_TO be_VB no_DT more_JJR as_IN we_PRP have_VBP a_DT stowaway_NN aboard_IN ._. 
+A_DT young_JJ woman_NN ,_, by_IN the_DT look_NN of_IN it_PRP ._. 
+I_PRP want_VBP you_PRP to_TO search_VB the_DT ship_NN and_CC find_VB '_POS er_UH ._. 
+Oh_UH ,_, and_CC uh_UH ..._... she_PRP 's_VBZ probably_RB naked_JJ ._. 
+[_NN the_DT crew_NN enthusiastically_RB rushes_VBZ off_IN in_IN search_NN of_IN the_DT stowaway_NN 
+]_NN Pantano_NNP River_NNP [_NN aerial_JJ view_NN of_IN the_DT mouth_NN of_IN the_DT Pantano_NNP River_NNP ,_, two_CD longboats_NNS are_VBP beginning_VBG their_PRP$ way_NN up_RP the_DT river_NN 
+]_NN [_NN the_DT longboats_NNS are_VBP in_IN a_DT swampy_NN area_NN with_IN twisted_JJ roots_NNS 
+]_NN WILL_NNP TURNER_NNP :_: Why_WRB is_VBZ Jack_NNP afraid_JJ of_IN the_DT open_JJ ocean_NN ?_. 
+GIBBS_NNP :_: Well_RB ,_, if_IN you_PRP believe_VBP such_JJ things_NNS ,_, there_EX 's_VBZ a_DT beast_NN does_VBZ the_DT bidding_NN of_IN Davy_NNP Jones_NNP ._. 
+A_DT fearsome_JJ creature_NN with_IN giant_NN tentacles_NNS that_WDT suction_NN your_PRP$ face_NN clean_VB off_RP ._. 
+And_CC drag_VB an_DT entire_JJ ship_NN past_JJ the_DT crushing_VBG darkness_NNS ._. 
+The_DT Kraken_NNP !_. 
+[_NN Marty_NNP turns_VBZ around_IN at_IN mention_NN of_IN the_DT word_NN ,_, Pintel_NNP and_CC Ragetti_NNP look_VBP at_IN each_DT other_JJ 
+]_NN GIBBS_NNP :_: They_PRP say_VBP the_DT stench_NN of_IN its_PRP$ breath_NN is_VBZ like_IN -_- ooh_UH !_. 
+Imagine_VB :_: The_DT last_JJ thing_NN you_PRP know_VBP on_IN God_NNP 's_POS green_JJ earth_NN is_VBZ the_DT roar_NN of_IN the_DT Kraken_NNP ,_, and_CC the_DT reeking_VBG odor_NN of_IN a_DT thousand_CD rotting_VBG corpses_NNS ._. 
+If_IN you_PRP believe_VBP such_JJ things_NNS ._. 
+WILL_NNP TURNER_NNP :_: And_CC the_DT key_JJ will_MD spare_VB him_PRP that_DT ?_. 
+GIBBS_NNP :_: Now_RB that_DT 's_VBZ the_DT very_JJ question_NN Jack_NNP wants_VBZ answered_VBN ._. 
+Bad_JJ enough_RB even_RB to_TO go_VB visit_NN ..._... *_NN Her_PRP$ *_NN ._. 
+WILL_NNP TURNER_NNP :_: Her_PRP$ ?_. 
+GIBBS_NNP :_: Aye_UH ._. 
+BAYOU_NNP :_: Tia_NNP 's_POS shack_NN 
+[_NN bayou_NN with_IN fireflies_NNS ,_, and_CC an_DT iguana_NN on_IN a_DT tree_NN trunk_NN on_IN the_DT left_NN 
+]_NN [_NN the_DT iguana_NN eats_VBZ a_DT firefly_RB with_IN a_DT quick_JJ slurping_VBG sound_NN 
+]_NN [_NN people_NNS are_VBP occasionally_RB seen_VBN standing_NN quietly_RB in_IN the_DT darkness_NNS among_IN the_DT trees_NNS 
+]_NN JACK_NNP SPARROW_NNP :_: No_DT worries_NNS ,_, mates_NNS ._. 
+Tia_NNP Dalma_NNP and_CC I_PRP go_VBP way_NN back_RB ._. 
+Thick_JJ as_IN thieves_NNS ._. 
+Nigh_IN inseparable_JJ we_PRP are_VBP ._. 
+Were_VBD ._. 
+Have_VBP been_VBN ._. 
+Before_IN ._. 
+GIBBS_NNP :_: I_PRP 'll_MD watch_VB your_PRP$ back_RB ._. 
+JACK_NNP SPARROW_NNP :_: It_PRP 's_VBZ me_PRP front_NN I_PRP 'm_VBP worried_VBN about_IN ._. 
+Mind_VB the_DT boat_NN ._. 
+GIBBS_NNP :_: Mind_VB the_DT boat_NN ._. 
+WILL_NNP TURNER_NNP :_: Mind_VB the_DT boat_NN ._. 
+PINTEL_NNP :_: Mind_VB the_DT boat_NN ._. 
+MARTY_NNP :_: Mind_VB the_DT boat_NN ._. 
+COTTON_NN 's_POS PARROT_NNP :_: Awk_UH !_. 
+Mind_VB the_DT boat_NN !_. 
+[_NN Cotton_NNP is_VBZ left_VBN alone_RB in_IN the_DT longboat_NN 
+]_NN [_NN Jack_NNP cautiously_RB enter_VBP 's_POS Tia_NNP 's_POS shack_NN ,_, pushing_VBG the_DT door_NN open_JJ slowly_RB 
+]_NN [_NN near_IN the_DT inside_JJ of_IN the_DT shack_NN door_NN hangs_VBZ a_DT live_JJ snake_NN ,_, moving_VBG slowly_RB 
+]_NN [_NN Tia_NNP is_VBZ sitting_VBG at_IN a_DT table_NN ,_, looks_VBZ up_RB from_IN her_PRP$ crab_NN claws_NNS ,_, sees_VBZ Jack_NNP in_IN the_DT doorway_NN 
+]_NN TIA_NNP DALMA_NNP :_: Jack_NNP Sparrow_NNP !_. 
+JACK_NNP SPARROW_NNP :_: Tia_NNP Dalma_NNP !_. 
+TIA_NNP DALMA_NNP :_: I_PRP always_RB know_VBP de_IN wind_NN was_VBD goin_NN '_'' blow_NN you_PRP back_RB to_TO me_PRP one_CD day_NN ._. 
+[_NN Tia_NNP sees_VBZ Will_NNP standing_NN in_IN the_DT doorway_NN ,_, goes_VBZ up_IN to_TO him_PRP 
+]_NN TIA_NNP _NNP DALMA_NNP :_: You_PRP ._. 
+You_PRP have_VBP a_DT touch_NN of_IN ..._... destiny_NN about_IN *_NN you_PRP *_NN ,_, William_NNP Turner_NNP ._. 
+WILL_NNP TURNER_NNP :_: You_PRP know_VBP me_PRP ?_. 
+TIA_NNP DALMA_NNP :_: You_PRP want_VBP to_TO know_VB *_NN me_PRP *_NN ._. 
+JACK_NNP SPARROW_NNP :_: There_EX 'll_MD be_VB no_DT knowing_VBG here_RB ._. 
+We_PRP 've_VBP come_VBN for_IN help_NN and_CC we_PRP 're_VBP not_RB leaving_VBG without_IN it_PRP ._. 
+JACK_NNP SPARROW_NNP :_: I_PRP thought_VBD *_NN I_PRP *_NN knew_VBD you_PRP ._. 
+TIA_NNP DALMA_NNP :_: Not_RB so_RB well_RB as_IN I_PRP had_VBD hoped_VBN ._. 
+Come_VBN ._. 
+JACK_NNP SPARROW_NNP :_: Come_VBN ._. 
+TIA_NNP DALMA_NNP :_: What_WP ..._... service_NN ..._... may_MD I_PRP do_VB you_PRP ?_. 
+Hmmm_UH ?_. 
+You_PRP know_VBP I_PRP demand_VBP payment_NN ._. 
+JACK_NNP SPARROW_NNP :_: I_PRP brought_VBD payment_NN ._. 
+[_NN Jack_NNP whistles_NNS once_RB ,_, a_DT crewmember_NN brings_VBZ in_IN the_DT monkey_NN in_IN a_DT cage_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Look_VB !_. 
+[_NN Jack_NNP cocks_NNS his_PRP$ pistol_NN ,_, shoots_VBZ the_DT monkey_NN ,_, the_DT bullet_NN has_VBZ no_DT effect_NN ,_, but_CC the_DT monkey_NN chatters_NNS in_IN fright_NN 
+]_NN JACK_NNP SPARROW_NNP :_: An_DT undead_NN monkey_NN !_. 
+Top_JJ that_DT !_. 
+[_NN Tia_NNP lifts_VBZ the_DT cage_NN door_NN ,_, the_DT monkey_NN scampers_NNS off_IN 
+]_NN GIBBS_NNP :_: No_UH !_. 
+You_PRP 've_VBP no_DT idea_NN how_WRB long_JJ it_PRP took_VBD us_PRP to_TO catch_VB that_DT ._. 
+TIA_NNP DALMA_NNP :_: The_DT payment_NN is_VBZ fair_JJ ._. 
+JACK_NNP SPARROW_NNP :_: We_PRP 're_VBP looking_VBG for_IN this_DT ._. 
+And_CC what_WP it_PRP goes_VBZ to_TO ._. 
+TIA_NNP DALMA_NNP :_: The_DT Compass_NNP you_PRP bartered_VBN from_IN me_PRP ._. 
+It_PRP cannot_NN lead_NN you_PRP to_TO dis_NNS ?_. 
+JACK_NNP SPARROW_NNP :_: Maybe_RB ._. 
+Why_WRB ?_. 
+TIA_NNP DALMA_NNP :_: Ayeee_UH ..._... Jack_NNP Sparrow_NNP does_VBZ not_RB know_VB what_WP he_PRP wants_VBZ !_. 
+Or_CC ..._... do_VBP know_VB ,_, but_CC are_VBP loathe_NN to_TO claim_VB it_PRP as_IN your_PRP$ own_JJ ._. 
+Your_PRP$ key_JJ go_NN to_TO a_DT chest_NN ,_, and_CC it_PRP is_VBZ what_WP lay_VB inside_IN the_DT chest_NN you_PRP seek_VBP ,_, do_VBP n't_RB it_PRP ?_. 
+GIBBS_NNP :_: What_WP *_NN is_VBZ *_NN inside_IN ?_. 
+PINTEL_NNP :_: Gold_NN !_. 
+Jewels_NNS ?_. 
+Unclaimed_JJ properties_NNS of_IN a_DT valuable_JJ nature_NN ?_. 
+RAGETTI_NNP :_: Nothing_NN ..._... bad_JJ ,_, I_PRP hope_VBP ._. 
+[_NN a_DT jar_NN of_IN eyeballs_NNS is_VBZ hanging_VBG next_JJ to_TO Ragetti_NNP 's_POS face_NN as_IN he_PRP speaks_VBZ 
+]_NN TIA_NNP DALMA_NNP :_: You_PRP know_VBP of_IN ..._... Davy_NNP Jones_NNP ,_, yes_UH ?_. 
+A_DT man_NN of_IN de_IN sea_NN ._. 
+A_DT great_JJ sailor_NN ,_, until_IN he_PRP ran_VBD afoul_NN of_IN dat_NN which_WDT vex_NN all_DT men_NNS ._. 
+WILL_NNP TURNER_NNP :_: What_WP vexes_NNS all_DT men_NNS ?_. 
+TIA_NNP DALMA_NNP :_: What_WP ,_, indeed_RB ._. 
+GIBBS_NNP :_: The_DT sea_NN ?_. 
+PINTEL_NNP :_: Sums_NNS !_. 
+RAGETTI_NNP :_: Dichotomy_NNP of_IN good_JJ and_CC evil_JJ ._. 
+JACK_NNP SPARROW_NNP :_: A_DT *_NN woman_NN *_NN ._. 
+TIA_NNP DALMA_NNP :_: A_DT wo_UH -_- *_NN man_NN *_NN ._. 
+He_PRP fell_VBD in_IN love_NN ._. 
+GIBBS_NNP :_: No_UH -_- no_UH -_- no_UH -_- _UH no_UH ,_, I_PRP heard_VBD it_PRP was_VBD the_DT *_NN sea_NN *_NN he_PRP fell_VBD in_IN love_NN with_IN ._. 
+TIA_NNP DALMA_NNP :_: Same_JJ story_NN ,_, different_JJ versions_NNS ,_, and_CC all_DT are_VBP true_JJ ._. 
+See_VB ,_, it_PRP was_VBD a_DT *_NN woman_NN *_NN ,_, as_IN changing_VBG ,_, and_CC harsh_JJ ,_, and_CC untamable_JJ as_IN the_DT sea_NN ._. 
+Him_PRP never_RB stopped_VBD loving_JJ her_PRP ._. 
+But_CC the_DT pain_NN it_PRP cause_VBP '_POS im_NN was_VBD too_RB much_RB to_TO live_VB wid_NN ._. 
+But_CC not_RB enough_RB to_TO cause_VB him_PRP to_TO die_VB ._. 
+WILL_NNP TURNER_NNP :_: What_WP ..._... exactly_RB did_VBD he_PRP put_VBP into_IN the_DT chest_NN ?_. 
+TIA_NNP DALMA_NNP :_: Him_PRP heart_NN ._. 
+RAGETTI_NNP :_: Literally_RB ,_, or_CC figuratively_RB ?_. 
+PINTEL_NNP :_: He_PRP could_MD n't_RB li_NN '_'' erally_RB put_NN his_PRP$ heart_NN in_IN a_DT chest_NN !_. 
+Could_MD he_PRP ?_. 
+TIA_NNP DALMA_NNP :_: It_PRP was_VBD not_RB wort_NN '_'' feeling_NN what_WP ..._... small_JJ fleeting_JJ joy_NN life_NN brings_VBZ ,_, and_CC so_RB ..._... he_PRP carved_VBD out_IN him_PRP heart_NN ,_, lock_VB it_PRP away_RB in_IN a_DT chest_NN ,_, and_CC hide_VB de_IN chest_NN from_IN de_IN world_NN ._. 
+De_DT keys_NNS ,_, he_PRP keep_VBP wid_NN him_PRP at_IN all_DT times_NNS ._. 
+WILL_NNP TURNER_NNP :_: You_PRP knew_VBD this_DT ._. 
+JACK_NNP SPARROW_NNP :_: I_PRP did_VBD not_RB ._. 
+I_PRP did_VBD n't_RB know_VB where_WRB the_DT key_NN was_VBD ._. 
+But_CC now_RB we_PRP do_VBP ._. 
+So_IN all_DT that_DT 's_VBZ left_VBD is_VBZ to_TO climb_VB aboard_IN the_DT Flying_NNP Dutchman_NNP ,_, grab_VBP the_DT key_NN ,_, you_PRP go_VBP back_RB to_TO Port_NNP Royal_NNP and_CC save_VB your_PRP$ bonnie_NN lass_NNS ,_, hey_UH !_. 
+TIA_NNP DALMA_NNP :_: Let_VB me_PRP see_VB your_PRP$ hand_NN ._. 
+[_NN Jack_NNP shows_VBZ his_PRP$ right_JJ hand_NN is_VBZ untouched_JJ ,_, but_CC Tia_NNP unwraps_NNS the_DT bandage_NN on_IN his_PRP$ left_JJ hand_NN 
+]_NN [_NN the_DT black_JJ spot_NN on_IN Jack_NNP 's_POS left_VBD hand_NN is_VBZ revealed_VBN 
+]_NN GIBBS_NNP :_: Uhhh_UH !_. 
+The_DT black_JJ spot_NN !_. 
+[_NN Gibbs_NNP quickly_RB wipes_NNS his_PRP$ hands_NNS on_IN his_PRP$ chest_NN ,_, spins_VBZ around_IN once_RB to_TO the_DT left_NN ,_, and_CC spits_NNS 
+]_NN Black_NNP spot_NN !_. 
+Black_JJ spot_NN !_. 
+[_NN Pintel_NNP and_CC Ragetti_NNP copy_NN Gibbs_NNP '_POS ritual_NN ,_, in_IN synchrony_NN 
+]_NN JACK_NNP SPARROW_NNP :_: My_PRP$ eyesight_NN 's_POS as_RB good_JJ as_IN ever_RB ,_, just_RB so_IN you_PRP know_VBP ._. 
+[_NN pushing_VBG aside_RB cloth_NN door_NN beads_NNS ,_, Tia_NNP goes_VBZ into_IN a_DT back_JJ room_NN ,_, and_CC searches_NNS for_IN something_NN 
+]_NN TIA_NNP DALMA_NNP :_: I_PRP am_VBP justMy_NN little_JJ #_# #_# #_# ,_, where_WRB are_VBP you_PRP ?_. 
+#_# #_# #_# [_NN Jack_NNP steals_VBZ a_DT ring_NN off_RP of_IN one_CD of_IN Tia_NNP 's_POS tables_NNS ,_, beside_IN the_DT ring_NN is_VBZ a_DT silver_NN locket_NN 
+]_NN [_NN Tia_NNP comes_VBZ back_RB with_IN an_DT object_VBP from_IN the_DT back_NN room_NN 
+]_NN TIA_NNP DALMA_NNP :_: Davy_NNP Jones_NNP cannot_NN make_NN port_NN ._. 
+Cannot_MD step_NN on_IN land_NN but_CC once_RB every_DT ten_CD years_NNS ._. 
+Land_NN is_VBZ where_WRB you_PRP are_VBP safe_JJ ,_, Jack_NNP Sparrow_NNP ._. 
+And_CC so_IN you_PRP will_MD carry_VB land_NN wid_NN you_PRP ..._... 
+[_NN Tia_NNP hands_NNS Jack_NNP a_DT jar_NN of_IN dirt_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Dirt_NN ._. 
+This_DT is_VBZ a_DT jar_NN of_IN dirt_NN ._. 
+TIA_NNP DALMA_NNP :_: Yes_UH ?_. 
+JACK_NNP SPARROW_NNP :_: Is_VBZ the_DT ..._... jar_NN of_IN dirt_NN going_VBG to_TO help_VB ?_. 
+TIA_NNP DALMA_NNP :_: If_IN you_PRP don_VB '_POS want_NN it_PRP ,_, give_VB it_PRP back_RB ._. 
+JACK_NNP SPARROW_NNP :_: No._NN 
+TIA_NNP DALMA_NNP :_: Den_RB it_PRP helps_VBZ ._. 
+WILL_NNP TURNER_NNP :_: It_PRP seems_VBZ ..._... we_PRP have_VBP a_DT need_NN to_TO find_VB the_DT Flying_NNP Dutchman_NNP ._. 
+[_NN Tia_NNP is_VBZ sitting_VBG ,_, she_PRP holds_VBZ several_JJ crab_NN shells_NNS between_IN her_PRP$ cupped_JJ hands_NNS and_CC closes_VBZ her_PRP$ eyes_NNS 
+]_NN TIA_NNP DALMA_NNP :_: A_DT touch_NN ..._... of_IN destiny_NN !_. 
+[_NN Tia_NNP throws_VBZ the_DT crab_NN claws_NNS down_RB on_IN the_DT table_NN to_TO see_VB how_WRB they_PRP fall_VBP 
+]_NN [_NN fade_VB to_TO aerial_JJ view_NN of_IN rocky_JJ islands_NNS whose_WP$ positions_NNS match_VBP the_DT positions_NNS of_IN the_DT crab_NN claws_NNS ]_NN Black_NNP Pearl_NNP [_NN pan_VB beyond_IN the_DT rocks_NNS to_TO the_DT Black_NNP Pearl_NNP just_RB offshore_RB ,_, in_IN stormy_JJ weather_NN 
+]_NN [_NN the_DT Black_NNP Pearl_NNP crew_NN look_NN at_IN the_DT scuttled_VBN ship_NN on_IN the_DT rocks_NNS 
+]_NN WILL_NNP TURNER_NNP :_: That_DT 's_VBZ the_DT Flying_NNP Dutchman_NNP 
+?_. She_PRP does_VBZ n't_RB look_VB like_IN much_JJ ._. 
+JACK_NNP SPARROW_NNP :_: Neither_DT do_VBP you_PRP ._. 
+Do_VBP *_NN not_RB *_NN underestimate_NN her_PRP ._. 
+[_NN Jack_NNP gives_VBZ Gibbs_NNP a_DT meaningful_JJ glance_NN ,_, elbows_NNS Gibbs_NNP 
+]_NN GIBBS_NNP :_: Must_MD 've_VB run_VBN afoul_NN of_IN the_DT reef_NN ._. 
+JACK_NNP SPARROW_NNP :_: So_RB what_WP 's_VBZ your_PRP$ plan_NN ,_, then_RB ?_. 
+WILL_NNP TURNER_NNP :_: I_PRP row_NN over_IN ,_, search_NN the_DT ship_NN until_IN I_PRP find_VBP your_PRP$ bloody_JJ key_NN ._. 
+JACK_NNP SPARROW_NNP :_: And_CC if_IN there_EX are_VBP crewmen_NN ?_. 
+WILL_NNP TURNER_NNP :_: I_PRP cut_VBP down_RB anyone_NN in_IN my_PRP$ path_NN ._. 
+JACK_NNP SPARROW_NNP :_: I_PRP like_VBP it_PRP ._. 
+Simple_NN ,_, easy_JJ to_TO remember_VB ._. 
+RAGETTI_NNP :_: Your_PRP$ chariot_NN awaits_VBZ you_PRP ,_, sire_NN !_. 
+Ha_UH ,_, ha_UH -_- ha_UH -_- ha_UH ,_, ha_UH -_- ha_UH !_. 
+JACK_NNP SPARROW_NNP :_: Hey_UH !_. 
+If_IN you_PRP *_NN do_VBP *_NN happen_VB to_TO get_VB captured_VBN ,_, just_RB say_VBP Jack_NNP Sparrow_NNP sent_VBD you_PRP to_TO settle_VB his_PRP$ debt_NN !_. 
+Might_MD save_VB your_PRP$ life_NN !_. 
+RAGETTI_NNP :_: Bon_FW voyage_FW !_. 
+Ha_UH -_- ha_UH -_- ha_UH !_. 
+JACK_NNP SPARROW_NNP :_: Douse_VB the_DT lamps_NNS ._. 
+[_NN Marty_NNP douses_NNS a_DT lamp_NN ,_, then_RB Cotton_NNP douses_NNS a_DT lamp_NN ,_, then_RB Pintel_NNP douses_NNS a_DT lamp_NN 
+]_NN [_NN Will_NNP sets_NNS off_RP in_IN a_DT rowboat_NN ,_, alone_RB ,_, toward_IN the_DT scuttled_VBN ship_NN 
+]_NN SCUTTLED_JJ SHIP_NNP :_: before_IN attack_NN [_NN Will_NNP goes_VBZ aboard_IN the_DT ship_NN ,_, lantern_NN in_IN hand_NN 
+]_NN [_NN Will_NNP passes_VBZ one_CD dead_JJ crewman_NN at_IN deck_NN level_NN ,_, proped_JJ up_RB behind_IN net_NN -_- like_IN rigging_VBG 
+]_NN [_NN Will_NNP comes_VBZ across_IN a_DT wounded_VBN sailor_NN ,_, who_WP seems_VBZ to_TO be_VB in_IN shock_NN 
+]_NN [_NN the_DT wounded_VBN sailor_NN is_VBZ pulling_VBG on_IN a_DT pulley_NN desperately_RB ,_, muttering_VBG to_TO himself_PRP 
+]_NN WOUNDED_NNP SAILOR_NNP :_: ..._... up_RP the_DT ..._... 
+WILL_NNP TURNER_NNP :_: Sailor_NN !_. 
+WOUNDED_NNP SAILOR_NNP :_: ..._... the_DT stench_NN ..._... capsized_JJ ..._... 
+WILL_NNP TURNER_NNP :_: Sailor_NN !_. 
+WOUNDED_NNP SAILOR_NNP :_: ..._... bring_VB a_DT ..._... 
+WILL_NNP TURNER_NNP :_: There_EX 's_VBZ no_DT use_NN ._. 
+You_PRP 've_VBP run_VBN aground_NN ._. 
+WOUNDED_NNP SAILOR_NNP :_: No_UH !_. 
+Beneath_IN us_PRP !_. 
+Foul_JJ breath_NN !_. 
+[_NN behind_IN Will_NNP ,_, a_DT crewmember_NN 's_POS body_NN falls_VBZ from_IN a_DT height_NN ,_, splashing_VBG into_IN the_DT water_NN 
+]_NN [_NN Will_NNP goes_VBZ to_TO investigate_VB 
+]_NN WILL_NNP TURNER_NNP :_: Hey_UH !_. 
+Hey_UH !_. 
+[_NN Will_NNP turns_VBZ the_DT man_NN 's_POS body_NN over_IN to_TO see_VB his_PRP$ face_NN 
+]_NN [_NN the_DT man_NN 's_POS face_NN is_VBZ gone_VBN ,_, his_PRP$ face_NN is_VBZ just_RB a_DT puckered_JJ piece_NN of_IN skin_NN ,_, which_WDT bulges_NNS outward_RB 
+]_NN [_NN the_DT real_JJ Flying_NNP Dutchman_NNP suddenly_RB rises_VBZ from_IN the_DT sea_NN ,_, nearby_JJ the_DT scuttled_VBN ship_NN 
+]_NN [_NN the_DT sea_NN creature_NN -_- like_IN crew_NN emerge_VB from_IN the_DT surfaces_VBZ of_IN the_DT Flying_NNP Dutchman_NNP 
+]_NN [_NN crewmembers_NNS from_IN the_DT Flying_NNP Dutchman_NNP attack_NN the_DT remaining_VBG crew_NN of_IN the_DT scuttled_VBN ship_NN 
+]_NN GREENBEARD_NNP :_: Down_IN on_IN your_PRP$ marrowbones_NNS ,_, and_CC pray_NN ._. 
+[_NN Will_NNP engages_VBZ in_IN a_DT swordfight_NN against_IN several_JJ invaders_NNS 
+]_NN [_NN Will_NNP dips_NNS his_PRP$ sword_NN in_IN oil_NN ,_, causing_VBG it_PRP to_TO flame_NN ,_, and_CC waves_NNS it_PRP at_IN the_DT men_NNS surrounding_VBG him_PRP 
+]_NN WILL_NNP TURNER_NNP :_: Get_VB back_RB !_. 
+Back_RB !_. 
+[_NN Will_NNP slices_NNS open_VB the_DT stomach_NN of_IN one_CD of_IN the_DT invaders_NNS ,_, fish_NN spill_NN out_IN of_IN it_PRP onto_IN the_DT deck_NN 
+]_NN [_NN Will_NNP battles_VBZ the_DT invading_VBG crewmembers_NNS ,_, but_CC one_CD of_IN them_PRP knocks_VBZ Will_NNP unconscious_JJ 
+]_NN Ha_UH -_- ha_UH -_- ha_UH -_- ha_UH -_- ha_UH -_- ha_UH ._. 
+SCUTTLED_JJ SHIP_NNP :_: after_IN attack_NN [_NN the_DT prisoners_NNS of_IN the_DT scuttled_VBN ship_NN cower_VBP in_IN fear_NN ,_, lined_VBD up_RP ,_, sitting_VBG in_IN a_DT row_NN on_IN deck_NN along_IN the_DT railing_NN 
+]_NN [_NN Jack_NNP is_VBZ at_IN the_DT end_NN of_IN the_DT row_NN of_IN five_CD survivors_NNS total_JJ ,_, on_IN the_DT right_JJ -_- side_NN when_WRB facing_VBG the_DT survivors_NNS 
+]_NN [_NN Davy_NNP Jones_NNP stomps_NNS aboard_IN with_IN his_PRP$ peg_VB leg_NN ,_, underwater_JJ view_NN of_IN his_PRP$ departing_VBG feet_NNS 
+]_NN [_NN Maccus_NNP is_VBZ on_IN deck_NN ,_, turned_VBD so_IN that_IN his_PRP$ back_RB is_VBZ shown_VBN ,_, showing_VBG lobster_NN legs_NNS on_IN his_PRP$ back_RB 
+]_NN MACCUS_NNP :_: Five_CD men_NNS still_RB alive_JJ ._. 
+The_DT rest_NN have_VBP moved_VBN on_IN ._. 
+[_NN Jones_NNP pauses_VBZ to_TO clench_NN his_PRP$ left_JJ hand_NN ,_, which_WDT is_VBZ a_DT large_JJ lobster_NN claw_NN ]_NN 
+[_NN Jones_NNP casually_RB lights_NNS a_DT pipe_NN in_IN front_NN of_IN one_CD of_IN the_DT cowering_VBG crewmen_NN 
+]_NN DAVY_NNP JONES_NNP :_: Do_VBP you_PRP fear_VBP death_NN ?_. 
+Do_VBP you_PRP fear_VBP that_IN dark_JJ abyss_NNS ?_. 
+All_DT your_PRP$ deeds_NNS laid_VBD bare_JJ ._. 
+All_DT your_PRP$ sins_NNS punished_VBN ._. 
+I_PRP can_MD offer_VB you_PRP ..._... an_DT escape_NN -_- uh_UH ._. 
+CHAPLAIN_NNP :_: Do_VBP n't_RB listen_VB to_TO him_PRP !_. 
+[_NN Jones_NNP walks_VBZ over_IN to_TO the_DT chaplain_NN ,_, takes_VBZ the_DT chaplain_NN 's_POS head_NN in_IN his_PRP$ claw_NN 
+]_NN DAVY_NNP JONES_NNP :_: Do_VBP you_PRP not_RB fear_VBP death_NN ?_. 
+CHAPLAIN_NNP :_: I_PRP 'll_MD take_VB my_PRP$ chances_NNS ,_, Sir_NNP ._. 
+DAVY_NNP JONES_NNP :_: To_TO the_DT depths_NNS ._. 
+[_NN the_DT chaplain_NN 's_POS throat_NN is_VBZ slit_NN ,_, two_CD crewmembers_NNS throw_VBP his_PRP$ body_NN overboard_RB 
+]_NN Ah_UH ,_, ha_UH -_- ha_UH -_- ha_UH ..._... 
+!_. [_NN unidentified_JJ crewman_NN ]_NN Cold_JJ blooded_JJ -_- !_. 
+DAVY_NNP JONES_NNP :_: Life_NN is_VBZ cruel_JJ ._. 
+Why_WRB should_MD the_DT afterlife_NN be_VBP any_DT *_NN different_JJ *_NN ?_. 
+I_PRP offer_VBP you_PRP a_DT choice_NN ._. 
+Join_VB my_PRP$ crew_NN ,_, and_CC postpone_VB the_DT judgment_NN ._. 
+One_CD hundred_CD years_NNS before_IN the_DT mast_NN ._. 
+Will_NNP ye_NN serve_VB ?_. 
+HELMSMAN_NNP :_: I_PRP -_- I_PRP will_MD ,_, serve_VB ._. 
+DAVY_NNP JONES_NNP :_: Grand_JJ ._. 
+[_NN Jones_NNP looks_VBZ pleased_VBN ,_, then_RB sees_VBZ Will_NNP at_IN the_DT end_NN of_IN the_DT line_NN of_IN people_NNS 
+]_NN [_NN Jones_NNP stomps_NNS over_IN to_TO Will_NNP 
+]_NN DAVY_NNP JONES_NNP :_: *_NN You_PRP *_NN are_VBP neither_DT dead_JJ nor_CC dying_VBG ._. 
+What_WP is_VBZ your_PRP$ purpose_NN here_RB ?_. 
+WILL_NNP TURNER_NNP :_: Jack_NNP Sparrow_NNP sent_VBD me_PRP to_TO settle_VB his_PRP$ debt_NN ._. 
+DAVY_NNP JONES_NNP :_: What_WP is_VBZ your_PRP$ purpose_NN here_RB ?_. 
+WILL_NNP TURNER_NNP :_: Jack_NNP Sparrow_NNP ._. 
+He_PRP sent_VBD me_PRP to_TO settle_VB his_PRP$ debt_NN ._. 
+DAVY_NNP JONES_NNP :_: Huh_UH !_. 
+Did_VBD he_PRP ,_, now_RB ?_. 
+I_PRP 'm_VBP sorely_RB tempted_VBN to_TO accept_VB that_DT offer_NN ._. 
+[_NN through_IN a_DT spyglass_NN ,_, Jack_NNP sees_VBZ Jones_NNP turn_VBP to_TO look_VB directly_RB at_IN him_PRP 
+]_NN Black_NNP Pearl_NNP [_NN suddenly_RB Jones_NNP is_VBZ standing_VBG aboard_IN the_DT Black_NNP Pearl_NNP ,_, directly_RB in_IN front_NN of_IN Jack_NNP and_CC his_PRP$ spyglass_NN 
+]_NN [_NN Cotton_NNP and_CC Gibbs_NNP have_VBP knives_NNS to_TO their_PRP$ throats_NNS from_IN other_JJ Flying_NNP Dutchman_NNP crewmembers_NNS who_WP teleported_JJ over_IN 
+]_NN JACK_NNP SPARROW_NNP :_: Oh_UH ._. 
+DAVY_NNP JONES_NNP :_: You_PRP have_VBP a_DT debt_NN to_TO pay_VB ._. 
+You_PRP 've_VBP been_VBN captain_NN of_IN the_DT Black_NNP Pearl_NNP for_IN thirteen_NN years_NNS ._. 
+*_NN That_DT *_NN was_VBD our_PRP$ agreement_NN ._. 
+JACK_NNP SPARROW_NNP :_: Technically_RB ,_, I_PRP was_VBD only_RB captain_NN for_IN two_CD years_NNS ,_, then_RB I_PRP was_VBD viciously_RB mutinied_JJ upon_IN ._. 
+DAVY_NNP JONES_NNP :_: Then_RB you_PRP were_VBD a_DT poor_JJ captain_NN ,_, but_CC a_DT *_NN captain_NN *_NN nonetheless_RB !_. 
+Have_VBP you_PRP not_RB introduced_VBD yourself_PRP all_PDT these_DT years_NNS as_IN *_NN Captain_NNP *_NN Jack_NNP Sparrow_NNP ?_. 
+JACK_NNP SPARROW_NNP :_: You_PRP have_VBP my_PRP$ payment_NN ._. 
+One_CD soul_NN to_TO serve_VB on_IN your_PRP$ ship_NN is_VBZ already_RB over_IN there_RB ._. 
+DAVY_NNP JONES_NNP :_: One_CD soul_NN is_VBZ not_RB equal_JJ to_TO another_DT ._. 
+JACK_NNP SPARROW_NNP :_: Aha_UH !_. 
+So_IN we_PRP 've_VBP established_VBN my_PRP$ proposal_NN is_VBZ sound_NN in_IN principle_NN ,_, now_RB we_PRP 're_VBP just_RB haggling_VBG over_IN price_NN ._. 
+DAVY_NNP JONES_NNP :_: Price_NNP ?_. 
+Pttt_UH !_. 
+JACK_NNP SPARROW_NNP :_: Just_RB how_WRB many_JJ souls_NNS do_VBP you_PRP think_VBP my_PRP$ soul_NN is_VBZ worth_JJ ?_. 
+DAVY_NNP JONES_NNP :_: One_CD hundred_CD souls_NNS ,_, three_CD days_NNS -_- uh_UH ._. 
+JACK_NNP SPARROW_NNP :_: You_PRP 're_VBP a_DT diamond_NN ,_, mate_NN ._. 
+Send_VB me_PRP back_RP the_DT boy_NN ,_, I_PRP 'll_MD get_VB started_VBD right_NN off_RP ._. 
+[_NN Maccus_NNP blocks_NNS Jack_NNP from_IN exiting_VBG 
+]_NN DAVY_NNP JONES_NNP :_: I_PRP keep_VBP the_DT boy_NN ._. 
+A_DT good_JJ -_- faith_NN payment_NN ._. 
+That_DT leaves_VBZ you_PRP only_RB ninety_CD -_- nine_CD more_JJR to_TO go_VB ._. 
+Ha_UH ha_NN !_. 
+Ha_UH ha_NN !_. 
+Ha_UH ha_NN !_. 
+JACK_NNP SPARROW_NNP :_: Have_VBP you_PRP not_RB met_VBD Will_NNP Turner_NNP ?_. 
+He_PRP 's_VBZ noble_JJ ,_, heroic_JJ ,_, *_NN terrific_JJ *_NN soprano_NN ._. 
+Worth_JJ at_IN least_JJS four_CD ..._... maybe_RB three_CD and_CC a_DT half_NN ._. 
+And_CC did_VBD I_PRP happen_VBP to_TO mention_VB ..._... he_PRP 's_VBZ in_IN love_NN ._. 
+With_IN a_DT girl_NN ._. 
+Due_JJ to_TO be_VB married_VBN ._. 
+Betrothed_NNP ._. 
+Dividing_VBZ him_PRP from_IN her_PRP$ and_CC her_PRP from_IN him_PRP ..._... would_MD only_RB be_VB half_NN as_RB cruel_JJ as_IN actually_RB allowing_VBG them_PRP be_VB joined_VBN in_IN holy_JJ matrimony_NN ._. 
+Aye_UH ?_. 
+DAVY_NNP JONES_NNP :_: I_PRP keep_VBP the_DT boy_NN ._. 
+Ninety_CD -_- nine_CD souls_NNS -_- uh_UH ._. 
+But_CC I_PRP wonder_VBP ,_, Sparrow_NNP ,_, can_MD you_PRP live_VB with_IN this_DT ?_. 
+Can_MD you_PRP condemn_VB an_DT innocent_JJ man_NN -_- a_DT friend_NN -_- uh_UH -_- to_TO a_DT lifetime_NN of_IN servitude_NN ,_, in_IN your_PRP$ name_NN while_IN you_PRP roam_VBP free_JJ ?_. 
+JACK_NNP SPARROW_NNP :_: Yep_UH !_. 
+I_PRP 'm_VBP good_JJ with_IN it_PRP ._. 
+Should_MD we_PRP seal_VB it_PRP in_IN blood_NN ?_. 
+I_PRP mean_VBP ..._... mm_UH -_- mm_UH -_- ink_NN ?_. 
+[_NN Jones_NNP grabs_NNS Jack_NNP 's_POS hand_NN ,_, resulting_VBG in_IN a_DT squishy_NN sound_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Uh_UH !_. 
+DAVY_NNP JONES_NNP :_: Three_CD days_NNS ._. 
+Three_CD days_NNS ._. 
+[_NN Pintel_NNP whimpers_NNS ,_, with_IN a_DT knife_NN held_VBN to_TO his_PRP$ neck_NN from_IN a_DT crewmember_NN of_IN Jones_NNP '_POS ship_NN 
+]_NN [_NN Jack_NNP looks_VBZ at_IN his_PRP$ hand_NN ,_, it_PRP 's_VBZ covered_VBN with_IN slime_NN ,_, but_CC the_DT black_JJ spot_NN disappears_VBZ under_IN the_DT effect_NN of_IN the_DT slime_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Oh_UH ,_, Mr._NN Gibbs_NNP ._. 
+GIBBS_NNP :_: Aye_UH ._. 
+JACK_NNP SPARROW_NNP :_: Uh_UH ,_, I_PRP feel_VBP sullied_JJ and_CC unusual_JJ ._. 
+GIBBS_NNP :_: And_CC how_WRB do_VBP you_PRP intend_VBP to_TO harvest_NN these_DT ninety_CD -_- nine_CD souls_NNS in_IN three_CD days_NNS ?_. 
+JACK_NNP SPARROW_NNP :_: Fortunately_RB ,_, he_PRP was_VBD mum_JJ as_IN the_DT condition_NN in_IN which_WDT these_DT souls_NNS need_VBP be_VB ._. 
+GIBBS_NNP :_: Ah_UH ..._... Tortuga_NNP !_. 
+JACK_NNP SPARROW_NNP :_: Tortuga_NNP ._. 
+Scene_NN :_: Edinburgh_NNP Trader_NNP [_NN inside_IN a_DT cabin_NN aboard_IN the_DT Edinburgh_NNP Trader_NNP ,_, Captain_NNP Bellamy_NNP is_VBZ throwing_VBG documents_NNS down_RB on_IN the_DT table_NN 
+]_NN BELLAMY_NNP :_: It_PRP 's_VBZ an_DT outrage_NN ._. 
+Port_NNP tariffs_NNS ,_, berthing_VBG fees_NNS ,_, *_NN wharf_NN *_NN handling_NN ,_, and_CC heaven_NN help_NN us_PRP ,_, pilotage_NN ._. 
+Are_VBP we_PRP all_DT to_TO work_VB for_IN the_DT East_NNP India_NNP Trading_NNP Company_NN ,_, then_RB ?_. 
+QUARTERMASTER_NNP :_: I_PRP 'm_VBP afraid_JJ ,_, Sir_NNP ..._... Tortuga_NNP is_VBZ the_DT only_RB free_JJ port_NN left_VBN in_IN these_DT waters_NNS ._. 
+BELLAMY_NNP :_: A_DT *_NN pirate_NN *_NN port_NN is_VBZ what_WP you_PRP mean_VBP ._. 
+Well_RB ,_, I_PRP 'm_VBP sorry_JJ ._. 
+An_DT honest_JJ sailor_NN is_VBZ what_WP I_PRP am_VBP ._. 
+I_PRP make_VBP my_PRP$ living_VBG fair_JJ ,_, and_CC I_PRP sleep_VBP well_RB each_DT night_NN ,_, thank_VB you_PRP ._. 
+[_NN a_DT white_JJ dress_NN floats_VBZ by_IN the_DT cabin_NN window_NN ,_, outside_JJ 
+]_NN BURSAR_NNP :_: S_UH -_- S_UH -_- Sir_NN !_. 
+[_NN they_PRP all_DT rush_NN to_TO the_DT window_NN of_IN the_DT cabin_NN and_CC look_VB out_IN 
+]_NN [_NN they_PRP all_DT see_VBP the_DT dress_NN float_NN by_IN the_DT cabin_NN window_NN ,_, on_IN its_PRP$ second_JJ pass_NN 
+]_NN [_NN one_CD crewman_NN gasps_NNS 
+]_NN [_NN the_DT men_NNS go_VBP outside_IN to_TO see_VB the_DT dress_NN that_WDT was_VBD floating_VBG by_IN the_DT window_NN 
+]_NN [_NN the_DT dress_NN floats_VBZ like_IN a_DT ghost_NN ,_, its_PRP$ left_JJ arm_NN raised_VBD as_IN if_IN pointing_VBG 
+]_NN BURSAR_NNP :_: She_PRP wants_VBZ you_PRP to_TO ..._... do_VBP something_NN ._. 
+BELLAMY_NNP :_: She_PRP 's_VBZ tryna_NN give_VBP a_DT sign_NN ._. 
+[_NN the_DT dress_NN sweeps_NNS over_IN a_DT lantern_NN ,_, knocking_VBG it_PRP over_RB and_CC part_NN of_IN the_DT deck_NN ignites_NNS 
+]_NN BELLAMY_NNP :_: Over_IN there_RB !_. 
+Look_VB for_IN a_DT sign_NN !_. 
+[_NN the_DT crew_NN rush_NN to_TO the_DT railing_NN and_CC look_VB out_RB at_IN the_DT sea_NN 
+]_NN [_NN Elizabeth_NNP ,_, up_RB on_IN the_DT mast_NN overhead_NN ,_, sighs_NNS in_IN exasperation_NN 
+]_NN QUARTERMASTER_NNP :_: Look_VB there_RB !_. 
+There_EX it_PRP is_VBZ ._. 
+There_EX 's_VBZ the_DT sign_NN ._. 
+BURSAR_NNP :_: That_DT 's_VBZ seaweed_JJ ._. 
+QUARTERMASTER_NNP :_: S_UH -_- Seaweed_NN can_MD be_VB a_DT sign_NN ._. 
+BURSAR_NNP :_: Looks_VB like_IN entrails_NNS ._. 
+That_DT would_MD be_VB a_DT bad_JJ sign_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: What_WP 's_VBZ that_IN over_IN there_RB ?_. 
+[_NN Elizabeth_NNP is_VBZ now_RB sitting_VBG on_IN a_DT platform_NN on_IN the_DT deck_NN behind_IN the_DT men_NNS ,_, pointing_VBG at_IN the_DT deck_NN where_WRB the_DT lantern_NN fell_VBD 
+]_NN [_NN the_DT men_NNS at_IN the_DT railing_NN turn_NN around_RP and_CC look_VB where_WRB Elizabeth_NNP is_VBZ pointing_VBG 
+]_NN [_NN the_DT fire_NN burning_NN on_IN the_DT desk_NN spells_VBZ out_IN "_'' Tortuga_NNP "_'' in_IN fiery_NN letters_NNS 
+]_NN Tortuga_NNP [_NN men_NNS are_VBP tied_VBN up_RP with_IN ropes_NNS alongside_IN a_DT well_RB ,_, camera_NN pans_NNS past_JJ the_DT well_NN 
+]_NN [_NN a_DT man_NN is_VBZ tied_VBN up_RP and_CC being_VBG dunked_JJ in_IN the_DT well_NN ,_, and_CC is_VBZ spouting_VBG water_NN from_IN his_PRP$ mouth_NN 
+]_NN [_NN crowded_VBD tavern_NN ,_, glass_NN bottles_NNS are_VBP being_VBG shot_NN off_RP of_IN people_NNS 's_POS heads_NNS for_IN entertainment_NN 
+]_NN [_NN a_DT duo_NN of_IN musicians_NNS is_VBZ playing_VBG a_DT guitar_NN and_CC accordion_NN 
+]_NN GIBBS_NNP :_: And_CC what_WP makes_VBZ you_PRP think_VBP you_PRP 're_VBP worthy_JJ to_TO crew_NN the_DT Black_NNP Pearl_NNP ?_. 
+ELDERLY_NNP MAN_NN :_: Truth_NN be_VB told_VBN ,_, I_PRP never_RB sailed_VBD a_DT day_NN in_IN me_PRP life_NN ._. 
+I_PRP figure_VBP I_PRP should_MD get_VB out_IN and_CC see_VB the_DT world_NN while_IN I_PRP 'm_VBP still_RB young_JJ ._. 
+GIBBS_NNP :_: You_PRP 'll_MD do_VB ._. 
+Make_VB your_PRP$ mark_NN ._. 
+Next_JJ !_. 
+JILTED_NNP MAN_NN :_: My_PRP$ wife_NN ran_VBD off_RP with_IN my_PRP$ dog_NN ._. 
+And_CC I_PRP 'm_VBP drunk_JJ for_IN a_DT month_NN ._. 
+And_CC I_PRP do_VBP n't_RB give_VB a_DT ass_NNS rat_NN 's_POS if_IN I_PRP live_VBP or_CC die_VB ._. 
+GIBBS_NNP :_: Perfect_JJ !_. 
+Next_JJ !_. 
+ONE_CD -_- ARMED_JJ MAN_NN :_: Me_PRP have_VBP one_CD arm_NN ,_, 'n'_CC a_DT bum_NN leg_NN ._. 
+GIBBS_NNP :_: It_PRP 's_VBZ the_DT crow_NN 's_POS nest_NN for_IN you_PRP ._. 
+[_NN Jack_NNP is_VBZ sitting_VBG alongside_IN a_DT wall_NN ,_, within_IN earshot_NN of_IN Gibbs_NNP '_POS table_NN ,_, trying_VBG to_TO make_VB his_PRP$ Compass_NNP work_NN 
+]_NN JACK_NNP SPARROW_NNP :_: I_PRP know_VBP what_WP I_PRP want_VBP ._. 
+GIBBS_NNP :_: Next_JJ !_. 
+ROMANTIC_NNP MAN_NN :_: Ever_RB since_IN I_PRP was_VBD a_DT little_JJ lad_NN ,_, I_PRP 've_VBP always_RB wanted_VBN to_TO sail_NN the_DT seas_NNS ._. 
+Forever_RB ._. 
+GIBBS_NNP :_: Sooner_RB than_IN you_PRP think_VBP ._. 
+Sign_VB the_DT roster_NN ._. 
+ROMANTIC_NNP MAN_NN :_: Thanks_NNS very_RB much_RB ._. 
+JACK_NNP SPARROW_NNP :_: How_WRB we_PRP going_VBG ?_. 
+GIBBS_NNP :_: Including_VBZ those_DT four_CD 
+?_. That_DT gives_VBZ us_PRP -_- four_CD !_. 
+[_NN to_TO the_DT next_JJ candidate_NN in_IN line_NN 
+]_NN GIBBS_NNP :_: And_CC what_WP 's_VBZ *_NN your_PRP$ *_NN story_NN ?_. 
+NORRINGTON_NNP :_: My_PRP$ story_NN ..._... it_PRP 's_VBZ exactly_RB the_DT same_JJ as_IN your_PRP$ story_NN ,_, just_RB one_CD chapter_NN behind_IN ._. 
+I_PRP chased_VBD a_DT man_NN across_IN the_DT Seven_NNP Seas_NNPS ._. 
+The_DT pursuit_NN cost_NN me_PRP my_PRP$ crew_NN ,_, my_PRP$ commission_NN ,_, and_CC my_PRP$ life_NN ._. 
+GIBBS_NNP :_: Commodore_NNP ?_. 
+NORRINGTON_NNP :_: No_DT ,_, not_RB anymore_RB ,_, were_VBD n't_RB you_PRP *_NN listening_VBG *_NN ?_. 
+I_PRP nearly_RB had_VBD you_PRP all_DT ,_, off_IN Tripoli_NNP ._. 
+I_PRP would_MD have_VB ,_, if_IN not_RB for_IN the_DT ..._... hurricane_NN ._. 
+GIBBS_NNP :_: Lord_NNP ._. 
+You_PRP did_VBD n't_RB try_VB to_TO sail_NN through_IN it_PRP ?_. 
+NORRINGTON_NNP :_: So_RB do_VBP I_PRP make_VBP your_PRP$ crew_NN ,_, or_CC not_RB ?_. 
+You_PRP have_VBP n't_RB said_VBN where_WRB you_PRP 're_VBP going_VBG ._. 
+Somewhere_RB *_NN nice_JJ *_NN !_. 
+[_NN unidentified_JJ woman_NN ]_NN Oh_UH !_. 
+[_NN the_DT music_NN stops_VBZ ,_, everyone_NN stares_NNS at_IN the_DT altercation_NN 
+]_NN [_NN Jack_NNP grabs_NNS a_DT branch_NN from_IN a_DT vase_NN ,_, carries_VBZ it_PRP in_IN front_NN of_IN his_PRP$ face_NN ,_, attempts_VBZ to_TO walk_VB out_IN unseen_JJ 
+]_NN NORRINGTON_NNP :_: So_RB am_VBP I_PRP *_NN worthy_JJ *_NN to_TO serve_VB under_IN Captain_NNP Jack_NNP Sparrow_NNP ?_. 
+[_NN Norrington_NNP spots_NNS Jack_NNP sneaking_VBG off_RP behind_IN him_PRP ,_, points_VBZ a_DT pistol_NN at_IN Jack_NNP 
+]_NN NORRINGTON_NNP :_: Or_CC should_MD I_PRP just_RB kill_VBP you_PRP now_RB ?_. 
+[_NN Jack_NNP ducks_NNS back_RB and_CC forth_RB behind_IN both_DT sides_NNS of_IN a_DT large_JJ post_NN ,_, as_IN Norrington_NNP points_VBZ his_PRP$ pistol_NN at_IN Jack_NNP 
+]_NN JACK_NNP SPARROW_NNP :_: You_PRP 're_VBP hired_VBN ._. 
+NORRINGTON_NNP :_: Sorry_JJ ._. 
+Old_JJ habits_NNS and_CC all_DT that_DT ._. 
+[_NN unidentifed_JJ man_NN ,_, to_TO Norrington_NNP ]_NN Easy_JJ ,_, sonny_NN !_. 
+[_NN someone_NN deflects_NNS Norrington_NNP 's_POS pistol_NN upwards_NNS as_IN it_PRP fires_VBZ 
+]_NN [_NN the_DT ball_NN richochets_NNS off_IN the_DT chandelier_NN ,_, breaking_VBG a_DT man_NN 's_POS bottle_NN as_IN he_PRP 's_VBZ drinking_NN from_IN it_PRP 
+]_NN [_NN the_DT man_NN whose_WP$ bottle_NN broke_VBD slugs_NNS a_DT man_NN next_JJ to_TO him_PRP 
+]_NN [_NN the_DT music_NN starts_VBZ back_RB up_RB as_IN a_DT brawl_NN ensues_NNS 
+]_NN [_NN one_CD man_NN swings_NNS from_IN chandelier_NN ,_, women_NNS fight_NN ,_, bottles_NNS are_VBP thrown_VBN against_IN the_DT wall_NN ,_, etc._NN 
+]_NN JACK_NNP SPARROW_NNP :_: Time_NN to_TO go_VB ?_. 
+GIBBS_NNP :_: Aye_UH !_. 
+[_NN a_DT swordfight_NN is_VBZ going_VBG on_IN 
+]_NN [_NN someone_NN throws_VBZ a_DT bottle_NN against_IN the_DT wall_NN above_IN the_DT stairs_NNS ,_, Jack_NNP ducks_NNS as_IN it_PRP smashes_NNS above_IN his_PRP$ head_NN 
+]_NN [_NN Jack_NNP makes_VBZ his_PRP$ way_NN upstairs_NN ,_, trading_NN hats_NNS a_DT few_JJ times_NNS along_IN the_DT way_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Thanks_NNS ,_, mate_NN ._. 
+[_NN Jack_NNP slaps_VBZ him_PRP on_IN the_DT shoulder_NN ,_, the_DT man_NN falls_VBZ backwards_JJ off_IN the_DT balcony_NN 
+]_NN [_NN Jack_NNP halts_NNS to_TO let_VB two_CD men_NNS carrying_VBG another_DT man_NN proceed_VB towards_IN the_DT edge_NN of_IN the_DT balcony_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Carry_VB on_IN ._. 
+Heave_VB !_. 
+[_NN the_DT two_CD men_NNS throw_VBP the_DT carried_VBN man_NN off_IN the_DT balcony_NN ,_, then_RB Jack_NNP continues_VBZ on_IN his_PRP$ way_NN 
+]_NN [_NN the_DT music_NN stops_VBZ ,_, Norrington_NNP threateningly_RB holds_VBZ a_DT bottle_NN in_IN his_PRP$ left_JJ hand_NN 
+]_NN NORRINGTON_NNP :_: Come_VBN on_IN ,_, men_NNS !_. 
+Who_WP wants_VBZ some_DT ?_. 
+Form_NN an_DT orderly_JJ line_NN ,_, I_PRP 'll_MD have_VB you_PRP all_DT one_CD by_IN one_CD ._. 
+Come_VBN on_IN ,_, who_WP 's_VBZ first_NN ?_. 
+[_NN from_IN behind_IN ,_, Elizabeth_NNP grabs_NNS the_DT bottle_NN from_IN Norrington_NNP ,_, smashes_NNS it_PRP over_IN his_PRP$ head_NN ,_, knocking_VBG him_PRP out_IN 
+]_NN ELIZABETH_NNP SWANN_NNP :_: I_PRP just_RB wanted_VBD the_DT pleasure_NN of_IN doing_VBG that_DT myself_PRP !_. 
+[_NN the_DT crowd_NN cheers_NNS ,_, and_CC everyone_NN holds_VBZ up_RP their_PRP$ mugs_NNS in_IN a_DT toast_NN 
+]_NN [_NN men_NNS throw_VBP Norrington_NNP into_IN the_DT mud_NN with_IN some_DT pigs_NNS ,_, the_DT crowd_NN leaves_VBZ except_IN for_IN Elizabeth_NNP 
+]_NN [_NN Elizabeth_NNP turns_VBZ Norrington_NNP over_IN ,_, onto_IN his_PRP$ back_RB 
+]_NN ELIZABETH_NNP SWANN_NNP :_: James_NNP Norrington_NNP ._. 
+What_WP has_VBZ the_DT world_NN done_VBN to_TO you_PRP ?_. 
+[_NN Mercer_NNP observes_VBZ Elizabeth_NNP and_CC Norrington_NNP from_IN the_DT doorway_NN of_IN the_DT tavern_NN 
+]_NN Flying_NNP Dutchman_NNP [_NN Jones_NNP plays_VBZ his_PRP$ pipe_NN organ_NN with_IN his_PRP$ tentacles_NNS ,_, steam_NN coming_VBG from_IN pipes_NNS 
+]_NN [_NN the_DT crew_NN are_VBP on_IN desk_NN ,_, slaving_VBG away_RB ,_, pulling_VBG rhythmically_RB on_IN a_DT rope_NN 
+]_NN Heave_VB !_. 
+Heave_VB !_. 
+Heave_VB !_. 
+Heave_VB !_. 
+Heave_VB !_. 
+Heave_VB !_. 
+BO_NNP '_POS SUN_NNP :_: Secure_VB the_DT mast_NN tackle_VB ,_, Mister_NNP Turner_NNP !_. 
+BO_NNP '_POS SUN_NNP :_: Step_NN to_TO -_- it_NN /_NN tight_JJ !_. 
+[_NN Will_NNP goes_VBZ to_TO grab_VB a_DT rope_NN 
+]_NN WILL_NNP TURNER_NNP :_: Step_NN aside_RB !_. 
+BO_NNP '_POS SUN_NNP :_: Regain_VB -_- yourselves_NN !_. /_NN Mind_VB -_- yourself_NN !_. 
+Scene_NN :_: #_# #_# #_# [_NN Bootstrap_NNP sees_VBZ that_IN the_DT other_JJ man_NN at_IN the_DT rope_NN is_VBZ his_PRP$ son_NN ,_, Bootstrap_NNP is_VBZ stunned_VBN 
+]_NN [_NN Bootstrap_NNP lets_VBZ go_NN of_IN the_DT rope_NN ,_, Will_NNP attempts_NNS to_TO grab_VB the_DT sliding_VBG rope_NN 
+]_NN [_NN the_DT cannon_NN 's_POS rope_NN drags_VBZ Will_NNP across_IN the_DT deck_NN 
+]_NN [_NN the_DT hoisted_VBN cannon_NN crashes_NNS to_TO the_DT deck_NN ,_, and_CC the_DT organ_NN music_NN stops_VBZ 
+]_NN BO_NNP '_POS SUN_NNP :_: Haul_VB that_DT weevil_NN to_TO his_PRP$ feet_NNS !_. 
+[_NN the_DT crew_NN haul_NN Will_NNP to_TO his_PRP$ feet_NNS 
+]_NN BO_NNP '_POS SUN_NNP :_. Five_CD lashes_NNS to_TO remind_VB you_PRP ..._... to_TO stay_VB on_IN 'em_PRP !_. 
+BO_NNP '_POS SUN_NNP :_: Impeding_VB me_PRP in_IN my_PRP$ duties_NNS ._. 
+You_PRP 'll_MD share_VB the_DT punishment_NN ._. 
+DAVY_NNP JONES_NNP :_: Will_NNP you_PRP now_RB ?_. 
+And_CC what_WP would_MD prompt_VB such_PDT an_DT act_NN of_IN charity_NN ?_. 
+DAVY_NNP JONES_NNP :_: Ha_UH ha_NN ha_NN ha_NN !_. 
+Ha_UH ha_NN !_. 
+What_WP fortuitous_JJ circumstance_NN be_VBP this_DT !_. 
+Five_CD lashes_NNS be_VB owed_VBN ._. 
+I_PRP believe_VBP it_PRP is_VBZ ._. 
+[_NN Jones_NNP hands_VBZ the_DT whip_NN to_TO Bootstrap_NNP ,_, Jones_NNP '_POS tentacle_NN curls_NNS around_IN the_DT shaft_NN of_IN it_PRP 
+]_NN DAVY_NNP JONES_NNP :_: The_DT cat_NN 's_POS out_IN of_IN the_DT bag_NN ,_, Mister_NNP Turner_NNP ._. 
+Your_PRP$ issue_NN will_MD feel_VB its_PRP$ sting_NN be_VB it_PRP the_DT Bo_NNP '_POS sun_NNP 's_POS hand_NN ,_, by_IN your_PRP$ own_JJ ._. 
+DAVY_NNP JONES_NNP :_: Bo_NNP '_POS sun_NNP !_. 
+[_NN Bootstrap_NNP reluctantly_RB takes_VBZ the_DT whip_NN 
+]_NN [_NN two_CD crewmen_NN tear_VB Will_NNP 's_POS shirt_NN off_RP ,_, exposing_VBG his_PRP$ bare_JJ back_RB 
+]_NN [_NN Bootstrap_NNP whips_VBZ Will_NNP 's_POS back_RB five_CD times_NNS 
+]_NN [_NN Will_NNP is_VBZ tossed_VBN into_IN a_DT lower_JJR part_NN of_IN the_DT deck_NN ,_, partially_RB filled_VBN with_IN water_NN 
+]_NN [_NN Will_NNP stands_VBZ up_RB ,_, wearing_VBG an_DT intact_JJ white_JJ shirt_NN 
+]_NN BO_NNP '_POS SUN_NNP :_: You_PRP had_VBD it_PRP easy_JJ ,_, boy_NN !_. 
+Ha_UH ha_NN ha_NN !_. 
+WILL_NNP TURNER_NNP :_: I_PRP do_VBP n't_RB need_VB your_PRP$ help_NN !_. 
+WILL_NNP TURNER_NNP :_: So_IN I_PRP 'm_VBP to_TO understand_VB what_WP *_NN you_PRP *_NN did_VBD was_VBD an_DT act_NN of_IN compassion_NN ?_. 
+FLYING_NNP DUTCHMAN_NNP :_: below_IN deck_NN [_NN Bootstrap_NNP and_CC Will_NNP enter_VB the_DT interior_NN of_IN the_DT ship_NN together_RB 
+]_NN [_NN crewmember_NN Wyvern_NNP is_VBZ seen_VBN to_TO their_PRP$ right_NN ,_, encrusted_VBN into_IN the_DT interior_JJ side_NN of_IN the_DT hull_NN ,_, standing_NN up_RB 
+]_NN WILL_NNP TURNER_NNP :_: I_PRP 've_VBP sworn_VBN no_DT oath_NN ._. 
+WILL_NNP TURNER_NNP :_: Not_RB until_IN I_PRP find_VBP this_DT ._. 
+The_DT key_NN ._. 
+[_NN Wyvern_NNP 's_POS eyes_NNS open_JJ in_IN the_DT coral-encrusted_JJ wall_NN at_IN the_DT mention_NN of_IN the_DT key_JJ 
+]_NN [_NN Wyvern_NNP ,_, who_WP is_VBZ part_NN of_IN the_DT wall_NN ,_, breaks_VBZ his_PRP$ head_NN away_RB from_IN the_DT wall_NN ,_, leaving_VBG his_PRP$ brains_NNS behind_IN 
+]_NN WYVERN_NNP :_: The_DT deadman_NN 's_POS chest_NN ._. 
+WILL_NNP TURNER_NNP :_: What_WP do_VBP you_PRP know_VBP of_IN this_DT ?_. 
+WYVERN_NNP :_: Open_VB the_DT chest_NN with_IN the_DT key_NN ,_, and_CC stab_NN the_DT heart_NN ._. 
+No_UH -_- no_UH -_- no_UH -_- no_UH ._. 
+Do_VBP n't_RB stab_NN the_DT heart_NN ._. 
+The_DT Dutchman_NNP needs_VBZ a_DT living_VBG heart_NN ,_, or_CC there_EX 'll_MD be_VB no_DT captain_NN ._. 
+And_CC if_IN there_EX 's_VBZ no_DT captain_NN ,_, there_EX 's_VBZ no_DT one_CD to_TO have_VB the_DT key_NN ._. 
+WILL_NNP TURNER_NNP :_: So_IN the_DT captain_NN has_VBZ the_DT key_NN ._. 
+[_NN Wyvern_NNP retracts_NNS his_PRP$ head_NN back_RB into_IN the_DT wall_NN ,_, having_VBG said_VBN too_RB much_RB 
+]_NN WILL_NNP TURNER_NNP :_: Where_WRB *_NN is_VBZ *_NN the_DT key_NN ?_. 
+WYVERN_NNP :_: Hidden_JJ ._. 
+WILL_NNP TURNER_NNP :_: Where_WRB is_VBZ the_DT chest_NN ?_. 
+WYVERN_NNP :_: Hidden_JJ ._. 
+[_NN Wyvern_NNP closes_VBZ his_PRP$ eyes_NNS ,_, and_CC falls_VBZ silent_JJ 
+]_NN Scene_NN :_: Black_NNP Pearl_NNP [_NN the_DT Black_NNP Pearl_NNP is_VBZ at_IN a_DT dock_NN ,_, loading_NN fruits_NNS and_CC livestock_NN 
+]_NN [_NN Jack_NNP and_CC Gibbs_NNP are_VBP walking_VBG together_RB ,_, Elizabeth_NNP approaches_NNS from_IN behind_IN ,_, still_RB dressed_VBN as_IN a_DT man_NN 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Captain_NNP Sparrow_NNP !_. 
+JACK_NNP SPARROW_NNP :_: Come_VBN to_TO join_VB me_PRP crew_NN ,_, lad_NN ?_. 
+Welcome_VB aboard_IN ._. 
+ELIZABETH_NNP SWANN_NNP :_: I_PRP 'm_VBP here_RB to_TO find_VB the_DT man_NN I_PRP love_VBP ._. 
+JACK_NNP SPARROW_NNP :_: I_PRP 'm_VBP deeply_RB flattered_JJ ,_, son_NN ,_, but_CC my_PRP$ first_JJ and_CC only_RB love_VB is_VBZ the_DT sea_NN ._. 
+[_NN Norrington_NNP vomits_NNS over_IN the_DT side_NN 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Meaning_VB William_NNP Turner_NNP ,_, Captain_NNP Sparrow_NNP ._. 
+JACK_NNP SPARROW_NNP :_: Elizabeth_NNP 
+._. Hide_VB the_DT rum_NN ._. 
+[_NN Gibbs_NNP takes_VBZ the_DT bottle_NN that_IN Jack_NNP hands_NNS to_TO him_PRP ,_, and_CC walks_VBZ up_RP the_DT boarding_VBG plank_NN in_IN the_DT background_NN 
+]_NN JACK_NNP SPARROW_NNP :_: You_PRP know_VBP ,_, these_DT clothes_NNS do_VBP not_RB flatter_NN you_PRP at_IN all_DT ._. 
+It_PRP should_MD be_VB a_DT dress_NN or_CC nothing_NN ._. 
+I_PRP happen_VBP to_TO have_VB no_DT dress_NN in_IN my_PRP$ cabin_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: Jack_NNP 
+._. I_PRP know_VBP Will_NNP came_VBD to_TO find_VB you_PRP ._. 
+Where_WRB is_VBZ he_PRP ?_. 
+JACK_NNP SPARROW_NNP :_: Darling_NN ,_, I_PRP am_VBP truly_RB unhappy_JJ to_TO have_VB to_TO tell_VB you_PRP this_DT but_CC ..._... through_IN an_DT unfortunate_JJ and_CC *_NN entirely_RB *_NN unforeseeable_JJ series_NN of_IN circumstances_NNS that_WDT have_VBP nothing_NN whatsoever_RB to_TO do_VB with_IN me_PRP ,_, poor_JJ William_NNP has_VBZ been_VBN press-ganged_JJ into_IN Davy_NNP Jones_NNP '_POS crew_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: Davy_NNP Jones_NNP ?_. 
+[_NN Norrington_NNP vomits_NNS over_IN the_DT side_NN ,_, then_RB spits_NNS 
+]_NN NORRINGTON_NNP :_: Oh_UH ,_, please_VB ._. 
+The_DT captain_NN of_IN the_DT Flying_NNP Dutchman_NNP ._. 
+JACK_NNP SPARROW_NNP :_: You_PRP look_VBP bloody_JJ awful_JJ ._. 
+What_WP are_VBP you_PRP doing_VBG here_RB ?_. 
+NORRINGTON_NNP :_: You_PRP *_NN hired_VBD *_NN me_PRP ._. 
+I_PRP ca_MD n't_RB help_VB it_PRP if_IN your_PRP$ standards_NNS are_VBP lax_JJ ._. 
+JACK_NNP SPARROW_NNP :_: You_PRP *_NN smell_NN *_NN funny_JJ ._. 
+ELIZABETH_NNP SWANN_NNP :_: Jack_NNP 
+._. All_DT I_PRP want_VBP is_VBZ to_TO find_VB Will_NNP ._. 
+JACK_NNP SPARROW_NNP :_: Are_VBP you_PRP certain_JJ ?_. 
+Is_VBZ that_IN what_WP you_PRP really_RB want_VBP most_JJS ?_. 
+ELIZABETH_NNP SWANN_NNP :_: '_POS Course_NN ._. 
+JACK_NNP SPARROW_NNP :_: Because_IN I_PRP would_MD think_VB ,_, you_PRP 'd_MD want_VB to_TO find_VB a_DT way_NN to_TO *_NN save_VB *_NN Will_NNP the_DT most_JJS ._. 
+ELIZABETH_NNP SWANN_NNP :_: And_CC you_PRP have_VBP a_DT way_NN of_IN doing_VBG that_DT ?_. 
+JACK_NNP SPARROW_NNP :_: Well_RB ,_, there_EX is_VBZ a_DT chest_NN ..._... 
+NORRINGTON_NNP :_: Oh_UH ,_, dear_RB ._. 
+JACK_NNP SPARROW_NNP :_: A_DT chest_NN of_IN unknown_JJ size_NN and_CC origin_NN ._. 
+[_NN Pintel_NNP &_CC Ragetti_NNP walk_VBP by_RB ,_, together_RB carrying_VBG a_DT crate_NN of_IN bottles_NNS ,_, and_CC overhearing_VBG the_DT conversation_NN 
+]_NN PINTEL_NNP :_: What_WP contains_VBZ the_DT still-beating_JJ heart_NN o_NN '_'' Davy_NNP Jones_NNP ._. 
+RAGETTI_NNP :_: Unh_UH -_- unh_UH ..._... unh_UH -_- unh_UH ..._... unh_UH -_- unh_UH ..._... 
+JACK_NNP SPARROW_NNP :_: And_CC whoever_WP possesses_VBZ that_DT chest_NN possesses_VBZ the_DT leverage_NN to_TO command_VB Jones_NNP to_TO do_VB whatever_WDT it_PRP is_VBZ he_PRP or_CC she_PRP wants_VBZ ,_, including_VBG ..._... saving_VBG brave_JJ William_NNP from_IN his_PRP$ grim_JJ fate_NN ._. 
+NORRINGTON_NNP :_: You_PRP do_VBP n't_RB actually_RB believe_VB him_PRP ,_, do_VBP you_PRP ?_. 
+ELIZABETH_NNP SWANN_NNP :_: How_WRB do_VBP we_PRP find_VBP it_PRP ?_. 
+JACK_NNP SPARROW_NNP :_: With_IN this_DT ._. My_PRP$ Compass_NNP ..._... is_VBZ unique_JJ ._. 
+NORRINGTON_NNP :_: "_'' Unique_JJ "_'' here_RB having_VBG the_DT meaning_NN of_IN broken_VBN ._. 
+JACK_NNP SPARROW_NNP :_: True_JJ enough_RB ._. 
+This_DT Compass_NNP does_VBZ not_RB point_VB north_RB ._. 
+[_NN Norrington_NNP vomits_NNS over_IN the_DT side_NN 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Where_WRB does_VBZ it_PRP point_VBP ?_. 
+JACK_NNP SPARROW_NNP :_: It_PRP points_VBZ to_TO the_DT thing_NN you_PRP want_VBP most_JJS in_IN this_DT world_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: Oh_UH Jack_NNP !_. 
+Are_VBP you_PRP telling_VBG the_DT truth_NN ?_. 
+JACK_NNP SPARROW_NNP :_: Every_DT word_NN ,_, love_NN ._. 
+And_CC what_WP you_PRP want_VBP most_JJS in_IN this_DT world_NN is_VBZ to_TO find_VB the_DT chest_NN of_IN Davy_NNP Jones_NNP ,_, is_VBZ it_PRP not_RB ?_. 
+ELIZABETH_NNP SWANN_NNP :_: To_TO save_VB Will_NNP ?_. 
+JACK_NNP SPARROW_NNP :_: By_IN finding_VBG the_DT chest_NN of_IN Davy_NNP Jones_NNP ._. 
+[_NN Jack_NNP hands_VBZ the_DT compass_NNS to_TO Elizabeth_NNP ,_, then_RB draws_VBZ away_RB quickly_RB so_RB as_RB not_RB to_TO influence_VB the_DT compass_NNS 
+]_NN [_NN Elizabeth_NNP consults_NNS the_DT compass_NNS ,_, for_IN her_PRP$ the_DT dial_NN clearly_RB points_VBZ in_IN a_DT specific_JJ direction_NN 
+]_NN [_NN Jack_NNP slowly_RB rises_VBZ up_RP to_TO peer_VB at_IN the_DT face_NN of_IN the_DT compass_NNS 
+]_NN JACK_NNP SPARROW_NNP :_: Mister_NNP Gibbs_NNP !_. 
+GIBBS_NNP :_: Cap_NNP '_POS n_NN ._. 
+JACK_NNP SPARROW_NNP :_: We_PRP have_VBP our_PRP$ heading_VBG ._. 
+GIBBS_NNP :_: Finally_RB 
+!_. Cast_VBN off_RP those_DT lines_NNS ,_, weigh_VB anchor_VB ,_, and_CC prow_NN that_DT canvas_NN !_. 
+JACK_NNP SPARROW_NNP :_: Miss_NNP Swann_NNP ._. 
+Scene_NN :_: GIBBS_NNP #_# #_# #_# PINTEL_NNP :_: Welcome_VB to_TO the_DT crew_NN ,_, former_JJ Commodore_NNP !_. 
+Heh_UH -_- heh_UH -_- heh_UH -_- heh_UH -_- heh_UH -_- heh_UH -_- heh_UH -_- heh_UH ..._... 
+[_NN the_DT goat_NN neighs_NNS ]_NN PORT_NNP ROYAL_NNP :_: EITC_JJ headquarters_NN [_NN Beckett_NNP and_CC Mercer_NNP are_VBP in_IN a_DT room_NN with_IN the_DT governor_NN ,_, whose_WP$ hands_NNS are_VBP in_IN shackles_NNS 
+]_NN [_NN Mercer_NNP is_VBZ looking_VBG through_IN a_DT mounted_VBN telescope_NN to_TO outside_IN the_DT window_NN 
+]_NN LORD_NNP CUTLER_NNP BECKETT_NNP :_: There_EX 's_VBZ something_NN to_TO knowing_VBG the_DT exact_JJ shape_NN of_IN the_DT world_NN and_CC one_CD 's_POS place_NN in_IN it_PRP ,_, do_VBP n't_RB you_PRP agree_VB ?_. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: I_PRP had_VBD you_PRP brought_VBD here_RB because_IN I_PRP thought_VBD you_PRP 'd_MD be_VB interested_JJ in_IN the_DT whereabouts_NN of_IN your_PRP$ daughter_NN ._. 
+MERCER_NNP :_: Most_JJS recently_RB seen_VBN on_IN the_DT island_NN of_IN Tortuga_NNP ,_, then_RB left_VBD ,_, in_IN the_DT company_NN of_IN a_DT known_VBN pirate_NN ,_, Jack_NNP Sparrow_NNP ._. 
+*_NN And_CC *_NN other_JJ fugitives_NNS from_IN justice_NN ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: Including_JJ the_DT previous_JJ owner_NN of_IN this_DT sword_NN ..._... 
+I_PRP believe_VBP ._. 
+Our_PRP$ ships_NNS are_VBP in_IN pursuit_NN ._. 
+and_CC justice_NN will_MD be_VB dispensed_VBD by_IN cannonade_NN and_CC cutlass_NNS ,_, and_CC all_DT manner_NN of_IN remorseless_JJ pieces_NNS of_IN metal_NN ._. 
+I_PRP personally_RB find_VBP it_PRP distasteful_JJ to_TO even_RB contemplate_VB the_DT horror_NN facing_VBG all_PDT those_DT on_IN board_NN ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: Your_PRP$ authority_NN as_IN governor_NN ,_, your_PRP$ influence_NN in_IN London_NNP ,_, and_CC your_PRP$ loyalty_NN to_TO the_DT East_NNP India_NNP Trading_NNP Company_NN ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: Shall_VB I_PRP remove_VB these_DT shackles_NNS ?_. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: So_IN you_PRP see_VBP ,_, Mercer_NNP ,_, every_DT man_NN has_VBZ a_DT price_NN he_PRP will_MD willingly_RB accept_VB ._. 
+Even_RB for_IN what_WP he_PRP hopes_VBZ never_RB to_TO sell_VB ._. 
+FLYING_NNP DUTCHMAN_NNP :_: deck_NN [_NN slow_JJ motion_NN scene_NN of_IN falling_VBG dice_NNS 
+]_NN [_NN three_CD crewman_NN are_VBP playing_VBG Liar_NN 's_POS Dice_NNP 
+]_NN [_NN organ_NN music_NN is_VBZ heard_VBN in_IN the_DT background_NN 
+]_NN MACCUS_NNP :_: I_PRP wager_NN ..._... ten_CD years_NNS ._. 
+KOLENIKO_NNP :_: I_PRP 'll_MD match_VB ten_CD years_NNS ._. 
+GREENBEARD_NNP :_: Agreed_VBD ._. 
+WILL_NNP TURNER_NNP :_: I_PRP understand_VBP ._. 
+Liar_NN !_. 
+WILL_NNP TURNER_NNP :_: It_PRP 's_VBZ a_DT game_NN of_IN deception_NN ._. 
+Your_PRP$ bet_NN includes_VBZ all_PDT the_DT dice_NNS ,_, not_RB just_RB your_PRP$ own_JJ ._. 
+WILL_NNP TURNER_NNP :_: What_WP are_VBP they_PRP wagering_NN ?_. 
+WILL_NNP TURNER_NNP :_: So_IN any_DT crewman_NN can_MD be_VB challenged_VBN ?_. 
+WILL_NNP TURNER_NNP :_: I_PRP challenge_VBP Davy_NNP Jones_NNP ._. 
+[_NN immediately_RB the_DT organ_NN music_NN ceases_VBZ ,_, immediately_RB Jones_NNP '_POS peg_VB leg_NN is_VBZ heard_VBN thumping_VBG in_IN approach_NN 
+]_NN [_NN with_IN each_DT thump_NN of_IN his_PRP$ footstep_NN ,_, gooseneck_NN barnacles_NNS retract_NN 
+]_NN [_NN someone_NN laughs_VBZ 
+]_NN DAVY_NNP JONES_NNP :_: I_PRP accept_VBP that-_NN uh_UH ._. 
+[_NN Jones_NNP sits_VBZ down_RB at_IN the_DT gambling_NN table_NN 
+]_NN DAVY_NNP JONES_NNP :_: The_DT stakes_NNS ?_. 
+WILL_NNP TURNER_NNP :_: My_PRP$ soul_NN ._. 
+An_DT eternity_NN of_IN servitude_NN ._. 
+DAVY_NNP JONES_NNP :_: Against_IN ?_. 
+WILL_NNP TURNER_NNP :_: I_PRP want_VBP this_DT ._. 
+[_NN Jack_NNP shows_VBZ Jones_NNP the_DT picture_NN of_IN the_DT key_JJ 
+]_NN DAVY_NNP JONES_NNP :_: How_WRB do_VBP you_PRP know_VBP of_IN the_DT key_NN ?_. 
+WILL_NNP TURNER_NNP :_: That_DT 's_VBZ not_RB part_VB of_IN the_DT game_NN ,_, is_VBZ it_PRP ?_. 
+You_PRP can_MD still_RB walk_VB away_RB ._. 
+[_NN One_CD of_IN Jones_NNP '_POS tentacles_NNS pulls_VBZ out_RP the_DT key_NN from_IN his_PRP$ vest_NN to_TO display_VB it_PRP 
+]_NN [_NN the_DT tentacle_NN puts_VBZ the_DT key_NN back_RB 
+]_NN [_NN Bootstrap_NNP sits_VBZ down_RB at_IN the_DT table_NN 
+]_NN DAVY_NNP JONES_NNP :_: What_WP 's_VBZ this_DT ?_. 
+WILL_NNP TURNER_NNP :_: No_UH !_. 
+Do_VBP n't_RB do_VB this_DT ._. 
+DAVY_NNP JONES_NNP :_: Four_CD fours_NNS ._. 
+WILL_NNP TURNER_NNP :_: Four_CD fives_NNS ._. 
+DAVY_NNP JONES_NNP :_: Seven_CD fives_NN -_- uh_UH ._. 
+WILL_NNP TURNER_NNP :_: Eight_CD fives_NNS ._. 
+DAVY_NNP JONES_NNP :_: Huh_UH huh_NN huh_NN ._. 
+Welcome_VB to_TO the_DT crew_NN ,_, liar_NN ._. 
+DAVY_NNP JONES_NNP :_: And_CC be_VB called_VBN a_DT liar_NN myself_PRP for_IN my_PRP$ trouble_NN ?_. 
+Bootstrap_NNP Bill_NNP ,_, you_PRP 're_VBP a_DT liar_NN and_CC you_PRP will_MD spend_VB an_DT eternity_NN on_IN this_DT ship_NN !_. 
+Master_NNP Turner_NNP ,_, feel_VBP free_JJ to_TO go_VB ashore_RB ..._... the_DT very_RB next_JJ time_NN we_PRP make_VBP port_NN !_. 
+WILL_NNP TURNER_NNP :_: Fool_NN ._. 
+Why_WRB did_VBD you_PRP do_VB that_DT ?_. 
+WILL_NNP TURNER_NNP :_: It_PRP was_VBD never_RB about_IN winning_VBG ,_, or_CC losing_VBG ._. 
+FLYING_NNP DUTCHMAN_NNP :_: organ_NN room_NN [_NN nighttime_NN on_IN deck_NN of_IN the_DT Flying_NNP Dutchman_NNP 
+]_NN [_NN Will_NNP emerges_VBZ from_IN a_DT hatch_VB on_IN deck_NN 
+]_NN [_NN Will_NNP sneaks_NNS past_JJ one_CD one_CD the_DT crew_NN on_IN deck_NN ,_, who_WP is_VBZ sleeping_VBG with_IN a_DT bottle_NN in_IN his_PRP$ hand_NN ]_NN 
+[_NN Jones_NNP is_VBZ asleep_RB at_IN his_PRP$ organ_NN ,_, snoring_VBG 
+]_NN [_NN Will_NNP sneaks_NNS into_IN his_PRP$ room_NN ,_, behind_IN him_PRP 
+]_NN [_NN Will_NNP grabs_NNS a_DT nearby_JJ quill_NN pen_NN ,_, uses_VBZ it_PRP to_TO lift_VB one_CD of_IN Jones_NNP '_POS tentacles_NNS 
+]_NN [_NN one_CD tentacle_NN accidentally_RB falls_VBZ on_IN an_DT organ_NN key_JJ ,_, almost_RB waking_VBG up_RP Jones_NNP 
+]_NN [_NN the_DT falling_VBG tentacle_NN also_RB sets_VBZ off_IN a_DT locket_NN on_IN top_NN of_IN the_DT organ_NN ,_, that_WDT plays_VBZ a_DT song_NN 
+]_NN [_NN Will_NNP holds_VBZ one_CD of_IN the_DT staves_NNS in_IN his_PRP$ mouth_NN while_IN lifting_VBG the_DT tentacles_NNS 
+]_NN [_NN Will_NNP finally_RB removes_VBZ the_DT key_NN ,_, replaces_VBZ it_PRP with_IN his_PRP$ drawing_NN of_IN the_DT key_JJ 
+]_NN FLYING_NNP DUTCHMAN_NNP :_: deck_NN WILL_NNP TURNER_NNP :_: It_PRP 's_VBZ not_RB a_DT fate_NN you_PRP had_VBD to_TO choose_VB for_IN yourself_PRP ,_, either_RB ._. 
+WILL_NNP TURNER_NNP :_: They_PRP 'll_MD know_VB you_PRP helped_VBD me_PRP ._. WILL_NNP TURNER_NNP :_: I_PRP take_VBP this_DT with_IN a_DT promise_NN ._. 
+I_PRP 'll_MD find_VB a_DT way_NN to_TO sever_VB Jones_NNP '_POS hold_NN on_IN you_PRP ._. 
+And_CC not_RB rest_VB until_IN this_DT blade_NN pierces_NNS his_PRP$ heart_NN ._. 
+I_PRP will_MD not_RB abandon_VB you_PRP ._. 
+I_PRP promise_VBP ._. 
+[_NN Will_NNP sets_NNS out_IN alone_RB on_IN a_DT longboat_NN 
+]_NN Scene_NN :_: Black_NNP Pearl_NNP [_NN crewmen_NN are_VBP scrubbing_VBG the_DT deck_NN of_IN the_DT Black_NNP Pearl_NNP 
+]_NN GIBBS_NNP :_: Beckett_NNP !_. ELIZABETH_NNP SWANN_NNP :_: Yes_UH ,_, they_PRP 're_VBP signed_VBN ,_, Lord_NNP Cutler_NNP Beckett_NNP of_IN the_DT East_NNP India_NNP Trading_NNP Company_NN ._. 
+JACK_NNP SPARROW_NNP :_: Agh_NN ._. 
+GIBBS_NNP :_: Will_NNP was_VBD working_VBG for_IN Beckett_NNP ,_, and_CC never_RB said_VBD a_DT word_NN ._. 
+JACK_NNP SPARROW_NNP :_: Agh_UH` ._. 
+GIBBS_NNP :_: Beckett_NNP wants_VBZ the_DT Compass_NNP ._. Only_RB one_CD reason_NN for_IN that_DT ._. 
+JACK_NNP SPARROW_NNP :_: Of_IN course_NN ._. He_PRP wants_VBZ the_DT chest_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: Yes_UH ,_, he_PRP did_VBD say_VB something_NN about_IN a_DT chest_NN ._. 
+GIBBS_NNP :_: If_IN the_DT company_NN controls_VBZ the_DT chest_NN ,_, they_PRP controls_VBZ the_DT sea_NN ._. 
+JACK_NNP SPARROW_NNP :_: A_DT truly_RB discomforting_VBG notion_NN ,_, love_NN ._. 
+GIBBS_NNP :_: And_CC bad_JJ ._. 
+Bad_JJ for_IN every_DT mother_NN 's_POS son_NN what_WP calls_VBZ himself_PRP a_DT pirate_NN ._. 
+I_PRP think_VBP there_EX 's_VBZ a_DT bit_NN more_JJR speed_NN to_TO be_VB coaxed_JJ from_IN these_DT sails_NNS ._. 
+Brace_VBD the_DT foreyard_NN !_. 
+JACK_NNP SPARROW_NNP :_: Might_VB I_PRP inquire_NN how_WRB as_IN to_TO how_WRB you_PRP came_VBD by_IN these_DT ?_. 
+ELIZABETH_NNP SWANN_NNP :_: Persuasion_NN ._. 
+JACK_NNP SPARROW_NNP :_: Friendly_JJ ?_. 
+ELIZABETH_NNP SWANN_NNP :_: Decidedly_JJ not_RB ._. 
+JACK_NNP SPARROW_NNP :_: Will_NNP strikes_VBZ a_DT deal_NN for_IN these_DT and_CC upholds_VBZ it_PRP with_IN honor_NN ._. 
+Yet_CC you_PRP 're_VBP the_DT one_CD standing_NN here_RB with_IN the_DT prize_NN ._. 
+Full_JJ pardon_NN ,_, commission_NN as_IN a_DT privateer_NN on_IN behalf_NN of_IN England_NNP and_CC the_DT East_NNP India_NNP Trading_NNP Company_NN ._. 
+As_IN if_IN I_PRP could_MD be_VB bought_VBN for_IN such_JJ a_DT low_JJ price_NN ._. 
+[_NN Jack_NNP tucks_NNS the_DT Letters_NNS into_IN his_PRP$ coat_NN and_CC begins_VBZ to_TO walk_VB away_RB 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Jack_NNP ,_, the_DT Letters_NNS ,_, give_VB them_PRP back_RB ._. 
+JACK_NNP SPARROW_NNP :_: No._NN 
+Persuade_VB me_PRP ._. 
+ELIZABETH_NNP SWANN_NNP :_: You_PRP do_VBP know_VB Will_NNP taught_VBD me_PRP how_WRB handle_VB a_DT sword_NN ._. 
+JACK_NNP SPARROW_NNP :_: As_IN I_PRP said_VBD ..._... Persuade_VB me_PRP ._. 
+[_NN Elizabeth_NNP walks_VBZ away_RB frustrated_VBN ,_, leans_VBZ on_IN the_DT ship_NN 's_POS railing_NN 
+]_NN [_NN Jack_NNP makes_VBZ an_DT odd_JJ grunting_VBG noise_NN 
+]_NN [_NN Norrington_NNP walks_VBZ up_IN to_TO Elizabeth_NNP at_IN the_DT railing_NN 
+]_NN NORRINGTON_NNP :_: It_PRP 's_VBZ a_DT curious_JJ thing_NN ._. 
+There_EX was_VBD a_DT time_NN when_WRB I_PRP would_MD 've_VB given_VBN anything_NN for_IN you_PRP to_TO look_VB like_IN that_DT while_IN thinking_VBG about_IN me_PRP ._. 
+ELIZABETH_NNP SWANN_NNP :_: I_PRP do_VBP n't_RB know_VB what_WP you_PRP mean_VBP ._. 
+NORRINGTON_NNP :_: Oh_UH ,_, I_PRP think_VBP you_PRP do_VBP 
+._. ELIZABETH_NNP SWANN_NNP :_: Oh_UH ,_, do_VBP n't_RB be_VB absurd_JJ ._. 
+I_PRP trust_VBP him_PRP ,_, that_DT 's_VBZ all_DT ._. 
+NORRINGTON_NNP :_: So_IN you_PRP never_RB wondered_VBD how_WRB your_PRP$ *_NN latest_JJS *_NN fiancÈ_NN ended_VBD up_RB on_IN the_DT Flying_NNP Dutchman_NNP in_IN the_DT first_JJ place_NN ?_. 
+Edinburgh_NNP Trader_NNP BELLAMY_NNP :_: Strange_JJ thing_NN to_TO come_VB upon_IN a_DT longboat_NN so_RB far_RB out_IN in_IN open_JJ waters_NNS ._. 
+WILL_NNP TURNER_NNP :_: Just_RB put_VB as_IN many_JJ leagues_NNS behind_IN us_PRP as_IN you_PRP can_MD ._. As_RB fast_RB as_IN you_PRP can_MD ._. 
+BELLAMY_NNP :_: And_CC what_WP are_VBP we_PRP running_VBG from_IN ?_. 
+[_NN Will_NNP sees_VBZ Elizabeth_NNP 's_POS white_JJ wedding_NN dress_NN on_IN a_DT chair_NN in_IN the_DT cabin_NN 
+]_NN WILL_NNP TURNER_NNP :_: That_DT dress_NN ._. 
+Where_WRB did_VBD you_PRP get_VBP it_PRP ?_. 
+BELLAMY_NNP :_: It_PRP was_VBD found_VBN aboard_IN the_DT ship_NN ._. The_DT crew_NN it_PRP thought_VBD it_PRP was_VBD a_DT spirit_NN bringing_VBG some_DT omen_NN of_IN ill_JJ fate_NN ._. 
+WILL_NNP TURNER_NNP :_: That_DT 's_VBZ foolish_JJ ._. 
+QUARTERMASTER_NNP :_: Oh_UH ,_, yes_UH ._. 
+Proceededly_JJ foolish_JJ ._. 
+BURSAR_NNP :_: It_PRP brought_VBD good_JJ fortune_NN !_. 
+The_DT spirit_NN told_VBD us_PRP ..._... Put_VB in_IN at_IN Tortuga_NNP ._. 
+And_CC we_PRP made_VBD a_DT nice_JJ bit_NN of_IN profit_NN there_RB ._. 
+BELLAMY_NNP :_: Off_IN the_DT books_NNS ,_, of_IN course_NN ._. 
+WILL_NNP TURNER_NNP :_: I_PRP imagine_VBP ..._... some_DT of_IN your_PRP$ crew_NN may_MD have_VB jumped_VBN ship_NN there_RB ._. 
+BELLAMY_NNP :_: Why_WRB do_VBP you_PRP ask_VBP ?_. 
+MESSENGER_NNP SAILOR_NNP :_: Captain_NNP ,_, a_DT ship_NN 's_POS been_VBN spotted_VBN ._. 
+BELLAMY_NNP :_: Colors_NN ?_. 
+MESSENGER_NNP SAILOR_NNP :_: She_PRP is_VBZ n't_RB flyin_NN '_'' any_DT ._. 
+BELLAMY_NNP :_: Pirates_NN !_. 
+WILL_NNP TURNER_NNP :_: Or_CC worse_JJR ._. 
+FLYING_NNP DUTCHMAN_NNP :_: deck_NN [_NN Jones_NNP is_VBZ on_IN deck_NN ,_, having_VBG found_VBN the_DT cloth_NN that_WDT Will_NNP swapped_VBN for_IN the_DT key_JJ 
+]_NN [_NN Bootstrap_NNP is_VBZ held_VBN at_IN knife_NN point_NN on_IN board_NN the_DT Flying_NNP Dutchman_NNP 
+]_NN [_NN one_CD crewman_NN holds_VBZ a_DT sawfish_NN sword_NN as_IN a_DT restraining_VBG weapon_NN in_IN front_NN of_IN Bootstrap_NNP 
+]_NN DAVY_NNP JONES_NNP :_: You_PRP will_MD watch_VB this_DT ._. 
+[_NN crewmen_NN are_VBP whipped_VBN ,_, in_IN order_NN to_TO turn_VB a_DT large_JJ screw_NN that_WDT raises_VBZ the_DT Kraken_NNP summoning_VBG device_NN 
+]_NN DAVY_NNP JONES_NNP :_: Let_VB no_DT joyful_JJ voice_NN be_VB heard_VBN !_. 
+Let_VB no_DT man_NN look_NN up_RB at_IN the_DT sky_NN with_IN hope_VBP !_. 
+And_CC let_VB this_DT day_NN be_VB cursed_VBD by_IN we_PRP who_WP ready_JJ to_TO wake_NN ..._... the_DT *_NN Kraken_NNP *_NN !_. 
+[_NN the_DT Kraken_NNP calling_VBG device_NN thumps_NNS heavily_RB against_IN the_DT sea_NN 
+]_NN Scene_NN :_: Edinburgh_NNP Trader_NNP [_NN crewmen_NN on_IN board_NN the_DT Edinburgh_NNP Trader_NNP rush_NN to_TO the_DT railing_NN ,_, chattering_VBG ,_, to_TO see_VB the_DT Flying_NNP Dutchman_NNP 
+]_NN [_NN Will_NNP is_VBZ on_IN top_NN of_IN the_DT mast_NN 
+]_NN WILL_NNP TURNER_NNP :_: I_PRP 've_VBP doomed_VBN us_PRP all_DT ._. 
+It_PRP 's_VBZ the_DT Flying_NNP Dutchman_NNP !_. 
+[_NN a_DT loud_JJ thumping_VBG sound_NN resonates_VBZ throughout_IN the_DT ship_NN 
+]_NN BURSAR_NNP :_: Oh_UH ,_, Mother_NNP Cary_NNP 's_POS chickens_NNS ._. 
+What_WP happened_VBD ?_. 
+QUARTERMASTER_NNP :_: Must_MD 've_VB hit_VB a_DT reef_NN ._. 
+[_NN the_DT crew_NN look_NN overboard_RB ,_, see_VB bubbles_NNS rising_VBG up_RP alongside_IN the_DT ship_NN 
+]_NN BELLAMY_NNP :_: Free_VB the_DT rudder_NN !_. 
+Hard_JJ to_TO port_NN ,_, then_RB hard_JJ to_TO starboard_NN !_. 
+Clear_VB the_DT rudder_NN !_. 
+Hard_JJ to_TO port_NN !_. 
+[_NN a_DT Kraken_NNP tentacle_NN silently_RB seizes_NNS one_CD crewman_NN while_IN other_JJ crewmembers_NNS have_VBP their_PRP$ backs_NNS turned_VBN 
+]_NN [_NN the_DT Kraken_NNP tentacle_NN surfaces_VBZ in_IN the_DT distance_NN ,_, holding_VBG the_DT crewman_NN who_WP was_VBD just_RB seized_VBN ,_, he_PRP screams_VBZ 
+]_NN *_NN Kraken_NNP !_. *_NN [_NN crewman_NN rings_VBZ the_DT ship_NN 's_POS bell_NN wildly_RB 
+]_NN Scene_NN :_: #_# #_# #_# [_NN music_NN stops_VBZ ,_, slow_JJ motion_NN scene_NN ,_, a_DT huge_JJ tentacle_NN rises_VBZ high_JJ over_IN the_DT ship_NN 
+]_NN [_NN the_DT tentacle_NN comes_VBZ down_RB on_IN deck_NN ,_, breaking_VBG the_DT ship_NN in_IN two_CD ,_, bouncing_VBG men_NNS off_IN the_DT deck_NN 
+]_NN [_NN slow_JJ motion_NN scene_NN ,_, men_NNS slide_NN off_IN of_IN tilted_JJ deck_NN 
+]_NN [_NN Will_NNP is_VBZ flung_NN underwater_JJ ,_, sees_VBZ the_DT body_NN of_IN the_DT Kraken_NNP in_IN the_DT distance_NN underwater_JJ 
+]_NN [_NN Will_NNP surfaces_VBZ ,_, climbs_VBZ aboard_IN a_DT floating_VBG board_NN of_IN ship_NN debris_NN 
+]_NN [_NN the_DT Flying_NNP Dutchman_NNP comes_VBZ near_IN Will_NNP ,_, Will_NNP slides_NNS off_IN his_PRP$ board_NN to_TO swim_VBP towards_IN the_DT ship_NN 
+]_NN [_NN view_NN from_IN the_DT bow_NN of_IN the_DT Flying_NNP Dutchman_NNP ,_, looking_VBG at_IN the_DT floating_VBG debris_NN ,_, including_VBG a_DT face-down_JJ corpse_NN 
+]_NN [_NN Elizabeth_NNP 's_POS wedding_NN dress_NN is_VBZ also_RB debris_NN ,_, and_CC floats_VBZ on_IN the_DT surface_NN of_IN the_DT sea_NN 
+]_NN FLYING_NNP DUTCHMAN_NNP :_: deck_NN MACCUS_NNP :_: The_DT boy_NN 's_POS not_RB here_RB ._. 
+He_PRP must_MD 've_VB been_VBN claimed_VBN by_IN the_DT sea_NN ._. 
+DAVY_NNP JONES_NNP :_: *_NN I_PRP *_NN am_VBP the_DT sea_NN ._. 
+[_NN Jones_NNP stomps_NNS over_IN to_TO Bootstrap_NNP 
+]_NN DAVY_NNP JONES_NNP :_: You_PRP need_VBP time_NN alone_RB with_IN your_PRP$ thoughts_NNS ._. 
+What_WP of_IN the_DT survivors_NNS ?_. 
+DAVY_NNP JONES_NNP :_: There_EX are_VBP no_DT survivors_NNS ._. 
+[_NN the_DT remaining_VBG crewmen_NN are_VBP simultanenously_RB axed_JJ from_IN behind_IN 
+]_NN [_NN Will_NNP witnesses_NNS the_DT axing_VBG ,_, ducks_NNS behind_IN a_DT beam_NN 
+]_NN [_NN Jones_NNP turns_VBZ around_IN ,_, sensing_VBG Will_NNP ,_, but_CC sees_VBZ nothing_NN 
+]_NN DAVY_NNP JONES_NNP :_: The_DT chest_NN is_VBZ no_DT longer_RB safe_JJ ._. 
+Chart_VB a_DT course_NN to_TO Isla_NNP Cruces_NNP ._. 
+Get_VB me_PRP there_EX first_JJ ,_, or_CC there_EX 'll_MD be_VB the_DT devil_NN to_TO pay_VB ._. 
+KOLENIKO_NNP :_: First_CD ?_. 
+DAVY_NNP JONES_NNP :_: Who_WP sent_VBD that_IN thieving_VBG charlatan_NN onto_IN my_PRP$ ship_NN ?_. 
+Who_WP told_VBD them_PRP of_IN the_DT key_NN ?_. 
+Jack_NNP Sparrow_NNP ._. 
+[_NN camera_NN shows_VBZ Will_NNP hitching_VBG a_DT ride_NN on_IN the_DT front_NN of_IN the_DT Flying_NNP Dutchman_NNP ,_, between_IN the_DT jaw_NN formations_NNS 
+]_NN [_NN Elizabeth_NNP 's_POS wedding_NN dress_NN is_VBZ shown_VBN underwater_JJ ,_, sinking_VBG into_IN the_DT depths_NNS of_IN the_DT sea_NN 
+]_NN Black_NNP Pearl_NNP [_NN Elizabeth_NNP is_VBZ sitting_VBG on_IN some_DT steps_NNS on_IN deck_NN of_IN the_DT Black_NNP Pearl_NNP 
+]_NN [_NN Jack_NNP walks_VBZ over_IN to_TO her_PRP$ ,_, holding_VBG a_DT bottle_NN of_IN rum_NN 
+]_NN JACK_NNP SPARROW_NNP :_: My_PRP$ tremendous_JJ intuitive_JJ sense_NN of_IN the_DT female_JJ creature_NN informs_VBZ me_PRP that_IN you_PRP are_VBP troubled_JJ ._. 
+ELIZABETH_NNP SWANN_NNP :_: I_PRP just_RB thought_VBD I_PRP 'd_MD be_VB married_VBN by_IN now_RB ._. 
+I_PRP 'm_VBP so_RB ready_JJ to_TO be_VB married_VBN ._. 
+[_NN Jack_NNP offers_VBZ Elizabeth_NNP a_DT drink_NN from_IN his_PRP$ bottle_NN 
+]_NN JACK_NNP SPARROW_NNP :_: You_PRP know_VBP ..._... Lizzy_NNP ..._... I_PRP *_NN am_VBP *_NN ..._... captain_NN of_IN a_DT ship_NN ._. 
+And_CC *_NN being_VBG *_NN captain_NN of_IN a_DT ship_NN ,_, I_PRP could_MD in_IN fact_NN perform_VBP a_DT ..._... marriage_NN ._. 
+Right_RB here_RB ._. 
+Right_RB on_IN this_DT deck_NN ._. 
+Right_RB ..._... *_NN now_RB *_NN !_. 
+[_NN Elizabeth_NNP recoils_NNS at_IN Jack_NNP 's_POS breath_NN on_IN the_DT word_NN "_'' now_RB "_'' 
+]_NN ELIZABETH_NNP SWANN_NNP :_: No_DT ,_, thank_VB you_PRP ._. 
+JACK_NNP SPARROW_NNP :_: Why_WRB not_RB ?_. 
+We_PRP *_NN are_VBP *_NN very_RB much_RB alike_RB ,_, you_PRP and_CC I._NN I_PRP and_CC you_PRP ._. 
+Us_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: Oh_UH ._. 
+Except_IN for_IN a_DT sense_NN of_IN honor_NN ,_, and_CC decency_NN and_CC -_- and_CC a_DT moral_JJ center_NN ._. 
+And_CC personal_JJ hygiene_NN ._. 
+[_NN Jack_NNP smells_VBZ his_PRP$ armpits_NNS 
+]_NN JACK_NNP SPARROW_NNP :_: Trifles_NNS ._. 
+You_PRP *_NN will_MD *_NN come_VB over_IN to_TO my_PRP$ side_NN ,_, I_PRP know_VBP it_PRP ._. 
+ELIZABETH_NNP SWANN_NNP :_: You_PRP seem_VBP very_RB certain_JJ ._. 
+JACK_NNP SPARROW_NNP :_: One_CD word_NN love_NN :_: curiosity_NN ._. 
+You_PRP long_RB for_IN freedom_NN ._. 
+You_PRP long_JJ to_TO do_VB what_WP you_PRP want_VBP to_TO do_VB because_IN you_PRP want_VBP it_PRP ._. 
+To_TO act_VB on_IN selfish_JJ impulse_NN ._. 
+You_PRP want_VBP to_TO see_VB what_WP it_PRP 's_VBZ like_IN ._. 
+One_CD day_NN ,_, you_PRP wo_MD n't_RB be_VB able_JJ to_TO resist_VB ._. 
+ELIZABETH_NNP SWANN_NNP :_: Why_WRB does_VBZ n't_RB your_PRP$ Compass_NNP work_NN ?_. 
+JACK_NNP SPARROW_NNP :_: Uh_UH my_PRP$ Compass_NNP works_VBZ fine_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: Because_IN you_PRP and_CC I_PRP *_NN are_VBP *_NN alike_RB ,_, and_CC there_EX will_MD come_VB a_DT moment_NN when_WRB you_PRP have_VBP a_DT chance_NN to_TO show_VB it_PRP ._. 
+To_TO do_VB the_DT right_JJ thing_NN ._. 
+JACK_NNP SPARROW_NNP :_: I_PRP *_NN love_NN *_NN those_DT moments_NNS ._. 
+I_PRP like_VBP to_TO wave_NN at_IN them_PRP as_IN they_PRP pass_VBP by_IN ._. 
+ELIZABETH_NNP SWANN_NNP :_: You_PRP 'll_MD have_VB the_DT chance_NN to_TO do_VB something_NN ..._... something_NN courageous_JJ ._. 
+And_CC when_WRB you_PRP do_VBP ,_, you_PRP 'll_MD discover_VB something_NN :_: that_IN you_PRP 're_VBP a_DT good_JJ man_NN ._. 
+JACK_NNP SPARROW_NNP :_: All_DT evidence_NN to_TO the_DT contrary_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: I_PRP have_VBP faith_NN in_IN you_PRP ._. 
+Want_VB to_TO know_VB why_WRB ?_. 
+JACK_NNP SPARROW_NNP :_: Do_VBP tell_VB ,_, dearie_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: Curiosity_NN ._. 
+You_PRP 're_VBP going_VBG to_TO want_VB it_PRP ._. 
+A_DT chance_NN to_TO be_VB admired_VBN ._. 
+And_CC gain_VB the_DT rewards_NNS that_DT follow_VBP ._. 
+You_PRP wo_MD n't_RB be_VB able_JJ to_TO resist_VB ._. 
+You_PRP 're_VBP going_VBG to_TO want_VB to_TO know_VB ..._... what_WP it_PRP tastes_VBZ like_IN ._. 
+JACK_NNP SPARROW_NNP :_: I_PRP *_NN do_VBP *_NN want_VBP to_TO know_VB what_WP it_PRP tastes_NNS like_IN ._. 
+ELIZABETH_NNP SWANN_NNP :_: But_CC -_. seeing_VBG as_IN you_PRP 're_VBP a_DT good_JJ man_NN I_PRP know_VBP you_PRP will_MD *_NN never_RB *_NN put_VBD me_PRP in_IN a_DT position_NN that_WDT would_MD compromise_VB my_PRP$ honor_NN ._. 
+[_NN Jack_NNP stares_NNS in_IN horror_NN as_IN the_DT black_JJ spot_NN boils_VBZ back_RB into_IN view_NN on_IN his_PRP$ hand_NN ,_, Elizabeth_NNP does_VBZ n't_RB notice_VB 
+]_NN ELIZABETH_NNP SWANN_NNP :_: I_PRP 'm_VBP proud_JJ of_IN you_PRP ,_, Jack_NNP ._. 
+GIBBS_NNP :_: Land_NN ho_NN !_. 
+JACK_NNP SPARROW_NNP :_: I_PRP want_VBP my_PRP$ jar_NN of_IN dirt_NN ._. 
+Scene_NN :_: Longboat_NN [_NN Pintel_NNP and_CC Ragetti_NNP are_VBP rowing_NN a_DT longboat_NN with_IN key_JJ members_NNS of_IN the_DT crew_NN inside_IN 
+]_NN [_NN Jack_NNP in_IN the_DT bow_NN ,_, Elizabeth_NNP and_CC Norrington_NNP are_VBP in_IN the_DT back_NN 
+]_NN PINTEL_NNP :_: You_PRP 're_VBP pullin_NN '_'' too_RB fast_RB ._. 
+RAGETTI_NNP :_: You_PRP 're_VBP pulling_VBG too_RB slow_JJ ._. 
+We_PRP do_VBP n't_RB want_VB the_DT Kraken_NNP to_TO catch_VB us_PRP ._. 
+PINTEL_NNP :_: I_PRP 'm_VBP savin_NN '_'' me_PRP strength_NN for_IN when_WRB it_PRP comes_VBZ ._. 
+And_CC I_PRP do_VBP n't_RB think_VB it_PRP 's_VBZ Krack-en_NN ,_, anyways_NNS ._. 
+I_PRP always_RB heard_VBD it_PRP said_VBD Kray-kin_NNP ._. 
+RAGETTI_NNP :_: What_WP ,_, with_IN a_DT long_JJ A_DT ?_. 
+PINTEL_NNP :_: Aye_UH ._. 
+RAGETTI_NNP :_: No_UH -_- no_UH -_- no_UH -_- no_UH -_- no_UH -_- no_UH -_- no_UH ._. 
+Krock-en_NNP 's_POS how_WRB it_PRP 's_VBZ pronounced_VBN in_IN the_DT original_JJ Scandinavian_JJ ,_, and_CC Krack-en_NNP 's_POS closer_JJR to_TO that_DT ._. 
+PINTEL_NNP :_: Well_RB we_PRP ai_VBZ n't_RB original_JJ Scandinavians_NNP ,_, are_VBP we_PRP ?_. 
+Kray-ken_NNP !_. 
+RAGETTI_NNP :_: It_PRP 's_VBZ a_DT mythological_JJ creature_NN ,_, I_PRP can_MD calls_VBZ it_PRP what_WP I_PRP wants_VBZ ._. 
+ISLA_NNP CRUCES_NNP :_: beach_NN [_NN their_PRP$ longboat_NN arrives_VBZ at_IN the_DT beach_NN ,_, Jack_NNP disembarks_NNS and_CC begins_VBZ to_TO walk_VB off_RP 
+]_NN JACK_NNP SPARROW_NNP :_: Guard_VB the_DT boat_NN ,_, mind_NN the_DT tide_NN ..._... Do_VBP n't_RB touch_VB my_PRP$ dirt_NN ._. 
+[_NN Elizabeth_NNP is_VBZ walking_VBG in_IN some_DT sand_NN dunes_NNS near_IN the_DT beach_NN ,_, using_VBG the_DT compass_NNS 
+]_NN ELIZABETH_NNP SWANN_NNP :_: This_DT does_VBZ n't_RB work_VB ._. 
+And_CC it_PRP *_NN certainly_RB *_NN does_VBZ n't_RB show_VB you_PRP what_WP you_PRP want_VBP most_JJS ._. 
+[_NN Elizabeth_NNP sits_VBZ down_RB on_IN the_DT sand_NN ,_, and_CC sets_VBZ the_DT compass_NNS down_RB on_IN the_DT sand_NN ,_, the_DT needle_NN points_NNS to_TO her_PRP$ 
+]_NN JACK_NNP SPARROW_NNP :_: Yes_UH it_PRP *_NN does_VBZ *_NN ._. 
+You_PRP 're_VBP sitting_VBG on_IN it_PRP !_. 
+ELIZABETH_NNP SWANN_NNP :_: Beg_VB your_PRP$ pardon_NN ?_. 
+JACK_NNP SPARROW_NNP :_: Move_VB ._. 
+[_NN they_PRP start_VBP digging_NN under_IN where_WRB Elizabeth_NNP was_VBD sitting_VBG 
+]_NN [_NN Pintel_NNP and_CC Ragetti_NNP are_VBP by_IN the_DT boat_NN ,_, clowning_VBG around_IN ,_, Ragetti_NNP is_VBZ balancing_VBG a_DT shovel_NN on_IN one_CD hand_NN 
+]_NN PINTEL_NNP :_: "_'' Mind_VB the_DT tide_NN ._. "_'' 
+RAGETTI_NNP :_: I_PRP can_MD /_NN may_MD join_VB the_DT circus_NN !_. 
+PINTEL_NNP :_: Do_VBP n't_RB mind_VB if_IN I_PRP shine_VBP your_PRP$ shoes_NNS ,_, Sir_NNP ?_. 
+FLYING_NNP DUTCHMAN_NNP :_: deck_NN [_NN Jones_NNP is_VBZ watching_VBG Pintel_NNP and_CC Ragetti_NNP on_IN the_DT beach_NN through_IN a_DT spyglass_NN 
+]_NN DAVY_NNP JONES_NNP :_: They_PRP 're_VBP here_RB ._. 
+And_CC I_PRP cannot_NN step_NN foot_NN on_IN land_NN again_RB for_IN near_IN of_IN a_DT decade_NN ._. 
+MACCUS_NNP :_: Then_RB trust_NN us_PRP to_TO act_VB in_IN your_PRP$ stead_NN ._. 
+DAVY_NNP JONES_NNP :_: I_PRP 'll_MD trust_VB you_PRP know_VB what_WP awaits_VBZ should_MD you_PRP *_NN fail_VB *_NN !_. 
+Down_IN ,_, then_RB !_. 
+[_NN ugly_JJ ,_, nondescript_JJ crewmember_NN ]_NN Down_IN !_. 
+MACCUS_NNP :_: Down_IN !_. 
+[_NN view_NN from_IN the_DT deck_NN of_IN the_DT Flying_NNP Dutchman_NNP as_IN it_PRP submerges_NNS ,_, some_DT underwater_JJ footage_NN 
+]_NN [_NN Pintel_NNP and_CC Ragetti_NNP are_VBP astounded_JJ to_TO see_VB the_DT ship_NN submerge_NN in_IN the_DT distance_NN ,_, Ragetti_NNP 's_POS balanced_JJ shovel_NN falls_VBZ 
+]_NN [_NN Pintel_NNP and_CC Ragetti_NNP run_VBP off_RP to_TO warn_VB the_DT others_NNS 
+]_NN Scene_NN :_: #_# #_# #_# !_. ISLA_NNP CRUCES_NNP :_: beach_NN [_NN Norrington_NNP is_VBZ digging_VBG in_IN the_DT sand_NN ,_, Jack_NNP sits_VBZ in_IN a_DT lotus_JJ position_NN nearby_JJ on_IN a_DT sandy_JJ slope_NN 
+]_NN [_NN while_IN digging_NN ,_, Norrington_NNP 's_POS shovel_NN hits_NNS something_NN hard_JJ ,_, they_PRP brush_NN off_IN sand_NN to_TO reveal_VB a_DT chest_NN 
+]_NN [_NN they_PRP remove_VB the_DT chest_NN from_IN the_DT sand_NN 
+]_NN [_NN the_DT chest_NN contains_VBZ a_DT pearl_NN necklace_NN ,_, documents_NNS ,_, and_CC a_DT smaller_JJR chest_NN ,_, among_IN other_JJ things_NNS 
+]_NN [_NN Elizabeth_NNP opens_VBZ up_RP a_DT letter_NN with_IN a_DT wax_NN seal_NN ,_, and_CC reads_VBZ it_PRP to_TO herself_PRP ]_NN 
+[_NN they_PRP all_DT bend_VB near_IN to_TO put_VB their_PRP$ ears_NNS to_TO the_DT small_JJ chest_NN ,_, and_CC they_PRP hear_VBP a_DT heartbeat_NN 
+]_NN ELIZABETH_NNP SWANN_NNP :_: It_PRP 's_VBZ real_NN !_. 
+NORRINGTON_NNP :_: You_PRP actually_RB *_NN were_VBD *_NN telling_VBG the_DT truth_NN ._. 
+JACK_NNP SPARROW_NNP :_: I_PRP do_VBP that_IN quite_RB a_DT lot_NN ._. 
+Yet_RB people_NNS are_VBP always_RB surprised_VBN ._. 
+WILL_NNP TURNER_NNP :_: With_IN good_JJ reason_NN !_. 
+[_NN Will_NNP has_VBZ unexpectedly_RB appeared_VBN on_IN the_DT beach_NN ,_, walking_VBG up_RP toward_IN them_PRP 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Will_NNP !_. 
+You_PRP 're_VBP alright_NN !_. 
+Thank_VB God_NNP !_. 
+I_PRP came_VBD to_TO find_VB you_PRP !_. 
+[_NN Will_NNP and_CC Elizabeth_NNP kiss_NNS 
+]_NN JACK_NNP SPARROW_NNP :_: How_WRB did_VBD you_PRP get_VBP here_RB ?_. 
+WILL_NNP TURNER_NNP :_: Sea_JJ turtles_NNS ,_, mate_NN ._. 
+A_DT pair_NN of_IN them_PRP ,_, strapped_VBN to_TO my_PRP$ feet_NNS ._. 
+JACK_NNP SPARROW_NNP :_: Not_RB so_RB easy_JJ ,_, is_VBZ it_PRP ?_. 
+WILL_NNP TURNER_NNP :_: But_CC I_PRP do_VBP owe_VBP you_PRP thanks_NNS ,_, Jack_NNP ._. 
+JACK_NNP SPARROW_NNP :_: You_PRP do_VBP ?_. 
+WILL_NNP TURNER_NNP :_: After_IN you_PRP tricked_JJ me_PRP onto_IN that_DT ship_NN to_TO square_VB your_PRP$ debt_NN with_IN Jones_NNP ._. 
+ELIZABETH_NNP SWANN_NNP :_: What_WP ?_. 
+JACK_NNP SPARROW_NNP :_: What_WP ?_. 
+WILL_NNP TURNER_NNP :_: I_PRP was_VBD reunited_VBN with_IN my_PRP$ father_NN ._. 
+JACK_NNP SPARROW_NNP :_: Oh_UH !_. Well_RB ..._... you_PRP 're_VBP welcome_JJ ,_, then_RB ._. 
+ELIZABETH_NNP SWANN_NNP :_: Everything_NN you_PRP said_VBD to_TO me_PRP ..._... every_DT word_NN ,_, was_VBD a_DT lie_NN !_. 
+JACK_NNP SPARROW_NNP :_: Pretty_JJ much_JJ ._. Time_NN and_CC tide_NN ,_, love_NN ._. 
+[_NN Will_NNP stoops_NNS down_RB with_IN the_DT key_NN to_TO open_VB the_DT chest_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Oy_UH !_. 
+What_WP 're_VBP you_PRP doing_VBG ?_. 
+WILL_NNP TURNER_NNP :_: I_PRP 'm_VBP gonna_VBG kill_NN Jones_NNP ._. 
+[_NN Jack_NNP draws_VBZ his_PRP$ sword_NN ,_, points_NNS it_PRP at_IN Will_NNP 
+]_NN JACK_NNP SPARROW_NNP :_: Ca_MD n't_RB let_VB you_PRP do_VBP that_DT ,_, William_NNP ._. 
+'Cause_IN if_IN Jones_NNP is_VBZ dead_VBN ,_, who_WP 's_VBZ to_TO call_VB his_PRP$ terrible_JJ beastie_NN off_IN the_DT hunt_NN ,_, eh_NN ?_. 
+Now_RB ._. 
+If_IN you_PRP please_VBP :_: The_DT key_NN ._. 
+[_NN Will_NNP backs_VBZ up_RB slowly_RB ,_, then_RB suddenly_RB draws_VBZ Elizabeth_NNP 's_POS sword_NN ,_, points_NNS it_PRP at_IN Jack_NNP 
+]_NN WILL_NNP TURNER_NNP :_: I_PRP keep_VBP the_DT promises_NNS I_PRP make_VBP ,_, Jack_NNP ._. 
+I_PRP intend_VBP to_TO free_VB my_PRP$ father_NN ._. 
+I_PRP hope_VBP you_PRP 're_VBP here_RB to_TO see_VB it_PRP ._. 
+[_NN Norrington_NNP draws_VBZ his_PRP$ sword_NN ,_, points_NNS it_PRP at_IN Will_NNP 
+]_NN NORRINGTON_NNP :_: I_PRP ca_MD n't_RB let_VB you_PRP do_VBP that_DT ,_, either_RB ._. 
+So_RB sorry_JJ ._. 
+JACK_NNP SPARROW_NNP :_: I_PRP knew_VBD you_PRP 'd_MD warm_VB up_IN to_TO me_PRP eventually_RB ._. 
+[_NN Norrington_NNP points_VBZ his_PRP$ sword_NN at_IN Jack_NNP 
+]_NN NORRINGTON_NNP :_: Lord_NNP Beckett_NNP desires_NNS the_DT contents_NNS of_IN that_DT chest_NN ._. 
+I_PRP deliver_VBP it_PRP ,_, and_CC get_VB my_PRP$ life_NN back_RB ._. 
+JACK_NNP SPARROW_NNP :_: Ah_UH ._. 
+The_DT dark_JJ side_NN of_IN ambition_NN ._. 
+NORRINGTON_NNP :_: Oh_UH ,_, I_PRP prefer_VBP to_TO see_VB it_PRP as_IN the_DT promise_NN of_IN redemption_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: Stop_VB it_PRP !_. 
+Be_VB careful_JJ !_. 
+[_NN various_JJ dueling_NN interjections_NNS 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Jack_NNP !_. 
+WILL_NNP TURNER_NNP :_: Guard_VB the_DT chest_NN !_. 
+[_NN duel_NN halts_NNS for_IN a_DT second_JJ 
+]_NN ELIZABETH_NNP SWANN_NNP :_: *_NN No_DT *_NN !_. 
+[_NN duel_NN resumes_VBZ 
+]_NN ELIZABETH_NNP SWANN_NNP :_: This_DT is_VBZ bar-*baric_JJ *_NN !_. 
+This_DT is_VBZ *_NN no_DT *_NN way_NN for_IN grown_VBN men_NNS to_TO settle_VB -_. !_. 
+Oh_UH !_. 
+Fine_NN !_. 
+Let_VB 's_PRP just_RB -_- *_NN pull_NN *_NN out_RP our_PRP$ swords_NNS and_CC start_VB *_NN banging_VBG *_NN away_RB at_IN each_DT other_JJ !_. 
+*_NN This_DT will_MD solve_VB everything_NN !_. 
+*_NN I_PRP 've_VBP had_VBN it_PRP !_. 
+I_PRP 've_VBP had_VBN enough_RB !_. 
+Wobbly-legged_JJ ,_, rum-soaked_JJ ..._... *_NN pirates_NNS *_NN !_. 
+[_NN Elizabeth_NNP throws_VBZ a_DT rock_NN at_IN the_DT duelists_NNS ,_, but_CC the_DT rock_NN goes_VBZ far_RB to_TO the_DT left_VBN of_IN them_PRP 
+]_NN PINTEL_NNP :_: How_WRB 'd_MD this_DT go_VB all_DT screwy_NN ?_. 
+Enough_JJ !_. 
+RAGETTI_NNP :_: Well_RB ,_, each_DT wants_VBZ the_DT chest_NN for_IN hisself_NN ,_, do_VBP n't_RB '_POS e_SYM ?_. 
+Mister_NNP Norrington_NNP ,_, I_PRP think_VBP he_PRP 's_VBZ tryna_NN regain_VBP a_DT bit_NN of_IN honor_NN ._. 
+Old_JJ Jack_NNP 's_POS lookin_NN '_'' to_TO trade_VB it_PRP ,_, save_VB his_PRP$ own_JJ skin_NN ._. 
+And_CC Turner_NNP there_EX -_. I_PRP figure_VBP '_'' e_SYM 's_POS tryna_NN ..._... settle_VB some_DT unresolved_JJ business_NN '_'' twixt_NN him_PRP and_CC his_PRP$ twice-cursed_JJ pirate_NN father_NN ._. 
+PINTEL_NNP :_: Sad_JJ ._. 
+That_DT chest_NN must_MD be_VB worth_JJ more_JJR '_POS n_NN a_DT shiny_JJ penny_NN ._. 
+RAGETTI_NNP :_: Oh_UH !_. 
+Tsk_UH -_- tsk_UH -_- tsk_UH ._. 
+Terrible_JJ temptation_NN ._. 
+PINTEL_NNP :_: If_IN we_PRP was_VBD any_DT kind_NN of_IN *_NN decent_JJ *_NN ,_, we_PRP 'd_MD remove_VB temptation_NN from_IN their_PRP$ path_NN 
+._. [_NN Pintel_NNP and_CC Ragetti_NNP giggle_NN and_CC run_VB off_RP to_TO steal_VB the_DT small_JJ chest_NN 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Will_NNP !_. 
+*_NN Enough_JJ !_. *_NN 
+[_NN Elizabeth_NNP is_VBZ panting_VBG from_IN exasperation_NN and_CC exhaustion_NN 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Oh_UH !_. 
+Oh_UH ..._... !_. 
+The_DT heat_NN !_. 
+[_NN Elizabeth_NNP pretends_NNS to_TO faint_VB ,_, which_WDT knocks_VBZ off_IN her_PRP$ hat_NN 
+]_NN [_NN Elizabeth_NNP watches_NNS sideways_RB as_IN the_DT duelists_NNS continue_VBP fighting_VBG ,_, oblivious_JJ to_TO her_PRP$ 
+]_NN [_NN Elizabeth_NNP soon_RB sits_VBZ up_RP ,_, puts_VBZ on_IN her_PRP$ hat_NN 
+]_NN [_NN Pintel_NNP &_CC Ragetti_NNP run_VBP by_IN in_IN the_DT distance_NN behind_IN her_PRP$ ,_, with_IN the_DT chest_NN 
+]_NN [_NN Elizabeth_NNP sees_VBZ Pintel_NNP &_CC Ragetti_NNP ,_, and_CC goes_VBZ to_TO chase_VB them_PRP 
+]_NN [_NN various_JJ duel_NN scenes_NNS on_IN the_DT beach_NN 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Bugger_UH !_. 
+[_NN Norrington_NNP kicks_VBZ sand_NN in_IN Will_NNP 's_POS face_VB 
+]_NN NORRINGTON_NNP :_: By_IN your_PRP$ leave_NN ,_, Mister_NNP Turner_NNP ._. 
+[_NN Norrington_NNP runs_VBZ off_IN to_TO chase_VB Jack_NNP up_RP the_DT hill_NN 
+]_NN [_NN the_DT crew_NN of_IN Flying_NNP Dutchman_NNP emerge_VB from_IN the_DT shallows_NNS 
+]_NN [_NN one_CD crewmember_NN holds_VBZ chain_NN shot_NN as_IN a_DT weapon_NN 
+]_NN ISLA_NNP CRUCES_NNP :_: church_NN [_NN Jack_NNP and_CC Norrington_NNP run_VBP through_IN bushes_NNS on_IN the_DT beach_NN ,_, then_RB up_IN to_TO a_DT dilapidated_JJ stone_NN church_NN on_IN the_DT hill_NN 
+]_NN [_NN P_NN 2_CD ]_NN [_NN Norrington_NNP chases_NNS Jack_NNP up_RP steps_NNS inside_IN the_DT building_NN ,_, Jack_NNP kicks_VBZ Norrington_NNP back_RB down_RB with_IN his_PRP$ foot_NN 
+]_NN [_NN Jack_NNP and_CC Norrington_NNP have_VBP a_DT swordfight_NN on_IN the_DT inside_JJ steps_NNS 
+]_NN [_NN Jack_NNP grabs_NNS hold_NN of_IN the_DT bell_NN rope_NN ,_, which_WDT carries_VBZ him_PRP downward_JJ ,_, and_CC carries_VBZ Will_NNP upward_RB ,_, who_WP just_RB arrived_VBD 
+]_NN WILL_NNP TURNER_NNP :_: By_IN *_NN your_PRP$ *_NN leave_NN ,_, Mister_NNP Norrington_NNP ._. 
+[_NN the_DT Flying_NNP Dutchman_NNP crew_NN on_IN shore_NN are_VBP at_IN the_DT large_JJ chest_NN and_CC look_VB up_IN to_TO the_DT ringing_VBG bell_NN in_IN the_DT building_NN on_IN the_DT hill_NN 
+]_NN [_NN while_IN Norrington_NNP and_CC Will_NNP are_VBP dueling_VBG on_IN top_NN of_IN the_DT roof_NN ,_, Jack_NNP deftly_RB grabs_NNS the_DT dangling_VBG key_JJ away_RB from_IN Norrington_NNP 's_POS hand_NN 
+]_NN [_NN noticing_VBG the_DT key_JJ gone_VBN ,_, Norrington_NNP then_RB turns_VBZ and_CC duels_NNS with_IN Jack_NNP 
+]_NN [_NN soon_RB Norrington_NNP knocks_VBZ Jack_NNP 's_POS sword_NN from_IN Jack_NNP 's_POS hand_NN ,_, the_DT sword_NN is_VBZ flung_NN onto_IN the_DT ground_NN below_IN 
+]_NN NORRINGTON_NNP :_: Do_VBP excuse_NN me_PRP while_IN I_PRP kill_VBP the_DT man_NN who_WP ruined_VBN my_PRP$ life_NN ._. 
+WILL_NNP TURNER_NNP :_: Be_VB my_PRP$ guest_NN ._. 
+JACK_NNP SPARROW_NNP :_: Let_VB us_PRP examine_VB that_DT claim_NN for_IN a_DT moment_NN ,_, former_JJ Commodore_NNP ,_, shall_MD we_PRP ?_. 
+Who_WP was_VBD it_PRP ,_, who_WP at_IN the_DT very_JJ moment_NN you_PRP had_VBD a_DT notorious_JJ pirate_NN safely_RB behind_IN bars_NNS ,_, saw_VBD fit_VBN to_TO *_NN free_JJ *_NN said_VBD pirate_NN ,_, and_CC take_VB your_PRP$ dearly_RB beloved_JJ all_DT to_TO hisself_NN ,_, hey_UH ?_. 
+So_RB who_WP 's_VBZ fault_NN is_VBZ it_PRP ,_, *_NN really_RB *_NN ,_, that_IN you_PRP 've_VBP ended_VBN up_RP a_DT -_- deckhand_NN what_WP takes_VBZ orders_NNS from_IN pirates_NNS ?_. 
+NORRINGTON_NNP :_: Enough_JJ !_. 
+[_NN Jack_NNP somersaults_NNS off_IN the_DT roof_NN to_TO escape_VB ,_, Norrington_NNP turns_VBZ to_TO Will_NNP 
+]_NN NORRINGTON_NNP :_: Unfortunately_RB ,_, Mister_NNP Turner_NNP ..._... He_PRP 's_VBZ *_NN right_JJ *_NN !_. 
+[_NN Norrington_NNP and_CC Will_NNP resume_VB their_PRP$ part_NN of_IN the_DT rooftop_NN duel_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Still_RB rooting_VBG for_IN you_PRP ,_, mate_NN !_. 
+[_NN Jack_NNP picks_VBZ up_RP his_PRP$ sword_NN from_IN the_DT ground_NN ,_, and_CC puts_VBZ the_DT key_NN around_IN his_PRP$ neck_NN 
+]_NN [_NN Jack_NNP walks_VBZ through_IN a_DT graveyard_NN ,_, falls_VBZ into_IN an_DT open_JJ grave_JJ 
+]_NN JACK_NNP SPARROW_NNP :_: Wup_NN !_. 
+[_NN Jack_NNP stands_VBZ up_RB in_IN the_DT bottom_NN of_IN the_DT hole_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Oh_UH ._. 
+[_NN Norrington_NNP backs_VBZ Will_NNP onto_IN the_DT top_NN of_IN the_DT mill_NN 's_POS waterwheel_NN 
+]_NN [_NN the_DT axle_NN of_IN the_DT wheel_NN breaks_NNS off_RP with_IN Norrington_NNP and_CC Jack_NNP dueling_NN on_IN top_JJ 
+]_NN [_NN Jack_NNP is_VBZ facing_VBG the_DT other_JJ direction_NN ,_, so_RB is_VBZ unaware_JJ of_IN the_DT freed_VBN wheel_NN rolling_VBG behind_IN him_PRP 
+]_NN [_NN the_DT wheel_NN crashes_NNS through_IN a_DT small_JJ fence_NN ,_, turns_VBZ ,_, and_CC rolls_NNS directly_RB towards_IN Jack_NNP 
+]_NN [_NN the_DT waterwheel_NN rolls_NNS over_IN Jack_NNP ,_, and_CC Jack_NNP is_VBZ pulled_VBN into_IN the_DT inside_JJ of_IN the_DT wheel_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Woah_UH !_. 
+[_NN the_DT key_NN that_IN Jack_NNP had_VBD around_IN his_PRP$ neck_NN falls_VBZ off_RP into_IN the_DT wheel_NN 
+]_NN [_NN Jack_NNP struggles_VBZ to_TO grab_VB the_DT key_NN ,_, which_WDT is_VBZ caught_VBN and_CC dangling_VBG inside_IN the_DT rolling_VBG wheel_NN 
+]_NN [_NN Jack_NNP finally_RB grabs_NNS the_DT key_NN ,_, but_CC hits_VBZ his_PRP$ head_NN on_IN a_DT metal_NN bar_NN inside_IN the_DT wheel_NN ,_, and_CC falls_VBZ off_IN the_DT wheel_NN 
+]_NN [_NN Pintel_NNP &_CC Ragetti_NNP are_VBP running_VBG off_RP with_IN the_DT small_JJ chest_NN ,_, each_DT holding_VBG one_CD side_NN ,_, giggling_VBG ]_NN 
+[_NN Elizabeth_NNP steps_NNS in_IN front_NN Pintel_NNP &_CC Ragetti_NNP ,_, confronting_VBG them_PRP ,_, halts_NNS ,_, panting_VBG 
+]_NN [_NN Pintel_NNP &_CC Ragetti_NNP drop_NN the_DT chest_NN ,_, pull_VB their_PRP$ swords_NNS on_IN Elizabeth_NNP 
+]_NN [_NN Elizabeth_NNP reaches_VBZ for_IN her_PRP$ sword_NN ,_, but_CC it_PRP 's_VBZ gone_VBN 
+]_NN PINTEL_NNP :_: 'Ello_UH ,_, Poppet_NNP ._. 
+[_NN Pintel_NNP &_CC Ragetti_NNP slowly_RB advance_NN on_IN Elizabeth_NNP ,_, she_PRP slowly_RB retreats_NNS while_IN facing_VBG them_PRP 
+]_NN [_NN they_PRP all_DT pause_NN for_IN a_DT moment_NN to_TO watch_VB the_DT wheel_NN roll_NN by_IN with_IN the_DT duel_NN on_IN top_JJ 
+]_NN [_NN Jack_NNP is_VBZ running_VBG behind_IN the_DT wheel_NN ,_, trying_VBG to_TO catch_VB up_RP and_CC get_VB the_DT key_NN that_WDT is_VBZ still_RB inside_IN 
+]_NN [_NN Pintel_NNP shrugs_VBZ ,_, Pintel_NNP and_CC Ragetti_NNP resume_VBP advancing_VBG on_IN Elizabeth_NNP 
+]_NN [_NN suddenly_RB a_DT thrown_VBN axe_NN embeds_NNS itself_PRP in_IN a_DT coconut_NN palm_NN next_JJ to_TO Elizabeth_NNP 
+]_NN [_NN all_DT three_CD turn_RB to_TO see_VB Jones_NNP '_POS crew_NN crashing_VBG through_IN the_DT bushes_NNS toward_IN them_PRP 
+]_NN [_NN swordfight_NN ensues_NNS with_IN the_DT Flying_NNP Dutchmen_NNP crew_NN and_CC Pintel_NNP and_CC Ragetti_NNP 
+]_NN [_NN Norrington_NNP and_CC Will_NNP continue_VB fighting_VBG atop_IN the_DT rolling_VBG wheel_NN ]_NN 
+[_NN Jack_NNP grabs_NNS hold_NN of_IN a_DT palm_NN frond_NN on_IN a_DT coconut_NN palm_NN while_IN at_IN the_DT top_NN of_IN the_DT wheel_NN 
+]_NN [_NN the_DT wheel_NN continues_VBZ on_IN ,_, Jack_NNP hangs_VBZ from_IN the_DT frond_NN ,_, then_RB drops_VBZ to_TO the_DT ground_NN 
+]_NN PINTEL_NNP :_: Sword_NN !_. 
+ELIZABETH_NNP SWANN_NNP :_: Sword_NN !_. 
+[_NN a_DT sword_NN is_VBZ thrown_VBN to_TO Elizabeth_NNP ,_, just_RB in_IN time_NN 
+]_NN PINTEL_NNP :_: Sword_NN !_. 
+[_NN a_DT sword_NN is_VBZ thrown_VBN to_TO Pintel_NNP ,_, just_RB in_IN time_NN 
+]_NN RAGETTI_NNP :_: Sword_NN !_. 
+[_NN a_DT sword_NN is_VBZ thrown_VBN to_TO Ragetti_NNP ,_, just_RB in_IN time_NN 
+]_NN [_NN Jack_NNP sees_VBZ Hadrus_NNP running_VBG alone_RB through_IN the_DT palms_NNS ,_, carrying_VBG the_DT small_JJ chest_NN 
+]_NN [_NN Jack_NNP picks_VBZ up_RP a_DT coconut_NN ,_, whirls_NNS it_PRP a_DT moment_NN ,_, then_RB throws_VBZ it_PRP at_IN Hadrus_NNP 
+]_NN [_NN Hadrus_NNP '_POS (_( conch_NN shell_NN )_) head_NN is_VBZ knocked_VBN off_RP by_IN the_DT coconut_NN 
+]_NN [_NN Hadrus_NNP '_POS head_NN lies_VBZ on_IN the_DT ground_NN ,_, attempting_VBG to_TO give_VB orders_NNS to_TO the_DT rest_NN of_IN his_PRP$ body_NN to_TO find_VB the_DT head_NN 
+]_NN HADRUS_NNP :_: Aya_NN !_. 
+Uh_UH seech_NN !_. 
+Aunido_NNP !_. 
+Aunido_NNP !_. 
+Follow_VB my_PRP$ voice_NN !_. 
+Follow_VB my_PRP$ voice_NN !_. 
+To_TO the_DT left_NN ,_, uh_UH ..._... No_DT ,_, to_TO the_DT right_JJ ..._... Go_VB to_TO the_DT left_NN ..._... 
+[_NN Hadrus_NNP '_POS headless_JJ body_NN walks_VBZ into_IN a_DT coconut_NN palm_NN 
+]_NN HADRUS_NNP :_: No_UH ..._... That_DT 's_VBZ a_DT tree_NN ._. 
+JACK_NNP SPARROW_NNP :_: Oh_UH ,_, shut_VBD it_PRP ._. 
+[_NN Jack_NNP unlocks_VBZ the_DT small_JJ chest_NN with_IN the_DT key_JJ ,_, square_JJ security_NN bolts_NNS suddenly_RB protrude_NN when_WRB opened_VBD 
+]_NN [_NN the_DT heart_NN is_VBZ inside_IN ,_, beating_NN 
+]_NN [_NN crewmen_NN of_IN the_DT Flying_NNP Dutchman_NNP approach_NN ,_, Jack_NNP tucks_NNS the_DT heart_NN into_IN his_PRP$ vest_NN 
+]_NN [_NN Elizabeth_NNP uses_VBZ two_CD swords_NNS together_RB ,_, one_CD in_IN each_DT hand_NN ,_, to_TO stab_NN backwards_JJ and_CC kill_VB two_CD attacking_VBG crewmen_NN 
+]_NN ISLA_NNP CRUCES_NNP :_: beach_NN [_NN Jack_NNP is_VBZ the_DT first_JJ to_TO arrive_VB back_RB at_IN the_DT longboat_NN on_IN the_DT beach_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Jar_NN of_IN dirt_NN !_. 
+[_NN Jack_NNP opens_VBZ his_PRP$ jar_NN of_IN dirt_NN ,_, dumps_NNS out_RP some_DT dirt_NN ,_, puts_VBZ the_DT heart_NN in_IN the_DT jar_NN ,_, scoops_VBZ handfuls_NNS of_IN dirt_NN back_RB into_IN the_DT jar_NN 
+]_NN [_NN a_DT Flying_NNP Dutchman_NNP crewmember_NN arrives_VBZ at_IN the_DT boat_NN ,_, Jack_NNP fights_NNS him_PRP using_VBG an_DT oar_NN 
+]_NN [_NN the_DT swordfight_NN is_VBZ carried_VBN to_TO the_DT beach_NN as_IN the_DT Black_NNP Pearl_NNP crew_NN attempts_NNS to_TO escape_VB by_IN longboat_NN 
+]_NN [_NN Norrington_NNP arrives_VBZ at_IN the_DT longboat_NN ,_, while_IN others_NNS are_VBP fighting_VBG he_PRP takes_VBZ the_DT heart_NN from_IN the_DT jar_NN ,_, puts_VBZ it_PRP under_IN his_PRP$ vest_NN 
+]_NN [_NN the_DT rolling_VBG waterwheel_NN reaches_VBZ the_DT beach_NN ,_, rolls_NNS out_IN into_IN the_DT shallows_NNS ,_, falls_VBZ on_IN its_PRP$ side_NN 
+]_NN [_NN Norrington_NNP and_CC Will_NNP walk_VB away_RB from_IN it_PRP ,_, wobbling_VBG from_IN dizziness_NN 
+]_NN WILL_NNP TURNER_NNP :_: Right_RB !_. 
+[_NN Pintel_NNP &_CC Ragetti_NNP attempt_NN to_TO escape_VB by_IN longboat_NN ,_, but_CC Will_NNP blocks_VBZ their_PRP$ progress_NN 
+]_NN [_NN Pintel_NNP &_CC Ragetti_NNP reach_VBP for_IN their_PRP$ swords_NNS ,_, to_TO find_VB their_PRP$ swords_NNS gone_VBN 
+]_NN [_NN Pintel_NNP &_CC Ragetti_NNP grab_VBP a_DT fishnet_NN and_CC oar_NN as_IN weapons_NNS against_IN Will_NNP 
+]_NN PINTEL_NNP :_: Come_VBN on_IN ,_, Turner_NNP !_. 
+[_NN Jack_NNP fights_NNS with_IN Koleniko_NNP ,_, using_VBG an_DT oar_NN ,_, subdues_NNS him_PRP 
+]_NN [_NN Will_NNP sees_VBZ the_DT key_NN in_IN the_DT chest_NN ,_, Jack_NNP notices_NNS Will_NNP looking_VBG at_IN the_DT key_NN and_CC chest_NN 
+]_NN [_NN Jack_NNP hits_NNS Will_NNP on_IN the_DT head_NN with_IN the_DT our_PRP$ ,_, which_WDT knocks_VBZ him_PRP out_IN 
+]_NN JACK_NNP SPARROW_NNP :_: Leave_VB him_PRP lie_VB !_. 
+Unless_IN you_PRP plan_VBP on_IN using_VBG him_PRP to_TO hit_VB something_NN with_IN ._. 
+ELIZABETH_NNP SWANN_NNP :_: We_PRP 're_VBP not_RB getting_VBG out_IN of_IN this_DT ._. 
+NORRINGTON_NNP :_: Not_RB with_IN the_DT chest_NN ._. 
+Into_IN the_DT boat_NN ._. 
+[_NN Norrington_NNP takes_VBZ the_DT chest_NN 
+]_NN ELIZABETH_NNP SWANN_NNP :_: You_PRP 're_VBP mad_JJ ._. 
+NORRINGTON_NNP :_: Do_VBP n't_RB wait_VB for_IN me_PRP ._. 
+JACK_NNP SPARROW_NNP :_: Uh_UH ,_, I_PRP say_VBP we_PRP respect_NN his_PRP$ final_JJ wish_VBP ._. 
+PINTEL_NNP :_: Aye_UH !_. 
+[_NN the_DT remaining_VBG Black_NNP Pearl_NNP crew_NN escape_NN by_IN longboat_NN 
+]_NN [_NN Hadrus_NNP is_VBZ holding_VBG his_PRP$ conch_NN shell_NN head_NN under_IN one_CD arm_NN ,_, the_DT head_NN speaks_VBZ to_TO Norrington_NNP ]_NN 
+HADRUS_NNP :_: Your_PRP$ bravery_NN is_VBZ wasted_VBN ._. 
+I_PRP shall_MD pry_NN the_DT chest_NN away_RB from_IN your_PRP$ cold_JJ ..._... dead_JJ ..._... hands_NNS ._. 
+[_NN Norrington_NNP pauses_VBZ ,_, looks_VBZ around_IN 
+]_NN NORRINGTON_NNP :_: Here_RB you_PRP go_VBP !_. 
+HADRUS_NNP :_: Oo_NN !_. 
+[_NN Norrington_NNP flees_NNS ,_, Hadrus_NNP drops_VBZ his_PRP$ head_NN onto_IN the_DT ground_NN when_WRB catching_VBG the_DT chest_NN 
+]_NN [_NN Hadrus_NNP '_POS crewmates_NNS laugh_NN and_CC walk_VB off_RP with_IN Hadrus_NNP '_POS body_NN ,_, ignoring_VBG Hadrus_NNP '_POS head_NN 
+]_NN HADRUS_NNP :_: Uh_UH !_. 
+Ando_NN !_. 
+Aunido_NNP !_. 
+Aunido_NNP !_. 
+Pirates_NN !_. 
+[_NN the_DT face_NN inside_IN Hadrus_NNP '_POS head_NN turns_VBZ around_IN ,_, turns_VBZ into_IN a_DT hermit_NN crab_NN ,_, extends_VBZ its_PRP$ legs_NNS 
+]_NN [_NN the_DT hermit_NN crab_NN head_NN crawls_VBZ after_IN its_PRP$ departing_VBG body_NN and_CC crew_NN 
+]_NN HADRUS_NNP :_: Vengo_NNP kowmpenay_NN lachay_NN ._. 
+Hey_UH !_. 
+Hovaya_NNP !_. 
+Black_NNP Pearl_NNP [_NN Will_NNP ,_, lying_VBG flat_JJ on_IN the_DT deck_NN ,_, head_NN over_IN a_DT grate_NN ,_, returns_VBZ to_TO consciousness_NN aboard_IN the_DT Black_NNP Pearl_NNP 
+]_NN WILL_NNP TURNER_NNP :_: What_WP happened_VBD to_TO the_DT chest_NN ?_. 
+ELIZABETH_NNP SWANN_NNP :_: Norrington_NNP took_VBD it_PRP to_TO draw_VB them_PRP off_RP ._. 
+PINTEL_NNP :_: You_PRP 're_VBP pulling_VBG too_RB hard_JJ !_. 
+RAGETTI_NNP :_: You_PRP 're_VBP not_RB pulling_VBG hard_JJ enough_RB !_. 
+GIBBS_NNP :_: Where_WRB 's_VBZ the_DT Commodore_NNP ?_. 
+JACK_NNP SPARROW_NNP :_: He_PRP fell_VBD behind_IN ._. 
+GIBBS_NNP :_: My_PRP$ prayers_NNS be_VB with_IN him_PRP ._. 
+Best_JJS not_RB wallow_NN in_IN our_PRP$ grief_NN ._. 
+The_DT bright_JJ side_NN is_VBZ :_: You_PRP 're_VBP back_RB ._. 
+And_CC made_VBD it_PRP off_RP free_JJ and_CC clear_JJ ._. 
+[_NN the_DT Flying_NNP Dutchman_NNP suddenly_RB surfaces_VBZ alongside_IN them_PRP 
+]_NN GIBBS_NNP :_: Lord_NNP almighty_NN ._. us_PRP ._. 
+JACK_NNP SPARROW_NNP :_: I_PRP 'll_MD handle_VB this_DT ,_, mate_NN ._. 
+JACK_NNP SPARROW_NNP :_: Hey_UH 
+!_. Fishface_NNP !_. 
+Lose_NNP something_NN ?_. 
+Hey_UH ?_. 
+Oup_NN !_. 
+[_NN Jack_NNP falls_VBZ down_RP the_DT stairs_NNS of_IN the_DT Pearl_NNP ,_, crew_NN says_VBZ "_'' Ooh_UH !_. 
+"_'' ]_NN JACK_NNP SPARROW_NNP :_: Got_VB it_PRP !_. 
+[_NN Jack_NNP stands_VBZ up_RB ,_, struts_NNS across_IN the_DT deck_NN ,_, holding_VBG his_PRP$ jar_NN of_IN dirt_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Come_VBN to_TO negotiate_VB ,_, eh_NN ,_, have_VBP you_PRP ,_, you_PRP slimy_JJ git_NN ?_. 
+Look_VB what_WP I_PRP got_VBD ._. 
+I_PRP got_VBD a_DT jar_NN of_IN dirt_NN !_. 
+I_PRP got_VBD a_DT jar_NN of_IN dirt_NN !_. 
+And_CC guess_VBP what_WP 's_VBZ inside_IN it_PRP ?_. 
+DAVY_NNP JONES_NNP :_: Enough_JJ !_. 
+[_NN the_DT Flying_NNP Dutchman_NNP 's_POS cannon_NN covers_VBZ slide_NN down_RB ,_, cannons_NNS emerge_VBP from_IN the_DT holes_NNS 
+]_NN JACK_NNP SPARROW_NNP :_: Hard_JJ to_TO starboard_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: *_NN Hard_JJ to_TO starboard_NN !_. *_NN 
+WILL_NNP TURNER_NNP :_: Brace_VB up_RP the_DT foreyard_NN !_. 
+GIBBS_NNP :_: Hard_JJ to_TO starboard_NN !_. 
+DAVY_NNP JONES_NNP :_: Send_VB his_PRP$ beloved_JJ Pearl_NNP back_RB to_TO the_DT depths_NNS !_. 
+Fire_VB !_. 
+[_NN a_DT heavy_JJ cannonade_NN fires_NNS from_IN the_DT Flying_NNP Dutchman_NNP ,_, blowing_VBG large_JJ holes_NNS in_IN the_DT Black_NNP Pearl_NNP 
+]_NN [_NN Pintel_NNP and_CC Ragetti_NNP look_VBP through_IN the_DT gaping_JJ hole_NN in_IN the_DT stern_JJ ,_, see_VBP the_DT Flying_NNP Dutchman_NNP following_VBG them_PRP 
+]_NN PINTEL_NNP :_: She_PRP 's_VBZ on_IN us_PRP !_. 
+She_PRP 's_VBZ on_IN us_PRP !_. 
+DAVY_NNP JONES_NNP :_: Let_VB them_PRP taste_VBP the_DT triple_JJ guns_NNS ._. 
+[_NN cage-faced_JJ crewmember_NN ]_NN Aye_UH ,_, Captain_NNP ._. 
+[_NN triple-barreled_JJ cannon_NN fires_NNS ,_, barrel_NN rotates_NNS after_IN each_DT blast_NN 
+]_NN DAVY_NNP JONES_NNP :_: Come_VBN on_IN ,_, 
+#_# #_# #_# !_. ELIZABETH_NNP SWANN_NNP :_: She_PRP 's_VBZ falling_VBG behind_IN !_. 
+GIBBS_NNP :_: Aye_UH ,_, and_CC we_PRP 've_VBP got_VBN her_PRP !_. 
+WILL_NNP TURNER_NNP :_: We_PRP 're_VBP the_DT faster_RBR ?_. 
+GIBBS_NNP :_: Against_IN the_DT wind_NN the_DT Dutchman_NNP beats_VBZ us_PRP ._. 
+That_DT 's_VBZ how_WRB she_PRP takes_VBZ her_PRP$ prey_NN ._. 
+But_CC *_NN with_IN *_NN the_DT wind_NN ..._... 
+WILL_NNP TURNER_NNP :_: We_PRP rob_NN her_PRP$ advantage_NN ._. GIBBS_NNP :_: Ah_UH !_. 
+FLYING_NNP DUTCHMAN_NNP :_: deck_NN DAVY_NNP JONES_NNP :_: They_PRP 're_VBP out_IN of_IN range_NN !_. 
+Break_NN out_IN run_NN 
+#_# #_# #_# We_PRP giving_VBG up_RP ,_, Sir_NNP ?_. 
+[_NN crewmen_NN of_IN the_DT Flying_NNP Dutchman_NNP are_VBP whipped_VBN to_TO raise_VB the_DT Kraken_NNP calling_VBG device_NN 
+]_NN Scene_NN :_: BLACK_NNP PEARL_NNP MARTY_NNP :_: They_PRP 're_VBP giving_VBG up_RP !_. 
+Yay_NN !_. 
+[_NN crew_NN cheers_NNS ]_NN WILL_NNP TURNER_NNP :_: My_PRP$ father_NN is_VBZ *_NN on_IN *_NN that_DT ship_NN ._. 
+If_IN we_PRP can_MD outrun_NN her_PRP$ ,_, we_PRP can_MD take_VB her_PRP ._. 
+We_PRP should_MD turn_VB and_CC fight_VB ._. 
+JACK_NNP SPARROW_NNP :_: Why_WRB fight_NN when_WRB you_PRP can_MD negotiate_VB ?_. 
+All_DT one_CD needs_VBZ ..._... is_VBZ the_DT proper_JJ leverage_NN ._. 
+[_NN suddenly_RB the_DT Black_NNP Pearl_NNP is_VBZ badly_RB jarred_JJ 
+]_NN [_NN Jack_NNP 's_POS jar_NN of_IN dirt_NN falls_VBZ to_TO the_DT deck_NN ,_, breaks_NNS open_JJ ,_, spills_VBZ all_PDT the_DT dirt_NN ]_NN 
+[_NN Jack_NNP runs_VBZ down_RB to_TO the_DT spilled_VBN dirt_NN ,_, searches_NNS frantically_RB for_IN the_DT heart_NN ,_, which_WDT is_VBZ gone_VBN 
+]_NN JACK_NNP SPARROW_NNP :_: Where_WRB is_VBZ it_PRP ?_. 
+Where_WRB is_VBZ the_DT thump_NN -_- thump_NN ?_. 
+We_PRP must_MD 've_VB hit_VB the_DT reef_NN !_. 
+WILL_NNP TURNER_NNP :_: No._NN 
+It_PRP 's_VBZ not_RB a_DT reef_NN !_. 
+Get_VB away_RB from_IN the_DT rail_NN !_. 
+ELIZABETH_NNP SWANN_NNP :_: What_WP is_VBZ it_PRP ?_. 
+WILL_NNP TURNER_NNP :_: The_DT Kraken_NNP ._. 
+To_TO arms_NNS !_. 
+GIBBS_NNP :_: All_DT guns_NNS ,_, defend_VBP the_DT masts_NNS !_. 
+WILL_NNP TURNER_NNP :_: It_PRP 'll_MD attack_VB the_DT starboard_NN ._. 
+I_PRP 've_VBP seen_VBN it_PRP before_RB ._. 
+Break_NN out_RP the_DT cannons_NNS and_CC hold_VB for_IN my_PRP$ signal_NN ._. 
+[_NN with_IN a_DT deep_JJ rumbling_VBG sound_NN ,_, the_DT Kraken_NNP 's_POS tentacles_NNS slowly_RB crawl_VB up_RP the_DT hull_NN ]_NN 
+WILL_NNP TURNER_NNP :_: Easy_VB ,_, boys_NNS !_. 
+ELIZABETH_NNP SWANN_NNP :_: Will_NNP ?_. 
+[_NN the_DT tentacles_NNS rise_VBP higher_JJR 
+]_NN WILL_NNP TURNER_NNP :_: Steady_JJ 
+!_. Steady_JJ ._. 
+ELIZABETH_NNP SWANN_NNP :_: Will_NNP ?_. 
+[_NN the_DT tentacles_NNS start_VBP feeling_NN around_IN the_DT ship_NN 
+]_NN WILL_NNP TURNER_NNP :_: Hold_VB ._. 
+Hold_VB ..._... 
+PINTEL_NNP :_: I_PRP think_VBP we_PRP 've_VBP held_VBN fire_NN long_RB enough_RB ._. 
+ELIZABETH_NNP SWANN_NNP :_: *_NN Will_NNP ?_. *_NN 
+WILL_NNP TURNER_NNP :_: *_NN Fire_VB ..._... *_NN !_. 
+[_NN the_DT crew_NN fire_NN the_DT cannons_NNS ,_, hitting_VBG the_DT tentacles_NNS and_CC nearly_RB severing_VBG some_DT 
+]_NN [_NN the_DT Kraken_NNP sinks_NNS into_IN the_DT sea_NN ,_, some_DT tentacles_NNS glowing_VBG from_IN the_DT blast_NN 
+]_NN [_NN the_DT crew_NN cheers_NNS 
+]_NN WILL_NNP TURNER_NNP :_: It_PRP 'll_MD be_VB back_RB ._. 
+We_PRP have_VBP to_TO get_VB off_RP the_DT ship_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: There_EX 's_VBZ no_DT boats_NNS ._. 
+[_NN Will_NNP sees_VBZ the_DT wrecked_VBD boats_NNS ,_, then_RB sets_VBZ his_PRP$ eyes_NNS on_IN the_DT barrels_NNS of_IN gunpowder_NN 
+]_NN WILL_NNP TURNER_NNP :_: Pull_VB the_DT grates_NNS !_. 
+Get_VB all_PDT the_DT gunpowder_NN onto_IN the_DT net_NN in_IN the_DT cargo_NN hold_NN ._. 
+[_NN hands_NNS Elizabeth_NNP a_DT long_JJ gun_NN 
+]_NN WILL_NNP TURNER_NNP :_: Whatever_WDT you_PRP do_VBP ,_, do_VBP n't_RB miss_VB ._. 
+ELIZABETH_NNP SWANN_NNP :_: As_RB soon_RB as_IN you_PRP 're_VBP clear_JJ ._. 
+[_NN the_DT crew_NN is_VBZ busy_JJ loading_VBG barrels_NNS of_IN gunpowder_NN from_IN the_DT hold_NN 
+]_NN We_PRP are_VBP short_RB stocked_VBN on_IN gunpowder_NN ._. 
+Six_CD barrel_NN /_NN below_IN ._. 
+ELIZABETH_NNP SWANN_NNP :_: Bring_VB it_PRP up_RP !_. 
+GIBBS_NNP :_: There_EX 's_VBZ only_RB half_PDT a_DT dozen_NN kegs_NNS of_IN powder_NN !_. 
+WILL_NNP TURNER_NNP :_: Then_RB load_NN the_DT rum_NN !_. 
+[_NN Gibbs_NNP seems_VBZ shocked_VBN ,_, then_RB turns_VBZ to_TO see_VB the_DT entire_JJ crew_NN halted_VBD ,_, staring_VBG at_IN him_PRP in_IN shocked_VBN silence_NN 
+]_NN GIBBS_NNP :_: Aye_UH !_. 
+The_DT rum_NN ,_, too_RB !_. 
+[_NN the_DT crew_NN continues_VBZ loading_NN 
+]_NN [_NN aerial_JJ view_NN approaching_VBG Black_NNP Pearl_NNP ,_, zooming_VBG through_IN the_DT rigging_VBG to_TO the_DT other_JJ side_NN 
+]_NN [_NN Jack_NNP is_VBZ in_IN a_DT rowboat_NN alone_RB ,_, rowing_NN away_RB from_IN the_DT Black_NNP Pearl_NNP 
+]_NN [_NN Jack_NNP stops_VBZ rowing_NN ,_, sees_VBZ the_DT Kraken_NNP with_IN tentacles_NNS around_IN Black_NNP Pearl_NNP in_IN the_DT distance_NN 
+]_NN [_NN Jack_NNP looks_VBZ back_RB into_IN the_DT direction_NN he_PRP 's_VBZ headed_VBN ,_, then_RB consults_NNS his_PRP$ Compass_NNP 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Step_NN to_TO !_. 
+[_NN Elizabeth_NNP runs_VBZ to_TO the_DT railing_NN ,_, sees_VBZ Jack_NNP rowing_NN away_RB 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Oh_UH you_PRP coward_NN !_. 
+[_NN another_DT heavy_JJ thud_NN hits_VBZ the_DT ship_NN ,_, crewmen_NN shout_NN 
+]_NN MARTY_NNP :_: Not_RB good_JJ ._. 
+[_NN the_DT Kraken_NNP attacks_NNS again_RB 
+]_NN WILL_NNP TURNER_NNP :_: Pull_VB away_RB !_. 
+GIBBS_NNP :_: Heave_VB !_. 
+Heave_VB like_IN you_PRP 're_VBP being_VBG paid_VBN for_IN it_PRP !_. 
+[_NN Pintel_NNP &_CC Ragetti_NNP stand_VBP to_TO one_CD side_NN of_IN a_DT cannon_NN port_NN as_IN a_DT tentacle_NN pulls_VBZ one_CD crewmember_NN through_IN sideways_RB 
+]_NN [_NN Will_NNP hangs_VBZ onto_IN the_DT side_NN of_IN the_DT net_NN of_IN gunpowder_NN barrels_NNS ,_, attempting_VBG to_TO attract_VB the_DT Kraken_NNP 's_POS attention_NN 
+]_NN WILL_NNP TURNER_NNP :_: Euh_UH !_. 
+Come_VBN on_IN !_. 
+I_PRP 'm_VBP over_IN here_RB !_. 
+Come_VBN on_IN !_. 
+[_NN Will_NNP slashes_NNS at_IN tentacles_NNS with_IN his_PRP$ sword_NN 
+]_NN WILL_NNP TURNER_NNP :_: Shoot_VB !_. 
+Elizabeth_NNP ,_, shoot_VB !_. 
+[_NN Elizabeth_NNP hesitates_NNS ,_, waiting_VBG for_IN Will_NNP to_TO fall_VB free_JJ 
+]_NN [_NN one_CD of_IN the_DT Kraken_NNP 's_POS tentacles_NNS wrap_NN around_IN her_PRP$ leg_NN and_CC drag_VB her_PRP$ backwards_JJ ,_, she_PRP screams_VBZ 
+]_NN [_NN Ragetti_NNP chops_NNS off_IN the_DT end_NN of_IN the_DT tentacle_NN holding_VBG Elizabeth_NNP 
+]_NN [_NN Another_DT crewmember_NN picks_VBZ up_RP the_DT rifle_NN and_CC attempts_NNS to_TO shoot_VB ,_, only_RB to_TO be_VB grabbed_VBN by_IN the_DT Kraken_NNP and_CC flung_NN around_IN 
+]_NN [_NN the_DT rifle_NN drops_NNS onto_IN the_DT deck_NN above_IN Elizabeth_NNP 
+]_NN [_NN Elizabeth_NNP tries_VBZ to_TO pick_VB up_RP the_DT fallen_VBN rifle_NN ,_, but_CC someone_NN 's_POS foot_NN holds_VBZ it_PRP down_RB 
+]_NN [_NN she_PRP sees_VBZ that_IN it_PRP 's_VBZ Jack_NNP 's_POS foot_NN ,_, that_IN he_PRP has_VBZ returned_VBN to_TO the_DT Pearl_NNP 
+]_NN [_NN Jack_NNP picks_VBZ up_RP the_DT rifle_NN and_CC takes_VBZ aim_NN at_IN the_DT gunpowder_NN 
+]_NN [_NN slow_JJ motion_NN scene_NN of_IN Jack_NNP firing_VBG a_DT ball_NN into_IN the_DT gunpowder_NN 
+]_NN [_NN ball_NN whistles_NNS through_IN the_DT air_NN ,_, strikes_VBZ the_DT gunpowder_NN ,_, which_WDT explodes_VBZ 
+]_NN [_NN the_DT Kraken_NNP releases_VBZ its_PRP$ hold_NN ,_, burned_VBN tentacles_NNS withdraw_VB into_IN the_DT ocean_NN ,_, groaning_VBG sound_NN ]_NN 
+MARTY_NNP :_: Did_VBD we_PRP kill_VBP it_PRP ?_. 
+GIBBS_NNP :_: No._NN 
+We_PRP just_RB made_VBD it_PRP angry_JJ ._. 
+We_PRP 're_VBP not_RB out_IN of_IN this_DT yet_RB ._. 
+Captain_NNP !_. 
+Orders_NNS !_. 
+JACK_NNP SPARROW_NNP :_: Abandon_VB ship_NN ._. 
+Into_IN the_DT longboat_NN ._. 
+GIBBS_NNP :_: Jack_NNP !_. The_DT Pearl_NNP !_. 
+JACK_NNP SPARROW_NNP :_: She_PRP 's_VBZ only_RB a_DT ship_NN ,_, mate_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: He_PRP 's_VBZ right_NN ,_, we_PRP have_VBP to_TO head_VB for_IN land_NN ._. 
+PINTEL_NNP :_: 'S_VBZ a_DT lot_NN o_NN '_'' open_JJ wa_NN '_'' er_UH ._. 
+RAGETTI_NNP :_: That_DT 's_VBZ a_DT lot_NN o_NN '_'' wa_NN '_'' er_UH ._. 
+WILL_NNP TURNER_NNP :_: We_PRP have_VBP to_TO try_VB ._. 
+We_PRP can_MD get_VB away_RB as_IN it_PRP takes_VBZ down_RP the_DT Pearl_NNP ._. 
+GIBBS_NNP :_: Abandon_VB ship_NN ._. 
+Abandon_VB ship_NN or_CC abandon_VB hope_VBP ._. 
+[_NN the_DT crew_NN get_VB ready_JJ to_TO leave_VB the_DT Pearl_NNP ,_, loading_NN supplies_NNS and_CC guns_NNS 
+]_NN [_NN Elizabeth_NNP approaches_NNS Jack_NNP 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Thank_VB you_PRP ,_, Jack_NNP ._. 
+JACK_NNP SPARROW_NNP :_: We_PRP 're_VBP not_RB free_JJ yet_RB ,_, love_NN ._. 
+ELIZABETH_NNP SWANN_NNP :_: You_PRP came_VBD back_RB ._. 
+I_PRP always_RB knew_VBD you_PRP were_VBD a_DT good_JJ man_NN ._. 
+[_NN Elizabeth_NNP passionately_RB kisses_NNS Jack_NNP 
+]_NN [_NN Will_NNP sees_VBZ the_DT kiss_NNS from_IN the_DT longboat_NN ,_, falters_VBZ 
+]_NN GIBBS_NNP :_: Prepare_VB to_TO cast_VB off_RP !_. 
+There_EX 's_VBZ no_DT time_NN to_TO lose_VB !_. 
+Come_VBN on_IN ,_, Will_NNP ,_, step_VB to_TO !_. 
+[_NN the_DT kiss_NNS is_VBZ inturrupted_JJ by_IN the_DT sound_NN of_IN shackles_NNS ,_, Elizabeth_NNP has_VBZ chained_JJ Jack_NNP to_TO the_DT main_JJ mast_NN 
+]_NN ELIZABETH_NNP SWANN_NNP :_: It_PRP 's_VBZ after_IN you_PRP ,_, not_RB the_DT ship_NN 
+._. It_PRP 's_VBZ not_RB us_PRP ._. 
+This_DT is_VBZ the_DT only_JJ way_NN ,_, do_VBP n't_RB you_PRP see_VBP ?_. 
+I_PRP 'm_VBP not_RB sorry_JJ ._. 
+[_NN Elizabeth_NNP leans_VBZ in_IN as_IN if_IN to_TO kiss_NNS him_PRP again_RB ._. 
+]_NN JACK_NNP SPARROW_NNP :_: Pirate_NN ._. 
+[_NN Elizabeth_NNP leaves_VBZ Jack_NNP and_CC climbs_VBZ down_RB into_IN the_DT long_JJ boat_NN 
+]_NN WILL_NNP TURNER_NNP :_: Where_WRB 's_POS Jack_NNP ?_. 
+ELIZABETH_NNP SWANN_NNP :_: He_PRP elected_VBD to_TO stay_VB behind_IN to_TO give_VB us_PRP a_DT chance_NN ._. 
+[_NN the_DT crew_NN look_NN uncertain_JJ 
+]_NN ELIZABETH_NNP SWANN_NNP :_: Go_VB !_. 
+[_NN the_DT longboat_NN casts_VBZ off_IN 
+]_NN [_NN Jack_NNP struggles_VBZ with_IN his_PRP$ manacles_NNS 
+]_NN JACK_NNP SPARROW_NNP :_: Bugger_UH ,_, bugger_UH ,_, bugger_UH ,_, _UH bugger_UH ,_, bugger_UH ,_, bugger_UH ..._... !_. 
+[_NN a_DT coconut_NN and_CC cannonball_NN roll_NN by_IN ,_, on_IN the_DT tilted_JJ deck_NN ]_NN 
+[_NN Jack_NNP spots_VBZ a_DT fallen_VBN lantern_NN ,_, picks_VBZ it_PRP up_RP with_IN the_DT tip_NN of_IN his_PRP$ sword_NN 
+]_NN [_NN Jack_NNP breaks_VBZ the_DT lantern_NN against_IN the_DT mast_NN ,_, pours_VBZ oil_NN over_IN his_PRP$ wrists_NNS 
+]_NN [_NN Jack_NNP struggles_VBZ with_IN slipping_VBG his_PRP$ hand_NN out_IN 
+]_NN JACK_NNP SPARROW_NNP :_: Come_VBN on_IN ..._... Come_VBN on_IN ..._... 
+[_NN Jack_NNP finally_RB manages_VBZ to_TO slip_VB his_PRP$ hands_NNS out_IN 
+]_NN [_NN the_DT Kraken_NNP rises_VBZ up_RB behind_IN him_PRP 
+]_NN [_NN Jack_NNP halts_NNS ,_, turns_VBZ around_IN ,_, faces_VBZ the_DT Kraken_NNP 
+]_NN [_NN music_NN and_CC sound_NN stop_NN momentarily_RB 
+]_NN [_NN the_DT Kraken_NNP roars_VBZ ,_, spraying_VBG Jack_NNP with_IN slime_NN and_CC flinging_VBG his_PRP$ earlier-eaten_JJ hat_NN to_TO the_DT deck_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Not_RB so_RB bad_JJ ._. 
+[_NN Jack_NNP spots_VBZ his_PRP$ old_JJ hat_NN lying_VBG next_JJ to_TO his_PRP$ feet_NNS 
+]_NN JACK_NNP SPARROW_NNP :_: Oh_UH !_. 
+[_NN Jack_NNP spots_VBZ his_PRP$ hat_NN ,_, picks_VBZ it_PRP up_RP ,_, puts_VBZ it_PRP on_IN ,_, wipes_NNS slime_NN from_IN his_PRP$ face_NN 
+]_NN JACK_NNP SPARROW_NNP :_: Hello_UH ,_, beastie_NN ._. 
+[_NN slow_JJ motion_NN scene_NN of_IN Jack_NNP boldy_NN charging_VBG toward_IN the_DT Kraken_NNP 's_POS mouth_NN ,_, sword_NN drawn_VBN 
+]_NN [_NN Q3_NN ]_NN FLYING_NNP DUTCHMAN_NNP :_: deck_NN DAVY_NNP JONES_NNP :_: Jack_NNP Sparrow_NNP ._. 
+Our_PRP$ debt_NN is_VBZ settled_VBN ._. 
+KOLENIKO_NNP :_: The_DT captain_NN goes_VBZ down_RB with_IN his_PRP$ ship_NN 
+._. MACCUS_NNP :_: Turns_VBZ out_IN not_RB even_RB Jack_NNP Sparrow_NNP can_MD best_JJS the_DT devil_NN ._. 
+DAVY_NNP JONES_NNP :_: Open_VB the_DT chest_NN ._. 
+Open_VB the_DT chest_NN ,_, I_PRP need_VBP to_TO see_VB it_PRP !_. 
+[_NN the_DT chest_NN is_VBZ opened_VBN ,_, side_NN view_NN as_IN Jones_NNP looks_VBZ in_IN ,_, his_PRP$ face_NN quivers_NNS 
+]_NN [_NN downwards_NNS view_NN ,_, showing_VBG that_IN the_DT chest_NN is_VBZ empty_JJ ,_, Jones_NNP tilts_VBZ his_PRP$ head_NN back_RB and_CC shouts_VBZ 
+]_NN DAVY_NNP JONES_NNP :_: Damn_VB you_PRP ,_, Jack_NNP Spar-_NN *_NN row_NN *_NN !_. 
+PORT_NNP ROYAL_NNP :_: EITC_NNP headquarters_NN MERCER_NNP :_: The_DT last_NN of_IN our_PRP$ ships_NNS has_VBZ returned_VBN ._. 
+LORD_NNP CUTLER_NNP BECKETT_NNP :_: Is_VBZ there_EX any_DT news_NN on_IN the_DT chest_NN ?_. 
+MERCER_NNP :_: None_NN ._. But_CC ..._... one_CD of_IN the_DT ships_NNS did_VBD pick_VB up_RP a_DT man_NN adrift_NN at_IN sea_NN ._. 
+He_PRP had_VBD these_DT ._. 
+[_NN Mercer_NNP drops_VBZ the_DT Letters_NNS of_IN Marque_NNP on_IN Beckett_NNP 's_POS desk_NN 
+]_NN [_NN Beckett_NNP opens_VBZ the_DT letter_NN to_TO look_VB at_IN it_PRP before_IN looking_VBG up_RP at_IN Norrington_NNP ,_, who_WP has_VBZ been_VBN standing_VBG in_IN the_DT office_NN 
+]_NN NORRINGTON_NNP :_: I_PRP took_VBD the_DT liberty_NN of_IN filling_VBG in_IN my_PRP$ name_NN ._. 
+[_NN from_IN his_PRP$ desk_NN ,_, Beckett_NNP beckons_NNS Norrington_NNP with_IN two_CD fingers_NNS 
+]_NN LORD_NNP CUTLER_NNP BECKETT_NNP :_: If_IN you_PRP intend_VBP to_TO claim_VB these_DT ,_, then_RB you_PRP must_MD have_VB something_NN to_TO trade_VB ._. 
+D_NN '_POS you_PRP have_VBP the_DT Compass_NNP ?_. 
+NORRINGTON_NNP :_: Better_JJ ._. 
+The_DT heart_NN of_IN Davy_NNP Jones_NNP ._. 
+BAYOU_NNP :_: Tia_NNP 's_POS shack_NN [_NN the_DT remaining_VBG crew_NN paddles_NNS through_IN the_DT waters_NNS to_TO Tia_NNP Dalma_NNP 's_POS shack_NN 
+]_NN [_NN many_JJ natives_NNS stand_VBP in_IN the_DT waters_NNS surrounding_VBG the_DT shack_NN ,_, holding_VBG candles_NNS ,_, mourning_VBG Jack_NNP Sparrow_NNP 
+]_NN [_NN inside_IN the_DT shack_NN ,_, Will_NNP absent-mindedly_JJ keeps_VBZ throwing_VBG his_PRP$ father_NN 's_POS knife_NN into_IN the_DT table_NN top_JJ 
+]_NN [_NN Tia_NNP carries_VBZ a_DT tray_NN around_IN to_TO all_DT of_IN them_PRP ,_, offers_VBZ the_DT mugs_NNS to_TO Elizabeth_NNP ]_NN 
+TIA_NNP DALMA_NNP :_: Against_IN de_IN cold_NN ..._... and_CC de_IN sorrow_NN ._. 
+[_NN Elizabeth_NNP takes_VBZ a_DT mug_NN but_CC does_VBZ n't_RB drink_VB 
+]_NN TIA_NNP DALMA_NNP :_: It_PRP 's_VBZ a_DT shame_NN 
+._. I_PRP know_VBP you_PRP 're_VBP t_NN '_'' inking_NN that_DT wid_NN the_DT Pearl_NNP ,_, you_PRP coulda_NN captured_VBD the_DT devil_NN and_CC set_VBN free_JJ your_PRP$ fadder_NN 's_POS soul_NN ._. 
+WILL_NNP TURNER_NNP :_: Does_VBZ n't_RB matter_VB now_RB ._. 
+The_DT Pearl_NNP 's_POS gone_VBN ._. 
+Along_IN with_IN its_PRP$ captain_NN ._. 
+[_NN Gibbs_NNP is_VBZ standing_VBG in_IN the_DT doorway_NN on_IN the_DT side_NN of_IN the_DT shack_NN 
+]_NN GIBBS_NNP :_: Aye_UH ._. 
+And_CC already_RB the_DT world_NN seems_VBZ a_DT bit_NN less_RBR bright_JJ ._. 
+He_PRP fooled_VBN us_PRP all_DT right_NN to_TO the_DT end_NN ._. 
+But_CC I_PRP guess_VBP that_IN honest_JJ streak_NN finally_RB won_VBD out_RP ._. 
+To_TO Jack_NNP Sparrow_NNP !_. 
+RAGETTI_NNP :_: Never_RB another_DT like_IN Captain_NNP Jack_NNP ._. 
+PINTEL_NNP :_: He_PRP was_VBD a_DT gentleman_NN of_IN fortune_NN ,_, he_PRP was_VBD ._. 
+ELIZABETH_NNP SWANN_NNP :_: He_PRP was_VBD a_DT good_JJ man_NN ._. 
+[_NN they_PRP all_DT take_VBP a_DT drink_NN out_IN of_IN their_PRP$ mugs_NNS ,_, except_IN Elizabeth_NNP 
+]_NN WILL_NNP TURNER_NNP :_: If_IN there_EX was_VBD anything_NN could_MD be_VB done_VBN to_TO bring_VB him_PRP back_RB ..._... Elizabeth_NNP ..._... 
+TIA_NNP DALMA_NNP :_: Would_MD you_PRP do_VB it_PRP ?_. 
+Hmmm_UH ?_. 
+What_WP ..._... would_MD you_PRP ?_. 
+Hmmm_UH ?_. 
+What_WP would_MD *_NN any_DT *_NN of_IN you_PRP be_VB willing_JJ to_TO do_VB ?_. 
+Hmmm_UH ?_. 
+Would_MD you_PRP sail_NN to_TO the_DT ends_NNS of_IN the_DT eart_NN '_'' ,_, and_CC beyond_IN ,_, to_TO fetch_VB back_RB witty_JJ Jack_NNP and_CC '_POS im_NN precious_JJ Pearl_NNP ?_. 
+GIBBS_NNP :_: Aye_UH ._. 
+PINTEL_NNP :_: Aye_UH ._. 
+RAGETTI_NNP :_: Aye_UH ._. 
+COTTON_NN 'S_VBZ PARROT_NNP :_: Awk_UH 
+!_. Aye_UH ._. 
+ELIZABETH_NNP SWANN_NNP :_: Yes_UH ._. 
+WILL_NNP TURNER_NNP :_: Aye_UH ._. 
+TIA_NNP DALMA_NNP :_: Alright_NN ._. 
+But_CC if_IN you_PRP 're_VBP goin_NN '_'' brave_JJ de_IN weird_JJ ,_, and_CC haunted_VBN shores_NNS ,_, at_IN world_NN 's_POS end_NN ,_, den_NN ..._... you_PRP will_MD need_VB a_DT captain_NN who_WP knows_VBZ dose_NN waters_NNS ._. 
+[_NN a_DT man_NN wearing_VBG boots_NNS descends_VBZ the_DT stairs_NNS into_IN the_DT room_NN 
+]_NN BARBOSSA_NNP :_: So_RB tell_VB me_PRP ,_, what_WP 's_VBZ become_VB of_IN my_PRP$ ship_NN ?_. 
+[_NN Barbossa_NNP bites_VBZ into_IN a_DT green_JJ apple_NN ,_, juice_NN dripples_NNS down_RP his_PRP$ chin_NN 
+]_NN [_NN Jack_NNP the_DT monkey_NN on_IN Barbossa_NNP 's_POS left_VBD shoulder_NN faces_VBZ the_DT camera_NN and_CC snarls_NNS 
+]_NN Scene_NN :_: END_JJ CREDITS_NNP 

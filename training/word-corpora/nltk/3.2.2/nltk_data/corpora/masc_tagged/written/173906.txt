@@ -1,0 +1,9 @@
+Date_NN :_: Tue_NNP ,_, 1_CD Aug_NNP 2000_CD 02:27:00_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: steven.kean@enron.com_NN To_TO :_: michael.terraso@enron.com_NN ,_, karen.denne@enron.com_NN Subject_NNP :_: Corporate_NNP Watch_NNP article_NN Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN X-From_NNP :_: Steven_NNP J_NNP Kean_NNP X-To_NNP :_: Michael_NNP Terraso_NNP ,_, Karen_NNP Denne_NNP X-cc_NNP :_: X-bcc_NNP :_: X-Folder_NNP :_: \_NN Steven_NNP __NN Kean_NNP __NN Dec_NNP 2000_CD __NN 1_CD \_NN Notes_NNP Folders_NNP \_NN All_DT documents_NNS X-Origin_NNP :_: KEAN-S_NNP X-FileName_NNP :_: skean_NN ._. nsf_NN ----------------------_SYM Forwarded_NNP by_IN Steven_NNP J_NNP Kean_NNP /_NN HOU_NNP /_NN EES_NNP on_IN 08/01/2000_CD 09:24_NN AM_NNP ---------------------------_SYM 
+Sherri_NNP Sera_NNP @_IN ENRON_NNP 08/01/2000_CD 09:15_NN AM_NNP 
+To_TO :_: Steven_NNP J_NNP Kean_NNP /_NN HOU_NNP /_NN EES_NNP @_IN EES_NNP ,_, Mark_NNP Palmer_NNP /_NN Corp_NNP /_NN Enron_NNP @_IN ENRON_NNP cc_NN :_: Subject_NNP :_: Corporate_NNP Watch_NNP article_NN 
+Steve_NNP ,_, Mark_NNP -_: 
+
+Here_RB 's_VBZ the_DT link_NN to_TO the_DT entire_JJ message_NN in_IN the_DT event_NN you_PRP 're_VBP interested_JJ ..._... you_PRP 'll_MD go_VB through_IN several_JJ links_NNS to_TO get_VB all_DT the_DT information_NN that_WDT was_VBD posted_VBN ._. 
+In_IN addition_NN to_TO the_DT Corporate_NNP Watch_NNP article_NN ,_, there_EX is_VBZ an_DT Environmental_NNP Defense_NNP Scorecard_NNP on_IN Enron_NNP 's_POS Methanol_NNP Plant_NNP in_IN Deer_NNS Park_NNP ,_, TX_NNP ,_, and_CC the_DT old_JJ Amnesty_NNP International_NNP article_NN on_IN human_JJ rights_NNS issues_NNS in_IN India_NNP ..._... 
+
+http://boards.fool.com/Message.asp?id=1100058000814000&sort=postdate_NN 

@@ -1,0 +1,9 @@
+Date_NN :_: Tue_NNP ,_, 8_CD Feb_NNP 2011_CD 22:24:13_NN +_NN 0600_CD Subject_NNP :_: Email_NNP Quota_NNP Limit_NNP From_IN :_: "_'' System_NNP Administrator_NNP "_'' <_NN sayeedma@dab-bd.org_NN >_NN To_TO :_: undisclosed-recipients_JJ :_: ;_: You_PRP have_VBP exceeded_VBN the_DT storage_NN limit_NN on_IN your_PRP$ mailbox_NN ._. 
+
+You_PRP will_MD not_RB be_VB able_JJ to_TO send_VB or_CC receive_VB new_JJ mail_NN until_IN you_PRP upgrade_VB your_PRP$ email_NN ._. 
+
+Click_NNP the_DT below_IN link_NN and_CC fill_VB the_DT form_NN to_TO upgrade_VB your_PRP$ account_NN ._. 
+
+http://beam.to/emailaccountsquota-limit.us.net_NN System_NNP Administrator_NNP 192.168_CD .0_CD .11_CD 
+--_: This_DT message_NN has_VBZ been_VBN scanned_JJ for_IN viruses_NNS and_CC dangerous_JJ content_NN by_IN OpenProtect_NNP (_( http://www.openprotect.com),_NN and_CC is_VBZ believed_VBN to_TO be_VB clean_VB ._. 
+

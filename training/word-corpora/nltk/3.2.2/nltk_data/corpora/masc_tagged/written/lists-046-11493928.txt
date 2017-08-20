@@ -1,0 +1,108 @@
+docno_NN =_SYM "_'' lists-_NN 046_CD -_: 11493928_CD "_'' name_NN =_SYM "_'' Nico_NNP Poppelier_NNP "_'' email_NN =_SYM "_'' nico@valacar.elsevier.nl_NN "_'' sent_VBD =_SYM "_'' Thu_NNP ,_, 4_CD Apr_NNP 1996_CD 09:08:31_NN +_NN 0200_CD (_( MET_NNP DST_NNP )_) "_'' inreplyto_NN =_SYM "_'' 199604032337.PAA00531@labrador.mv.us.adobe.com_NN "_'' subject_JJ =_SYM "_'' Re_NNP :_: Agenda_NN for_IN Monday_NNP April_NNP 1st_CD "_'' To_TO :_: raman@labrador.mv.us.adobe.com_NN (_( Raman_NNP T._NN V._NN )_) Cc_NNP :_: w3c-math-erb@w3.org_NN I_PRP 've_VBP read_VBN the_DT minutes_NNS of_IN the_DT last_JJ few_JJ meetings_NNS and_CC Dave_NNP 's_POS proposal_NN ._. 
+Here_RB are_VBP some_DT comments_NNS ._. 
+
+1_CD ._. If_IN you_PRP want_VBP to_TO have_VB a_DT model_NN for_IN large_JJ or_CC extendible_JJ characters_NNS ,_, I_PRP would_MD like_VB to_TO suggest_VB that_IN we_PRP consider_VBP (_( again_RB )_) the_DT model_NN of_IN TeX_NNP and_CC the_DT Computer_NNP Modern_NNP fonts_NNS ._. 
+Barbara_NNP Beeton_NNP of_IN the_DT AMS_NNP has_VBZ also_RB done_VBN interesting_JJ work_NN on_IN math_NN font_NN layout_NN in_IN some_DT ISO_NNP workgroup_NN ._. 
+
+2_CD ._. Automatic_NNP numbering_VBG ,_, or_CC better_JJR :_: automatic_JJ generation_NN of_IN numbers_NNS (_( labels_NNS )_) from_IN keys_NNS used_VBN in_IN symbolic_JJ referencing_VBG ,_, a_DT la_FW \_NN label_NN /_NN \_NN ref_NN in_IN LaTeX_NNP or_CC ID_NNP /_NN IDREF_NNP in_IN SGML_NNP ,_, is_VBZ fraught_JJ with_IN difficulties_NNS ._. 
+Between_IN =_SYM -_: =_SYM -_: =_SYM -_: =_SYM lines_NNS I_PRP 'll_MD include_VB a_DT piece_NN I_PRP wrote_VBD about_IN that_DT in_IN relation_NN to_TO the_DT Elsevier_NNP Science_NNP DTD_NNP 's_POS ._. 
+
+=_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM The_DT problem_NN of_IN symbolic_JJ referencing_VBG has_VBZ never_RB been_VBN one_CD of_IN the_DT DTDs_NNP ,_, but_CC one_CD of_IN finding_VBG an_DT algorithm_NN for_IN deriving_VBG (_( printed_VBN )_) numbers_NNS /_NN labels_NNS from_IN symbolic_JJ labels_NNS in_IN the_DT SGML_NNP source_NN document_NN ._. 
+
+Earlier_JJR summary_NN of_IN the_DT problem_NN 
+------------------------------_: A_DT generic_JJ mechanism_NN for_IN counters_NNS ,_, including_VBG some_DT rules_NNS for_IN presentation_NN of_IN counters_NNS ,_, is_VBZ as_IN follows_VBZ ._. 
+-_: Every_DT type_NN of_IN numbered_VBD object_VBP ,_, table_NN ,_, figure_NN ,_, equation_NN ,_, reference_NN ,_, has_VBZ its_PRP$ own_JJ counter_NN ._. 
+-_: All_DT top-level_JJ counters_NNS start_VBP at_IN the_DT value_NN 0_CD (_( zero_CD )_) at_IN the_DT beginning_NN of_IN the_DT document_NN ._. 
+-_: If_IN nesting_JJ is_VBZ possible_JJ ,_, every_DT nesting_JJ level_NN has_VBZ its_PRP$ own_JJ counter_NN ._. 
+-_: Counters_NNP of_IN levels_NNS below_IN top-level_JJ start_NN at_IN the_DT value_NN 0_CD (_( zero_CD )_) at_IN the_DT start_NN tag_NN of_IN the_DT next_JJ higher_JJR (_( parent_NN )_) level_NN ._. 
+-_: From_IN the_DT values_NNS of_IN the_DT counter_NN (_( s_VBZ )_) a_DT label_NN is_VBZ calculated_VBN ._. 
+This_DT label_NN is_VBZ e.g._NN printed_VBN in_IN the_DT article_NN as_IN it_PRP appears_VBZ in_IN a_DT journal_NN issue_NN ._. 
+The_DT relation_NN between_IN labels_NNS and_CC counters_NNS is_VBZ application-dependent_JJ ._. 
+Example_NN :_: |_NN <_NN sec_NN id_NN =_SYM "_'' 99_CD "_'' >_NN |_NN could_MD be_VB printed_VBN as_IN `_`` `_`` 3.2_CD .1_CD '_POS '_POS ._. 
+-_: The_DT values_NNS of_IN the_DT |_NN id_NN |_NN attributes_NNS are_VBP unique_JJ within_IN the_DT document_NN instance_NN ._. 
+-_: The_DT |_NN id_NN |_NN attribute_VBP is_VBZ not_RB identical_JJ to_TO the_DT counter_JJ value_NN ._. 
+-_: If_IN the_DT |_NN id_NN |_NN attribute_VBP is_VBZ missing_VBG ,_, the_DT counter_NN is_VBZ not_RB incremented_JJ ,_, and_CC the_DT element_NN is_VBZ not_RB numbered_VBN ._. 
+This_DT allows_VBZ for_IN e.g._NN un-numbered_JJ equations_NNS ._. 
+This_DT means_VBZ that_IN tables_NNS and_CC figures_NNS always_RB have_VBP an_DT |_NN id_NN |_NN attribute_VBP even_RB when_WRB they_PRP are_VBP not_RB referenced_JJ ._. 
+(_( Or_CC are_VBP there_EX also_RB cases_VBZ where_WRB tables_NNS and_CC figures_NNS are_VBP not_RB numbered_VBN ?_. )_) 
+
+There_EX are_VBP (_( at_IN least_JJS )_) the_DT following_VBG exceptions_NNS to_TO the_DT algorithm_NN described_VBD above_IN :_: 
+1_CD ._. The_DT contents_NNS of_IN a_DT figure_NN form_NN one_CD (_( physical_JJ )_) entity_NN ,_, but_CC inspection_NN of_IN the_DT contents_NNS show_VBP that_IN there_EX are_VBP logical_JJ sub-figures_JJ (_( hidden_VBN )_) inside_IN the_DT figure_NN ._. 
+Example_NN :_: the_DT contents_NNS of_IN figure_NN ~_NN 2_CD contains_VBZ markers_NNS `_`` a_NNP '_'' ,_, `_`` b_SYM '_'' and_CC `_`` c_SYM '_'' ,_, which_WDT indicate_VBP logical_JJ sub-figures_JJ 2_CD a_DT ,_, 2_CD b_SYM and_CC 2_CD c_SYM ._. 
+2_CD ._. Normal_NNP equation_NN numbering_VBG (_( 1_CD ,_, 2_CD ,_, 3_CD ,_, ..._... )_) is_VBZ interrupted_VBN by_IN an_DT equation_NN number_NN that_WDT is_VBZ `_`` derived_VBN from_IN '_POS an_DT earlier_JJR one_CD ._. 
+Example_NN :_: (_( 1_CD )_) ,_, (_( 2_CD )_) ,_, (_( 3_CD )_) ,_, (_( 1_CD '_POS )_) ,_, (_( 4_CD )_) ,_, (_( 5_CD )_) ,_, ..._... 
+3_CD ._. Numbering_NNP in_IN lists_NNS ,_, or_CC sub-numbering_JJ in_IN equations_NNS ,_, is_VBZ interrupted_VBN ._. 
+Example_NN :_: a_DT numbered_JJ list_NN with_IN items_NNS 1_CD ,_, 2_CD ,_, 3_CD ,_, is_VBZ followed_VBN by_IN a_DT paragraph_NN of_IN text_NN (_( the_DT |_NN |_NN is_VBZ on_IN the_DT same_JJ level_NN as_IN the_DT |_NN <_NN l_NN >_NN |_NN )_) ,_, and_CC then_RB the_DT list_NN continues_VBZ 4_CD ,_, 5_CD ,_, 6_CD ._. 
+The_DT intention_NN of_IN the_DT author_NN appears_VBZ to_TO be_VB {_( \_NN em_NN one_CD \_NN /_NN }_) list_NN ,_, but_CC this_DT list_NN is_VBZ interrupted_VBN ._. 
+A_DT similar_JJ example_NN can_MD be_VB found_VBN in_IN equation_NN sub-numbering_JJ :_: equations_NNS (_( 4_CD a_DT )_) and_CC (_( 4_CD b_SYM )_) are_VBP followed_VBN by_IN a_DT paragraph_NN of_IN text_NN ,_, followed_VBN by_IN equations_NNS (_( 4_CD c_SYM )_) and_CC (_( 4_CD d_SYM )_) ._. 
+
+Below_NNP I_PRP will_MD discuss_VB each_DT case_NN separately_RB ._. 
+
+Hidden_NNP sub-figures_JJ ------------------
+_: When_WRB a_DT figure_NN (_( as_RB far_RB as_IN we_PRP know_VBP ,_, hidden_VBN sub-components_JJ occur_VB only_RB with_IN figures_NNS ._. )_) that_WDT exists_VBZ as_IN one_CD physical_JJ entity_NN consists_VBZ of_IN logical_JJ sub-entities_JJ ,_, the_DT only_JJ solution_NN lies_VBZ in_IN adding_VBG this_DT information_NN ,_, which_WDT lies_VBZ *_NN outside_JJ *_NN the_DT document_NN ,_, to_TO the_DT document_NN ._. 
+One_CD possibility_NN for_IN this_DT is_VBZ to_TO give_VB the_DT |_NN <_NN fig_NN >_NN |_NN start_NN tag_NN a_DT new_JJ attribute_NN that_WDT specifies_VBZ the_DT labels_NNS of_IN the_DT individual_JJ components_NNS ._. 
+This_DT enables_VBZ generation_NN of_IN the_DT labels_NNS of_IN the_DT sub-figures_JJ ._. 
+
+First_CD an_DT example_NN of_IN a_DT regular_JJ case_NN :_: <_NN fig_NN id_NN =_SYM fig_NN 4_CD >_NN <_NN fig_NN id_NN =_SYM fig_NN 4_CD a_DT >_NN <_NN figlnk_NN file_NN =_SYM "_'' fig_NN 4_CD a_DT "_'' >_NN <_NN /_NN fig_NN >_NN <_NN fig_NN id_NN =_SYM fig_NN 4_CD b_SYM >_NN <_NN figlnk_NN file_NN =_SYM "_'' fig_NN 4_CD b_SYM "_'' >_NN <_NN /_NN fig_NN >_NN <_NN /_NN fig_NN >_NN 
+
+Here_RB the_DT outer_JJ figure_NN and_CC the_DT two_CD nested_JJ figures_NNS each_DT have_VBP their_PRP$ own_JJ unique_JJ key_NN for_IN referencing_VBG (_( fig_NN 4_CD ,_, fig_NN 4_CD a_DT ,_, fig_NN 4_CD b_SYM )_) ,_, and_CC we_PRP have_VBP the_DT following_VBG (_( id_NN ,_, label_NN )_) pairs_NNS :_: (_( fig_NN 4_CD ,_, 4_CD )_) (_( fig_NN 4_CD a_DT ,_, (_( 4_CD 1_CD )_) )_) (_( fig_NN 4_CD b_SYM ,_, (_( 4_CD 2_CD )_) )_) where_WRB the_DT counter_NN strings_NNS (_( 4_CD 1_CD )_) and_CC (_( 4_CD 2_CD )_) are_VBP represented_VBN as_IN `_`` 4_CD a_NNP '_POS and_CC `_`` 4_CD b_SYM '_POS (_( but_CC this_DT presentation_NN is_VBZ application-dependent_JJ of_IN course_NN )_) ._. 
+
+Second_JJ an_DT example_NN of_IN hidden_VBN sub-figures_JJ :_: <_NN fig_NN id_NN =_SYM fig_NN 4_CD >_NN <_NN figlnk_NN file_NN =_SYM "_'' fig_NN 4_CD "_'' >_NN <_NN /_NN fig_NN >_NN the_DT picture_NN in_IN |_NN fig_NN 4_CD |_NN contains_VBZ two_CD labels_NNS ,_, `_`` a_NNP '_'' and_CC `_`` b_SYM '_'' ,_, that_WDT identify_VBP sub-figures_JJ ._. 
+Both_DT the_DT figure_NN as_IN a_DT whole_JJ and_CC the_DT individual_JJ sub-figures_JJ are_VBP referenced_JJ ._. 
+If_IN we_PRP add_VBP an_DT attribute_VBP to_TO the_DT start_NN tag_NN we_PRP can_MD achieve_VB this_DT :_: |_NN <_NN fig_NN id_NN =_SYM fig_NN 4_CD comp_NN =_SYM "_'' a_DT b_SYM "_'' ^_NN gt_NN ;_: |_NN ._. 
+The_DT keys_NNS `_`` fig_NN 4_CD a_NNP '_POS and_CC `_`` fig_NN 4_CD b_SYM '_POS are_NN implied_VBN (_( automatically_RB generated_VBN )_) ;_: these_DT implied_JJ keys_NNS act_VBP as_IN aliases_NNS for_IN `_`` fig_NN 4_CD '_POS ,_, since_IN they_PRP refer_VBP to_TO the_DT same_JJ physical_JJ object_VBP ._. 
+Unfortunately_RB ,_, the_DT attribute_NN |_NN comp_NN =_SYM "_'' a_DT b_SYM "_'' |_NN also_RB suggests_VBZ a_DT presentation_NN ._. 
+Now_RB we_PRP have_VBP the_DT following_VBG (_( id_NN ,_, label_NN )_) pairs_NNS :_: (_( fig_NN 4_CD ,_, 4_CD )_) (_( fig_NN 4_CD a_DT ,_, (_( 4_CD 1_CD )_) )_) (_( fig_NN 4_CD b_SYM ,_, (_( 4_CD 2_CD )_) )_) where_WRB |_NN 4_CD |_NN ,_, |_NN (_( 4_CD 1_CD )_) |_NN and_CC |_NN (_( 4_CD 2_CD )_) |_NN refer_VBP to_TO the_DT same_JJ object_VBP (_( physical_JJ figure_NN )_) in_IN the_DT document_NN instance_NN ._. 
+
+Derived_NNP equation_NN numbers_NNS ------------------------_: We_PRP illustrate_VBP this_DT case_NN with_IN an_DT example_NN ._. 
+Suppose_VB an_DT article_NN contains_VBZ the_DT following_VBG sequence_NN of_IN equations_NNS :_: (_( 1_CD )_) ,_, (_( 2_CD )_) ,_, (_( 3_CD )_) ,_, (_( 1_CD '_POS )_) ,_, (_( 4_CD )_) ,_, (_( 5_CD )_) ,_, ..._... 
+In_IN that_DT case_NN we_PRP have_VBP the_DT following_VBG (_( id_NN ,_, label_NN )_) pairs_NNS for_IN the_DT first_JJ three_CD equations_NNS :_: (_( eq_NN 1_CD ,_, 1_CD )_) (_( eq_NN 2_CD ,_, 2_CD )_) (_( eq_NN 3_CD ,_, 3_CD )_) 
+
+The_DT next_JJ equation_NN should_MD have_VB an_DT (_( id_NN ,_, label_NN )_) pair_NN like_IN this_DT :_: (_( eq_NN $_$ 1_CD ,_, label_NN (_( eq_NN 1_CD )_) '_POS )_) where_WRB |_NN eq_NN $_$ 1_CD |_NN is_VBZ the_DT unique_JJ |_NN id_NN |_NN assigned_VBN to_TO equation_NN ~_NN (_( 1_CD '_POS )_) ,_, and_CC |_NN label_NN (_( eq_NN 1_CD )_) |_NN stands_VBZ for_IN the_DT label_NN of_IN the_DT equation_NN with_IN id_NN =_SYM eq_NN 1_CD ._. 
+
+And_CC the_DT next_JJ equation_NN ,_, (_( 4_CD )_) ,_, should_MD have_VB an_DT (_( id_NN ,_, label_NN )_) pair_NN like_IN this_DT :_: (_( eq_NN 4_CD ,_, 4_CD )_) 
+
+The_DT question_NN is_VBZ whether_IN appending_VBG material_NN to_TO an_DT existing_VBG label_NN is_VBZ the_DT only_JJ form_NN of_IN derivation_NN ,_, or_CC whether_IN other_JJ forms_NNS of_IN derivation_NN exist_VB ._. 
+
+Interrupted_NNP sequences_NNS ---------------------_: This_DT case_NN occurs_VBZ with_IN list_NN items_NNS within_IN a_DT numbered_JJ list_NN ,_, or_CC with_IN numbered_VBD sub-equations_JJ ._. 
+(_( Lists_NNP look_VB like_IN a_DT special_JJ case_NN of_IN nesting_JJ :_: numbering_VBG of_IN list_NN items_NNS normally_RB starts_VBZ with_IN 1_CD ,_, but_CC every_DT list_NN item_NN must_MD have_VB an_DT \_NN verb_NN |_NN id_NN |_NN that_WDT is_VBZ unique_JJ within_IN the_DT document_NN ._. 
+This_DT could_MD be_VB achieved_VBN if_IN we_PRP also_RB numbered_VBD the_DT parent_NN element_NN \_NN verb_NN |_NN <_NN l_NN ^_NN gt_NN ;_: |_NN ._. )_) 
+
+Suppose_VB we_PRP have_VBP <_NN l_NN >_NN <_NN li_NN id_NN =_SYM "_'' liA_NN "_'' >_NN a_DT footnote_NN is_VBZ ..._... <_NN li_NN id_NN =_SYM "_'' liB_NN "_'' >_NN footnotes_NNS should_MD be_VB ..._... <_NN /_NN l_NN >_NN A_DT paragraph_NN of_IN text_NN comes_VBZ between_IN the_DT two_CD numbered_VBD lists_NNS ._. <_NN l_NN >_NN <_NN li_NN id_NN =_SYM "_'' liC_NN "_'' >_NN a_DT figure_NN is_VBZ ..._... <_NN li_NN id_NN =_SYM "_'' liD_NN "_'' >_NN a_DT table_NN is_VBZ ..._... <_NN /_NN l_NN >_NN and_CC the_DT author_NN has_VBZ numbered_VBN the_DT list_NN items_NNS as_IN 1_CD ,_, 2_CD ,_, 3_CD ,_, 4_CD ._. 
+We_PRP agreed_VBD earlier_JJR that_IN one_CD of_IN the_DT guiding_VBG principles_NNS is_VBZ to_TO follow_VB the_DT author_NN unless_IN there_EX are_VBP errors_NNS in_IN the_DT manuscript_NN ._. 
+
+=_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM -_: =_SYM 3_CD ._. "_'' HTML-Math_NNP is_VBZ intended_VBN to_TO allow_VB ..._... as_RB well_RB as_IN rendering_VBG to_TO graphical_JJ bitmapped_JJ displays_NNS ._. "_'' 
+What_WP about_IN rendering_VBG to_TO paper_NN ?_. ?_. 
+
+4_CD ._. "_'' There_EX are_VBP hundreds_NNS of_IN symbols_NNS in_IN use_NN in_IN mathematics_NN ._. "_'' 
+For_IN those_DT of_IN you_PRP who_WP think_VBP this_DT is_VBZ covered_VBN by_IN Unicode_NNP ,_, Computer_NNP Modern_NNP fonts_NNS and_CC the_DT AMS_NNP fonts_NNS (_( although_IN the_DT latter_JJ *_NN are_VBP *_NN very_RB useful_JJ )_) ,_, should_MD study_VB pages_NNS 47_CD -_: 50_CD of_IN the_DT following_VBG document_NN ftp://ftp.elsevier.nl/pub/sgml/artdoc.ps.gz_NN 
+This_DT is_VBZ the_DT documentation_NN of_IN our_PRP$ article_NN DTD_NNP ,_, and_CC it_PRP contains_VBZ tables_NNS with_IN *_NN all_DT *_NN symbols_NNS and_CC characters_NNS we_PRP use_VBP in_IN typesetting_VBG our_PRP$ products_NNS ._. 
+There_EX is_VBZ redundancy_NN in_IN it_PRP ,_, I_PRP know_VBP ._. 
+But_CC more_RBR important_JJ is_VBZ that_IN to_TO cover_VB this_DT set_JJ 100_CD %_NN you_PRP need_VBP more_JJR than_IN the_DT font_NN sets_NNS I_PRP mentioned_VBD earlier_RBR ._. 
+Elsevier_NNP Science_NNP is_VBZ in_IN discussion_NN with_IN several_JJ societies_NNS about_IN the_DT possibility_NN of_IN completing_VBG a_DT font_NN set_VBN that_WDT covers_VBZ all_PDT this_DT ,_, and_CC perhaps_RB more_JJR ,_, and_CC make_VB it_PRP freely_RB available_JJ ._. 
+This_DT will_MD also_RB solve_VB legal_JJ problems_NNS with_IN embedding_VBG fonts_NNS or_CC parts_NNS of_IN fonts_NNS in_IN PDF_NNP files_NNS ._. 
+
+5_CD ._. Superiors_NNP /_NN inferiors_NNS :_: I_PRP think_VBP we_PRP should_MD add_VB something_NN about_IN vertical_JJ position_NN of_IN inferiors_NNS in_IN mathematics_NN and_CC chemistry_NN (_( these_DT differ_VB ,_, as_IN some_DT of_IN you_PRP may_MD know_VB )_) ._. 
+
+6_CD ._. In_IN the_DT list_NN of_IN layout_NN idioms_NNS I_PRP believe_VBP there_RB is_VBZ at_IN least_JJS one_CD missing_VBG ,_, namely_RB an_DT arrow_NN that_WDT adjusts_VBZ its_PRP$ width_NN to_TO the_DT text_NN appearing_VBG above_IN or_CC below_IN it_PRP ._. 
+This_DT is_VBZ used_VBN in_IN chemical_NN formulas_NNS ,_, and_CC is_VBZ different_JJ from_IN an_DT arrow_NN or_CC brace_VB AS_NNP ORNAMENT_NNP ,_, that_WDT adjusts_VBZ its_PRP$ width_NN to_TO the_DT text_NN underneath_IN it_PRP ._. 
+Examples_NNS of_IN both_DT :_: \_NN widebrace_NN {_( a_DT b_SYM c_SYM ..._... x_SYM y_NN z_SYM }_) (_( the_DT brace_VB is_VBZ the_DT ornament_NN )_) catalyst_NN A_DT -----------_: >_NN B_NNP (_( the_DT text_NN above_IN the_DT arrow_NN is_VBZ the_DT ornament_NN )_) 
+
+7_CD ._. In_IN example_NN 2_CD a_DT lot_NN of_IN reserved_VBN words_NNS occur_VBP :_: from_IN ,_, to_TO ,_, of_RB ._. 
+How_WRB do_VBP you_PRP get_VBP these_DT words_NNS as_IN normal_JJ words_NNS in_IN the_DT text_NN (_( in_IN roman_NN )_) ?_. 
+
+8_CD ._. What_WP about_IN coding_VBG fractions_NNS :_: are_VBP we_PRP going_VBG to_TO follow_VB LaTeX_NNP and_CC most_JJS SGML_NNP DTD_NNP 's_POS and_CC use_NN something_NN like_IN (_( fraction_NN (_( numerator_NN ..._... )_) (_( denominator_NN ..._... )_) )_) or_CC are_VBP we_PRP copying_VBG the_DT horrible_JJ TeX_NNP construct_VB (_( ..._... over_IN ..._... )_) ?_. 
+I_PRP 've_VBP been_VBN asked_VBN by_IN people_NNS on_IN the_DT LaTeX_NNP 3_CD development_NN team_NN to_TO express_VB a_DT strong_JJ preference_NN for_IN the_DT former_NN ,_, and_CC a_DT strong_JJ dislike_NN for_IN \_NN over_IN !_. 
+
+That_DT 's_VBZ it_PRP ._. 
+I_PRP 'll_MD try_VB to_TO monitor_VB the_DT corner_NN designated_VBN to_TO our_PRP$ group_NN on_IN www.w3.org,_NN although_IN the_DT password_NN Dave_NNP gave_VBD me_PRP does_VBZ n't_RB work_VB !_. 
+:_: -_: )_) 
+
+If_IN Dave_NNP can_MD let_VB me_PRP know_VB several_JJ days_NNS in_IN advance_NN when_WRB a_DT telephone_NN conference_NN occurs_VBZ (_( on_IN Monday_NNP evenings_NNS )_) I_PRP can_MD try_VB to_TO attend_VB ._. 
+But_CC there_EX will_MD be_VB Mondays_NNS on_IN which_WDT I_PRP am_VBP not_RB at_IN home_NN from_IN 7_CD pm_NN to_TO midnight_NN (_( that_DT 's_VBZ 12_CD noon_NN to_TO 5_CD pm_NN EST_NNP ,_, since_IN we_PRP 're_VBP in_IN daylight_NN saving_VBG time_NN as_IN of_IN last_JJ weekend_NN )_) 
+._. 
+Regards_NNP ,_, Nico_NNP 
+------------------------------------------------------------------------_: Dr._NN Nico_NNP A.F.M._NN Poppelier_NNP Elsevier_NNP Science_NNP ,_, APD_NNP ,_, ITD_NNP Email_NNP :_: n.poppelier@elsevier.nl_NN ._. Molenwerf_NNP 1_CD ,_, 1014_CD AG_NNP Amsterdam_NNP Phone_NNP :_: +_NN 31_CD -_: 20_CD -_: 4853482_CD ._. The_DT Netherlands_NNP Fax_NNP :_: +_NN 31_CD -_: 20_CD -_: 4853706_CD ._. 
+------------------------------------------------------------------------_: The_DT truth_NN ,_, the_DT whole_JJ truth_NN ,_, and_CC nothing_NN but_CC the_DT truth_NN ._. 
+And_CC maybe_RB some_DT compromises_NNS ._. 
+

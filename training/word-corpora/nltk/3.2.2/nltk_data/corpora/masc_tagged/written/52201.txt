@@ -1,0 +1,11 @@
+Message-ID_NNP :_: <_NN 7553175.1075863444700.JavaMail.evans@thyme_NN >_NN Date_NN :_: Mon_NNP ,_, 17_CD Sep_NNP 2001_CD 21:01:37_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: wolak@zia.stanford.edu_NN To_TO :_: j.kaminski@enron.com_NN Subject_NNP :_: Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Vince_NNP ,_, 
+
+I_PRP agree_VBP with_IN you_PRP that_IN it_PRP 's_VBZ a_DT lesson_NN people_NNS need_VBP to_TO learn_VB over_RB and_CC over_IN again_RB ._. 
+I_PRP ca_MD n't_RB tell_VB you_PRP how_WRB many_JJ politicians_NNS I_PRP met_VBD over_IN the_DT past_JJ year_NN who_WP really_RB do_VBP n't_RB like_VB markets_NNS and_CC certainly_RB do_VBP n't_RB understand_VB how_WRB or_CC why_WRB they_PRP work_VBP ._. 
+These_DT are_VBP n't_RB just_RB the_DT minor_JJ leaguers_NNS in_IN Sacramento_NNP ,_, but_CC the_DT big_JJ league_NN players_NNS in_IN Washington_NNP ._. 
+
+I_PRP also_RB agree_VBP that_IN the_DT academic_JJ community_NN can_MD play_VB "_'' an_DT important_JJ role_NN in_IN shaping_VBG public_JJ opinion_NN and_CC in_IN explaining_VBG the_DT logic_NN of_IN deregulation_NN process_NN ._. 
+"_'' I_PRP 'd_MD like_VB to_TO think_VB that_WDT is_VBZ in_IN large_JJ part_NN what_WP I_PRP have_VBP been_VBN trying_VBG to_TO do_VB ._. 
+
+Frank_NNP 
+

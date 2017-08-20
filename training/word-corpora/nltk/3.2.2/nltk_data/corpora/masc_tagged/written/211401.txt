@@ -1,0 +1,5 @@
+Message-ID_NNP :_: <_NN 8296592.1075857154467.JavaMail.evans@thyme_NN >_NN Date_NN :_: Thu_NNP ,_, 15_CD Jun_NNP 2000_CD 01:16:00_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: benjamin.rogers@enron.com_NN To_TO :_: jwahl@cinergy.com_NN Subject_NNP :_: Re_NNP :_: Confidential_NNP Agreement_NNP Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Jennifer_NNP :_: Here_RB is_VBZ the_DT latest_JJS CA_NNP for_IN Jerry_NNP to_TO review_VB ._. 
+Please_VB send_VB him_PRP this_DT e-mail_JJ asap_NN ._. 
+Thanks_NNS !_. 
+
+Ben_NNP Rogers_NNP 

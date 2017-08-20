@@ -1,0 +1,49 @@
+Message-ID_NNP :_: <_NN 3454095.1075840788231.JavaMail.evans@thyme_NN >_NN Date_NN :_: Tue_NNP ,_, 29_CD Jan_NNP 2002_CD 12:07:33_NN -_: 0800_CD (_( PST_NNP )_) From_IN :_: j.kaminski@enron.com_NN To_TO :_: wbalson@crai.com_NN Subject_NNP :_: RE_NNP :_: I_PRP 've_VBP joined_VBN Charles_NNP River_NNP Associates_NNPS Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Bill_NNP ,_, 
+
+Yes_UH ,_, one_CD of_IN the_DT options_NNS I_PRP am_VBP looking_VBG at_IN ._. 
+
+Vince_NNP 
+
+-----_SYM Original_NNP Message-----_NNP From_IN :_: "_'' Balson_NNP ,_, William_NNP "_'' <_NN wbalson@crai.com_NN >_NN @_IN ENRON_NNP Sent_NNP :_: Tuesday_NNP ,_, January_NNP 29_CD ,_, 2002_CD 1:53_NN PM_NNP To_TO :_: Kaminski_NNP ,_, Vince_NNP J_NNP Subject_NNP :_: RE_NNP :_: I_PRP 've_VBP joined_VBN Charles_NNP River_NNP Associates_NNPS 
+Have_VBP you_PRP considered_VBD joining_VBG a_DT consultancy_NN ?_. 
+
+-----_SYM Original_NNP Message-----_NNP From_IN :_: Vince.J.Kaminski@enron.com_NN To_TO :_: wbalson@crai.com_NN Sent_NNP :_: 1/29/02_CD 11:43_NN AM_NNP Subject_NNP :_: RE_NNP :_: I_PRP 've_VBP joined_VBN Charles_NNP River_NNP Associates_NNPS 
+Bill_NNP ,_, 
+
+Lacima_NNP is_VBZ relatively_RB small_JJ ,_, but_CC they_PRP have_VBP two_CD very_RB competent_JJ and_CC experienced_VBN principals_NNS :_: Chris_NNP Strickland_NNP and_CC Les_NNP Clewlow_NNP ._. 
+
+I_PRP am_VBP looking_VBG right_RB now_RB at_IN a_DT number_NN of_IN options_NNS ._. 
+Hopefully_RB ,_, I_PRP shall_MD make_VB a_DT decision_NN within_IN a_DT few_JJ weeks_NNS ._. 
+
+Vince_NNP 
+
+-----_SYM Original_NNP Message-----_NNP From_IN :_: "_'' Balson_NNP ,_, William_NNP "_'' <_NN wbalson@crai.com_NN >_NN @_IN ENRON_NNP Sent_NNP :_: Tuesday_NNP ,_, January_NNP 29_CD ,_, 2002_CD 1:30_NN PM_NNP To_TO :_: Kaminski_NNP ,_, Vince_NNP J_NNP Subject_NNP :_: RE_NNP :_: I_PRP 've_VBP joined_VBN Charles_NNP River_NNP Associates_NNPS 
+Have_VBP you_PRP developed_VBD plans_NNS ?_. 
+I_PRP 'd_MD be_VB interested_VBN in_IN your_PRP$ evaluation_NN of_IN Lakima_NNP Group_NNP ,_, whom_WP I_PRP believe_VBP you_PRP 've_VBP worked_VBN with_IN ._. 
+How_WRB big_JJ are_VBP they_PRP ?_. 
+
+-----_SYM Original_NNP Message-----_NNP From_IN :_: Vince.J.Kaminski@enron.com_NN To_TO :_: wbalson@crai.com_NN Sent_NNP :_: 1/29/02_CD 11:12_NN AM_NNP Subject_NNP :_: RE_NNP :_: I_PRP 've_VBP joined_VBN Charles_NNP River_NNP Associates_NNPS 
+Bill_NNP ,_, 
+
+Delayed_JJ congratulations_NNS ._. 
+
+Vince_NNP 
+
+-----_SYM Original_NNP Message-----_NNP From_IN :_: "_'' Balson_NNP ,_, William_NNP "_'' <_NN wbalson@crai.com_NN >_NN @_IN ENRON_NNP Sent_NNP :_: Monday_NNP ,_, December_NNP 10_CD ,_, 2001_CD 5:14_NN PM_NNP To_TO :_: '_POS vkamins@enron.com_NN '_'' Subject_NNP :_: I_PRP 've_VBP joined_VBN Charles_NNP River_NNP Associates_NNPS 
+Hi_NNP Vince_NNP -_: Its_PRP$ very_RB sad_JJ to_TO see_VB what_WP has_VBZ happened_VBN ._. 
+I_PRP hope_VBP you_PRP are_VBP doing_VBG OK_JJ under_IN the_DT circumstances_NNS ._. 
+I_PRP wanted_VBD also_RB to_TO let_VB you_PRP know_VB that_IN I_PRP 'm_VBP transitioning_VBG to_TO an_DT advisory_JJ role_NN at_IN Opt_NNP 4_CD since_IN they_PRP are_VBP now_RB in_IN a_DT more_RBR operational_JJ mode_NN ,_, rather_RB than_IN developmental_NN ._. 
+I_PRP 've_VBP joined_VBN Charles_NNP River_NNP Associates_NNPS in_IN the_DT Palo_NNP Alto_NNP office_NN ._. 
+What_WP are_VBP your_PRP$ plans_NNS for_IN the_DT future_NN ?_. 
+I_PRP would_MD like_VB to_TO extend_VB an_DT invitation_NN to_TO get_VB to_TO know_VB us_PRP better_JJR ,_, and_CC perhaps_RB to_TO collaborate_VB if_IN our_PRP$ interests_NNS coincide_VB ._. 
+When_WRB do_VBP you_PRP get_VBP back_RB from_IN vacation_NN ?_. 
+
+Bill_NNP Balson_NNP Vice_NNP President_NNP Charles_NNP River_NNP Associates_NNPS 285_CD Hamilton_NNP Avenue_NNP Palo_NNP Alto_NNP ,_, CA_NNP 94301_CD Direct_NNP :_: 650_CD -_: 847_CD -_: 2227_CD Cell_NNP :_: 650_CD -_: 823_CD -_: 2510_CD FAX_NNP :_: 650_CD -_: 325_CD -_: 2488_CD wbalson@crai.com_NN 
+**********************************************************************_NN This_DT e-mail_JJ is_VBZ the_DT property_NN of_IN Enron_NNP Corp_NNP ._. 
+and_CC /_NN or_CC its_PRP$ relevant_JJ affiliate_NN and_CC may_MD contain_VB confidential_JJ and_CC privileged_JJ material_NN for_IN the_DT sole_JJ use_NN of_IN the_DT intended_VBN recipient_JJ (_( s_VBZ )_) ._. 
+Any_DT review_NN ,_, use_NN ,_, distribution_NN or_CC disclosure_NN by_IN others_NNS is_VBZ strictly_RB prohibited_VBN ._. 
+If_IN you_PRP are_VBP not_RB the_DT intended_VBN recipient_JJ (_( or_CC authorized_VBD to_TO receive_VB for_IN the_DT recipient_JJ )_) ,_, please_VB contact_NN the_DT sender_NN or_CC reply_VB to_TO Enron_NNP Corp_NNP ._. at_IN enron_NN ._. messaging.administration@enron.com_NN and_CC delete_VB all_DT copies_NNS of_IN the_DT message_NN ._. 
+This_DT e-mail_JJ (_( and_CC any_DT attachments_NNS hereto_NN )_) are_VBP not_RB intended_VBN to_TO be_VB an_DT offer_NN (_( or_CC an_DT acceptance_NN )_) and_CC do_VBP not_RB create_VB or_CC evidence_NN a_DT binding_JJ and_CC enforceable_JJ contract_NN between_IN Enron_NNP Corp_NNP ._. (_( or_CC any_DT of_IN its_PRP$ affiliates_NNS )_) and_CC the_DT intended_VBN recipient_JJ or_CC any_DT other_JJ party_NN ,_, and_CC may_MD not_RB be_VB relied_VBN on_IN by_IN anyone_NN as_IN the_DT basis_NN of_IN a_DT contract_NN by_IN estoppel_NN or_CC otherwise_RB ._. 
+Thank_VB you_PRP ._. 
+
+**********************************************************************_NN 

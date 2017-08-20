@@ -1,0 +1,6 @@
+GOODY_NNP PRODUCTS_NNP Inc._NN cut_VB its_PRP$ quarterly_JJ dividend_NN to_TO five_CD cents_NNS a_DT share_NN from_IN 11.5_CD cents_NNS a_DT share_NN ._. 
+The_DT reduced_VBN dividend_NN is_VBZ payable_JJ Jan_NNP ._. 2_CD to_TO stock_NN of_IN record_NN Dec_NNP ._. 15_CD ._. 
+The_DT Kearny_NNP ,_, N.J._NN -_- based_JJ maker_NN of_IN hair_NN accessories_NNS and_CC other_JJ cosmetic_JJ products_NNS said_VBD it_PRP cut_VBP the_DT dividend_NN due_JJ to_TO its_PRP$ third_JJ -_- quarter_NN loss_NN of_IN $992,000_NN ,_, or_CC 15_CD cents_NNS a_DT share_NN ._. 
+In_IN the_DT year_NN -_- ago_RB quarter_NN ,_, the_DT company_NN reported_VBD net_JJ income_NN of_IN $1.9_NN million_CD ,_, or_CC 29_CD cents_NNS a_DT share_NN ._. 
+The_DT company_NN also_RB adopted_VBD an_DT anti-takeover_JJ plan_NN ._. 
+

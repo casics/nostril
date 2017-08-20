@@ -1,0 +1,14 @@
+Intelogic_NNP Trace_NNP Inc._NN ,_, San_NNP Antonio_NNP ,_, Texas_NNP ,_, said_VBD it_PRP bought_VBD 2.7_CD million_CD shares_NNS ,_, or_CC about_IN 18_CD %_NN ,_, of_IN its_PRP$ common_JJ stock_NN from_IN an_DT unaffiliated_JJ shareholder_NN for_IN $3.625_NN a_DT share_NN ,_, or_CC $9.9_NN million_CD ._. 
+
+The_DT move_NN boosts_VBZ Intelogic_NNP Chairman_NNP Asher_NNP Edelman_NNP 's_POS stake_NN to_TO 20_CD %_NN from_IN 16.2_CD %_NN and_CC may_MD help_VB prevent_VB Martin_NNP Ackerman_NNP from_IN making_VBG a_DT run_NN at_IN the_DT computer_NN -_- services_NNS concern_NN ._. 
+Mr._NN Ackerman_NNP already_RB is_VBZ seeking_VBG to_TO oust_VB Mr._NN Edelman_NNP as_IN chairman_NN of_IN Datapoint_NNP Corp_NNP ._. ,_, an_DT Intelogic_NNP affiliate_NN ._. 
+
+The_DT action_NN followed_VBN by_IN one_CD day_NN an_DT Intelogic_NNP announcement_NN that_IN it_PRP will_MD retain_VB an_DT investment_NN banker_NN to_TO explore_VB alternatives_NNS "_'' to_TO maximize_VB shareholder_NN value_NN ,_, "_'' including_VBG the_DT possible_JJ sale_NN of_IN the_DT company_NN ._. 
+
+In_IN New_NNP York_NNP Stock_NNP Exchange_NNP composite_JJ trading_NN yesterday_NN ,_, Intelogic_NNP shares_NNS rose_VBD 37.5_CD cents_NNS to_TO close_VB at_IN $2.75_NN ._. 
+
+Mr._NN Edelman_NNP declined_VBD to_TO specify_VB what_WP prompted_VBD the_DT recent_JJ moves_NNS ,_, saying_VBG they_PRP are_VBP meant_VBN only_RB to_TO benefit_VB shareholders_NNS when_WRB "_'' the_DT company_NN is_VBZ on_IN a_DT roll_NN ._. "_'' 
+He_PRP added_VBD ,_, "_'' This_DT has_VBZ nothing_NN to_TO do_VB with_IN Marty_NNP Ackerman_NNP and_CC it_PRP is_VBZ not_RB designed_VBN ,_, particularly_RB ,_, to_TO take_VB the_DT company_NN private_JJ ._. "_'' 
+
+But_CC Mr._NN Ackerman_NNP said_VBD the_DT buy_VBG -_- back_RP ,_, and_CC the_DT above_IN -_- market_NN price_NN paid_VBD ,_, prove_VB that_IN Mr._NN Edelman_NNP is_VBZ running_VBG scared_VBN ._. 
+

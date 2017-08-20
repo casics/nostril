@@ -1,0 +1,8 @@
+Date_NN :_: Fri_NNP ,_, 11_CD Feb_NNP 2011_CD 16:28:54_NN +_NN 0700_CD (_( WIT_NNP )_) Subject_NNP :_: ***_NN Confirm_NNP Account_NNP Update_NNP ***_NN From_IN :_: "_'' Webmail_NNP Help_VB Desk_NNP "_'' <_NN info@support.com_NN >_NN To_TO :_: A_DT DGTFX_NNP virus_NN has_VBZ been_VBN detected_VBN in_IN your_PRP$ folders_NNS Your_PRP$ email_NN account_NN has_VBZ to_TO be_VB upgraded_VBN to_TO our_PRP$ new_JJ Secured_JJ DGTFX_NNP anti-virus_JJ 2011_CD version_NN to_TO prevent_VB damages_NNS to_TO our_PRP$ webmail_NN log_NN and_CC your_PRP$ important_JJ files_NNS ._. 
+
+Click_NNP your_PRP$ reply_NN tab_NN ,_, Fill_NNP the_DT columns_NNS below_IN and_CC send_VB back_RB or_CC your_PRP$ email_NN account_NN will_MD be_VB terminated_VBN immediately_RB to_TO avoid_VB spread_NN of_IN the_DT virus_NN ._. 
+
+*_NN User_NNP ID_NNP :_: *_NN Password_NNP :_: *_NN Re-type_NNP Password_NNP :_: *_NN Date_NN of_IN Birth_NNP :_: 
+Email_NNP Technical_NNP Team_NNP 
+Note_VB that_IN your_PRP$ password_NN will_MD be_VB encrypted_JJ with_IN 1024-bit_NN RSA_NNP keys_NNS for_IN your_PRP$ password_NN safety_NN to_TO avoid_VB any_DT unauthorized_JJ user_NN 
+

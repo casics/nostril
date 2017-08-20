@@ -1,0 +1,346 @@
+Deformation_NNP and_CC river_NN response_NN Before_IN specific_JJ examples_NNS of_IN syntectonic_JJ impacts_NNS on_IN alluvial_JJ rivers_NNS can_MD be_VB discussed_VBN ,_, a_DT brief_JJ review_NN of_IN types_NNS of_IN tectonic_JJ activity_NN ,_, types_NNS of_IN rivers_NNS ,_, and_CC river_NN response_NN will_MD be_VB presented_VBN ._. 
+This_DT background_NN material_NN sets_VBZ the_DT stage_NN for_IN detailed_JJ discussions_NNS that_DT follow_VBP ._. 
+
+Types_NNP of_IN deformation_NN The_DT surficial_NN movements_NNS in_IN an_DT alluvial_JJ valley_NN can_MD take_VB different_JJ forms_NNS ,_, as_IN illustrated_VBN in_IN Figure_NN 2.1_CD ._. 
+The_DT displacement_NN can_MD be_VB seismic_JJ and_CC associated_VBN with_IN earthquakes_NNS and_CC abrupt_JJ faulting_VBG ,_, or_CC it_PRP can_MD be_VB aseismic_JJ with_IN progressive_JJ tilting_VBG and_CC warping_VBG of_IN the_DT valley_NN floor_NN ._. 
+Faults_NNP may_MD be_VB lateral_NN faults_NNS that_WDT displace_VB or_CC offset_VBD the_DT channel_NN (_( Figure_NN 2.1_CD A_DT )_) without_IN vertical_JJ displacement_NN ._. 
+This_DT type_NN of_IN displacement_NN should_MD be_VB easily_RB recognized_VBN ._. 
+Faults_NNP with_IN vertical_JJ displacement_NN may_MD have_VB the_DT uplifted_JJ block_NN upstream_RB of_IN the_DT fault_NN with_IN the_DT result_NN that_DT gradient_NN is_VBZ steepened_JJ (_( Figure_NN 2.1_CD B_NNP )_) ._. 
+In_IN the_DT opposite_JJ case_NN ,_, the_DT gradient_NN will_MD be_VB decreased_VBN (_( Figure_NN 2.1_CD C_NNP )_) ._. 
+The_DT effect_NN will_MD resemble_VB monoclinal_NN tilting_VBG (_( Figure_NN 2.1_CD F_NN ,_, G_NNP )_) ._. 
+Pairs_NNP of_IN faults_NNS may_MD produce_VB uplifted_JJ (_( horst_NN )_) or_CC downdropped_JJ blocks_NNS (_( graben_NN )_) that_WDT will_MD both_DT steepen_NN and_CC reduce_VB gradient_NN (_( Figure_NN 2.1_CD D_NNP ,_, E_NNP )_) ._. 
+This_DT has_VBZ the_DT same_JJ effect_NN as_IN domes_NNS and_CC anticlines_NNS or_CC basins_NNS and_CC synclines_NNS (_( Figure_NN 2.1_CD H_NNP ,_, I_PRP )_) ._. 
+
+In_IN addition_NN to_TO all_DT of_IN these_DT structural_JJ features_NNS ,_, the_DT entire_JJ valley_NN may_MD be_VB tilted_JJ upstream_RB or_CC downstream_JJ or_CC the_DT tilting_VBG may_MD be_VB across_IN the_DT valley_NN toward_IN either_DT side_NN of_IN the_DT floodplain_NN (_( Figure_NN 2.1_CD J_NNP ,_, K_NNP ,_, L_NNP )_) ._. 
+The_DT possibilities_NNS are_VBP great_JJ ,_, but_CC in_IN reality_NN the_DT result_NN will_MD be_VB local_JJ steepening_VBG or_CC reduction_NN of_IN gradient_NN or_CC cross_JJ -_- valley_NN tilting_VBG ._. 
+
+Streams_NNP respond_VBP to_TO vertical_JJ displacement_NN along_IN faults_NNS (_( Figure_NN 2.1_CD B_NNP and_CC C_NNP )_) by_IN aggradation_NN or_CC degradation_NN ._. 
+When_WRB the_DT displacement_NN produces_VBZ a_DT channel_NN segment_NN steeper_JJR than_IN the_DT original_JJ stream_NN gradient_NN (_( Figure_NN 2.1_CD B_NNP )_) ,_, erosion_NN will_MD be_VB initiated_VBN in_IN this_DT reach_NN ._. 
+When_WRB the_DT displacement_NN produces_VBZ a_DT channel_NN segment_NN of_IN lower_JJR elevation_NN or_CC gradient_NN than_IN the_DT original_JJ stream_NN (_( Figure_NN 2.1_CD C_NNP )_) ,_, aggradation_NN will_MD occur_VB ._. 
+Even_RB small_JJ displacements_NNS may_MD be_VB sufficient_JJ to_TO induce_VB aggradation_NN or_CC degradation_NN of_IN large_JJ streams_NNS ._. 
+If_IN the_DT displacement_NN forms_VBZ a_DT dam_NN (_( Figure_NN 2.1_CD C_NNP )_) ,_, the_DT stream_NN will_MD be_VB blocked_VBN ,_, and_CC it_PRP will_MD flow_VB along_IN the_DT fault_NN or_CC form_VB a_DT lake_NN ._. 
+Wallace_NNP (_( 1968_CD )_) mentioned_VBN that_IN even_RB a_DT few_JJ inches_NNS of_IN vertical_JJ upthrow_NN along_IN the_DT downstream_JJ side_NN of_IN a_DT fault_NN can_MD produce_VB a_DT dam_NN across_IN a_DT small_JJ stream_NN ,_, which_WDT can_MD divert_VB its_PRP$ course_NN ._. 
+
+NULL_NNP 
+Figure_NN 2.1_CD Surface_NNP deformation_NN by_IN faulting_VBG ,_, folding_VBG ,_, and_CC lateral_NN tilting_VBG ._. Plan_NN view_NN on_IN left_VBD ;_: cross_JJ -_- section_NN on_IN right_NN (_( from_IN Ouchi_NNP ,_, 1983_CD )_) small_JJ arrows_NNS indicate_VBP direction_NN of_IN flow_NN ._. 
+Large_JJ arrows_NNS indicate_VBP direction_NN of_IN movement_NN ._. 
+The_DT displacement_NN in_IN each_DT case_NN is_VBZ greatly_RB exaggerated_JJ ._. 
+
+Horst_NNP and_CC graben_NN (_( Figure_NN 2.1_CD D_NNP and_CC E_NNP )_) combine_VB two_CD different_JJ types_NNS of_IN vertical_JJ displacement_NN (_( Figure_NN 2.1_CD B_NNP and_CC C_NNP )_) ._. 
+There_EX will_MD be_VB aggradation_NN upstream_RB from_IN the_DT horst_NN ,_, and_CC degradation_NN ,_, which_WDT will_MD migrate_VB upstream_RB ,_, on_IN the_DT downstream_JJ part_NN of_IN the_DT horst_NN ._. 
+Reduced_NNP sediment_NN supply_NN because_IN of_IN aggradation_NN upstream_RB will_MD enhance_VB the_DT downstream_JJ degradation_NN ._. 
+Upstream_NNP of_IN the_DT graben_NN ,_, there_EX will_MD be_VB degradation_NN and_CC aggradation_NN in_IN the_DT graben_NN itself_PRP ._. 
+A_DT river_NN in_IN such_JJ a_DT location_NN will_MD be_VB unstable_JJ ,_, as_IN Cartier_NNP and_CC Alt_NNP (_( 1982_CD )_) suggested_VBD for_IN the_DT Bitterroot_NNP River_NNP in_IN Montana_NNP ._. 
+
+The_DT type_NN of_IN folding_VBG (_( Figure_NN 2.1_CD )_) will_MD affect_VB a_DT river_NN similar_JJ to_TO the_DT various_JJ types_NNS of_IN faulting_VBG ,_, but_CC changes_NNS will_MD probably_RB be_VB less_RBR abrupt_JJ ._. 
+The_DT effects_NNS of_IN tilting_VBG will_MD depend_VB upon_IN the_DT amount_NN ,_, but_CC in_IN the_DT simplest_JJS case_NN ,_, steepening_VBG of_IN a_DT valley_NN will_MD cause_VB degradation_NN (_( Figure_NN 2.1_CD K_NNP )_) and_CC a_DT reverse_NN tilt_NN (_( Figure_NN 2.1_CD L_NNP )_) will_MD cause_VB deposition_NN ._. 
+Lateral_NNP tilting_VBG will_MD cause_VB channel_NN shift_NN downdip_NN (_( Figure_NN 2.1_CD J_NNP )_) or_CC avulsion_NN ._. 
+
+Figure_NN 2.1_CD shows_VBZ only_RB simple_JJ ,_, but_CC exaggerated_JJ cases_NNS ,_, whereas_IN actual_JJ displacements_NNS can_MD be_VB more_RBR complicated_JJ ._. 
+For_IN example_NN ,_, faults_NNS can_MD take_VB any_DT angle_NN from_IN parallel_JJ to_TO perpendicular_NN to_TO river_NN flow_NN direction_NN ._. 
+Fault_NNP displacements_NNS of_IN the_DT surface_NN at_IN the_DT time_NN of_IN an_DT earthquake_NN are_VBP obvious_JJ ,_, and_CC its_PRP$ influence_NN on_IN alluvial_JJ rivers_NNS can_MD be_VB observed_VBN ._. 
+For_IN example_NN ,_, small_JJ stream_NN channels_NNS have_VBP been_VBN offset_VBN by_IN strike_NN -_- slip_NN movement_NN (_( Figures_NNS 1.8_CD ,_, 2.1_CD A_DT )_) of_IN the_DT San_NNP Andreas_NNP fault_NN ._. 
+Wallace_NNP (_( 1968_CD )_) pointed_VBD out_RP that_IN the_DT offset_VBN of_IN a_DT stream_NN channel_NN depends_VBZ on_IN the_DT relative_JJ rates_NNS of_IN fluvial_NN and_CC tectonic_JJ processes_NNS ._. 
+The_DT main_JJ reason_NN why_WRB channel_NN offset_VBN caused_VBN by_IN the_DT San_NNP Andreas_NNP fault_NN is_VBZ clear_JJ is_VBZ the_DT extremely_RB high_JJ rate_NN of_IN displacement_NN along_IN the_DT fault_NN (_( 20.3_CD mm_NN /_NN year_NN ,_, Brown_NNP and_CC Wallace_NNP ,_, 1968_CD )_) and_CC the_DT relatively_RB small_JJ size_NN of_IN streams_NNS crossing_VBG and_CC flowing_VBG along_RB the_DT fault_NN ._. 
+While_IN fault_NN displacements_NNS are_VBP obvious_JJ ,_, movements_NNS of_IN the_DT land_NN surface_NN by_IN folding_VBG can_MD be_VB slow_JJ ._. 
+However_RB ,_, this_DT type_NN of_IN deformation_NN can_MD also_RB be_VB an_DT important_JJ influence_NN on_IN river_NN behavior_NN ._. 
+For_IN example_NN ,_, concentration_NN of_IN erosion_NN along_IN only_RB one_CD river_NN bank_NN can_MD be_VB the_DT result_NN of_IN lateral_NN tilt_NN (_( Jefferson_NNP ,_, 1907_CD ;_: Nanson_NNP ,_, 1980_CD a_SYM ;_: Leeder_NNP and_CC Alexander_NNP ,_, 1987_CD )_) ._. 
+
+Types_NNP of_IN alluvial_JJ rivers_NNS It_PRP is_VBZ apparent_JJ that_IN different_JJ types_NNS of_IN alluvial_JJ channels_NNS will_MD respond_VB differently_RB to_TO deformation_NN ;_: therefore_RB ,_, their_PRP$ characteristics_NNS must_MD be_VB reviewed_VBN before_IN their_PRP$ response_NN can_MD be_VB evaluated_VBN ._. 
+This_DT can_MD best_JJS be_VB done_VBN by_IN discussing_VBG a_DT simple_JJ classification_NN of_IN alluvial_JJ channels_NNS that_WDT is_VBZ based_VBN on_IN type_NN of_IN sediment_NN load_NN and_CC pattern_NN ._. 
+
+Five_CD basic_JJ channel_NN patterns_NNS exist_VBP (_( Figure_NN 2.2_CD )_) :_: (_( 1_CD )_) straight_JJ channels_NNS with_IN either_DT migrating_VBG sand_NN waves_NNS ;_: or_CC (_( 2_CD )_) with_IN migrating_VBG alternate_JJ bars_NNS forming_VBG a_DT sinuous_JJ thalweg_NN ;_: (_( 3_CD )_) two_CD types_NNS of_IN meandering_VBG channels_NNS ,_, a_DT highly_RB sinuous_JJ channel_NN of_IN equal_JJ width_NN (_( pattern_NN 3_CD a_DT )_) and_CC channels_NNS that_WDT are_VBP wider_JJR at_IN bends_NNS than_IN in_IN crossings_NNS (_( pattern_NN 3_CD b_SYM )_) ;_: (_( 4_CD )_) the_DT meandering_JJ –_- braided_JJ transition_NN ;_: and_CC (_( 5_CD )_) a_DT typical_JJ braided_JJ stream_NN ._. 
+The_DT relative_JJ stability_NN of_IN these_DT channels_NNS in_IN terms_NNS of_IN their_PRP$ normal_JJ erosional_NN activity_NN and_CC the_DT shape_NN and_CC gradient_NN of_IN the_DT channels_NNS ,_, as_IN related_VBN to_TO relative_JJ sediment_NN size_NN ,_, load_NN ,_, velocity_NN of_IN flow_NN ,_, and_CC stream_NN power_NN ,_, are_VBP also_RB indicated_VBN in_IN Figure_NN 2.2_CD ._. 
+It_PRP has_VBZ been_VBN possible_JJ to_TO develop_VB these_DT patterns_NNS experimentally_RB by_IN varying_VBG the_DT gradient_NN ,_, sediment_NN load_NN ,_, stream_NN power_NN ,_, and_CC the_DT type_NN of_IN sediment_NN load_NN transported_VBN by_IN the_DT channel_NN (_( Schumm_NNP and_CC Kahn_NNP ,_, 1972_CD )_) ._. 
+Therefore_RB ,_, alluvial_JJ channels_NNS have_VBP also_RB been_VBN classified_VBN according_VBG to_TO the_DT type_NN of_IN sediment_NN load_NN moving_VBG through_IN the_DT channels_NNS ,_, as_IN suspended_JJ -_- load_NN ,_, mixed_JJ -_- load_NN ,_, and_CC bed_NN -_- load_NN channels_NNS (_( Figure_NN 2.2_CD )_) ._. 
+Water_NNP discharge_NN determines_VBZ the_DT dimensions_NNS of_IN the_DT channel_NN (_( width_NN ,_, depth_NN ,_, meander_NN dimensions_NNS )_) ,_, but_CC the_DT relative_JJ proportions_NNS of_IN bed_NN load_NN (_( sand_NN and_CC gravel_NN )_) and_CC suspended_VBN load_NN (_( silts_NNS and_CC clays_NNS )_) determine_VB not_RB only_RB the_DT shape_NN of_IN the_DT channel_NN but_CC width_NN –_- depth_NN ratio_NN and_CC channel_NN pattern_NN ._. 
+A_DT suspended_JJ -_- load_NN channel_NN has_VBZ been_VBN defined_VBN as_IN one_CD that_WDT transports_VBZ less_JJR than_IN 3_CD percent_NN bed_NN load_NN and_CC a_DT bed_NN -_- load_NN channel_NN as_IN one_CD transporting_VBG more_JJR than_IN 11_CD percent_NN bed_NN load_NN (_( Schumm_NNP ,_, 1977_CD )_) ._. 
+The_DT mixed_JJ -_- load_NN channel_NN lies_VBZ between_IN these_DT two_CD (_( Figure_NN 2.2_CD )_) ._. 
+
+NULL_NNP 
+Figure_NN 2.2_CD Channel_NNP classification_NN based_VBN on_IN pattern_NN and_CC type_NN of_IN sediment_NN load_NN with_IN associated_VBN variables_NNS and_CC relative_JJ stability_NN indicated_VBD (_( Schumm_NNP ,_, 1981_CD )_) ._. 
+Alluvial_NNP rivers_NNS that_WDT transport_NN clay_NN ,_, silt_NN ,_, sand_NN ,_, and_CC gravel_NN ,_, can_MD be_VB placed_VBN within_IN these_DT three_CD general_JJ categories_NNS ._. 
+However_RB ,_, within_IN the_DT meandering_JJ -_- stream_NN group_NN there_EX is_VBZ considerable_JJ range_NN of_IN sinuosity_NN (_( 1.25_CD to_TO 3.0_CD )_) ._. 
+In_IN addition_NN ,_, in_IN the_DT braided_JJ -_- stream_NN category_NN ,_, there_EX are_VBP bar_NN -_- braided_JJ and_CC island_NN -_- braided_JJ channels_NNS (_( islands_NNS are_VBP vegetated_JJ bars_NNS )_) ._. 
+
+Figure_NN 2.2_CD suggests_VBZ that_IN the_DT range_NN of_IN channels_NNS from_IN straight_JJ to_TO braided_JJ forms_VBZ a_DT continuum_NN ,_, but_CC experimental_JJ work_NN and_CC field_NN studies_NNS have_VBP indicated_VBN that_IN the_DT changes_NNS of_IN pattern_NN between_IN braided_JJ ,_, meandering_VBG ,_, and_CC straight_JJ ,_, occur_VB relatively_RB abruptly_RB at_IN river_NN -_- pattern_NN thresholds_NNS (_( Figure_NN 2.3_CD )_) ._. 
+The_DT pattern_NN changes_NNS take_VBP place_NN at_IN critical_JJ values_NNS of_IN stream_NN power_NN ,_, gradient_NN ,_, and_CC sediment_NN load_NN (_( Schumm_NNP and_CC Kahn_NNP ,_, 1972_CD )_) ._. 
+
+NULL_NNP 
+Figure_NN 2.3_CD Relation_NNP between_IN flume_NN slope_NN and_CC sinuosity_NN during_IN experiments_NNS at_IN constant_JJ water_NN discharge_NN ._. Sediment_NNP load_NN ,_, stream_NN power_NN ,_, velocity_NN increase_NN with_IN flume_NN slope_NN and_CC a_DT similar_JJ relation_NN can_MD be_VB developed_VBN with_IN these_DT variables_NNS (_( from_IN Schumm_NNP and_CC Khan_NNP ,_, 1972_CD )_) ._. 
+
+Although_IN the_DT five_CD patterns_NNS of_IN Figure_NN 2.2_CD involve_VB all_DT three_CD river_NN types_NNS ,_, there_EX are_VBP five_CD basic_JJ bed_NN -_- load_NN channel_NN patterns_NNS (_( Figure_NN 2.4_CD A_DT )_) that_WDT have_VBP been_VBN recognized_VBN during_IN experimental_JJ studies_NNS of_IN channel_NN patterns_NNS (_( Schumm_NNP ,_, 1977_CD ,_, p._NN 158_CD )_) ._. 
+These_DT five_CD basic_JJ bed_NN -_- load_NN channel_NN patterns_NNS can_MD be_VB extended_VBN to_TO mixed_JJ -_- load_NN and_CC suspended_JJ -_- load_NN channels_NNS to_TO produce_VB 13_CD river_NN patterns_NNS (_( Figure_NN 2.4_CD )_) ._. 
+Patterns_NNS 1_CD –_NN 5_CD are_VBP bed_NN -_- load_NN channel_NN patterns_NNS ,_, patterns_NNS 6_CD –_- 10_CD are_VBP mixed_JJ -_- load_NN _NN channel_NN patterns_NNS ,_, and_CC patterns_NNS 11_CD –_- 13_CD are_VBP suspended_JJ -_- load_NN channel_NN patterns_NNS ._. 
+Figure_NN 2.4_CD attempts_NNS to_TO show_VB sinuosity_NN differences_NNS and_CC how_WRB the_DT pattern_NN thresholds_NNS change_VBP with_IN increasing_VBG valley_NN slope_NN ,_, stream_NN power_NN and_CC sediment_NN load_NN for_IN each_DT channel_NN type_NN ._. 
+The_DT three_CD major_JJ river_NN types_NNS are_VBP controlled_VBN by_IN type_NN of_IN sediment_NN load_NN ,_, but_CC within_IN each_DT type_NN ,_, the_DT different_JJ patterns_NNS reflect_VBP increased_VBN valley_NN slope_NN ,_, sediment_NN load_NN ,_, and_CC stream_NN power_NN ._. 
+
+The_DT different_JJ bed_NN -_- load_NN channel_NN patterns_NNS (_( Figure_NN 2.4_CD )_) can_MD be_VB described_VBN as_IN follows_VBZ :_: Pattern_NNP 1_CD ,_, straight_JJ ,_, essentially_RB equal_JJ -_- width_NN channel_NN with_IN migrating_VBG sand_NN waves_NNS ._. 
+Pattern_NNP 2_CD ,_, alternate_JJ -_- bar_NN channel_NN with_IN migrating_VBG side_NN or_CC alternate_JJ bars_NNS and_CC a_DT slightly_RB sinuous_JJ thalweg_NN ;_: Pattern_NNP 3_CD ,_, low_JJ -_- sinuosity_NN meandering_VBG channel_NN with_IN large_JJ alternate_JJ bars_NNS that_WDT develop_VBP chutes_NNS ;_: Pattern_NNP 4_CD ,_, transitional_JJ meandering_JJ -_- thalweg_NN braided_JJ channel_NN ._. 
+The_DT large_JJ alternate_JJ bars_NNS or_CC point_NN bars_NNS have_VBP been_VBN dissected_VBN by_IN chutes_NNS ,_, but_CC a_DT meandering_VBG thalweg_NN can_MD be_VB identified_VBN ._. 
+Pattern_NNP 5_CD is_VBZ a_DT typical_JJ bar_NN -_- braided_JJ channel_NN ._. 
+
+As_IN compared_VBN to_TO the_DT bed_NN -_- load_NN channels_NNS ,_, the_DT five_CD mixed_JJ -_- load_NN channels_NNS (_( Figure_NN 2.4_CD B_NNP )_) are_VBP relatively_RB narrower_JJR and_CC deeper_JJR ,_, and_CC there_EX is_VBZ greater_JJR bank_NN stability_NN ._. 
+The_DT higher_JJR degree_NN of_IN bank_NN stability_NN permits_VBZ the_DT maintenance_NN of_IN narrow_JJ ,_, deep_JJ ,_, straight_JJ channels_NNS (_( Pattern_NNP 6_CD )_) ,_, and_CC alternate_JJ bars_NNS stabilize_VBP because_IN of_IN the_DT finer_NN sediments_NNS to_TO form_VB slightly_RB sinuous_JJ channels_NNS (_( Pattern_NNP 7_CD )_) ._. 
+Pattern_NNP 8_CD is_VBZ a_DT truly_RB meandering_VBG channel_NN ,_, wide_JJ on_IN the_DT bends_NNS ,_, relatively_RB narrow_JJ at_IN the_DT crossings_NNS ,_, and_CC subject_JJ to_TO chute_NN cutoffs_NNS ._. 
+Pattern_NNP 9_CD maintains_VBZ the_DT sinuosity_NN of_IN a_DT meandering_VBG channel_NN ,_, but_CC with_IN a_DT greater_JJR sediment_NN transport_NN the_DT presence_NN of_IN bars_NNS gives_VBZ it_PRP a_DT composite_JJ sinuous_JJ -_- braided_JJ appearance_NN ._. 
+Pattern_NNP 10_CD is_VBZ a_DT braided_JJ channel_NN that_WDT is_VBZ relatively_RB more_RBR stable_JJ than_IN that_DT of_IN bed_NN -_- load_NN channel_NN 5_CD ,_, and_CC it_PRP is_VBZ likely_JJ to_TO be_VB island_NN -_- braided_JJ ._. 
+
+NULL_NNP 
+Figure_NN 2.4_CD The_DT range_NN of_IN alluvial_JJ channel_NN patterns_NNS for_IN the_DT three_CD channel_NN types_NNS :_: (_( A_DT )_) bed_NN -_- load_NN channel_NN patterns_NNS ,_, (_( B_NNP )_) mixed_JJ -_- load_NN channel_NN patterns_NNS ,_, (_( C_NNP )_) suspended_JJ -_- load_NN channel_NN patterns_NNS (_( from_IN Schumm_NNP ,_, 1981_CD )_) ._. 
+Suspended_JJ -_- load_NN channels_NNS (_( Figure_NN 2.4_CD C_NNP )_) are_VBP narrow_JJ and_CC deeper_JJR than_IN mixed_JJ -_- load_NN channels_NNS ._. 
+Suspended_NNP load_NN Pattern_NNP 11_CD is_VBZ a_DT straight_JJ ,_, narrow_JJ ,_, deep_JJ channel_NN ._. 
+With_IN only_RB small_JJ quantities_NNS of_IN bed_NN load_NN ,_, this_DT type_NN of_IN channel_NN may_MD have_VB the_DT highest_JJS sinuosity_NN of_IN all_DT (_( Patterns_NNS 12_CD and_CC 13_CD )_) ._. 
+
+Rivers_NNP may_MD undergo_VB a_DT metamorphosis_NNS during_IN which_WDT the_DT channel_NN morphology_NN changes_NNS completely_RB ._. 
+That_DT is_VBZ ,_, a_DT suspended_JJ -_- load_NN channel_NN (_( Pattern_NNP 12_CD )_) could_MD become_VB braided_JJ (_( Pattern_NNP 5_CD )_) ,_, or_CC a_DT braided_JJ channel_NN (_( Pattern_NNP 5_CD )_) could_MD become_VB meandering_VBG (_( Pattern_NNP 8_CD or_CC 12_CD )_) ,_, etc._NN 
+,_, when_WRB there_EX is_VBZ a_DT sufficiently_RB great_JJ change_NN in_IN the_DT type_NN of_IN sediment_NN load_NN transported_VBN through_IN that_DT channel_NN ._. 
+Therefore_RB ,_, the_DT change_NN from_IN one_CD type_NN of_IN channel_NN pattern_NN to_TO another_DT may_MD be_VB relatively_RB common_JJ ,_, as_IN the_DT nature_NN of_IN the_DT sediment_NN moved_VBD through_IN the_DT system_NN changes_NNS and_CC this_DT may_MD be_VB the_DT effect_NN of_IN tributary_JJ sediment_NN contributions_NNS ,_, or_CC upstream_RB degradation_NN or_CC aggradation_NN or_CC tectonics_NNS ._. 
+
+There_EX is_VBZ an_DT additional_JJ channel_NN pattern_NN that_IN spans_NNS the_DT range_NN of_IN stream_NN types_NNS of_IN Figure_NN 2.4_CD ._. 
+This_DT is_VBZ the_DT anastomosing_VBG pattern_NN of_IN branching_VBG and_CC rejoining_VBG channel_NN segments_NNS (_( Schumm_NNP et_CC al._NN ,_, 1996_CD )_) ._. 
+The_DT channel_NN segments_NNS can_MD be_VB straight_JJ ,_, meandering_VBG ,_, or_CC braided_JJ ,_, and_CC they_PRP appear_VBP to_TO span_NN the_DT range_NN of_IN channel_NN types_NNS ._. 
+Anastomosing_NNP or_CC anabranching_VBG channels_NNS differ_VBP from_IN braided_JJ channels_NNS because_IN they_PRP are_VBP composed_VBN of_IN multiple_JJ channels_NNS that_WDT are_VBP separated_VBN by_IN a_DT floodplain_NN (_( Figure_NN 2.5_CD )_) ,_, whereas_IN braided_JJ channels_NNS have_VBP multiple_JJ thalwegs_NNS in_IN a_DT single_JJ channel_NN ._. 
+Knighton_NNP and_CC Nanson_NNP (_( 1993_CD )_) and_CC Richards_NNP et_CC al._NN (_( 1993_CD )_) suggest_VBP that_IN this_DT pattern_NN is_VBZ transitioned_JJ to_TO a_DT single_JJ channel_NN because_IN anastomosing_VBG rivers_NNS appear_VBP to_TO be_VB associated_VBN with_IN partly_RB blocked_VBN valleys_NNS (_( Smith_NNP and_CC Smith_NNP ,_, 1980_CD )_) and_CC tectonic_JJ uplift_NN (_( Gregory_NNP and_CC Schumm_NNP ,_, 1987_CD )_) ._. 
+Reduced_NNP gradient_NN from_IN whatever_WDT cause_VBP appears_VBZ to_TO be_VB important_JJ ,_, and_CC therefore_RB ,_, anastomosing_VBG reaches_NNS of_IN a_DT river_NN can_MD be_VB evidence_NN of_IN tectonic_JJ activity_NN ._. 
+
+Evidence_NN of_IN deformation_NN The_DT first_JJ geomorphic_JJ clues_NNS of_IN active_JJ tectonics_NNS may_MD be_VB tectonic_JJ landforms_NNS that_WDT result_NN from_IN long_JJ -_- continued_JJ deformation_NN such_JJ as_IN modified_VBN drainage_NN networks_NNS and_CC deformed_VBN sets_NNS of_IN terraces_NNS ._. 
+These_DT obvious_JJ features_NNS are_VBP in_IN contrast_NN to_TO the_DT more_RBR subtle_JJ changes_NNS of_IN alluvial_JJ rivers_NNS ._. 
+
+Drainage_NNP networks_NNS The_DT arrangement_NN of_IN streams_NNS and_CC tributaries_NNS into_IN a_DT drainage_NN network_NN is_VBZ affected_VBN by_IN the_DT regional_JJ slope_NN of_IN the_DT surface_NN on_IN which_WDT the_DT pattern_NN develops_VBZ ,_, climate_NN ,_, and_CC the_DT erodibility_NN of_IN the_DT surface_NN material_NN ._. 
+Local_JJ variations_NNS in_IN both_DT slope_NN and_CC materials_NNS will_MD cause_VB variations_NNS in_IN the_DT drainage_NN pattern_NN (_( Figure_NN 1.2_CD )_) ._. 
+For_IN example_NN ,_, experimental_JJ studies_NNS demonstrated_VBN that_IN parallel_JJ drainage_NN patterns_NNS form_VBP on_IN slopes_NNS greater_JJR than_IN about_IN 2.5_CD percent_NN ,_, whereas_IN dendritic_JJ patterns_NNS form_VBP on_IN gentler_JJR slopes_NNS (_( Phillips_NNP and_CC Schumm_NNP ,_, 1987_CD )_) ._. 
+
+NULL_NNP 
+Figure_NN 2.5_CD Map_NNP of_IN anastomosing_VBG channels_NNS of_IN Ovens_NNP and_CC King_NNP Rivers_NNP ._. Numbers_NNPS indicate_VBP relative_JJ ages_NNS of_IN channels_NNS and_CC reaches_NNS of_IN channels_NNS from_IN youngest_JJS (_( 1_CD )_) to_TO oldest_JJS (_( 4_CD )_) (_( from_IN Schumm_NNP et_CC al._NN ,_, 1996_CD )_) ._. 
+
+Local_JJ variations_NNS in_IN regional_JJ surface_NN slope_NN can_MD cause_VB anomalous_JJ drainage_NN patterns_NNS ._. 
+A_DT topographic_JJ high_RB caused_VBN by_IN active_JJ uplift_NN ,_, will_MD cause_VB a_DT deflection_NN of_IN portions_NNS of_IN the_DT drainage_NN pattern_NN ._. 
+For_IN instance_NN ,_, on_IN the_DT upslope_NN side_NN of_IN an_DT uplift_NN the_DT local_JJ surface_NN slope_NN will_MD be_VB opposite_JJ that_IN of_IN the_DT regional_JJ slope_NN ._. 
+This_DT can_MD cause_VB portions_NNS of_IN the_DT drainage_NN pattern_NN to_TO develop_VB in_IN a_DT direction_NN opposite_JJ to_TO that_DT of_IN the_DT drainage_NN network_NN ._. 
+An_DT uplift_NN may_MD also_RB deflect_VB portions_NNS of_IN the_DT drainage_NN from_IN the_DT general_JJ direction_NN of_IN the_DT regional_JJ slope_NN (_( Figure_NN 2.6_CD )_) ._. 
+As_IN the_DT major_JJ streams_NNS are_VBP deflected_VBD away_RB from_IN the_DT uplift_NN ,_, tributaries_NNS on_IN one_CD side_NN will_MD be_VB lengthened_VBN and_CC those_DT on_IN the_DT other_JJ side_NN will_MD be_VB shortened_VBN ._. 
+
+Changes_NNS of_IN an_DT entire_JJ drainage_NN network_NN ,_, as_IN a_DT result_NN of_IN tilting_VBG ,_, are_VBP described_VBN by_IN Sparling_NNP (_( 1967_CD )_) who_WP notes_VBZ that_IN isostatic_JJ adjustment_NN in_IN Ottawa_NNP County_NNP ,_, Ohio_NNP has_VBZ increased_VBN the_DT gradient_NN of_IN some_DT streams_NNS and_CC decreased_VBD the_DT gradient_NN of_IN others_NNS ._. 
+Incision_NNP of_IN the_DT steepened_JJ streams_NNS permitted_VBD them_PRP to_TO capture_VB the_DT streams_NNS that_WDT were_VBD aggrading_VBG as_IN a_DT result_NN of_IN reduced_VBN gradient_NN ._. 
+Russell_NNP (_( 1939_CD )_) described_VBD various_JJ drainage_NN patterns_NNS found_VBD in_IN the_DT flat_JJ alluvial_JJ lands_NNS of_IN Louisiana_NNP ,_, and_CC he_PRP recognized_VBD a_DT network_NN pattern_NN of_IN poorly_RB developed_VBN drainage_NN channels_NNS that_WDT was_VBD converted_VBN to_TO a_DT dendritic_JJ pattern_NN ,_, as_IN a_DT result_NN of_IN tilting_VBG and_CC steepening_VBG of_IN the_DT gradient_NN ._. 
+
+NULL_NNP 
+Figure_NN 2.6_CD Drainage_NNP pattern_NN modified_VBN by_IN uplift_NN ._. 
+Price_NNP and_CC Whetstone_NNP (_( 1977_CD )_) used_VBN asymmetric_JJ river_NN and_CC valley_NN cross_JJ -_- section_NN profiles_NNS ,_, as_IN evidence_NN for_IN movement_NN along_IN the_DT Chattahoochee_NNP Embayment_NNP in_IN Florida_NNP ._. 
+Subsidence_NNP caused_VBD southward_NN migration_NN of_IN east–west_NN flowing_VBG channels_NNS ._. 
+South_JJ -_- flowing_JJ streams_NNS exhibit_NN paired_VBN terraces_NNS while_IN east–west_NN trending_VBG streams_NNS contain_VBP extensive_JJ terraces_NNS on_IN the_DT northern_JJ side_NN with_IN few_JJ or_CC no_DT terraces_NNS on_IN the_DT steeper_JJR southern_JJ margin_NN ._. 
+Subsidence_NNP in_IN the_DT Chattahoochee_NNP Embayment_NNP and_CC adjacent_JJ warping_VBG along_RB the_DT Chattahoochee_NNP Uplift_NNP resulted_VBD in_IN asymmetrical_JJ incision_NN along_IN the_DT Chattahoochee_NNP River_NNP ._. 
+
+Long_JJ -_- continued_JJ tilting_VBG in_IN a_DT cross_JJ -_- valley_NN direction_NN will_MD cause_VB lateral_NN erosion_NN and_CC the_DT development_NN of_IN an_DT asymmetrical_JJ valley_NN and_CC drainage_NN network_NN ._. 
+Muehlberger_NNP (_( 1979_CD )_) noted_VBD this_DT type_NN of_IN asymmetry_NN in_IN an_DT area_NN near_IN Taos_NNP ,_, New_NNP Mexico_NNP (_( Figure_NN 2.7_CD )_) ._. 
+Using_VBG 71_CD ⁄_NN minute_NN U.S._NNP Geological_NNP Survey_NNP topographic_JJ 
+2_CD maps_NNS ,_, he_PRP described_VBD this_DT asymmetry_NN quantitatively_RB ._. 
+By_IN selecting_VBG a_DT contour_NN on_IN the_DT valley_NN wall_NN and_CC measuring_VBG the_DT distance_NN from_IN the_DT stream_NN to_TO this_DT contour_NN in_IN a_DT down_IN -_- tilt_NN direction_NN (_( Dd_NNP )_) and_CC in_IN the_DT opposite_NN ,_, uptilt_NN direction_NN (_( Du_NNP )_) an_DT index_NN of_IN asymmetry_NN was_VBD developed_VBN (_( Dd_NNP /_NN Du_NNP )_) (_( Figure_NN 2.7_CD )_) ._. 
+The_DT index_NN for_IN 30_CD small_JJ drainage_NN basins_NNS was_VBD 0.6_CD indicating_VBG a_DT major_JJ displacement_NN of_IN the_DT main_JJ channel_NN in_IN a_DT down_IN -_- tilt_NN direction_NN ._. 
+Cox_NNP (_( 1994_CD )_) used_VBD a_DT somewhat_RB different_JJ index_NN to_TO demonstrate_VB tilting_VBG and_CC river_NN shift_NN in_IN the_DT southwestern_JJ Mississippi_NNP Embayment_NNP ._. 
+Other_JJ indices_NNS of_IN asymmetry_NN are_VBP described_VBN by_IN Keller_NNP and_CC Pinter_NNP (_( 1996_CD ,_, pp._NN 126_CD ,_, 127_CD )_) ._. 
+
+NULL_NNP 
+Figure_NN 2.7_CD Map_NNP of_IN asymmetrical_JJ stream_NN valleys_NNS in_IN the_DT vicinity_NN of_IN Taos_NNP ,_, New_NNP Mexico_NNP showing_VBG method_NN of_IN measuring_VBG distances_NNS used_VBN in_IN calculating_VBG index_NN of_IN asymmetry_NN (_( modified_VBN after_IN Muehlberger_NNP ,_, 1979_CD )_) ._. 
+
+Lake_NNP patterns_NNS Lakes_NNP are_VBP temporary_JJ features_NNS in_IN terms_NNS of_IN geological_JJ time_NN ,_, but_CC they_PRP can_MD be_VB clear_JJ evidence_NN of_IN deformation_NN ._. 
+They_PRP occur_VBP at_IN various_JJ scales_NNS ,_, along_IN primary_JJ or_CC secondary_JJ portions_NNS of_IN the_DT drainage_NN network_NN ,_, and_CC generally_RB disappear_VB as_IN erosion_NN and_CC deposition_NN occurs_VBZ through_IN time_NN ._. 
+They_PRP may_MD be_VB isolated_VBN ,_, but_CC they_PRP are_VBP more_RBR frequently_RB clustered_VBN in_IN a_DT specific_JJ area_NN ,_, or_CC they_PRP are_VBP aligned_VBN along_IN specific_JJ trends_NNS ._. 
+Isolated_NNP lakes_NNS are_VBP generally_RB due_JJ to_TO local_JJ events_NNS such_JJ as_IN landslides_NNS or_CC collapses_VBZ ,_, which_WDT form_VBP a_DT dam_NN ,_, but_CC clustered_VBN lakes_NNS are_VBP due_JJ to_TO regional_JJ processes_NNS ,_, which_WDT may_MD be_VB related_VBN to_TO climate_NN (_( or_CC paleoclimate_NN )_) ,_, neotectonic_JJ deformation_NN ,_, or_CC frequently_RB a_DT combination_NN of_IN these_DT processes_NNS ._. 
+
+Large_JJ lakes_NNS may_MD occupy_VB geological_JJ basins_NNS ,_, and_CC active_JJ tectonics_NNS is_VBZ partly_RB or_CC totally_RB involved_VBN in_IN their_PRP$ formation_NN ._. 
+Such_JJ lakes_NNS act_VBP as_IN drainage_NN collectors_NNS and_CC they_PRP can_MD occupy_VB various_JJ elevations_NNS ._. 
+The_DT Bolivian_NNP Altiplano_NNP lakes_NNS (_( Titicaca_NNP ,_, Popoo_NNP ,_, Uyuni_NNP )_) stand_VB at_IN an_DT elevation_NN of_IN around_IN 4000_CD m_NN and_CC are_VBP associated_VBN with_IN plate_NN convergence_NN and_CC uplift_NN ._. 
+Continental_NNP stretching_VBG and_CC transtensional_NN tectonics_NNS are_VBP favorable_JJ for_IN the_DT formation_NN of_IN basins_NNS and_CC tectonic_JJ lakes_NNS ._. 
+Often_RB the_DT relation_NN of_IN lakes_NNS to_TO faults_NNS is_VBZ obvious_JJ ,_, and_CC a_DT study_NN of_IN the_DT lake_NN pattern_NN is_VBZ not_RB necessary_JJ to_TO demonstrate_VB the_DT effect_NN of_IN tectonics_NNS ._. 
+(_( See_VB Chapter_NN 5_CD where_WRB Reelfoot_NNP Lake_NNP and_CC the_DT Mississippi_NNP valley_NN sunklands_NNS are_VBP described_VBN ;_: Figures_NNS 5.1_CD ,_, 5.2_CD )_) ._. 
+
+NULL_NNP 
+Figure_NN 2.8_CD Inferred_NNP fault_NN zone_NN in_IN the_DT area_NN of_IN the_DT Tupinambaranas_NNP ,_, in_IN the_DT Amazon_NNP Basin_NNP between_IN Obidos_NNP and_CC Manaus_NNP Brazil_NNP (_( modified_VBN after_IN Sternberg_NNP ,_, 1955_CD )_) ._. The_DT river_NN trace_VB and_CC ria_NN lakes_NNS suggest_VBP a_DT downward_JJ movement_NN along_IN the_DT same_JJ axis_NNS as_IN that_DT of_IN the_DT inferred_VBN fault_NN ._. 
+
+This_DT discussion_NN deals_NNS with_IN cases_NNS where_WRB specific_JJ lake_NN patterns_NNS ,_, (_( ria_NN lakes_NNS and_CC elongated_JJ lakes_NNS )_) ,_, are_VBP related_VBN to_TO active_JJ deformation_NN ._. 
+Most_JJS of_IN these_DT concepts_NNS are_VBP not_RB new_JJ ._. 
+For_IN example_NN ,_, the_DT significance_NN of_IN ria_NN lakes_NNS was_VBD identified_VBN more_JJR than_IN 30_CD years_NNS ago_RB ._. 
+
+Ria_NNP Lakes_NNP Dendritic_NNP ria_NN lakes_NNS occur_VBP at_IN the_DT lower_JJR part_NN of_IN a_DT tributary_JJ ,_, which_WDT is_VBZ blocked_VBN by_IN aggradation_NN along_IN the_DT trunk_NN river_NN (_( Holz_NNP et_CC al._NN ,_, 1979_CD )_) ._. 
+In_IN the_DT lower_JJR and_CC central_JJ parts_NNS of_IN the_DT Amazonian_JJ Basin_NNP the_DT formation_NN of_IN ria_NN lakes_NNS is_VBZ related_VBN to_TO post-glacial_JJ eustacy_NN (_( Irion_NNP ,_, 1984_CD )_) ._. 
+Some_DT of_IN these_DT lakes_NNS have_VBP a_DT “_NN knee_NN ”_NN pattern_NN superposed_JJ on_IN the_DT dendritic_JJ pattern_NN suggesting_VBG the_DT effect_NN of_IN active_JJ faulting_VBG through_IN a_DT thick_JJ sedimentary_JJ cover_NN (_( Sternberg_NNP ,_, 1950_CD ,_, 1955_CD ,_, Figure_NN 2.8_CD )_) ._. 
+
+NULL_NNP 
+Figure_NN 2.9_CD Structural_NNP scheme_NN of_IN the_DT Marañón_NNP Basin_NNP in_IN Peru_NNP ,_, composed_VBN of_IN the_DT Pastaza_NNP Basin_NNP and_CC the_DT Ucamara_NNP Depression_NNP ._. Stars_NNP show_NN the_DT location_NN of_IN the_DT main_JJ ria_NN lakes_NNS ,_, with_IN the_DT area_NN A_DT represented_VBD in_IN detail_NN ._. 
+The_DT contour_NN lines_NNS show_VBP the_DT isobath_NN of_IN the_DT pre-Jurassic_JJ basement_NN ,_, from_IN Sanz_NNP (_( 1974_CD )_) ._. 
+Section_NN along_IN X_NNP –_- Y_NNP in_IN the_DT lower_JJR part_NN of_IN the_DT figure_NN ,_, modified_VBN after_IN Laurent_NNP (_( 1985_CD )_) ._. 
+
+Reservoirs_NNP behind_IN dams_NNS take_VBP the_DT form_NN of_IN ria_NN lakes_NNS ._. 
+Clusters_NNP of_IN ria_NN lakes_NNS are_VBP observed_VBN along_IN large_JJ rivers_NNS in_IN the_DT western_JJ Marañón_NNP Basin_NNP and_CC in_IN the_DT central_JJ Ucayali_NNP Basin_NNP ,_, Peru_NNP (_( Räsänen_NNP et_CC al._NN ,_, 1987_CD ;_: Dumont_NNP ,_, 1993_CD )_) ._. 
+They_PRP are_VBP related_VBN to_TO active_JJ subsidence_NN of_IN the_DT back_NN side_NN of_IN piggy_NN back_RB or_CC thrust_NN faults_NNS ._. 
+Similar_JJ patterns_NNS are_VBP observed_VBN on_IN the_DT south_NN margin_NN of_IN the_DT Beni_NNP Basin_NNP (_( Dumont_NNP ,_, 1992_CD ;_: Dumont_NNP and_CC Guyot_NNP ,_, 1993_CD )_) ._. 
+
+An_DT elongated_JJ cluster_NN of_IN ria_NN lakes_NNS is_VBZ located_VBN along_IN the_DT lower_JJR Pastaza_NNP River_NNP and_CC the_DT Marañón_NNP River_NNP in_IN the_DT western_JJ part_NN of_IN the_DT Marañón_NNP Basin_NNP (_( Figure_NN 2.9_CD )_) ._. 
+This_DT cluster_NN is_VBZ superimposed_VBN over_IN the_DT structural_JJ axis_NNS of_IN the_DT basin_NN ,_, which_WDT trends_NNS toward_IN the_DT Ucamara_NNP Depression_NNP ._. 
+This_DT axis_NNS of_IN maximum_NN subsidence_NN of_IN the_DT basin_NN is_VBZ located_VBN in_IN front_NN of_IN the_DT Subandean_NNP Thrust_NNP and_CC Fault_NNP Belt_NNP (_( STFB_NNP )_) ._. 
+
+NULL_NNP 
+Figure_NN 2.10_CD Relative_NNP positions_NNS of_IN tectonic_JJ lakes_NNS in_IN the_DT Peruvian_JJ foreland_NN basins_NNS ._. Stars_NNP indicate_VBP location_NN of_IN clusters_NNS of_IN ria_NN lakes_NNS (_( modified_VBN after_IN Dumont_NNP ,_, 1996_CD )_) ._. 
+
+The_DT Pastaza_NNP depression_NN is_VBZ filled_VBN by_IN more_JJR than_IN 4_CD 500_CD m_NN of_IN Cretaceous_JJ and_CC Cenozoic_NNP sediments_NNS ,_, with_IN about_IN 500_CD m_NN of_IN Quaternary_NNP sediment_NN (_( Laurent_NNP ,_, 1985_CD )_) (_( Figure_NN 2.9_CD )_) ._. 
+No_DT ria_NN lakes_NNS are_VBP observed_VBN in_IN the_DT south_NN part_NN of_IN the_DT Marañón_NNP Basin_NNP (_( Ucamara_NNP Depression_NNP )_) ,_, but_CC ria_NN lakes_NNS occur_VBP again_RB in_IN the_DT Ucayali_NNP Basin_NNP of_IN Central_NNP Peru_NNP (_( Figure_NN 2.10_CD )_) ,_, a_DT piggy_JJ -_- back_RP basin_NN ._. 
+
+A_DT continental_JJ rift_NN generates_VBZ tilt_NN of_IN the_DT side_NN blocks_NNS in_IN opposite_JJ directions_NNS and_CC the_DT progressive_JJ tilting_VBG of_IN the_DT earth_NN ’_NN s_VBZ surface_NN can_MD significantly_RB modify_VB the_DT gradient_NN of_IN rivers_NNS ._. 
+For_IN example_NN ,_, Lake_NNP Victoria_NNP is_VBZ drained_VBN by_IN the_DT Victoria_NNP Nile_NNP which_WDT flows_NNS north_RB to_TO Lake_NNP Kyoga_NNP (_( Figure_NN 2.11_CD )_) ._. 
+Lake_NNP Kyoga_NNP and_CC Lake_NNP Kwania_NNP look_VB artificial_JJ ,_, but_CC they_PRP are_VBP not_RB the_DT result_NN of_IN dam_NN construction_NN ._. 
+They_PRP are_VBP ,_, in_IN fact_NN ,_, formed_VBN by_IN uplift_NN and_CC eastward_RB tilting_VBG of_IN western_JJ Uganda_NNP ._. 
+Flow_NNP in_IN the_DT Kafu_NNP River_NNP has_VBZ been_VBN reversed_VBN ,_, and_CC water_NN draining_VBG from_IN Lake_NNP Victoria_NNP has_VBZ found_VBN a_DT new_JJ course_NN to_TO the_DT north_NN ,_, where_WRB it_PRP flows_VBZ over_IN Murchison_NNP Falls_NNP and_CC into_IN Lake_NNP Albert_NNP ._. 
+The_DT geologically_RB recent_JJ derangement_NN of_IN these_DT drainage_NN systems_NNS is_VBZ the_DT result_NN of_IN uplift_NN that_WDT is_VBZ apparently_RB continuing_VBG at_IN the_DT present_JJ time_NN (_( Doornkamp_NNP and_CC Temple_NNP ,_, 1966_CD )_) ._. 
+
+NULL_NNP 
+Figure_NN 2.11_CD Lake_NNP Kyoga_NNP region_NN ,_, Uganda_NNP ._. Arrows_NNP show_NN flow_NN directions_NNS in_IN rivers_NNS ._. 
+Back_RB tilting_VBG explains_VBZ the_DT shape_NN of_IN Lake_NNP Kyoga_NNP and_CC Lake_NNP Kwania_NNP (_( modified_VBN after_IN Doornkamp_NNP and_CC Temple_NNP ,_, 1966_CD )_) ._. 
+
+Elongated_NNP lakes_NNS The_DT term_NN elongated_JJ lakes_NNS is_VBZ applied_VBN to_TO lakes_NNS that_WDT are_VBP long_JJ and_CC narrow_JJ ._. 
+These_DT lakes_NNS are_VBP superimposed_VBN over_IN basement_NN structures_NNS ._. 
+In_IN subsiding_VBG basins_NNS ,_, they_PRP are_VBP also_RB closely_RB related_VBN to_TO active_JJ tectonics_NNS ._. 
+
+The_DT Puinahua_NNP (_( 1324_CD km2_NN )_) and_CC Punga_NNP (_( 341_CD km2_NN )_) lakes_NNS are_VBP both_DT located_VBN in_IN the_DT south_NN part_NN of_IN the_DT Marañón_NNP Basin_NNP (_( Figure_NN 2.10_CD )_) ._. 
+They_PRP are_VBP long_JJ and_CC narrow_JJ and_CC wider_RBR on_IN the_DT foothill_NN side_NN than_IN on_IN the_DT craton_NN side_NN ._. 
+Punga_NNP Lake_NNP is_VBZ superimposed_VBN over_IN the_DT structure_NN of_IN the_DT Santa_NNP Elena_NNP uplift_NN (_( Dumont_NNP and_CC Garcia_NNP ,_, 1991_CD )_) ,_, which_WDT is_VBZ interpreted_VBN as_IN a_DT crystalline_JJ horst_NN surrounded_VBN by_IN Paleozoic_NNP sedimentary_JJ strata_NN (_( Laurent_NNP ,_, 1985_CD )_) ._. 
+The_DT NE_NNP elongation_NN of_IN the_DT lake_NN is_VBZ parallel_JJ to_TO a_DT few_JJ of_IN the_DT structural_JJ features_NNS mentioned_VBN by_IN Laurent_NNP (_( 1985_CD )_) ._. 
+Both_DT lakes_NNS are_VBP also_RB parallel_JJ to_TO the_DT strike_NN of_IN normal_JJ faulting_VBG with_IN a_DT NNW–SSE_NNP extension_NN in_IN the_DT upland_NN border_NN (_( Dumont_NNP et_CC al._NN ,_, 1988_CD )_) ._. 
+As_IN a_DT result_NN ,_, the_DT lakes_NNS are_VBP interpreted_VBN as_IN the_DT surface_NN expression_NN of_IN tensional_NN stress_NN superimposed_VBN over_IN reactivated_VBD basement_NN structures_NNS due_JJ to_TO the_DT onset_NN of_IN Andean_JJ tectonics_NNS (_( Dumont_NNP and_CC Garcia_NNP ,_, 1991_CD )_) ._. 
+
+More_RBR precise_JJ morphological_JJ evidence_NN of_IN active_JJ tectonics_NNS comes_VBZ from_IN the_DT Punga_NNP Lake_NNP ._. 
+According_VBG to_TO testimony_NN of_IN old_JJ settlers_NNS and_CC published_VBN travel_NN journals_NNS (_( Stiglish_NNP ,_, 1904_CD )_) the_DT area_NN was_VBD covered_VBN by_IN forest_NN ,_, that_WDT developed_VBD on_IN a_DT terrace_NN before_IN 1923_CD ._. 
+Then_RB the_DT region_NN began_VBD to_TO subside_NN ._. 
+The_DT tree_NN trunks_NNS of_IN the_DT drowned_VBN forest_NN are_VBP still_RB visible_JJ ,_, now_RB below_IN 2_CD m_NN of_IN water_NN during_IN low_JJ water_NN stages_NNS ._. 
+In_IN this_DT very_RB flat_JJ area_NN the_DT water_NN level_NN rises_VBZ about_IN 2_CD m_NN during_IN floods_NNS ,_, suggesting_VBG a_DT minimum_JJ subsidence_NN of_IN 4_CD m_NN over_IN about_IN 70_CD years_NNS ._. 
+A_DT tectonic_JJ interpretation_NN is_VBZ favored_VBN because_IN a_DT local_JJ rise_NN of_IN base_NN level_NN cannot_NN be_VB involved_VBN ._. 
+Only_RB a_DT downward_JJ motion_NN of_IN the_DT area_NN where_WRB the_DT lake_NN is_VBZ observed_VBN can_MD explain_VB the_DT phenomenon_NN ._. 
+These_DT lakes_NNS are_VBP related_VBN to_TO downdropped_JJ blocks_NNS that_WDT are_VBP related_VBN to_TO a_DT tensional_NN system_NN ._. 
+
+Terraces_NNP The_DT vertical_JJ warping_VBG of_IN terraces_NNS ,_, as_IN a_DT result_NN of_IN deformation_NN ,_, has_VBZ been_VBN studied_VBN by_IN numerous_JJ investigators_NNS (_( Machida_NNP ,_, 1960_CD ;_: Zuchiewicz_NNP ,_, 1980_CD ;_: King_NNP and_CC Stein_NNP ,_, 1983_CD )_) ._. 
+The_DT offset_VBN of_IN terraces_NNS by_IN lateral_NN faulting_VBG gives_VBZ a_DT clear_JJ indication_NN of_IN fault_NN movement_NN ._. 
+The_DT offset_VBN terraces_NNS at_IN the_DT mouth_NN of_IN the_DT Waiohine_NNP Gorge_NNP in_IN New_NNP Zealand_NNP shows_VBZ the_DT amount_NN of_IN displacement_NN and_CC the_DT episodic_JJ nature_NN of_IN the_DT displacement_NN (_( Figure_NN 2.12_CD )_) ._. 
+In_IN addition_NN to_TO river_NN terraces_NNS ,_, the_DT deformation_NN of_IN lake_NN terraces_NNS and_CC marine_JJ terraces_NNS (_( Keller_NNP and_CC Pinter_NNP ,_, 1996_CD )_) are_VBP proof_NN of_IN isostatic_JJ and_CC tectonic_JJ activity_NN because_IN they_PRP formed_VBD horizontally_RB at_IN a_DT given_VBN water_NN level_NN ._. 
+An_DT example_NN is_VBZ the_DT isostatic_JJ deformation_NN of_IN the_DT Pleistocene_NNP Lake_NNP Bonneville_NNP shorelines_NNS ,_, Utah_NNP (_( Crittenden_NNP ,_, 1963_CD )_) ._. 
+Portions_NNP of_IN the_DT Lake_NNP Bonneville_NNP shorelines_NNS have_VBP been_VBN deformed_VBN as_RB much_JJ as_IN 210_CD feet_NNS ,_, as_IN it_PRP drained_VBN and_CC evaporated_VBN to_TO form_VB Great_NNP Salt_NNP Lake_NNP ._. 
+In_IN addition_NN ,_, deformed_VBN marine_JJ terraces_NNS provide_VBP an_DT excellent_JJ indication_NN of_IN recent_JJ deformation_NN along_IN 440_CD km_NN of_IN the_DT Pacific_NNP Coast_NNP of_IN Baja_NNP ,_, California_NNP (_( Orme_NNP ,_, 1980_CD )_) ._. 
+Not_RB only_RB are_VBP terraces_NNS deformed_VBN ,_, but_CC as_IN an_DT uplift_NN is_VBZ crossed_VBN ,_, a_DT floodplain_NN can_MD be_VB converted_VBN to_TO a_DT low_JJ terrace_NN ._. 
+This_DT will_MD ,_, of_IN course_NN ,_, dramatically_RB alter_VB the_DT hydraulics_NNS and_CC hydrology_NN of_IN the_DT reach_NN ._. 
+
+In_IN addition_NN to_TO the_DT obvious_JJ evidence_NN of_IN deformation_NN described_VBD above_IN ,_, evidence_NN of_IN deformation_NN is_VBZ provided_VBN by_IN alluvial_JJ deposits_NNS and_CC paleosoils_NNS (_( Machette_NNP ,_, 1978_CD ;_: Keller_NNP et_CC al._NN ,_, 1982_CD ;_: Bull_NNP ,_, 1984_CD ;_: Rockwell_NNP et_CC al._NN ,_, 1984_CD ;_: Rockwell_NNP ,_, 1988_CD )_) by_IN variations_NNS in_IN gradients_NNS of_IN streams_NNS of_IN different_JJ orders_NNS (_( Merritts_NNP and_CC Vincent_NNP ,_, 1989_CD ;_: Merritts_NNP and_CC Hesterberg_NNP ,_, 1994_CD )_) and_CC by_IN variations_NNS of_IN valley_NN and_CC river_NN longitudinal_NN profiles_NNS (_( Volkov_NNP et_CC al._NN ,_, 1967_CD ;_: Seeber_NNP and_CC Gornitz_NNP ,_, 1983_CD )_) ._. 
+
+NULL_NNP 
+Figure_NN 2.12_CD Block_NNP diagram_NN of_IN the_DT displaced_VBN river_NN terraces_NNS at_IN the_DT mouth_NN of_IN the_DT Waiohine_NNP Gorge_NNP ,_, New_NNP Zealand_NNP ._. The_DT West_NNP Wairarapa_NNP Fault_NNP extends_VBZ from_IN bottom_NN left_VBD (_( southwest_JJS )_) to_TO top_VB right_NN (_( northeast_RB )_) and_CC has_VBZ cut_VBN and_CC moved_VBD successive_JJ river_NN terraces_NNS (_( I_NN =_SYM oldest_JJS terrace_NN ;_: VI_NNP =_SYM youngest_JJS terrace_NN )_) ._. 
+The_DT amount_NN (_( in_IN feet_NNS )_) each_DT terrace_NN has_VBZ been_VBN moved_VBN by_IN the_DT fault_NN is_VBZ indicated_VBN (_( H_NNP =_SYM amount_NN of_IN horizontal_NN movement_NN ;_: V_NNP =_SYM amount_NN of_IN vertical_JJ movement_NN )_) ._. 
+The_DT length_NN of_IN the_DT fault_NN shown_VBN on_IN the_DT diagram_NN is_VBZ about_IN 0.8_CD km_NN (_( 1/2_CD mile_NN )_) (_( modified_VBN after_IN Stevens_NNP ,_, 1974_CD )_) ._. 
+
+River_NN response_NN The_DT clearest_NN evidence_NN for_IN tectonic_JJ effects_NNS on_IN rivers_NNS are_VBP anomalous_JJ reaches_NNS that_DT show_NN dramatic_JJ changes_NNS of_IN pattern_NN trend_NN and_CC gradient_NN that_DT cannot_NN be_VB attributed_VBN to_TO other_JJ causes_NNS ._. 
+Structural_JJ geologists_NNS and_CC petroleum_NN geologists_NNS have_VBP known_VBN for_IN years_NNS that_IN rivers_NNS are_VBP strong_JJ indicators_NNS of_IN faulting_VBG (_( Lattman_NNP ,_, 1959_CD ;_: Howard_NNP ,_, 1967_CD )_) ._. 
+
+Tectonic_NNP activity_NN can_MD significantly_RB control_VB river_NN patterns_NNS and_CC behavior_NN ,_, and_CC this_DT is_VBZ especially_RB true_JJ of_IN alluvial_JJ rivers_NNS ._. 
+Neef_NNP (_( 1966_CD )_) and_CC Radulescu_NNP (_( 1962_CD )_) state_NN that_IN neotectonic_JJ movements_NNS can_MD be_VB reflected_VBN only_RB in_IN those_DT geomorphic_JJ features_NNS that_WDT react_VBP to_TO the_DT smallest_JJS changes_NNS of_IN slope_NN ,_, such_JJ as_IN meander_NN characteristics_NNS ._. 
+In_IN addition_NN ,_, the_DT variations_NNS of_IN thickness_NN and_CC distribution_NN of_IN recent_JJ sediments_NNS indicate_VBP the_DT variability_NN of_IN tectonics_NNS in_IN a_DT given_VBN valley_NN ._. 
+Clearly_RB ,_, one_CD of_IN the_DT most_RBS sensitive_JJ indicators_NNS of_IN change_NN is_VBZ the_DT valley_NN floor_NN profile_NN and_CC longitudinal_NN profile_NN of_IN a_DT stream_NN (_( Bendefy_NNP et_CC al._NN ,_, 1967_CD ;_: Zuchiewicz_NNP ,_, 1979_CD )_) ._. 
+
+Alluvial_NNP rivers_NNS will_MD be_VB very_RB sensitive_JJ indicators_NNS of_IN valley_NN slope_NN change_NN ._. 
+In_IN order_NN to_TO maintain_VB a_DT constant_JJ gradient_NN ,_, a_DT river_NN that_WDT is_VBZ being_VBG steepened_JJ by_IN a_DT downstream_JJ tilt_NN will_MD increase_VB its_PRP$ sinuosity_NN or_CC braid_NN ,_, whereas_IN a_DT reduction_NN of_IN valley_NN slope_NN will_MD lead_VB to_TO a_DT reduction_NN of_IN sinuosity_NN or_CC aggradation_NN if_IN the_DT pattern_NN cannot_NN change_NN ._. 
+For_IN example_NN ,_, Twidale_NNP (_( 1966_CD )_) reported_VBD that_IN both_DT the_DT Flinders_NNP and_CC Leichardt_NNP Rivers_NNP have_VBP changed_VBN to_TO a_DT braided_JJ pattern_NN ,_, as_IN a_DT result_NN of_IN the_DT steepening_VBG of_IN their_PRP$ gradient_NN by_IN the_DT Selwyn_NNP Upwarp_NNP in_IN northern_JJ Queensland_NNP ,_, Australia_NNP ;_: and_CC the_DT Red_NNP River_NNP near_IN Winnipeg_NNP ,_, Canada_NNP is_VBZ straightening_VBG ,_, as_IN a_DT result_NN of_IN reduction_NN of_IN gradient_NN by_IN isostatic_JJ rebound_NN (_( Welch_NNP ,_, 1973_CD )_) ._. 
+Other_JJ examples_NNS are_VBP provided_VBN by_IN the_DT Mississippi_NNP River_NNP between_IN St._NN Louis_NNP and_CC Cairo_NNP and_CC the_DT lower_JJR Missouri_NNP River_NNP (_( Adams_NNP ,_, 1980_CD )_) as_RB well_RB as_IN the_DT Red_NNP River_NNP of_IN the_DT North_NNP near_IN Winnipeg_NNP ,_, Canada_NNP (_( Vanicek_NNP and_CC Nagy_NNP ,_, 1980_CD )_) ._. 
+
+Baselevel_NNP changes_NNS can_MD also_RB resemble_VB the_DT effects_NNS of_IN active_JJ tectonics_NNS ,_, and_CC can_MD provide_VB information_NN on_IN channel_NN change_NN ._. 
+For_IN example_NN ,_, if_IN sea_NN -_- level_NN is_VBZ lowered_VBN ,_, and_CC a_DT steep_JJ portion_NN of_IN the_DT continental_JJ shelf_NN is_VBZ exposed_VBN ,_, the_DT effect_NN will_MD be_VB like_IN that_DT downstream_JJ of_IN the_DT axis_NNS of_IN an_DT uplift_NN ._. 
+Lane_NNP (_( 1955_CD )_) argued_VBD that_IN a_DT lowering_VBG of_IN baselevel_NN will_MD cause_VB channel_NN adjustment_NN throughout_IN most_JJS of_IN the_DT river_NN ._. 
+Indeed_RB ,_, Lane_NNP ’_NN s_VBZ (_( 1955_CD )_) argument_NN that_IN a_DT stream_NN will_MD restore_VB its_PRP$ gradient_NN at_IN a_DT higher_JJR or_CC lower_JJR level_NN following_VBG a_DT baselevel_NN change_NN is_VBZ conceptually_RB correct_JJ because_IN if_IN the_DT river_NN is_VBZ initially_RB at_IN grade_NN ,_, then_RB to_TO move_VB its_PRP$ sediment_NN load_NN and_CC water_NN discharge_NN through_IN the_DT channel_NN ,_, the_DT original_JJ gradient_NN of_IN the_DT stream_NN must_MD be_VB reestablished_JJ ._. 
+However_RB ,_, sediment_NN loads_NNS may_MD be_VB greater_JJR after_IN channel_NN incision_NN and_CC less_JJR after_IN aggradation_NN ._. 
+Another_DT fallacy_NN in_IN Lane_NNP ’_NN s_VBZ argument_NN is_VBZ the_DT assumption_NN that_IN the_DT valley_NN slope_NN and_CC channel_NN gradient_NN are_VBP identical_JJ ._. 
+This_DT is_VBZ not_RB the_DT case_NN ,_, and_CC the_DT two_CD -_- dimensional_JJ perspective_NN leads_VBZ to_TO erroneous_JJ conclusions_NNS ._. 
+For_IN example_NN ,_, a_DT sinuous_JJ river_NN has_VBZ a_DT gradient_NN less_JJR than_IN that_DT of_IN the_DT valley_NN floor_NN ._. 
+
+Sinuosity_NNP (_( P_NN )_) is_VBZ the_DT ratio_NN between_IN channel_NN length_NN (_( L_NNP c_SYM )_) and_CC valley_NN length_NN (_( L_NNP v_NN )_) ,_, and_CC it_PRP is_VBZ also_RB the_DT ratio_NN between_IN valley_NN slope_NN (_( S_NNP v_NN )_) and_CC channel_NN gradient_NN (_( S_NNP c_SYM )_) as_IN follows_VBZ :_: 
+
+Therefore_RB ,_, a_DT straight_JJ channel_NN has_VBZ a_DT sinuosity_NN of_IN 1.0_CD ,_, and_CC the_DT gradient_NN of_IN the_DT channel_NN and_CC the_DT slope_NN of_IN the_DT valley_NN floor_NN are_VBP the_DT same_JJ ._. 
+It_PRP has_VBZ been_VBN demonstrated_VBN that_IN rivers_NNS can_MD respond_VB to_TO major_JJ changes_NNS of_IN water_NN and_CC sediment_NN load_NN primarily_RB by_IN pattern_NN changes_NNS (_( Schumm_NNP ,_, 1968_CD )_) ,_, and_CC that_IN much_JJ of_IN the_DT pattern_NN variability_NN of_IN large_JJ alluvial_JJ rivers_NNS such_JJ as_IN the_DT Mississippi_NNP ,_, Indus_NNP ,_, and_CC Nile_NNP ,_, reflect_VBP the_DT variability_NN of_IN the_DT valley_NN slope_NN (_( Schumm_NNP et_CC al._NN ,_, 1994_CD ;_: Jorgensen_NNP et_CC al._NN ,_, 1993_CD ;_: Schumm_NNP and_CC Galay_NNP ,_, 1994_CD )_) ._. 
+
+NULL_NNP 
+Figure_NN 2.13_CD Effect_NN of_IN a_DT baselevel_NN fall_NN on_IN channel_NN length_NN and_CC pattern_NN ._. See_VB text_NN for_IN discussion_NN ._. 
+
+Figure_NN 2.13_CD illustrates_VBZ this_DT concept_NN geometrically_RB ,_, and_CC it_PRP shows_VBZ the_DT impact_NN of_IN the_DT lowering_VBG of_IN baselevel_NN in_IN a_DT valley_NN with_IN a_DT stream_NN of_IN sinuosity_NN (_( P_NN )_) 1.5_CD ._. 
+The_DT line_NN A–C_NNP represents_VBZ the_DT channel_NN profile_NN ,_, and_CC the_DT line_NN A–B_NNP represents_VBZ the_DT profile_NN of_IN the_DT valley_NN floor_NN ._. 
+Points_NNPS B_NNP and_CC C_NNP are_VBP at_IN the_DT river_NN mouth_NN ,_, and_CC points_NNS F_NN and_CC G_NNP are_VBP at_IN the_DT same_JJ location_NN in_IN the_DT valley_NN ._. 
+The_DT channel_NN distance_NN is_VBZ one_CD -_- third_JJ longer_RBR than_IN the_DT valley_NN distance_NN ,_, and_CC the_DT difference_NN in_IN channel_NN and_CC valley_NN slope_NN reflects_VBZ the_DT sinuosity_NN of_IN the_DT stream_NN ._. 
+The_DT length_NN of_IN the_DT channel_NN is_VBZ 1.5_CD times_NNS the_DT length_NN of_IN the_DT valley_NN and_CC ,_, therefore_RB ,_, the_DT stream_NN gradient_NN is_VBZ one_CD -_- third_JJ less_JJR than_IN the_DT valley_NN slope_NN (_( equation_NN 1_CD )_) ._. 
+If_IN a_DT vertical_JJ fall_NN of_IN baselevel_NN from_IN B_NNP to_TO D_NNP and_CC C_NNP to_TO E_NNP is_VBZ assumed_VBN ,_, channel_NN incision_NN and_CC lateral_NN erosion_NN will_MD steepen_NN the_DT valley_NN floor_NN ._. 
+If_IN the_DT channel_NN is_VBZ not_RB confined_VBN laterally_RB ,_, it_PRP can_MD adjust_VB to_TO the_DT increased_VBN valley_NN slope_NN (_( F–D_NNP )_) by_IN increasing_VBG sinuosity_NN to_TO 2.0_CD ,_, and_CC the_DT channel_NN profile_NN is_VBZ extended_VBN to_TO H._NN 
+In_IN this_DT case_NN ,_, incision_NN ceases_VBZ at_IN point_NN F_NN in_IN the_DT valley_NN and_CC at_IN point_NN G_NNP in_IN the_DT channel_NN because_IN the_DT increase_NN of_IN sinuosity_NN from_IN 1.5_CD to_TO 2.0_CD from_IN G_NNP to_TO H_NNP maintains_VBZ a_DT constant_JJ channel_NN gradient_NN over_IN the_DT reach_NN of_IN increased_VBN valley_NN slope_NN (_( F_NNP –_- D_NNP )_) ._. 
+The_DT one_CD -_- third_JJ increase_NN of_IN channel_NN length_NN (_( sinuosity_NN )_) between_IN G_NNP and_CC H_NNP compensates_VBZ for_IN a_DT one_CD -_- third_JJ steepening_VBG of_IN the_DT valley_NN floor_NN from_IN F_NN to_TO D._NN 
+
+According_VBG to_TO Lane_NNP ’_NN s_VBZ assumptions_NNS ,_, the_DT effect_NN of_IN this_DT baselevel_NN fall_NN would_MD be_VB propagated_JJ upstream_RB to_TO point_VB A_DT ,_, where_WRB an_DT amount_NN of_IN erosion_NN equal_JJ to_TO B–D_NNP would_MD occur_VB ._. 
+However_RB ,_, because_IN the_DT stream_NN can_MD adjust_VB ,_, the_DT steepening_VBG of_IN the_DT valley_NN floor_NN will_MD not_RB result_VB in_IN a_DT change_NN of_IN stream_NN gradient_NN ._. 
+Rather_RB the_DT channel_NN lengthens_VBZ ,_, and_CC the_DT effect_NN of_IN baselevel_NN lowering_VBG is_VBZ propagated_JJ only_RB a_DT relatively_RB short_JJ distance_NN upstream_RB ._. 
+The_DT distance_NN will_MD undoubtedly_RB depend_VB on_IN local_JJ conditions_NNS and_CC the_DT original_JJ slope_NN of_IN the_DT valley_NN floor_NN ,_, but_CC this_DT exercise_NN supports_VBZ Saucier_NNP ’_NN s_VBZ (_( 1991_CD )_) contention_NN that_IN Pleistocene_NNP sea_NN level_NN change_NN in_IN the_DT lower_JJR Mississippi_NNP valley_NN was_VBD effective_JJ only_RB as_RB far_RB as_IN Baton_NNP Rouge_NNP (_( see_VB also_RB Blum_NNP ,_, 1993_CD and_CC Blum_NNP and_CC Valastro_NNP ,_, 1994_CD )_) ._. 
+The_DT probability_NN that_IN a_DT large_JJ river_NN can_MD adjust_VB in_IN this_DT fashion_NN is_VBZ made_VBN more_RBR likely_JJ by_IN the_DT fact_NN that_IN the_DT baselevel_NN changes_NNS in_IN nature_NN will_MD take_VB place_NN relatively_RB slowly_RB and_CC not_RB abruptly_RB ,_, unlike_IN during_IN the_DT experimental_JJ studies_NNS ._. 
+The_DT river_NN ,_, therefore_RB ,_, has_VBZ more_JJR time_NN to_TO adjust_VB by_IN changing_VBG sinuosity_NN ._. 
+
+Further_RB evidence_NN for_IN the_DT type_NN of_IN channel_NN response_NN shown_VBN in_IN Figure_NN 2.13_CD is_VBZ demonstrated_VBN by_IN the_DT experimental_JJ studies_NNS of_IN Jeff_NNP Ware_NNP (_( 1992_CD oral_JJ comm_NN ._. )_) ._. 
+He_PRP lowered_VBD baselevel_NN relatively_RB slowly_RB to_TO a_DT maximum_NN of_IN 12_CD cm_NN in_IN a_DT flume_NN with_IN a_DT total_JJ length_NN of_IN 18.4_CD m_NN ._. 
+This_DT change_NN would_MD have_VB doubled_VBN the_DT channel_NN gradient_NN ._. 
+However_RB ,_, the_DT effect_NN of_IN the_DT baselevel_NN lowering_VBG extended_VBN only_RB 4_CD m_NN upstream_RB ,_, and_CC the_DT change_NN in_IN baselevel_NN was_VBD accommodated_VBN by_IN an_DT increase_NN of_IN sinuosity_NN from_IN 1.2_CD to_TO 1.5_CD in_IN the_DT lower_JJR 4_CD m_NN in_IN the_DT flume_NN ._. 
+It_PRP is_VBZ clear_JJ ,_, however_RB ,_, that_DT pattern_NN change_NN did_VBD not_RB totally_RB compensate_VB for_IN the_DT change_NN of_IN baselevel_NN ._. 
+This_DT channel_NN widened_VBD and_CC roughness_NNS increased_VBN ,_, thereby_RB assuming_VBG part_NN of_IN the_DT adjustment_NN to_TO the_DT baselevel_NN change_NN ._. 
+
+Ware_NNP ’_NN s_VBZ experiments_NNS showed_VBN that_IN a_DT sinuosity_NN increase_NN ,_, which_WDT resulted_VBD in_IN a_DT slope_NN decrease_NN ,_, was_VBD only_RB part_NN of_IN the_DT adjustment_NN ,_, and_CC width_NN ,_, depth_NN ,_, and_CC roughness_NNS adjusted_VBN to_TO decrease_VB velocity_NN and_CC stream_NN power_NN ._. 
+Therefore_RB ,_, channel_NN pattern_NN change_NN may_MD only_RB absorb_VB part_NN of_IN a_DT valley_NN slope_NN or_CC baselevel_NN change_NN ._. 
+The_DT River_NNP Nile_NNP provides_VBZ an_DT example_NN of_IN such_JJ shared_VBN adjustment_NN with_IN both_DT sinuosity_NN and_CC width_NN changing_VBG as_IN valley_NN slope_NN changes_NNS (_( Schumm_NNP and_CC Galay_NNP ,_, 1994_CD )_) ._. 
+
+Changes_NNS of_IN valley_NN -_- floor_NN gradient_NN provide_VBP an_DT explanation_NN of_IN downstream_JJ pattern_NN variations_NNS ,_, but_CC variations_NNS of_IN valley_NN -_- floor_NN slope_NN can_MD be_VB the_DT result_NN of_IN several_JJ influences_NNS ._. 
+Tectonic_NNP activity_NN may_MD change_VB the_DT slope_NN of_IN the_DT valley_NN floor_NN and_CC have_VBP its_PRP$ effect_NN on_IN the_DT channel_NN pattern_NN (_( Adams_NNP ,_, 1980_CD )_) ._. 
+In_IN addition_NN ,_, a_DT high_JJ -_- sediment_NN -_- transporting_JJ tributary_JJ may_MD build_VB a_DT fan_NN -_- like_IN deposit_NN in_IN the_DT valley_NN ,_, which_WDT will_MD persist_VB even_RB after_IN the_DT tributary_JJ sediment_NN load_NN has_VBZ decreased_VBN ._. 
+When_WRB the_DT main_JJ river_NN crosses_VBZ this_DT fan_NN ,_, pattern_NN changes_NNS will_MD result_VB ,_, as_IN the_DT river_NN attempts_NNS to_TO maintain_VB a_DT constant_JJ gradient_NN ._. 
+Tributaries_NNP to_TO the_DT Jordan_NNP River_NNP in_IN Israel_NNP have_VBP developed_VBN fan_NN -_- like_IN deposits_NNS in_IN the_DT valley_NN ,_, and_CC the_DT valley_NN floor_NN of_IN the_DT Jordan_NNP Valley_NNP undulates_NNS as_IN a_DT result_NN ._. 
+The_DT Jordan_NNP River_NNP ,_, as_IN it_PRP approaches_VBZ one_CD of_IN these_DT convexities_NNS ,_, straightens_NNS as_IN it_PRP crosses_VBZ the_DT upstream_JJ flatter_NN part_NN of_IN the_DT fan_NN and_CC then_RB it_PRP develops_VBZ a_DT more_RBR sinuous_JJ course_NN on_IN the_DT steeper_JJR downstream_JJ side_NN of_IN the_DT fan_NN (_( Schumm_NNP ,_, 1977_CD ,_, p._NN 140_CD )_) ._. 
+
+It_PRP is_VBZ important_JJ to_TO realize_VB that_IN channels_NNS that_WDT lie_VBP near_IN a_DT pattern_NN threshold_NN (_( Figure_NN 2.3_CD )_) may_MD change_VB their_PRP$ characteristics_NNS dramatically_RB with_IN only_RB a_DT slight_JJ change_NN in_IN the_DT controlling_VBG variable_JJ ._. 
+For_IN example_NN ,_, some_DT rivers_NNS that_WDT are_VBP meandering_VBG and_CC that_WDT are_VBP near_IN pattern_NN thresholds_NNS become_VBP braided_JJ with_IN only_RB a_DT small_JJ addition_NN of_IN bed_NN load_NN (_( Schumm_NNP ,_, 1979_CD )_) ._. 
+Experimental_NNP studies_NNS and_CC field_NN observations_NNS confirm_VBP that_IN a_DT change_NN of_IN valley_NN -_- floor_NN slope_NN will_MD cause_VB a_DT change_NN of_IN channel_NN morphology_NN ._. 
+The_DT change_NN will_MD differ_VB ,_, however_RB ,_, depending_VBG where_WRB the_DT channel_NN lies_VBZ on_IN a_DT plot_NN such_JJ as_IN that_DT of_IN Figure_NN 2.3_CD and_CC depending_VBG on_IN the_DT type_NN of_IN channel_NN (_( Figure_NN 2.4_CD )_) ._. 
+For_IN example_NN ,_, with_IN increasing_VBG slope_NN ,_, a_DT straight_JJ channel_NN will_MD become_VB sinuous_JJ ,_, a_DT low_JJ sinuosity_NN channel_NN will_MD become_VB more_RBR sinuous_JJ ,_, and_CC a_DT meandering_VBG channel_NN will_MD braid_NN ._. 
+With_IN decreasing_VBG slope_NN ,_, a_DT braided_JJ channel_NN will_MD meander_NN and_CC a_DT meandering_VBG channel_NN will_MD straighten_VB ._. 
+
+NULL_NNP 
+Figure_NN 2.14_CD Reaches_NNP of_IN degradation_NN and_CC aggradation_NN associated_VBN with_IN uplift_NN and_CC faulting_VBG ._. 
+Although_IN pattern_NN changes_NNS may_MD dominate_VB river_NN response_NN ,_, deposition_NN in_IN reaches_NNS of_IN reduced_VBN gradient_NN is_VBZ likely_JJ as_IN is_VBZ channel_NN incision_NN and_CC bank_NN erosion_NN in_IN reaches_NNS of_IN steepened_JJ gradient_NN (_( Figure_NN 2.14_CD )_) ._. 
+In_IN fact_NN ,_, upstream_RB deposition_NN will_MD reduce_VB downstream_JJ sediment_NN loads_NNS thereby_RB increasing_VBG the_DT tendency_NN for_IN downstream_JJ erosion_NN ._. 
+Therefore_RB ,_, in_IN addition_NN to_TO the_DT primary_JJ valley_NN -_- floor_NN deformation_NN by_IN active_JJ tectonics_NNS and_CC the_DT secondary_JJ channel_NN response_NN to_TO this_DT deformation_NN ,_, there_EX are_VBP third_JJ -_- order_NN effects_NNS beyond_IN the_DT area_NN of_IN deformation_NN ._. 
+For_IN example_NN ,_, deposition_NN upstream_RB from_IN the_DT axis_NNS of_IN a_DT dome_NN can_MD progress_VB further_JJ upstream_RB by_IN backfilling_VBG beyond_IN the_DT area_NN of_IN active_JJ deformation_NN (_( Figure_NN 2.14_CD )_) ._. 
+This_DT means_VBZ that_IN the_DT uplift_NN is_VBZ acting_VBG as_IN a_DT dam_NN ,_, and_CC unless_IN erosion_NN on_IN the_DT steeper_JJR downstream_JJ side_NN of_IN the_DT uplift_NN produces_VBZ sufficient_JJ sediment_NN to_TO compensate_VB ,_, erosion_NN will_MD occur_VB downstream_JJ beyond_IN the_DT limits_NNS of_IN deformation_NN ._. 
+However_RB ,_, it_PRP is_VBZ more_RBR likely_JJ that_WDT reduced_VBD sediment_NN load_NN will_MD accelerate_VB erosion_NN on_IN the_DT steeper_JJR downstream_JJ reach_NN ,_, and_CC when_WRB this_DT increased_JJ load_NN moves_NNS downstream_JJ ,_, aggradation_NN will_MD result_VB (_( Figure_NN 2.14_CD )_) ._. 
+
+NULL_NNP 
+Figure_NN 2.15_CD Effect_NN of_IN change_NN from_IN weaker_JJR (_( W_NNP )_) to_TO more_RBR resistant_JJ (_( R_NN )_) materials_NNS on_IN meander_NN pattern_NN ._. 
+Another_DT aspect_NN of_IN both_DT active_JJ and_CC neotectonics_NNS is_VBZ the_DT appearance_NN of_IN more_JJR resistant_JJ materials_NNS in_IN the_DT channel_NN as_IN the_DT channel_NN degrades_NNS ._. 
+Resistant_NNP alluvium_NN (_( clay_NN plugs_NNS ,_, gravel_NN armor_NN )_) or_CC bedrock_NN will_MD confine_NN the_DT channel_NN and_CC retard_VB meander_NN shift_NN and_CC bank_NN erosion_NN ._. 
+The_DT result_NN should_MD be_VB deformed_VBN or_CC compressed_VBN meanders_VBZ upstream_RB and_CC a_DT change_NN of_IN meander_NN character_NN at_IN the_DT contact_NN ._. 
+For_IN example_NN ,_, as_IN meanders_VBZ shift_NN downvalley_NN ,_, their_PRP$ movement_NN may_MD be_VB retarded_JJ if_IN more_RBR resistant_JJ alluvium_NN or_CC bedrock_NN is_VBZ encountered_VBN (_( Jin_NNP and_CC Schumm_NNP ,_, 1987_CD )_) ._. 
+Hence_RB ,_, a_DT fault_NN may_MD present_VB a_DT barrier_NN with_IN the_DT result_NN that_WDT upstream_RB meanders_VBZ are_VBP compressed_VBN and_CC deformed_VBN (_( Figure_NN 2.15_CD )_) ._. 
+A_DT similar_JJ pattern_NN will_MD result_VB if_IN the_DT river_NN encounters_VBZ bedrock_NN as_IN it_PRP crosses_VBZ an_DT upwarp_NN or_CC if_IN ,_, as_IN a_DT result_NN of_IN incision_NN ,_, it_PRP encounters_VBZ resistant_JJ materials_NNS in_IN a_DT portion_NN of_IN its_PRP$ course_NN ._. 
+Yeromenko_NNP and_CC Ivanov_NNP (_( 1977_CD )_) reviewed_VBD the_DT Russian_JJ literature_NN and_CC concluded_VBD that_IN for_IN rivers_NNS crossing_VBG uplifts_NNS ,_, the_DT largest_JJS number_NN of_IN meanders_VBZ occur_VB upstream_RB of_IN the_DT structures_NNS ,_, which_WDT supports_VBZ Gardner_NNP ’_NN s_VBZ (_( 1975_CD )_) observations_NNS of_IN bedrock_NN channels_NNS in_IN the_DT Colorado_NNP Plateau_NNP ._. 
+This_DT is_VBZ the_DT reverse_NN of_IN what_WP is_VBZ expected_VBN for_IN alluvial_JJ channels_NNS from_IN the_DT relation_NN of_IN Figure_NN 2.3_CD ._. 
+Therefore_RB ,_, an_DT investigator_NN must_MD not_RB simply_RB base_VB conclusions_NNS on_IN river_NN pattern_NN alone_RB ._. 
+
+Discussion_NNP Alluvium_NNP is_VBZ usually_RB assumed_VBN to_TO hide_VB the_DT underlying_VBG geology_NN ,_, but_CC rates_NNS of_IN active_JJ tectonic_JJ movement_NN are_VBP sufficiently_RB rapid_JJ to_TO affect_VB the_DT morphology_NN and_CC behavior_NN of_IN alluvial_JJ rivers_NNS ._. 
+Rivers_NNP being_VBG the_DT most_RBS sensitive_JJ components_NNS of_IN the_DT landscape_NN will_MD provide_VB evidence_NN of_IN even_RB ,_, slow_JJ ,_, aseismic_JJ tectonic_JJ activity_NN ._. 
+For_IN example_NN ,_, evidence_NN of_IN active_JJ tectonics_NNS is_VBZ as_IN follows_VBZ :_: 
+
+1_CD 
+._. deformation_NN of_IN valley_NN floor_NN longitudinal_NN profile_NN 2_CD ._. deformation_NN of_IN channel_NN longitudinal_NN profile_NN 3_CD ._. change_NN of_IN channel_NN pattern_NN 4_CD ._. change_NN of_IN channel_NN width_NN and_CC depth_NN 5_CD ._. conversion_NN of_IN floodplain_NN to_TO a_DT low_JJ terrace_NN 6_CD ._. reaches_NNS of_IN active_JJ channel_NN incision_NN or_CC lateral_NN shift_NN 7_CD ._. effects_NNS both_DT upstream_RB and_CC downstream_JJ of_IN the_DT zone_NN of_IN deformation_NN (_( degradation_NN ,_, aggradation_NN ,_, flooding_NN ,_, bank_NN erosion_NN )_) 8_CD ._. formation_NN of_IN lakes_NNS 
+Alluvial_NNP channels_NNS are_VBP sensitive_JJ indicators_NNS of_IN change_NN ,_, but_CC they_PRP also_RB adjust_VBP to_TO changes_NNS of_IN hydrology_NN and_CC sediment_NN load_NN as_RB well_RB as_IN to_TO active_JJ tectonics_NNS ._. 
+Therefore_RB ,_, it_PRP may_MD be_VB difficult_JJ to_TO determine_VB the_DT cause_NN of_IN channel_NN change_NN when_WRB ,_, in_IN fact_NN ,_, human_JJ activities_NNS have_VBP been_VBN changing_VBG both_DT discharge_NN and_CC sediment_NN load_NN during_IN historic_JJ time_NN ._. 
+Pattern_NNP change_NN alone_RB is_VBZ not_RB sufficient_JJ evidence_NN for_IN active_JJ tectonics_NNS ,_, rather_RB it_PRP is_VBZ one_CD bit_NN of_IN evidence_NN that_WDT must_MD be_VB supported_VBN with_IN other_JJ morphologic_JJ evidence_NN and_CC /_NN or_CC surveys_NNS that_WDT provide_VBP clear_JJ evidence_NN of_IN deformation_NN ._. 
+In_IN many_JJ areas_NNS ,_, the_DT evidence_NN will_MD be_VB circumstantial_JJ ._. 
+Nevertheless_RB ,_, anomalous_JJ reaches_NNS that_WDT are_VBP not_RB related_VBN to_TO artificial_JJ controls_NNS ,_, tributary_JJ influences_NNS ,_, lithologic_JJ change_NN ,_, or_CC paleotectonics_NNS may_MD reasonably_RB be_VB assumed_VBN to_TO be_VB the_DT result_NN of_IN active_JJ tectonics_NNS until_IN proved_VBD otherwise_RB ._. 
+
+Lakes_NNP can_MD also_RB provide_VB information_NN on_IN subsidence_NN ,_, and_CC ria_NN lakes_NNS can_MD be_VB evidence_NN of_IN tilting_VBG or_CC even_RB hydrologic_JJ and_CC climatic_JJ influences_NNS ._. 
+For_IN example_NN ,_, during_IN Pleistocene_NNP aggradation_NN in_IN the_DT Ohio_NNP River_NNP and_CC Mississippi_NNP River_NNP valleys_NNS ,_, numerous_JJ lakes_NNS formed_VBN in_IN tributary_JJ valleys_NNS ._. 
+Therefore_RB ,_, care_NN must_MD be_VB exercised_VBN when_WRB determining_VBG the_DT tectonic_JJ significance_NN of_IN lakes_NNS and_CC other_JJ river_NN anomalies_NNS ._. 
+

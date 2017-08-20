@@ -1,0 +1,21 @@
+docno_NN =_SYM "_'' lists-_NN 046_CD -_: 12151335_CD "_'' name_NN =_SYM "_'' Nico_NNP Poppelier_NNP "_'' email_NN =_SYM "_'' nico@valacar.elsevier.nl_NN "_'' sent_VBD =_SYM "_'' Wed_NNP ,_, 5_CD Jun_NNP 1996_CD 16:38:21_NN +_NN 0200_CD (_( MET_NN DST_NNP )_) "_'' id_NN =_SYM "_'' 199606051438.QAA03524@thorin.elsevier.nl_NN "_'' *_NN X-Mailer_NNP :_: ELM_NNP [_NN version_NN 2.4_CD PL25_NN ]_NN subject_JJ =_SYM "_'' Response_NNP to_TO Ron_NNP Whitney_NNP "_'' To_TO :_: w3c-math-erb@w3.org_NN Ron_NNP Whitney_NNP writes_VBZ :_: 
+>_NN undogmatic_JJ ._. 
+I_PRP view_VBP their_PRP$ contributions_NNS as_RB wholly_RB positive_JJ ._. 
+I_PRP 'm_VBP >_NN certain_JJ that_IN Nico_NNP was_VBD *_NN not_RB *_NN asserting_VBG otherwise_RB ,_, but_CC I_PRP would_MD 
+Ron_NNP is_VBZ right_NN :_: I_PRP was_VBD not_RB trying_VBG to_TO assert_VB otherwise_RB ,_, but_CC I_PRP was_VBD asking_VBG a_DT question_NN (_( perhaps_RB not_RB neutrally_RB enough_RB :_: -_: )_) ,_, because_IN I_PRP am_VBP only_RB vaguely_RB familiar_JJ with_IN Mathematica_NNP ._. 
+I_PRP asked_VBD the_DT question_NN because_IN I_PRP wanted_VBD to_TO know_VB how_WRB feasible_JJ the_DT mechanisms_NNS are_VBP that_IN Bruce_NNP describes_VBZ ._. 
+If_IN Mathematica_NNP already_RB implements_VBZ something_NN similar_JJ ,_, this_DT is_VBZ an_DT argument_NN in_IN support_NN of_IN feasibility_NN ._. 
+It_PRP also_RB might_MD give_VB an_DT indication_NN of_IN how_WRB easy_JJ or_CC difficult_JJ it_PRP is_VBZ to_TO come_VB up_RP with_IN a_DT real_JJ implementation_NN ._. 
+
+I_PRP agree_VBP with_IN Ron_NNP that_IN there_EX is_VBZ some_DT politics_NNS involved_VBN as_RB well_RB ._. 
+I_PRP think_VBP this_DT group_NN should_MD make_VB it_PRP absolutely_RB clear_JJ that_IN we_PRP will_MD draw_VB inspiration_NN from_IN ISO_NN 12083_CD as_RB much_JJ as_IN we_PRP need_VBP ,_, and_CC that_IN we_PRP will_MD use_VB the_DT ISO_JJ TR_NNP 9573_CD entity_NN sets_NNS ,_, and_CC also_RB that_IN WRI_NN is_VBZ not_RB "_'' running_VBG the_DT show_NN "_'' ._. 
+
+As_IN an_DT aside_RB :_: at_IN the_DT SGML_NNP Europe_NNP '_POS 96_CD conference_NN Roy_NNP Pike_NNP attended_VBD the_DT meeting_NN of_IN the_DT committee_NN responsible_JJ for_IN ISO_NN 12083_CD ,_, chaired_VBN by_IN Eric_NNP van_NN Herwijnen_NNP ,_, and_CC we_PRP got_VBD him_PRP to_TO consent_VB to_TO the_DT idea_NN that_IN there_EX will_MD always_RB be_VB users_NNS who_WP need_VBP /_NN insist_VBP on_IN a_DT P_NN (_( resentation_NN )_) (_( geometric_JJ ,_, visual_JJ )_) notation_NN ._. 
+I_PRP said_VBD "_'' he_PRP consented_VBD "_'' ,_, but_CC I_PRP should_MD have_VB said_VBN "_'' he_PRP consented_VBD grudgingly_RB and_CC certainly_RB not_RB wholeheartedly_RB "_'' ._. 
+:_: -_: )_) 
+
+Nico_NNP 
+------------------------------------------------------------------------_: Dr._NN Nico_NNP A.F.M._NN Poppelier_NNP Elsevier_NNP Science_NNP ,_, APD_NNP ,_, ITD_NNP Email_NNP :_: n.poppelier@elsevier.nl_NN ._. Molenwerf_NNP 1_CD ,_, 1014_CD AG_NNP Amsterdam_NNP Phone_NNP :_: +_NN 31_CD -_: 20_CD -_: 4853482_CD ._. The_DT Netherlands_NNP Fax_NNP :_: +_NN 31_CD -_: 20_CD -_: 4853706_CD ._. 
+------------------------------------------------------------------------_: The_DT truth_NN ,_, the_DT whole_JJ truth_NN ,_, and_CC nothing_NN but_CC the_DT truth_NN ._. 
+And_CC maybe_RB some_DT compromises_NNS ._. 
+

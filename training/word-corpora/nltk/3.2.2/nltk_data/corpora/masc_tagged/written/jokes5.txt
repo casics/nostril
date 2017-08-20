@@ -1,0 +1,147 @@
+Relationship_NNP Education_NNP For_IN Women_NNP Whatsamatta_NNP University_NNP 's_POS Seminars_NNP For_IN Women_NNP Fall_NN Catalogue_NNP 
+Once_RB again_RB ,_, the_DT male_JJ staff_NN at_IN Whatsamatta_NNP University_NNP will_MD be_VB offering_VBG courses_NNS for_IN women_NNS of_IN all_DT marital_JJ status_NN in_IN an_DT attempt_NN to_TO help_VB males_NNS and_CC females_NNS understand_VBP each_DT other_JJ better_JJR ._. 
+Attendance_NNP in_IN at_IN least_JJS 10_CD of_IN the_DT following_VBG is_VBZ required_VBN ._. 
+1_CD ._. Combating_NNP The_DT Impulse_NNP To_TO Nag_NNP 
+2_CD ._. You_PRP Can_MD Change_NNP The_DT Oil_NNP Too_RB 
+3_CD ._. PMS_NNP -_: Learning_NNP To_TO Sleep_VBP Over_IN At_IN Mother_NNP 's_POS 
+4_CD ._. How_WRB To_TO Properly_NNP Fill_NNP A_DT Beer_NNP Mug_NNP 
+5_CD ._. We_PRP Do_VBP Not_RB Want_NNP Ties_NNPS For_IN Christmas_NNP (_( Just_RB Wear_VB The_DT Sexy_NNP Lingerie_NNP I_PRP Gave_VBD You_PRP )_) 
+6_CD ._. Understanding_NNP The_DT Female_NNP Causes_NNP Of_IN Male_NNP Drunkenness_NNP 
+7_CD ._. How_WRB To_TO Do_VB All_DT Your_PRP$ Laundry_NNP In_IN One_CD Load_NN And_CC Have_VBP More_JJR Time_NNP To_TO Watch_NNP Football_NNP 
+8_CD ._. Parenting_NNP -_: Your_PRP$ Husband_NNP Gave_VBD You_PRP Children_NNP So_IN You_PRP Could_MD Have_VB Someone_NN Other_JJ Than_IN Him_PRP To_TO Boss_NNP Around_IN 
+9_CD ._. How_WRB To_TO Encourage_VB Your_PRP$ Husband_NNP To_TO Cook_NNP More_JJR And_CC Be_VB Able_NNP To_TO Stomach_NNP His_PRP$ Slop_NNP 
+10_CD ._. How_WRB Not_RB To_TO Sob_NNP Like_IN A_DT Sponge_NNP When_WRB Your_PRP$ Husband_NNP Is_VBZ Right_RB 
+11_CD ._. Get_VB A_DT Life_NNP -_: Learn_NNP To_TO Kill_VB Spiders_NNP Yourself_NNP 
+12_CD ._. Balancing_NNP A_DT Checkbook_NNP -_: Even_RB You_PRP Can_MD Get_VB It_PRP Right_RB 
+13_CD ._. Comprehending_NNP Credit_NNP Card_NNP Spending_NN Limits_NNP And_CC Financial_NNP Responsibility_NNP 
+14_CD ._. You_PRP ,_, The_DT Whining_NNP Sex_NN 
+15_CD ._. Shopping_NNP -_: Doing_VBG It_PRP In_IN Less_JJR Than_IN 16_CD Hours_NNS 
+16_CD ._. If_IN You_PRP Want_NNP To_TO Know_VBP How_WRB That_DT Looks_NNP On_IN You_PRP ,_, Ask_VB Your_PRP$ Mother_NNP 
+17_CD ._. How_WRB To_TO Close_NNP The_DT Garage_NNP Door_NNP 
+18_CD ._. If_IN You_PRP Do_VBP n't_RB Want_NNP An_DT Excuse_NNP ,_, Do_VBP n't_RB Demand_NN An_DT Explanation_NNP 
+19_CD ._. How_WRB To_TO Go_VB Fishing_NNP With_IN Your_PRP$ Mate_NNP And_CC Not_RB Catch_NNP Pneumonia_NNP 
+20_CD ._. Living_VBG Without_IN Power_NNP Windows_NNP -_: How_WRB To_TO Turn_NN A_DT Crank_NNP 
+21_CD ._. Romanticism_NNP -_: The_DT Whole_JJ Point_NNP Of_IN Caviar_NNP ,_, Candles_NNP ,_, And_CC Conversation_NN 
+22_CD ._. How_WRB To_TO Retain_NNP Your_PRP$ Composure_NNP While_IN Your_PRP$ Husband_NNP Is_VBZ Relaxing_NNP By_IN Himself_PRP 
+23_CD ._. Why_WRB You_PRP Do_VBP n't_RB Need_MD To_TO Invite_NNP Your_PRP$ Mother_NNP Over_IN Every_DT Weekend_NNP 
+24_CD ._. How_WRB To_TO Close_NNP The_DT Top_JJ On_IN The_DT Toothpaste_NNP 
+25_CD ._. Attainable_NNP Goal_NNP -_: Catching_VBG A_DT Ball_NNP Before_IN It_PRP Stops_NNP Moving_VBG 
+26_CD ._. You_PRP Too_RB Can_MD Carry_NNP A_DT Backpack_NNP 
+27_CD ._. Dress_NNP Like_IN A_DT Slut_NNP And_CC Put_VB On_IN Something_NN Sexy_NNP -_: Why_WRB It_PRP Wo_NNP n't_RB Ruin_NNP Your_PRP$ Brain_NNP 
+28_CD ._. Payday_NNP And_CC Shopping_NNP Are_VBP Not_RB Synonymous_NNP 
+28_CD ._. How_WRB To_TO Act_NNP Younger_NNP Than_IN Your_PRP$ Mother_NNP 
+29_CD ._. Learning_NNP To_TO Appreciate_NNP The_DT Beer_NNP Belly_NNP And_CC Lard_NNP Butt_NNP Morphologies_NNP Of_IN Men_NN 
+30_CD ._. Female_NNP Friendship_NNP -_: Why_WRB Your_PRP$ Best_JJS Friends_NNPS Are_VBP n't_RB The_DT ones_NNS Who_WP Complain_NNP About_IN You_PRP The_DT Most_JJS 
+Small_NNP Town_NNP Church_NNP On_IN vacation_NN with_IN her_PRP$ family_NN in_IN Montana_NNP ,_, a_DT mother_NN drove_VBD her_PRP$ van_NN past_JJ a_DT church_NN in_IN a_DT small_JJ town_NN and_CC pointing_VBG to_TO it_PRP ,_, told_VBD the_DT children_NNS that_IN it_PRP was_VBD St._NN Andrews_NNP Church_NNP ._. 
+Just_RB then_RB ,_, her_PRP$ young_JJ son_NN piped_VBD up_RB ,_, "_'' It_PRP must_MD be_VB a_DT franchise_NN ,_, we_PRP 've_VBP got_VBN one_CD of_IN those_DT at_IN home_NN too_RB ._. "_'' 
+
+Big_NNP Rocks_NNP A_DT lady_NN on_IN her_PRP$ first_JJ visit_NN to_TO Yellowstone_NNP National_NNP Park_NNP said_VBD to_TO her_PRP$ guide_NN ,_, "_'' Look_VB at_IN all_PDT those_DT big_JJ rocks_NNS ._. 
+Wherever_NNP did_VBD they_PRP come_VBP from_IN ?_. "_'' 
+"_'' The_DT glaciers_NNS brought_VBD them_PRP down_RB ,_, "_'' said_VBD the_DT guide_NN ._. 
+"_'' Well_RB ,_, where_WRB are_VBP the_DT glaciers_NNS then_RB ?_. "_'' 
+"_'' The_DT glaciers_NNS ,_, dear_RB lady_NN ,_, "_'' said_VBD the_DT guide_NN in_IN a_DT weary_JJ voice_NN ,_, "_'' have_VBP gone_VBN back_RB to_TO get_VB more_JJR rocks_NNS ._. "_'' 
+
+Words_NNPS To_TO Live_NNP By_IN If_IN at_IN first_JJ you_PRP do_VBP n't_RB succeed_VB ,_, destroy_VBP all_DT evidence_NN that_IN you_PRP tried_VBD ._. 
+A_DT conclusion_NN is_VBZ the_DT place_NN where_WRB you_PRP gave_VBD up_RP thinking_VBG ._. 
+For_IN every_DT action_NN ,_, there_EX is_VBZ an_DT equal_JJ and_CC opposite_JJ criticism_NN ._. 
+He_PRP who_WP hesitates_NNS is_VBZ probably_RB right_JJ ._. 
+Never_RB do_VBP card_NN tricks_NNS for_IN the_DT group_NN you_PRP play_VBP poker_NN with_IN ._. 
+No_DT one_NN is_VBZ listening_VBG until_IN you_PRP make_VBP a_DT mistake_NN ._. 
+Success_NNP always_RB occurs_VBZ in_IN private_JJ ,_, and_CC failure_NN in_IN full_JJ view_NN ._. 
+The_DT colder_JJR the_DT X-ray_JJ table_NN ,_, the_DT more_JJR of_IN your_PRP$ body_NN is_VBZ required_VBN on_IN it_PRP ._. 
+The_DT hardness_NNS of_IN butter_NN is_VBZ proportional_JJ to_TO the_DT softness_NN of_IN the_DT bread_NN ._. 
+The_DT severity_NN of_IN the_DT itch_NN is_VBZ proportional_JJ to_TO the_DT difficulty_NN of_IN reach_NN ._. 
+The_DT affection_NN of_IN your_PRP$ dog_NN is_VBZ proportional_JJ to_TO the_DT wetness_NNS of_IN it_PRP 's_VBZ paws_NNS ._. 
+To_TO steal_VB ideas_NNS from_IN one_CD person_NN is_VBZ plagiarism_NN ;_: to_TO steal_VB from_IN many_JJ is_VBZ research_NN ._. 
+To_TO succeed_VB in_IN politics_NNS ,_, it_PRP is_VBZ often_RB necessary_JJ to_TO rise_VB above_IN your_PRP$ principles_NNS ._. 
+Two_CD wrongs_NNS are_VBP only_RB the_DT beginning_NN ._. 
+You_PRP never_RB really_RB learn_VB to_TO swear_VB until_IN you_PRP meet_VBP computer_NN (_( Micro_NNP )_) software_NN ._. 
+Monday_NNP is_VBZ a_DT truly_RB awful_JJ way_NN to_TO spend_VB 1_CD /_NN 7th_CD of_IN your_PRP$ life_NN ._. 
+The_DT further_RBR you_PRP fall_VBP behind_IN ,_, the_DT more_JJR time_NN you_PRP 'll_MD have_VB to_TO catch_VB up_RP ._. 
+A_DT clear_JJ conscience_NN is_VBZ probably_RB the_DT sign_NN of_IN a_DT bad_JJ memory_NN ._. 
+If_IN you_PRP must_MD choose_VB between_IN two_CD evils_NNS ,_, pick_VBP the_DT most_RBS interesting_JJ one_CD ._. 
+Change_NNP is_VBZ inevitable_JJ ...._. except_IN from_IN vending_VBG machines_NNS ._. 
+Do_VBP n't_RB sweat_VB petty_JJ things_NNS ...._. or_CC pet_NN sweaty_JJ things_NNS ._. 
+A_DT fool_NN and_CC his_PRP$ money_NN are_VBP soon_RB partying_VBG ._. 
+Money_NNP ca_MD n't_RB buy_VB love_NN ._. 
+But_CC it_PRP CAN_NNP rent_NN a_DT very_RB close_JJ imitation_NN ._. 
+Always_RB try_VB to_TO be_VB modest_JJ :_: 
+And_CC be_VB proud_JJ of_IN it_PRP !_. 
+If_IN you_PRP think_VBP nobody_NN cares_VBZ about_IN you_PRP ,_, try_VB missing_VBG a_DT couple_NN of_IN payments_NNS ._. 
+How_WRB many_JJ of_IN you_PRP believe_VBP in_IN telekinesis_NNS ?_. 
+Raise_VB my_PRP$ hand_NN ._. ..._... 
+If_IN you_PRP get_VBP a_DT new_JJ car_NN for_IN your_PRP$ spouse_NN --_: it_PRP 'll_MD be_VB a_DT great_JJ trade_NN !_. 
+Drugs_NNS may_MD lead_VB to_TO nowhere_RB ,_, but_CC at_IN least_JJS it_PRP 's_VBZ the_DT scenic_JJ route_NN ._. 
+I_PRP 'd_MD kill_VB for_IN a_DT Nobel_NNP P_NN (_( e_SYM )_) ace_NN Prize_NNP ._. 
+Plan_NNP to_TO be_VB spontaneous_JJ all_DT day_NN tomorrow_NN ._. 
+Everybody_NN repeat_NN after_IN me_PRP ....._. "_'' We_PRP are_VBP all_DT individuals_NNS ._. "_'' 
+
+The_DT Quick_NNP and_CC the_DT Dead_NNP Joe_NNP ,_, the_DT Governor_NNP 's_POS most_JJS trusted_VBN assistant_NN ,_, died_VBD in_IN his_PRP$ sleep_NN one_CD night_NN ._. 
+The_DT Governor_NNP had_VBD depended_VBN on_IN Joe_NNP for_IN advice_NN on_IN every_DT subject_NN ,_, from_IN pending_VBG bills_NNS to_TO wardrobe_NN decisions_NNS ._. 
+In_IN addition_NN ,_, Joe_NNP had_VBD been_VBN his_PRP$ closest_JJS friend_NN ._. 
+So_RB ,_, it_PRP was_VBD understandable_JJ that_IN the_DT Governor_NNP did_VBD n't_RB take_VB kindly_RB to_TO the_DT droves_NNS of_IN ambitious_JJ office_NN seekers_NNS who_WP wanted_VBD Joe_NNP 's_POS job_NN ._. 
+"_'' They_PRP do_VBP n't_RB even_RB have_VB the_DT decency_NN to_TO wait_VB until_IN the_DT man_NN is_VBZ buried_VBN ,_, "_'' the_DT Governor_NNP muttered_JJ ._. 
+At_IN the_DT funeral_NN ,_, one_CD eager_JJ beaver_NN made_VBD his_PRP$ way_NN to_TO the_DT Governor_NNP 's_POS side_NN ._. 
+"_'' Governor_NNP ,_, "_'' the_DT man_NN said_VBD ,_, "_'' is_VBZ there_EX a_DT chance_NN that_IN I_PRP could_MD take_VB over_IN Joe_NNP 's_POS place_NN ?_. "_'' 
+"_'' Certainly_RB ,_, "_'' the_DT governor_NN replied_VBD ._. 
+"_'' But_CC you_PRP 'll_MD have_VB to_TO hurry_VB ,_, I_PRP think_VBP the_DT undertaker_NN is_VBZ nearly_RB finished_VBN ._. "_'' 
+
+Fraud_NNP Warning_NNP !_. WARNING_NNP !_. 
+PLEASE_NNP READ_NNP IMMEDIATELY_NNP !_. 
+THIS_NNP IS_VBZ SERIOUS_NNP !_. 
+If_IN you_PRP get_VBP an_DT envelope_NN from_IN a_DT company_NN called_VBD the_DT Internal_NNP Revenue_NNP Service_NNP ,_, "_'' DO_NNP NOT_NNP OPEN_NNP IT_PRP !_. "_'' 
+This_DT group_NN operates_VBZ a_DT major_JJ scam_NN around_IN the_DT same_JJ time_NN every_DT year_NN ._. 
+Their_PRP$ letter_NN claims_NNS that_IN you_PRP owe_VBP them_PRP money_NN ,_, which_WDT they_PRP will_MD take_VB and_CC use_VB to_TO pay_VB for_IN the_DT operation_NN of_IN essential_JJ functions_NNS of_IN the_DT government_NN ._. 
+This_DT is_VBZ untrue_JJ !_. 
+The_DT money_NN the_DT IRS_NNP collects_VBZ is_VBZ used_VBN to_TO fund_VB themselves_PRP and_CC various_JJ other_JJ corporations_NNS which_WDT entirely_RB depend_VB on_IN these_DT '_POS subsidies_NNS '_POS to_TO stay_NN in_IN business_NN ._. 
+This_DT organization_NN has_VBZ ties_NNS to_TO another_DT questionable_JJ organization_NN called_VBD the_DT Social_NNP Security_NNP Administration_NNP ,_, who_WP claim_VBP to_TO take_VB money_NN from_IN your_PRP$ regular_JJ paychecks_NNS and_CC save_VB it_PRP for_IN your_PRP$ retirement_NN ._. 
+This_DT is_VBZ not_RB so_RB ._. 
+In_IN truth_NN ,_, the_DT SSA_NNP uses_VBZ the_DT money_NN to_TO pay_VB for_IN it_PRP 's_VBZ own_JJ overheads_NNS and_CC the_DT same_JJ misguided_JJ corporate_JJ welfare_NN the_DT IRS_NNP helps_VBZ to_TO mastermind_NN ._. 
+These_DT scam_NN artists_NNS have_VBP bilked_JJ honest_JJ ,_, hard_JJ working_NN citizens_NNS out_IN of_IN billions_NNS of_IN dollars_NNS ._. 
+Do_VBP n't_RB you_PRP be_VB among_IN them_PRP !_. 
+
+Getting_VBG on_IN …_NN Middle_NNP age_NN is_VBZ when_WRB you_PRP burn_VBP the_DT midnight_NN oil_NN around_IN 9:00_NN pm_NN ._. 
+
+Related_NNP ?_. A_DT couple_NN drove_VBD several_JJ miles_NNS down_RP a_DT country_NN road_NN ,_, not_RB saying_VBG a_DT word_NN after_IN an_DT earlier_JJR discussion_NN had_VBD led_VBN to_TO an_DT argument_NN ,_, and_CC neither_DT wanted_VBD to_TO concede_VB their_PRP$ position_NN ._. 
+As_IN they_PRP passed_VBD a_DT barnyard_NN of_IN mules_NNS and_CC pigs_NNS ,_, the_DT wife_NN sarcastically_RB asked_VBD ,_, "_'' Relatives_NNP of_IN yours_NNS ?_. "_'' 
+"_'' Yep_NNP ,_, "_'' the_DT husband_NN replied_VBD ,_, "_'' In-laws_NNP ._. "_'' 
+
+Bad_NNP Landing_NNP An_DT airline_NN pilot_NN wrote_VBD that_IN on_IN this_DT particular_JJ flight_NN he_PRP had_VBD hammered_VBN his_PRP$ ship_NN into_IN the_DT runway_NN really_RB hard_JJ ._. 
+The_DT airline_NN had_VBD a_DT policy_NN ,_, which_WDT required_VBD the_DT first_JJ officer_NN to_TO stand_VB at_IN the_DT door_NN while_IN the_DT passengers_NNS exited_VBD ,_, give_VBP a_DT smile_NN ,_, and_CC a_DT "_'' Thanks_NNS for_IN flying_VBG XYZ_NNP airline_NN ._. "_'' 
+He_PRP said_VBD that_IN in_IN light_NN of_IN his_PRP$ bad_JJ landing_NN ,_, he_PRP had_VBD a_DT hard_JJ time_NN looking_VBG the_DT passengers_NNS in_IN the_DT eye_NN ,_, thinking_VBG that_DT someone_NN would_MD have_VB a_DT smart_JJ comment_NN ,_, but_CC no_DT one_CD seemed_VBD annoyed_VBN ._. 
+Finally_RB everyone_NN had_VBD gotten_VBN off_RP except_IN for_IN one_CD little_RB old_JJ lady_NN walking_VBG with_IN a_DT cane_NN ._. 
+She_PRP approached_VBD and_CC asked_VBN ,_, conspiratorially_RB ,_, "_'' Sonny_NNP ,_, do_VBP you_PRP mind_NN if_IN I_PRP ask_VBP you_PRP a_DT question_NN ?_. "_'' 
+"_'' Why_WRB no_DT Ma'am_NNP ,_, what_WP is_VBZ it_PRP ?_. "_'' 
+"_'' Did_VBD we_PRP land_NN ,_, or_CC were_VBD we_PRP shot_VBD down_RB ?_. "_'' 
+
+Oh_UH God_NNP !_. Save_NNP Me_PRP !_. There_EX is_VBZ this_DT atheist_NN swimming_NN in_IN the_DT ocean_NN ._. 
+All_DT of_IN a_DT sudden_JJ he_PRP sees_VBZ this_DT shark_NN in_IN the_DT water_NN ,_, so_IN he_PRP starts_VBZ swimming_NN towards_IN his_PRP$ boat_NN ._. 
+As_IN he_PRP looks_VBZ back_RB he_PRP sees_VBZ the_DT shark_NN turn_NN and_CC head_VB towards_IN him_PRP ._. 
+His_PRP$ boat_NN is_VBZ a_DT ways_NNS off_RP and_CC he_PRP starts_VBZ swimming_NN like_IN crazy_JJ ._. 
+He_PRP 's_VBZ scared_VBN to_TO death_NN ,_, and_CC as_IN he_PRP turns_VBZ to_TO see_VB the_DT jaws_NNS of_IN the_DT great_JJ white_JJ beast_NN open_JJ revealing_VBG its_PRP$ teeth_NNS in_IN a_DT horrific_JJ splendor_NN ,_, the_DT atheist_NN screams_VBZ ,_, "_'' Oh_UH God_NNP !_. 
+Save_NNP me_PRP !_. "_'' 
+In_IN an_DT instant_JJ time_NN is_VBZ frozen_VBN and_CC a_DT bright_JJ light_JJ shines_NNS down_RB from_IN above_IN ._. 
+The_DT man_NN is_VBZ motionless_JJ in_IN the_DT water_NN when_WRB he_PRP hears_VBZ the_DT voice_NN of_IN God_NNP say_VBP ,_, "_'' You_PRP are_VBP an_DT atheist_NN ._. 
+Why_WRB do_VBP you_PRP call_VBP upon_IN me_PRP when_WRB you_PRP do_VBP not_RB believe_VB in_IN me_PRP ?_. "_'' 
+Aghast_NNP with_IN confusion_NN and_CC knowing_VBG he_PRP ca_MD n't_RB lie_VB the_DT man_NN replies_VBZ ,_, "_'' Well_RB ,_, that_DT 's_VBZ true_JJ ,_, I_PRP do_VBP n't_RB believe_VB in_IN you_PRP ,_, but_CC how_WRB about_IN the_DT shark_NN ?_. 
+Can_MD you_PRP make_VB the_DT shark_NN believe_VBP in_IN you_PRP ?_. 
+"_'' The_DT Lord_NNP replies_VBZ ,_, "_'' As_IN you_PRP wish_VBP ,_, "_'' and_CC the_DT light_NN retracted_VBD back_RB into_IN the_DT heavens_NNS and_CC the_DT man_NN could_MD feel_VB the_DT water_NN begin_VB to_TO move_VB once_RB again_RB ._. 
+As_IN the_DT atheist_NN looks_VBZ back_RB he_PRP can_MD see_VB the_DT jaws_NNS of_IN the_DT shark_NN start_NN to_TO close_VB down_RB on_IN him_PRP ,_, when_WRB all_DT of_IN sudden_JJ the_DT shark_NN stops_VBZ and_CC pulls_VBZ back_RB ._. 
+Shocked_VBN ,_, the_DT man_NN looks_VBZ at_IN the_DT shark_NN as_IN the_DT huge_JJ beast_NN closes_VBZ its_PRP$ eyes_NNS and_CC bows_NNS its_PRP$ head_NN and_CC says_VBZ ,_, "_'' Thank_VB you_PRP Lord_NNP for_IN this_DT food_NN which_WDT I_PRP am_VBP about_IN to_TO receive_VB ..._... "_'' 
+
+Ways_NNP To_TO Simulate_NNP Ski_NNP Season_NN This_DT is_VBZ to_TO remind_VB skiers_NNS how_WRB to_TO prepare_VB for_IN the_DT ski_NN season_NN and_CC to_TO remind_VB non-skiers_JJ why_WRB they_PRP do_VBP not_RB ski_VB ._. 
+10_CD ._. Visit_NNP your_PRP$ local_JJ butcher_NN and_CC pay_VB $30_NN to_TO sit_VB in_IN the_DT walk-in_JJ freezer_NN for_IN half_PDT an_DT hour_NN ._. 
+Afterwards_RB ,_, burn_VB two_CD $50_NN dollar_NN bills_NNS to_TO warm_VB up_RP ._. 
+9_CD ._. Go_VB to_TO the_DT nearest_JJS hockey_NN rink_NN and_CC walk_VB across_IN the_DT ice_NN 20_CD times_NNS in_IN your_PRP$ ski_NN boots_NNS carrying_VBG two_CD pairs_NNS of_IN skis_NNS ,_, accessory_JJ bag_NN and_CC poles_NNS ._. 
+Pretend_VB you_PRP are_VBP looking_VBG for_IN your_PRP$ car_NN ._. 
+8_CD ._. For_IN ski_NN boot_NN simulation_NN at_IN home_NN ,_, put_VBP a_DT pebble_JJ in_IN your_PRP$ street_NN shoes_NNS and_CC tighten_VB a_DT C-clamp_NNP around_IN your_PRP$ toes_NNS ._. 
+7_CD ._. Buy_VB a_DT pair_NN of_IN gloves_NNS and_CC immediately_RB throw_VB one_CD away_RB ._. 
+6_CD ._. Go_VB to_TO McDonald_NNP 's_POS and_CC insist_VBP on_IN paying_VBG $6.50_NN for_IN a_DT hamburger_NN ._. 
+Be_VB sure_JJ to_TO wait_VB in_IN the_DT longest_JJS line_NN ._. 
+5_CD ._. Clip_NNP a_DT lift_NN ticket_NN to_TO the_DT zipper_NN of_IN your_PRP$ jacket_NN and_CC ride_VB a_DT motorcycle_NN fast_RB enough_RB to_TO make_VB the_DT ticket_NN lacerate_NN your_PRP$ face_NN ._. 
+4_CD ._. Drive_NNP slowly_RB for_IN five_CD hours_NNS -_: anywhere_RB -_: as_RB long_RB as_IN it_PRP 's_VBZ in_IN a_DT snowstorm_NN and_CC you_PRP 're_VBP following_VBG an_DT 18_CD wheeler_NN ._. 
+3_CD ._. Fill_NNP a_DT blender_NN with_IN ice_NN ,_, hit_VBD the_DT pulse_NN button_NN and_CC let_VB the_DT spray_NN blast_NN your_PRP$ face_NN ._. 
+You_PRP 'd_MD almost_RB believe_VB you_PRP 're_VBP skiing_NN in_IN front_NN of_IN a_DT snow_NN maker_NN !_. 
+2_CD ._. Dress_NNP up_RB in_IN as_IN many_JJ clothes_NNS as_IN you_PRP can_MD and_CC then_RB proceed_VB to_TO take_VB them_PRP off_RP because_IN you_PRP have_VBP to_TO go_VB to_TO the_DT bathroom_NN ._. 
+1_CD ._. Repeat_NN all_DT of_IN the_DT above_JJ every_DT Saturday_NNP and_CC Sunday_NNP ._. 
+

@@ -1,0 +1,182 @@
+Introduction_NNP Older_JJR adults_NNS are_VBP frequently_RB counseled_VBN to_TO lose_VB weight_NN ,_, even_RB though_IN there_EX is_VBZ little_JJ evidence_NN that_DT overweight_NN is_VBZ associated_VBN with_IN increased_VBN mortality_NN in_IN those_DT over_JJ age_NN 65_CD ._. 
+Six_CD large_RB controlled_VBN population-based_JJ studies_NNS of_IN non-smoking_JJ older_JJR adults_NNS have_VBP investigated_VBN the_DT association_NN between_IN body_NN mass_NN index_NN (_( BMI_NNP )_) and_CC mortality_NN ,_, controlling_VBG for_IN relevant_JJ covariates_NNS [_NN 1_CD 2_CD 3_CD 4_CD 5_CD 6_CD ]_NN ._. 
+All_DT studies_NNS found_VBD excess_JJ risk_NN for_IN persons_NNS with_IN very_RB low_JJ BMI_NNP ,_, but_CC that_IN persons_NNS with_IN moderately_RB high_JJ BMI_NNP had_VBD little_JJ or_CC no_DT extra_JJ risk_NN except_IN in_IN certain_JJ small_JJ subsets_NNS ._. 
+A_DT review_NN of_IN 13_CD studies_NNS of_IN older_JJR adults_NNS drew_VBD similar_JJ conclusions_NNS [_NN 7_CD ]_NN ._. 
+
+Many_JJ healthy_JJ older_JJR adults_NNS report_VBP gradual_JJ weight_NN gain_NN throughout_IN adult_NN life_NN ._. 
+It_PRP may_MD be_VB that_IN a_DT small_JJ amount_NN of_IN gradual_JJ weight_NN gain_NN is_VBZ normative_JJ and_CC associated_VBN with_IN the_DT most_RBS robust_JJ health_NN as_IN we_PRP age_VBP ._. 
+It_PRP has_VBZ been_VBN suggested_VBN that_IN weight_NN standards_NNS be_VB adjusted_VBN upwards_NNS for_IN age_NN [_NN 8_CD ]_NN ._. 
+Such_JJ recommendations_NNS remain_VBP controversial_JJ ,_, however_RB ,_, because_IN the_DT number_NN of_IN studies_NNS of_IN older_JJR persons_NNS is_VBZ fairly_RB small_JJ ,_, and_CC because_IN few_JJ studies_NNS have_VBP examined_VBN the_DT relation_NN of_IN BMI_NNP to_TO quality_NN of_IN life_NN or_CC years_NNS of_IN healthy_JJ life_NN (_( YHL_NNP )_) in_IN the_DT elderly_JJ [_NN 9_CD ]_NN ._. 
+
+In_IN older_JJR adults_NNS ,_, risk_NN factors_NNS may_MD have_VB a_DT greater_JJR effect_NN on_IN health_NN than_IN on_IN mortality_NN ._. 
+If_IN so_RB ,_, then_RB behavior_NN change_NN trials_NNS of_IN weight_NN modification_NN might_MD be_VB more_RBR successful_JJ if_IN they_PRP were_VBD evaluated_VBN on_IN improved_VBN health_NN ,_, rather_RB than_IN on_IN decreased_VBD mortality_NN ._. 
+Clinical_NNP trials_NNS powered_VBN to_TO detect_VB differences_NNS in_IN YHL_NNP would_MD often_RB require_VB fewer_JJR subjects_NNS than_IN trials_NNS to_TO detect_VB survival_NN differences_NNS or_CC cardiovascular_JJ events_NNS [_NN 10_CD ]_NN ._. 
+In_IN this_DT paper_NN we_PRP study_VBP whether_IN BMI_NNP at_IN baseline_NN is_VBZ associated_VBN with_IN living_VBG longer_RBR ,_, and_CC /_NN or_CC with_IN more_JJR years_NNS of_IN being_VBG healthy_JJ ,_, in_IN a_DT cohort_NN of_IN older_JJR adults_NNS for_IN whom_WP risk_NN factors_NNS ,_, subclinical_JJ disease_NN ,_, and_CC morbidity_NN are_VBP well_RB characterized_VBN ._. 
+The_DT goal_NN is_VBZ to_TO determine_VB whether_IN analyses_NNS based_VBN on_IN years_NNS of_IN life_NN (_( YOL_NNP )_) or_CC on_IN YHL_NNP would_MD provide_VB substantively_RB different_JJ results_NNS ,_, and_CC which_WDT measure_NN would_MD yield_VB more_RBR powerful_JJ evaluations_NNS of_IN weight_NN modification_NN interventions_NNS in_IN older_JJR adults_NNS ._. 
+
+Materials_NNS and_CC methods_NNS Study_NN design_NN :_: The_DT Cardiovascular_NNP Health_NNP Study_NNP The_DT Cardiovascular_NNP Health_NNP Study_NNP (_( CHS_NNP )_) is_VBZ a_DT population-based_JJ longitudinal_NN study_NN of_IN 5,888_CD adults_NNS aged_VBN 65_CD and_CC older_JJR at_IN baseline_NN [_NN 11_CD ]_NN ._. 
+Subjects_NNP were_VBD recruited_VBN from_IN a_DT random_JJ sample_NN of_IN the_DT Medicare_NNP eligibility_NN lists_NNS in_IN four_CD US_NNP counties_NNS ._. 
+Extensive_NNP baseline_NN data_NNS were_VBD collected_VBN for_IN all_DT subjects_NNS using_VBG a_DT baseline_NN home_NN interview_NN ,_, an_DT annual_JJ mail_NN questionnaire_NN ,_, and_CC annual_JJ clinic_NN examinations_NNS ._. 
+Additional_JJ information_NN was_VBD collected_VBN in_IN a_DT brief_JJ telephone_NN interview_NN 6_CD months_NNS after_IN each_DT scheduled_JJ visit_NN ._. 
+Two_CD cohorts_NNS were_VBD followed_VBN ,_, one_CD with_IN 7_CD years_NNS of_IN follow-up_JJ (_( n_NN =_SYM 5,201_CD )_) and_CC the_DT second_JJ (_( all_DT African_NNP American_NNP ,_, n_NN =_SYM 687_CD )_) with_IN 4_CD years_NNS of_IN follow-up_JJ to_TO date_NN ._. 
+Data_NNP collection_NN began_VBD in_IN 1989_CD ,_, and_CC follow-up_JJ is_VBZ virtually_RB complete_JJ for_IN all_DT surviving_VBG subjects_NNS [_NN 12_CD ]_NN ._. 
+
+Body_NN mass_NN index_NN BMI_NNP was_VBD calculated_VBN as_IN measured_VBN weight_NN in_IN kilograms_NNS divided_VBN by_IN the_DT square_NN of_IN measured_VBN height_NN in_IN meters_NNS ._. 
+A_DT report_NN from_IN the_DT National_NNP Heart_NNP Lung_NNP and_CC Blood_NNP Institute_NNP classifies_VBZ normal_JJ weight_NN (_( without_IN reference_NN to_TO age_NN )_) as_IN a_DT BMI_NNP of_IN 18.5_CD to_TO 24.9_CD ;_: overweight_NN as_IN 25_CD to_TO 29.9_CD ;_: and_CC obesity_NN as_IN 30.0_CD and_CC higher_JJR [_NN 13_CD ]_NN ._. 
+We_PRP consider_VBP separately_RB the_DT group_NN with_IN BMI_NNP between_IN 18.5_CD and_CC 20_CD ,_, which_WDT was_VBD associated_VBN with_IN lower_JJR survival_NN in_IN studies_NNS cited_VBD above_IN ._. 
+
+Years_NNS of_IN life_NN and_CC years_NNS of_IN healthy_JJ life_NN YOL_NNP is_VBZ the_DT number_NN of_IN years_NNS that_IN a_DT person_NN lived_VBD in_IN the_DT 7_CD years_NNS after_IN baseline_NN ._. 
+YHL_NNP is_VBZ the_DT number_NN of_IN years_NNS in_IN which_WDT the_DT person_NN was_VBD '_POS healthy_JJ '_POS ,_, and_CC is_VBZ similar_JJ in_IN concept_NN to_TO quality-adjusted_JJ life-years_JJ ,_, healthy_JJ year_NN equivalents_NNS ,_, or_CC active_JJ life_NN expectancy_NN [_NN 14_CD ]_NN ._. 
+We_PRP based_VBD YHL_NNP on_IN self-rated_JJ health_NN (_( is_VBZ your_PRP$ health_NN excellent_JJ ,_, very_RB good_JJ ,_, good_JJ ,_, fair_JJ ,_, or_CC poor_JJ ?_. )_) (_( EVGFP_NNP )_) which_WDT was_VBD collected_VBN every_DT 6_CD months_NNS ._. 
+EVGFP_NNP is_VBZ a_DT simple_JJ but_CC well-known_JJ measure_NN ,_, which_WDT has_VBZ been_VBN studied_VBN in_IN detail_NN [_NN 15_CD 16_CD ]_NN ,_, and_CC is_VBZ predictive_JJ of_IN health_NN events_NNS in_IN many_JJ studies_NNS [_NN 17_CD ]_NN ._. 
+Because_IN we_PRP are_VBP examining_VBG health_NN status_NN over_IN time_NN ,_, we_PRP added_VBD a_DT sixth_JJ health_NN state_NN ,_, dead_JJ ._. 
+Data_NNP were_VBD available_JJ about_IN 93_CD %_NN of_IN the_DT time_NN ._. 
+We_PRP used_VBD linear_JJ interpolation_NN to_TO estimate_VB missing_VBG data_NNS when_WRB there_EX were_VBD known_VBN values_NNS before_IN and_CC after_IN the_DT missing_VBG value_NN ,_, bringing_VBG the_DT percent_NN complete_JJ to_TO 95_CD %_NN [_NN 18_CD ]_NN ._. 
+
+For_IN this_DT analysis_NN we_PRP defined_VBD YHL_NNP as_IN the_DT number_NN of_IN years_NNS (_( of_IN 7_CD )_) in_IN which_WDT a_DT person_NN reported_VBD excellent_JJ ,_, very_RB good_JJ ,_, or_CC good_JJ health_NN (_( were_VBD '_POS healthy_JJ '_POS )_) ._. 
+YHL_NNP ranges_NNS from_IN 0_CD (_( for_IN persons_NNS who_WP were_VBD never_RB in_IN excellent_JJ ,_, very_RB good_JJ ,_, or_CC good_JJ health_NN )_) to_TO 7_CD years_NNS (_( for_IN persons_NNS who_WP were_VBD healthy_JJ throughout_IN )_) ._. 
+Since_IN people_NNS reported_VBD their_PRP$ health_NN every_DT 6_CD months_NNS ,_, YHL_NNP has_VBZ a_DT reasonably_RB continuous_JJ distribution_NN ._. 
+A_DT drawback_NN of_IN this_DT simple_JJ definition_NN of_IN '_POS healthy_JJ '_POS is_NNS that_IN it_PRP does_VBZ not_RB distinguish_VB between_IN fair_JJ or_CC poor_JJ health_NN and_CC death_NN ,_, since_IN all_DT are_VBP considered_VBN '_POS not_RB healthy_JJ '_'' ._. 
+We_PRP also_RB used_VBD an_DT alternative_JJ approach_NN ,_, which_WDT assigns_VBZ a_DT different_JJ value_NN to_TO each_DT level_NN of_IN EVGFP_NNP [_NN 19_CD ]_NN ._. 
+Preliminary_JJ results_NNS were_VBD similar_JJ for_IN the_DT two_CD approaches_NNS ,_, however_RB ,_, and_CC we_PRP report_VBP results_NNS using_VBG only_RB the_DT simpler_JJR definition_NN ._. 
+
+The_DT calculations_NNS had_VBD to_TO be_VB modified_VBN to_TO include_VB the_DT 438_CD persons_NNS in_IN the_DT second_JJ African_NNP American_JJ cohort_NN ,_, who_WP have_VBP been_VBN followed_VBN only_RB 4_CD years_NNS to_TO date_NN ._. 
+For_IN those_DT persons_NNS ,_, and_CC for_IN 70_CD persons_NNS in_IN the_DT first_JJ cohort_NN who_WP did_VBD not_RB have_VB complete_JJ data_NNS ,_, we_PRP estimated_VBD the_DT last_JJ 4_CD years_NNS of_IN YOL_NNP and_CC YHL_NNP from_IN their_PRP$ age_NN ,_, sex_NN ,_, and_CC health_NN at_IN the_DT end_NN of_IN 3_CD years_NNS ,_, using_VBG validated_JJ methods_NNS presented_VBN elsewhere_RB [_NN 20_CD ]_NN ._. 
+That_DT article_NN showed_VBD that_WDT estimated_VBD 4_CD -_: year_NN YOL_NNP and_CC YHL_NNP were_VBD unbiased_JJ for_IN the_DT African_NNP American_JJ cohort_NN ._. 
+In_IN the_DT primary_JJ analysis_NN we_PRP used_VBD observed_VBD 7_CD -_: year_NN YOL_NNP and_CC YHL_NNP when_WRB they_PRP were_VBD available_JJ ,_, and_CC observed_VBD 3_CD -_: year_NN YOL_NNP and_CC YHL_NNP plus_CC 4_CD -_: year_NN estimated_VBD YOL_NNP and_CC YHL_NNP when_WRB they_PRP were_VBD not_RB (_( about_IN 10_CD %_NN of_IN the_DT sample_NN )_) ._. 
+We_PRP performed_VBD all_DT analyses_NNS with_IN and_CC without_IN the_DT persons_NNS who_WP had_VBD partially_RB estimated_VBN data_NNS ,_, to_TO ensure_VB that_IN the_DT estimation_NN had_VBD not_RB distorted_JJ the_DT findings_NNS ._. 
+
+Covariates_NNP The_DT goal_NN is_VBZ to_TO examine_VB the_DT association_NN of_IN YOL_NNP and_CC YHL_NNP with_IN BMI_NNP ._. 
+To_TO adjust_VB for_IN possible_JJ confounding_VBG we_PRP chose_VBD baseline_NN covariates_NNS that_WDT were_VBD prevalent_JJ in_IN the_DT elderly_JJ ,_, related_VBN to_TO mortality_NN and_CC morbidity_NN in_IN previous_JJ studies_NNS ,_, and_CC likely_JJ to_TO be_VB related_VBN to_TO BMI_NNP ._. 
+Self-reported_NNP covariates_NNS include_VBP age_NN ,_, gender_NN ,_, smoking_NN (_( never_RB or_CC former_JJ )_) ,_, history_NN of_IN arthritis_NN ,_, cancer_NN ,_, diabetes_NN ,_, fair_JJ or_CC poor_JJ self-rated_JJ health_NN status_NN ,_, limitations_NNS in_IN activities_NNS of_IN daily_JJ living_NN or_CC in_IN instrumental_JJ activities_NNS of_IN daily_JJ living_NN ,_, and_CC 10_CD pounds_NNS or_CC more_RBR unintended_JJ weight_NN loss_NN in_IN the_DT year_NN before_IN baseline_NN ._. 
+Clinical_NNP covariates_NNS include_VBP hypertension_NN ,_, cardiovascular_JJ disease_NN (_( prevalent_JJ heart_NN disease_NN ,_, peripheral_JJ vascular_NN disease_NN ,_, or_CC cerebrovascular_NN disease_NN )_) ,_, maximum_NN thickness_NN of_IN the_DT internal_JJ carotid_NN artery_NN ,_, depression_NN (_( CESD_NNP score_NN )_) ,_, serum_NN albumin_NN ,_, serum_NN cholesterol_NN ,_, and_CC serum_NN creatinine_NN ._. 
+These_DT measures_NNS are_VBP explained_VBN in_IN more_JJR detail_NN elsewhere_RB [_NN 21_CD 22_CD 23_CD 24_CD ]_NN ._. 
+We_PRP excluded_VBD 697_CD current_JJ smokers_NNS and_CC 313_CD others_NNS with_IN incomplete_JJ covariate_NN data_NNS ,_, leaving_VBG 4,878_CD persons_NNS on_IN whom_WP this_DT analysis_NN is_VBZ based_VBN ._. 
+
+Analysis_NNP All_DT analyses_NNS were_VBD performed_VBN separately_RB for_IN men_NNS and_CC women_NNS ._. 
+We_PRP calculated_VBD two_CD sets_NNS of_IN adjusted_VBN values_NNS ,_, as_IN follows_VBZ ._. 
+We_PRP regressed_JJ YOL_NNP and_CC YHL_NNP first_JJ on_IN age_NN ,_, age_NN squared_VBD ,_, race_NN ,_, and_CC smoking_NN history_NN (_( former_JJ or_CC never_RB )_) ,_, and_CC second_JJ on_IN all_DT of_IN the_DT covariates_NNS listed_VBN above_IN ._. 
+We_PRP calculated_VBD adjusted_VBN YOL_NNP as_IN a_DT person_NN 's_POS observed_VBD YOL_NNP minus_CC predicted_VBD YOL_NNP (_( from_IN the_DT regression_NN )_) plus_CC the_DT mean_NN YOL_NNP (_( 6.52_CD years_NNS for_IN women_NNS or_CC 6.06_CD for_IN men_NNS )_) ._. 
+That_DT is_VBZ ,_, a_DT person_NN 's_POS adjusted_VBN YOL_NNP is_VBZ his_PRP$ residual_JJ from_IN the_DT regression_NN plus_CC the_DT grand_JJ mean_NN ._. 
+The_DT mean_NN of_IN this_DT new_JJ variable_NN ,_, for_IN a_DT group_NN of_IN subjects_NNS ,_, is_VBZ the_DT adjusted_JJ mean_NN YOL_NNP for_IN that_DT group_NN ._. 
+Adjusted_NNP YHL_NNP was_VBD calculated_VBN in_IN a_DT similar_JJ manner_NN ._. 
+We_PRP calculated_VBD two_CD sets_NNS of_IN adjusted_VBN variables_NNS because_IN of_IN the_DT possibility_NN of_IN '_POS over-adjustment_JJ '_POS ,_, controlling_VBG inappropriately_RB for_IN factors_NNS (_( such_JJ as_IN diabetes_NN )_) which_WDT may_MD have_VB been_VBN causally_RB affected_VBN by_IN the_DT person_NN 's_POS weight_NN ._. 
+We_PRP plotted_VBD mean_VB adjusted_VBN YOL_NNP and_CC YHL_NNP against_IN BMI_NNP ,_, and_CC tested_VBD for_IN difference_NN among_IN BMI_NNP groups_NNS using_VBG confidence_NN intervals_NNS or_CC analysis_NN of_IN variance_NN ._. 
+Finally_RB we_PRP calculated_VBD the_DT effect_NN size_NN for_IN each_DT measure_NN ,_, comparing_VBG each_DT BMI_NNP subgroup_NN to_TO the_DT '_POS normal_JJ '_POS group_NN ._. 
+The_DT effect_NN size_NN is_VBZ the_DT difference_NN in_IN mean_NN YOL_NNP (_( or_CC YHL_NNP )_) in_IN two_CD groups_NNS divided_VBN by_IN their_PRP$ common_JJ standard_JJ deviation_NN ._. 
+Since_IN the_DT sample_NN size_NN required_VBN to_TO detect_VB an_DT effect_NN of_IN this_DT magnitude_NN is_VBZ proportional_JJ to_TO the_DT inverse_NN of_IN the_DT squared_JJ effect_NN size_NN ,_, large_JJ effect_NN sizes_NNS are_VBP desirable_JJ ._. 
+
+Results_NNS Table_NNP 1_CD shows_VBZ the_DT distribution_NN of_IN key_JJ variables_NNS by_IN sex_NN and_CC race_NN ._. 
+Mean_VB age_NN at_IN baseline_NN was_VBD 73.1_CD and_CC about_IN two_CD thirds_NNS of_IN the_DT men_NNS and_CC a_DT third_JJ of_IN the_DT women_NNS were_VBD former_JJ smokers_NNS ._. 
+Black_JJ women_NNS had_VBD a_DT higher_JJR mean_NN BMI_NNP and_CC higher_JJR percent_NN obese_NN (_( BMI_NNP ≥_NN 30_CD )_) than_IN the_DT other_JJ three_CD groups_NNS ._. 
+Black_JJ men_NNS were_VBD most_RBS likely_JJ to_TO have_VB unintentionally_RB lost_VBN more_JJR than_IN 10_CD pounds_NNS in_IN the_DT past_JJ year_NN ;_: white_JJ women_NNS were_VBD least_JJS likely_JJ ._. 
+
+About_IN 78_CD %_NN of_IN the_DT subjects_NNS were_VBD healthy_JJ at_IN baseline_NN ,_, declining_VBG to_TO 57_CD %_NN at_IN the_DT end_NN of_IN 7_CD years_NNS ;_: 20_CD %_NN had_VBD died_VBN (_( data_NNS not_RB shown_VBN )_) ._. 
+Of_IN the_DT 22_CD %_NN who_WP were_VBD unhealthy_JJ (_( fair_JJ or_CC poor_JJ )_) at_IN baseline_NN ,_, about_IN 24_CD %_NN were_VBD healthy_JJ 7_CD years_NNS later_RB ._. 
+There_EX was_VBD thus_RB substantial_JJ change_NN in_IN EVGFP_NNP over_IN time_NN ,_, in_IN both_DT directions_NNS ._. 
+Table_NNP 1_CD shows_VBZ the_DT mean_NN YOL_NNP and_CC YHL_NNP (_( calculated_VBN from_IN EVGFP_NNP )_) in_IN the_DT first_JJ seven_CD years_NNS of_IN the_DT study_NN ,_, adjusted_VBN to_TO age_NN 73_CD ._. 
+For_IN example_NN ,_, black_JJ women_NNS averaged_VBD 6.3_CD YOL_NNP ,_, but_CC only_RB 4.2_CD YHL_NNP of_IN a_DT maximum_NN possible_JJ 7_CD ._. We_PRP calculated_VBD some_DT additional_JJ descriptive_JJ statistics_NNS ,_, shown_VBN in_IN the_DT final_JJ two_CD lines_NNS :_: years_NNS of_IN unhealthy_JJ life_NN (_( YOL_NNP minus_CC YHL_NNP )_) and_CC years_NNS lost_VBD to_TO death_NN (_( 7_CD minus_CC YOL_NNP )_) ._. 
+White_JJ women_NNS had_VBD the_DT most_JJS YHL_NNP and_CC black_JJ men_NNS the_DT fewest_JJS ;_: black_JJ women_NNS had_VBD the_DT most_JJS years_NNS of_IN unhealthy_JJ life_NN ,_, and_CC white_JJ men_NNS the_DT fewest_JJS ;_: black_JJ men_NNS lost_VBD the_DT most_JJS years_NNS to_TO death_NN (_( 1.3_CD out_IN of_IN 7_CD )_) while_IN white_JJ women_NNS lost_VBD only_RB 0.4_CD years_NNS ._. 
+For_IN blacks_NNS ,_, about_IN 68_CD %_NN of_IN their_PRP$ YOL_NNP were_VBD healthy_JJ (_( YHL_NNP /_NN YOL_NNP ,_, not_RB shown_VBN )_) ;_: for_IN whites_NNS ,_, about_IN 75_CD %_NN were_VBD healthy_JJ ._. 
+
+Among_IN whites_NNS ,_, the_DT gender_NN differences_NNS in_IN Table_NNP 1_CD were_VBD statistically_RB significant_JJ (_( p_NN <_NN .05_CD )_) except_IN for_IN BMI_NNP and_CC unintended_JJ weight_NN loss_NN ._. 
+Among_IN blacks_NNS ,_, gender_NN differences_NNS were_VBD significant_JJ except_IN for_IN 10_CD pounds_NNS unintended_JJ weight_NN loss_NN and_CC weight_NN loss_NN since_IN age_NN 50_CD ._. 
+Among_IN males_NNS ,_, there_EX were_VBD significant_JJ differences_NNS between_IN black_NN and_CC white_JJ for_IN BMI_NNP ,_, unintended_JJ weight_NN loss_NN ,_, YOL_NNP ,_, YHL_NNP ,_, years_NNS of_IN unhealthy_JJ life_NN ,_, and_CC years_NNS lost_VBD to_TO death_NN ._. 
+Whites_NNP in_IN the_DT sample_NN had_VBD higher_JJR income_NN and_CC education_NN (_( data_NNS not_RB shown_VBN )_) ._. 
+After_IN adjusting_VBG for_IN income_NN and_CC education_NN ,_, as_RB well_RB as_IN age_NN and_CC former_JJ smoking_NN ,_, the_DT difference_NN in_IN BMI_NNP was_VBD no_RB longer_RB statistically_RB significant_JJ ._. 
+Among_IN females_NNS ,_, blacks_NNS and_CC whites_NNS differed_VBD significantly_RB on_IN BMI_NNP ,_, BMI_NNP >_NN 30_CD ,_, weight_NN loss_NN since_IN age_NN 50_CD ,_, YOL_NNP ,_, YHL_NNP ,_, years_NNS of_IN unhealthy_JJ life_NN ,_, and_CC years_NNS lost_VBD to_TO death_NN ._. 
+After_IN adjustment_NN for_IN income_NN and_CC education_NN ,_, the_DT difference_NN in_IN weight_NN loss_NN since_IN age_NN 50_CD was_VBD no_DT longer_RB significant_JJ ._. 
+Blacks_NNS had_VBD significantly_RB lower_JJR YOL_NNP and_CC YHL_NNP than_IN whites_NNS after_IN adjustment_NN for_IN age_NN ,_, but_CC the_DT difference_NN disappeared_VBD after_IN adjustment_NN for_IN the_DT entire_JJ set_NN of_IN health-related_JJ baseline_NN covariates_NNS (_( analyses_NNS not_RB shown_VBN )_) ._. 
+
+We_PRP next_RB examined_VBD the_DT relationship_NN of_IN BMI_NNP to_TO YOL_NNP and_CC YHL_NNP ._. 
+Table_NNP 2_CD presents_VBZ the_DT mean_NN values_NNS of_IN YOL_NNP and_CC YHL_NNP ,_, adjusted_VBN for_IN age_NN ,_, race_NN ,_, and_CC previous_JJ smoking_NN (_( columns_NNS 1_CD and_CC 3_CD )_) ,_, and_CC also_RB adjusted_VBN for_IN the_DT entire_JJ set_NN of_IN covariates_NNS (_( columns_NNS 2_CD and_CC 4_CD )_) ._. 
+For_IN example_NN ,_, YOL_NNP for_IN women_NNS ,_, adjusted_VBN for_IN age_NN ,_, race_NN ,_, and_CC smoking_NN ,_, averaged_VBD 6.0_CD years_NNS for_IN women_NNS with_IN a_DT baseline_JJ BMI_NNP below_IN 18.5_CD ,_, but_CC averaged_VBD 6.6_CD years_NNS for_IN women_NNS with_IN a_DT BMI_NNP from_IN 25_CD to_TO 29.9_CD ._. The_DT second_JJ column_NN ,_, which_WDT shows_VBZ results_NNS adjusted_VBN for_IN all_DT covariates_NNS ,_, is_VBZ not_RB very_RB different_JJ (_( the_DT only_JJ discrepancy_NN is_VBZ for_IN men_NNS with_IN BMI_NNP <_NN 18.5_CD ,_, a_DT category_NN containing_VBG only_RB 14_CD men_NNS )_) ._. 
+Adjustment_NNP for_IN extensive_JJ covariates_NNS also_RB made_VBN little_JJ difference_NN for_IN YHL_NNP (_( columns_NNS 3_CD and_CC 4_CD )_) ._. 
+Subsequent_JJ analyses_NNS are_VBP adjusted_VBN only_RB for_IN age_NN ,_, race_NN ,_, and_CC former_JJ smoking_NN ._. 
+As_IN mentioned_VBN above_IN ,_, the_DT group_NN with_IN BMI_NNP from_IN 18.5_CD to_TO 20_CD would_MD be_VB considered_VBN '_POS normal_JJ '_POS by_IN the_DT NHLBI_NNP guidelines_NNS ,_, but_CC had_VBD lower_JJR YOL_NNP and_CC YHL_NNP than_IN those_DT with_IN 20_CD -_: 24.9_CD in_IN all_DT comparisons_NNS ._. 
+For_IN this_DT reason_NN ,_, and_CC to_TO increase_VB sample_NN size_NN for_IN those_DT with_IN low_JJ BMI_NNP ,_, we_PRP combined_VBD the_DT two_CD lower_JJR categories_NNS ,_, defining_VBG underweight_NN as_IN a_DT BMI_NNP under_IN 20_CD ._. 
+
+Figure_NN 1_CD is_VBZ a_DT plot_NN of_IN adjusted_VBN YOL_NNP and_CC YHL_NNP by_IN sex_NN and_CC BMI_NNP ._. 
+For_IN each_DT BMI_NNP category_NN the_DT mean_NN and_CC its_PRP$ 95_CD %_NN confidence_NN interval_NN are_VBP plotted_VBD ._. 
+Categories_NNP whose_WP$ confidence_NN intervals_NNS do_VBP not_RB overlap_VB ,_, or_CC overlap_VB only_RB slightly_RB ,_, are_VBP significantly_RB different_JJ ._. 
+The_DT bars_NNS are_VBP slightly_RB offset_VBN to_TO permit_VB all_DT error_NN bars_NNS to_TO be_VB seen_VBN ._. 
+
+YOL_NNP for_IN women_NNS (_( the_DT uppermost_NN curve_NN on_IN Figure_NN 1_CD )_) averaged_VBD about_IN 6.5_CD out_IN of_IN 7_CD years_NNS ,_, and_CC showed_VBD no_DT evident_JJ association_NN between_IN BMI_NNP and_CC YOL_NNP for_IN BMI_NNP above_IN 20_CD ._. 
+Underweight_NNP women_NNS averaged_VBD about_IN .25_CD fewer_JJR YOL_NNP than_IN other_JJ women_NNS (_( p_NN <_NN .05_CD compared_VBN with_IN normal_JJ group_NN )_) ._. 
+Underweight_NNP men_NNS also_RB had_VBD lower_JJR YOL_NNP ,_, but_CC this_DT group_NN was_VBD not_RB significantly_RB different_JJ from_IN the_DT normal_JJ group_NN ,_, in_IN part_NN because_IN of_IN low_JJ sample_NN size_NN ._. 
+Men_NN classified_VBN as_IN normal_JJ ,_, overweight_NN or_CC obese_NN all_DT had_VBD about_IN the_DT same_JJ YOL_NNP ._. 
+
+The_DT lowermost_NN two_CD lines_NNS in_IN Figure_NN 1_CD show_NN mean_NN YHL_NNP for_IN women_NNS and_CC men_NNS ._. 
+Women_NNP who_WP were_VBD normal_JJ or_CC overweight_NN averaged_VBD about_IN 4.9_CD YHL_NNP ._. 
+The_DT YHL_NNP for_IN underweight_NN or_CC obese_NN women_NNS was_VBD about_IN 4.5_CD years_NNS ,_, which_WDT was_VBD significantly_RB lower_JJR than_IN the_DT normal_JJ group_NN ._. 
+The_DT relationship_NN of_IN BMI_NNP to_TO YHL_NNP for_IN men_NNS is_VBZ similar_JJ ,_, but_CC differences_NNS among_IN BMI_NNP groups_NNS were_VBD not_RB statistically_RB significant_JJ ._. 
+YHL_NNP was_VBD significantly_RB higher_JJR for_IN women_NNS than_IN for_IN men_NNS in_IN the_DT normal_JJ and_CC overweight_NN groups_NNS ,_, but_CC the_DT sexes_NNS had_VBD similar_JJ YHL_NNP in_IN the_DT underweight_NN and_CC obese_NN groups_NNS ._. 
+
+We_PRP next_JJ present_VB the_DT effect_NN size_NN for_IN comparing_VBG each_DT group_NN to_TO the_DT normal_JJ BMI_NNP group_NN ._. 
+The_DT effect_NN sizes_NNS are_VBP shown_VBN in_IN Table_NNP 3_CD ,_, with_IN the_DT significance_NN results_NNS of_IN the_DT associated_VBN t-tests_JJ for_IN the_DT differences_NNS in_IN means_NNS of_IN the_DT two_CD groups_NNS being_VBG compared_VBN ._. 
+For_IN example_NN ,_, underweight_NN women_NNS averaged_VBD 4.50_CD YHL_NNP compared_VBD to_TO 4.92_CD for_IN normal_JJ women_NNS ,_, and_CC the_DT common_JJ standard_JJ deviation_NN was_VBD 1.44_CD ._. 
+The_DT effect_NN size_NN is_VBZ thus_RB (_( 4.92_CD -_: 4.50_CD )_) /_NN 1.44_CD =_SYM .29_CD ._. 
+The_DT two_CD groups_NNS had_VBD significantly_RB different_JJ YHL_NNP ,_, implying_VBG that_IN the_DT effect_NN size_NN is_VBZ also_RB significantly_RB greater_JJR than_IN zero_CD ._. 
+A_DT clinical_JJ trial_NN of_IN a_DT treatment_NN to_TO help_VB underweight_NN women_NNS achieve_VBP normal_JJ weight_NN (_( presumably_RB by_IN addressing_VBG the_DT underlying_VBG cause_NN )_) could_MD be_VB expected_VBN to_TO have_VB 80_CD %_NN power_NN with_IN N_NNP =_SYM (_( 1.96_CD +_NN .84_CD )_) 2/.29_CD 2_CD =_SYM about_IN 93_CD women_NNS per_IN treatment_NN arm_NN ,_, if_IN 7_CD -_: year_NN YHL_NNP were_VBD the_DT outcome_NN measure_NN ._. 
+
+The_DT biggest_JJS effect_NN sizes_NNS are_VBP in_IN the_DT first_JJ row_NN ,_, comparing_VBG underweight_NN to_TO normal_JJ ._. 
+YHL_NNP and_CC YOL_NNP have_VBP similar_JJ effect_NN sizes_NNS for_IN women_NNS ,_, and_CC are_VBP significantly_RB different_JJ from_IN zero_CD ._. 
+The_DT effect_NN sizes_NNS are_VBP not_RB significantly_RB different_JJ from_IN zero_CD for_IN men_NNS ,_, in_IN part_NN because_IN there_EX were_VBD only_RB 42_CD men_NNS in_IN the_DT underweight_NN category_NN ._. 
+The_DT effect_NN size_NN comparing_VBG overweight_NN to_TO normal_RB yielded_VBD small_JJ ,_, non-significant_JJ effect_NN sizes_NNS ,_, with_IN inconsistent_JJ signs_NNS ,_, suggesting_VBG extremely_RB large_JJ sample_NN sizes_NNS would_MD be_VB needed_VBN ._. 
+For_IN comparing_VBG obese_NN to_TO normal_JJ ,_, only_RB YHL_NNP for_IN women_NNS showed_VBD a_DT large_JJ and_CC significant_JJ effect_NN size_NN ._. 
+Thus_RB ,_, an_DT intervention_NN to_TO improve_VB the_DT health_NN of_IN underweight_NN women_NNS to_TO that_DT of_IN their_PRP$ normal_JJ weight_NN peers_NNS could_MD be_VB performed_VBN using_VBG either_CC YHL_NNP or_CC YOL_NNP as_IN the_DT outcome_NN variable_JJ ._. 
+Trials_NNP to_TO make_VB obese_NN women_NNS comparable_JJ to_TO normal_JJ women_NNS could_MD be_VB evaluated_VBN using_VBG YHL_NNP ,_, but_CC not_RB YOL_NNP ._. 
+Trials_NNP to_TO improve_VB the_DT health_NN of_IN the_DT other_JJ groups_NNS to_TO that_DT of_IN the_DT normals_NNS would_MD probably_RB be_VB fruitless_JJ since_IN there_EX is_VBZ no_DT evidence_NN that_IN being_VBG overweight_NN (_( for_IN men_NNS or_CC women_NNS )_) or_CC obese_NN (_( for_IN men_NNS )_) affects_VBZ YOL_NNP or_CC YHL_NNP ._. 
+
+As_IN mentioned_VBN above_IN ,_, we_PRP repeated_VBD these_DT analyses_NNS excluding_VBG the_DT persons_NNS with_IN partially_RB estimated_VBN data_NNS ,_, and_CC using_VBG two_CD different_JJ ways_NNS of_IN coding_VBG YHL_NNP ._. 
+The_DT only_RB substantive_JJ change_NN was_VBD that_IN some_DT of_IN the_DT differences_NNS between_IN blacks_NNS and_CC whites_NNS shown_VBN in_IN Table_NNP 1_CD were_VBD no_RB longer_RB statistically_RB significant_JJ ,_, due_JJ to_TO a_DT smaller_JJR sample_NN size_NN ._. 
+
+Discussion_NNP Optimal_NNP weight_NN and_CC overweight_NN Recent_JJ studies_NNS have_VBP defined_VBN obesity_NN without_IN reference_NN to_TO age_NN [_NN 6_CD 13_CD 30_CD ]_NN ._. 
+Andres_NNP et_CC al_NN proposed_VBD a_DT desirable_JJ BMI_NNP of_IN 24_CD -_: 30_CD for_IN persons_NNS aged_VBN 60_CD to_TO 69_CD [_NN 8_CD ]_NN ._. 
+Allison_NNP et_CC al_NN [_NN 31_CD ]_NN proposed_VBD 27_CD -_: 30_CD for_IN older_JJR men_NNS and_CC 30_CD -_: 35_CD for_IN older_JJR women_NNS ._. 
+In_IN Figure_NN 1_CD ,_, the_DT overweight_NN (_( as_IN opposed_VBN to_TO the_DT obese_NN )_) are_VBP no_DT different_JJ from_IN those_DT of_IN normal_JJ weight_NN ,_, suggesting_VBG that_IN these_DT two_CD categories_NNS could_MD be_VB combined_VBN for_IN older_JJR adults_NNS ._. 
+Since_IN future_JJ improvements_NNS in_IN life_NN expectancy_NN may_MD be_VB limited_JJ [_NN 32_CD ]_NN ,_, the_DT greatest_JJS advances_NNS may_MD be_VB made_VBN by_IN improving_VBG people_NNS 's_POS YHL_NNP ._. 
+This_DT suggests_VBZ that_IN the_DT development_NN of_IN future_JJ guidelines_NNS should_MD take_VB YHL_NNP or_CC other_JJ measures_NNS of_IN quality_NN of_IN life_NN into_IN account_NN ._. 
+
+Implications_NNP for_IN clinical_JJ trials_NNS Based_VBN on_IN these_DT findings_NNS ,_, trials_NNS to_TO address_VB obesity_NN in_IN older_JJR women_NNS could_MD be_VB efficient_JJ if_IN YHL_NNP (_( but_CC not_RB YOL_NNP )_) was_VBD the_DT outcome_NN measure_NN ._. 
+That_DT is_VBZ ,_, women_NNS who_WP changed_VBD from_IN being_VBG obese_NN to_TO being_VBG normal_JJ would_MD likely_JJ show_VB changes_NNS in_IN YHL_NNP ,_, but_CC not_RB YOL_NNP ._. 
+Clinical_NNP trials_NNS of_IN weight_NN modification_NN interventions_NNS for_IN older_JJR adults_NNS who_WP were_VBD merely_RB overweight_NN would_MD appear_VB to_TO be_VB fruitless_JJ since_IN the_DT interventions_NNS would_MD probably_RB not_RB have_VB a_DT direct_JJ effect_NN on_IN either_DT YOL_NNP or_CC YHL_NNP ._. 
+
+Weight_NNP or_CC weight_NN change_NN are_VBP sometimes_RB used_VBN as_IN the_DT outcome_NN in_IN evaluations_NNS of_IN interventions_NNS such_JJ as_IN diet_NN or_CC exercise_NN programs_NNS ._. 
+The_DT fact_NN that_DT weight_NN is_VBZ not_RB associated_VBN in_IN a_DT consistent_JJ way_NN with_IN health_NN suggests_VBZ that_IN such_JJ evaluations_NNS should_MD be_VB considered_VBN critically_RB when_WRB older_JJR adults_NNS are_VBP the_DT subjects_NNS ._. 
+This_DT is_VBZ particularly_RB important_JJ in_IN the_DT light_NN of_IN recent_JJ findings_NNS ,_, which_WDT found_VBD that_WDT interventions_NNS such_JJ as_IN weight-loss_JJ drugs_NNS may_MD be_VB harmful_JJ [_NN 33_CD 34_CD ]_NN ._. 
+For_IN older_JJR adults_NNS ,_, the_DT risks_NNS associated_VBN with_IN higher_JJR weight_NN are_VBP especially_RB unclear_JJ ,_, and_CC the_DT optimal_NN outcome_NN for_IN a_DT trial_NN of_IN weight_NN loss_NN in_IN older_JJR adults_NNS requires_VBZ specific_JJ attention_NN to_TO improved_VBN health_NN and_CC mortality_NN ._. 
+
+Interestingly_RB ,_, the_DT strongest_JJS health_NN relationships_NNS were_VBD found_VBN for_IN underweight_NN older_JJR adults_NNS ._. 
+Clinical_NNP trials_NNS whose_WP$ objective_NN was_VBD to_TO make_VB the_DT underweight_NN as_RB healthy_JJ as_IN their_PRP$ normal-weight_JJ peers_NNS (_( presumably_RB by_IN addressing_VBG the_DT underlying_VBG conditions_NNS that_WDT caused_VBD the_DT low_JJ weight_NN )_) could_MD be_VB performed_VBN efficiently_RB using_VBG either_CC YOL_NNP or_CC YHL_NNP as_IN the_DT outcome_NN measure_NN ._. 
+Both_DT YOL_NNP and_CC YHL_NNP would_MD be_VB clinically_RB significant_JJ in_IN this_DT patient_NN group_NN ._. 
+
+Potential_JJ limitations_NNS CHS_NNP participants_NNS were_VBD somewhat_RB healthier_JJR than_IN the_DT average_JJ older_JJR adult_NN ;_: however_RB ,_, adjustment_NN for_IN detailed_JJ covariates_NNS made_VBD little_JJ difference_NN in_IN the_DT findings_NNS ._. 
+We_PRP estimated_VBD the_DT last_JJ four_CD years_NNS of_IN health_NN data_NNS for_IN about_IN 10_CD %_NN of_IN the_DT sample_NN ,_, but_CC results_NNS with_IN and_CC without_IN this_DT group_NN were_VBD similar_JJ ._. 
+Analysis_NNP of_IN mean_NN YOL_NNP instead_RB of_IN the_DT more_RBR traditional_JJ survival_NN analysis_NN survival_NN analysis_NN was_VBD appropriate_JJ here_RB ,_, since_IN virtually_RB no_DT persons_NNS were_VBD lost_VBN to_TO follow-up_JJ ._. 
+Biases_NNP caused_VBN by_IN over-adjustment_JJ are_VBP probably_RB not_RB large_JJ ,_, since_IN the_DT findings_NNS were_VBD not_RB sensitive_JJ to_TO the_DT number_NN of_IN variables_NNS adjusted_VBN for_IN ._. 
+
+These_DT results_NNS are_VBP for_IN a_DT 7_CD -_: year_NN follow-up_JJ ._. 
+The_DT relative_JJ superiority_NN of_IN YHL_NNP to_TO YOL_NNP would_MD probably_RB hold_VB in_IN trials_NNS with_IN shorter_JJR follow-up_JJ ._. 
+The_DT effect_NN sizes_NNS in_IN Table_NNP 3_CD might_MD also_RB be_VB appropriate_JJ in_IN shorter_JJR trials_NNS ,_, since_IN lengthy_JJ trials_NNS often_RB add_VBP little_JJ information_NN [_NN 10_CD ]_NN ._. 
+
+EVGFP_NNP ,_, on_IN which_WDT YHL_NNP was_VBD based_VBN ,_, might_MD have_VB missed_VBN some_DT effects_NNS of_IN obesity_NN on_IN risk_NN factors_NNS for_IN future_JJ health_NN ._. 
+A_DT person_NN who_WP is_VBZ depressed_VBN because_IN of_IN a_DT poor_JJ self-image_JJ related_VBN to_TO obesity_NN or_CC who_WP has_VBZ osteo-arthritis_JJ related_VBN to_TO obesity_NN and_CC limits_NNS to_TO activities_NNS to_TO successfully_RB avoid_VB pain_NN would_MD surely_RB have_VB worse_JJR EVGFP_NNP than_IN others_NNS ,_, based_VBN on_IN results_NNS from_IN many_JJ studies_NNS ._. 
+However_RB ,_, health_NN measures_NNS designed_VBN specifically_RB to_TO measure_VB those_DT conditions_NNS might_MD be_VB more_RBR sensitive_JJ to_TO change_VB in_IN weight_NN than_IN EVGFP_NNP ._. 
+If_IN YHL_NNP were_VBD based_VBN on_IN such_JJ measures_NNS ,_, the_DT superiority_NN of_IN YHL_NNP to_TO YOL_NNP would_MD likely_RB be_VB even_RB greater_JJR than_IN that_DT shown_VBN here_RB ._. 
+These_DT more_RBR sensitive_JJ measures_NNS might_MD also_RB have_VB detected_VBN differences_NNS between_IN the_DT overweight_NN and_CC normal_JJ weight_NN persons_NNS ,_, but_CC we_PRP think_VBP this_DT is_VBZ unlikely_RB given_VBN the_DT absence_NN of_IN any_DT differences_NNS in_IN EVGFP_NNP ._. 
+
+Conclusion_NNP Recommendations_NNP for_IN desirable_JJ weight_NN have_VBP been_VBN criticized_VBN for_IN emphasizing_VBG mortality_NN rather_RB than_IN health_NN ._. 
+We_PRP found_VBD associations_NNS between_IN YHL_NNP and_CC obesity_NN that_WDT were_VBD not_RB present_JJ in_IN the_DT mortality_NN analysis_NN ,_, suggesting_VBG that_IN YHL_NNP may_MD be_VB a_DT more_RBR sensitive_JJ measure_NN of_IN the_DT burden_NN of_IN obesity_NN in_IN older_JJR adults_NNS ,_, especially_RB for_IN women_NNS ._. 
+Future_JJ efforts_NNS to_TO determine_VB desirable_JJ weight_NN guidelines_NNS should_MD include_VB measures_NNS of_IN YHL_NNP ._. 
+Using_VBG either_CC YOL_NNP or_CC YHL_NNP ,_, however_RB ,_, we_PRP found_VBD no_DT excess_JJ risk_NN for_IN older_JJR adults_NNS who_WP would_MD be_VB classified_VBN as_IN '_POS overweight_NN '_'' by_IN the_DT NHLBI_NNP guidelines_NNS ._. 
+This_DT suggests_VBZ using_VBG YHL_NNP as_IN the_DT outcome_NN measure_NN in_IN clinical_JJ trials_NNS involving_VBG obese_NN or_CC underweight_NN older_JJR adults_NNS ,_, and_CC discouraging_VBG trials_NNS that_WDT address_VBP older_JJR adults_NNS who_WP are_VBP merely_RB overweight_NN ._. 
+
+Competing_VBG interests_NNS None_NN declared_VBD 
+Abbreviations_NNP BMI_NNP Body_NNP mass_NN index_NN 
+CESD_NNP Center_NNP for_IN Epidemiologic_NNP Studies_NNPS Depression_NNP Scale_NNP 
+CHS_NNP Cardiovascular_NNP Health_NNP Study_NNP 
+EVGFP_NNP Is_VBZ your_PRP$ health_NN excellent_JJ ,_, very_RB good_JJ ,_, good_JJ ,_, fair_JJ or_CC poor_JJ ?_. 
+QALY_NNP Quality-adjusted_NNP life_NN years_NNS 
+YHL_NNP Years_NNPS of_IN healthy_JJ life_NN 
+YOL_NNP Years_NNPS of_IN life_NN 

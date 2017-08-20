@@ -1,0 +1,26 @@
+docno_NN =_SYM "_'' lists-_NN 046_CD -_: 12158926_CD "_'' name_NN =_SYM "_'' Neil_NNP Soiffer_NNP "_'' email_NN =_SYM "_'' soiffer@wri.com_NN "_'' sent_VBD =_SYM "_'' Wed_NNP ,_, 5_CD Jun_NNP 1996_CD 19:06:49_NN -_: 0700_CD "_'' id_NN =_SYM "_'' 199606060206.AA06946@drizzle.wri.com_NN "_'' subject_JJ =_SYM "_'' Re_NNP :_: Comments_NNS on_IN parsing_VBG steps_NNS :_: "_'' To_TO :_: dsr@w3.org_NN Cc_NNP :_: w3c-math-erb@w3.org_NN >_NN >_NN Mathematica_NNP 's_POS parsing_VBG ,_, which_WDT works_VBZ in_IN a_DT manner_NN similar_JJ to_TO what_WP Bruce_NNP >_NN >_NN describes_VBZ ,_, has_VBZ no_DT problem_NN handling_VBG complex_JJ embellishments_NNS ._. 
+
+>_NN I_PRP can_MD see_VB value_NN in_IN allowing_VBG prefix_NN and_CC postfix_NN operators_NNS to_TO act_VB as_IN >_NN operator_NN embellishments_NNS ,_, for_IN instance_NN to_TO add_VB accents_NNS to_TO operators_NNS or_CC >_NN to_TO change_VB their_PRP$ relative_JJ size_NN ,_, or_CC position_NN ._. 
+
+>_NN If_IN these_DT embellishment_NN prefix_NN and_CC postfix_NN operators_NNS have_VBP a_DT high_JJ >_NN precedence_NN and_CC hence_RB bind_NN tightly_RB to_TO the_DT adjacent_JJ operator_NN then_RB >_NN I_PRP do_VBP n't_RB see_VB any_DT problems_NNS ._. 
+Am_NNP I_PRP missing_VBG something_NN ?_. 
+
+I_PRP think_VBP that_IN there_EX is_VBZ a_DT problem_NN with_IN prefix_NN embellishments_NNS ._. 
+The_DT arguments_NNS are_VBP technical_JJ ,_, so_RB people_NNS who_WP do_VBP n't_RB care_VB can_MD stop_VB reading_VBG ._. 
+
+When_WRB the_DT parser_NN encounters_VBZ something_NN like_IN a_DT +_NN __NN 2_CD b_SYM ,_, it_PRP knows_VBZ by_IN the_DT time_NN of_IN reading_VBG the_NNP '_POS +_NN '_'' that_IN it_PRP must_MD have_VB a_DT right_JJ operand_NN ._. 
+The_DT most_RBS reasonable_JJ "_'' error_NN correction_NN "_'' would_MD be_VB to_TO have_VB the_DT '_POS __NN '_'' embellishe_NN '_'' +_NN '_'' ._. 
+
+However_RB ,_, consider_VBP the_DT following_VBG :_: &_CC bold_JJ +_NN 2_CD with_IN '_POS &_CC bold_JJ '_POS being_VBG a_DT high-precedence_JJ prefix_NN operator_NN ._. 
+When_WRB the_DT parser_NN sees_VBZ the_NNP '_POS +_NN '_'' ,_, it_PRP sees_VBZ that_IN it_PRP must_MD be_VB a_DT prefix_NN operator_NN ,_, and_CC so_RB will_MD shift_VB the_NNP '_POS 2_CD '_POS on_IN ._. 
+So_RB ,_, this_DT expression_NN would_MD result_VB in_IN :_: {_( &_CC bold_JJ {_( +_NN 2_CD }_) }_) 
+
+To_TO get_VB what_WP you_PRP probably_RB wanted_VBD ,_, you_PRP would_MD need_VB to_TO write_VB {_( &_CC bold_JJ +_NN }_) 2_CD 
+For_IN a_DT large_JJ number_NN of_IN cases_NNS ,_, such_JJ as_IN '_POS &_CC bold_JJ x_SYM +_NN 2_CD '_POS ,_, the_DT right_JJ thing_NN would_MD happen_VB ._. 
+It_PRP is_VBZ just_RB when_WRB you_PRP try_VBP to_TO embellish_VB an_DT operator_NN ._. 
+A_DT high-precedence_JJ postfix_NN &_CC bold_JJ would_MD not_RB have_VB this_DT problem_NN ._. 
+
+Since_IN the_DT details_NNS of_IN why_WRB a_DT prefix_NN embellishing_VBG operator_NN sometimes_RB "_'' works_VBZ "_'' right_NN and_CC sometimes_RB does_VBZ n't_RB are_VBP probably_RB beyond_IN most_JJS authors_NNS ,_, I_PRP think_VBP we_PRP should_MD avoid_VB them_PRP ._. 
+Or_CC if_IN we_PRP must_MD have_VB them_PRP ,_, tell_VB people_NNS to_TO always_RB uses_VBZ braces_NNS to_TO properly_RB group_VB it_PRP ._. 
+
+Neil_NNP 

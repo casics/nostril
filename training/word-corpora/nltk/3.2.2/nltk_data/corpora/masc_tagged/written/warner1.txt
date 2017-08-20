@@ -1,0 +1,76 @@
+Time_NNP Warner_NNP Cable_NNP 120_CD East_NNP 23rd_CD Street_NNP 
+New_NNP York_NNP ,_, NY_NNP 10010_CD 
+Connect_NNP to_TO Time_NNP Warner_NNP Cable_NNP 
+with_IN DTV_NNP for_IN FREE_NNP !_. 
+
+
+
+Dear_RB New_NNP Yorker_NNP ,_, 
+
+
+Finally_RB television_NN that_DT ’_NN s_VBZ smart_JJ enough_RB for_IN New_NNP Yorkers_NNPS !_. 
+DTV—Digital_NNP Television_NNP from_IN Time_NNP Warner_NNP Cable—is_NNP now_RB available_JJ in_IN your_PRP$ neighborhood_NN ,_, and_CC we_PRP ’d_MD like_IN you_PRP to_TO be_VB one_CD of_IN the_DT first_JJ to_TO experience_VB it_PRP !_. 
+
+
+DTV_NNP is_VBZ the_DT ultimate_JJ choice_NN in_IN home_NN entertainment_NN ._. 
+From_IN digital_JJ picture_NN and_CC sound_NN to_TO new_JJ premium_NN packages_NNS and_CC a_DT really_RB cool_NN picture-in-picture_JJ guide_NN ,_, it’s_PRP television_NN you_PRP have_VBP to_TO see_VB to_TO believe_VB ._. 
+And_CC the_DT connection_NN is_VBZ FREE_NNP !_. 
+
+
+Everyone_NN is_VBZ looking_VBG to_TO get_VB the_DT latest_JJS and_CC greatest_JJS in_IN digital_JJ technology_NN ._. 
+But_CC before_IN you_PRP go_VBP out_IN and_CC make_VB any_DT major_JJ purchases_NNS ,_, like_IN buying_VBG a_DT satellite_NN dish_NN ,_, you_PRP may_MD want_VB to_TO take_VB a_DT moment_NN to_TO read_VB this_DT ._. 
+
+
+DTV_NNP is_VBZ the_DT SMARTEST_NNP and_CC most_RBS exciting_JJ innovation_NN to_TO happen_VB to_TO television_NN ._. 
+With_IN DVT_NNP you_PRP don_VB ’_NN t_NN just_RB watch_VB television—you_NN experience_NN it_PRP ._. 
+
+
+DTV_NNP offers_VBZ more_JJR than_IN 200_CD channels_NNS ,_, delivered_VBN with_IN a_DT picture_NN as_IN bright_JJ and_CC as_RB sharp_JJ as_IN you_PRP ’_NN d_SYM see_VB on_IN a_DT movie_NN screen_NN and_CC crystal_NN clear_JJ sound_NN that_IN rivals_VBZ your_PRP$ favorite_JJ CD_NN ._. 
+
+
+DTV_NNP allows_VBZ you_PRP to_TO receive_VB up_IN to_TO 29_CD channels_NNS of_IN HBO_NNP ,_, SHOWTIME_NNP ,_, CINEMAX_NNP ,_, THE_DT MOVIE_NNP CHANNEL_NNP ,_, STARZ_NNP !_. and_CC ENCORE_NNP ._. 
+
+
+DTV_NNP gives_VBZ you_PRP access_NN to_TO professional_NN and_CC college_NN sports_VBZ packages_NNS that_WDT are_VBP played_VBN outside_IN the_DT local_JJ viewing_NN area_NN ,_, including_VBG NBA_NNP League_NNP Pass_NNP ,_, NHL_NNP Center_NNP Ice_NNP ,_, ESPN_NNP Game_NNP Plan_NNP ,_, ESPN_NNP Full_NNP Court_NNP ,_, MLS/ESPN_NNP Shootout_NNP and_CC WNBA_NNP Season_NN Pass_NNP ._. 
+
+
+
+
+DTV_NNP has_VBZ an_DT interactive_JJ picture-in-picture_JJ programming_NN guide_NN that_WDT makes_VBZ watching_VBG and_CC controlling_VBG your_PRP$ television_NN easy_JJ ._. 
+Quick_NNP and_CC concise_NN ,_, an_DT on-screen_JJ information_NN banner_NN automatically_RB gives_VBZ you_PRP the_DT who_WP ,_, when_WRB ,_, and_CC where_WRB of_IN what_WP ’_NN s_VBZ on_IN ._. 
+
+
+Unlike_IN other_JJ services_NNS ,_, with_IN DTV_NNP ,_, there_EX is_VBZ no_DT equipment_NN to_TO buy_VB ._. 
+No_DT up_RP front_JJ costs_NNS ._. 
+No_DT contracts_NNS ._. 
+
+FREE_NNP upgrades_NNS ._. 
+FREE_NNP service_NN calls_NNS ._. 
+24-hour_JJ customer_NN support_NN ._. 
+And_CC a_DT 30_CD -_: day_NN Money_NNP Back_RB Guarantee_NN ._. 
+
+Call_VB now_RB for_IN a_DT FREE_NNP connection_NN to_TO Time_NNP Warner_NNP Cable_NNP with_IN DTV_NNP ._. 
+Plus_NNP ,_, you_PRP ’ll_MD receive_VB your_PRP$ choice_NN of_IN a_DT 
+multichannel_NN premium_NN FREE_NNP ._. 
+That_DT ’_NN s_VBZ a_DT savings_NNS of_IN over_IN $60.00_NN !_. 
+Just_RB call_NN 718-888-4DTV_NN ._. 
+
+
+
+Sincerely_NNP ,_, 
+Time_NNP Warner_NNP Cable_NNP 
+
+
+
+
+
+PS._NN Your_PRP$ neighborhood_NN is_VBZ also_RB ready_JJ for_IN Time_NNP Warner_NNP Cable_NNP ’_NN s_VBZ Road_NNP Runner_NNP high_JJ speed_NN online_NN service_NN ._. 
+Call_VB today_NN for_IN a_DT FREE_NNP connection_NN and_CC save_VB an_DT additional_JJ $99.00_NN !_. 
+
+
+
+
+TIME_NNP WARNER_NNP 
+new_JJ york_NN CABLE_NNP 
+at_IN its_PRP$ best_JJS 
+

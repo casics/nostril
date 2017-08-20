@@ -1,0 +1,22 @@
+Ohio_NNP Congressman_NNP Arrives_NNP in_IN Jordan_NNP 
+
+AMMAN_NNP ,_, Jordan_NNP (_( AP_NNP )_) 
+U.S._NN Representative_NNP Tony_NNP Hall_NNP arrived_VBD in_IN Jordan_NNP on_IN Saturday_NNP en_IN route_NN to_TO Iraq_NNP ,_, where_WRB he_PRP is_VBZ expected_VBN to_TO look_VB into_IN the_DT plight_NN of_IN Iraqis_NNP after_IN nearly_RB 10_CD years_NNS of_IN U.N._NN trade_NN sanctions_NNS ._. 
+
+Hall_NNP ,_, an_DT Ohio_NNP Democrat_NNP and_CC one_CD of_IN very_RB few_JJ U.S._NN congressmen_NNS to_TO visit_VB Iraq_NNP since_IN the_DT 1991_CD Gulf_NNP War_NNP over_IN Kuwait_NNP ,_, is_VBZ scheduled_VBN to_TO embark_VB Sunday_NNP the_DT 12_CD -_: hour_NN overland_NN trip_NN to_TO the_DT Iraqi_JJ capital_NN ,_, Baghdad_NNP ._. 
+
+He_PRP did_VBD not_RB speak_VB to_TO reporters_NNS in_IN Jordan_NNP ,_, but_CC he_PRP told_VBD The_DT Associated_NNP Press_NNP before_IN leaving_VBG the_DT United_NNP States_NNPS that_IN he_PRP hopes_VBZ to_TO "_'' separate_VB the_DT humanitarian_JJ work_NN from_IN the_DT political_JJ issues_NNS ._. "_'' 
+
+During_IN his_PRP$ four_CD days_NNS in_IN Iraq_NNP ,_, Hall_NNP said_VBD he_PRP wanted_VBD to_TO investigate_VB reports_NNS from_IN relief_NN agencies_NNS that_IN a_DT quarter_NN of_IN Iraqi_JJ children_NNS may_MD be_VB suffering_VBG from_IN chronic_JJ malnutrition_NN ._. 
+
+He_PRP said_VBD he_PRP would_MD pay_VB particular_JJ attention_NN to_TO what_WP happens_VBZ to_TO food_NN and_CC medicine_NN entering_VBG the_DT country_NN under_IN the_DT U.N._NN oil-for-food_JJ program_NN ._. 
+If_IN supplies_NNS are_VBP not_RB reaching_VBG the_DT people_NNS who_WP need_VBP them_PRP ,_, Hall_NNP said_VBD ,_, he_PRP wanted_VBD to_TO find_VB out_IN whether_IN the_DT United_NNP Nations_NNPS or_CC relief_NN agencies_NNS needed_VBN to_TO handle_VB things_NNS differently_RB ,_, or_CC whether_IN "_'' Iraq_NNP needs_VBZ to_TO get_VB out_IN of_IN the_DT way_NN and_CC let_VB us_PRP do_VBP the_DT job_NN ._. "_'' 
+
+The_DT Iraqi_JJ government_NN blames_VBZ the_DT embargo_NN for_IN the_DT malnutrition_NN ,_, infant_NN mortality_NN and_CC other_JJ hardships_NNS ._. 
+
+The_DT sanctions_NNS cannot_NN be_VB lifted_VBN until_IN U.N._NN inspectors_NNS certify_VB that_IN Iraq_NNP has_VBZ eliminated_VBN its_PRP$ weapons_NNS of_IN mass_NN destruction_NN and_CC the_DT means_NNS to_TO produce_VB them_PRP ._. 
+Iraq_NNP says_VBZ it_PRP has_VBZ done_VBN so_RB and_CC has_VBZ barred_VBN inspectors_NNS since_IN late_JJ 1998_CD ._. 
+
+At_IN least_JJS one_CD other_JJ congressman_NN has_VBZ visited_VBN Iraq_NNP ._. 
+Energy_NNP Secretary_NNP Bill_NNP Richardson_NNP went_VBD to_TO Baghdad_NNP in_IN 1995_CD while_IN a_DT representative_NN for_IN New_NNP Mexico_NNP ._. 
+

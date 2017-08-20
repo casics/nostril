@@ -1,0 +1,11 @@
+Xerox_NNP Corp_NNP ._. has_VBZ told_VBN employees_NNS in_IN its_PRP$ Crum_NNP &_CC Forster_NNP personal_JJ insurance_NN operations_NNS that_IN it_PRP is_VBZ laying_VBG off_RP about_IN 300_CD people_NNS ,_, or_CC 25_CD %_NN of_IN the_DT staff_NN ._. 
+
+A_DT spokeswoman_NN for_IN Crum_NNP &_CC Forster_NNP said_VBD employees_NNS were_VBD told_VBN early_RB this_DT week_NN that_IN numerous_JJ staff_NN functions_NNS for_IN the_DT personal_JJ insurance_NN lines_NNS were_VBD going_VBG to_TO be_VB centralized_VBN as_IN a_DT cost_NN -_- cutting_VBG move_NN ._. 
+
+She_PRP said_VBD the_DT move_NN would_MD result_VB in_IN a_DT after_JJ -_- tax_NN charge_NN of_IN less_JJR than_IN $4_NN million_CD to_TO be_VB spread_VBN over_IN the_DT next_JJ three_CD quarters_NNS ._. 
+By_IN comparison_NN ,_, for_IN the_DT first_JJ nine_CD months_NNS ,_, Xerox_NNP earned_VBD $492_NN million_CD ,_, or_CC $4.55_NN a_DT share_NN ,_, on_IN revenue_NN of_IN $12.97_NN billion_CD ._. 
+
+Earnings_NNS at_IN Xerox_NNP 's_POS financial_JJ -_- services_NNS operations_NNS actually_RB rose_VBD slightly_RB ,_, but_CC that_DT was_VBD largely_RB because_IN capital_NN gains_NNS at_IN Crum_NNP &_CC Forster_NNP offset_VBD Hurricane_NNP Hugo_NNP payments_NNS and_CC the_DT reserves_NNS set_VBN up_RP to_TO cover_VB future_JJ payments_NNS ._. 
+
+Property_NN /_NN casualty_NN insurance_NN has_VBZ been_VBN a_DT tough_JJ business_NN in_IN recent_JJ quarters_NNS ,_, as_IN pricing_NN has_VBZ been_VBN cutthroat_JJ and_CC natural_JJ disasters_NNS such_JJ as_IN Hurricane_NNP Hugo_NNP and_CC the_DT California_NNP earthquake_NN have_VBP resulted_VBN in_IN huge_JJ payments_NNS ._. 
+

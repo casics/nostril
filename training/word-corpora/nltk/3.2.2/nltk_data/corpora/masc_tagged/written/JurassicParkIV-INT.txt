@@ -1,0 +1,110 @@
+INT_LRB -_- ROLAND_NNP 'S_VBZ RANCH_NN -_- EVENING_NN INT_LRB -_- THE_DT INSIDE_NN OF_IN A_DT LARGE_NN RANCH_NN HOUSE_NN IN_IN MOMBASA_NNP ,_, KENYA_NNP ._. MOST_JJS OF_IN THE_DT LIGHTS_NNS ARE_VBZ OFF_RB AND_CC SUNLIGHT_NN IS_VBZ STREAMING_VBG THROUGH_IN THE_DT WINDOWS_NNS 
+-_- DAY_NN Camera_NN follows_VBZ closely_RB ,_, two_CD feet_NNS walking_VBG down_RP a_DT stone_NN hallway_NN ._. 
+They_PRP are_VBP moving_VBG fast_RB ._. 
+The_DT camera_NN zooms_NNS out_IN as_IN the_DT feet_NNS stop_VBP at_IN a_DT set_NN of_IN heavy_JJ ,_, wooden_JJ doors_NNS ._. 
+The_DT camera_NN now_RB shows_VBZ the_DT back_NN of_IN a_DT man_NN opening_VBG the_DT doors_NNS ._. 
+He_PRP steps_VBZ inside_IN ._. 
+JEFFERY_NNP CLARK_NNP >_NN (_( Shouting_VBG )_) Uncle_NNP ?_. 
+CLARK_NNP flips_VBZ on_IN the_DT lights_NNS ._. 
+It_PRP reveals_VBZ the_DT many_JJ stuffed_VBN trophies_NNS of_IN ROLAND_NNP TEMBO_NNP ._. 
+CLARK_NNP turns_VBZ the_DT lights_NNS off_RP and_CC turns_VBZ to_TO leave_VB but_CC is_VBZ met_VBN in_IN the_DT doorway_NN by_IN ERNST_NNP ,_, who_WP is_VBZ wielding_VBG a_DT fire_NN poker_NN ._. 
+ERNST_NNP >_NN (_( Nervously_VBG )_) Stand_VB where_WRB you_PRP are_VBP ,_, sir_NN ._. 
+Mr._NN Tembo_NNP does_VBZ n't_RB have_VB visitors_NNS ,_, you_PRP are_VBP trespassing_NN ._. 
+JEFFERY_NNP CLARK_NNP Ernst_NNP ?_. 
+Is_VBZ that_DT you_PRP ?_. 
+It_PRP 's_VBZ me_PRP Jeffery_NNP ._. 
+ERNST_NNP >_NN (_( dropping_VBG the_DT poker_NN )_) Oh_UH ,_, Master_NNP Jeffery_NNP ,_, you_PRP scared_VBD the_DT blazes_NNS out_IN of_IN me_PRP ._. 
+I_PRP did_VBD n't_RB hear_VB you_PRP knock_VB ,_, and_CC Mister_NNP Tembo_NNP did_VBD n't_RB tell_VB me_PRP to_TO expect_VB you_PRP ._. 
+JEFFERY_NNP CLARK_NNP I_PRP 'm_VBP sorry_JJ ,_, Ernst_NNP ,_, I_PRP let_VBP myself_PRP in_IN ._. 
+Where_WRB is_VBZ Uncle_NNP Roland_NNP ?_. 
+ERNST_NNP >_NN (_( Leading_VBG CLARK_NNP out_IN of_IN the_DT trophy_NN room_NN )_) Right_RB this_DT way_NN ,_, Sir_NNP ._. 
+ERNST_NNP is_VBZ leading_VBG CLARK_NNP down_RP another_DT shadowy_JJ hallway_NN ._. 
+JEFFERY_NNP CLARK_NNP How_WRB is_VBZ he_PRP ,_, Ernst_NNP ?_. 
+I_PRP did_VBD n't_RB hear_VB much_JJ of_IN anything_NN before_IN I_PRP got_VBD on_IN the_DT plane_NN ._. 
+ERNST_NNP Mister_NNP Tembo_NNP is_VBZ not_RB in_IN very_RB good_JJ shape_NN ,_, Sir_NNP ._. 
+Perhaps_RB it_PRP would_MD be_VB best_JJS if_IN I_PRP let_VBP the_DT doctor_NN apprise_NN you_PRP of_IN the_DT situation_NN ._. 
+ERNST_NNP and_CC CLARK_NNP approach_NN a_DT man_NN wearing_VBG a_DT white_JJ shirt_NN ,_, khaki_JJ shorts_NNS and_CC a_DT stethoscope_NN ._. 
+ERNST_NNP (_( CONT'D_JJ )_) Master_NNP Clark_NNP ,_, this_DT is_VBZ Dr._NN Tambala_NNP ._. 
+Dr._NN Tambala_NNP ,_, this_DT is_VBZ Mr._NN Tembo_NNP 's_POS nephew_NN ,_, Jeffery_NNP Clark_NNP ._. 
+JEFFERY_NNP CLARK_NNP How_WRB do_VBP you_PRP do_VBP ,_, Doctor_NNP ?_. 
+DR._NN TAMBALA_NNP I_PRP am_VBP very_RB well_RB ,_, thank_VB you_PRP ._. 
+I_PRP wish_VBP I_PRP could_MD say_VB the_DT same_JJ about_IN your_PRP$ uncle_NN ._. 
+JEFFERY_NNP CLARK_NNP What_WP happened_VBD ?_. 
+DR._NN TAMBALA_NNP There_EX was_VBD an_DT accident_NN on_IN a_DT safari_NN ._. 
+Mr._NN Tembo_NNP was_VBD badly_RB injured_VBN ._. 
+JEFFERY_NNP CLARK_NNP What_WP kind_NN of_IN accident_NN ?_. 
+ERNST_NNP Mr._NN Tembo_NNP saved_VBD some_DT bloody_JJ American_NNP 's_POS life_NN ..._... Oh_UH ,_, sorry_JJ Master_NNP Jeffery_NNP 
+JEFFERY_NNP CLARK_NNP It_PRP 's_VBZ all_DT right_NN ,_, Ernst_NNP ._. 
+JEFFERY_NNP CLARK_NNP (_( CONT'D_JJ )_) (_( To_TO TAMBALA_NNP )_) What_WP happened_VBD ?_. 
+I_PRP thought_VBD Uncle_NNP Roland_NNP gave_VBD up_RB hunting_NN after_IN that_DT incident_NN in_IN San_NNP Diego_NNP ._. 
+DR._NN TAMBALA_NNP It_PRP was_VBD a_DT sightseeing_NN safari_NN ._. 
+Two_CD of_IN the_DT people_NNS on_IN the_DT tour_NN wandered_JJ off_RP and_CC were_VBD attacked_VBN by_IN lions_NNS ._. 
+Mr._NN Tembo_NNP went_VBD after_IN them_PRP ,_, but_CC the_DT lions_NNS turned_VBD their_PRP$ attack_NN on_IN him_PRP ._. 
+The_DT tour_NN bus_NN caught_VBN up_RP with_IN them_PRP a_DT few_JJ minutes_NNS later_RB ,_, but_CC one_CD of_IN the_DT tourists_NNS was_VBD already_RB dead_JJ ,_, the_DT other_JJ was_VBD hurt_VBN ,_, and_CC Roland_NNP was_VBD almost_RB done_VBN for_IN ._. 
+JEFFERY_NNP CLARK_NNP Oh_UH ,_, god_NN ._. 
+DR._NN TAMBALA_NNP He_PRP suffered_VBD severe_JJ trauma_NN to_TO the_DT neck_NN ,_, back_RB ,_, torso_NN ,_, and_CC abdomen_NN ._. 
+He_PRP is_VBZ lucky_JJ to_TO be_VB alive_JJ ,_, but_CC he_PRP 's_VBZ completely_RB paralyzed_VBN below_IN the_DT waist_NN ,_, and_CC he_PRP 's_VBZ lost_VBD use_NN of_IN his_PRP$ right_JJ arm_NN ._. 
+JEFFERY_NNP CLARK_NNP What_WP are_VBP his_PRP$ chances_NNS ?_. 
+DR._NN TAMBALA_NNP It_PRP 's_VBZ not_RB so_RB much_JJ a_DT matter_NN of_IN chances_NNS as_IN it_PRP is_VBZ a_DT matter_NN of_IN time_NN now_RB ._. 
+JEFFERY_NNP CLARK_NNP Can_MD he_PRP speak_VB ?_. 
+DR._NN TAMBALA_NNP He_PRP is_VBZ n't_RB talking_VBG very_RB much_RB ;_: it_PRP hurts_VBZ for_IN him_PRP to_TO breathe_VB ._. 
+JEFFERY_NNP CLARK_NNP I_PRP 'd_MD like_VB to_TO talk_VB with_IN him_PRP ._. 
+DR._NN TAMBALA_NNP I_PRP think_VBP that_IN that_DT is_VBZ a_DT good_JJ idea_NN ._. 
+INT_LRB -_- ROLAND_NNP 'S_VBZ BEDROOM_NNP -_- DAY_NN CLARK_NNP makes_VBZ his_PRP$ way_NN into_IN ROLAND_NNP 's_POS room_NN ._. 
+He_PRP sees_VBZ his_PRP$ uncle_NN in_IN bed_NN with_IN a_DT respirator_NN mask_NN over_IN his_PRP$ face_NN ._. 
+I.V._NN bags_NNS hang_VBP from_IN the_DT bedposts_NNS ._. 
+CLARK_NNP sits_VBZ on_IN the_DT chair_NN near_IN ROLAND_NNP 's_POS head_NN ._. 
+JEFFERY_NNP CLARK_NNP >_NN (_( Sitting_VBG )_) Uncle_NNP Roland_NNP ?_. 
+ROLAND_NNP TEMBO_NNP >_NN (_( Stirring_VBG slowly_RB ,_, attempting_VBG to_TO move_VB the_DT mask_NN )_) Jeffery_NNP ,_, my_PRP$ boy_NN ,_, so_RB good_JJ to_TO see_VB you_PRP ._. 
+JEFFERY_NNP CLARK_NNP >_NN (_( Helping_VBG remove_VB the_DT mask_NN )_) It_PRP 's_VBZ good_JJ to_TO see_VB you_PRP too_RB ,_, Uncle_NNP ._. 
+I_PRP hear_VBP you_PRP were_VBD being_VBG quite_RB the_DT hero_NN ._. 
+ROLAND_NNP TEMBO_NNP I_PRP told_VBD them_PRP to_TO stay_VB in_IN the_DT bus_NN ..._... they_PRP would_MD n't_RB listen_VB ._. 
+JEFFERY_NNP CLARK_NNP I_PRP know_VBP ,_, Uncle_NNP ,_, I_PRP know_VBP ._. 
+You_PRP ca_MD n't_RB stop_VB every_DT idiot_NN from_IN acting_VBG like_IN one_CD ._. 
+ROLAND_NNP TEMBO_NNP >_NN (_( Smiling_VBG faintly_RB )_) Very_RB true_JJ ._. 
+Tell_VB me_PRP ,_, what_WP does_VBZ the_DT doctor_NN think_VBP about_IN my_PRP$ condition_NN ?_. 
+JEFFERY_NNP CLARK_NNP We_PRP 're_VBP not_RB very_RB optimistic_JJ ,_, I_PRP 'm_VBP afraid_JJ ._. 
+ROLAND_NNP TEMBO_NNP >_NN (_( Chuckling_VBG turning_VBG into_IN coughing_VBG )_) Bloody_JJ hell_NN ,_, I_PRP do_VBP n't_RB feel_VB much_JJ like_IN being_VBG optimistic_JJ either_RB ._. 
+JEFFERY_NNP CLARK_NNP Mom_NN sends_VBZ her_PRP$ best_JJS ._. 
+I_PRP 'm_VBP sure_JJ she_PRP would_MD have_VB come_VBN with_IN me_PRP if_IN she_PRP knew_VBD how_WRB serious_JJ your_PRP$ condition_NN is_VBZ ._. 
+ROLAND_NNP TEMBO_NNP I_PRP know_VBP she_PRP and_CC I_PRP have_VBP n't_RB been_VBN as_RB close_JJ as_IN a_DT brother_NN and_CC sister_NN should_MD have_VB ..._... 
+ROLAND_NNP begins_VBZ coughing_VBG hard_JJ ._. 
+JEFFERY_NNP CLARK_NNP Easy_JJ ,_, Uncle_NNP Roland_NNP ,_, you_PRP need_VBP your_PRP$ rest_NN ._. 
+CLARK_NNP moves_NNS to_TO put_VB the_DT mask_NN back_RB on_IN ROLAND_NNP 's_POS face_NN ._. 
+ROLAND_NNP stops_VBZ him_PRP ._. 
+ROLAND_NNP TEMBO_NNP Jeffery_NNP ,_, my_PRP$ boy_NN ,_, I_PRP 'm_VBP going_VBG to_TO die_VB ._. 
+JEFFERY_NNP CLARK_NNP We_PRP 're_VBP all_DT going_VBG to_TO die_VB ,_, Uncle_NNP ._. 
+Death_NN is_VBZ what_WP defines_VBZ life_NN ,_, remember_VB ?_. 
+All_DT of_IN those_DT hunts_VBZ you_PRP took_VBD me_PRP to_TO ._. 
+I_PRP remember_VBP what_WP you_PRP taught_VBD me_PRP ._. 
+ROLAND_NNP TEMBO_NNP There_EX was_VBD one_CD hunt_NN I_PRP never_RB finished_VBD ._. 
+One_CD hunt_NN that_WDT caused_VBD more_JJR death_NN than_IN any_DT hunt_NN should_MD ._. 
+JEFFERY_NNP CLARK_NNP The_DT T_NNP -_- Rex_NNP ?_. 
+ROLAND_NNP TEMBO_NNP Yes_UH ,_, San_NNP Diego_NNP was_VBD devastated_VBN because_IN I_PRP failed_VBD to_TO make_VB a_DT clean_VB kill_NN 
+._. JEFFERY_NNP CLARK_NNP You_PRP used_VBD what_WP you_PRP had_VBD ,_, Uncle_NNP Roland_NNP ._. 
+There_EX 's_VBZ no_DT shame_NN in_IN that_DT ._. 
+ROLAND_NNP TEMBO_NNP It_PRP could_MD happen_VB again_RB ,_, because_IN I_PRP did_VBD n't_RB bag_NN the_DT rex_NN when_WRB I_PRP had_VBD the_DT chance_NN ._. 
+JEFFERY_NNP CLARK_NNP Uncle_NNP ..._... 
+ROLAND_NNP TEMBO_NNP Jeffery_NNP ,_, I_PRP am_VBP not_RB long_RB for_IN this_DT Earth_NNP ._. 
+Please_VB ,_, I_PRP must_MD ask_VB you_PRP to_TO do_VB this_DT for_IN me_PRP ._. 
+You_PRP must_MD finish_VB that_DT hunt_NN ._. 
+JEFFERY_NNP CLARK_NNP You_PRP want_VBP me_PRP to_TO take_VB the_DT rex_NN ?_. 
+ROLAND_NNP TEMBO_NNP >_NN (_( Nodding_VBG )_) With_IN that_DT ._. 
+ROLAND_NNP motions_NNS with_IN his_PRP to_TO a_DT brown_JJ case_NN sitting_VBG on_IN a_DT chair_NN just_RB past_JJ the_DT foot_NN of_IN his_PRP$ bed_NN ._. 
+JEFFERY_NNP CLARK_NNP >_NN (_( Standing_VBG and_CC walking_VBG toward_IN the_DT case_NN )_) Is_VBZ that_IN Grandpa_NNP 's_POS gun_NN ?_. 
+ROLAND_NNP TEMBO_NNP A_DT man_NN can_MD only_RB hope_VB to_TO leave_VB the_DT world_NN a_DT better_JJR place_NN than_IN when_WRB he_PRP came_VBD into_IN it_PRP ._. 
+I_PRP have_VBP let_VBN loose_VB a_DT terrible_JJ plague_VB upon_IN the_DT Earth_NNP ,_, I_PRP can_MD only_RB rest_VB when_WRB the_DT scourge_NN has_VBZ been_VBN eradicated_JJ ._. 
+JEFFERY_NNP CLARK_NNP Uncle_NNP ,_, you_PRP were_VBD n't_RB responsible_JJ for_IN San_NNP Diego_NNP ,_, John_NNP Hammond_NNP and_CC InGen_NNP were_VBD ._. 
+They_PRP created_VBD the_DT rex_NN ,_, and_CC from_IN what_WP I_PRP 've_VBP read_VBN in_IN the_DT paper_NN ,_, they_PRP created_VBD a_DT beast_NN capable_JJ of_IN killing_VBG the_DT rex_NN ._. 
+It_PRP was_VBD n't_RB your_PRP$ fault_NN ,_, InGen_NNP started_VBD it_PRP ..._... 
+ROLAND_NNP TEMBO_NNP >_NN (_( interrupting_VBG )_) And_CC we_PRP have_VBP to_TO finish_VB it_PRP ._. 
+JEFFERY_NNP CLARK_NNP Uncle_NNP ..._... 
+ROLAND_NNP TEMBO_NNP Jeffrey_NNP ,_, please_VB ._. 
+I_PRP regret_VBP nothing_NN from_IN my_PRP$ life_NN except_IN that_DT ._. 
+JEFFERY_NNP CLARK_NNP >_NN (_( thinking_VBG for_IN a_DT moment_NN before_IN grabbing_VBG the_DT case_NN )_) It_PRP wo_MD n't_RB be_VB easy_JJ getting_VBG there_RB ._. 
+ROLAND_NNP TEMBO_NNP You_PRP have_VBP access_NN to_TO all_DT of_IN my_PRP$ resources_NNS ..._... I_PRP seem_VBP to_TO have_VB no_DT need_NN for_IN money_NN anymore_RB ._. 
+JEFFERY_NNP CLARK_NNP Promise_VB me_PRP one_CD thing_NN ._. 
+ROLAND_NNP TEMBO_NNP Anything_NN I_PRP can_MD do_VB ,_, I_PRP will_MD ._. 
+JEFFERY_NNP CLARK_NNP Do_VBP n't_RB go_VB anywhere_RB until_IN I_PRP bring_VBP you_PRP the_DT trophy_NN ._. 
+CLARK_NNP walks_VBZ toward_IN the_DT door_NN ,_, he_PRP turns_VBZ and_CC nods_VBZ at_IN ROLAND_NNP ,_, who_WP is_VBZ smiling_VBG weakly_RB ._. 
+CLARK_NNP exits_NNS and_CC shuts_VBZ the_DT door_NN behind_IN him_PRP ._. 

@@ -1,0 +1,28 @@
+August_NNP 4_CD ,_, 1999_CD 
+
+Name_NN Address_NNP City_NNP ,_, ST_NNP Zip_NNP 
+
+The_DT goal_NN of_IN MCCOY_NNP ,_, Inc._NN has_VBZ been_VBN to_TO make_VB a_DT difference_NN ._. 
+In_IN 1998_CD ,_, MCCOY_NNP ,_, Inc._NN led_VBN two_CD efforts_NNS that_IN ,_, we_PRP believe_VBP ,_, will_MD help_VB our_PRP$ community_NN continue_VB to_TO take_VB the_DT steps_NNS necessary_JJ to_TO help_VB all_DT young_JJ people_NNS grow_VBP up_RB and_CC develop_VB well_RB ._. 
+
+Participants_NNS in_IN the_DT Youth_NNP Outcomes_NNP Educational_NNP Initiative_NNP identified_VBD three_CD goals_NNS for_IN all_DT our_PRP$ youth_NN to_TO obtain_VB :_: economic_JJ self-sufficiency_JJ ,_, healthy_JJ family_NN ,_, social_JJ relationships_NNS ,_, and_CC involvement_NN in_IN the_DT community_NN ._. 
+A_DT short_JJ time_NN later_RB ,_, the_DT Community_NNP Youth_NNP Mapping_NNP Project_NNP sent_VBD 55_CD young_JJ people_NNS out_IN into_IN the_DT community_NN to_TO identify_VB the_DT resources_NNS they_PRP need_VBP to_TO grow_VB up_RP well_RB :_: caring_VBG adults_NNS ,_, safe_JJ places_NNS to_TO go_VB ,_, and_CC positive_JJ things_NNS to_TO do_VB ._. 
+
+One_CD group_NN of_IN adults_NNS and_CC one_CD group_NN of_IN youth_NN ,_, through_IN two_CD very_RB different_JJ processes_NNS ,_, have_VBP arrived_VBN at_IN the_DT same_JJ conclusion_NN ;_: our_PRP$ community_NN still_RB has_VBZ much_JJ to_TO do_VB if_IN we_PRP are_VBP to_TO help_VB ALL_NNP of_IN your_PRP$ youth_NN successfully_RB develop_VB into_IN the_DT responsible_JJ ,_, productive_JJ adults_NNS who_WP will_MD our_PRP$ community_NN in_IN the_DT future_NN ._. 
+
+As_IN a_DT provider_NN of_IN youth_NN services_NNS ,_, MCCOY_NNP ,_, Inc._NN is_VBZ here_RB to_TO support_VB your_PRP$ valuable_JJ efforts_NNS to_TO develop_VB young_JJ people_NNS ._. 
+Recently_RB ,_, through_IN a_DT lot_NN of_IN hard_JJ work_NN and_CC alliances_NNS with_IN organizations_NNS like_IN yours_NNS ,_, some_DT steps_NNS have_VBP been_VBN taken_VBN in_IN our_PRP$ community_NN that_WDT will_MD help_VB young_JJ people_NNS continue_VBP to_TO be_VB involved_VBN in_IN positive_JJ activities_NNS ._. 
+One_CD ,_, IndyGo_NNP in_IN April_NNP adopted_VBD a_DT much-needed_JJ policy_NN that_IN all_DT young_JJ people_NNS under_IN the_DT age_NN of_IN 19_CD may_MD ride_VB on_IN their_PRP$ buses_NNS at_IN half_PDT the_DT normal_JJ fare_NN all_DT year_NN long_JJ ._. 
+Two_CD ,_, funding_NN was_VBD made_VBN available_JJ this_DT summer_NN for_IN youth_NN organizations_NNS and_CC churches_NNS to_TO conduct_VB positive_JJ youth_NN programming_NN on_IN Saturday_NNP evenings_NNS ._. 
+Through_IN the_DT youth_NN mapping_NN process_NN ,_, it_PRP was_VBD confirmed_VBN that_IN the_DT positive_JJ opportunities_NNS for_IN youth_NN on_IN weekend_NN evenings_NNS were_VBD lacking_VBG ._. 
+That_DT need_VBP is_VBZ being_VBG met_VBN ._. 
+
+As_IN it_PRP has_VBZ been_VBN an_DT exciting_JJ year_NN for_IN all_DT of_IN us_PRP ,_, MCCOY_NNP ,_, Inc._NN cannot_NN do_VBP its_PRP$ part_NN without_IN the_DT support_NN of_IN organizations_NNS like_IN yours_NNS ._. 
+Annually_NNP ,_, we_PRP ask_VBP several_JJ of_IN our_PRP$ youth_NN serving_VBG organizations_NNS to_TO join_VB us_PRP in_IN our_PRP$ effort_NN to_TO help_VB young_JJ people_NNS grow_VBP up_RB well_RB in_IN Indianapolis_NNP ._. 
+Enclosed_NNP is_VBZ a_DT donation_NN card_NN that_WDT will_MD enable_VB you_PRP to_TO make_VB Indianapolis_NNP a_DT great_JJ place_NN for_IN ALL_NNP of_IN us_PRP to_TO live_VB ._. 
+If_IN you_PRP have_VBP any_DT questions_NNS or_CC concerns_NNS at_IN any_DT time_NN ,_, please_VB do_VBP not_RB hesitate_VB to_TO call_VB me_PRP at_IN 921_CD -_: 1288_CD ._. 
+
+Sincerely_NNP ,_, 
+
+John_NNP F._NN Brandon_NNP ,_, President_NNP MCCOY_NNP ,_, Inc._NN 
+

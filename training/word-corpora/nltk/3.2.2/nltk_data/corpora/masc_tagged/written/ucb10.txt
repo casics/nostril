@@ -1,0 +1,12 @@
+From_IN :_: "_'' fidole_NN phineas_NNS "_'' <_NN griffith@mindspring.com_NN >_NN To_TO :_: <_NN ai-xxx@xxx.xxx_NN >_NN Subject_NNP :_: Watches_NNP Date_NN :_: Wed_NNP ,_, 03_CD Oct_NNP 2007_CD 15:05:05_NN +_NN 0000_CD Watches_NNP 
+Handbags_NNP &_CC Purses_NNP 
+Luxury_NN Pens_NNP 
+Tiffany_NNP &_CC Co._NN Jewelry_NN 
+
+SPECIAL_NNP OFFER_NNP !_. 
+Order_NNP a_DT second_JJ bag_NN and_CC receive_VB free_JJ shipping_NN on_IN all_DT your_PRP$ bags_NNS !_. 
+
+The_DT best_JJS prices_NNS !!!_. 
+
+Click_NNP here_RB to_TO view_VB all_DT product_NN 
+

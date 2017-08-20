@@ -1,0 +1,20 @@
+Date_NN :_: Tue_NNP ,_, 25_CD Sep_NNP 2007_CD 14:04:36_NN +_NN 0100_CD From_IN :_: "_'' Inview_NNP clients_NNS department_NN "_'' <_NN inviewlogin@bxs.com_NN >_NN To_TO :_: xxx@xxx.xxx_NN Subject_NNP :_: BancorpSouth_NNP reminder_NN Dear_RB Member_NNP 
+
+Dear_RB Member_NNP :_: Thank_VB you_PRP for_IN choosing_VBG BancorpSouth_NNP Management_NNP ._. 
+Unfortunately_RB there_EX has_VBZ been_VBN a_DT problem_NN processing_VBG your_PRP$ last_JJ transfer_NN information_NN for_IN the_DT month_NN of_IN September_NNP ,_, 2007_CD ._. 
+Please_VB review_NN our_PRP$ requirements_NNS at_IN BancorpSouth_NNP account_NN management_NN ._. 
+You_PRP will_MD be_VB able_JJ to_TO update_VB your_PRP$ transfer_NN information_NN quickly_RB and_CC easily_RB using_VBG our_PRP$ secure_VB server_NN web_NN form_NN ._. 
+Please_VB understand_VB that_IN without_IN promptly_RB updating_VBG your_PRP$ private_JJ information_NN ,_, your_PRP$ BancorpSouth_NNP service_NN may_MD be_VB discontinued_VBN ._. 
+To_TO update_VB your_PRP$ information_NN at_IN this_DT time_NN ,_, please_VB visit_NN our_PRP$ secure_VB server_NN web_NN form_NN by_IN clicking_VBG the_DT hyperlink_NN below_IN ._. 
+BancorpSouth_NNP Online_NNP Services_NNPS 
+We_PRP appreciate_VBP your_PRP$ business_NN and_CC hope_VBP to_TO keep_VB you_PRP as_IN a_DT customer_NN for_IN life_NN ._. 
+BancorpSouth_NNP is_VBZ so_RB easy_JJ ,_, no_DT wonder_VBP it_PRP 's_VBZ number_NN 1_CD !_. 
+
+If_IN you_PRP have_VBP any_DT questions_NNS please_VBP feel_VBP free_JJ to_TO contact_VB the_DT Cash_NNP Management_NNP Operations_NNP Department_NNP at_IN 1_CD -_: 800_CD -_: 273_CD -_: 0462_CD ._. 
+
+Thank_VB you_PRP ,_, 
+Ralph_NNP Price_NNP 1st_CD Vice_NNP President_NNP Cash_NNP Management_NNP Operations_NNP 
+
+©_NN 2007_CD BancorpSouth_NNP Online_NNP ,_, Inc._NN 
+All_DT Rights_NNP Reserved_VBN 
+

@@ -1,0 +1,17 @@
+Launching_NNP the_DT Electronics_NNP Free_NNP Trade_NNP Zone_NNP in_IN Dubai_NNP 
+
+Dubai_NNP 01_CD -_: 82_CD (_( AFP_NNP )_) -_: 
+Crown_NNP Prince_NNP of_IN Dubai_NNP Al_NNP Sheikh_NNP Mohammed_NNP bin_NN Rashid_NNP Al_NNP Maktoom_NNP crown_NN prince_NN of_IN Dubai_NNP launched_VBD today_NN ,_, i.e._NN on_IN Saturday_NNP ,_, an_DT electronics_NNS free_JJ e-trade_JJ zone_NN which_WDT has_VBZ been_VBN named_VBN "_'' Dubai_NNP Internet_NNP City_NNP "_'' 
+
+The_DT cost_NN in_IN the_DT first_JJ stage_NN of_IN this_DT unique_JJ project_NN is_VBZ estimated_VBN at_IN 200_CD million_CD dollars_NNS ._. 
+
+Sheikh_NNP Mohammed_NNP ,_, who_WP is_VBZ also_RB the_DT UAE_NNP Defence_NNP Minister_NNP ,_, said_VBD during_IN the_DT launching_VBG ceremony_NN "_'' we_PRP wish_VBP to_TO make_VB Dubai_NNP a_DT center_NN of_IN modern_JJ economy_NN "_'' ._. 
+
+The_DT minister_NN who_WP has_VBZ a_DT personal_JJ website_NN on_IN the_DT internet_NN ,_, further_RBR said_VBD that_IN he_PRP wanted_VBD Dubai_NNP to_TO become_VB the_DT best_JJS place_NN in_IN the_DT world_NN for_IN the_DT advanced_VBN (_( hitech_NN )_) technological_JJ companies_NNS ._. 
+
+He_PRP said_VBD that_IN it_PRP would_MD he_PRP possible_JJ for_IN the_DT companies_NNS working_VBG in_IN the_DT electronic_JJ trade_NN sector_NN to_TO make_VB Dubai_NNP their_PRP$ headquarters_NN ,_, and_CC to_TO establish_VB offices_NNS here_RB and_CC provide_VB employment_NN and_CC own_JJ machinery_NN in_IN the_DT zone_NN opened_VBD to_TO companies_NNS fully_RB owned_VBN by_IN the_DT foreigners_NNS ._. 
+
+The_DT electronic_JJ trade_NN free_JJ trade_NN zone_NN is_VBZ situated_VBN in_IN the_DT north_NN of_IN Dubai_NNP ,_, close_RB to_TO the_DT free_JJ industrial_JJ zone_NN in_IN Jabal_NNP Ali_NNP Mountain_NNP ,_, an_DT area_NN which_WDT is_VBZ considered_VBN to_TO be_VB the_DT first_JJ in_IN the_DT country_NN ,_, and_CC tenth_NN in_IN the_DT world_NN for_IN transit_NN movement_NN ._. 
+
+Launching_NNP '_POS Dubai_NNP Internet_NNP city_NN '_'' coincided_VBD with_IN the_DT opening_NN of_IN the_DT annual_JJ information_NN fair_JJ in_IN Dubai_NNP which_WDT is_VBZ considered_VBN to_TO be_VB the_DT biggest_JJS in_IN the_DT Middle_NNP East_NNP -_: Gulf_NNP Information_NNP Technology_NNP Getix_NNP ._. '_'' 
+

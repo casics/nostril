@@ -1,0 +1,65 @@
+NYT20020731.0312_NN 2002-07-31_NN 21:30_NN A4696_NN &_CC Cx1_NN f_SYM ;_: tad-z_JJ u_NN s_VBZ BC-FBC-SEC-NOTES-0801_NN -_- CO_NNP 07_CD -_- 31_CD 0671_CD BC-FBC-SEC-NOTES-0801_NN -_- COX_NNP Vandy_NNP has_VBZ big_JJ plans_NNS By_IN KAREN_NNP ROSEN_NNP Cox_NNP News_NNP Service_NNP BIRMINGHAM_NNP ,_, Ala_NNP ._. -_- -_- Since_IN he_PRP took_VBD the_DT head_NN coaching_NN job_NN at_IN bottom_JJ -_- dwelling_VBG Vanderbilt_NNP ,_, the_DT question_NN Bobby_NNP Johnson_NNP is_VBZ asked_VBN most_RBS often_RB is_VBZ not_RB ,_, "_'' Why_WRB will_MD things_NNS be_VB different_JJ under_IN you_PRP ?_. "_'' 
+
+"_'' The_DT most_JJS -_- asked_JJ question_NN is_VBZ ,_, `_`` Do_VBP you_PRP know_VBP you_PRP look_VB like_IN Steve_NNP Martin_NNP ?_. '_POS "_'' Johnson_NNP said_VBD to_TO the_DT assembled_VBN writers_NNS at_IN SEC_NNP Kickoff_NNP 2002_CD ._. 
+
+So_RB -_- -_- does_VBZ he_PRP ?_. 
+"_'' Yeah_UH ,_, I_PRP do_VBP ,_, "_'' said_VBD Johnson_NNP ,_, who_WP has_VBZ a_DT full_JJ head_NN of_IN gray_JJ hair_NN in_IN common_JJ with_IN the_DT comedian_NN -_- turned_VBN -_- playwright_NN ._. 
+"_'' I_PRP was_VBD stopped_VBN in_IN San_NNP Francisco_NNP one_CD time_NN by_IN a_DT Japanese_JJ tour_NN bus_NN ._. 
+I_PRP swear_VBP ._. 
+They_PRP all_DT thought_VBD I_PRP was_VBD Steve_NNP Martin_NNP ._. 
+They_PRP jumped_VBD out_IN and_CC said_VBD ,_, `_`` Hollywood_NNP ,_, Hollywood_NNP ._. '_POS 
+I_PRP got_VBD my_PRP$ picture_NN taken_VBN with_IN them_PRP and_CC signed_VBD a_DT few_JJ Steve_NNP Martin_NNP autographs_NNS ._. "_'' 
+
+Johnson_NNP will_MD be_VB signing_VBG plenty_NN of_IN autographs_NNS with_IN his_PRP$ own_JJ name_NN if_IN he_PRP reaches_VBZ his_PRP$ goal_NN this_DT year_NN ._. 
+
+"_'' I_PRP 'm_VBP planning_NN to_TO win_VB every_DT game_NN we_PRP play_VBP ,_, "_'' he_PRP said_VBD ._. 
+
+Just_RB another_DT wild_JJ and_CC crazy_JJ guy_NN ._. 
+
+Date_NN with_IN destiny_NN :_: After_IN Vanderbilt_NNP opens_VBZ with_IN Georgia_NNP Tech_NNP ,_, the_DT Commodores_NNP will_MD play_VB host_NN to_TO Furman_NNP ,_, which_WDT is_VBZ Johnson_NNP 's_POS former_JJ team_NN and_CC a_DT Division_NNP I-AA_NNP powerhouse_NN ._. 
+
+Did_VBD he_PRP consider_VBP trying_VBG to_TO cancel_VB ?_. 
+"_'' Let_VB me_PRP just_RB say_VBP that_IN three_CD years_NNS ago_RB when_WRB we_PRP scheduled_VBD that_DT game_NN ,_, I_PRP was_VBD feeling_VBG pretty_RB good_JJ about_IN it_PRP ,_, "_'' Johnson_NNP said_VBD ._. 
+"_'' They_PRP 're_VBP seasoned_JJ ,_, they_PRP know_VBP how_WRB to_TO win_VB and_CC we_PRP 're_VBP going_VBG to_TO have_VB to_TO deal_VB with_IN that_DT ._. 
+They_PRP 're_VBP going_VBG to_TO be_VB tough_JJ to_TO beat_VB "_'' 
+
+Heavy_JJ duty_NN :_: 
+Auburn_NNP football_NN players_NNS are_VBP reminded_VBN of_IN last_JJ year_NN 's_POS losses_NNS every_DT time_NN they_PRP go_VBP into_IN the_DT weight_NN room_NN ._. 
+T_NNP -_- shirts_NNS hanging_VBG on_IN the_DT wall_NN are_VBP inscribed_JJ with_IN the_DT scores_NNS of_IN each_DT of_IN the_DT Tigers_NNP '_POS five_CD defeats_NNS ._. 
+
+"_'' We_PRP see_VBP that_IN crimson_JJ (_( from_IN the_DT Alabama_NNP loss_NN )_) every_DT day_NN ,_, "_'' tight_JJ end_NN Lorenzo_NNP Diamond_NNP said_VBD ,_, "_'' and_CC that_DT 's_VBZ a_DT big_JJ motivational_NN factor_NN for_IN us_PRP ._. 
+
+"_'' But_CC I_PRP think_VBP we_PRP 've_VBP moved_VBN past_JJ last_JJ season_NN ._. 
+We_PRP have_VBP n't_RB totally_RB forgotten_VBN about_IN it_PRP ,_, but_CC we_PRP 're_VBP looking_VBG forward_RB to_TO this_DT upcoming_JJ season_NN ._. 
+And_CC to_TO play_VB well_RB this_DT season_NN ,_, we_PRP have_VBP to_TO let_VB last_JJ season_NN go_NN ._. "_'' 
+
+Mirror_NNP image_NN :_: Ole_NNP Miss_NNP coach_NN David_NNP Cutcliffe_NNP said_VBD that_DT tempo_NN is_VBZ the_DT only_JJ difference_NN between_IN quarterback_NN Eli_NNP Manning_NNP and_CC his_PRP$ brother_NN Peyton_NNP ,_, who_WP played_VBD for_IN Cutcliffe_NNP at_IN Tennessee_NNP ._. 
+"_'' Every_DT quarterback_NN has_VBZ a_DT different_JJ rhythm_NN ,_, "_'' Cutcliffe_NNP said_VBD ._. 
+"_'' Outside_IN of_IN that_DT ,_, he_PRP looks_VBZ like_IN a_DT clone_NN to_TO me_PRP ._. "_'' 
+Now_RB that_IN Eli_NNP has_VBZ put_VBN on_IN about_IN 15_CD pounds_NNS and_CC weighs_VBZ about_IN 220_CD ,_, his_PRP$ size_NN is_VBZ closer_JJR to_TO Peyton_NNP 's_POS ._. 
+"_'' Peyton_NNP came_VBD to_TO practice_VB this_DT spring_NN ,_, "_'' Cutcliffe_NNP said_VBD ,_, "_'' and_CC he_PRP said_VBD he_PRP felt_VBD like_IN he_PRP was_VBD having_VBG an_DT out_IN -_- of_IN -_- body_NN experience_NN ._. "_'' 
+Poster_NNP boy_NN :_: 
+Rex_NNP Grossman_NNP will_MD be_VB the_DT subject_NN of_IN a_DT Heisman_NNP Trophy_NNP campaign_NN ._. 
+He_PRP was_VBD the_DT runner_NN -_- up_RP last_JJ year_NN as_IN a_DT sophomore_NN ._. 
+
+Grossman_NNP said_VBD the_DT Heisman_NNP hoopla_NN "_'' did_VBD n't_RB affect_VB me_PRP last_JJ year_NN ,_, and_CC I_PRP do_VBP n't_RB think_VB it_PRP 'll_MD affect_VB me_PRP this_DT year_NN ._. "_'' 
+
+But_CC he_PRP said_VBD promotional_JJ material_NN such_JJ as_IN posters_NNS and_CC CD_NNP -_- ROMs_NNPS can_MD be_VB "_'' embarrassing_JJ ._. "_'' 
+"_'' It_PRP gets_VBZ a_DT little_RB fake_JJ when_WRB you_PRP have_VBP billboards_NNS and_CC a_DT campaign_NN ,_, "_'' he_PRP said_VBD ._. 
+"_'' It_PRP gets_VBZ away_RB from_IN football_NN ._. 
+You_PRP 're_VBP a_DT focal_JJ point_NN ,_, and_CC people_NNS are_VBP looking_VBG at_IN you_PRP ,_, but_CC it_PRP 's_VBZ a_DT team_NN game_NN ,_, and_CC you_PRP depend_VBP on_IN your_PRP$ team_NN 1,000_CD times_NNS more_JJR than_IN that_DT billboard_NN to_TO get_VB you_PRP the_DT Heisman_NNP ._. "_'' 
+
+Hurricane_NNP force_NN :_: A_DT change_NN in_IN the_DT rules_NNS and_CC a_DT fluke_NN in_IN the_DT calendar_NN this_DT season_NN allows_VBZ colleges_NNS to_TO play_VB 12_CD regular_JJ -_- season_NN games_NNS ._. 
+Of_IN all_PDT the_DT 12th_JJ games_NNS added_VBD to_TO the_DT schedule_NN ,_, Florida_NNP 's_POS might_MD be_VB the_DT most_RBS daunting_JJ :_: Miami_NNP on_IN Sept_NNP ._. 7_CD after_IN the_DT Gators_NNP open_JJ up_RB with_IN Alabama_NNP -_- Birmingham_NNP ._. 
+
+"_'' What_WP do_VBP you_PRP want_VBP me_PRP to_TO say_VB ?_. "_'' first_JJ -_- year_NN Florida_NNP coach_NN Ron_NNP Zook_NNP said_VBD with_IN a_DT note_NN of_IN exasperation_NN ._. 
+"_'' The_DT people_NNS of_IN Miami_NNP and_CC the_DT people_NNS of_IN the_DT University_NNP of_IN Florida_NNP wanted_VBD us_PRP to_TO have_VB it_PRP for_IN a_DT long_JJ time_NN ,_, but_CC it_PRP was_VBD n't_RB going_VBG to_TO happen_VB with_IN the_DT 11_CD -_- game_NN format_NN ._. "_'' 
+
+Although_IN he_PRP said_VBD the_DT Gators_NNP will_MD be_VB excited_VBN to_TO play_VB the_DT Hurricanes_NNPS ,_, "_'' I_PRP do_VBP n't_RB want_VB to_TO talk_VB about_IN that_DT game_NN ,_, "_'' Zook_NNP said_VBD ._. 
+"_'' If_IN you_PRP look_VBP down_RP the_DT road_NN too_RB far_RB ,_, you_PRP get_VBP your_PRP$ feet_NNS cut_NN out_IN from_IN under_IN you_PRP ._. "_'' 
+
+Karen_NNP Rosen_NNP writes_VBZ for_IN The_DT Atlanta_NNP Journal_NNP -_- Constitution_NNP ._. 
+E-_NNP mail_NN :_: krosen_NN (_( at_IN )_) ajc_NN ._. com_NN 
+Story_NNP Filed_NNP By_IN Cox_NNP Newspapers_NNS 
+For_IN Use_NN By_IN Clients_NNS of_IN the_DT New_NNP York_NNP Times_NNP News_NNP Service_NNP 
+NYT-07_NN -_- 31_CD -_- 02_CD 2130_CD EDT_NNP 

@@ -1,0 +1,62 @@
+Fetal_NNP Viability_NNP "_'' Viability_NNP "_'' has_VBZ become_VBN the_DT focus_NN of_IN the_DT abortion_NN debate_NN ._. 
+Last_JJ week_NN ,_, the_DT Senate_NNP rejected_VBD Majority_NNP Leader_NNP Tom_NNP Daschle_NNP 's_POS bill_NN banning_VBG the_DT abortion_NN of_IN "_'' viable_JJ fetuses_NNS ._. "_'' 
+But_CC William_NNP Bennett_NNP and_CC William_NNP Safire_NNP hailed_VBD Daschle_NNP 's_POS bill_NN as_IN the_DT great_JJ compromise_NN that_WDT might_MD settle_VB a_DT quarter_NN century_NN of_IN arguments_NNS about_IN abortion_NN ._. 
+Forty-one_NNP states_NNS already_RB restrict_VBP the_DT abortion_NN of_IN viable_JJ fetuses_NNS ._. 
+What_WP is_VBZ a_DT viable_JJ fetus_NN ?_. 
+How_WRB is_VBZ the_DT concept_NN of_IN viability_NN relevant_JJ to_TO the_DT moral_JJ and_CC legal_JJ issues_NNS of_IN abortion_NN ?_. 
+
+Roe_NNP vs._NN Wade_NNP ,_, the_DT 1973_CD case_NN legalizing_VBG abortion_NN ,_, made_VBD fetal_JJ viability_NN an_DT important_JJ legal_JJ concept_NN ._. 
+The_DT Supreme_NNP Court_NNP ruled_VBD that_IN states_NNS cannot_NN put_VBD the_DT interests_NNS of_IN a_DT fetus_NN ahead_RB of_IN the_DT interests_NNS of_IN the_DT pregnant_JJ woman_NN until_IN the_DT fetus_NN is_VBZ "_'' viable_JJ ._. "_'' 
+The_DT court_NN defined_VBD viable_JJ to_TO mean_VB capable_JJ of_IN prolonged_JJ life_NN outside_IN the_DT mother_NN 's_POS womb_NN ._. 
+It_PRP said_VBD this_DT included_VBD fetuses_NNS that_IN doctors_NNS expected_VBN to_TO be_VB sustained_VBN by_IN respirators_NNS ._. 
+The_DT court_NN accepted_VBD the_DT conventional_JJ medical_JJ wisdom_NN that_IN a_DT fetus_NN becomes_VBZ viable_JJ at_IN the_DT start_NN of_IN the_DT last_JJ third_NN of_IN a_DT pregnancy_NN ,_, the_DT third_JJ trimester_NN ,_, sometime_RB between_IN the_DT 24_CD th_NN and_CC 28_CD th_NN week_NN (_( a_DT pregnancy_NN usually_RB lasts_VBZ 38_CD weeks_NNS )_) ._. 
+Because_IN the_DT point_NN of_IN viability_NN varies_VBZ ,_, the_DT court_NN ruled_VBD ,_, it_PRP could_MD only_RB be_VB determined_VBN case_NN by_IN case_NN and_CC by_IN the_DT woman_NN 's_POS own_JJ doctor_NN ._. 
+Even_RB if_IN the_DT fetus_NN is_VBZ viable_JJ ,_, the_DT court_NN said_VBD ,_, states_NNS could_MD not_RB outlaw_NN an_DT abortion_NN if_IN the_DT woman_NN 's_POS life_NN or_CC health_NN was_VBD at_IN stake_NN ._. 
+
+Justice_NNP Sandra_NNP Day_NNP O'Connor_NNP argued_VBD in_IN a_DT 1983_CD decision_NN that_IN Roe_NNP was_VBD on_IN a_DT "_'' collision_NN course_NN with_IN itself_PRP ._. "_'' 
+She_PRP said_VBD that_IN improvements_NNS in_IN technology_NN would_MD continually_RB push_VB the_DT point_NN of_IN fetal_JJ viability_NN closer_JJR to_TO the_DT beginning_NN of_IN the_DT pregnancy_NN ,_, allowing_VBG states_NNS greater_JJR opportunity_NN to_TO regulate_VB the_DT right_NN to_TO an_DT abortion_NN ._. 
+And_CC this_DT seems_VBZ to_TO be_VB the_DT case_JJ --_: up_RP to_TO a_DT point_NN ._. 
+Doctors_NNS now_RB believe_VBP a_DT fetus_NN can_MD become_VB viable_JJ during_IN the_DT 23_CD rd_NN week_JJ --_: a_DT week_NN earlier_RBR than_IN was_VBD thought_VBN 24_CD years_NNS ago_RB ._. 
+Most_JJS hospitals_NNS will_MD only_RB perform_VB abortions_NNS through_IN the_DT 22_CD nd_NN week_NN of_IN pregnancy_NN ._. 
+
+But_CC no_DT baby_NN has_VBZ ever_RB been_VBN successfully_RB delivered_VBN before_IN the_DT middle_NN of_IN the_DT 22_CD nd_NN week_NN ._. 
+Babies_NNS delivered_VBN during_IN the_DT 22_CD nd_NN and_CC 23_CD rd_NN weeks_NNS weigh_VBP just_RB over_IN a_DT pound_NN ._. 
+Their_PRP$ lungs_NNS have_VBP barely_RB formed_VBN and_CC their_PRP$ airways_NNS are_VBP not_RB developed_VBN enough_RB to_TO inhale_NN ._. 
+Circulation_NNP depends_VBZ on_IN the_DT use_NN of_IN ventilators_NNS and_CC injections_NNS of_IN hormones_NNS ._. 
+A_DT baby_NN born_VBN during_IN the_DT 22_CD nd_NN week_NN has_VBZ a_DT 14.8_CD 
+percent_NN chance_NN of_IN survival_NN ._. 
+And_CC about_IN half_NN of_IN these_DT survivors_NNS are_VBP brain-damaged_JJ ,_, either_CC by_IN lack_NN of_IN oxygen_NN (_( from_IN poor_JJ initial_JJ respiration_NN )_) or_CC too_RB much_JJ oxygen_NN (_( from_IN the_DT ventilator_NN )_) ._. 
+Neonatologists_NNP predict_VBP that_IN no_DT baby_NN will_MD ever_RB be_VB viable_JJ before_IN the_DT 22_CD nd_NN week_NN ,_, because_IN before_IN then_RB the_DT lungs_NNS are_VBP not_RB fully_RB formed_VBN ._. 
+
+Probability_NNP of_IN survival_NN increases_NNS for_IN babies_NNS born_VBN later_RB in_IN pregnancy_NN :_: 25_CD percent_NN in_IN the_DT 23_CD rd_NN week_NN ,_, 42_CD percent_NN in_IN the_DT 24_CD th_NN week_NN ,_, 57_CD percent_NN in_IN 25_CD th_NN week_NN ._. 
+By_IN the_DT 30_CD th_NN week_NN ,_, when_WRB a_DT newborn_JJ does_VBZ n't_RB require_VB a_DT ventilator_NN to_TO breathe_VB ,_, it_PRP has_VBZ a_DT 90_CD percent_NN chance_NN of_IN survival_NN ._. 
+And_CC only_RB after_IN the_DT 30_CD th_NN week_NN do_VBP the_DT risks_NNS of_IN long-term_JJ brain_NN damage_NN begin_VB to_TO substantially_RB subside_NN ._. 
+Because_IN premature_JJ babies_NNS depend_VBP on_IN technology_NN ,_, survival_NN rates_NNS vary_VBP based_VBN on_IN access_NN to_TO that_DT technology_NN ._. For_IN instance_NN ,_, in_IN rural_JJ communities_NNS ,_, which_WDT commonly_RB lack_NN expensive_JJ infant_NN intensive-care_JJ units_NNS ,_, survival_NN rates_NNS in_IN these_DT early_JJ weeks_NNS are_VBP much_RB lower_JJR ._. 
+
+Doctors_NNS assess_VBP a_DT fetus_NN 's_POS viability_NN by_IN attempting_VBG to_TO guess_VB whether_IN its_PRP$ lungs_NNS have_VBP formed_VBN ._. 
+Sonograms_NNP allow_VB doctors_NNS to_TO estimate_VB the_DT fetus_NN 's_POS weight_NN ,_, which_WDT correlates_NNS with_IN the_DT lungs_NNS '_POS development_NN ,_, and_CC to_TO look_VB for_IN signs_JJ --_: such_JJ as_IN the_DT development_NN of_IN functioning_VBG eyelids_NNS and_CC creases_NNS in_IN the_DT skin_JJ --_: that_IN coincide_VB with_IN the_DT onset_NN of_IN a_DT functioning_VBG respiratory_JJ system_NN ._. 
+None_NN of_IN the_DT methods_NNS for_IN predicting_VBG viability_NN are_VBP very_RB precise_JJ ._. 
+
+Despite_IN important_JJ Supreme_NNP Court_NNP decisions_NNS since_IN 1973_CD modifying_VBG the_DT doctrine_NN of_IN Roe_NNP ,_, the_DT court_NN 's_POS thinking_VBG about_IN fetal_JJ viability_NN has_VBZ remained_VBN fairly_RB constant_JJ ._. 
+The_DT only_RB significant_JJ revision_NN came_VBD in_IN the_DT Casey_NNP decision_NN (_( 1992_CD )_) ,_, which_WDT made_VBD viability_NN even_RB more_RBR important_JJ ._. 
+The_DT court_NN said_VBD that_IN state_NN laws_NNS could_MD require_VB a_DT woman_NN and_CC her_PRP$ doctor_NN to_TO perform_VB tests_NNS to_TO prove_VB that_IN a_DT fetus_NN is_VBZ not_RB viable_JJ before_IN she_PRP obtains_NNS an_DT abortion_NN ._. 
+
+Forty-one_NNP states_NNS now_RB have_VBP laws_NNS restricting_VBG post-viability_JJ abortions_NNS ._. 
+Some_DT allow_VBP doctors_NNS to_TO decide_VB for_IN themselves_PRP if_IN the_DT fetus_NN is_VBZ viable_JJ ._. 
+Some_DT require_VBP doctors_NNS to_TO perform_VB tests_NNS to_TO prove_VB a_DT fetus_NN is_VBZ pre-viable_JJ and_CC require_VB multiple_JJ doctors_NNS to_TO certify_VB the_DT findings_NNS ._. 
+Eleven_CD states_NNS have_VBP banned_VBN the_DT procedure_NN called_VBD intact_JJ dilation_NN and_CC extraction_NN (_( IDE_NNP )_) --_: also_RB known_VBN as_IN partial-birth_JJ abortion_NN --_: in_IN the_DT belief_NN that_IN this_DT procedure_NN is_VBZ used_VBN mainly_RB post-viability_JJ ._. 
+
+Banning_NNP IDEs_NNP nationwide_JJ is_VBZ a_DT major_JJ goal_NN of_IN the_DT pro-life_JJ movement_NN ._. 
+Movement_NNP adherents_NNS claim_VBP that_IN the_DT IDE_NNP procedure_JJ --_: in_IN which_WDT delivery_NN is_VBZ induced_VBN ,_, the_DT fetus_NN 's_POS skull_NN is_VBZ crushed_VBN ,_, and_CC its_PRP$ brains_NNS are_VBP suctioned_JJ --_: amounts_VBZ to_TO infanticide_NN ._. 
+Barring_VBG this_DT procedure_NN is_VBZ also_RB the_DT only_JJ regulation_NN of_IN abortion_NN that_IN public-opinion_JJ polls_NNS say_VBP has_VBZ a_DT majority_NN of_IN support_NN ._. 
+Pro-choicers_NNP say_VBP the_DT ban_NN on_IN IDEs_NNP is_VBZ inconsistent_JJ with_IN Roe_NNP ,_, because_IN the_DT procedure_NN can_MD be_VB used_VBN to_TO abort_NN pre-viable_JJ fetuses_NNS ._. 
+
+Some_DT medical_JJ ethicists_NNS and_CC constitutional_JJ scholars_NNS say_VBP that_IN the_DT Supreme_NNP Court_NNP was_VBD wrong_JJ to_TO create_VB the_DT pre-viability_JJ /_NN post-viability_JJ distinction_NN in_IN the_DT first_JJ place_NN ._. 
+Why_WRB ,_, they_PRP ask_VBP ,_, does_VBZ the_DT fact_NN that_IN a_DT fetus_NN can_MD survive_VB outside_IN the_DT womb_NN with_IN the_DT help_NN of_IN vast_JJ medical_JJ technology_NN change_NN either_CC of_IN the_DT interests_NNS at_IN war_NN in_IN the_DT abortion_NN debate_NN :_: the_DT fetus_NN 's_POS own_JJ claim_NN to_TO "_'' human-ness_JJ "_'' and_CC a_DT woman_NN 's_POS right_NN to_TO control_VB her_PRP$ body_NN ?_. 
+Even_RB if_IN viability_NN is_VBZ an_DT important_JJ moral_JJ line_NN ,_, is_VBZ it_PRP drawn_VBN in_IN the_DT right_JJ place_NN ?_. 
+Keeping_VBG alive_JJ a_DT baby_NN born_VBN in_IN the_DT 22_CD nd_NN week_NN costs_NNS several_JJ hundred_CD thousand_CD dollars_NNS and_CC usually_RB fails_VBZ ,_, regardless_RB of_IN the_DT effort_NN ._. 
+
+The_DT fuss_NNS over_IN post-viability_JJ abortions_NNS ultimately_RB concerns_VBZ only_RB a_DT very_RB small_JJ number_NN of_IN procedures_NNS ._. 
+Less_JJR than_IN one_CD percent_NN of_IN all_DT abortions_NNS performed_VBN take_VB place_NN after_IN the_DT 21_CD st_NN week_NN ._. 
+In_IN 1992_CD ,_, only_RB 1,070_CD abortions_NNS were_VBD performed_VBN after_IN the_DT 25_CD th_NN week_NN ._. 
+

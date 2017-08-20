@@ -1,0 +1,10 @@
+Oshkosh_NNP Truck_NNP Corp_NNP ._. ,_, Oshkosh_NNP ,_, Wis_NNP ._. ,_, estimated_VBN earnings_NNS for_IN its_PRP$ fourth_JJ quarter_NN ended_VBN Sept_NNP ._. 30_CD fell_VBD 50_CD %_NN to_TO 75_CD %_NN below_IN the_DT year_NN -_- earlier_JJR $4.5_NN million_CD ,_, or_CC 51_CD cents_NNS a_DT share_NN ._. 
+
+The_DT truck_NN maker_NN said_VBD the_DT significant_JJ drop_NN in_IN net_JJ income_NN will_MD result_VB in_IN lower_JJR earnings_NNS for_IN the_DT fiscal_JJ year_NN ._. 
+In_IN fiscal_JJ 1988_CD ,_, the_DT company_NN earned_VBD $17.3_NN million_CD ,_, or_CC $1.92_NN a_DT share_NN ,_, on_IN revenue_NN of_IN $352.9_NN million_CD ._. 
+
+Oshkosh_NNP Truck_NNP attributed_VBD the_DT downturn_NN in_IN its_PRP$ earnings_NNS to_TO higher_JJR start_VBG -_- up_RP costs_NNS of_IN its_PRP$ new_JJ chassis_NN division_NN ,_, a_DT softer_JJR motor_NN -_- home_NN market_NN and_CC higher_JJR administrative_JJ costs_NNS of_IN compliance_NN with_IN government_NN contractor_NN regulations_NNS ._. 
+
+The_DT company_NN said_VBD it_PRP is_VBZ in_IN the_DT process_NN of_IN phasing_VBG out_RP John_NNP Deere_NNP ,_, its_PRP$ current_JJ source_NN of_IN production_NN for_IN midsized_JJ motor_NN home_NN chassis_NN ._. 
+In_IN anticipation_NN of_IN the_DT start_VBG -_- up_RP of_IN its_PRP$ new_JJ factory_NN ,_, the_DT company_NN said_VBD a_DT larger_JJR -_- than_IN -_- normal_JJ chassis_NN supply_NN has_VBZ been_VBN built_VBN to_TO carry_VB it_PRP through_IN the_DT transition_NN period_NN ._. 
+

@@ -1,0 +1,4 @@
+Pacific_NNP First_CD Financial_NNP Corp_NNP ._. said_VBD shareholders_NNS approved_VBD its_PRP$ acquisition_NN by_IN Royal_NNP Trustco_NNP Ltd._NN of_IN Toronto_NNP for_IN $27_NN a_DT share_NN ,_, or_CC $212_NN million_CD ._. 
+
+The_DT thrift_NN holding_VBG company_NN said_VBD it_PRP expects_VBZ to_TO obtain_VB regulatory_JJ approval_NN and_CC complete_VB the_DT transaction_NN by_IN year_NN -_- end_NN ._. 
+

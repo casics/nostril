@@ -1,0 +1,7 @@
+docno_NN =_SYM "_'' lists-_NN 046_CD -_: 11506817_CD "_'' name_NN =_SYM "_'' Ron_NNP Whitney_NNP "_'' email_NN =_SYM "_'' RFW@math.ams.org_NN "_'' sent_VBD =_SYM "_'' Thu_NNP ,_, 11_CD Apr_NNP 1996_CD 08:46:25_NN -0400_CD (_( EDT_NNP )_) "_'' *_NN Mail-_NNP System-_NNP Version_NNP :_: subject_JJ =_SYM "_'' small_JJ questions_NNS regarding_VBG integrals_NNS "_'' To_TO :_: w3c-math-erb@w3.org_NN In_IN composing_VBG a_DT longer_JJR piece_NN about_IN concerns_NNS here_RB ,_, I_PRP have_VBP a_DT couple_NN of_IN smallish_NN ,_, focused_VBN questions_NNS ._. 
+I_PRP 'll_MD ask_VB them_PRP in_IN the_DT context_NN of_IN integrals_NNS ._. 
+Dave_NNP proposes_VBZ something_NN on_IN the_DT order_NN of_IN integral_JJ from_IN ..._... to_TO ..._... of_IN ..._... \_NN d_SYM x_SYM for_IN an_DT "_'' ordinary_JJ "_'' integral_JJ ._. 
+1_CD ._. How_WRB will_MD we_PRP handle_VB the_DT variants_NNS on_IN this_DT theme_NN such_JJ as_IN multiple_JJ integrals_NNS (_( to_TO be_VB rendered_VBN with_IN multiple_JJ integral_JJ signs_NNS )_) ,_, path_NN integrals_NNS ,_, etc._NN ?_. 
+2_CD ._. Is_VBZ there_EX a_DT specific_JJ reason_NN we_PRP do_VBP n't_RB want_VB to_TO use_VB the_DT TeX-like_NNP notation_NN :_: \_NN int_NN __NN {_( ..._... }_) ^_NN {_( ..._... }_) ..._... ?_. 
+(_( because_IN the_DT __NN and_CC ^_NN operators_NNS become_VBP "_'' too_RB "_'' overloaded_JJ ?_. )_) 
+-_: Ron_NNP 

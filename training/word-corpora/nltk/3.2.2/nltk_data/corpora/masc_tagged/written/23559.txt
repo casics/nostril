@@ -1,0 +1,21 @@
+Message-_NNP :_: <_NN 4890112.1075845067403.JavaMail.evans@thyme_NN >_NN Date_NN :_: Tue_NNP ,_, 10_CD Apr_NNP 2001_CD 11:52:00_NN -_: 0700_CD (_( PDT_NNP )_) From_IN :_: beth.apollo@enron.com_NN To_TO :_: shona.wilson@enron.com_NN ,_, jeffrey.gossett@enron.com_NN ,_, stacey.white@enron.com_NN ,_, d.hall@enron.com_NN ,_, sheri.thomas@enron.com_NN ,_, brenda.herod@enron.com_NN ,_, john_NN ._. j.boudreaux@us.arthurandersen.com_NN ,_, john.vickers@us.arthurandersen.com_NN ,_, kate.agnew@us.arthurandersen.com_NN ,_, jennifer.stevenson@us.arthurandersen.com_NN Subject_NNP :_: Confidential_NNP Folder_NNP to_TO safely_RB pass_VB information_NN to_TO Arthur_NNP Andersen_NNP Cc_NNP :_: sally.beck@enron.com_NN ,_, tom.bauer@us.arthurandersen.com_NN ,_, georgeanne.hodges@enron.com_NN ,_, vanessa.schulte@enron.com_NN ,_, bob.hall@enron.com_NN ,_, leslie.reeves@enron.com_NN ,_, brent.price@enron.com_NN Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Bcc_NNP :_: sally.beck@enron.com_NN ,_, tom.bauer@us.arthurandersen.com_NN ,_, georgeanne.hodges@enron.com_NN ,_, vanessa.schulte@enron.com_NN ,_, bob.hall@enron.com_NN ,_, leslie.reeves@enron.com_NN ,_, brent.price@enron.com_NN We_PRP have_VBP become_VBN increasingly_RB concerned_VBN about_IN confidential_JJ information_NN (_( dpr_NN /_NN position_NN info_NN ,_, curves_NNS ,_, validations_NNS /_NN stress_NN tests_NNS ,_, etc_FW )_) being_VBG passed_VBN to_TO Arthur_NNP Andersen_NNP for_IN audit_NN purposes_NNS over_IN the_DT Web_NNP to_TO their_PRP$ Arthur_NNP Andersen_NNP email_NN addresses_NNS ._. 
+(_( necessary_JJ now_RB they_PRP no_RB longer_RB have_VBP access_NN to_TO Enron_NNP 's_POS internal_JJ email_NN system_NN )_) 
+
+Please_VB use_NN the_DT folder_NN described_VBD below_IN when_WRB passing_VBG any_DT info_NN (_( that_IN you_PRP would_MD have_VB concerns_NNS about_IN if_IN it_PRP was_VBD picked_VBN up_RB by_IN a_DT third_JJ party_NN )_) via_IN the_DT shared_JJ drive_NN that_WDT has_VBZ been_VBN set_VBN up_RP for_IN this_DT specific_JJ purpose_NN ._. 
+
+Note_VB :_: AA_NN should_MD also_RB use_VB the_DT shared_JJ drive_NN to_TO pass_VB info_NN back_RB if_IN there_EX are_VBP questions_NNS ,_, or_CC the_DT data_NNS needs_VBZ updating_VBG ._. 
+We_PRP should_MD also_RB consider_VB the_DT sensitivity_NN of_IN audit_NN findings_NNS and_CC special_JJ presentations_NNS if_IN they_PRP are_VBP being_VBG distributed_VBN electronically_RB ._. 
+
+Please_VB pass_VB this_DT note_NN to_TO others_NNS in_IN your_PRP$ groups_NNS who_WP have_VBP the_DT need_NN to_TO pass_VB info_NN back_RB and_CC forth_RB ._. 
+
+Details_NNS on_IN how_WRB to_TO access_VB for_IN those_DT who_WP will_MD use_VB this_DT method_NN to_TO pass_VB info_NN :_: 
+
+A_DT secured_JJ folder_NN has_VBZ been_VBN set_VBN up_RP on_IN the_DT "_'' o_NN "_'' drive_NN under_IN Corporate_JJ called_VBN Arthur_NNP __NN Andersen_NNP (_( O_NNP :_: \_NN Corporate_JJ \_NN Arthur_NNP __NN Anderson_NNP )_) ._. 
+Please_VB post_NN all_DT confidential_JJ files_NNS in_IN this_DT folder_NN rather_RB than_IN emailing_VBG the_DT files_NNS to_TO their_PRP$ company_NN email_NN address_NN ._. 
+If_IN you_PRP need_VBP access_NN to_TO this_DT folder_NN ,_, submit_VBP an_DT eRequest_NN through_IN the_DT IT_PRP Central_NNP site_NN :_: http://itcentral.enron.com/Data/Services/SecurityRequests/._NN 
+Arthur_NNP Andersen_NNP will_MD be_VB able_JJ to_TO retrieve_VB these_DT files_NNS for_IN review_NN with_IN their_PRP$ terminal_NN server_NN access_NN at_IN the_DT Three_CD Allen_NNP Center_NNP location_NN ._. 
+
+Please_VB contact_NN Vanessa_NNP Schulte_NNP if_IN you_PRP have_VBP any_DT problems_NNS or_CC questions_NNS 
+
+Beth_NNP Apollo_NNP 
+

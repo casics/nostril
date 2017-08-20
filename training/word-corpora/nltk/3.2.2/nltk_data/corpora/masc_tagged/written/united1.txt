@@ -1,0 +1,39 @@
+December_NNP 2000_CD 
+Name_NN 
+Address_NNP 
+New_NNP York_NNP ,_, NY_NNP 10009_CD 
+Earn_NNP up_IN to_TO 15,000_CD Mileage_NNP Plus_NNP ®_NN bonus_NN miles_NNS on_IN your_PRP$ choice_NN of_IN cruises_NNS !_. 
+
+Dear_RB Name_NN :_: 
+
+Great_NNP destinations_NNS ,_, your_PRP$ choice_NN of_IN itineraries_NNS ,_, big_JJ bonus_NN miles_NNS ,_, and_CC 3rd_CD and_CC 4th_JJ passengers_NNS cruise_VBP FREE_NN —_NN now_RB sailing_NN away_RB with_IN Renaissance_NNP Cruises_NNP is_VBZ more_RBR rewarding_JJ than_IN ever_RB ._. 
+But_CC see_VB for_IN yourself_PRP ,_, because_IN 
+these_DT special_JJ rates_NNS are_VBP available_JJ only_RB through_IN January_NNP 7_CD ,_, 2001_CD !_. 
+
+Renaissance_NNP Cruises_NNP vacations_NNS escort_NN you_PRP from_IN one_CD fabulous_JJ destination_NN to_TO the_DT next_JJ in_IN a_DT beautiful_JJ cabin_NN aboard_IN a_DT brand-new_JJ ship_NN ._. 
+You_PRP ’ll_MD enjoy_VB four_CD outstanding_JJ restaurants_NNS ,_, nightly_JJ entertainment_NN ,_, an_DT exciting_JJ casino_NN ,_, a_DT fitness_NN center_NN and_CC world-class_JJ spa_NN —_NN and_CC more_JJR !_. 
+Optional_NNP shore_VB excursions_NNS will_MD provide_VB the_DT best_JJS opportunities_NNS for_IN exploring_VBG the_DT highlights_NNS of_IN each_DT fascinating_JJ port-of-call_JJ !_. 
+
+This_DT great_JJ offer_NN is_VBZ available_JJ on_IN select_VB sail_NN dates_NNS from_IN January_NNP through_IN March_NNP 2001_CD ,_, you_PRP can_MD sail_NN between_IN Istanbul_NNP and_CC Barcelona_NNP ,_, Rome_NNP and_CC Athens_NNP ,_, or_CC Athens_NNP and_CC Istanbul_NNP ._. 
+Just_RB look_VB at_IN these_DT great_JJ itineraries_NNS !_. 
+Cruise_NN rates_NNS start_VBP as_RB low_JJ as_IN $599_NN for_IN an_DT outside_JJ cabin_NN on_IN select_VB sail_NN dates_NNS ,_, and_CC all_DT offer_NN the_DT option_NN of_IN your_PRP$ 3_CD rdr_NN and_CC 4th_JJ passengers_NNS cruising_VBG free_JJ !_. 
+
+Select_NNP the_DT itinerary_NN that_IN piques_NNS your_PRP$ interest_NN ,_, and_CC call_NN On-Call_NNP Travel_NNP Services_NNPS to_TO reserve_VB your_PRP$ cabin_NN ._. 
+Specify_NNP UWAX5_NNP to_TO receive_VB this_DT offer_NN ._. 
+Low_NNP international_JJ airfare_NN is_VBZ also_RB available_JJ ._. 
+Offer_NN is_VBZ first-come_JJ ,_, first-served_JJ and_CC at_IN this_DT incredibly_RB low_JJ rate_NN ,_, cabins_NNS are_VBP sure_JJ to_TO sell_VB out_IN quickly_RB ,_, so_RB call_NN 1-800-822-2841_NN today_NN !_. 
+
+Sincerely_NNP ,_, 
+Jack_NNP Mercer_NNP 
+Silver_NNP Wings_NNP Plus_NNP Cruise_NNP Desk_NNP 
+
+Price_NNP shown_VBN is_VBZ for_IN an_DT outside_JJ cabin_NN on_IN select_VB sail_NN dates_NNS and_CC new_JJ bookings_NNS only_RB ._. 
+Price_NNP is_VBZ per_IN person_NN ,_, based_VBN on_IN double_JJ occupancy_NN ,_, for_IN cruise_NN only_RB ,_, may_MD vary_VB by_IN sail_NN date_NN ,_, and_CC requires_VBZ full_JJ payment_NN at_IN the_DT time_NN of_IN purchase_NN ._. 
+Offer_NN is_VBZ subject_JJ to_TO availability_NN and_CC is_VBZ not_RB combinable_JJ with_IN other_JJ offers_NNS ,_, cabins_NNS may_MD sell_VB out_IN before_IN offer_NN expires_VBZ on_IN 1/7/01_CD ._. 
+Cancellation_NNP fees_NNS may_MD apply_VB ._. 
+All_DT schedules_NNS and_CC itineraries_NNS are_VBP subject_JJ to_TO change_VB ._. 
+Government_NN tees_NNS and_CC charges_NNS for_IN all_DT passengers_NNS are_VBP additional_JJ ._. 
+All_DT guests_NNS are_VBP subject_JJ to_TO the_DT terms_NNS and_CC conditions_NNS of_IN Renaissance_NNP cruises_NNS ’_NN Passage_NNP contract_NN ,_, available_JJ upon_IN request_NN ._. 
+Bonus_NNP miles_NNS are_VBP per_IN cabin_NN and_CC will_MD be_VB credited_VBN within_IN 8_CD weeks_NNS of_IN sailing_NN ._. 
+Mileage_NNP Plus_NNP account_NN number_NN must_MD be_VB provided_VBN at_IN time_NN of_IN booking_NN ._. 
+

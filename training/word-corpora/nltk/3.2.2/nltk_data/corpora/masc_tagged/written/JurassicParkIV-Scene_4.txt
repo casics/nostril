@@ -1,0 +1,9 @@
+EXT_NNP -_- ISLA_NNP SORNA_NNP -_: DAWN_NN EXT_NNP -_- CLARK_NNP IS_VBZ CROUCHING_VBG IN_IN THE_DT MIDDLE_NNP OF_IN THE_DT T_NNP -_- REX_NNP NEST_NN ON_IN ISLA_NNP SORNA_NNP ._. HE_PRP IS_VBZ HOLDING_VBG HIS_PRP$ UNCLE_NNP 'S_VBZ H_NNP &_CC H_NNP IN_IN HIS_PRP$ HANDS_NNS AND_CC IS_VBZ WEARING_VBG A_DT GHILLE_JJ SUIT_NN ._. 
+-_- DAWN_NN CLARK_NNP reaches_VBZ up_IN to_TO press_VB a_DT button_NN on_IN his_PRP$ left_JJ shoulder_NN ._. 
+He_PRP begins_VBZ recording_NN ._. 
+JEFFERY_NNP CLARK_NNP (_( to_TO the_DT microphone_NN 
+)_) Isla_NNP Sorna_NNP ,_, day_NN fourteen_CD ._. 
+I_PRP have_VBP been_VBN on_IN this_DT island_NN for_IN two_CD weeks_NNS ,_, and_CC I_PRP 've_VBP seen_VBN no_DT sign_NN of_IN either_DT the_DT T-Rex_NNP or_CC the_DT Spinosaurus_NNP ._. 
+I_PRP have_VBP been_VBN to_TO all_DT of_IN the_DT locations_NNS that_IN the_DT animals_NNS were_VBD said_VBN to_TO frequent_JJ but_CC without_IN avail_NN ._. 
+I_PRP am_VBP out_IN of_IN food_NN and_CC set_VBN to_TO meet_VB the_DT helicopter_NN at_IN the_DT designated_VBN meeting_NN point_NN in_IN twelve_CD hours_NNS ._. 
+I_PRP regret_VBP that_IN I_PRP am_VBP coming_VBG home_NN from_IN this_DT hunt_NN empty-handed_JJ ._. 

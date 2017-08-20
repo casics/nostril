@@ -1,0 +1,21 @@
+Message-ID_NNP :_: <_NN 5100559.1075860488776.JavaMail.evans@thyme_NN >_NN Date_NN :_: Wed_NNP ,_, 1_CD Nov_NNP 2000_CD 11:49:00_NN -_: 0800_CD (_( PST_NNP )_) From_IN :_: michelle.cash@enron.com_NN To_TO :_: felecia.acevedo@enron.com_NN Subject_NNP :_: Privileged_NNP and_CC Confidential_NNP communication_NN to_TO my_PRP$ attorneys_NNS Mime-_NNP Version_NNP :_: 1.0_CD Content-_NNP Type_NNP :_: text_NN /_NN plain_JJ ;_: charset_NN =_SYM us-ascii_JJ Content-_NNP Transfer-_NNP Encoding_NNP :_: 7_CD bit_NN Felicia_NNP ,_, Does_VBZ this_DT sound_NN right_NN to_TO you_PRP ?_. 
+Just_RB wanted_VBD to_TO confirm_VB ._. 
+Thanks_NNS ._. 
+Michelle_NNP 
+
+----------------------_SYM Forwarded_NNP by_IN Michelle_NNP Cash_NNP /_NN HOU_NNP /_NN ECT_NNP on_IN 11/01/2000_CD 07:48_NN PM_NNP ---------------------------_SYM 
+HThomas@gspcorp.com_NN on_IN 11/01/2000_CD 07:19:00_NN PM_NNP To_TO :_: michelle.cash@enron.com_NN ,_, david.oxley@enron.com_NN ,_, peter.del.vecchio@enron.com_NN cc_NN :_: david.howe@enron.com_NN ,_, fran.mayes@enron.com_NN Subject_NNP :_: Privileged_NNP and_CC Confidential_NNP communication_NN to_TO my_PRP$ attorneys_NNS 
+Michelle_NNP and_CC Peter_NNP ,_, we_PRP (_( GSP_NNP )_) have_VBP determined_VBN that_IN we_PRP are_VBP not_RB a_DT federal_JJ government_NN contractor_NN ._. 
+Based_VBN on_IN feedback_NN from_IN GSP_NNP employees_NNS ,_, we_PRP do_VBP sell_VB newsprint_NN to_TO printers_NNS who_WP print_VBP material_NN for_IN the_DT federal_JJ government_NN ,_, but_CC we_PRP are_VBP a_NNP '_POS second-tier_JJ '_POS contractor_NN ,_, not_RB a_NNP '_POS first-tier_JJ '_POS contractor_NN ._. 
+(_( Pat_NNP McCarthy_NNP ,_, the_DT local_JJ employment_NN law_NN attorney_NN that_IN I_PRP have_VBP been_VBN using_VBG ,_, used_VBD these_DT terms_NNS when_WRB David_NNP Howe_NNP and_CC i_NNP talked_VBD to_TO him_PRP today_NN ._. 
+)_) Pat_NNP informed_VBD us_PRP that_IN second-tier_JJ contractors_NNS do_VBP not_RB have_VB to_TO abide_VB by_IN all_DT the_DT federal_JJ government_NN requirements_NNS for_IN contractors_NNS ._. 
+
+Based_VBN on_IN this_DT ,_, GSP_NNP does_VBZ not_RB plan_VB to_TO file_VB EEO-1_NNP reports_NNS or_CC prepare_VB affirmative_JJ action_NN plans_NNS ._. 
+In_IN addition_NN ,_, we_PRP do_VBP not_RB feel_VB that_IN we_PRP are_VBP subject_JJ to_TO an_DT OFCCP_NNP audit_NN ._. 
+
+Michelle_NNP ,_, since_IN you_PRP left_VBD me_PRP the_DT voicemail_NN telling_VBG me_PRP that_IN we_PRP are_VBP not_RB included_VBN in_IN the_DT Enron_NNP EEO-1_NNP ,_, i_NNP assume_VB that_WDT also_RB means_VBZ that_IN Enron_NNP 's_POS status_NN as_IN a_DT government_NN contractor_NN does_VBZ not_RB force_VB us_PRP to_TO prepare_VB EEO-1_NNP and_CC AAPs_NNP ._. 
+
+Please_VB advise_VB us_PRP if_IN you_PRP feel_VBP we_PRP have_VBP made_VBN incorrect_JJ assumptions_NNS on_IN any_DT of_IN this_DT ._. 
+
+Hoyt_NNP 
+
