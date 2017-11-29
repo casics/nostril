@@ -6,10 +6,11 @@
 # @website https://github.com/casics/nostril
 # =============================================================================
 
-__version__   = '1.0.0'
-__title__     = 'Nostril: Nonsense String Evaluator'
-__url__       = 'https://github.com/casics/nostril'
-__author__    = 'Michael Hucka <mhucka@caltech.edu>'
-__email__     = 'casics-team@googlegroups.com'
-__license__   = 'GNU General Public License, version 3.0'
-__copyright__ = 'Copyright (C) 2015-2017 by the California Institute of Technology'
+__version__     = '1.0.0'
+__title__       = 'Nostril'
+__description__ = 'Nonsense String Evaluator'
+__url__         = 'https://github.com/casics/nostril'
+__author__      = 'Michael Hucka <mhucka@caltech.edu>'
+__email__       = 'casics-team@googlegroups.com'
+__license__     = 'GNU General Public License, version 3.0'
+__copyright__   = 'Copyright (C) 2015-2017 by the California Institute of Technology'
