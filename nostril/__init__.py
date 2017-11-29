@@ -58,15 +58,8 @@ Software Inventory Creation System.  For more, visit http://casics.org.
 
 '''
 
-__version__ = '1.0'
-__author__  = 'Michael Hucka <mhucka@caltech.edu>'
-__email__   = 'mhucka@caltech.edu'
-__license__ = 'GPL'
-
-from .ng import (
-    NGramData
-)
-
+from .__version__ import *
+from .ng import NGramData
 from .nonsense_detector import (
     is_nonsense, generate_nonsense_detector, test_strings, test_labeled,
     ngrams, dataset_from_pickle
