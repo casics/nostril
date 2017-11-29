@@ -18,14 +18,15 @@ with open(os.path.join(here, 'requirements.txt')) as f:
     reqs = f.read().rstrip().splitlines()
 
 setup(
-    name=nostril.__version__.__title__,
+    name=nostril.__version__.__title__.lower(),
+    description=nostril.__version__.__description__,
+    long_description='Nostril (Nonsense String Evaluator) implements a heuristic mechanism to infer whether a given word or text string is likely to be meaningful or nonsense.',
+    keywords="program-analysis text-processing machine-learning",
     version=nostril.__version__.__version__,
     url=nostril.__version__.__url__,
     author=nostril.__version__.__author__,
     author_email=nostril.__version__.__email__,
     license=nostril.__version__.__license__,
-    description='Nostril (Nonsense String Evaluator) implements a heuristic mechanism to infer whether a given word or text string is likely to be meaningful or nonsense.',
-    keywords="program-analysis text-processing machine-learning",
     packages=['nostril'],
     packages_dir={'nostril': 'nostril'},
     package_data={'nostril': ['docs/*.md', 'LICENSE', 'requirements.txt']},
