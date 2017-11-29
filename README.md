@@ -16,6 +16,21 @@ _Nostril_ is a Python 3 module that can be used to infer whether a given word or
 
 The approach implemented in Nostril uses [n-grams](https://en.wikipedia.org/wiki/N-gram) coupled with a custom [TF-IDF](https://en.wikipedia.org/wiki/Tf–idf) weighting scheme.  It is reasonably fast: once the module is loaded, on a 4 Ghz Apple OS X 10.12 computer, calling the evaluation function returns a result in 20-30 microseconds on average.
 
+✺ Installing Nostril
+-------------------
+
+The following is probably the simplest and most direct way to install Nostril on your computer:
+```
+pip3 install git+https://github.com/casics/nostril.git
+```
+
+Alternatively, you can clone this repository and then run `setup.py`:
+```
+git clone https://github.com/casics/nostril.git
+cd nostril
+sudo python3 setup.py install
+```
+
 ► Using Nostril
 ---------------
 
