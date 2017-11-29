@@ -1,0 +1,75 @@
+#!/usr/bin/env python3
+# =============================================================================
+# @file    nostril
+# @brief   Simple interface to run Nostril, for testing and exploration
+# @author  Michael Hucka <mhucka@caltech.edu>
+# @license Please see the file named LICENSE in the project directory
+# @website https://github.com/casics/nostril
+# =============================================================================
+
+import os
+import plac
+import sys
+
+# Allow this program to be executed directly from the 'bin' directory.
+sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
+
+import nostril
+from nostril import *
+
+@plac.annotations(
+    debug    = ('drop into ipdb after parsing', 'flag', 'd'),
+    version  = ('print version info and exit',  'flag', 'v'),
+    string   = 'string to test'
+)
+
+def main(debug=False, version=False, string=None):
+    '''Nostril is the Nonsense String Evaluator.  It implements a heuristic
+mechanism to infer whether a given word or text string is likely to be
+meaningful or nonsense.  Nostril is primarily intended to be used in Python
+programs for identifying whether strings of characters may or may not be
+program identifiers.
+
+This command-line program provides a very simple interface to run Nostril
+interactively on a string provided on the command-line.  It is useful
+primarily for testing and exploration.  The program accepts an optional
+argument, `-d`, which will make it run ipdb immediately after having analyzed
+the string.  This is useful for developers to help debug Nostril.  The
+optional argument `-v` will make this program display version information and
+exit without doing anything more.
+
+Nostril is not fool-proof; it will generate some false positive and false
+negatives.  This is an unavoidable consequence of the problem domain: without
+direct knowledge, even a human cannot recognize a real text string in all
+cases.  Note that Nostril is trained on program identifiers, and performs
+best with real-life program identifiers.  A vexing result is that this system
+does poorly on supposedly "random" strings typed by a human.  One hypothesis
+is that such strings may be less random than they seem: if someone is asked
+to type junk at random on a QWERTY keyboard, they are likely to use a lot of
+characters from the home row (a-s-d-f-g-h-j-k-l), and those actually turn out
+to be rather common in English words.  In other words, what we think of a
+strings "typed at random" on a keyboard are actually not that random, and
+probably have statistical properties similar to those of real words.'''
+    if version:
+        print('{}'.format(nostril.__version__.__title__))
+        print('Version number: {}'.format(nostril.__version__.__version__))
+        print('Author: {}'.format(nostril.__version__.__author__))
+        print('URL: {}'.format(nostril.__version__.__url__))
+        print('License: {}'.format(nostril.__version__.__license__))
+        sys.exit()
+
+    print('{}: {}'.format(string, 'nonsense' if is_nonsense(string) else 'real'))
+    if debug:
+        import ipdb; ipdb.set_trace()
+
+if __name__ == '__main__':
+    plac.call(main)
+
+
+
+# For Emacs users
+# ......................................................................
+# Local Variables:
+# mode: python
+# python-indent-offset: 4
+# End:
