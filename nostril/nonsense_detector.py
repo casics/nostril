@@ -262,8 +262,6 @@ if '__file__' in globals():
 else:
     sys.path.append('../common')
 
-from utils import msg, full_path
-
 
 # General n-gram functions.
 # .............................................................................
@@ -556,6 +554,43 @@ def dataset_to_pickle(file, data_set):
         pickle.dump(data_set, pickle_file)
 
 
+# Miscellaneous general utilities.
+# .............................................................................
+
+def full_path(filename, subdir=None):
+    '''Return a full path based on the current file or current working dir.
+    'filename' is assumed to be a simple file name and not a path.  Optional
+    'subdir' can be a subdirectory relative, to the current directory, where
+    'filename' is found.
+    '''
+    if subdir and os.path.isabs(subdir):
+        return os.path.join(subdir, filename)
+    else:
+        import inspect
+        try:
+            calling_file = inspect.getfile(sys._getframe(1))
+            thisdir = os.path.dirname(os.path.realpath(calling_file))
+        except:
+            if '__file__' in globals():
+                thisdir = os.path.dirname(os.path.realpath(__file__))
+            else:
+                thisdir = os.getcwd()
+        if subdir:
+            return os.path.join(os.path.join(thisdir, subdir), filename)
+        else:
+            return os.path.join(thisdir, filename)
+
+
+def msg(text):
+    '''Like the standard print(), but flushes the output immediately and
+    colorizes the output by default. Flushing immediately is useful when
+    piping the output of a script, because Python by default will buffer the
+    output in that situation and this makes it very difficult to see what is
+    happening in real time.
+    '''
+    print(text, flush=True)
+
+
 # Testing utilities.
 # .............................................................................
 
@@ -727,27 +762,6 @@ def test_labeled(input_file, nonsense_tester, min_length=6, trace_scores=False,
 # .............................................................................
 
 is_nonsense = generate_nonsense_detector()
-
-
-# Quick test interface.
-# .............................................................................
-
-def run(debug=False, loglevel='info', string=None):
-    # Read saved data.
-    is_junk = generate_nonsense_detector(trace=True)
-    test_strings([string], is_junk, sense='junk', trace_scores=True)
-    if debug:
-        import ipdb; ipdb.set_trace()
-
-
-run.__annotations__ = dict(
-    debug    = ('drop into ipdb after parsing',     'flag',   'd'),
-    loglevel = ('logging level: "debug" or "info"', 'option', 'L'),
-    string   = 'string to test'
-)
-
-if __name__ == '__main__':
-    plac.call(run)
 
 
 # -----------------------------------------------------------------------------
