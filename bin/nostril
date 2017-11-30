@@ -38,18 +38,27 @@ the string.  This is useful for developers to help debug Nostril.  The
 optional argument `-v` will make this program display version information and
 exit without doing anything more.
 
-Nostril is not fool-proof; it will generate some false positive and false
-negatives.  This is an unavoidable consequence of the problem domain: without
-direct knowledge, even a human cannot recognize a real text string in all
-cases.  Note that Nostril is trained on program identifiers, and performs
-best with real-life program identifiers.  A vexing result is that this system
-does poorly on supposedly "random" strings typed by a human.  One hypothesis
-is that such strings may be less random than they seem: if someone is asked
-to type junk at random on a QWERTY keyboard, they are likely to use a lot of
-characters from the home row (a-s-d-f-g-h-j-k-l), and those actually turn out
-to be rather common in English words.  In other words, what we think of a
-strings "typed at random" on a keyboard are actually not that random, and
-probably have statistical properties similar to those of real words.'''
+Note that Nostril has to load a large data file when it first starts up.  In
+normal use, within an application program, this would only happen once.
+However, in this interactive program, every time you run this program, the
+data is (re)loaded, which means that startup is slow, which means that this
+interactive interface will make it seem that Nostril itself is slow.  It is
+not; loading the data file is normally a one-time startup cost that you would
+not repeatedly incur in practice the way Nostril is normally used.
+
+Finally, note that Nostril is not perfect; it will generate some false
+positive and false negatives.  This is an unavoidable consequence of the
+problem domain: without direct knowledge, even a human cannot recognize a
+real text string in all cases.  Note that Nostril is trained on program
+identifiers, and performs best with real-life program identifiers.  A vexing
+result is that this system does poorly on supposedly "random" strings typed
+by a human.  One hypothesis is that such strings may be less random than they
+seem: if someone is asked to type junk at random on a QWERTY keyboard, they
+are likely to use a lot of characters from the home row (a-s-d-f-g-h-j-k-l),
+and those actually turn out to be rather common in English words.  In other
+words, what we think of a strings "typed at random" on a keyboard are
+actually not that random, and probably have statistical properties similar to
+those of real words.'''
     if version:
         print('{}'.format(nostril.__version__.__title__))
         print('Version number: {}'.format(nostril.__version__.__version__))
