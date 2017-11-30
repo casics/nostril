@@ -28,9 +28,7 @@ setup(
     author_email=nostril.__version__.__email__,
     license=nostril.__version__.__license__,
     packages=['nostril'],
-    packages_dir={'nostril': 'nostril'},
-    package_data={'nostril': ['docs/*.md', 'LICENSE', 'requirements.txt']},
+    data_files=[('nostril', ['nostril/ngram_data.pklz'])],
     install_requires=reqs,
-    include_package_data=True,
     platforms='any',
 )
