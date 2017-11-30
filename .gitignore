@@ -68,3 +68,4 @@ __pycache__/
 build
 dist
 README.html
+nostril.egg-info
