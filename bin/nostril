@@ -60,8 +60,8 @@ words, what we think of a strings "typed at random" on a keyboard are
 actually not that random, and probably have statistical properties similar to
 those of real words.'''
     if version:
-        print('{}'.format(nostril.__version__.__title__))
-        print('Version number: {}'.format(nostril.__version__.__version__))
+        print('{} version {}'.format(nostril.__version__.__title__,
+                                     nostril.__version__.__version__))
         print('Author: {}'.format(nostril.__version__.__author__))
         print('URL: {}'.format(nostril.__version__.__url__))
         print('License: {}'.format(nostril.__version__.__license__))
