@@ -256,12 +256,6 @@ import re
 import string
 import sys
 
-if '__file__' in globals():
-    thisdir = os.path.dirname(os.path.abspath(__file__))
-    sys.path.append(os.path.join(thisdir, '../common'))
-else:
-    sys.path.append('../common')
-
 
 # General n-gram functions.
 # .............................................................................
