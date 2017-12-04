@@ -18,25 +18,31 @@ import nostril
 from nostril import *
 
 @plac.annotations(
-    debug    = ('drop into ipdb after parsing', 'flag', 'd'),
-    version  = ('print version info and exit',  'flag', 'v'),
-    string   = 'string to test'
+    file     = ('read input from a file',       'option', 'f'),
+    debug    = ('drop into ipdb after parsing', 'flag',   'd'),
+    version  = ('print version info and exit',  'flag',   'v'),
+    string   = 'text string to test'
 )
 
-def main(debug=False, version=False, string=None):
-    '''Nostril is the Nonsense String Evaluator.  It implements a heuristic
-mechanism to infer whether a given word or text string is likely to be
-meaningful or nonsense.  Nostril is primarily intended to be used in Python
-programs for identifying whether strings of characters may or may not be
-program identifiers.
+def main(file=None, debug=False, version=False, string=None):
+    '''Nostril is the Nonsense String Evaluator.  It uses heuristics and
+statistical methods to infer whether a given text string is likely to be
+meaningful text or nonsense.  Nostril is primarily intended to be used in
+Python programs for identifying whether strings of characters may or may not
+be program identifiers.
 
 This command-line program provides a very simple interface to run Nostril
-interactively on a string provided on the command-line.  It is useful
-primarily for testing and exploration.  The program accepts an optional
-argument, `-d`, which will make it run ipdb immediately after having analyzed
-the string.  This is useful for developers to help debug Nostril.  The
-optional argument `-v` will make this program display version information and
-exit without doing anything more.
+interactively.  It is useful primarily for testing and exploration.  The
+input to this program can be a string on the command line, or (using the `-f`
+argument) a file of strings.  If given a file of strings, it will analyze
+each line in the file separately.
+
+The program accepts an optional argument, `-d`, which will make it run ipdb
+immediately before analyzing the string(s).  This is useful for developers to
+help debug Nostril.
+
+The optional argument `-v` will make this program display version information
+and exit without doing anything more.
 
 Note that Nostril has to load a large data file when it first starts up.  In
 normal use, within an application program, this would only happen once.
@@ -46,19 +52,12 @@ interactive interface will make it seem that Nostril itself is slow.  It is
 not; loading the data file is normally a one-time startup cost that you would
 not repeatedly incur in practice the way Nostril is normally used.
 
-Finally, note that Nostril is not perfect; it will generate some false
-positive and false negatives.  This is an unavoidable consequence of the
-problem domain: without direct knowledge, even a human cannot recognize a
-real text string in all cases.  Note that Nostril is trained on program
-identifiers, and performs best with real-life program identifiers.  A vexing
-result is that this system does poorly on supposedly "random" strings typed
-by a human.  One hypothesis is that such strings may be less random than they
-seem: if someone is asked to type junk at random on a QWERTY keyboard, they
-are likely to use a lot of characters from the home row (a-s-d-f-g-h-j-k-l),
-and those actually turn out to be rather common in English words.  In other
-words, what we think of a strings "typed at random" on a keyboard are
-actually not that random, and probably have statistical properties similar to
-those of real words.'''
+Nostril is not perfect; it will generate some false positive and false
+negatives.  This is an unavoidable consequence of the problem domain: without
+direct knowledge, even a human cannot recognize a real text string in all
+cases.  Note that Nostril is trained on program identifiers, and performs
+best with real-life program identifiers.'''
+    # Process arguments
     if version:
         print('{} version {}'.format(nostril.__version__.__title__,
                                      nostril.__version__.__version__))
@@ -67,9 +66,25 @@ those of real words.'''
         print('License: {}'.format(nostril.__version__.__license__))
         sys.exit()
 
-    print('{}: {}'.format(string, 'nonsense' if is_nonsense(string) else 'real'))
+    if not file and not string:
+        raise SystemExit('Need a file or string as input argument')
     if debug:
         import ipdb; ipdb.set_trace()
+    if file:
+        if os.path.exists(file):
+            with open(file) as f:
+                analyze(f.readlines())
+        elif os.path.exists(os.path.join(os.getcwd(), file)):
+            with open(os.path.join(os.getcwd(), file)) as f:
+                analyze(f.readlines())
+        else:
+            raise ValueError('Cannot find file "{}"'.format(file))
+    else:
+        analyze([string])
+
+def analyze(string_list):
+    for s in [string.rstrip() for string in string_list]:
+        print('{}: {}'.format(s, 'nonsense' if is_nonsense(s) else 'real'))
 
 if __name__ == '__main__':
     plac.call(main)
