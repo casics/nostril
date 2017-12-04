@@ -375,6 +375,11 @@ def ngram_values(string_list, n, readjust_zero_scores=True):
     return all_ngrams
 
 
+# When using n-gram scoring, we delete everything other than alpha characters.
+# (This is not used in the simple filters, only in the n-gram method.)
+
+_delchars = str.maketrans('', '', string.punctuation + string.digits + ' ')
+
 def tfidf_score_function(ngram_freq, len_threshold=25, len_penalty_exp=1.365,
                          repetition_penalty_exp=1.159):
     '''Generate a function (as a closure) that computes a score for a given
@@ -436,6 +441,8 @@ def tfidf_score_function(ngram_freq, len_threshold=25, len_penalty_exp=1.365,
     ngram_length = len(next(iter(ngram_freq.keys())))
     len_threshold = int(len_threshold)
     def score_function(string):
+        # We only score alpha characters.
+        string = string.translate(_delchars)
         # Generate list of n-grams for the given string.
         string_ngrams = ngrams(string, ngram_length)
         # Count up occurrences of each n-gram in the string.
@@ -450,13 +457,103 @@ def tfidf_score_function(ngram_freq, len_threshold=25, len_penalty_exp=1.365,
     return score_function
 
 
+# Heuristic pattern matching filter
+# .............................................................................
+#
+# These filters are tried first by generate_nonsense_detector(), and if a
+# decision cannot be made using these filters, then the TF-IDF n-gram based
+# scoring function is used.  There are 2: one for the positive sense, and one
+# for the negative sense.
+#
+#   `simple_nonsense(text)`: return True if the text is probably nonsense.
+#   `simple_real(text)`: return True if the text is probably something real
+#
+# The original motivation for the prefiltering was to solve a vexing problem
+# with the TF-IDF scheme: its accuracy was poor on "random" strings typed by
+# a human.  I hypothesize this is because those strings may be less random
+# than they seem: if someone is asked to type junk at random on a QWERTY
+# keyboard, they are likely to use a lot of characters from the home row
+# (a-s-d-f-g-h-j-k-l), and those actually turn out to be rather common in
+# English words.  In other words, what we think of a strings "typed at
+# random" on a keyboard are actually not that random, and probably have
+# statistical properties similar to those of real words.  (This view is
+# supported by the fact that Nostril's performance is much better on
+# statistically random text strings generated automatically.)  Unfortunately,
+# the behavior was glaringly obvious in what is probably most users' first
+# encounter with Nostril (testing it on a string typed at random), so I
+# looked for a way to counter it.  Along the way, I added more pattern rules
+# that helped accuracy a little bit more.  In the end, on a data set of 1000
+# strings "typed at random" by the author, this prefilter only raises
+# performance from 67% accuracy to 70%, but it makes a much more visible
+# difference with random text you might type at the keyboard.
+
+#
+# simple_nonsense() . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#
+
+# Match long sequences where there are no vowels.
+_random_nonword = re.compile(r'[bcdfghjklmnpqrstvwxzy]{9,}', re.I)
+
+# Various rejection patterns.
+_simple_nonsense = re.compile(
+    # Unusual characters.  Note: in some languages like modern Java and
+    # JavaScript, you can use Unicode characters.  Currently I don't know how
+    # to handle that, so this is limited to UTF-8.  FIXME: deal with Unicode.
+    r"[^-'_a-zA-Z0-9]"
+    # Lack of any of the first 10 most-used letters in English.
+    # (Reference: https://en.wikipedia.org/wiki/Letter_frequency on 2017-12-03)
+    # This slightly improves detection of random strings.
+    r"|\A[^eariotnslcu]+\Z"
+    # Repeated single characters: 5 or more in row
+    r"|(.)\1{4,}"
+    # Repeating sequences.
+    r"|(.)\2{2,}(.)\3{2,}"
+    r"|(.)(.)\4\5\4\5"
+    r"|(.)(.)(.)\6\7\8\6\7\8"
+    # Banging on a qwerty keyboard.
+    r"|[asdfjkl]{8}", re.I)
+
+def simple_nonsense(text):
+    return bool(re.search(_simple_nonsense, text)
+                or (len(text) >= 50 and re.search(_random_nonword, text)))
+
+#
+# simple_real() . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#
+# This function currently has very little in it, but maybe in the future it
+# will grow.  Note: one thing that I tried here but rejected is to add a
+# check for the presence of a common word inside the tested string.  I tried
+# using the free BYU corpus of most frequently-used 5000 words.  The result
+# worked, but had almost no effect on the accuracy of most tests, and worse,
+# the cost was much slower run-times (a factor of 5x).  Our n-gram scoring
+# method is trained against real words, so we are already testing real words.
+# Pre-filtering might have helped compensate for some situations where a word
+# is embedded between characters that produce worse n-gram scores, but the
+# performance price is not worth it, IMHO.
+
+# Roman numerals: repeated characters like 'ccc' are a sign of nonsense.
+# However, Roman numerals can contain repeated chars.  The approach taken
+# here is to rule out strings that have more than a certain number of
+# repeating characters in a row.  The longest Roman numeral for a year from
+# 0-2000 is MDCCCLXXXVIII (for 1888), which would argue for 4+ character
+# repeat to be the threshold.  The caveat is that you can begin with any
+# number of M's to indicate thousands (e.g., MMMMMMXVIII = 6018), which leads
+# to a special case for Roman numerals.  Note we match Roman numerals in a
+# case-insensitive way, because people tend to be sloppy about the case.
+_roman_numeral  = re.compile(r'(^(?=[MDCLXVI])M*(C[MD]|D?C{0,3})(X[CL]|L?X{0,3})(I[XV]|V?I{0,3})$)', re.I)
+
+def simple_real(text):
+    return bool(re.search(_roman_numeral, text))
+
+
 # Scoring and evaluating strings.
 # .............................................................................
 
-_delchars = str.maketrans('', '', string.punctuation + string.digits + ' ')
-'''
-List of characters to delete from input strings before computing scores.
-'''
+# It's a toss-up whether to reject strings like "mystring99" or just ignore
+# the number and examine the string.  The approach below is to ignore
+# leading and trailing non-text characters and examine the rest.
+
+_leading_trailing_ignored = string.punctuation + string.digits
 
 def generate_nonsense_detector(ngram_freq=None,
                                min_length=6, min_score=8.47, trace=False,
@@ -489,10 +586,16 @@ def generate_nonsense_detector(ngram_freq=None,
                                         repetition_penalty_exp=score_rep_penalty_exp)
     if trace:
         def nonsense_detector(string, show=trace):
-            # Lower-case the string & remove non-letters before checking length.
-            string = string.lower().translate(_delchars)
+            # Lower-case the string & strip leading/trailing punctuation
+            string = string.lower().strip(_leading_trailing_ignored)
             if len(string) < min_length:
                 raise ValueError('Too short to test')
+            if simple_real(string):
+                msg('"{}" matched simple acceptance rule'.format(string))
+                return False
+            elif simple_nonsense(string):
+                msg('"{}" matched simple rejection rule'.format(string))
+                return True
             score = string_score(string)
             result = score > min_score
             if show:
@@ -501,11 +604,12 @@ def generate_nonsense_detector(ngram_freq=None,
             return result
     else:
         def nonsense_detector(string, show=trace):
-            # Lower-case the string & remove non-letters before checking length.
-            string = string.lower().translate(_delchars)
+            # Lower-case the string & strip leading/trailing punctuation
+            string = string.lower().strip(_leading_trailing_ignored)
             if len(string) < min_length:
                 raise ValueError('Too short to test')
-            return string_score(string) > min_score
+            return False if simple_real(string) else (
+                simple_nonsense(string) or string_score(string) > min_score)
     return nonsense_detector
 
 
@@ -646,8 +750,8 @@ def test_strings(input, nonsense_tester, min_length=6, sense='valid',
         count = 0
         start = time()
         for string in id_list:
-            # Lower-case the string & remove non-letters before checking length.
-            string = string.lower().translate(_delchars)
+            # Lower-case the string & strip leading/trailing punctuation
+            string = string.lower().strip(_leading_trailing_ignored)
             if len(string) < min_length:
                 skipped += 1
                 continue
@@ -660,6 +764,7 @@ def test_strings(input, nonsense_tester, min_length=6, sense='valid',
             else:
                 failures += not is_junk
                 successes += is_junk
+
         elapsed_time = time() - start
         return (failures, successes, count, skipped, elapsed_time)
 
@@ -783,7 +888,6 @@ is_nonsense = generate_nonsense_detector()
 #         if string[i:].startswith(substr):
 #             count += 1
 #     return count
-
 
 # def show_ngram_matches(string, ngram_freq):
 #     # Lower-case the string and remove non-letter characters.
