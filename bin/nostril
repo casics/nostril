@@ -27,15 +27,14 @@ from nostril import *
 def main(file=None, debug=False, version=False, string=None):
     '''Nostril is the Nonsense String Evaluator.  It uses heuristics and
 statistical methods to infer whether a given text string is likely to be
-meaningful text or nonsense.  Nostril is primarily intended to be used in
-Python programs for identifying whether strings of characters may or may not
-be program identifiers.
+meaningful text or nonsense.  Nostril is a Python library primarily intended
+to be used for identifying whether strings of characters may or may not
+be program identifiers.  This command-line program provides a very simple
+interface to run Nostril, for testing and exploration.
 
-This command-line program provides a very simple interface to run Nostril
-interactively.  It is useful primarily for testing and exploration.  The
-input to this program can be a string on the command line, or (using the `-f`
-argument) a file of strings.  If given a file of strings, it will analyze
-each line in the file separately.
+The input to this program can be a string on the command line, or (using the
+`-f` argument) a file of strings.  If given a file of strings, it will
+analyze each line in the file separately.
 
 The program accepts an optional argument, `-d`, which will make it run ipdb
 immediately before analyzing the string(s).  This is useful for developers to
@@ -56,7 +55,8 @@ Nostril is not perfect; it will generate some false positive and false
 negatives.  This is an unavoidable consequence of the problem domain: without
 direct knowledge, even a human cannot recognize a real text string in all
 cases.  Note that Nostril is trained on program identifiers, and performs
-best with real-life program identifiers.'''
+best with real-life program identifiers.
+'''
     # Process arguments
     if version:
         print('{} version {}'.format(nostril.__version__.__title__,
