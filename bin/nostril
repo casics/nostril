@@ -21,10 +21,10 @@ from nostril import *
     file     = ('read input from a file',       'option', 'f'),
     debug    = ('drop into ipdb after parsing', 'flag',   'd'),
     version  = ('print version info and exit',  'flag',   'v'),
-    string   = 'text string to test'
+    strings  = 'text string to test'
 )
 
-def main(file=None, debug=False, version=False, string=None):
+def main(file=None, debug=False, version=False, *strings):
     '''Nostril is the Nonsense String Evaluator.  It uses heuristics and
 statistical methods to infer whether a given text string is likely to be
 meaningful text or nonsense.  Nostril is a Python library primarily intended
@@ -66,7 +66,7 @@ best with real-life program identifiers.
         print('License: {}'.format(nostril.__version__.__license__))
         sys.exit()
 
-    if not file and not string:
+    if not file and not strings:
         raise SystemExit('Need a file or string as input argument')
     if debug:
         import ipdb; ipdb.set_trace()
@@ -80,11 +80,13 @@ best with real-life program identifiers.
         else:
             raise ValueError('Cannot find file "{}"'.format(file))
     else:
-        analyze([string])
+        analyze(strings)
+
 
 def analyze(string_list):
     for s in [string.rstrip() for string in string_list]:
         print('{}: {}'.format(s, 'nonsense' if is_nonsense(s) else 'real'))
+
 
 if __name__ == '__main__':
     plac.call(main)
