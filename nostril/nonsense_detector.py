@@ -509,6 +509,29 @@ _simple_nonsense = re.compile(
     r"|(.)\2{2,}(.)\3{2,}"
     r"|(.)(.)\4\5\4\5"
     r"|(.)(.)(.)\6\7\8\6\7\8"
+    # Subsequences of the alphabet.  There must be a more elegant way to test
+    # for this but I haven't been able to think of it.
+    r"|abcdef"
+    r"|bcdefg"
+    r"|cdefgh"
+    r"|defghi"
+    r"|efghij"
+    r"|fghijk"
+    r"|ghijkl"
+    r"|hijklm"
+    r"|ijklmn"
+    r"|jklmno"
+    r"|klmnop"
+    r"|lmnopq"
+    r"|mnopqr"
+    r"|nopqrs"
+    r"|opqrst"
+    r"|pqrstu"
+    r"|qrstuv"
+    r"|rstuvw"
+    r"|stuvwx"
+    r"|tuvwxy"
+    r"|uvwxyz"
     # Banging on a qwerty keyboard.
     r"|[asdfjkl]{8}", re.I)
 
