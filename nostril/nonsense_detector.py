@@ -259,9 +259,9 @@ import sys
 # General n-gram functions.
 # .............................................................................
 
-def ngrams(string, n):
-    '''Return all n-grams of length 'n' for the given 'string'.'''
-    return [string[i : i + n] for i in range(len(string) - n + 1)]
+def ngrams(s, n):
+    '''Return all n-grams of length 'n' for the given string 's'.'''
+    return [s[i : i + n] for i in range(len(s) - n + 1)]
 
 
 def all_possible_ngrams(n):
@@ -341,11 +341,11 @@ def ngram_values(string_list, n, readjust_zero_scores=True):
     counts = defaultdict(int)
     occurrences = defaultdict(set)
     num_strings = 0
-    for string in string_list:
-        string = string.lower()
+    for s in string_list:
+        s = s.lower()
         num_strings += 1
-        for ngram in ngrams(string, n):
-            occurrences[ngram].add(string)
+        for ngram in ngrams(s, n):
+            occurrences[ngram].add(s)
             counts[ngram] += 1
     # Set initial values for all n-grams.
     all_ngrams = defaultdict.fromkeys(all_possible_ngrams(n),
@@ -439,11 +439,11 @@ def tfidf_score_function(ngram_freq, len_threshold=25, len_penalty_exp=1.365,
     max_freq = highest_total_frequency(ngram_freq)
     ngram_length = len(next(iter(ngram_freq.keys())))
     len_threshold = int(len_threshold)
-    def score_function(string):
+    def score_function(s):
         # We only score alpha characters.
-        string = string.translate(_delchars)
+        s = s.translate(_delchars)
         # Generate list of n-grams for the given string.
-        string_ngrams = ngrams(string, ngram_length)
+        string_ngrams = ngrams(s, ngram_length)
         # Count up occurrences of each n-gram in the string.
         ngram_counts = defaultdict(int)
         for ngram in string_ngrams:
@@ -592,29 +592,29 @@ def generate_nonsense_detector(ngram_freq=None,
                                         len_penalty_exp=score_len_penalty_exp,
                                         repetition_penalty_exp=score_rep_penalty_exp)
     if trace:
-        def nonsense_detector(string, show=trace):
-            string = sanitize(string)
-            if len(string) < min_length:
+        def nonsense_detector(s, show=trace):
+            s = sanitize(s)
+            if len(s) < min_length:
                 raise ValueError('Too short to test')
-            if simple_real(string):
-                msg('"{}" matched simple acceptance rule'.format(string))
+            if simple_real(s):
+                msg('"{}" matched simple acceptance rule'.format(s))
                 return False
-            elif simple_nonsense(string):
-                msg('"{}" matched simple rejection rule'.format(string))
+            elif simple_nonsense(s):
+                msg('"{}" matched simple rejection rule'.format(s))
                 return True
-            score = string_score(string)
+            score = string_score(s)
             result = score > min_score
             if show:
                 msg('"{}": {} (score {:.4f} threshold {:.4f})'
-                    .format(string, 'y' if result else 'n', score, min_score))
+                    .format(s, 'y' if result else 'n', score, min_score))
             return result
     else:
-        def nonsense_detector(string, show=trace):
-            string = sanitize(string)
-            if len(string) < min_length:
+        def nonsense_detector(s, show=trace):
+            s = sanitize(s)
+            if len(s) < min_length:
                 raise ValueError('Too short to test')
-            return False if simple_real(string) else (
-                simple_nonsense(string) or string_score(string) > min_score)
+            return False if simple_real(s) else (
+                simple_nonsense(s) or string_score(s) > min_score)
     return nonsense_detector
 
 
@@ -708,9 +708,9 @@ def tabulate_scores(string_list, ngram_freq, show=50, portion='all',
         scores = []
         ngram_length = len(next(iter(ngram_freq.keys())))
         max_frequency = highest_total_frequency(ngram_freq)
-        for string in string_list:
-            score = string_score(string, ngram_freq, ngram_length, max_frequency)
-            scores.append([string, score])
+        for s in string_list:
+            score = string_score(s, ngram_freq, ngram_length, max_frequency)
+            scores.append([s, score])
         sorted_scores = sorted(scores, key=itemgetter(1),
                                reverse=not(order.startswith('ascend')))
     if isinstance(show, int):
@@ -754,14 +754,14 @@ def test_strings(input, nonsense_tester, min_length=6, sense='valid',
         skipped = 0
         count = 0
         start = time()
-        for string in id_list:
+        for s in id_list:
             # Lower-case the string & strip leading/trailing punctuation
-            string = string.lower().strip(_leading_trailing_ignored)
-            if len(string) < min_length:
+            s = s.lower().strip(_leading_trailing_ignored)
+            if len(s) < min_length:
                 skipped += 1
                 continue
             count += 1
-            is_junk = nonsense_tester(string, trace_scores)
+            is_junk = nonsense_tester(s, trace_scores)
             # Shortcut using the fact that True == 1 in numeric context.
             if sense == 'valid':
                 failures += is_junk
@@ -834,17 +834,17 @@ def test_labeled(input_file, nonsense_tester, min_length=6, trace_scores=False,
             for line in lines:
                 pieces = line.strip().split(',')
                 is_real = (pieces[0] == 'y')
-                string = pieces[1]
-                if len(string) < min_length:
+                s = pieces[1]
+                if len(s) < min_length:
                     skipped += 1
                     continue
                 count += 1
                 if is_real:
-                    if nonsense_tester(string, trace_scores):
-                        false_positives.append(string)
+                    if nonsense_tester(s, trace_scores):
+                        false_positives.append(s)
                 else:
-                    if not nonsense_tester(string, trace_scores):
-                        false_negatives.append(string)
+                    if not nonsense_tester(s, trace_scores):
+                        false_negatives.append(s)
             elapsed_time = time() - start
             if trace_scores:
                 msg('{} cases tested in {:.2f}s, {} skipped -- {} false positives, {} false negatives'
