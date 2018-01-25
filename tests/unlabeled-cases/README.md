@@ -1,7 +1,7 @@
 About this directory
 ====================
 
-The contents of the file [loyola-u-ids-cleaned.txt](loyola-u-ids-cleaned.txt) consists of fragments of the identifiers from the Loyola University of Delaware Identifier Splitting Oracle (see http://www.cs.loyola.edu/~binkley/ludiso).  It was generated using the small program [utils/extract-loyola-ids-clean.py](utils/extract-loyola-ids-clean.py) in the subdirectory named [utils](utils).
+The contents of the file [ludiso-split.txt](ludiso-split.txt) consists of identifiers from the Loyola University of Delaware Identifier Splitting Oracle (see http://www.cs.loyola.edu/~binkley/ludiso).  It was generated using the small program [utils/extract-loyola-ids-clean.py](utils/extract-loyola-ids-clean.py) in the subdirectory named [utils](utils).  The program splits identifiers at underscores, periods, and colons and leaves the results as separate "words" to be tested.  Note: some of the resulting strings are too short for Nostril to test, but they are left in the file [ludiso-split.txt](ludiso-split.txt) anyway.
 
 The contents of the file [random-by-hand.txt](random-by-hand.txt) is a list of (semi) random strings typed by me (M. Hucka) at a keyboard.  These are as random as I could make them, but they are surely not truly random because of how keyboards are layed out and how humans tend to hit the keys. They are here because strings like these are the most difficult for the nonsense detector to classify correctly. To a human, they _look_ like random junk, but statistically speaking, I strongly suspect they are not.
 
