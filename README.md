@@ -44,26 +44,29 @@ sudo python3 setup.py install
 ► Using Nostril
 ---------------
 
-The basic usage is very simple.  Nostril provides (among other things) a function named `is_nonsense()`.  This function takes a single text string as an argument and returns a Boolean value as a result.  Here is an example:
+The basic usage is very simple.  Nostril provides a function named `nonsense()`.  This function takes a single text string as an argument and returns a Boolean value as a result.  Here is an example:
 
 ```python
-from nostril import is_nonsense
-result = is_nonsense('yoursinglestringhere')
+from nostril import nonsense
+if nonsense('yoursinglestringhere'):
+   print("nonsense")
+else:
+   print("real")
 ```
 
 The Nostril source code distribution also comes with a command-line program called (unsurprisingly) `nostril`.  This command-line program can take strings on the command line or (with the `-f` option) in a file, and will return nonsense-or-not assessments for each string.  It can be useful for interactive testing and experimentation.   Beware that the Nostril module takes a noticeable amount of time to load, and since the command-line program must reload the module anew each time, it is relatively slow as a means of using Nostril.  (In normal usage, your program would only load the Python module once and not incur the loading time on every call.)
 
-Nostril ignores numbers embedded in the input string.  This was a design decision made for practicality &ndash; it simply makes Nostril a bit easier to use.  If in your application the presence of numbers indicates a string is definitely nonsense, then you may wish to test for that separately before passing the string to Nostril.
+Nostril ignores numbers and spaces embedded in the input string.  This was a design decision made for practicality &ndash; it simply makes Nostril a bit easier to use.  If, in your application, the presence of numbers indicates a string is definitely nonsense, then you may wish to test for that separately before passing the string to Nostril.
 
 
 ⚠️ Limitations
 --------------
 
-Nostril is not fool-proof; **it _will_ generate some false positive and false negatives**.  This is an unavoidable consequence of the problem domain: without direct knowledge, even a human cannot recognize a real text string in all cases.  Nostril's default trained system puts emphasis on reducing false positives (i.e., reducing how often it mistakenly labels something as nonsense) rather than false negatives, so it will sometimes report that something is not nonsense when it really is.  With its default parameter values, on dictionary words (specifically, 218,752 words from `/usr/share/dict/web2`), the default version of `is_nonsense()` achieves greater than 99.99% accuracy.  In tests on real identifiers extracted from actual software source code, it achieves 99.94% to 99.96% accuracy; on truly random strings, it achieves 86% accuracy.  Inspecting the errors shows that most false positives really are quite ambiguous, to the point where most false positives are random-looking, and many false negatives could be plausible identifiers.
+Nostril is not fool-proof; **it _will_ generate some false positive and false negatives**.  This is an unavoidable consequence of the problem domain: without direct knowledge, even a human cannot recognize a real text string in all cases.  Nostril's default trained system puts emphasis on reducing false positives (i.e., reducing how often it mistakenly labels something as nonsense) rather than false negatives, so it will sometimes report that something is not nonsense when it really is.  With its default parameter values, on dictionary words (specifically, 218,752 words from `/usr/share/dict/web2`), the default version of `nonsense()` achieves greater than 99.99% accuracy.  In tests on real identifiers extracted from actual software source code, it achieves 99.94% to 99.96% accuracy; on truly random strings, it achieves 86% accuracy.  Inspecting the errors shows that most false positives really are quite ambiguous, to the point where most false positives are random-looking, and many false negatives could be plausible identifiers.
 
 Nostril has been trained using American English words, and is unlikely to work for other languages unchanged.  However, the underlying framework may work if it were retrained to create a new table of the n-gram frequencies.
 
-Finally, the algorithm does not perform well on very short text, and by default, Nostril imposes a lower length limit of 6 characters &ndash; strings have to be longer than 6 characters or else it will raise an exception.
+Finally, the algorithm does not perform well on very short text, and by default Nostril imposes a lower length limit of 6 characters &ndash; strings must be longer than 6 characters or else it will raise an exception.
 
 
 📚 More information
