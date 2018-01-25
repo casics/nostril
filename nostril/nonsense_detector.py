@@ -555,6 +555,14 @@ def simple_real(text):
 
 _leading_trailing_ignored = string.punctuation + string.digits
 
+def sanitize(s):
+    # Lower-case the string & strip leading/trailing punctuation.
+    s = s.lower().strip(_leading_trailing_ignored)
+    # Convert to ascii, remove embedded spaces, and return the result.
+    s = s.encode('ascii', errors='ignore').decode()
+    return ''.join(s.split())
+
+
 def generate_nonsense_detector(ngram_freq=None,
                                min_length=6, min_score=8.47, trace=False,
                                pickle_file='ngram_data.pklz',
@@ -586,8 +594,7 @@ def generate_nonsense_detector(ngram_freq=None,
                                         repetition_penalty_exp=score_rep_penalty_exp)
     if trace:
         def nonsense_detector(string, show=trace):
-            # Lower-case the string & strip leading/trailing punctuation
-            string = string.lower().strip(_leading_trailing_ignored)
+            string = sanitize(string)
             if len(string) < min_length:
                 raise ValueError('Too short to test')
             if simple_real(string):
@@ -604,8 +611,7 @@ def generate_nonsense_detector(ngram_freq=None,
             return result
     else:
         def nonsense_detector(string, show=trace):
-            # Lower-case the string & strip leading/trailing punctuation
-            string = string.lower().strip(_leading_trailing_ignored)
+            string = sanitize(string)
             if len(string) < min_length:
                 raise ValueError('Too short to test')
             return False if simple_real(string) else (
