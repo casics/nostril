@@ -85,7 +85,10 @@ best with real-life program identifiers.
 
 def analyze(string_list):
     for s in [string.rstrip() for string in string_list]:
-        print('{}: {}'.format(s, 'nonsense' if is_nonsense(s) else 'real'))
+        if len(s) >= 6:
+            print('{}: {}'.format(s, 'nonsense' if nonsense(s) else 'real'))
+        else:
+            print('{}: too short to test'.format(s))
 
 
 if __name__ == '__main__':
