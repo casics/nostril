@@ -495,14 +495,10 @@ _random_nonword = re.compile(r'[bcdfghjklmnpqrstvwxzy]{9,}', re.I)
 
 # Various rejection patterns.
 _simple_nonsense = re.compile(
-    # Unusual characters.  Note: in some languages like modern Java and
-    # JavaScript, you can use Unicode characters.  Currently I don't know how
-    # to handle that, so this is limited to UTF-8.  FIXME: deal with Unicode.
-    r"[^-'_a-zA-Z0-9]"
     # Lack of any of the first 10 most-used letters in English.
     # (Reference: https://en.wikipedia.org/wiki/Letter_frequency on 2017-12-03)
     # This slightly improves detection of random strings.
-    r"|\A[^eariotnslcu]+\Z"
+    r"\A[^eariotnslcu]+\Z"
     # Repeated single characters: 5 or more in row
     r"|(.)\1{4,}"
     # Repeating sequences.
