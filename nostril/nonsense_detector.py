@@ -513,8 +513,8 @@ _simple_nonsense = re.compile(
     r"|[asdfjkl]{8}", re.I)
 
 def simple_nonsense(text):
-    return bool(re.search(_simple_nonsense, text)
-                or (len(text) >= 50 and re.search(_random_nonword, text)))
+    return bool(_simple_nonsense.search(text)
+                or (len(text) >= 50 and _random_nonword.search(text)))
 
 #
 # simple_real() . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -542,24 +542,27 @@ def simple_nonsense(text):
 _roman_numeral  = re.compile(r'(^(?=[MDCLXVI])M*(C[MD]|D?C{0,3})(X[CL]|L?X{0,3})(I[XV]|V?I{0,3})$)', re.I)
 
 def simple_real(text):
-    return bool(re.search(_roman_numeral, text))
+    return bool(_roman_numeral.search(text))
 
 
 # Scoring and evaluating strings.
 # .............................................................................
 
 # It's a toss-up whether to reject strings like "mystring99" or just ignore
-# the number and examine the string.  The approach below is to ignore
-# leading and trailing non-text characters and examine the rest.
+# the numbers and examine the letters.  The code originally ignored only
+# leading and trailing numbers and treated the presence of any other numbers
+# as a sign of nonsense.  However, something like "heart2heart" would then be
+# rated as nonsense when it shouldn't be.  The approach now is to ignore non-
+# alphabetic characters.
 
-_leading_trailing_ignored = string.punctuation + string.digits
+_nonalpha = string.punctuation + string.whitespace + string.digits
+_nonalpha_translator = str.maketrans('', '', _nonalpha)
 
 def sanitize(s):
-    # Lower-case the string & strip leading/trailing punctuation.
-    s = s.lower().strip(_leading_trailing_ignored)
-    # Convert to ascii, remove embedded spaces, and return the result.
+    # Translate non-ASCII character codes.
     s = s.encode('ascii', errors='ignore').decode()
-    return ''.join(s.split())
+    # Lower-case the string & strip non-alpha.
+    return s.lower().translate(_nonalpha_translator)
 
 
 def generate_nonsense_detector(ngram_freq=None,
@@ -595,7 +598,7 @@ def generate_nonsense_detector(ngram_freq=None,
         def nonsense_detector(s, show=trace):
             s = sanitize(s)
             if len(s) < min_length:
-                raise ValueError('Too short to test')
+                raise ValueError('Text is too short to test')
             if simple_real(s):
                 msg('"{}" matched simple acceptance rule'.format(s))
                 return False
@@ -612,7 +615,7 @@ def generate_nonsense_detector(ngram_freq=None,
         def nonsense_detector(s, show=trace):
             s = sanitize(s)
             if len(s) < min_length:
-                raise ValueError('Too short to test')
+                raise ValueError('Text is too short to test')
             return False if simple_real(s) else (
                 simple_nonsense(s) or string_score(s) > min_score)
     return nonsense_detector
@@ -754,9 +757,9 @@ def test_strings(input, nonsense_tester, min_length=6, sense='valid',
         skipped = 0
         count = 0
         start = time()
-        for s in id_list:
+        for text in id_list:
             # Lower-case the string & strip leading/trailing punctuation
-            s = s.lower().strip(_leading_trailing_ignored)
+            s = sanitize(text)
             if len(s) < min_length:
                 skipped += 1
                 continue
