@@ -16,12 +16,12 @@ Usage
 -----
 
 The basic usage is very simple.  Nostril is a Python module that (among
-other things) provides a function named is_nonsense().  This function takes
+other things) provides a function named nonsense().  This function takes
 a text string as an argument and returns a Boolean value as a result.  Here
 is an example:
 
-    from nostril import is_nonsense
-    result = is_nonsense('yoursinglestringhere')
+    from nostril import nonsense
+    result = nonsense('yoursinglestringhere')
 
 The value of result will be a Boolean, with the value True if the input
 string is probably meaningless and False if it is probably not.  (Note: the
@@ -29,7 +29,7 @@ first time you import the module nostril, it will take extra time because
 Nostril loads a large data file during the import step.  If you only execute
 the short two-line example above, it will seem that Nostril takes far too
 long to evaluate a string.  This is misleading: one it's loaded, multiple
-calls to is_nonsense() are very fast.)
+calls to nonsense() are very fast.)
 
 It is possible to tune some of the parameters used by the classifier.  The
 parameters are part of the mathematical function used internally by Nostril
@@ -38,13 +38,13 @@ classifier function (a closure) with different values of the tunable
 parameters, call generate_nonsense_detector like so:
 
     from nostril import generate_nonsense_detector
-    is_nonsense = generate_nonsense_detector(...)
+    nonsense = generate_nonsense_detector(...)
 
 where "..." are parameters that are explained in the help string.  The new
-function is_nonsense() obtained by calling the generator this way can be used
-exactly as the default version of is_nonsense():
+function nonsense() obtained by calling the generator this way can be used
+exactly as the default version of nonsense():
 
-    result = is_nonsense('yoursinglestringhere')
+    result = nonsense('yoursinglestringhere')
 
 Internally, Nostril uses a table of precomputed n-gram weights that were
 derived by training the system on data sets of labeled test cases.  A saved
@@ -64,7 +64,7 @@ positives (i.e., reducing how often it mistakenly labels something as
 nonsense) rather than false negatives, so it will sometimes report that
 something is not nonsense when it really is.  With its default parameter
 values, on dictionary words (specifically, 218,752 words from
-`/usr/share/dict/web2`), the default version of `is_nonsense()` achieves
+`/usr/share/dict/web2`), the default version of `nonsense()` achieves
 greater than 99.99% accuracy.  In tests on real identifiers extracted from
 actual software source code, it achieves 99.94% to 99.96% accuracy; on truly
 random strings, it achieves 86% accuracy.  Inspecting the errors shows that
@@ -573,10 +573,10 @@ def generate_nonsense_detector(ngram_freq=None,
     return True if a given string is gibberish and False otherwise.  Usage:
 
        # Create the test function.
-       is_nonsense = generate_nonsense_detector(ngram_freq)
+       nonsense = generate_nonsense_detector(ngram_freq)
 
        # Call the test function, for example in an if-statement:
-       if is_nonsense('yourstring'):
+       if nonsense('yourstring'):
            ... your code to do something here ...
 
     If not given a value for ngram_freq, it will look in the current
@@ -866,7 +866,7 @@ def test_labeled(input_file, nonsense_tester, min_length=6, trace_scores=False,
 # Module exports.
 # .............................................................................
 
-is_nonsense = generate_nonsense_detector()
+nonsense = generate_nonsense_detector()
 
 
 # -----------------------------------------------------------------------------
