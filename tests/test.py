@@ -5,8 +5,11 @@ import pytest
 import sys
 from   time import time
 
-thisdir = os.path.dirname(os.path.abspath(__file__))
-sys.path.append(os.path.join(thisdir, '..'))
+try:
+    thisdir = os.path.dirname(os.path.abspath(__file__))
+    sys.path.append(os.path.join(thisdir, '..'))
+except:
+    sys.path.append('..')
 
 from nostril import *
 
@@ -27,8 +30,8 @@ print('Testing all words in /usr/share/dict/web2 -- expect 22 failures (99.99% c
 test_strings('/usr/share/dict/web2', nonsense, trace_scores=True)
 
 print('')
-print('Testing against Ludiso cases -- expect 1 failure:')
-test_strings('unlabeled-cases/ludiso-split.txt', nonsense, trace_scores=True, save_to='o') 
+print('Testing against Ludiso cases -- expect 2 failures:')
+test_strings('unlabeled-cases/ludiso.txt', nonsense, trace_scores=True)
 
 print('')
 print('Testing real-not-real -- expect 5 false positives, 9 false negatives:')
