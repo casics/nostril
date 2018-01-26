@@ -33,14 +33,14 @@ be program identifiers.  This command-line program provides a very simple
 interface to run Nostril, for testing and exploration.
 
 The input to this program can be a string on the command line, or (using the
-`-f` argument) a file of strings.  If given a file of strings, it will
+-f argument) a file of strings.  If given a file of strings, it will
 analyze each line in the file separately.
 
-The program accepts an optional argument, `-d`, which will make it run ipdb
+The program accepts an optional argument, -d, which will make it run ipdb
 immediately before analyzing the string(s).  This is useful for developers to
 help debug Nostril.
 
-The optional argument `-v` will make this program display version information
+The optional argument -v will make this program display version information
 and exit without doing anything more.
 
 Note that Nostril has to load a large data file when it first starts up.  In
@@ -85,7 +85,7 @@ best with real-life program identifiers.
 
 def analyze(string_list):
     for s in [string.rstrip() for string in string_list]:
-        if len(s) >= 6:
+        if len(sanitize_string(s)) >= 6:
             print('{}: {}'.format(s, 'nonsense' if nonsense(s) else 'real'))
         else:
             print('{}: too short to test'.format(s))
