@@ -32,6 +32,10 @@ to use.  If, in your application, the presence of numbers indicates a string
 is definitely nonsense, then you may wish to test for that separately before
 passing the string to Nostril.
 
+The function used to clean up strings before they are assessed is called
+`sanitize_string()` and is exported so that users of the Nostril module can
+call it themselves if needed.
+
 Limitations
 -----------
 
@@ -82,6 +86,6 @@ Software Inventory Creation System.  For more, visit http://casics.org.
 from .__version__ import *
 from .ng import NGramData
 from .nonsense_detector import (
-    nonsense, generate_nonsense_detector, test_strings, test_labeled,
-    ngrams, dataset_from_pickle
+    nonsense, generate_nonsense_detector, test_unlabeled, test_labeled,
+    ngrams, dataset_from_pickle, sanitize_string
 )
