@@ -499,8 +499,6 @@ _simple_nonsense = re.compile(
     # (Reference: https://en.wikipedia.org/wiki/Letter_frequency on 2017-12-03)
     # This slightly improves detection of random strings.
     r"\A[^eariotnslcu]+\Z"
-    # Lack of any vowels at all.
-    r"|\A[^aeiouyw]+\Z"
     # Repeated single characters: 5 or more in row.
     r"|(.)\1{5,}"
     # Repeating sequences.
@@ -587,7 +585,7 @@ def sanitize_string(s):
 
 
 def generate_nonsense_detector(ngram_freq=None,
-                               min_length=6, min_score=8.295, trace=False,
+                               min_length=6, min_score=8.29, trace=False,
                                pickle_file='ngram_data.pklz',
                                score_len_threshold=25,
                                score_len_penalty_exp=0.9233,
