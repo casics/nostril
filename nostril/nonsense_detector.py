@@ -581,7 +581,7 @@ def sanitize_string(s):
 
 
 def generate_nonsense_detector(ngram_freq=None,
-                               min_length=6, min_score=8.29, trace=False,
+                               min_length=6, min_score=8.2, trace=False,
                                pickle_file='ngram_data.pklz',
                                score_len_threshold=25,
                                score_len_penalty_exp=0.9233,
