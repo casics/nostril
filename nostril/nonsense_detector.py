@@ -501,8 +501,8 @@ _simple_nonsense = re.compile(
     r"\A[^eariotnslcu]+\Z"
     # Lack of any vowels at all.
     r"|\A[^aeiouyw]+\Z"
-    # Repeated single characters: 4 or more in row.
-    r"|(.)\1{4,}"
+    # Repeated single characters: 5 or more in row.
+    r"|(.)\1{5,}"
     # Repeating sequences.
     r"|(.)\2{2,}(.)\3{2,}"
     r"|(.)(.)\4\5\4\5"
