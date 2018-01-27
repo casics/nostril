@@ -490,9 +490,6 @@ def tfidf_score_function(ngram_freq, len_threshold=25, len_penalty_exp=1.365,
 # simple_nonsense() . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 #
 
-# Match long sequences where there are no vowels.
-_random_nonword = re.compile(r'[bcdfghjklmnpqrstvwxzy]{9,}', re.I)
-
 # Various rejection patterns.
 _simple_nonsense = re.compile(
     # Lack of any of the first 10 most-used letters in English.
@@ -532,8 +529,7 @@ _simple_nonsense = re.compile(
     r"|[asdfjkl]{8}", re.I)
 
 def simple_nonsense(text):
-    return bool(_simple_nonsense.search(text)
-                or (len(text) >= 50 and _random_nonword.search(text)))
+    return bool(_simple_nonsense.search(text))
 
 #
 # simple_real() . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
