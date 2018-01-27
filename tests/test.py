@@ -25,25 +25,24 @@ assert nonsense('iuewrofahgalkfgaufpiupqrjf')
 assert nonsense('ieeoienkjadfakj')
 assert nonsense('lalalaalkjuogaajfajlfal')
 
-print('')
-print('Testing valid words in /usr/share/dict/web2 -- expect 64 false positives positives (99.97% correct):')
-test_unlabeled('/usr/share/dict/web2', nonsense, trace_scores=True)
+print('Testing labeled cases -- expect 7 false positives, 5 false negatives:')
+result = test_labeled('labeled-cases/real-not-real.csv', nonsense, trace_scores=True)
 
 print('')
 print('Testing against valid Ludiso cases -- expect 7 false positives:')
 test_unlabeled('unlabeled-cases/ludiso.txt', nonsense, trace_scores=True)
 
 print('')
-print('Testing labeled cases -- expect 7 false positives, 5 false negatives:')
-result = test_labeled('labeled-cases/real-not-real.csv', nonsense, trace_scores=True)
-
-print('')
-print('Testing against valid OSX identifiers -- expect 5 false positives:')
+print('Testing against valid OSX identifiers -- expect 22 false positives:')
 test_unlabeled('unlabeled-cases/select-identifiers-from-osx-frameworks.txt', nonsense, trace_scores=True)
 
 print('')
 print('Testing against hand-written random strings -- expect 77% accuracy:')
 test_unlabeled('unlabeled-cases/random-by-hand.txt', nonsense, sense='invalid', trace_scores=True)
+
+print('')
+print('Recall test: /usr/share/dict/web2 -- expect 64 false positives positives (99.97% correct):')
+test_unlabeled('/usr/share/dict/web2', nonsense, trace_scores=True)
 
 print('')
 print('Recall test: valid identifiers from source code -- expect 7 false positives:')
