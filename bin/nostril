@@ -19,12 +19,11 @@ from nostril import *
 
 @plac.annotations(
     file     = ('read input from a file',       'option', 'f'),
-    debug    = ('drop into ipdb after parsing', 'flag',   'd'),
     version  = ('print version info and exit',  'flag',   'v'),
     strings  = 'text string to test'
 )
 
-def main(file=None, debug=False, version=False, *strings):
+def main(file=None, version=False, *strings):
     '''Nostril is the Nonsense String Evaluator.  It uses heuristics and
 statistical methods to infer whether a given text string is likely to be
 meaningful text or nonsense.  Nostril is a Python library primarily intended
@@ -35,10 +34,6 @@ interface to run Nostril, for testing and exploration.
 The input to this program can be a string on the command line, or (using the
 -f argument) a file of strings.  If given a file of strings, it will
 analyze each line in the file separately.
-
-The program accepts an optional argument, -d, which will make it run ipdb
-immediately before analyzing the string(s).  This is useful for developers to
-help debug Nostril.
 
 The optional argument -v will make this program display version information
 and exit without doing anything more.
@@ -68,8 +63,6 @@ best with real-life program identifiers.
 
     if not file and not strings:
         raise SystemExit('Need a file or string as input argument')
-    if debug:
-        import ipdb; ipdb.set_trace()
     if file:
         if os.path.exists(file):
             with open(file) as f:
