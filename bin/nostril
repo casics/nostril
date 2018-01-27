@@ -19,11 +19,12 @@ from nostril import *
 
 @plac.annotations(
     file     = ('read input from a file',       'option', 'f'),
+    trace    = ('trace scoring',                'flag',   't'),
     version  = ('print version info and exit',  'flag',   'v'),
     strings  = 'text string to test'
 )
 
-def main(file=None, version=False, *strings):
+def main(file=None, trace=False, version=False, *strings):
     '''Nostril is the Nonsense String Evaluator.  It uses heuristics and
 statistical methods to infer whether a given text string is likely to be
 meaningful text or nonsense.  Nostril is a Python library primarily intended
@@ -66,17 +67,21 @@ best with real-life program identifiers.
     if file:
         if os.path.exists(file):
             with open(file) as f:
-                analyze(f.readlines())
+                analyze(f.readlines(), trace)
         elif os.path.exists(os.path.join(os.getcwd(), file)):
             with open(os.path.join(os.getcwd(), file)) as f:
-                analyze(f.readlines())
+                analyze(f.readlines(), trace)
         else:
             raise ValueError('Cannot find file "{}"'.format(file))
     else:
-        analyze(strings)
+        analyze(strings, trace)
 
 
-def analyze(string_list):
+def analyze(string_list, trace):
+    if trace:
+        nonsense = generate_nonsense_detector(trace=trace)
+    else:
+        nonsense = generate_nonsense_detector()
     for s in [string.rstrip() for string in string_list]:
         if len(sanitize_string(s)) >= 6:
             print('{}: {}'.format(s, 'nonsense' if nonsense(s) else 'real'))
