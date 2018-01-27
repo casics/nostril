@@ -3,7 +3,7 @@ Nostril
 
 <img align="right" src=".graphics/nostril.png">
 
-Nostril is the _Nonsense String Evaluator_: a Python module that infers whether a given medium-length string of characters is likely to be random gibberish or something meaningful.
+Nostril is the _Nonsense String Evaluator_: a Python module that infers whether a given short string of characters is likely to be random gibberish or something meaningful.
 
 *Author*:       [Michael Hucka](http://github.com/mhucka)<br>
 *Repository*:   [https://github.com/casics/nostril](https://github.com/casics/nostril)<br>
@@ -12,7 +12,7 @@ Nostril is the _Nonsense String Evaluator_: a Python module that infers whether 
 ☀ Introduction
 -----------------------------
 
-_Nostril_ is a Python 3 module that can be used to infer whether a given word or text string is likely to be nonsense or meaningful text.  Nostril takes a text string and returns `True` if it is probably nonsense, `False` otherwise.  _Meaningful_ in this case is not strictly defined; for Nostril, it refers to a string of characters that is probably constructed from real or real-looking English words or fragments of real words (even if the words are run togetherlikethis).  The main use case is to decide whether strings returned by source code mining methods are likely to be (e.g.) program identifiers, or random characters or other non-identifier strings.  Here are some example input strings and Nostril's assement of them:
+_Nostril_ is a Python 3 module that can be used to infer whether a given word or text string is likely to be nonsense or meaningful text.  Nostril takes a text string and returns `True` if it is probably nonsense, `False` otherwise.  _Meaningful_ in this case means a string of characters that is probably constructed from real or real-looking English words or fragments of real words (even if the words are run togetherlikethis).  The main use case is to decide whether short strings returned by source code mining methods are likely to be (e.g.) program identifiers, or random characters or other non-identifier strings.  To illustrate, here are some example input strings and Nostril's assement of them:
 
 ```
 getinteger: real
@@ -20,11 +20,14 @@ xywinlist: real
 bunchofwords: real
 whataboutthis: real
 blahblahblah: real
-faiwtlwex: nonsense
+faiwtlwexu: nonsense
 lksklgaiui: nonsense
+ioFlXFndrInfo: real
 ```
 
-Nostril makes a probabilistic assessment and is not always correct &ndash; see below for more information.  The approach implemented uses [n-grams](https://en.wikipedia.org/wiki/N-gram) coupled with a custom [TF-IDF](https://en.wikipedia.org/wiki/Tf–idf) weighting scheme.  Nostril is reasonably fast: once the module is loaded, on a 4 Ghz Apple OS X 10.12 computer, calling the evaluation function returns a result in 20-35 microseconds on average.
+Nostril makes a probabilistic assessment and is not always correct (see below).  It is tuned to reduce false positives: it is more likely to say something is _not_ gibberish when it really might be.  This is suitable for its intended purpose of filtering source code identifiers &ndash; a difficult problem, incidentally, because program identifiers often consist of word fragments jammed together (e.g., "kBoPoMoFoOrderIdCID", "ioFlXFndrInfo", etc.) and they can challenge even humans.  Nevertheless, on the identifier strings from the [Loyola University of Delaware Identifier Splitting Oracle](http://www.cs.loyola.edu/~binkley/ludiso), Nostril classifies over 99% correctly.
+
+Nostril is reasonably fast: once the module is loaded, on a 4 Ghz Apple OS X 10.12 computer, calling the evaluation function returns a result in 30&ndash;50 microseconds on average.
 
 ✺ Installing Nostril
 -------------------
@@ -54,9 +57,9 @@ else:
    print("real")
 ```
 
-The Nostril source code distribution also comes with a command-line program called (unsurprisingly) `nostril`.  This command-line program can take strings on the command line or (with the `-f` option) in a file, and will return nonsense-or-not assessments for each string.  It can be useful for interactive testing and experimentation.   Beware that the Nostril module takes a noticeable amount of time to load, and since the command-line program must reload the module anew each time, it is relatively slow as a means of using Nostril.  (In normal usage, your program would only load the Python module once and not incur the loading time on every call.)
+Nostril ignores numbers, spaces and punctuation characters embedded in the input string.  This was a design decision made for practicality &ndash; it simply makes Nostril a bit easier to use.  If, in your application, the presence of non-letter characters indicates a string is definitely nonsense, then you may wish to test for that separately before passing the string to Nostril.
 
-Nostril ignores numbers and spaces embedded in the input string.  This was a design decision made for practicality &ndash; it simply makes Nostril a bit easier to use.  If, in your application, the presence of numbers indicates a string is definitely nonsense, then you may wish to test for that separately before passing the string to Nostril.
+The Nostril source code distribution also comes with a command-line program called `nostril`.  This command-line program can take strings on the command line or (with the `-f` option) in a file, and will return nonsense-or-not assessments for each string.  It can be useful for interactive testing and experimentation.   Beware that the Nostril module takes a noticeable amount of time to load, and since the command-line program must reload the module anew each time, it is relatively slow as a means of using Nostril.  (In normal usage, your program would only load the Python module once and not incur the loading time on every call.)
 
 
 ⚠️ Limitations
@@ -64,7 +67,7 @@ Nostril ignores numbers and spaces embedded in the input string.  This was a des
 
 Nostril is not fool-proof; **it _will_ generate some false positive and false negatives**.  This is an unavoidable consequence of the problem domain: without direct knowledge, even a human cannot recognize a real text string in all cases.  Nostril's default trained system puts emphasis on reducing false positives (i.e., reducing how often it mistakenly labels something as nonsense) rather than false negatives, so it will sometimes report that something is not nonsense when it really is.  With its default parameter values, on dictionary words (specifically, 218,752 words from `/usr/share/dict/web2`), the default version of `nonsense()` achieves greater than 99.99% accuracy.  In tests on real identifiers extracted from actual software source code, it achieves 99.94% to 99.96% accuracy; on truly random strings, it achieves 86% accuracy.  Inspecting the errors shows that most false positives really are quite ambiguous, to the point where most false positives are random-looking, and many false negatives could be plausible identifiers.
 
-Nostril has been trained using American English words, and is unlikely to work for other languages unchanged.  However, the underlying framework may work if it were retrained to create a new table of the n-gram frequencies.
+Nostril has been trained using American English words, and is unlikely to work for other languages unchanged.  However, the underlying framework may work if it were retrained on different sample inputs.  Nostril uses uses [n-grams](https://en.wikipedia.org/wiki/N-gram) coupled with a custom [TF-IDF](https://en.wikipedia.org/wiki/Tf–idf) weighting scheme.  See the subdirectory `training` for the code used to train the system.
 
 Finally, the algorithm does not perform well on very short text, and by default Nostril imposes a lower length limit of 6 characters &ndash; strings must be longer than 6 characters or else it will raise an exception.
 
