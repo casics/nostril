@@ -1,0 +1,36 @@
+# -*- mode: sh; -*-
+
+# Set the default behavior, in case people don't have core.autocrlf set.
+# .............................................................................
+
+* text=auto
+
+# Specify what's text and should be normalized.
+# .............................................................................
+
+*.py text
+*.in text
+*.rst text
+*.cfg text
+*.ini text
+*.yml text
+*.json text
+*.bat text
+*.sh text
+LICENSE text
+CONTRIBUTING text
+
+# Denote all files that are truly binary and should not be modified.
+# .............................................................................
+
+*.png binary
+*.jpg binary
+*.xls binary
+*.doc binary
+
+# This next one is because in other projects, we've had problems with git
+# getting confused about line endings when people using Windows and Mac edit
+# the same files.
+# .............................................................................
+
+*.csv binary diff=csv
