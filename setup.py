@@ -29,7 +29,7 @@ setup(
     license=nostril.__version__.__license__,
     packages=['nostril'],
     scripts=['bin/nostril'],
-    data_files=[('nostril', ['nostril/ngram_data.pklz'])],
+    package_data={'nostril', ['nostril/ngram_data.pklz']},
     install_requires=reqs,
     platforms='any',
     python_requires='>=3',
