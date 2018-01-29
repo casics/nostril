@@ -17,6 +17,10 @@ sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 import nostril
 from nostril import *
 
+
+# Main program.
+# .............................................................................
+
 @plac.annotations(
     file     = ('read input from a file',       'option', 'f'),
     trace    = ('trace scoring',                'flag',   't'),
@@ -63,7 +67,7 @@ best with real-life program identifiers.
         sys.exit()
 
     if not file and not strings:
-        raise SystemExit('Need a file or string as input argument')
+        raise SystemExit('Need a file or list of strings as input argument')
     if file:
         if os.path.exists(file):
             with open(file) as f:
@@ -82,19 +86,24 @@ def analyze(string_list, trace):
         nonsense = generate_nonsense_detector(trace=trace)
     else:
         nonsense = generate_nonsense_detector()
+    padding = max(len(s) for s in string_list)
     for s in [string.rstrip() for string in string_list]:
         if len(sanitize_string(s)) >= 6:
-            print('{}: {}'.format(s, 'nonsense' if nonsense(s) else 'real'))
+            print('{}  [{}]'.format(s.ljust(padding),
+                                      'nonsense' if nonsense(s) else 'real'))
         else:
-            print('{}: too short to test'.format(s))
+            print('{}  [too short to test]'.format(s.ljust(padding)))
 
+
+# Main entry point.
+# .............................................................................
 
 if __name__ == '__main__':
     plac.call(main)
 
 
 
-# For Emacs users
+# Please leave the following for Emacs users.
 # ......................................................................
 # Local Variables:
 # mode: python
