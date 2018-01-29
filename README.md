@@ -47,7 +47,7 @@ Nostril is reasonably fast: once the module is loaded, on a 4 Ghz Apple OS X 10.
 
 The following is probably the simplest and most direct way to install Nostril on your computer:
 ```
-pip3 install git+https://github.com/casics/nostril.git
+sudo pip3 install git+https://github.com/casics/nostril.git
 ```
 
 Alternatively, you can clone this repository and then run `setup.py`:
