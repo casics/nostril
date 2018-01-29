@@ -264,7 +264,7 @@ def ngrams(s, n):
     return [s[i : i + n] for i in range(len(s) - n + 1)]
 
 
-def all_possible_ngrams(n):
+def _all_possible_ngrams(n):
     '''Recursively create all possible n-grams using lower case letters.'''
     all_letters = string.ascii_lowercase
     if n == 0:
@@ -273,7 +273,7 @@ def all_possible_ngrams(n):
         return [letter for letter in all_letters]
     new_ngrams = []
     for letter in all_letters:
-        for ngram in all_possible_ngrams(n - 1):
+        for ngram in _all_possible_ngrams(n - 1):
             new_ngrams.append(letter + ngram)
     return new_ngrams
 
@@ -281,8 +281,8 @@ def all_possible_ngrams(n):
 # Functions to calculate scores for our modified TF-IDF.
 # .............................................................................
 
-def ngram_idf_value(total_num_strings, string_frequency,
-                    total_frequency, max_frequency):
+def _ngram_idf_value(total_num_strings, string_frequency,
+                     total_frequency, max_frequency):
     '''Computes an inverse document frequency score.  In analogy to typical
     applications of IDF, a "document" in our case is a text string, and the
     "corpus" of documents is the set of all strings used for training.  This
@@ -298,21 +298,21 @@ def ngram_idf_value(total_num_strings, string_frequency,
     #    return log(max_frequency/(1 + string_frequency), 2)
 
 
-def highest_idf(ngram_freq):
+def _highest_idf(ngram_freq):
     '''Given a dictionary of n-gram score values for a corpus, returns the
     highest IDF value of any n-gram.
     '''
     return max(ngram_freq[n].idf for n in ngram_freq.keys())
 
 
-def highest_total_frequency(ngram_freq):
+def _highest_total_frequency(ngram_freq):
     '''Given a dictionary of n-gram score values for a corpus, returns the
     highest total frequency of any n-gram.
     '''
     return max(ngram_freq[n].total_frequency for n in ngram_freq.keys())
 
 
-def ngram_values(string_list, n, readjust_zero_scores=True):
+def _ngram_values(string_list, n, readjust_zero_scores=True):
     '''Given the corpus of strings in 'string_list', computes n-gram
     statistics across the corpus.  Returns the results as a dictionary
     containing all possible n-grams, where the dictionary keys are the
@@ -348,7 +348,7 @@ def ngram_values(string_list, n, readjust_zero_scores=True):
             occurrences[ngram].add(s)
             counts[ngram] += 1
     # Set initial values for all n-grams.
-    all_ngrams = defaultdict.fromkeys(all_possible_ngrams(n),
+    all_ngrams = defaultdict.fromkeys(_all_possible_ngrams(n),
                                       NGramData(string_frequency=0,
                                                 total_frequency=0,
                                                 idf=0))
@@ -357,14 +357,14 @@ def ngram_values(string_list, n, readjust_zero_scores=True):
     for ngram, string_list in occurrences.items():
         string_freq = len(string_list)
         total_freq = counts[ngram]
-        score = ngram_idf_value(num_strings, string_freq, total_freq, max_frequency)
+        score = _ngram_idf_value(num_strings, string_freq, total_freq, max_frequency)
         all_ngrams[ngram] = NGramData(string_frequency=string_freq,
                                       total_frequency=total_freq,
                                       idf=score)
     # Now that we've seen all n-grams actually present in the corpus, go back
     # and set those that have 0 values to a very high value (=> rare n-gram).
     if readjust_zero_scores:
-        max_idf = ceil(highest_idf(all_ngrams))
+        max_idf = ceil(_highest_idf(all_ngrams))
         for ngram, value in all_ngrams.items():
             if value.idf == 0:
                 # Can't set a value in an existing tuple; must regenerate tuple
@@ -379,11 +379,11 @@ def ngram_values(string_list, n, readjust_zero_scores=True):
 
 _delchars = str.maketrans('', '', string.punctuation + string.digits + ' ')
 
-def tfidf_score_function(ngram_freq, len_threshold=25, len_penalty_exp=1.365,
-                         repetition_penalty_exp=1.159):
+def _tfidf_score_function(ngram_freq, len_threshold=25, len_penalty_exp=1.365,
+                          repetition_penalty_exp=1.159):
     '''Generate a function (as a closure) that computes a score for a given
     string.  This needs to be called to create the function like this:
-        score_string = tfidf_score_function(...args...)
+        score_string = _tfidf_score_function(...args...)
     The resulting scoring function can be called to score a string like this:
         score = score_string('yourstring')
     The formula implemented is as follows:
@@ -436,7 +436,7 @@ def tfidf_score_function(ngram_freq, len_threshold=25, len_penalty_exp=1.365,
     dictionary is faster than taking the length of a string -- this approach
     is just an optimization.
     '''
-    max_freq = highest_total_frequency(ngram_freq)
+    max_freq = _highest_total_frequency(ngram_freq)
     ngram_length = len(next(iter(ngram_freq.keys())))
     len_threshold = int(len_threshold)
     def score_function(s):
@@ -491,7 +491,7 @@ def tfidf_score_function(ngram_freq, len_threshold=25, len_penalty_exp=1.365,
 #
 
 # Various rejection patterns.
-_simple_nonsense = re.compile(
+_simple_nonsense_re = re.compile(
     # Lack of any of the first 10 most-used letters in English.
     # (Reference: https://en.wikipedia.org/wiki/Letter_frequency on 2017-12-03)
     # This slightly improves detection of random strings.
@@ -528,8 +528,8 @@ _simple_nonsense = re.compile(
     # Banging on a qwerty keyboard.
     r"|[asdfjkl]{8}", re.I)
 
-def simple_nonsense(text):
-    return bool(_simple_nonsense.search(text))
+def _simple_nonsense(text):
+    return bool(_simple_nonsense_re.search(text))
 
 #
 # simple_real() . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -554,10 +554,10 @@ def simple_nonsense(text):
 # number of M's to indicate thousands (e.g., MMMMMMXVIII = 6018), which leads
 # to a special case for Roman numerals.  Note we match Roman numerals in a
 # case-insensitive way, because people tend to be sloppy about the case.
-_roman_numeral  = re.compile(r'(^(?=[MDCLXVI])M*(C[MD]|D?C{0,3})(X[CL]|L?X{0,3})(I[XV]|V?I{0,3})$)', re.I)
+_roman_numeral_re  = re.compile(r'(^(?=[MDCLXVI])M*(C[MD]|D?C{0,3})(X[CL]|L?X{0,3})(I[XV]|V?I{0,3})$)', re.I)
 
-def simple_real(text):
-    return bool(_roman_numeral.search(text))
+def _simple_real(text):
+    return bool(_roman_numeral_re.search(text))
 
 
 # Scoring and evaluating strings.
@@ -601,11 +601,11 @@ def generate_nonsense_detector(ngram_freq=None,
     the argument 'pickle_file'.
     '''
     if not ngram_freq:
-        file = full_path(pickle_file)
+        file = _full_path(pickle_file)
         if not os.path.exists(file):
             raise ValueError('Cannot find pickle file {}'.format(file))
         ngram_freq = dataset_from_pickle(file)
-    string_score = tfidf_score_function(ngram_freq,
+    string_score = _tfidf_score_function(ngram_freq,
                                         len_threshold=score_len_threshold,
                                         len_penalty_exp=score_len_penalty_exp,
                                         repetition_penalty_exp=score_rep_penalty_exp)
@@ -614,25 +614,25 @@ def generate_nonsense_detector(ngram_freq=None,
             s = sanitize_string(s)
             if len(s) < min_length:
                 raise ValueError('Text is too short to test')
-            if simple_real(s):
-                msg('"{}" matched simple acceptance rule'.format(s))
+            if _simple_real(s):
+                _msg('"{}" matched simple acceptance rule'.format(s))
                 return False
-            elif simple_nonsense(s):
-                msg('"{}" matched simple rejection rule'.format(s))
+            elif _simple_nonsense(s):
+                _msg('"{}" matched simple rejection rule'.format(s))
                 return True
             score = string_score(s)
             result = score > min_score
             if show:
-                msg('"{}": {} (score {:.4f} threshold {:.4f})'
-                    .format(s, 'y' if result else 'n', score, min_score))
+                _msg('"{}": {} (score {:.4f} threshold {:.4f})'
+                     .format(s, 'y' if result else 'n', score, min_score))
             return result
     else:
         def nonsense_detector(s, show=trace):
             s = sanitize_string(s)
             if len(s) < min_length:
                 raise ValueError('Text is too short to test')
-            return False if simple_real(s) else (
-                simple_nonsense(s) or string_score(s) > min_score)
+            return False if _simple_real(s) else (
+                _simple_nonsense(s) or string_score(s) > min_score)
     return nonsense_detector
 
 
@@ -678,7 +678,7 @@ def dataset_to_pickle(file, data_set):
 # Miscellaneous general utilities.
 # .............................................................................
 
-def full_path(filename, subdir=None):
+def _full_path(filename, subdir=None):
     '''Return a full path based on the current file or current working dir.
     'filename' is assumed to be a simple file name and not a path.  Optional
     'subdir' can be a subdirectory relative, to the current directory, where
@@ -702,7 +702,7 @@ def full_path(filename, subdir=None):
             return os.path.join(thisdir, filename)
 
 
-def msg(text):
+def _msg(text):
     '''Like the standard print(), but flushes the output immediately and
     colorizes the output by default. Flushing immediately is useful when
     piping the output of a script, because Python by default will buffer the
@@ -786,12 +786,12 @@ def test_unlabeled(input, nonsense_tester, min_length=6, sense='valid',
         total_tested = count
         accuracy = 100*(tp + tn)/count
         fmeasure = 2 * tp/(2*tp + fp + fn)
-        msg('{:.2f}% accuracy ({} tested in {:.2f}s, '
-            '{} true pos, {} true neg, {} false pos, {} false neg, {} skipped)'
-            .format(accuracy, humanize.intcomma(total_tested), elapsed_time,
-                    humanize.intcomma(tp), humanize.intcomma(tn),
-                    humanize.intcomma(fp), humanize.intcomma(fn),
-                    humanize.intcomma(skipped)))
+        _msg('{:.2f}% accuracy ({} tested in {:.2f}s, '
+             '{} true pos, {} true neg, {} false pos, {} false neg, {} skipped)'
+             .format(accuracy, humanize.intcomma(total_tested), elapsed_time,
+                     humanize.intcomma(tp), humanize.intcomma(tn),
+                     humanize.intcomma(fp), humanize.intcomma(fn),
+                     humanize.intcomma(skipped)))
 
     if isinstance(input, list):
         id_list = input
@@ -807,7 +807,7 @@ def test_unlabeled(input, nonsense_tester, min_length=6, sense='valid',
         with open(save_to, "w") as f:
             with redirect_stdout(f):
                 (tp, tn, fp, fn, skipped, time) = run_tests(trace_scores=True)
-        msg('-'*70)
+        _msg('-'*70)
         if trace_scores:
             print_stats(tp, tn, fp, fn, skipped, time)
         return (tp, tn, fp, fn, skipped, time)
@@ -871,13 +871,13 @@ def test_labeled(input_file, nonsense_tester, min_length=6, trace_scores=False,
                 fn = len(fn_list)
                 precision = tp/(tp + fp)
                 recall = tp/(tp + fn)
-                msg('{} tested in {:.2f}s, {} skipped -- '
-                    '{:.2f}% precision, {:.2f}% recall, '
-                    '{} true pos, {} true neg, {} false pos, {} false neg'
-                    .format(humanize.intcomma(count), elapsed_time,
-                            humanize.intcomma(skipped), 100*precision, 100*recall,
-                            humanize.intcomma(tp), humanize.intcomma(tn),
-                            humanize.intcomma(fp), humanize.intcomma(fn)))
+                _msg('{} tested in {:.2f}s, {} skipped -- '
+                     '{:.2f}% precision, {:.2f}% recall, '
+                     '{} true pos, {} true neg, {} false pos, {} false neg'
+                     .format(humanize.intcomma(count), elapsed_time,
+                             humanize.intcomma(skipped), 100*precision, 100*recall,
+                             humanize.intcomma(tp), humanize.intcomma(tn),
+                             humanize.intcomma(fp), humanize.intcomma(fn)))
             return (fp_list, fn_list, count, skipped, elapsed_time)
 
     if save_to:
@@ -898,7 +898,7 @@ def tabulate_scores(string_list, ngram_freq, show=50, portion='all',
     else:
         scores = []
         ngram_length = len(next(iter(ngram_freq.keys())))
-        max_frequency = highest_total_frequency(ngram_freq)
+        max_frequency = _highest_total_frequency(ngram_freq)
         for s in string_list:
             score = string_score(s, ngram_freq, ngram_length, max_frequency)
             scores.append([s, score])
@@ -939,7 +939,7 @@ nonsense = generate_nonsense_detector()
 #     return sum(string[i:].startswith(substr) for i in range(len(string)))
 #
 # def string_score(string, ngram_freq):
-#     # Given the ngram_values, calculate a score for the given string.
+#     # Given the _ngram_values, calculate a score for the given string.
 #     score = 0
 #     for ngram, values in ngram_freq.items():
 #         score += num_substring_matches(ngram, string) * values[2]
@@ -964,9 +964,9 @@ nonsense = generate_nonsense_detector()
 #     found = defaultdict(int)
 #     for ngram in string_ngrams:
 #         found[ngram] += 1
-#     msg('{} unique n-grams'.format(len(found)))
-#     max_tf = highest_total_frequency(ngram_freq)
+#     _msg('{} unique n-grams'.format(len(found)))
+#     max_tf = _highest_total_frequency(ngram_freq)
 #     for ng, count in found.items():
-#         msg('{}: {} x {} (max {}) score = {}'
+#         _msg('{}: {} x {} (max {}) score = {}'
 #             .format(ng, count, ngram_freq[ng].idf, max_tf,
 #                     ngram_freq[ng].idf * pow(count, 1.195) * (0.5 + 0.5*count/ngram_freq[ng].max_frequency)))
