@@ -98,13 +98,13 @@ exactly as the default version of nonsense():
     result = nonsense('yoursinglestringhere')
 
 Internally, Nostril uses a combination of (1) a prefilter of simple heuristic
-rules and (2) a Bayesian classifier.  The latter uses a table of precomputed
-n-gram weights that were derived by training the system on data sets of
-labeled test cases.  A saved copy of the trained values are stored in this
-directory, so that it is not necessary to retrain the system to adjust the
-tunable parameters.  However, it is also possible to retrain the system and
-recompute the n-gram weights.  This process is somewhat more involved, and
-discussed below.
+rules and (2) a TF-IDF scoring scheme using 4-grams as features.  The latter
+uses a table of precomputed n-gram weights that were derived by training the
+system on data sets of labeled test cases.  A saved copy of the trained
+values are stored in this directory, so that it is not necessary to retrain
+the system to adjust the tunable parameters.  However, it is also possible to
+retrain the system and recompute the n-gram weights.  This process is
+somewhat more involved, and discussed below.
 
 Operating principles
 --------------------

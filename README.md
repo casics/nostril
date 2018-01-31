@@ -38,7 +38,7 @@ asfgtqwafazfyiur: nonsense
 zxcvbnmlkjhgfdsaqwerty: nonsense
 ```
 
-Nostril uses a combination of heuristic rules and a Bayesian probabilistic assessment.  It is not always correct (see below).  It is tuned to reduce false positives: it is more likely to say something is _not_ gibberish when it really might be.  This is suitable for its intended purpose of filtering source code identifiers &ndash; a difficult problem, incidentally, because program identifiers often consist of word and acronyms fragments jammed together (e.g., "kBoPoMoFoOrderIdCID", "ioFlXFndrInfo", etc.), which can challenge even humans.  Nevertheless, on the identifier strings from the [Loyola University of Delaware Identifier Splitting Oracle](http://www.cs.loyola.edu/~binkley/ludiso), Nostril classifies over 99% correctly.
+Nostril uses a combination of heuristic rules and a probabilistic assessment.  It is not always correct (see below).  It is tuned to reduce false positives: it is more likely to say something is _not_ gibberish when it really might be.  This is suitable for its intended purpose of filtering source code identifiers &ndash; a difficult problem, incidentally, because program identifiers often consist of word and acronyms fragments jammed together (e.g., "kBoPoMoFoOrderIdCID", "ioFlXFndrInfo", etc.), which can challenge even humans.  Nevertheless, on the identifier strings from the [Loyola University of Delaware Identifier Splitting Oracle](http://www.cs.loyola.edu/~binkley/ludiso), Nostril classifies over 99% correctly.
 
 Nostril is reasonably fast: once the module is loaded, on a 4 Ghz Apple OS X 10.12 computer, calling the evaluation function returns a result in 30&ndash;50 microseconds per string on average.
 
