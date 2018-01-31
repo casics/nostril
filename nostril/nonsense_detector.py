@@ -264,11 +264,9 @@ Software Inventory Creation System.  For more, visit http://casics.org.
 
 '''
 
-from collections import defaultdict, Counter, namedtuple
+from collections import defaultdict
 from math import pow, log, ceil
-import humanize
 import os
-import plac
 import re
 import string
 import sys
@@ -773,6 +771,7 @@ def test_unlabeled(input, nonsense_tester, min_length=6, sense='valid',
     '''
     from time import time
     from contextlib import redirect_stdout
+    import humanize
 
     def run_tests(trace_scores):
         skipped = 0
@@ -853,6 +852,7 @@ def test_labeled(input_file, nonsense_tester, min_length=6, trace_scores=False,
     '''
     from time import time
     from contextlib import redirect_stdout
+    import humanize
 
     labeled_as_nonsense = nonsense_tester
     def run_tests(filename, trace_scores):

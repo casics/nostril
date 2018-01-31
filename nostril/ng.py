@@ -21,7 +21,7 @@ Software Inventory Creation System.  For more, visit http://casics.org.
 
 '''
 
-from collections import defaultdict, namedtuple
+from collections import namedtuple
 
 
 # Global data structures.
