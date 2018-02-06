@@ -12,7 +12,7 @@ bib	= paper.bib
 
 title	= "Nostril: a nonsense string evaluator written in Python"
 author	= "Michael Hucka"
-repo	= "https://github.com/casics/nostril"
+repo	= "$(git remote get-url origin | sed 's|git@github.com:|https://github.com/|')"
 
 $(output): $(input) $(bib) Makefile
 	pandoc \
