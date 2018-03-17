@@ -109,10 +109,12 @@ Copyright
 Copyright (c) 2017 by the California Institute of Technology.  This software
 was developed as part of the CASICS project, the Comprehensive and Automated
 Software Inventory Creation System.  For more, visit http://casics.org.
-
 '''
 
-from .__version__ import *
+from .__version__ import __version__, __title__, __description__, __url__
+from .__version__ import __author__, __email__
+from .__version__ import __license__, __copyright__
+
 from .ng import NGramData
 from .nonsense_detector import (
     nonsense, generate_nonsense_detector, test_unlabeled, test_labeled,
