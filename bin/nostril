@@ -19,6 +19,7 @@ except:
     sys.path.append('..')
 
 import nostril
+from nostril import generate_nonsense_detector, sanitize_string
 
 
 # Main program.
