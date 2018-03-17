@@ -12,10 +12,13 @@ import plac
 import sys
 
 # Allow this program to be executed directly from the 'bin' directory.
-sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
+try:
+    thisdir = os.path.dirname(os.path.abspath(__file__))
+    sys.path.append(os.path.join(thisdir, '..'))
+except:
+    sys.path.append('..')
 
 import nostril
-from nostril import *
 
 
 # Main program.
@@ -59,11 +62,10 @@ best with real-life program identifiers.
 '''
     # Process arguments
     if version:
-        print('{} version {}'.format(nostril.__version__.__title__,
-                                     nostril.__version__.__version__))
-        print('Author: {}'.format(nostril.__version__.__author__))
-        print('URL: {}'.format(nostril.__version__.__url__))
-        print('License: {}'.format(nostril.__version__.__license__))
+        print('{} version {}'.format(nostril.__title__, nostril.__version__))
+        print('Author: {}'.format(nostril.__author__))
+        print('URL: {}'.format(nostril.__url__))
+        print('License: {}'.format(nostril.__license__))
         sys.exit()
 
     if not file and not strings:
