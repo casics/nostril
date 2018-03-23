@@ -11,6 +11,19 @@ Nostril is the _Nonsense String Evaluator_: a Python module that infers whether 
 *Code repository*:   [https://github.com/casics/nostril](https://github.com/casics/nostril)<br>
 *License*:      Unless otherwise noted, this content is licensed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
 
+Table of contents
+-----------------
+
+* [Introduction](#-introduction)
+* [Installing Nostril](#-installing-nostril)
+* [Using Nostril](#-using-nostril)
+* [Performance](#-performance)
+* [Limitations](#️-limitations)
+* [More information](#-more-information)
+* [Getting help and support](#-getting-help-and-support)
+* [Contributing — info for developers](#-contributing--info-for-developers)
+* [Acknowledgments](#️-acknowledgments)
+
 ☀ Introduction
 -----------------------------
 
