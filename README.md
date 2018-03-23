@@ -188,3 +188,15 @@ Everyone is asked to read and respect the [code of conduct](CONDUCT.md) when par
 ------------------
 
 Funding for this and other CASICS work has come from the [National Science Foundation](https://nsf.gov) via grant NSF EAGER #1533792 (Principal Investigator: Michael Hucka).
+    
+<br>
+<div align="center">
+  <a href="https://www.nsf.gov">
+    <img width="105" height="105" src=".graphics/NSF.svg">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.caltech.edu">
+    <img width="100" height="100" src=".graphics/caltech-round.svg">
+  </a>
+</div>
