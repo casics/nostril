@@ -27,4 +27,9 @@ By default, Nostril is tuned to reduce false positives &ndash; it is more likely
 Nostril is reasonably fast: once the package is loaded,  a string evaluation takes 30&ndash;50 microseconds on average on a 4 Ghz Apple macOS computer.  Nostril is accurate: it achieves 99.76% on the the Ludiso identifier oracle [@binkley2013dataset] and 91.70% on a test set of 1,000,000 machine-generated random strings.
 
 
+# Acknowledgments
+
+This material is based upon work supported by the [National Science Foundation](https://nsf.gov) under Grant Number 1533792.  Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+
 # References
