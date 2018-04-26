@@ -83,7 +83,18 @@ else:
    print("real")
 ```
 
-The Nostril source code distribution also comes with a command-line program called `nostril`.  This command-line program can take strings on the command line or (with the `-f` option) in a file, and will return nonsense-or-not assessments for each string.  It can be useful for interactive testing and experimentation.   Beware that the Nostril module takes a noticeable amount of time to load, and since the command-line program must reload the module anew each time, it is relatively slow as a means of using Nostril.  (In normal usage, your program would only load the Python module once and not incur the loading time on every call.)
+The Nostril source code distribution also comes with a command-line program called (unsurprisingly) `nostril`.  You can invoke the `nostril` command-line interface in two ways:
+
+1. Using the Python interpreter:
+    ```
+    python3 -m nostril
+    ```
+2. On Linux and macOS systems, using the program `nostril`, which should be installed automatically by `setup.py` in a `bin` directory on your shell's command search path.  Thus, you should be able to run it normally:
+    ```
+    nostril
+    ```
+
+The command-line program can take strings on the command line or (with the `-f` option) in a file, and will return nonsense-or-not assessments for each string.  It can be useful for interactive testing and experimentation.  _Beware that the Nostril module takes a noticeable amount of time to load, and since the command-line program must reload the module anew each time, it is relatively slow as a means of using Nostril._  (In normal usage, your program would only load the Python module once and not incur the loading time on every call.)
 
 Nostril ignores numbers, spaces and punctuation characters embedded in the input string.  This was a design decision made for practicality &ndash; it simply makes Nostril a bit easier to use.  If, in your application, the presence of non-letter characters indicates a string is definitely nonsense, then you may wish to test for that separately before passing the string to Nostril.
 
