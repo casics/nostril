@@ -8,29 +8,44 @@
 # =============================================================================
 
 import os
-from   setuptools import setup, find_packages
+from   os import path
+from   setuptools import setup
 import sys
-import nostril
 
-here = os.path.abspath(os.path.dirname(__file__))
+here = path.abspath(path.dirname(__file__))
 
-with open(os.path.join(here, 'requirements.txt')) as f:
+with open(path.join(here, 'requirements.txt')) as f:
     reqs = f.read().rstrip().splitlines()
 
+# The following reads the variables without doing an "import nostril",
+# because the latter will cause the python execution environment to fail if
+# any dependencies are not already installed -- negating most of the reason
+# we're using setup() in the first place.  This code avoids eval, for security.
+
+version = {}
+with open(path.join(here, 'nostril/__version__.py')) as f:
+    text = f.read().rstrip().splitlines()
+    vars = [line for line in text if line.startswith('__') and '=' in line]
+    for v in vars:
+        setting = v.split('=')
+        version[setting[0].strip()] = setting[1].strip().replace("'", '')
+
+# Finally, define our namesake.
+
 setup(
-    name=nostril.__version__.__title__.lower(),
-    description=nostril.__version__.__description__,
-    long_description='Nostril (Nonsense String Evaluator) implements a heuristic mechanism to infer whether a given word or text string is likely to be meaningful or nonsense.',
-    keywords="program-analysis text-processing gibberish-detection identifiers",
-    version=nostril.__version__.__version__,
-    url=nostril.__version__.__url__,
-    author=nostril.__version__.__author__,
-    author_email=nostril.__version__.__email__,
-    license=nostril.__version__.__license__,
-    packages=['nostril'],
-    scripts=['bin/nostril'],
-    package_data={'nostril': ['ngram_data.pklz']},
-    install_requires=reqs,
-    platforms='any',
-    python_requires='>=3',
+    name             = version['__title__'].lower(),
+    description      = version['__description__'],
+    long_description = 'Nostril (Nonsense String Evaluator) implements a heuristic mechanism to infer whether a given word or text string is likely to be meaningful or nonsense.',
+    version          = version['__version__'],
+    url              = version['__url__'],
+    author           = version['__author__'],
+    author_email     = version['__email__'],
+    license          = version['__license__'],
+    keywords         = "program-analysis text-processing gibberish-detection identifiers",
+    packages         = ['nostril'],
+    scripts          = ['bin/nostril'],
+    package_data     = {'nostril': ['ngram_data.pklz']},
+    install_requires = reqs,
+    platforms        = 'any',
+    python_requires  = '>=3',
 )

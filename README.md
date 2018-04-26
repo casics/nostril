@@ -67,7 +67,7 @@ Alternatively, you can clone this repository and then run `setup.py`:
 ```
 git clone https://github.com/casics/nostril.git
 cd nostril
-sudo python3 setup.py install
+sudo python3 -m pip install .
 ```
 
 ► Using Nostril
@@ -94,9 +94,20 @@ The Nostril source code distribution also comes with a command-line program call
     nostril
     ```
 
-The command-line program can take strings on the command line or (with the `-f` option) in a file, and will return nonsense-or-not assessments for each string.  It can be useful for interactive testing and experimentation.  _Beware that the Nostril module takes a noticeable amount of time to load, and since the command-line program must reload the module anew each time, it is relatively slow as a means of using Nostril._  (In normal usage, your program would only load the Python module once and not incur the loading time on every call.)
+The command-line program can take strings on the command line or (with the `-f` option) in a file, and will return nonsense-or-not assessments for each string.  It can be useful for interactive testing and experimentation.  For example:
 
-Nostril ignores numbers, spaces and punctuation characters embedded in the input string.  This was a design decision made for practicality &ndash; it simply makes Nostril a bit easier to use.  If, in your application, the presence of non-letter characters indicates a string is definitely nonsense, then you may wish to test for that separately before passing the string to Nostril.
+```sh
+# nostril bunchofwords xywinlist ioFlXFndrInfo lasaakldfalakj
+xywinlist       [real]
+ioFlXFndrInfo   [real]
+lasaakldfalakj  [nonsense]
+xyxyxyx         [nonsense]
+```
+
+
+  _Beware that the Nostril module takes a noticeable amount of time to load, and since the command-line program must reload the module anew each time, it is relatively slow as a means of using Nostril._  (In normal usage, your program would only load the Python module once and not incur the loading time on every call.)
+
+Nostril ignores numbers, spaces and punctuation characters embedded in the input string.  This was a design decision made for practicality &ndash; it makes Nostril a bit easier to use.  If, for your application, non-letter characters indicates a string that is definitely nonsense, then you may wish to test for that separately before passing the string to Nostril.
 
 🎯 Performance
 --------------
