@@ -6,7 +6,7 @@
 # @website https://github.com/casics/nostril
 # =============================================================================
 
-__version__     = '1.0.0'
+__version__     = '1.1.0'
 __title__       = 'Nostril'
 __description__ = 'Nonsense String Evaluator'
 __url__         = 'https://github.com/casics/nostril'
