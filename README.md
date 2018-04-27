@@ -70,10 +70,13 @@ cd nostril
 sudo python3 -m pip install .
 ```
 
+Both of these installation approaches should automatically install some Python dependencies that Nostril relies upon, namely [plac](https://micheles.github.io/plac/), [tabulate](https://pypi.org/project/tabulate/), [humanize](https://pypi.org/project/humanize/), and [pytest](https://pypi.org/project/pytest/).
+
+
 ► Using Nostril
 ---------------
 
-The basic usage is very simple.  Nostril provides a function named `nonsense()`.  This function takes a single text string as an argument and returns a Boolean value as a result.  Here is an example:
+The basic usage is very simple.  Nostril provides a Python function named `nonsense()`.  This function takes a single text string as an argument and returns a Boolean value as a result.  Here is an example:
 
 ```python
 from nostril import nonsense
@@ -83,7 +86,7 @@ else:
    print("real")
 ```
 
-The Nostril source code distribution also comes with a command-line program called (unsurprisingly) `nostril`.  You can invoke the `nostril` command-line interface in two ways:
+The Nostril source code distribution also comes with a command-line program called `nostril`.  You can invoke the `nostril` command-line interface in two ways:
 
 1. Using the Python interpreter:
     ```
@@ -105,7 +108,7 @@ xyxyxyx         [nonsense]
 ```
 
 
-  _Beware that the Nostril module takes a noticeable amount of time to load, and since the command-line program must reload the module anew each time, it is relatively slow as a means of using Nostril._  (In normal usage, your program would only load the Python module once and not incur the loading time on every call.)
+_Beware that the Nostril module takes a noticeable amount of time to load, and since the command-line program must reload the module anew each time, it is relatively slow as a means of using Nostril._  (In normal usage, your program would only load the Python module once and not incur the loading time on every call.)
 
 Nostril ignores numbers, spaces and punctuation characters embedded in the input string.  This was a design decision made for practicality &ndash; it makes Nostril a bit easier to use.  If, for your application, non-letter characters indicates a string that is definitely nonsense, then you may wish to test for that separately before passing the string to Nostril.
 
