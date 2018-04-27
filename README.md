@@ -118,6 +118,8 @@ _Beware that the Nostril module takes a noticeable amount of time to load, and s
 
 Nostril ignores numbers, spaces and punctuation characters embedded in the input string.  This was a design decision made for practicality &ndash; it makes Nostril a bit easier to use.  If, for your application, non-letter characters indicates a string that is definitely nonsense, then you may wish to test for that separately before passing the string to Nostril.
 
+Please see the [docs](docs/explanations/README.md) subdirectory for more information about Nostril and its operation.
+
 🎯 Performance
 --------------
 
