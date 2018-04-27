@@ -214,7 +214,7 @@ Finally, the algorithm does not perform well on very short text, and by default 
 📚 More information
 -----------------
 
-Please see the [docs](docs/README.md) subdirectory for more information.
+Please see the [docs](docs/explanations/README.md) subdirectory for more information.
 
 ⁇ Getting help and support
 --------------------------
