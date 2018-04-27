@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # =============================================================================
-# @file    __version__.py
+# @file    __main__.py
 # @brief   Interface to run Nostril from the command line
 # @author  Michael Hucka <mhucka@caltech.edu>
 # @license Please see the file named LICENSE in the project directory
@@ -21,7 +21,7 @@ from nostril import *
 @plac.annotations(
     file     = ('read input from a file',       'option', 'f'),
     trace    = ('trace scoring',                'flag',   't'),
-    version  = ('print version info and exit',  'flag',   'v'),
+    version  = ('print version info and exit',  'flag',   'V'),
     strings  = 'text string to test'
 )
 
@@ -37,8 +37,8 @@ The input to this program can be a string on the command line, or (using the
 -f argument) a file of strings.  If given a file of strings, it will
 analyze each line in the file separately.
 
-The optional argument -v will make this program display version information
-and exit without doing anything more.
+The optional argument --version will make this program display version
+information and exit without doing anything more.
 
 Note that Nostril has to load a large data file when it first starts up.  In
 normal use, within an application program, this would only happen once.
