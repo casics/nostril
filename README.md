@@ -5,7 +5,7 @@ Nostril is the _Nonsense String Evaluator_: a Python module that infers whether 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python](https://img.shields.io/badge/Python-3.4+-brightgreen.svg)](http://shields.io)
-[![Latest version](https://img.shields.io/badge/Latest_version-1.0.0-green.svg)](http://shields.io)
+[![Latest version](https://img.shields.io/badge/Latest_version-1.1.0-green.svg)](http://shields.io)
 
 *Author*:       [Michael Hucka](http://github.com/mhucka)<br>
 *Code repository*:   [https://github.com/casics/nostril](https://github.com/casics/nostril)<br>
@@ -14,6 +14,7 @@ Nostril is the _Nonsense String Evaluator_: a Python module that infers whether 
 Table of contents
 -----------------
 
+* [Recent news and activities](#-recent-news-and-activities)
 * [Introduction](#-introduction)
 * [Installing Nostril](#-installing-nostril)
 * [Using Nostril](#-using-nostril)
@@ -23,6 +24,11 @@ Table of contents
 * [Getting help and support](#-getting-help-and-support)
 * [Contributing — info for developers](#-contributing--info-for-developers)
 * [Acknowledgments](#️-acknowledgments)
+
+🏁 Recent news and activities
+------------------------------
+
+_April 2018_: Version 1.1.0 fixes an issue in `setup.py` that caused the installation process to fail to install dependencies automatically, with the consequence that users got errors about missing Python packages.  Additional improvements include updated installation instructions [below](#-installing-nostril), slight improvements to the [JOSS paper](docs/papers/joss/paper.pdf), a change to the command-line program to use the more conventional `-V` instead of `-v` for printing the version, and internal code refactoring.
 
 ☀ Introduction
 -----------------------------
