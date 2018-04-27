@@ -33,6 +33,8 @@ _April 2018_: Version 1.1.0 fixes an issue in `setup.py` that caused the install
 ☀ Introduction
 -----------------------------
 
+A number of research efforts have investigated extracting and analyzing textual information contained in software artifacts.  However, source code files can contain meaningless text, such as random text used as markers or test cases, and code extraction methods can also sometimes make mistakes and produce garbled text.  When used in processing pipelines without human intervention, it is often important to include a data cleaning step before passing tokens extracted from source code to subsequent analysis or machine learning algorithms.  Thus, a basic (and often unmentioned) step is to filter out nonsense tokens.
+
 _Nostril_ is a Python 3 module that can be used to infer whether a given word or text string is likely to be nonsense or meaningful text.  Nostril takes a text string and returns `True` if it is probably nonsense, `False` otherwise.  _Meaningful_ in this case means a string of characters that is probably constructed from real or real-looking English words or fragments of real words (even if the words are run togetherlikethis).  The main use case is to decide whether short strings returned by source code mining methods are likely to be program identifiers (of classes, functions, variables, etc.), or random characters or other non-identifier strings.  To illustrate, the following example code,
 
 ```python
