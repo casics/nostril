@@ -1,4 +1,4 @@
-plac==0.9.1
-tabulate==0.7.7
-humanize==0.5.1
-pytest==3.0.5
+plac>=0.9.1
+tabulate>=0.7.7
+humanize>=0.5.1
+pytest>=3.0.5
