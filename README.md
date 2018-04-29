@@ -5,7 +5,7 @@ Nostril is the _Nonsense String Evaluator_: a Python module that infers whether 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python](https://img.shields.io/badge/Python-3.4+-brightgreen.svg)](http://shields.io)
-[![Latest version](https://img.shields.io/badge/Latest_version-1.1.0-green.svg)](http://shields.io)
+[![Latest version](https://img.shields.io/badge/Latest_version-1.1.1-green.svg)](http://shields.io)
 
 *Author*:       [Michael Hucka](http://github.com/mhucka)<br>
 *Code repository*:   [https://github.com/casics/nostril](https://github.com/casics/nostril)<br>
