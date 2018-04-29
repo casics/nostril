@@ -61,9 +61,15 @@ best with real-life program identifiers.
         print('URL: {}'.format(nostril.__url__))
         print('License: {}'.format(nostril.__license__))
         sys.exit()
-
     if not file and not strings:
         raise SystemExit('Need a file or list of strings as input argument')
+    if strings and strings[0].startswith('-'):
+        # If it starts with a dash and we get to this point, it's not an arg
+        # recognized by plac and it's probably not input meant to be analyzed.
+        raise SystemExit('Unrecognized argument "{}". (Hint: use -h to get help.)'
+                         .format(strings[0]))
+
+    # Let's do this thing.
     if file:
         if os.path.exists(file):
             with open(file) as f:
