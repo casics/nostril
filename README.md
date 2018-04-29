@@ -28,7 +28,7 @@ Table of contents
 🏁 Recent news and activities
 ------------------------------
 
-_April 2018_: Version 1.1.0 fixes an issue in `setup.py` that caused the installation process to fail to install dependencies automatically, with the consequence that users got errors about missing Python packages.  Additional improvements include updated installation instructions [below](#-installing-nostril), slight improvements to the [JOSS paper](docs/papers/joss/paper.pdf), a change to the command-line program to use the more conventional `-V` instead of `-v` for printing the version, and internal code refactoring.
+_April 2018_: Version 1.1.1 fixes an issue with `requirements.txt` that made it do exact version comparisons instead of doing minimum version comparisons.  It also updates the documentation in [docs/explanations](docs/explanations).  Other notable changes (which were in the immediately-prior version 1.1.0) are a fix to an issue in `setup.py` that caused the installation process to fail to install dependencies automatically, with the consequence that users got errors about missing Python packages.  Additional improvements include updated installation instructions [below](#-installing-nostril), slight improvements to the [JOSS paper](docs/papers/joss/paper.pdf), a change to the command-line program to use the more conventional `-V` instead of `-v` for printing the version, and internal code refactoring.
 
 ☀ Introduction
 -----------------------------
