@@ -7,6 +7,7 @@ Nostril is the _Nonsense String Evaluator_: a Python module that infers whether 
 [![Python](https://img.shields.io/badge/Python-3.4+-brightgreen.svg)](http://shields.io)
 [![Latest version](https://img.shields.io/badge/Latest_version-1.1.1-green.svg)](http://shields.io)
 [![DOI](http://img.shields.io/badge/DOI-10.22002%20%2F%20D1.935-blue.svg?style=flat-square)](https://data.caltech.edu/records/935)
+[![DOI](http://img.shields.io/badge/JOSS-10.21105%20%2f%20joss.00596-brightgreen.svg?style=flat-square)](https://doi.org/10.21105/joss.00596)
 
 *Author*:       [Michael Hucka](http://github.com/mhucka)<br>
 *Code repository*:   [https://github.com/casics/nostril](https://github.com/casics/nostril)<br>
@@ -15,13 +16,16 @@ Nostril is the _Nonsense String Evaluator_: a Python module that infers whether 
 🏁 Recent news and activities
 ------------------------------
 
-_April 2018_: Version 1.1.1 fixes an issue with `requirements.txt` that made it do exact version comparisons instead of doing minimum version comparisons.  It also updates the documentation in [docs/explanations](docs/explanations).  Other notable changes (which were in version 1.1.0) are a fix to an issue in `setup.py` that caused the installation process to fail to install dependencies automatically, with the consequence that users got errors about missing Python packages.  Additional improvements include updated installation instructions [below](#-installing-nostril), slight improvements to the [JOSS paper](docs/papers/joss/paper.pdf), a change to the command-line program to use the more conventional `-V` instead of `-v` for printing the version, and internal code refactoring.
+_May 2018_: The [JOSS paper](http://joss.theoj.org/papers/10.21105/joss.00596) has been published.  Also, Nostril release 1.1.1 has a citable DOI: [10.22002/D1.935](https://data.caltech.edu/records/935).
+
+_April 2018_: Version 1.1.1 fixes the `requirements.txt` file so that instead of doing exact version comparisons, it only requires minimum versions.  The release also updates the documentation in [docs/explanations](docs/explanations).  Other changes (which were in release 1.1.0) include a fix to `setup.py` to make automatic installation of depencies work properly, updated installation instructions [below](#-installing-nostril), improvements to the [JOSS paper](docs/papers/joss/paper.pdf), a change to the command-line program to use the more conventional `-V` instead of `-v` for printing the version, and internal code refactoring.
 
 Table of contents
 -----------------
 
 * [Introduction](#-introduction)
-* [Installing Nostril](#-installing-nostril)
+* [Please cite the paper](#%EF%B8%8F-please-cite-the-spiral-paper-and-the-version-you-use)
+* [Installation instructions](#-installation-instructions)
 * [Using Nostril](#-using-nostril)
 * [Performance](#-performance)
 * [Limitations](#️-limitations)
@@ -63,8 +67,23 @@ Nostril uses a combination of heuristic rules and a probabilistic assessment.  I
 
 Nostril is reasonably fast: once the module is loaded, on a 4 Ghz Apple OS X 10.12 computer, calling the evaluation function returns a result in 30&ndash;50 microseconds per string on average.
 
-✺ Installing Nostril
--------------------
+♥️ Please cite the Spiral paper and the version you use
+------------------------------------------------------
+
+Article citations are **critical** for academic developers.  If you use Nostril and you publish papers about work that uses Nostril, **please cite the Nostril paper**:
+
+<dl>
+<dd>
+Hucka, M. (2018). Nostril: A nonsense string evaluator written in Python. <i>Journal of Open Source Software</i>, 3(25), 596, <a href="https://doi.org/10.21105/joss.00596">https://doi.org/10.21105/joss.00596</a>
+</dd>
+</dl>
+
+Please also use the DOI to indicate the specific version you use, to improve other people's ability to reproduce your results:
+
+* Nostril release 1.1.0 &rArr; [10.22002/D1.935](https://data.caltech.edu/records/935)
+
+✺ Installation instructions
+--------------------------
 
 The following is probably the simplest and most direct way to install Nostril on your computer:
 ```
@@ -79,7 +98,6 @@ sudo python3 -m pip install .
 ```
 
 Both of these installation approaches should automatically install some Python dependencies that Nostril relies upon, namely [plac](https://micheles.github.io/plac/), [tabulate](https://pypi.org/project/tabulate/), [humanize](https://pypi.org/project/humanize/), and [pytest](https://pypi.org/project/pytest/).
-
 
 ► Using Nostril
 ---------------
