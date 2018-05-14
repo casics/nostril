@@ -5,7 +5,7 @@ If you publish scholarly papers about work that uses Nostril, **please cite the 
 
 <dl>
 <dd>
-Hucka, M. (2018). Nostril: A nonsense string evaluator written in Python. <i>Journal of Open Source Software</i>, 3(25), 596, <a href="https://doi.org/10.21105/joss.00596">https://doi.org/10.21105/joss.00596
+Hucka, M. (2018). Nostril: A nonsense string evaluator written in Python. <i>Journal of Open Source Software</i>, 3(25), 596, <a href="https://doi.org/10.21105/joss.00596">https://doi.org/10.21105/joss.00596</a>
 </dd>
 </dl>
 
