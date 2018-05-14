@@ -3,9 +3,9 @@ Nostril<img align="right" src=".graphics/nostril.png">
 
 Nostril is the _Nonsense String Evaluator_: a Python module that infers whether a given short string of characters is likely to be random gibberish or something meaningful.
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Python](https://img.shields.io/badge/Python-3.4+-brightgreen.svg)](http://shields.io)
-[![Latest version](https://img.shields.io/badge/Latest_version-1.1.1-green.svg)](http://shields.io)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
+[![Python](https://img.shields.io/badge/Python-3.4+-brightgreen.svg?style=flat-square)](http://shields.io)
+[![Latest release](https://img.shields.io/badge/Latest_release-1.1.1-b44e88.svg?style=flat-square)](http://shields.io)
 [![DOI](http://img.shields.io/badge/DOI-10.22002%20%2F%20D1.935-blue.svg?style=flat-square)](https://data.caltech.edu/records/935)
 [![DOI](http://img.shields.io/badge/JOSS-10.21105%20%2f%20joss.00596-brightgreen.svg?style=flat-square)](https://doi.org/10.21105/joss.00596)
 
