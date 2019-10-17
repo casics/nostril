@@ -36,7 +36,12 @@ with open(path.join(here, 'nostril/__version__.py')) as f:
 # Finally, define our namesake.
 
 setup(
-    name             = version['__title__'].lower(),
+    # We use an alternative name (casics-nostril) on PyPi,
+    # as nostril is already used by https://pypi.org/project/nostril/
+    # Users will have to use pip install casics-nostril,
+    # but it won't change the installed package name (nostril),
+    # which is defined in the packages property.
+    name             = "casics-{}".format(version['__title__'].lower()),
     description      = version['__description__'],
     long_description = readme_markdown,
     long_description_content_type="text/markdown",
