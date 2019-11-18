@@ -30,4 +30,5 @@ Please also use the DOI to **indicate the specific version of Nostril that you u
 other people's ability to reproduce your results. Here are the DOIs for the
 most recent releases:
 
+* Nostril release 1.2.0 &rArr; [10.22002/D1.1313](https://data.caltech.edu/records/1313)
 * Nostril release 1.1.0 &rArr; [10.22002/D1.935](https://data.caltech.edu/records/935)

@@ -5,20 +5,20 @@ Nostril is the _Nonsense String Evaluator_: a Python module that infers whether 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python](https://img.shields.io/badge/Python-3.4+-brightgreen.svg?style=flat-square)](http://shields.io)
-[![Latest release](https://img.shields.io/badge/Latest_release-1.1.1-b44e88.svg?style=flat-square)](http://shields.io)
-[![DOI](http://img.shields.io/badge/DOI-10.22002%20%2F%20D1.935-blue.svg?style=flat-square)](https://data.caltech.edu/records/935)
-[![DOI](http://img.shields.io/badge/JOSS-10.21105%20%2f%20joss.00596-brightgreen.svg?style=flat-square)](https://doi.org/10.21105/joss.00596)
+[![Latest release](https://img.shields.io/github/v/release/casics/nostril.svg?style=flat-square&color=b44e88&label=Latest%20release)](https://github.com/casics/nostril)
+[![DOI](https://img.shields.io/badge/dynamic/json.svg?label=DOI&style=flat-square&colorA=gray&colorB=ff6c0c&query=$.metadata.doi&uri=https://data.caltech.edu/api/record/1313)](https://data.caltech.edu/records/1313)
+[![JOSS DOI](http://img.shields.io/badge/JOSS-10.21105%20%2f%20joss.00596-navy.svg?style=flat-square)](https://doi.org/10.21105/joss.00596)
 
-*Author*:       [Michael Hucka](http://github.com/mhucka)<br>
+*Author*:       [Michael Hucka](http://github.com/mhucka) (ORCID: [0000-0001-9105-5960](https://orcid.org/0000-0001-9105-5960))<br>
 *Code repository*:   [https://github.com/casics/nostril](https://github.com/casics/nostril)<br>
 *License*:      Unless otherwise noted, this content is licensed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
 
 🏁 Recent news and activities
 ------------------------------
 
-_May 2018_: The [JOSS paper](http://joss.theoj.org/papers/10.21105/joss.00596) has been published.  Also, Nostril release 1.1.1 has a citable DOI: [10.22002/D1.935](https://data.caltech.edu/records/935).
+_November 2019_: Release version 1.2.0 changes the license for Nostril to LGPL version 2.1. There are no API or behavioral changes; all changes are limited to documentation strings, the [README](README.md) file, and a new DOI.
 
-_April 2018_: Version 1.1.1 fixes the `requirements.txt` file so that instead of doing exact version comparisons, it only requires minimum versions.  The release also updates the documentation in [docs/explanations](docs/explanations).  Other changes (which were in release 1.1.0) include a fix to `setup.py` to make automatic installation of depencies work properly, updated installation instructions [below](#-installing-nostril), improvements to the [JOSS paper](docs/papers/joss/paper.pdf), a change to the command-line program to use the more conventional `-V` instead of `-v` for printing the version, and internal code refactoring.
+The file [NEWS](NEWS.md) contains a more complete change log that includes information about previous releases.
 
 Table of contents
 -----------------
@@ -80,6 +80,7 @@ Hucka, M. (2018). Nostril: A nonsense string evaluator written in Python. <i>Jou
 
 Please also use the DOI to indicate the specific version you use, to improve other people's ability to reproduce your results:
 
+* Nostril release 1.2.0 &rArr; [10.22002/D1.1313](https://data.caltech.edu/records/1313)
 * Nostril release 1.1.0 &rArr; [10.22002/D1.935](https://data.caltech.edu/records/935)
 
 ✺ Installation instructions
@@ -263,6 +264,6 @@ This material is based upon work supported by the [National Science Foundation](
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.caltech.edu">
-    <img width="100" height="100" src=".graphics/caltech-round.svg">
+    <img width="100" align="top" src=".graphics/caltech-round.png">
   </a>
 </div>
