@@ -258,10 +258,9 @@ Michael Hucka <mhucka@caltech.edu>
 Copyright
 ---------
 
-Copyright (c) 2017 by the California Institute of Technology.  This software
-was developed as part of the CASICS project, the Comprehensive and Automated
-Software Inventory Creation System.  For more, visit http://casics.org.
-
+Copyright (c) 2017-2019 by the California Institute of Technology.  This
+software was developed as part of the CASICS project, the Comprehensive and
+Automated Software Inventory Creation System. For more, visit http://casics.org.
 '''
 
 from collections import defaultdict
