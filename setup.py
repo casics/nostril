@@ -17,6 +17,9 @@ here = path.abspath(path.dirname(__file__))
 with open(path.join(here, 'requirements.txt')) as f:
     reqs = f.read().rstrip().splitlines()
 
+with open("README.md") as f:
+    readme_markdown = f.read()
+
 # The following reads the variables without doing an "import nostril",
 # because the latter will cause the python execution environment to fail if
 # any dependencies are not already installed -- negating most of the reason
@@ -33,9 +36,15 @@ with open(path.join(here, 'nostril/__version__.py')) as f:
 # Finally, define our namesake.
 
 setup(
-    name             = version['__title__'].lower(),
+    # We use an alternative name (casics-nostril) on PyPi,
+    # as nostril is already used by https://pypi.org/project/nostril/
+    # Users will have to use pip install casics-nostril,
+    # but it won't change the installed package name (nostril),
+    # which is defined in the packages property.
+    name             = "casics-{}".format(version['__title__'].lower()),
     description      = version['__description__'],
-    long_description = 'Nostril (Nonsense String Evaluator) implements a heuristic mechanism to infer whether a given word or text string is likely to be meaningful or nonsense.',
+    long_description = readme_markdown,
+    long_description_content_type="text/markdown",
     version          = version['__version__'],
     url              = version['__url__'],
     author           = version['__author__'],
