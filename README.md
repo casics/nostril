@@ -67,7 +67,7 @@ Nostril uses a combination of heuristic rules and a probabilistic assessment.  I
 
 Nostril is reasonably fast: once the module is loaded, on a 4 Ghz Apple OS X 10.12 computer, calling the evaluation function returns a result in 30&ndash;50 microseconds per string on average.
 
-♥️ Please cite the Spiral paper and the version you use
+♥️ Please cite the Nostril paper and the version you use
 ------------------------------------------------------
 
 Article citations are **critical** for academic developers.  If you use Nostril and you publish papers about work that uses Nostril, **please cite the Nostril paper**:
