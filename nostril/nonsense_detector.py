@@ -455,7 +455,7 @@ def _tfidf_score_function(ngram_freq, len_threshold=25, len_penalty_exp=1.365,
     len_threshold = int(len_threshold)
     def score_function(s):
         # We only score alpha characters.
-        s = remove_non_alpha_regex.sub('', text)
+        s = remove_non_alpha_regex.sub('', s)
         # Generate list of n-grams for the given string.
         string_ngrams = ngrams(s, ngram_length)
         # Count up occurrences of each n-gram in the string.
