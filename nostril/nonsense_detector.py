@@ -273,6 +273,7 @@ import sys
 
 # General n-gram functions.
 # .............................................................................
+remove_non_alpha_regex = re.compile('[^a-zA-Z]')
 
 def ngrams(s, n):
     '''Return all n-grams of length 'n' for the given string 's'.'''
@@ -392,8 +393,6 @@ def _ngram_values(string_list, n, readjust_zero_scores=True):
 # When using n-gram scoring, we delete everything other than alpha characters.
 # (This is not used in the simple filters, only in the n-gram method.)
 
-_delchars = str.maketrans('', '', string.punctuation + string.digits + ' ')
-
 def _tfidf_score_function(ngram_freq, len_threshold=25, len_penalty_exp=1.365,
                           repetition_penalty_exp=1.159):
     '''Generate a function (as a closure) that computes a score for a given
@@ -456,7 +455,7 @@ def _tfidf_score_function(ngram_freq, len_threshold=25, len_penalty_exp=1.365,
     len_threshold = int(len_threshold)
     def score_function(s):
         # We only score alpha characters.
-        s = s.translate(_delchars)
+        s = remove_non_alpha_regex.sub('', s)
         # Generate list of n-grams for the given string.
         string_ngrams = ngrams(s, ngram_length)
         # Count up occurrences of each n-gram in the string.
